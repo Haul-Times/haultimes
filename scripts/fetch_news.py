@@ -32,9 +32,15 @@ For each story you get a headline, source and short feed snippet. Return JSON on
   "importance": 1-100
 }
 
-relevant = false if the story is not about freight, trucking, logistics, shipping
-or the people who work in them (for example consumer car news, stock tips,
-sports, or a company press release with no news value).
+relevant = true ONLY if the story matters to the US or Canadian road freight market:
+trucking companies, truck drivers, freight brokers, shippers, truckload/LTL rates
+and capacity, diesel prices, US/Canada border crossings and trade affecting trucks,
+FMCSA/DOT/Transport Canada/provincial rules, truck equipment sold in North America.
+relevant = false for: news centred on other countries (India, Pakistan, UK, Europe,
+Australia, Asia, Africa, etc.) unless it directly affects US/Canada trucking;
+ocean shipping, tankers, rail or air cargo unless trucking is central; stock quote
+pages and stock tips; consumer car news; viral or celebrity stories; gift guides;
+company press releases with no news value.
 
 importance: 90+ = major industry news (big regulation changes, border disruptions,
 large rate swings, major carrier closures or strikes). 50 = routine industry news.
@@ -135,9 +141,43 @@ BIG = ["strike", "shutdown", "closed", "closure", "bankrupt", "bankruptcy", "tar
        "surge", "plunge", "crash", "recall", "emergency"]
 
 
+# Headlines that are clearly not US/Canada trucking news.
+FOREIGN = ["india", "indian", "pakistan", "bangladesh", "sri lanka", "nepal", "philippine", "manila",
+           "malaysia", "singapore", "indonesia", "vietnam", "thailand", "china", "chinese", "japan",
+           "korea", "taiwan", "australia", "aussie", "new zealand", "kiwi", "nigeria", "kenya", "ghana",
+           "south africa", "uganda", "tanzania", "ukraine", "russia", "dnipro", "uk ", "u.k.", "britain",
+           "british", "england", "scotland", "wales", "ireland", "yorkshire", "london", "europe", "eu ",
+           "germany", "france", "spain", "italy", "poland", "netherlands", "dubai", "saudi", "uae",
+           "iran", "israel", "turkey", "egypt", "brazil", "argentina", "chile", "peru", "colombia",
+           "hgv", "lorry", "haulage", "sebi", "nse", "bse", "tse:", ".ns)", "railways", " ioc ",
+           "berjaya", "tasco", "mnre", "arai", "fy27", "fy28", "crore", "lakh", "rupee"]
+JUNK = ["stock price", "stock forecast", "analyst ratings", "seasonal returns", "price target",
+        "shares of", "stock quote", "harbor freight", "christmas gift", "gifts for", "deal of the day",
+        "ho gauge", "model train", "toy ", "lego", "the finger", "viral", "celebrity", "recipe",
+        "horoscope", "tanker", "lpg carrier", "crude carrier", "ship capsizes", "freight ship",
+        "reiterates", "equalweight", "overweight rating", "export stocks", "stocks tied", "stocks investors",
+        "dividend", "earnings call transcript"]
+# Must mention road freight (plain "freight" alone also matches ocean/rail news).
+ROAD = ["truck", "trucking", "trucker", "truckload", "ltl", "less-than-truckload", "fmcsa", "freight broker",
+        "brokerage", "carrier", "fleet", "semi", "18-wheeler", "big rig", "cdl", "diesel", "owner-operator",
+        "dispatcher", "logistics", "shipper", "drayage", "reefer", "flatbed", "dry van", "border crossing",
+        "cbsa", "cbp", "usmca", "cusma", "transport canada", "dot ", "teamsters", "highway", "interstate",
+        "warehouse", "supply chain", "freight rates", "freight market", "freight recession", "spot rate",
+        "fedex freight", "ups freight", "tforce", "old dominion", "j.b. hunt", "knight-swift", "werner",
+        "schneider", "xpo", "saia", "estes", "landstar", "c.h. robinson", "rxo", "uber freight", "ryder",
+        "penske", "kenworth", "peterbilt", "freightliner", "volvo trucks", "mack trucks", "navistar"]
+
+
+def is_relevant(headline, source=""):
+    t = " %s " % headline.lower()
+    if any(w in t for w in FOREIGN) or any(w in t for w in JUNK):
+        return False
+    return any(w in t for w in ROAD)
+
+
 def keyword_story(sid, item):
     text = item["headline"].lower()
-    if not any(w in text for w in TRUCKING):
+    if not is_relevant(item["headline"], item.get("source", "")):
         return None
     category = "other"
     for cat, words in KEYWORDS.items():
@@ -164,6 +204,9 @@ def main():
         print("No ANTHROPIC_API_KEY: adding headlines only (no AI summaries).")
 
     stories = {s["id"]: s for s in load_json("news.json", [])}
+    # Clean out headline-only stories that fail the current filter.
+    for sid in [k for k, v in stories.items() if v.get("ai") is False and not is_relevant(v["title"], v.get("source", ""))]:
+        del stories[sid]
     seen = set(load_json("seen.json", []))
     cutoff = datetime.now(timezone.utc) - timedelta(days=cfg.get("keep_days", 30))
 
@@ -177,6 +220,9 @@ def main():
                 if sid in stories and (stories[sid].get("ai", True) or not use_ai):
                     continue
                 if datetime.fromisoformat(item["published"]) < cutoff:
+                    continue
+                if not is_relevant(item["headline"], item["source"]):
+                    seen.add(sid)
                     continue
                 fresh[sid] = item
         except Exception as e:
