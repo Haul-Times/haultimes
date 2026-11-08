@@ -97,7 +97,7 @@ def topic_art(cat):
 def pic(s):
     if s.get("image"):
         return '<div class="pic"><img src="/%s" alt="" loading="lazy"></div>' % E(s["image"])
-    return '<div class="pic">%s</div>' % topic_art(s["category"])
+    return ""  # no real photo: clean text-only layout, like a newspaper
 
 
 def write(path, content):
@@ -220,6 +220,7 @@ def build_home(stories, border):
     lead = lead[0] if lead else None
     left = take(by_score, 4)
     related = take(sorted(stories, key=when, reverse=True), 2, lambda s: lead and s["category"] == lead["category"]) if lead else []
+    more_latest = take(sorted(stories, key=when, reverse=True), 6) if lead else []
     week = sorted([s for s in stories if hours_old(s) <= 168], key=lambda s: s["importance"], reverse=True)
     top_week = take(week, 5)
 
@@ -245,7 +246,10 @@ def build_home(stories, border):
 <h1 class="h-xl"><a href="{su}">{t}</a></h1>
 {sm}{why}
 <span class="meta">{tm} · via {src}{cm} · <a href="{link}" rel="nofollow noopener" target="_blank">Read full story</a></span>
-{rel}</section>""".format(pic=pic(lead), cu=cat_url(lead["category"]), cl=E(cat_label(lead["category"])), su=story_url(lead),
+{rel}{more}</section>""".format(more=('<section class="lead-more" aria-label="More headlines"><h2 class="sec-title">More headlines</h2>%s</section>' % "".join(
+                          '<article class="lm"><a class="kicker" href="%s">%s</a><h3 class="h-sm"><a href="%s">%s</a></h3><span class="meta">%s · %s</span></article>' % (
+                              cat_url(x["category"]), E(cat_label(x["category"])), story_url(x), E(x["title"]), time_tag(x), E(x["source"])) for x in more_latest)) if more_latest else "",
+                          pic=pic(lead), cu=cat_url(lead["category"]), cl=E(cat_label(lead["category"])), su=story_url(lead),
                           t=E(lead["title"]), sm=('<p class="dek">%s</p>' % E(lead["summary"])) if lead.get("summary") else "", why=why,
                           cm=(' · <a href="%s">Comments</a>' % story_url(lead)) if has_page(lead) and CFG.get("disqus_shortname") else "", tm=time_tag(lead), src=E(lead["source"]),
                           link=E(lead["link"]), rel=('<div class="related">%s</div>' % rel) if rel else "")
