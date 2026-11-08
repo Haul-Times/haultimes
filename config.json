@@ -2,19 +2,18 @@
   "site_name": "HaulTimes",
   "site_url": "https://haultimes.com",
   "tagline": "Freight and trucking news for the US and Canada",
-  "contact_email": "haultimesads@gmail.com",
-
+  "contact_form_key": "",
   "cloudflare_analytics_token": "",
   "google_site_verification": "",
   "disqus_shortname": "",
   "newsletter_form_action": "",
   "show_ad_slots": false,
-
   "ai_model": "claude-haiku-5-5",
   "max_new_stories_per_run": 25,
   "keep_days": 30,
   "top_story_score": 80,
-
+  "facebook_posts_per_day": 6,
+  "facebook_min_score": 70,
   "news_feeds": [
     "https://news.google.com/rss/search?q=trucking+OR+freight+when:1d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=trucking+OR+freight+when:1d&hl=en-CA&gl=CA&ceid=CA:en",

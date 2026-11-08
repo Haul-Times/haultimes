@@ -25,7 +25,7 @@ E = html.escape
 NOW = datetime.now(timezone.utc)
 CFG = load_config()
 BASE = CFG["site_url"].rstrip("/")
-FONTS = ("https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900"
+FONTS = ("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Archivo:wdth,wght@62..125,400..900"
          "&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,500..700"
          "&family=Barlow:wght@400;500;600;700&display=swap")
 MARK = ('<svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="12" fill="#FFB800"/>'
@@ -163,10 +163,10 @@ def header(active, stories):
         ticker = ('<div class="ticker"><div class="wrap"><span class="label">Latest</span>'
                   '<div class="lane"><div class="track">%s%s</div></div></div></div>') % (items, items.replace("<a ", '<a tabindex="-1" aria-hidden="true" '))
     return """<div class="topbar"><div class="wrap"><span>{today} · Updated every 15 minutes</span>
-<nav aria-label="Site"><a href="/rss.xml">RSS</a><a href="/about/#advertise">Advertise</a><a href="/about/">About</a></nav></div></div>
+<nav aria-label="Site"><a href="/rss.xml">RSS</a><a href="/contact/">Advertise</a><a href="/about/">About</a></nav></div></div>
 <header class="masthead"><div class="wrap">
-<a class="logo" href="/" aria-label="{name} home">{mark}<span class="w1">HAUL</span><span class="w2">Times</span></a>
-<span class="tagline">{tag}</span></div></header>
+<a class="logo" href="/" aria-label="{name} home">HaulTimes</a>
+</div></header>
 <nav class="sections" aria-label="Sections"><div class="wrap">{links}</div></nav>
 {ticker}
 """.format(today=E(today), name=E(CFG["site_name"]), mark=MARK, tag=E(CFG["tagline"]), links="".join(links), ticker=ticker)
@@ -174,8 +174,8 @@ def header(active, stories):
 
 def footer(scripts=""):
     return """<footer class="site"><div class="wrap">
-<span><strong style="color:#111418">{n}</strong> · Headlines link to their original publishers. Summaries are written with AI.</span>
-<nav aria-label="Footer"><a href="/about/">About</a><a href="/about/#advertise">Advertise</a><a href="/privacy/">Privacy</a><a href="/rss.xml">RSS</a></nav>
+<span><strong style="color:#111418">{n}</strong> · Freight and trucking news for the US and Canada</span>
+<nav aria-label="Footer"><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/rss.xml">RSS</a></nav>
 </div></footer>
 <script src="/static/site.js" defer></script>{scripts}
 </body></html>""".format(n=E(CFG["site_name"]), scripts=scripts)
@@ -345,7 +345,6 @@ def build_story(s, stories):
 <p class="dek">{sm}</p>{why}
 <div class="source-box"><span>This is a short summary. The full story is published by <strong>{src}</strong>.</span>
 <a class="btn amber" href="{link}" rel="nofollow noopener" target="_blank">Read the full story ›</a></div>
-<p class="note">Summary written with AI from the original headline and description. Check the source for full details.</p>
 {comments}</article>
 <aside>{rel}{ad}{signup}</aside></div></main>""".format(
         cu=cat_url(s["category"]), cl=E(cat_label(s["category"])), t=E(s["title"]), tm=time_tag(s),
@@ -413,19 +412,40 @@ def build_border(border, stories):
 
 def build_static_pages(stories):
     about = """<main class="wrap prose"><h1>About {n}</h1>
-<p>{n} collects freight and trucking news from across the US and Canada in one place, updated every 15 minutes. Each story gets a short summary and a “why it matters” line, with a link to the original publisher for the full article.</p>
-<p>Summaries are written with AI from each story's headline and description, then ranked by how much they matter to carriers, owner-operators, brokers, dispatchers and shippers. Always check the original source for full details.</p>
-<p>Truck border wait times come from official U.S. Customs and Border Protection and Canada Border Services Agency data.</p>
-<h2 id="advertise">Advertise</h2>
-<p>Reach truck drivers, carriers, brokers and shippers across North America. Email <strong>{e}</strong>.</p>
-<h2>Corrections and removals</h2>
-<p>Publishers who want a story removed or corrected can email <strong>{e}</strong>.</p></main>""".format(n=E(CFG["site_name"]), e=E(CFG["contact_email"]))
+<p>{n} brings freight and trucking news from across the US and Canada into one place, updated every 15 minutes, with live truck border wait times.</p>
+<p>Every story links to its original publisher.</p>
+<p>For advertising, corrections or anything else, use our <a href="/contact/">contact form</a>.</p></main>""".format(n=E(CFG["site_name"]))
     write("/about/", head("About", "About HaulTimes, freight and trucking news for the US and Canada.", "/about/") + header("", stories) + about + footer())
+
+    key = CFG.get("contact_form_key", "")
+    if key:
+        form = """<form class="contact" action="https://api.web3forms.com/submit" method="POST">
+<input type="hidden" name="access_key" value="{k}">
+<input type="hidden" name="subject" value="New message from HaulTimes">
+<input type="hidden" name="from_name" value="HaulTimes website">
+<input type="hidden" name="redirect" value="{base}/contact/thanks/">
+<input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+<label for="c-name">Name</label><input id="c-name" name="name" type="text" required autocomplete="name">
+<label for="c-email">Email</label><input id="c-email" name="email" type="email" required autocomplete="email">
+<label for="c-topic">Topic</label><select id="c-topic" name="topic">
+<option>Advertising</option><option>Correction or removal</option><option>News tip</option><option>Other</option></select>
+<label for="c-msg">Message</label><textarea id="c-msg" name="message" rows="6" required></textarea>
+<button class="btn" type="submit">Send message</button>
+</form>""".format(k=E(key), base=E(BASE))
+    else:
+        form = '<p class="note">The contact form is being set up. Please check back soon.</p>'
+    contact = """<main class="wrap prose"><h1>Contact</h1>
+<p>Advertising, corrections, news tips or questions. Send us a message and we'll get back to you.</p>
+{f}</main>""".format(f=form)
+    write("/contact/", head("Contact", "Contact HaulTimes about advertising, corrections or news tips.", "/contact/") + header("", stories) + contact + footer())
+    write("/contact/thanks/", head("Message sent", "Thanks for contacting HaulTimes.", "/contact/thanks/") + header("", stories) +
+          '<main class="wrap prose"><h1>Thanks, your message was sent</h1><p>We\'ll reply as soon as we can. Back to the <a href="/">latest news</a>.</p></main>' + footer())
+
     privacy = """<main class="wrap prose"><h1>Privacy</h1>
-<p>{n} does not ask for your name or account to read the site.</p>
+<p>{n} does not ask for your name or an account to read the site.</p>
 <p>We use privacy-friendly analytics to count visits and popular pages. It does not use cookies or track you across other websites.</p>
-<p>If comments or a newsletter are turned on, those services handle the information you give them under their own privacy policies.</p>
-<p>Questions: <strong>{e}</strong>.</p></main>""".format(n=E(CFG["site_name"]), e=E(CFG["contact_email"]))
+<p>Messages sent through the contact form are used only to reply to you.</p>
+<p>Questions: use our <a href="/contact/">contact form</a>.</p></main>""".format(n=E(CFG["site_name"]))
     write("/privacy/", head("Privacy", "HaulTimes privacy policy.", "/privacy/") + header("", stories) + privacy + footer())
     write("/404.html", head("Page not found", "Page not found.", "/404.html") + header("", stories) +
           '<main class="wrap prose"><h1>Page not found</h1><p>That story may have expired. Head back to the <a href="/">latest news</a>.</p></main>' + footer())
@@ -454,7 +474,20 @@ def build_feeds(stories):
     rss(newest, "rss.xml", CFG["site_name"])
     top = [s for s in newest if s["importance"] >= CFG.get("top_story_score", 80)]
     rss(top, "top.xml", CFG["site_name"] + " Top Stories")
-    urls = ["/", "/border-wait-times/", "/about/"] + ["/topic/%s/" % v[1] for v in CATEGORIES.values()] + [story_url(s) for s in newest if has_page(s)]
+
+    # facebook.xml: the few biggest stories of each day, for automatic Facebook posts.
+    # A story enters once and stays, so the auto-poster never posts it twice.
+    per_day = CFG.get("facebook_posts_per_day", 6)
+    min_score = CFG.get("facebook_min_score", 70)
+    by_day = {}
+    for s in newest:
+        if s["importance"] >= min_score and hours_old(s) <= 72:
+            by_day.setdefault(when(s).astimezone(EASTERN).date(), []).append(s)
+    fb = []
+    for day, items in by_day.items():
+        fb += sorted(items, key=lambda x: x["importance"], reverse=True)[:per_day]
+    rss(sorted(fb, key=when, reverse=True), "facebook.xml", CFG["site_name"])
+    urls = ["/", "/border-wait-times/", "/about/", "/contact/"] + ["/topic/%s/" % v[1] for v in CATEGORIES.values()] + [story_url(s) for s in newest if has_page(s)]
     sm = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">%s</urlset>' % "".join(
         "<url><loc>%s</loc></url>" % E(BASE + u) for u in urls)
     write("/sitemap.xml", sm)

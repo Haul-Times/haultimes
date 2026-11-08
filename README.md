@@ -49,6 +49,8 @@ Until the key is added, the site still runs and shows border wait times, but no 
 | `keep_days` | How long stories stay on the site. |
 | `top_story_score` | Stories scoring at least this go into `top.xml`, the feed for Facebook auto-posting. |
 | `news_feeds` | Where headlines come from. Add any trucking site's RSS feed. |
+| `contact_form_key` | Web3Forms access key so the contact form emails you (get one free at web3forms.com). |
+| `facebook_posts_per_day` | How many top stories per day go into facebook.xml for auto-posting. |
 | `disqus_shortname` | Turns on comments under each story once you create a free Disqus site. |
 | `newsletter_form_action` | Turns on the email signup box once you have a newsletter service form address. |
 | `show_ad_slots` | Set to `true` when you have ads to place. |
