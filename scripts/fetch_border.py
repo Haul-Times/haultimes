@@ -83,6 +83,9 @@ def fetch_us():
     except Exception as e:
         print("CBP feed failed:", e)
         return out
+    if isinstance(data, list) and data:
+        sample = next((p for p in data if "canad" in str(p.get("border", "")).lower()), data[0])
+        print("CBP sample:", json.dumps({k: sample.get(k) for k in ("port_name", "crossing_name", "border", "commercial_vehicle_lanes")})[:400])
     for p in data if isinstance(data, list) else []:
         if "canad" not in str(p.get("border", "")).lower():
             continue
@@ -115,7 +118,15 @@ def fetch_ca():
     except Exception as e:
         print("CBSA feed failed:", e)
         return rows
-    reader = csv.reader(io.StringIO(raw))
+    lines = [l for l in raw.splitlines() if l.strip()]
+    if not lines:
+        return rows
+    first = lines[0]
+    delim = ";" if first.count(";") > first.count(",") else ("\t" if first.count("\t") > first.count(",") else ",")
+    print("CBSA header:", first[:200], "| delimiter:", repr(delim))
+    if len(lines) > 1:
+        print("CBSA sample row:", lines[1][:200])
+    reader = csv.reader(io.StringIO("\n".join(lines)), delimiter=delim)
     header = None
     for r in reader:
         if not r:
