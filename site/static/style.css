@@ -177,3 +177,12 @@ footer.site nav { display: flex; flex-wrap: wrap; gap: 18px; }
   .stats > div { padding-left: 0; border-right: 0; }
   .logo .w1 { font-size: 40px; } .logo .w2 { font-size: 38px; } .logo svg { width: 40px; height: 40px; }
 }
+
+/* Text-only stories (no photo yet) */
+.row { align-items: flex-start; }
+.row .txt h2 { font-size: 21px; }
+.col-lead .h-xl { font-size: clamp(34px, 4.6vw, 52px); }
+.col-lead { padding-top: 4px; }
+.col-lead .kicker.hot { font-size: 13px; }
+.lead-more { margin-top: 14px; }
+.lead-more .lm { padding: 12px 0; border-bottom: 1px solid var(--rule-soft); display: flex; flex-direction: column; gap: 4px; }
