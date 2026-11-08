@@ -1,0 +1,57 @@
+name: Update HaulTimes
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["scripts/**", "static/**", "images/**", "config.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-site
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Border wait times
+        run: python scripts/fetch_border.py
+        continue-on-error: true
+
+      - name: News
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/fetch_news.py
+        continue-on-error: true
+
+      - name: Build pages
+        run: python scripts/build_site.py
+
+      - name: Save changes
+        run: |
+          git config user.name "HaulTimes"
+          git config user.email "updates@haultimes.com"
+          git add -A data site
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Update news and border waits" --quiet
+            git pull --rebase --quiet || true
+            git push --quiet
+          fi
