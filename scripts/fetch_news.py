@@ -150,7 +150,15 @@ FOREIGN = ["india", "indian", "pakistan", "bangladesh", "sri lanka", "nepal", "p
            "germany", "france", "spain", "italy", "poland", "netherlands", "dubai", "saudi", "uae",
            "iran", "israel", "turkey", "egypt", "brazil", "argentina", "chile", "peru", "colombia",
            "hgv", "lorry", "haulage", "sebi", "nse", "bse", "tse:", ".ns)", "railways", " ioc ",
-           "berjaya", "tasco", "mnre", "arai", "fy27", "fy28", "crore", "lakh", "rupee"]
+           "berjaya", "tasco", "mnre", "arai", "fy27", "fy28", "crore", "lakh", "rupee",
+           "lagos", "lastma", "abuja", "nairobi", "accra", "johannesburg", "cairo", "karachi", "lahore",
+           "islamabad", "delhi", "mumbai", "chennai", "kolkata", "bengaluru", "bangalore", "hyderabad",
+           "dhaka", "colombo", "kathmandu", "jakarta", "kuala lumpur", "bangkok", "hanoi", "beijing",
+           "shanghai", "shenzhen", "hong kong", "tokyo", "seoul", "sydney", "melbourne", "brisbane",
+           "perth", "auckland", "dublin", "manchester", "birmingham", "glasgow", "paris", "berlin",
+           "madrid", "rome", "warsaw", "kyiv", "moscow", "istanbul", "riyadh", "tehran", "sao paulo",
+           "nigeria", "nigerian", "kenyan", "pakistani", "bangladeshi", "filipino", "malaysian",
+           "australian", "european", "german", "french", "polish"]
 JUNK = ["stock price", "stock forecast", "analyst ratings", "seasonal returns", "price target",
         "shares of", "stock quote", "harbor freight", "christmas gift", "gifts for", "deal of the day",
         "ho gauge", "model train", "toy ", "lego", "the finger", "viral", "celebrity", "recipe",
