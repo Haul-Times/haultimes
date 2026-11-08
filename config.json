@@ -12,7 +12,7 @@
   "max_new_stories_per_run": 25,
   "keep_days": 30,
   "top_story_score": 80,
-  "facebook_posts_per_day": 6,
+  "facebook_posts_per_day": 15,
   "facebook_min_score": 70,
   "news_feeds": [
     "https://news.google.com/rss/search?q=trucking+OR+freight+when:1d&hl=en-US&gl=US&ceid=US:en",
