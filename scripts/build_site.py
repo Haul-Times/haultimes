@@ -44,16 +44,19 @@ def _asset_version():
 ASSET_VER = _asset_version()
 
 
-def _og_version():
+def _og_version(name="og.png"):
     import hashlib
     try:
-        with open(os.path.join(STATIC, "og.png"), "rb") as f:
+        with open(os.path.join(STATIC, name), "rb") as f:
             return hashlib.sha1(f.read()).hexdigest()[:8]
     except OSError:
         return "1"
 
 
 OG_VER = _og_version()
+# Small square picture for story links: Facebook shows it as a thumbnail beside the
+# headline instead of a full-width banner on every post.
+STORY_IMG = BASE + "/static/og-square.png?v=" + _og_version("og-square.png")
 FONTS = ("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Archivo:wdth,wght@62..125,400..900"
          "&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,500..700"
          "&family=Barlow:wght@400;500;600;700&display=swap")
@@ -403,7 +406,7 @@ def build_story(s, stories):
     else:
         body_text = ('<p class="note">HaulTimes lists this headline and links to the original reporting. '
                      'The story was reported by %s, not by HaulTimes.</p>' % pub)
-    img = BASE + "/" + s["image"] if s.get("image") else None
+    img = BASE + "/" + s["image"] if s.get("image") else STORY_IMG
     body = """<main class="wrap"><div class="story"><article id="story-{sid}">
 <a class="kicker" href="{cu}">{cl}</a>
 <h1 class="h-xl">{t}</h1>
