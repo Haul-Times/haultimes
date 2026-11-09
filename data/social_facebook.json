@@ -107,7 +107,7 @@
    "source": "Heavy Duty Trucking",
    "dest": "https://haultimes.com/story/brake-problems-sideline-15-of-inspected-trucks-37436ea238/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=37436ea238",
    "caption": "Brake Problems Sideline 15% of Inspected Trucks.\n\nReported by Heavy Duty Trucking. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T01:23:04.452152+00:00",
    "published": "2026-11-09T01:21:13+00:00",
    "score": 61,
@@ -235,7 +235,7 @@
   }
  ],
  "decided": {
-  "37436ea238": "queued|importance 61 (threshold 60), Industry, trade publication",
+  "37436ea238": "expired|stale before a slot opened (published 12h ago)",
   "3568f5d719": "skipped|minor item (event) or low-quality source",
   "50e6a52f36": "skipped|importance 57 is below this platform's threshold (60)",
   "2c5252c8e2": "skipped|minor item (news) or low-quality source",
@@ -256,7 +256,11 @@
   "31b42eeab7": "skipped|minor item (announcement) or low-quality source",
   "9d5d413368": "skipped|importance 45 is below this platform's threshold (65)",
   "6178f00440": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
-  "f295ec745c": "skipped|importance 50 is below this platform's threshold (65)"
+  "f295ec745c": "skipped|importance 50 is below this platform's threshold (65)",
+  "3b0436e4df": "skipped|importance 61 is below this platform's threshold (65)",
+  "4cf0991dbf": "skipped|importance 55 is below this platform's threshold (65)",
+  "231879e853": "skipped|importance 55 is below this platform's threshold (65)",
+  "c8dc5c87cb": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -433,6 +437,41 @@
    "title": "Opinion | Driverless trucks will take the jobs truckers don’t want",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T13:44:42.932439+00:00",
+   "story_id": "37436ea238",
+   "title": "Brake Problems Sideline 15% of Inspected Trucks",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-09T13:44:42.932439+00:00",
+   "story_id": "3b0436e4df",
+   "title": "BNSF Q3 earnings climb 19.3% as rail freight volumes rise",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T13:44:42.932439+00:00",
+   "story_id": "4cf0991dbf",
+   "title": "Motive’s new President on how its hardware puts it ahead in physical AI",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T13:44:42.932439+00:00",
+   "story_id": "231879e853",
+   "title": "FedEx Freight eyes 2027 growth on renewals and a January rate hike",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T13:44:42.932439+00:00",
+   "story_id": "c8dc5c87cb",
+   "title": "Mexican truckers lift blockades but keep pressure on government over highway crime",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ]
 }
