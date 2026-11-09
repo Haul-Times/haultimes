@@ -260,7 +260,10 @@
   "3b0436e4df": "skipped|importance 61 is below this platform's threshold (65)",
   "4cf0991dbf": "skipped|importance 55 is below this platform's threshold (65)",
   "231879e853": "skipped|importance 55 is below this platform's threshold (65)",
-  "c8dc5c87cb": "skipped|importance 45 is below this platform's threshold (65)"
+  "c8dc5c87cb": "skipped|importance 45 is below this platform's threshold (65)",
+  "47861765f0": "skipped|importance 55 is below this platform's threshold (65)",
+  "c973121cb6": "skipped|importance 55 is below this platform's threshold (65)",
+  "8d8f5f6881": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -470,6 +473,27 @@
    "at": "2026-11-09T13:44:42.932439+00:00",
    "story_id": "c8dc5c87cb",
    "title": "Mexican truckers lift blockades but keep pressure on government over highway crime",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T14:40:32.172571+00:00",
+   "story_id": "47861765f0",
+   "title": "Clark: What fleets should know about autonomous trucking",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T14:40:32.172571+00:00",
+   "story_id": "c973121cb6",
+   "title": "Latam Airlines dusts off Covid playbook to move cargo in passenger cabin",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T14:40:32.172571+00:00",
+   "story_id": "8d8f5f6881",
+   "title": "How Hemut is using Confluent to automate trucking’s back office",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
