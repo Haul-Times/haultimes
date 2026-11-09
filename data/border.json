@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T03:34:10.778963+00:00",
- "hour_now": 22,
+ "updated": "2026-11-09T04:44:09.665017+00:00",
+ "hour_now": 23,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -12,9 +12,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "3",
+    "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -47,7 +47,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -73,7 +73,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -89,13 +89,13 @@
     "fast_wait": 0,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 21:54 EST"
+    "updated": "2026-11-08 22:53 EST"
    },
    "usual": {
     "south": [
@@ -122,7 +122,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -148,7 +148,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -164,13 +164,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 21:52 EST"
+    "updated": "2026-11-08 23:15 EST"
    },
    "usual": {
     "south": [
@@ -197,7 +197,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -223,7 +223,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 10:27 pm EST",
+    "status": "no delay",
+    "updated": "At 11:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 6,
-    "status": "6 minutes",
-    "updated": "2026-11-08 22:20 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-08 23:20 EST"
    },
    "usual": {
     "south": [
@@ -272,7 +272,7 @@
      0,
      4,
      11,
-     null
+     0
     ],
     "north": [
      null,
@@ -298,7 +298,7 @@
      4,
      5,
      6,
-     null
+     3
     ]
    },
    "best_south": "Building history",
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:27 pm EST",
+    "updated": "At 11:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 22:20 EST"
+    "updated": "2026-11-08 23:20 EST"
    },
    "usual": {
     "south": [
@@ -347,7 +347,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -373,7 +373,7 @@
      1,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -422,7 +422,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -448,7 +448,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 21:35 EST"
+    "updated": "2026-11-08 23:15 EST"
    },
    "usual": {
     "south": [
@@ -497,7 +497,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -523,7 +523,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -572,7 +572,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -598,7 +598,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm CST",
+    "updated": "At 11:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -647,7 +647,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -673,7 +673,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -689,13 +689,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 21:15 EST"
+    "updated": "2026-11-08 23:15 EST"
    },
    "usual": {
     "south": [
@@ -722,7 +722,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -748,7 +748,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 21:15 EST"
+    "updated": "2026-11-08 23:15 EST"
    },
    "usual": {
     "south": [
@@ -797,7 +797,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -823,7 +823,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -872,7 +872,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -898,7 +898,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -947,7 +947,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -973,7 +973,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "22:31:00",
+    "updated": "23:41:09",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-08 22:15 AST"
+    "updated": "2026-11-09 00:00 AST"
    },
    "usual": {
     "south": [
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 pm CST",
+    "updated": "At 10:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1097,7 +1097,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -1123,7 +1123,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 20:15 CST"
+    "updated": "2026-11-08 22:15 CST"
    },
    "usual": {
     "south": [
@@ -1191,7 +1191,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -1207,13 +1207,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm MST",
+    "updated": "At 9:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 20:15 MDT"
+    "updated": "2026-11-08 22:15 MDT"
    },
    "usual": {
     "south": [
@@ -1240,7 +1240,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -1266,7 +1266,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -1280,15 +1280,15 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "3",
+    "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 pm PST",
+    "updated": "At 8:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-08 20:20 PDT"
+    "updated": "2026-11-08 21:20 PDT"
    },
    "usual": {
     "south": [
@@ -1315,7 +1315,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
@@ -1341,7 +1341,7 @@
      24,
      9,
      5,
-     null
+     5
     ]
    },
    "best_south": "Building history",
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": null,
     "status": "Closed",
-    "updated": "2026-11-08 20:20 PDT"
+    "updated": "2026-11-08 21:20 PDT"
    },
    "usual": {
     "south": [
@@ -1390,7 +1390,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      null,
