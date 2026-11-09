@@ -195,7 +195,8 @@
   "5d783a915f": "skipped|importance 57 is below this platform's threshold (65)",
   "25da25e64e": "held|held",
   "9da9b41d19": "expired|stale before a slot opened (published 13h ago)",
-  "2f7718d073": "queued|importance 73 (threshold 65), Regulations, trade publication"
+  "2f7718d073": "queued|importance 73 (threshold 65), Regulations, trade publication",
+  "c3587a91c0": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -309,6 +310,13 @@
    "title": "FMCSA’s New Complaint Platform Makes It Easier to Report Trucking Safety Concerns",
    "action": "queued",
    "reason": "importance 73 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-09T08:15:46.905950+00:00",
+   "story_id": "c3587a91c0",
+   "title": "Transportation Department Removes Hundreds More Dangerous Truckers Under Operation Highway Shield",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ]
 }
