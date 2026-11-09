@@ -128,11 +128,19 @@
   }
  },
  "paused": null,
- "account": {},
+ "account": {
+  "name": "HaulTimes",
+  "checked_at": "2026-11-09T02:07:29.309184+00:00",
+  "checked_fp": "f5aeea0b7571"
+ },
  "log": [
   {
    "at": "2026-11-09T01:04:27.965045+00:00",
    "msg": "dry run: would post 5bc4151dee"
+  },
+  {
+   "at": "2026-11-09T02:07:29.309184+00:00",
+   "msg": "credentials OK: connected to HaulTimes"
   }
  ],
  "decided": {
