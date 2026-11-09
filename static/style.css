@@ -223,6 +223,10 @@ form.contact .hp { position: absolute; left: -9999px; }
   .row { padding: 14px 0; }
   .ranked li::before { font-size: 24px; flex-basis: 20px; }
   .ranked a { font-size: 15px; }
+  .story .h-xl { font-size: 26px; }
+  .story article { gap: 10px; }
+  .source-box { padding: 12px; }
+  .source-box .btn { width: 100%; text-align: center; }
 }
 
 /* Press release / company announcement tag */
