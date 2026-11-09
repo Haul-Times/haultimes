@@ -47,11 +47,15 @@ PLATFORMS = ("facebook", "x")
 GRAPH = "https://graph.facebook.com/v25.0"
 XAPI = "https://api.x.com/2"
 SETTINGS_FILE = os.path.join(ROOT, "social.json")
+# No daily target or maximum: every story that passes the checks is queued and posted,
+# one at a time, with minimum spacing. Spacing values are test settings, not platform limits.
 DEFAULTS = {
-    "facebook": {"mode": "dry_run", "max_per_day": 4, "min_gap_minutes": 180, "hours": [7, 21], "min_score": 60,
-                 "max_age_hours": 18},
-    "x": {"mode": "dry_run", "max_per_day": 6, "min_gap_minutes": 90, "hours": [6, 22], "min_score": 60,
-          "max_age_hours": 12},
+    "facebook": {"mode": "dry_run", "min_gap_minutes": 90, "hours": [7, 21], "min_score": 70,
+                 "max_age_hours": 12, "topic_gap_hours": 4, "breaking_score": 85, "breaking_max_age_hours": 3,
+                 "breaking_min_gap_minutes": 10},
+    "x": {"mode": "dry_run", "min_gap_minutes": 30, "hours": [6, 22], "min_score": 60,
+          "max_age_hours": 8, "topic_gap_hours": 0, "breaking_score": 85, "breaking_max_age_hours": 3,
+                 "breaking_min_gap_minutes": 10},
 }
 MAX_ATTEMPTS = 5
 
@@ -67,7 +71,7 @@ def load_settings(path=None):
     out = {}
     for p in PLATFORMS:
         cfg = dict(DEFAULTS[p])
-        cfg.update({k: v for k, v in (raw.get(p) or {}).items() if k in DEFAULTS[p]})
+        cfg.update({k: v for k, v in (raw.get(p) or {}).items() if k in DEFAULTS[p]})  # old "max_per_day" is ignored
         if cfg["mode"] not in ("off", "dry_run", "live"):
             cfg["mode"] = "dry_run"
         cfg["skip"] = [x for x in (raw.get("skip") or {}).get(p, []) if isinstance(x, str)]
@@ -312,57 +316,131 @@ def why_not(s, cfg, now):
     if set(s.get("labels", [])) & {"Press release", "Sponsored", "Company announcement"}:
         return "press release / company announcement"
     if s.get("importance", 0) < cfg["min_score"] and not s.get("pinned"):
-        return "below the importance threshold"
+        return "importance %d is below this platform's threshold (%d)" % (s.get("importance", 0), cfg["min_score"])
     if hours_old(s, now) > cfg["max_age_hours"]:
-        return "too old to post as news"
+        return "too old to post as news (%.0fh)" % hours_old(s, now)
     return None
 
 
 def new_state():
-    return {"items": {}, "paused": None, "account": {}, "log": []}
+    return {"items": {}, "paused": None, "account": {}, "log": [], "decisions": [], "decided": {}}
 
 
 def log(st, now, msg):
     st["log"] = (st.get("log", []) + [{"at": now.isoformat(), "msg": msg}])[-200:]
 
 
+def decide(st, now, sid, title, action, reason):
+    """Record why a story was queued, posted, skipped, merged or expired (once per change)."""
+    decided = st.setdefault("decided", {})
+    key = "%s|%s" % (action, reason.split(":")[0])
+    if decided.get(sid) == key:
+        return
+    decided[sid] = key
+    st["decisions"] = (st.get("decisions", []) + [{"at": now.isoformat(), "story_id": sid, "title": title[:140],
+                                                    "action": action, "reason": reason}])[-1500:]
+
+
+def strength(s):
+    """Which report of an event to keep: most credible source, then most important, then the original (earliest)."""
+    return (-editorial.source_tier(s.get("source")), s.get("importance", s.get("score", 0)),
+            -datetime.fromisoformat(s["published"]).timestamp())
+
+
+def corroboration(s, stories):
+    """Other outlets reporting the same event (the editorial rules folded them in as duplicates)."""
+    return len({x.get("source") for x in stories if x.get("dup_of") == s["id"] and x.get("source") != s.get("source")})
+
+
+def breaking_reason(s, stories, cfg, now):
+    """Verified, significant, and new: may jump ahead of routine posts and outside posting hours."""
+    if s.get("importance", 0) < cfg["breaking_score"] or hours_old(s, now) > cfg["breaking_max_age_hours"]:
+        return None
+    if s.get("kind", "news") not in ("news", "disruption"):
+        return None
+    others = corroboration(s, stories)
+    if editorial.source_tier(s.get("source")) == 1:
+        return "breaking: importance %d, reported by a trade publication of record" % s["importance"]
+    if others >= 1:
+        return "breaking: importance %d, confirmed by %d other outlet%s" % (s["importance"], others, "" if others == 1 else "s")
+    return None
+
+
+def select_reason(s, cfg):
+    tier = editorial.source_tier(s.get("source"))
+    why = "importance %d (threshold %d), %s, %s" % (s.get("importance", 0), cfg["min_score"],
+                                                    CATEGORIES.get(s.get("category"), ("Industry",))[0],
+                                                    {1: "trade publication", 2: "established outlet", 3: "local/other outlet"}.get(tier, "source"))
+    if s.get("followup_of"):
+        why += ", follow-up with a new development"
+    return why
+
+
+def _done(r):
+    return r["status"] in ("posting", "uncertain", "posted", "dry_run")
+
+
 def queue_new(platform, stories, cfg, st, now, site_dir):
     items = st["items"]
-    url_keys = {r.get("url_key") for r in items.values()}
-    recent = [r for r in items.values() if r["status"] in ("queued", "posting", "uncertain", "posted", "dry_run")
-              and (now - datetime.fromisoformat(r["created_at"])).total_seconds() < 72 * 3600]
+    recent = lambda: [r for r in items.values() if (_done(r) or r["status"] == "queued")
+                      and (now - datetime.fromisoformat(r["created_at"])).total_seconds() < 72 * 3600]
+    url_keys = {r.get("url_key"): r for r in items.values() if _done(r) or r["status"] == "queued"}
+    by_id = {x["id"]: x for x in stories}
     added = 0
-    by_rank = sorted(editorial.eligible(stories), key=lambda s: editorial.rank_score(s, now), reverse=True)
-    for s in by_rank:
-        if s["id"] in items:
+    for s in sorted(editorial.eligible(stories), key=lambda s: editorial.rank_score(s, now), reverse=True):
+        sid = s["id"]
+        if sid in items:
             continue
-        forced = s["id"] in cfg["publish_now"]
+        forced = sid in cfg["publish_now"]
+        title = s.get("orig_title") or s["title"]
         reason = why_not(s, cfg, now)
         if reason and not forced:
+            if hours_old(s, now) <= cfg["max_age_hours"]:
+                decide(st, now, sid, title, "skipped", reason)
             continue
         key = s.get("url_key") or editorial.canonical_url(s.get("link"))
         if key and key in url_keys:
+            decide(st, now, sid, title, "merged", "same article as %s" % url_keys[key]["story_id"])
             continue
-        if not s.get("followup_of") and any(similar(s.get("orig_title") or s["title"], r["title"]) for r in recent):
-            continue
+        match = next((r for r in recent() if similar(title, r["title"])), None)
+        if match and _done(match):
+            if not s.get("followup_of"):
+                decide(st, now, sid, title, "merged", "same event already posted: %s" % match["title"][:80])
+                continue
+        elif match:  # same event is waiting in the queue: keep the stronger report
+            other = by_id.get(match["story_id"])
+            if s.get("followup_of"):
+                match["status"] = "merged"
+                decide(st, now, match["story_id"], match["title"], "merged",
+                       "replaced by a follow-up with a new development: %s" % title[:80])
+            elif other and strength(s) > strength(other):
+                match["status"] = "merged"
+                decide(st, now, match["story_id"], match["title"], "merged",
+                       "replaced by a stronger report from %s" % s["source"])
+            else:
+                decide(st, now, sid, title, "merged", "same event already queued from %s" % match["source"])
+                continue
         problem = page_problem(s, site_dir)
         if problem:
+            decide(st, now, sid, title, "skipped", problem)
             continue
-        rec = {"story_id": s["id"], "title": s.get("orig_title") or s["title"], "url_key": key,
+        rec = {"story_id": sid, "title": title, "url_key": key, "category": s.get("category", "other"),
                "source": s["source"], "dest": dest_url(s, platform), "caption": caption_for(platform, s),
                "status": "queued", "created_at": now.isoformat(), "published": s["published"],
                "score": s.get("importance", 0), "attempts": 0, "errors": [], "post_id": None, "posted_at": None,
-               "next_attempt_at": None, "preview": preview_meta(s, site_dir)}
-        items[s["id"]] = rec
-        url_keys.add(key)
-        recent.append(rec)
+               "next_attempt_at": None, "preview": preview_meta(s, site_dir),
+               "reason": "posted by editor request" if forced else select_reason(s, cfg)}
+        items[sid] = rec
+        url_keys[key] = rec
         added += 1
+        decide(st, now, sid, title, "queued", rec["reason"])
     return added
 
 
 def refresh_queue(platform, stories, cfg, st, now):
-    """Skip list, caption edits, and stories that went stale or were hidden since they were queued."""
+    """Recheck everything still waiting: skip list, stale, superseded, redundant; refresh captions and priority."""
     by_id = {s["id"]: s for s in stories}
+    done = [r for r in st["items"].values() if _done(r) and r.get("posted_at")]
     for sid, r in st["items"].items():
         if r["status"] != "queued":
             continue
@@ -370,45 +448,93 @@ def refresh_queue(platform, stories, cfg, st, now):
         if sid in cfg["skip"]:
             r["status"] = "skipped"
             r["errors"].append({"at": now.isoformat(), "msg": "skipped by editor"})
+            decide(st, now, sid, r["title"], "skipped", "skipped by editor")
             continue
         if s is None or s.get("status") != editorial.SHOWN:
-            r["status"] = "skipped"
-            r["errors"].append({"at": now.isoformat(), "msg": "story no longer on the site"})
+            if s is not None and s.get("status") == "duplicate":
+                stronger = by_id.get(s.get("dup_of"), {})
+                r["status"] = "merged"
+                decide(st, now, sid, r["title"], "merged", "superseded by a stronger report: %s (%s)" % (
+                    (stronger.get("title") or "?")[:80], stronger.get("source", "?")))
+            else:
+                r["status"] = "skipped"
+                decide(st, now, sid, r["title"], "skipped", "no longer on the site")
             continue
         if sid not in cfg["publish_now"] and hours_old(s, now) > cfg["max_age_hours"]:
             r["status"] = "expired"
+            decide(st, now, sid, r["title"], "expired", "stale before a slot opened (published %.0fh ago)" % hours_old(s, now))
             continue
+        later = [d for d in done if datetime.fromisoformat(d["posted_at"]) > datetime.fromisoformat(r["created_at"])
+                 and similar(r["title"], d["title"])]
+        if later and not s.get("followup_of"):
+            r["status"] = "skipped"
+            decide(st, now, sid, r["title"], "skipped", "redundant: same event already posted (%s)" % later[0]["story_id"])
+            continue
+        r["score"] = s.get("importance", r["score"])
+        r["breaking"] = breaking_reason(s, stories, cfg, now)
         r["caption"] = caption_for(platform, s, cfg["captions"].get(sid))
         r["edited"] = sid in cfg["captions"]
 
 
-def slot_open(cfg, st, now):
-    """Within posting hours, under the daily cap, and far enough from the last post?"""
+def slot_open(cfg, st, now, breaking=False):
+    """Inside posting hours (breaking news may go any time) and far enough from the last post?"""
     local = now.astimezone(EASTERN)
     start, end = cfg["hours"]
-    if not (start <= local.hour < end):
+    if not breaking and not (start <= local.hour < end):
         return False, "outside posting hours"
-    done = [r for r in st["items"].values() if r.get("posted_at") and r["status"] in ("posted", "dry_run", "posting", "uncertain")]
-    today = [r for r in done if datetime.fromisoformat(r["posted_at"]).astimezone(EASTERN).date() == local.date()]
-    if len(today) >= cfg["max_per_day"]:
-        return False, "daily limit reached"
+    done = [r for r in st["items"].values() if r.get("posted_at") and _done(r)]
+    gap = cfg.get("breaking_min_gap_minutes", 10) if breaking else cfg["min_gap_minutes"]
     if done:
         last = max(datetime.fromisoformat(r["posted_at"]) for r in done)
-        if now - last < timedelta(minutes=cfg["min_gap_minutes"]):
-            return False, "too soon after the last post"
+        if now - last < timedelta(minutes=gap):
+            return False, "waiting for minimum spacing (%d min)" % gap
     return True, ""
 
 
-def next_item(cfg, st, now, forced_only=False):
+def _rank(r, now):
+    return (r["score"] - min(40, (now - datetime.fromisoformat(r["published"])).total_seconds() / 3600 * 0.6), r["published"])
+
+
+def next_item(cfg, st, now, open_routine=True, open_breaking=None, platform="x"):
+    """Editor 'publish now' first, then verified breaking news, then routine stories by importance and freshness."""
+    if open_breaking is None:
+        open_breaking = open_routine
     ready = [r for r in st["items"].values() if r["status"] == "queued"
              and (not r.get("next_attempt_at") or datetime.fromisoformat(r["next_attempt_at"]) <= now)]
     forced = [r for r in ready if r["story_id"] in cfg["publish_now"]]
     if forced:
         return forced[0]
-    if forced_only or not ready:
+    breaking = [r for r in ready if r.get("breaking")]
+    if breaking and open_breaking:
+        return max(breaking, key=lambda r: _rank(r, now))
+    if not open_routine:
         return None
-    return max(ready, key=lambda r: (r["score"] - min(40, (now - datetime.fromisoformat(r["published"])).total_seconds() / 3600 * 0.6),
-                                     r["published"]))
+    gap = cfg.get("topic_gap_hours") or 0
+    recent_cats = {r.get("category") for r in st["items"].values() if _done(r) and r.get("posted_at")
+                   and now - datetime.fromisoformat(r["posted_at"]) < timedelta(hours=gap)} if gap else set()
+    for r in sorted(ready, key=lambda r: _rank(r, now), reverse=True):
+        if r.get("category") in recent_cats and r["score"] < cfg["min_score"] + 15:
+            decide(st, now, r["story_id"], r["title"], "held",
+                   "held: %s already covered %s in the last %dh" % (platform.capitalize(), CATEGORIES.get(r.get("category"), ("this topic",))[0], gap))
+            continue
+        return r
+    return None
+
+
+def post_reason(r, now):
+    wait = (now - datetime.fromisoformat(r["created_at"])).total_seconds() / 60
+    return "%s; waited %d min in queue" % (r.get("breaking") or r.get("reason", "selected"), wait)
+
+
+def frequency(st, days=14, now=None):
+    """Posts per day (UTC, matching Cloudflare's daily numbers), for comparing with traffic."""
+    out = {}
+    for r in st["items"].values():
+        if r.get("posted_at") and r["status"] in ("posted", "dry_run"):
+            d = datetime.fromisoformat(r["posted_at"]).astimezone(timezone.utc).date().isoformat()  # UTC, like Cloudflare
+            out.setdefault(d, {"posted": 0, "dry_run": 0})
+            out[d]["posted" if r["status"] == "posted" else "dry_run"] += 1
+    return dict(sorted(out.items())[-days:])
 
 
 # ------------------------------------------------------------------ API clients
@@ -619,16 +745,18 @@ def run_platform(platform, stories, cfg, st, now, site_dir, client=None, secret_
     """Queue, refresh, and (in live mode) publish at most one post. Returns a short status line."""
     if cfg["mode"] == "off":
         return "off"
+    refresh_queue(platform, stories, cfg, st, now)
     queue_new(platform, stories, cfg, st, now, site_dir)
     refresh_queue(platform, stories, cfg, st, now)
-    forced_waiting = any(r["status"] == "queued" and r["story_id"] in cfg["publish_now"] for r in st["items"].values())
 
     if cfg["mode"] == "dry_run":
         ok, why = slot_open(cfg, st, now)
-        r = next_item(cfg, st, now, forced_only=not ok)
+        okb, _ = slot_open(cfg, st, now, breaking=True)
+        r = next_item(cfg, st, now, ok, okb, platform)
         if not r:
             return "dry run: nothing to post (%s)" % (why or "no worthwhile new story")
         r["status"], r["posted_at"] = "dry_run", now.isoformat()
+        decide(st, now, r["story_id"], r["title"], "would post", post_reason(r, now))
         log(st, now, "dry run: would post %s" % r["story_id"])
         return "dry run: would post %s" % r["story_id"]
 
@@ -669,7 +797,8 @@ def run_platform(platform, stories, cfg, st, now, site_dir, client=None, secret_
         return "live: rate limited until %s" % st["backoff_until"]
     st.pop("backoff_until", None)
     ok, why = slot_open(cfg, st, now)
-    r = next_item(cfg, st, now, forced_only=not ok)
+    okb, _ = slot_open(cfg, st, now, breaking=True)
+    r = next_item(cfg, st, now, ok, okb, platform)
     if not r:
         return "live: nothing to post (%s)" % (why or "no worthwhile new story")
     # Never post twice: if we've tried before, look first.
@@ -717,6 +846,7 @@ def run_platform(platform, stories, cfg, st, now, site_dir, client=None, secret_
         r["errors"].append({"at": now.isoformat(), "msg": scrub(str(e), secret_values)})
         return "live: refused (%s)" % scrub(str(e), secret_values)
     r["status"], r["post_id"], r["post_url"] = "posted", pid, purl
+    decide(st, now, r["story_id"], r["title"], "posted", post_reason(r, now))
     log(st, now, "posted %s" % r["story_id"])
     return "live: posted %s" % r["story_id"]
 
@@ -729,32 +859,61 @@ def prune(st, now, days=30):
 
 # ------------------------------------------------------------------ editor page
 
-def build_editor_page(settings, states, now, site_dir):
+def build_editor_page(settings, states, now, site_dir, traffic=None):
     import build_site as b
     E = html.escape
     names = {"facebook": "Facebook Page", "x": "X account"}
     out = [b.head("Social posts", "Editor view", "/editor/social/", extra='<meta name="robots" content="noindex, nofollow">'),
-           '<main class="wrap"><div class="page-head"><h1>Social posts</h1><p>Queue, previews, posts and errors for automatic '
+           '<main class="wrap"><div class="page-head"><h1>Social posts</h1><p>Queue, previews, posts, decisions and traffic for automatic '
            'posting. Change settings in <code>social.json</code> on GitHub. Updated %s ET.</p></div>' % now.astimezone(EASTERN).strftime("%b %-d, %-I:%M %p")]
-    order = {"posting": 0, "uncertain": 1, "queued": 2, "posted": 3, "dry_run": 4, "failed": 5, "skipped": 6, "expired": 7}
+
+    # Posting frequency vs traffic, per day
+    freq = {p: frequency(states[p]) for p in PLATFORMS}
+    traffic = traffic or {}
+    days = sorted(set(freq["facebook"]) | set(freq["x"]) | set(traffic.get("days", {})))[-14:]
+    out.append('<h2 class="sec-title" style="margin-top:20px">Posts and traffic by day</h2>')
+    if not traffic.get("days"):
+        out.append('<p class="note">Traffic columns fill in once the Cloudflare analytics token is added (see setup notes). '
+                   'Dry-run counts are what would have been posted.</p>')
+    out.append('<div class="table-box" style="overflow-x:auto"><table class="waits" style="min-width:640px"><thead><tr><th>Day (UTC)</th>'
+               '<th>Facebook posts</th><th>X posts</th><th>Visits from Facebook</th><th>Visits from X</th>'
+               '<th>Story page views</th><th>Clicks to publishers</th></tr></thead><tbody>')
+    for d in reversed(days):
+        t = traffic.get("days", {}).get(d, {})
+        cell = lambda p: ("%d" % freq[p][d]["posted"] + (" (+%d dry run)" % freq[p][d]["dry_run"] if freq[p][d]["dry_run"] else "")) if d in freq[p] else "0"
+        val = lambda k: str(t[k]) if k in t else "—"
+        out.append("<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>" % (
+            d, cell("facebook"), cell("x"), val("from_facebook"), val("from_x"), val("story_views"), val("outbound")))
+    out.append("</tbody></table></div>")
+
+    order = {"posting": 0, "uncertain": 1, "queued": 2, "posted": 3, "dry_run": 4, "failed": 5, "merged": 6, "skipped": 7, "expired": 8}
     for p in PLATFORMS:
         cfg, st = settings[p], states[p]
         ok, why = slot_open(cfg, st, now)
         out.append('<h2 class="sec-title" style="margin-top:28px">%s · mode: %s%s</h2>' % (
             names[p], E(cfg["mode"]), (" · PAUSED: " + E(st["paused"]["reason"])) if st.get("paused") else ""))
-        out.append('<p class="note">Up to %d posts a day, at least %d minutes apart, %d:00–%d:00 ET. Next slot: %s.</p>' % (
-            cfg["max_per_day"], cfg["min_gap_minutes"], cfg["hours"][0], cfg["hours"][1], "open now" if ok else E(why)))
-        out.append('<table class="waits" style="min-width:0"><thead><tr><th>Status</th><th>Post text</th><th>Links</th><th>Notes</th></tr></thead><tbody>')
-        rows = sorted(st["items"].values(), key=lambda r: (order.get(r["status"], 9), r["created_at"]), reverse=False)
-        for r in rows[:80]:
+        out.append('<p class="note">No daily limit. At least %d minutes between posts, %d:00–%d:00 ET (verified breaking news may go any time). '
+                   'Minimum importance %d, posts within %dh of publication. Next slot: %s.</p>' % (
+                       cfg["min_gap_minutes"], cfg["hours"][0], cfg["hours"][1], cfg["min_score"], cfg["max_age_hours"],
+                       "open now" if ok else E(why)))
+        out.append('<table class="waits" style="min-width:0"><thead><tr><th>Status</th><th>Post text</th><th>Links</th><th>Why</th></tr></thead><tbody>')
+        rows = sorted(st["items"].values(), key=lambda r: (order.get(r["status"], 9), r["created_at"]))
+        for r in rows[:60]:
             prev = r.get("preview") or {}
-            out.append('<tr><td><strong>%s</strong><br><code>%s</code>%s</td><td style="white-space:pre-wrap;max-width:520px">%s'
+            out.append('<tr><td><strong>%s</strong>%s<br><code>%s</code>%s</td><td style="white-space:pre-wrap;max-width:520px">%s'
                        '<div class="note" style="margin-top:6px;border:1px solid #D5D9DE;padding:6px">Link preview: <strong>%s</strong><br>%s</div></td>'
                        '<td><a href="%s">HaulTimes page</a>%s</td><td class="note">%s</td></tr>' % (
-                           E(r["status"]), E(r["story_id"]), " (edited)" if r.get("edited") else "", E(r["caption"]),
-                           E(prev.get("og:title", "")), E(prev.get("og:description", "")), E(r["dest"]),
+                           E(r["status"]), " · breaking" if r.get("breaking") else "", E(r["story_id"]), " (edited)" if r.get("edited") else "",
+                           E(r["caption"]), E(prev.get("og:title", "")), E(prev.get("og:description", "")), E(r["dest"]),
                            ('<br><a href="%s">View post</a>' % E(r["post_url"])) if r.get("post_url") else "",
-                           E("; ".join(e["msg"] for e in r.get("errors", [])[-3:]) or (r.get("posted_at") or "")[:16].replace("T", " "))))
+                           E("; ".join([r.get("breaking") or r.get("reason", "")] + [e["msg"] for e in r.get("errors", [])[-2:]]))))
+        out.append("</tbody></table>")
+        out.append('<h3 class="sec-title" style="margin-top:18px;font-size:13px">%s decision log (latest first)</h3>' % names[p])
+        out.append('<table class="waits" style="min-width:0"><thead><tr><th>Time (ET)</th><th>Story</th><th>Decision</th><th>Why</th></tr></thead><tbody>')
+        for dcs in reversed(st.get("decisions", [])[-80:]):
+            out.append("<tr><td>%s</td><td>%s<br><code>%s</code></td><td><strong>%s</strong></td><td class=\"note\">%s</td></tr>" % (
+                datetime.fromisoformat(dcs["at"]).astimezone(EASTERN).strftime("%b %-d %-I:%M %p"), E(dcs["title"]),
+                E(dcs["story_id"]), E(dcs["action"]), E(dcs["reason"])))
         out.append("</tbody></table>")
     out.append("</main>")
     out.append(b.footer())
@@ -819,7 +978,13 @@ def main(argv):
         states[p] = st
         print("%s: %s" % (p, msg))
     try:
-        build_editor_page(settings, states, now, SITE)
+        import traffic as tr
+        traffic = tr.update(now)
+    except Exception as e:
+        traffic = load_json("traffic.json", {})
+        print("traffic stats skipped:", type(e).__name__, e)
+    try:
+        build_editor_page(settings, states, now, SITE, traffic)
     except Exception as e:
         print("editor page failed:", type(e).__name__, e)
     return 0

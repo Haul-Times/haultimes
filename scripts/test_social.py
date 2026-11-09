@@ -28,7 +28,7 @@ def story(i, title, source="Truck News", hours=1, score=75, cat="regs", **kw):
 
 
 def cfg(**kw):
-    c = dict(so.DEFAULTS["facebook"], skip=[], publish_now=[], captions={})
+    c = dict(so.DEFAULTS["facebook"], skip=[], publish_now=[], captions={}, min_score=60, topic_gap_hours=0)
     c.update(kw)
     return c
 
@@ -182,16 +182,140 @@ class Captions(unittest.TestCase):
 
 class Scheduling(Base):
 
-    def test_daily_cap_gap_and_hours(self):
-        c = cfg(mode="live", max_per_day=2, min_gap_minutes=180, hours=[7, 21])
+    def test_no_daily_cap_only_spacing_and_hours(self):
+        many = [story(20 + i, "Carrier news item number %d about trucking fleets and freight rates" % i, score=70,
+                      hours=0.5, cat=["rates", "regs", "fuel", "equip", "drivers", "border", "other"][i % 7],
+                      source=["FreightWaves", "Transport Topics", "Truck News", "CBC"][i % 4]) for i in range(10)]
+        # make every headline a different event
+        for i, m in enumerate(many):
+            m["title"] = m["orig_title"] = ["Spot rates climb in Midwest", "FMCSA audits broker registrations",
+                                            "Diesel tops $4 in Ontario", "Trailer orders slump in October",
+                                            "Teamsters ratify grocery contract", "CBSA adds lanes at Lacolle",
+                                            "Werner buys regional fleet", "Port drayage waits ease in Savannah",
+                                            "California clean truck rule delayed", "Truck parking grant awarded in Texas"][i]
+        site = FakeSite(many)
+        try:
+            c = cfg(mode="live", min_gap_minutes=30, hours=[6, 22], max_age_hours=99)
+            fb = FakePlatform()
+            t = NOW
+            for _ in range(24):          # six hours of 15-minute runs
+                so.run_platform("facebook", many, c, self.st, t, site.dir, fb, ["T"])
+                t += timedelta(minutes=15)
+        finally:
+            site.close()
+        self.assertEqual(len(fb.posts), 10)    # everything worthwhile went out: no daily maximum
+        times = sorted(datetime.fromisoformat(r["posted_at"]) for r in self.st["items"].values() if r["status"] == "posted")
+        self.assertTrue(all(b - a >= timedelta(minutes=30) for a, b in zip(times, times[1:])))  # one at a time, spaced
+
+    def test_spacing_and_hours(self):
+        c = cfg(mode="live", min_gap_minutes=90, hours=[7, 21])
         fb = FakePlatform()
         self.assertIn("posted", self.run_live(fb, c))
-        self.assertIn("too soon", self.run_live(fb, c, now=NOW + timedelta(minutes=30)))
-        self.assertIn("posted", self.run_live(fb, c, now=NOW + timedelta(hours=3)))
-        self.assertIn("daily limit", self.run_live(fb, c, now=NOW + timedelta(hours=6, minutes=5)))
+        self.assertIn("minimum spacing", self.run_live(fb, c, now=NOW + timedelta(minutes=30)))
+        self.assertIn("posted", self.run_live(fb, c, now=NOW + timedelta(minutes=90)))
         night = datetime(2026, 11, 10, 7, 0, tzinfo=timezone.utc)  # 2 AM Eastern
         self.assertIn("outside posting hours", self.run_live(fb, c, now=night))
         self.assertEqual(len(fb.posts), 2)
+
+    def test_breaking_news_jumps_the_queue_and_quiet_hours(self):
+        routine = [story(30 + i, t, score=72, hours=1) for i, t in enumerate(
+            ["Spot rates climb in Midwest", "Trailer orders slump in October", "Werner buys regional fleet"])]
+        brk = story(40, "FMCSA orders immediate shutdown of 300 carriers in fraud crackdown", source="FreightWaves",
+                    score=92, hours=0.3)
+        site = FakeSite(routine + [brk])
+        try:
+            c = cfg(mode="live", min_gap_minutes=30, hours=[6, 22])
+            fb = FakePlatform()
+            so.run_platform("facebook", routine + [brk], c, self.st, NOW, site.dir, fb, ["T"])
+            self.assertTrue(fb.posts[0][0].startswith("FMCSA orders immediate shutdown"))
+            # at 2 AM a breaking story still goes; routine ones wait
+            night = datetime(2026, 11, 10, 7, 0, tzinfo=timezone.utc)
+            st2 = so.new_state()
+            late = story(41, "Ambassador Bridge closed to trucks after structural damage", source="Transport Topics",
+                         score=95, hours=0.2, published=(night - timedelta(minutes=10)).isoformat())
+            site2 = FakeSite([late])
+            try:
+                fb2 = FakePlatform()
+                so.run_platform("facebook", [late], c, st2, night, site2.dir, fb2, ["T"])
+                self.assertEqual(len(fb2.posts), 1)
+                self.assertIn("breaking", st2["decisions"][-1]["reason"])
+            finally:
+                site2.close()
+        finally:
+            site.close()
+
+    def test_unverified_big_story_is_not_breaking(self):
+        s = story(42, "Huge claim about trucking ban", source="Local Radio", score=95, hours=0.2)
+        self.assertIsNone(so.breaking_reason(s, [s], cfg(), NOW))
+        other = story(43, "Same claim", source="CBC", status="duplicate", dup_of="s042")
+        self.assertIn("confirmed by 1 other outlet", so.breaking_reason(s, [s, other], cfg(), NOW))
+
+    def test_recheck_stale_superseded_redundant(self):
+        c = cfg(mode="dry_run", max_age_hours=6)
+        so.queue_new("facebook", self.stories, c, self.st, NOW, self.site.dir)
+        stories = [dict(x) for x in self.stories]
+        stories[1]["status"], stories[1]["dup_of"] = "duplicate", "s001"     # superseded by a stronger report
+        stories[2]["published"] = (NOW - timedelta(hours=9)).isoformat()      # went stale
+        so.refresh_queue("facebook", stories, c, self.st, NOW)
+        self.assertEqual(self.st["items"]["s002"]["status"], "merged")
+        self.assertEqual(self.st["items"]["s003"]["status"], "expired")
+        acts = {d["story_id"]: d["action"] for d in self.st["decisions"]}
+        self.assertEqual(acts["s002"], "merged")
+        self.assertEqual(acts["s003"], "expired")
+
+    def test_redundant_after_same_event_posted(self):
+        a = story(50, "FMCSA finalizes English proficiency rule for truck drivers", score=80)
+        b = story(51, "FMCSA finalizes English proficiency rule for truck drivers nationwide", source="CBC", score=70)
+        site = FakeSite([a, b])
+        try:
+            c = cfg(mode="dry_run")
+            so.run_platform("facebook", [a, b], c, self.st, NOW, site.dir, None, [])
+        finally:
+            site.close()
+        self.assertEqual(self.st["items"]["s050"]["status"], "dry_run")
+        self.assertNotIn("s051", self.st["items"])
+        self.assertTrue(any(d["story_id"] == "s051" and d["action"] == "merged" for d in self.st["decisions"]))
+
+    def test_stronger_source_replaces_weaker_in_queue(self):
+        weak = story(60, "Ontario closes Highway 401 to trucks near Kingston after crash", source="Kingston Radio", score=72, hours=2)
+        site = FakeSite([weak])
+        c = cfg(mode="dry_run", min_gap_minutes=600)
+        so.queue_new("facebook", [weak], c, self.st, NOW, site.dir)
+        strong = story(61, "Ontario closes Highway 401 to trucks near Kingston after crash, detours set", source="Transport Topics",
+                       score=78, hours=1)
+        site2 = FakeSite([strong])
+        try:
+            so.queue_new("facebook", [weak, strong], c, self.st, NOW, site2.dir)
+        finally:
+            site.close(); site2.close()
+        self.assertEqual(self.st["items"]["s060"]["status"], "merged")
+        self.assertEqual(self.st["items"]["s061"]["status"], "queued")
+
+    def test_platform_specific_selection(self):
+        """A story can qualify for X but not Facebook (higher bar, and no repeat topic within hours)."""
+        mid = story(70, "Trailer orders slump in October", cat="equip", score=65)
+        site = FakeSite([mid])
+        try:
+            fb_st, x_st = so.new_state(), so.new_state()
+            so.queue_new("facebook", [mid], dict(cfg(), min_score=70), fb_st, NOW, site.dir)
+            so.queue_new("x", [mid], dict(cfg(), min_score=60), x_st, NOW, site.dir)
+        finally:
+            site.close()
+        self.assertNotIn("s070", fb_st["items"])
+        self.assertIn("s070", x_st["items"])
+        # topic gap: second Regulations story held on Facebook for a few hours
+        c = cfg(mode="dry_run", min_gap_minutes=0, topic_gap_hours=4)
+        r1 = story(71, "FMCSA audits broker registrations", score=72)
+        r2 = story(72, "California clean truck rule delayed", score=72)
+        site = FakeSite([r1, r2])
+        try:
+            st = so.new_state()
+            so.run_platform("facebook", [r1, r2], c, st, NOW, site.dir, None, [])
+            msg = so.run_platform("facebook", [r1, r2], c, st, NOW + timedelta(minutes=15), site.dir, None, [])
+        finally:
+            site.close()
+        self.assertIn("nothing to post", msg)
+        self.assertTrue(any(d["action"] == "held" for d in st["decisions"]))
 
     def test_empty_slot_is_skipped(self):
         fb = FakePlatform()
@@ -361,6 +485,29 @@ class ApiClients(unittest.TestCase):
         finally:
             so.time.time, so.secrets.token_hex = orig_time, orig_tok
         self.assertIn('oauth_signature="hCtSmYh%2BiHYCEqBWrE7C7hYmtUk%3D"', h)
+
+
+class Traffic(unittest.TestCase):
+
+    def test_summarize_counts_social_visits_and_clicks(self):
+        import traffic
+        rows = [{"count": 5, "dimensions": {"date": "2026-11-09", "refererHost": "l.facebook.com", "requestPath": "/story/a-1/"}},
+                {"count": 3, "dimensions": {"date": "2026-11-09", "refererHost": "t.co", "requestPath": "/story/b-2/"}},
+                {"count": 2, "dimensions": {"date": "2026-11-09", "refererHost": "haultimes.com", "requestPath": "/out/a1/"}},
+                {"count": 7, "dimensions": {"date": "2026-11-09", "refererHost": "", "requestPath": "/"}}]
+        d = traffic.summarize(rows)["2026-11-09"]
+        self.assertEqual((d["from_facebook"], d["from_x"], d["story_views"], d["outbound"], d["page_views"]), (5, 3, 8, 2, 17))
+
+    def test_no_token_means_no_calls(self):
+        import traffic
+        self.assertEqual(traffic.update(NOW, env={})["status"], "Cloudflare token not set up")
+
+    def test_frequency_by_day(self):
+        st = so.new_state()
+        st["items"] = {"a": {"status": "posted", "posted_at": NOW.isoformat()},
+                       "b": {"status": "dry_run", "posted_at": NOW.isoformat()},
+                       "c": {"status": "skipped", "posted_at": None}}
+        self.assertEqual(so.frequency(st), {"2026-11-09": {"posted": 1, "dry_run": 1}})
 
 
 if __name__ == "__main__":

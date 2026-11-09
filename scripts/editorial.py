@@ -132,7 +132,8 @@ STRONG = ["trucking", "trucker", "truckers", "truckload", "less-than-truckload",
           "truck orders", "trailer orders", "truckmaker", "truck maker", "trailer", "diesel price", "diesel prices",
           "diesel stockpile", "diesel supply", "diesel shortage", "diesel tax", "diesel order", "diesel inventories",
           "$6 diesel", "$5 diesel", "high diesel", "fuel surcharge", "border crossing", "border services agency",
-          "port of entry", "ports of entry", "commercial lanes"]
+          "port of entry", "ports of entry", "commercial lanes", "truck lanes", "ambassador bridge",
+          "blue water bridge", "peace bridge", "gordie howe", "lewiston-queenston", "commercial vehicles", "drayage"]
 CARRIERS = ["fedex freight", "ups ", "tforce", "old dominion", "j.b. hunt", "jb hunt", "knight-swift", "werner",
             "schneider", "xpo", "saia", "estes", "landstar", "c.h. robinson", "ch robinson", "rxo", "uber freight",
             "ryder", "penske", "yellow corp", "abf freight", "arcbest", "heartland express", "marten",
@@ -229,10 +230,11 @@ CRIME_MINOR = ["arrested", "dui", "dwi", "charged with", "sentenced", "pleads gu
                "stabbing", "murder"]
 INCIDENT = ["crash", "crashes", "collision", "rollover", "rolls over", "overturn", "runs off road", "jackknife",
             "fire on", "catches fire", "spill", "plane clips", "near miss", "pileup", "pile-up", "struck by",
-            "hits", "slams into", "killed", "dies", "fatal", "injured", "traffic advisory", "lanes closed",
+            "slams into", "killed", "dies", "fatal", "injured", "traffic advisory", "lanes closed",
             "road closed", "detour"]
 # An incident becomes a real operations story when it closes a major freight route.
-DISRUPTION = ["shut down", "shutdown", "closed for", "closure", "interstate", "highway 401", "trans-canada",
+DISRUPTION = ["shut down", "shutdown", "closed for", "closure", "closed", "diverted", "bridge", "border crossing",
+              "interstate", "highway 401", "trans-canada",
               "trans canada", "bridge closed", "border crossing closed", "hours-long", "miles-long", "days",
               "detours for trucks", "hazmat"]
 HUMAN_INTEREST = ["enjoys", "award", "honored", "honoured", "highway angel", "wins ", "winner", "voting underway",
@@ -336,12 +338,15 @@ HIGH_IMPACT = {
          "strike", "walkout", "lockout", "shutdown", "shuts down", "border closed", "border closure",
          "bankruptcy", "bankruptcies", "chapter 11", "ceases operations", "closes its doors",
          "recall", "emergency declaration", "state of emergency", "cyberattack", "ransomware",
-         "english proficiency", "non-domiciled", "out of service", "out-of-service", "record high", "record low",
+         "english proficiency", "non-domiciled", "out of service", "out-of-service", "truck lanes closed",
+         "closed to trucks", "bridge closed", "lanes closed", "crossing closed", "record high", "record low",
          "23-year low", "highest since", "lowest since", "surge", "plunge", "spike", "soar"],
     12: ["fmcsa", "transport canada", "cbsa", "cbp", "usmca", "cusma", "congress", "senate", "parliament",
          "tariff", "tariffs", "supreme court", "court rules", "ruling", "verdict", "diesel prices", "diesel price", "fuel tax",
          "spot rates", "contract rates", "capacity", "driver pay", "layoffs", "acquires", "acquisition", "merger",
-         "crackdown", "enforcement", "budget", "cargo theft", "freight fraud", "double brokering"],
+         "crackdown", "enforcement", "budget", "cargo theft", "freight fraud", "double brokering", "job cuts",
+         "to cut", "cuts jobs", "laid off", "to acquire", "acquire", "buys", "to buy", "ambassador bridge",
+         "blue water bridge", "peace bridge", "gordie howe", "lacolle", "laredo", "port huron", "lewiston-queenston"],
     6: ["proposed", "proposal", "survey", "report", "data", "index", "forecast", "outlook", "warns", "expects",
         "rising", "falling", "costs", "%", "million", "billion"],
 }
