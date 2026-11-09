@@ -50,6 +50,32 @@
   "kind": "rejected"
  },
  {
+  "id": "9427fe50ab",
+  "slug": "cross-border-mexico-canada-archives-9427fe50ab",
+  "title": "Cross-Border (Mexico/Canada) Archives",
+  "orig_title": "Cross-Border (Mexico/Canada) Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0drZEdMMldNSHVMTHRXRnVZOVp4ZXh0azFBVDRDT1VqQ290bmhvVFNTaDVpVU1ZLURsVHFEOUVsb3FQdGN3VjNyUEVaSEFHVmRudFZNVHIxY3JOYXBiOGk0TjBjNWFQbVk4eG9UaktvSk9fenVKNTB0NkhBWVZjdnZ6dWI?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0drZEdMMldNSHVMTHRXRnVZOVp4ZXh0azFBVDRDT1VqQ290bmhvVFNTaDVpVU1ZLURsVHFEOUVsb3FQdGN3VjNyUEVaSEFHVmRudFZNVHIxY3JOYXBiOGk0TjBjNWFQbVk4eG9UaktvSk9fenVKNTB0NkhBWVZjdnZ6dWI",
+  "snippet": "Cross-Border (Mexico/Canada) Archives FreightWaves",
+  "published": "2026-11-09T00:10:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T01:42:53.400061+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "25da25e64e",
   "slug": "local-grocery-stores-across-new-england-running-out-of-stock-as-truck-25da25e64e",
   "title": "Local grocery stores across New England running out of stock as truck drivers go on strike",
