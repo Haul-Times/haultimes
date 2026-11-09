@@ -15,7 +15,7 @@
     "breaking_min_gap_minutes": 10
   },
   "x": {
-    "mode": "dry_run",
+    "mode": "live",
     "min_gap_minutes": 30,
     "hours": [
       6,
