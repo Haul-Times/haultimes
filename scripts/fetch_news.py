@@ -16,39 +16,53 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
+import editorial
 from common import CATEGORIES, IMAGES, load_config, load_json, save_json, slugify
 
-SYSTEM_PROMPT = """You write for HaulTimes, a freight and trucking news site for
-carriers, owner-operators, brokers, dispatchers and shippers in the US and Canada.
+SYSTEM_PROMPT = """You write for HaulTimes, a trucking and road-freight news site for truck drivers,
+owner-operators, small fleet owners, dispatchers and freight brokers in the US and Canada.
 
 For each story you get a headline, source and short feed snippet. Return JSON only:
 {
   "relevant": true or false,
   "title": "clear headline, max 14 words, your own wording",
   "summary": "1-2 sentences, max 40 words, in your own words",
-  "why_it_matters": "1 sentence, max 25 words: the practical impact on carriers, brokers or shippers",
+  "why_it_matters": "1 sentence, max 25 words: the practical impact on drivers, carriers or brokers",
   "category": one of %s,
   "region": "US" | "Canada" | "Cross-border" | "Other",
   "importance": 1-100
 }
 
-relevant = true ONLY if the story matters to the US or Canadian road freight market:
-trucking companies, truck drivers, freight brokers, shippers, truckload/LTL rates
-and capacity, diesel prices, US/Canada border crossings and trade affecting trucks,
-FMCSA/DOT/Transport Canada/provincial rules, truck equipment sold in North America.
-relevant = false for: news centred on other countries (India, Pakistan, UK, Europe,
-Australia, Asia, Africa, etc.) unless it directly affects US/Canada trucking;
-ocean shipping, tankers, rail or air cargo unless trucking is central; stock quote
-pages and stock tips; consumer car news; viral or celebrity stories; gift guides;
-company press releases with no news value.
+Judge relevance from what the story is actually about, not from single words like
+"truck", "freight", "driver" or "market". relevant = true only if it matters in practice
+to US or Canadian commercial road freight.
+relevant = false for: music or entertainment (including the band Drive-By Truckers);
+pickup trucks, consumer vehicles, food trucks, lifestyle and travel pieces; individual job
+ads or recruiting pages; stock tips, price targets and automated financial articles with
+no real trucking development; market-research sales pages; ocean, air, rail or overseas
+freight unless it clearly affects US/Canadian trucking, ports, intermodal or cross-border
+supply chains; stories centred on other countries; viral, celebrity or sports stories;
+headlines that are empty or just a publisher name. If the snippet is too thin to tell,
+return relevant = false.
 
-importance: 90+ = major industry news (big regulation changes, border disruptions,
-large rate swings, major carrier closures or strikes). 50 = routine industry news.
-Under 30 = minor or very local.
+Category = the central subject (never pick it from one keyword):
+rates = trucking rates, capacity, freight demand, volumes, operating economics.
+border = US-Canada trade, customs, tariffs, commercial crossings (Mexico when it matters).
+regs = rules, enforcement, compliance, court and legal developments.
+fuel = diesel prices and supply, fuel taxes, surcharges.
+equip = commercial trucks, trailers, maintenance, recalls, technology (an electric-truck
+range extender is equip).
+drivers = pay, working conditions, hiring trends, training, labour disputes.
+other = carrier and broker business news: bankruptcies, acquisitions, results, fraud.
+
+importance: 90+ = major national news (big rule changes, border disruptions, large rate
+swings, major carrier closures or strikes). 50 = routine industry news. Under 30 = minor,
+very local, a single crash, a company product announcement, or stock commentary.
 
 Rules:
 - Write everything in your own words. Never copy sentences or more than 4 words in a row from the snippet.
 - Only state facts that are in the headline or snippet. Never invent numbers, names or quotes.
+- Company announcements and allegations are claims: attribute them ("X says", "according to").
 - If the snippet is thin, keep the summary short and general.
 - Plain, direct language a truck driver would respect. No hype, no clickbait.""" % list(CATEGORIES)
 
@@ -58,30 +72,57 @@ def clean(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
-def fetch_feed(url):
+def parse_date(text):
+    """Publication time from the feed, or None. Never invent one."""
+    if not text:
+        return None
+    try:
+        dt = parsedate_to_datetime(text)
+    except (TypeError, ValueError, IndexError):
+        try:
+            dt = datetime.fromisoformat(text.strip().replace("Z", "+00:00"))
+        except ValueError:
+            return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
+
+
+def fetch_feed(feed):
+    """Read one RSS or Atom feed. `feed` is a URL, or {"url": ..., "source": "Publisher name"}."""
+    url = feed["url"] if isinstance(feed, dict) else feed
+    feed_source = feed.get("source", "") if isinstance(feed, dict) else ""
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; HaulTimesBot/1.0)"})
     with urllib.request.urlopen(req, timeout=25) as r:
         root = ET.fromstring(r.read())
+    atom = "{http://www.w3.org/2005/Atom}"
+    entries = list(root.iter("item")) or list(root.iter(atom + "entry"))
+    now = datetime.now(timezone.utc)
     items = []
-    for it in root.iter("item"):
-        title = clean(it.findtext("title"))
+    for it in entries:
+        title = clean(it.findtext("title") or it.findtext(atom + "title"))
         link = (it.findtext("link") or "").strip()
+        if not link:
+            el = it.find(atom + "link")
+            link = el.get("href", "").strip() if el is not None else ""
         if not title or not link:
             continue
         src_el = it.find("source")
-        source = clean(src_el.text) if src_el is not None and src_el.text else ""
-        if source and title.endswith(" - " + source):
-            title = title[: -len(" - " + source)].strip()
-        try:
-            published = parsedate_to_datetime(it.findtext("pubDate")).astimezone(timezone.utc)
-        except Exception:
-            published = datetime.now(timezone.utc)
+        source = clean(src_el.text) if src_el is not None and src_el.text else feed_source
+        for sep in (" - ", " | ", " – "):
+            if source and title.endswith(sep + source):
+                title = title[: -len(sep + source)].strip()
+        published = parse_date(it.findtext("pubDate") or it.findtext(atom + "published")
+                               or it.findtext(atom + "updated") or it.findtext("{http://purl.org/dc/elements/1.1/}date"))
+        if published and published > now + timedelta(hours=1):
+            published = None  # a date in the future can't be trusted
+        snippet = it.findtext("description") or it.findtext(atom + "summary") or ""
         items.append({
             "headline": title,
             "link": link,
             "source": source or "News source",
-            "snippet": clean(it.findtext("description"))[:600],
-            "published": published.isoformat(),
+            "snippet": clean(snippet)[:600],
+            "published": published.isoformat() if published else None,
         })
     return items
 
@@ -125,84 +166,21 @@ def summarize(client, model, item):
     return data
 
 
-# Headlines-only mode (no API key): simple keyword sorting.
-KEYWORDS = {
-    "border": ["border", "cbsa", "cbp", "customs", "cross-border", "crossing", "tariff", "usmca", "cusma", "bridge"],
-    "regs": ["fmcsa", "regulation", "rule", "eld", "hours-of-service", "hours of service", "dot ", "transport canada",
-             "mandate", "inspection", "law", "bill", "ministry", "safety"],
-    "fuel": ["diesel", "fuel", "gas price", "oil price", "renewable diesel", "carbon tax"],
-    "rates": ["rate", "spot", "contract", "capacity", "volume", "demand", "market", "load-to-truck", "tender", "freight index"],
-    "equip": ["truck sales", "class 8", "trailer", "tractor", "engine", "electric truck", "ev truck", "dealer", "equipment"],
-    "drivers": ["driver", "trucker", "parking", "pay", "wage", "hiring", "jobs", "strike", "union", "cdl", "training"],
-}
-TRUCKING = ["truck", "freight", "trucking", "carrier", "logistics", "shipping", "shipper", "broker", "fleet", "haul",
-            "cargo", "diesel", "fmcsa", "border", "supply chain", "warehouse", "ltl", "reefer", "flatbed", "port"]
-BIG = ["strike", "shutdown", "closed", "closure", "bankrupt", "bankruptcy", "tariff", "ban", "new rule", "record",
-       "surge", "plunge", "crash", "recall", "emergency"]
-
-
-# Headlines that are clearly not US/Canada trucking news.
-FOREIGN = ["india", "indian", "pakistan", "bangladesh", "sri lanka", "nepal", "philippine", "manila",
-           "malaysia", "singapore", "indonesia", "vietnam", "thailand", "china", "chinese", "japan",
-           "korea", "taiwan", "australia", "aussie", "new zealand", "kiwi", "nigeria", "kenya", "ghana",
-           "south africa", "uganda", "tanzania", "ukraine", "russia", "dnipro", "uk ", "u.k.", "britain",
-           "british", "england", "scotland", "wales", "ireland", "yorkshire", "london", "europe", "eu ",
-           "germany", "france", "spain", "italy", "poland", "netherlands", "dubai", "saudi", "uae",
-           "iran", "israel", "turkey", "egypt", "brazil", "argentina", "chile", "peru", "colombia",
-           "hgv", "lorry", "haulage", "sebi", "nse", "bse", "tse:", ".ns)", "railways", " ioc ",
-           "berjaya", "tasco", "mnre", "arai", "fy27", "fy28", "crore", "lakh", "rupee",
-           "lagos", "lastma", "abuja", "nairobi", "accra", "johannesburg", "cairo", "karachi", "lahore",
-           "islamabad", "delhi", "mumbai", "chennai", "kolkata", "bengaluru", "bangalore", "hyderabad",
-           "dhaka", "colombo", "kathmandu", "jakarta", "kuala lumpur", "bangkok", "hanoi", "beijing",
-           "shanghai", "shenzhen", "hong kong", "tokyo", "seoul", "sydney", "melbourne", "brisbane",
-           "perth", "auckland", "dublin", "manchester", "birmingham", "glasgow", "paris", "berlin",
-           "madrid", "rome", "warsaw", "kyiv", "moscow", "istanbul", "riyadh", "tehran", "sao paulo",
-           "nigeria", "nigerian", "kenyan", "pakistani", "bangladeshi", "filipino", "malaysian",
-           "australian", "european", "german", "french", "polish"]
-JUNK = ["stock price", "stock forecast", "analyst ratings", "seasonal returns", "price target",
-        "shares of", "stock quote", "harbor freight", "christmas gift", "gifts for", "deal of the day",
-        "ho gauge", "model train", "toy ", "lego", "the finger", "viral", "celebrity", "recipe",
-        "horoscope", "tanker", "lpg carrier", "crude carrier", "ship capsizes", "freight ship",
-        "reiterates", "equalweight", "overweight rating", "export stocks", "stocks tied", "stocks investors",
-        "dividend", "earnings call transcript"]
-# Must mention road freight (plain "freight" alone also matches ocean/rail news).
-ROAD = ["truck", "trucking", "trucker", "truckload", "ltl", "less-than-truckload", "fmcsa", "freight broker",
-        "brokerage", "carrier", "fleet", "semi", "18-wheeler", "big rig", "cdl", "diesel", "owner-operator",
-        "dispatcher", "logistics", "shipper", "drayage", "reefer", "flatbed", "dry van", "border crossing",
-        "cbsa", "cbp", "usmca", "cusma", "transport canada", "dot ", "teamsters", "highway", "interstate",
-        "warehouse", "supply chain", "freight rates", "freight market", "freight recession", "spot rate",
-        "fedex freight", "ups freight", "tforce", "old dominion", "j.b. hunt", "knight-swift", "werner",
-        "schneider", "xpo", "saia", "estes", "landstar", "c.h. robinson", "rxo", "uber freight", "ryder",
-        "penske", "kenworth", "peterbilt", "freightliner", "volvo trucks", "mack trucks", "navistar"]
-
-
-def is_relevant(headline, source=""):
-    t = " %s " % headline.lower()
-    if any(w in t for w in FOREIGN) or any(w in t for w in JUNK):
-        return False
-    return any(w in t for w in ROAD)
-
-
-def keyword_story(sid, item):
-    text = item["headline"].lower()
-    if not is_relevant(item["headline"], item.get("source", "")):
-        return None
-    category = "other"
-    for cat, words in KEYWORDS.items():
-        if any(w in text for w in words):
-            category = cat
-            break
-    importance = 50 + (25 if any(w in text for w in BIG) else 0)
+def new_record(sid, item, now):
+    """A stored story. Rejected ones are kept too (with the reason), so rule changes can re-check them."""
     return {
         "id": sid, "slug": "%s-%s" % (slugify(item["headline"]), sid), "title": item["headline"],
-        "summary": "", "why": "", "category": category, "region": "", "importance": importance,
-        "source": item["source"], "link": item["link"], "published": item["published"],
-        "image": pick_image(sid, category), "ai": False,
+        "orig_title": item["headline"], "summary": "", "why": "", "category": "other", "region": "",
+        "importance": 50, "source": item["source"], "link": item["link"], "url_key": editorial.canonical_url(item["link"]),
+        "snippet": item.get("snippet", "")[:300],
+        "published": item["published"] or now.isoformat(), "date_known": bool(item["published"]),
+        "first_seen": now.isoformat(), "image": "", "ai": False,
     }
 
 
 def main():
     cfg = load_config()
+    now = datetime.now(timezone.utc)
     use_ai = bool(os.environ.get("ANTHROPIC_API_KEY"))
     client = None
     if use_ai:
@@ -212,83 +190,88 @@ def main():
         print("No ANTHROPIC_API_KEY: adding headlines only (no AI summaries).")
 
     stories = {s["id"]: s for s in load_json("news.json", [])}
-    # Clean out headline-only stories that fail the current filter.
-    for sid in [k for k, v in stories.items() if v.get("ai") is False and not is_relevant(v["title"], v.get("source", ""))]:
-        del stories[sid]
-    seen = set(load_json("seen.json", []))
-    cutoff = datetime.now(timezone.utc) - timedelta(days=cfg.get("keep_days", 30))
+    by_url = {s.get("url_key") or editorial.canonical_url(s.get("link")): sid for sid, s in stories.items()}
+    seen = set(load_json("seen_v2.json", []))
+    cutoff = now - timedelta(days=cfg.get("keep_days", 30))
 
-    fresh = {}
-    for url in cfg["news_feeds"]:
+    added = 0
+    for feed in cfg["news_feeds"]:
         try:
-            for item in fetch_feed(url):
-                sid = story_id(item["headline"])
-                if sid in seen or sid in fresh:
-                    continue
-                if sid in stories and (stories[sid].get("ai", True) or not use_ai):
-                    continue
-                if datetime.fromisoformat(item["published"]) < cutoff:
-                    continue
-                if not is_relevant(item["headline"], item["source"]):
-                    seen.add(sid)
-                    continue
-                fresh[sid] = item
+            items = fetch_feed(feed)
         except Exception as e:
-            print("Feed failed:", url[:80], "-", e)
+            print("Feed failed:", str(feed)[:90], "-", e)
+            continue
+        for item in items:
+            sid = story_id(item["headline"])
+            key = editorial.canonical_url(item["link"])
+            if sid in stories or sid in seen or (key and key in by_url):
+                continue  # already known: keep its original publication time, never "refresh" it
+            if item["published"] and datetime.fromisoformat(item["published"]) < cutoff:
+                continue
+            stories[sid] = new_record(sid, item, now)
+            by_url[key] = sid
+            added += 1
 
-    # Once the key is added, also upgrade recent headline-only stories to AI summaries.
+    # Apply the editorial rules to everything stored (new and old).
+    all_stories = list(stories.values())
+    editorial.reprocess(all_stories, now)
+
+    # AI summaries: only for stories that passed the rules and don't have one yet.
+    summarized = rejected_by_ai = 0
     if use_ai:
-        two_days = datetime.now(timezone.utc) - timedelta(days=2)
-        for sid, s in stories.items():
-            if s.get("ai") is False and sid not in fresh and datetime.fromisoformat(s["published"]) >= two_days:
-                fresh[sid] = {"headline": s["title"], "link": s["link"], "source": s["source"],
-                              "snippet": "", "published": s["published"]}
-
-    queue = sorted(fresh.items(), key=lambda kv: kv[1]["published"], reverse=True)
-    added = skipped = 0
-    if not use_ai:
-        for sid, item in queue[:150]:
-            story = keyword_story(sid, item)
-            if story:
-                stories[sid] = story
-                added += 1
+        two_days = now - timedelta(days=2)
+        todo = [s for s in all_stories if s["status"] == "ok" and s.get("ai") is False
+                and datetime.fromisoformat(s["published"]) >= two_days]
+        todo.sort(key=lambda s: s["importance"], reverse=True)
+        for s in todo[: cfg.get("max_new_stories_per_run", 25)]:
+            item = {"headline": s["orig_title"], "source": s["source"], "snippet": s.get("snippet", "")}
+            try:
+                ai = summarize(client, cfg["ai_model"], item)
+            except Exception as e:
+                print("AI failed:", s["orig_title"][:60], "-", e)
+                continue
+            if not ai:
+                continue
+            s["ai"] = True
+            s["ai_relevant"] = bool(ai.get("relevant", True))
+            s["ai_category"] = ai["category"]
+            s["ai_importance"] = ai["importance"]
+            s["region"] = ai.get("region", "Other")
+            if s["ai_relevant"]:
+                title = (ai.get("title") or s["orig_title"]).strip()
+                s.update(title=title, slug="%s-%s" % (slugify(title), s["id"]),
+                         summary=(ai.get("summary") or "").strip(), why=(ai.get("why_it_matters") or "").strip())
+                summarized += 1
             else:
-                skipped += 1
-    for sid, item in (queue[: cfg.get("max_new_stories_per_run", 25)] if use_ai else []):
-        try:
-            ai = summarize(client, cfg["ai_model"], item)
-        except Exception as e:
-            print("AI failed:", item["headline"][:60], "-", e)
-            continue
-        seen.add(sid)
-        if not ai or not ai.get("relevant", True):
-            stories.pop(sid, None)
-            skipped += 1
-            continue
-        title = (ai.get("title") or item["headline"]).strip()
-        stories[sid] = {
-            "id": sid,
-            "slug": "%s-%s" % (slugify(title), sid),
-            "title": title,
-            "summary": (ai.get("summary") or "").strip(),
-            "why": (ai.get("why_it_matters") or "").strip(),
-            "category": ai["category"],
-            "region": ai.get("region", "Other"),
-            "importance": ai["importance"],
-            "source": item["source"],
-            "link": item["link"],
-            "published": item["published"],
-            "image": pick_image(sid, ai["category"]),
-        }
-        added += 1
-        time.sleep(0.2)
+                rejected_by_ai += 1
+            time.sleep(0.2)
+        editorial.reprocess(all_stories, now)
 
-    kept = [s for s in stories.values() if datetime.fromisoformat(s["published"]) >= cutoff]
+    # Keep shown stories for keep_days. Hidden ones (rejected, duplicates) are kept a few days
+    # for review and re-checking, then dropped; their ids go to seen.json so they don't return.
+    hidden_days = cfg.get("keep_hidden_days", 4)
+    kept = []
+    for s in all_stories:
+        age_ref = datetime.fromisoformat(s.get("first_seen") or s["published"])
+        pub = datetime.fromisoformat(s["published"])
+        if s["status"] == "ok" or s.get("pinned"):
+            if pub >= cutoff:
+                kept.append(s)
+        elif age_ref >= now - timedelta(days=hidden_days) and pub >= cutoff:
+            kept.append(s)
+        else:
+            seen.add(s["id"])
+    for s in kept:
+        s["image"] = s.get("image") or pick_image(s["id"], s["category"])
     kept.sort(key=lambda s: s["published"], reverse=True)
     save_json("news.json", kept)
-    save_json("seen.json", sorted(seen)[-20000:])
-    print("News: added %d, skipped %d off-topic, %d stories on site (%s)." % (
-        added, skipped, len(kept), "AI summaries" if use_ai else "headlines only"))
+    save_json("seen_v2.json", sorted(seen)[-20000:])
+    counts = {}
+    for s in kept:
+        counts[s["status"]] = counts.get(s["status"], 0) + 1
+    print("News: %d new items, %d on site, %d duplicates, %d rejected, %d for review%s." % (
+        added, counts.get("ok", 0), counts.get("duplicate", 0), counts.get("rejected", 0), counts.get("review", 0),
+        ", %d AI summaries, %d judged off-topic by AI" % (summarized, rejected_by_ai) if use_ai else " (headlines only)"))
     return 0
 
 

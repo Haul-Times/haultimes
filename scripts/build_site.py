@@ -13,6 +13,7 @@ import sys
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 
+import editorial
 from common import CATEGORIES, IMAGES, SITE, STATIC, load_config, load_json
 
 try:
@@ -25,6 +26,22 @@ E = html.escape
 NOW = datetime.now(timezone.utc)
 CFG = load_config()
 BASE = CFG["site_url"].rstrip("/")
+
+
+def _asset_version():
+    """Short fingerprint of the CSS and JS, so phones load new designs right away."""
+    import hashlib
+    h = hashlib.sha1()
+    for name in ("style.css", "site.js"):
+        try:
+            with open(os.path.join(STATIC, name), "rb") as f:
+                h.update(f.read())
+        except OSError:
+            pass
+    return h.hexdigest()[:8]
+
+
+ASSET_VER = _asset_version()
 FONTS = ("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Archivo:wdth,wght@62..125,400..900"
          "&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,500..700"
          "&family=Barlow:wght@400;500;600;700&display=swap")
@@ -100,6 +117,15 @@ def pic(s):
     return ""  # no real photo: clean text-only layout, like a newspaper
 
 
+def label(s):
+    """'Press release' / 'Company announcement' / 'Sponsored' tag next to the source."""
+    return "".join(' · <span class="tag">%s</span>' % E(x) for x in s.get("labels", []))
+
+
+def src(s):
+    return E(s["source"]) + label(s)
+
+
 def write(path, content):
     full = os.path.join(SITE, path.lstrip("/"))
     if full.endswith("/"):
@@ -142,12 +168,12 @@ def head(title, desc, path, image=None, extra=""):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{fonts}">
-<link rel="stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/style.css?v={ver}">
 {verify}{analytics}{extra}
 </head>
 <body>
 """.format(t=E(full_title), d=E(desc), u=E(BASE + path), n=E(CFG["site_name"]), img=E(og_img),
-           fonts=E(FONTS), verify=verify, analytics=analytics, extra=extra)
+           fonts=E(FONTS), verify=verify, analytics=analytics, extra=extra, ver=ASSET_VER)
 
 
 def header(active, stories):
@@ -163,7 +189,7 @@ def header(active, stories):
         ticker = ('<div class="ticker"><div class="wrap"><span class="label">Latest</span>'
                   '<div class="lane"><div class="track">%s%s</div></div></div></div>') % (items, items.replace("<a ", '<a tabindex="-1" aria-hidden="true" '))
     return """<div class="topbar"><div class="wrap"><span>{today} · Updated every 15 minutes</span>
-<nav aria-label="Site"><a href="/contact/">Advertise</a><a href="/about/">About</a></nav></div></div>
+<nav aria-label="Site"><a href="/about/">About</a><a href="/contact/">Contact</a></nav></div></div>
 <header class="masthead"><div class="wrap">
 <a class="logo" href="/" aria-label="{name} home">HaulTimes</a>
 </div></header>
@@ -177,8 +203,8 @@ def footer(scripts=""):
 <span><strong style="color:#111418">{n}</strong> · Freight and trucking news for the US and Canada</span>
 <nav aria-label="Footer"><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a></nav>
 </div></footer>
-<script src="/static/site.js" defer></script>{scripts}
-</body></html>""".format(n=E(CFG["site_name"]), scripts=scripts)
+<script src="/static/site.js?v={ver}" defer></script>{scripts}
+</body></html>""".format(n=E(CFG["site_name"]), scripts=scripts, ver=ASSET_VER)
 
 
 def ad(box=False):
@@ -202,8 +228,8 @@ def signup():
 # ---------------------------------------------------------------- pages
 
 def build_home(stories, border):
-    recent = [s for s in stories if hours_old(s) <= 48] or stories[:20]
-    by_score = sorted(recent, key=lambda s: (s["importance"], s["published"]), reverse=True)
+    recent = [s for s in stories if hours_old(s) <= 48 or s.get("pinned")] or stories[:20]
+    by_score = sorted(recent, key=lambda s: (editorial.rank_score(s, NOW), s["published"]), reverse=True)
     used = set()
 
     def take(pool, n, cond=lambda s: True):
@@ -216,12 +242,16 @@ def build_home(stories, border):
                     break
         return out
 
-    lead = take(by_score, 1)
+    def front(s):  # minor crashes, crime, features and roundups stay on topic pages, not the front page
+        return s.get("pinned") or s.get("kind", "news") in ("news", "disruption", "announcement", "event")
+
+    lead = take(by_score, 1, editorial.lead_eligible) or take(by_score, 1)
     lead = lead[0] if lead else None
-    left = take(by_score, 4)
-    related = take(sorted(stories, key=when, reverse=True), 2, lambda s: lead and s["category"] == lead["category"]) if lead else []
-    more_latest = take(sorted(stories, key=when, reverse=True), 6) if lead else []
-    week = sorted([s for s in stories if hours_old(s) <= 168], key=lambda s: s["importance"], reverse=True)
+    left = take(by_score, 4, front)
+    related = take(sorted(stories, key=when, reverse=True), 2, lambda s: front(s) and lead and s["category"] == lead["category"]) if lead else []
+    more_latest = take(sorted(stories, key=when, reverse=True), 6, front) if lead else []
+    week = sorted([s for s in stories if hours_old(s) <= 168 and s.get("kind", "news") in ("news", "disruption")],
+                  key=lambda s: s["importance"], reverse=True)
     top_week = take(week, 5)
 
     out = [head(CFG["site_name"] + " | " + CFG["tagline"],
@@ -236,10 +266,10 @@ def build_home(stories, border):
             lc.append('<article class="stack-item">%s<a class="kicker" href="%s">%s</a><h3 class="h-md"><a href="%s">%s</a></h3>'
                       '<span class="meta">%s · %s</span></article>' % (
                           pic(s) if i == 0 else "", cat_url(s["category"]), E(cat_label(s["category"])),
-                          story_url(s), E(s["title"]), time_tag(s), E(s["source"])))
+                          story_url(s), E(s["title"]), time_tag(s), src(s)))
         lc.append("</div>")
         rel = "".join('<div><h3 class="h-sm"><a href="%s">%s</a></h3><span class="meta">%s · %s</span></div>' % (
-            story_url(s), E(s["title"]), time_tag(s), E(s["source"])) for s in related)
+            story_url(s), E(s["title"]), time_tag(s), src(s)) for s in related)
         why = '<p class="why"><strong>Why it matters:</strong> %s</p>' % E(lead["why"]) if lead.get("why") else ""
         lead_html = """<section class="col-lead" aria-label="Top story">{pic}
 <a class="kicker hot" href="{cu}">{cl}</a>
@@ -248,10 +278,10 @@ def build_home(stories, border):
 <span class="meta">{tm} · via {src}{cm} · <a href="{link}" rel="nofollow noopener" target="_blank">Read full story</a></span>
 {rel}{more}</section>""".format(more=('<section class="lead-more" aria-label="More headlines"><h2 class="sec-title">More headlines</h2>%s</section>' % "".join(
                           '<article class="lm"><a class="kicker" href="%s">%s</a><h3 class="h-sm"><a href="%s">%s</a></h3><span class="meta">%s · %s</span></article>' % (
-                              cat_url(x["category"]), E(cat_label(x["category"])), story_url(x), E(x["title"]), time_tag(x), E(x["source"])) for x in more_latest)) if more_latest else "",
+                              cat_url(x["category"]), E(cat_label(x["category"])), story_url(x), E(x["title"]), time_tag(x), src(x)) for x in more_latest)) if more_latest else "",
                           pic=pic(lead), cu=cat_url(lead["category"]), cl=E(cat_label(lead["category"])), su=story_url(lead),
                           t=E(lead["title"]), sm=('<p class="dek">%s</p>' % E(lead["summary"])) if lead.get("summary") else "", why=why,
-                          cm=(' · <a href="%s">Comments</a>' % story_url(lead)) if has_page(lead) and CFG.get("cusdis_app_id") else "", tm=time_tag(lead), src=E(lead["source"]),
+                          cm=(' · <a href="%s">Comments</a>' % story_url(lead)) if has_page(lead) and CFG.get("cusdis_app_id") else "", tm=time_tag(lead), src=src(lead),
                           link=E(lead["link"]), rel=('<div class="related">%s</div>' % rel) if rel else "")
         right = ['<aside class="col-right">']
         if top_week:
@@ -275,14 +305,14 @@ def build_home(stories, border):
         blocks = []
         for key, (label, slug) in CATEGORIES.items():
             pool = sorted([s for s in stories if s["category"] == key and s["id"] not in used and hours_old(s) <= 96],
-                          key=lambda s: (s["importance"], s["published"]), reverse=True)
+                          key=lambda s: (editorial.rank_score(s, NOW), s["published"]), reverse=True)
             if not pool:
                 continue
             first, more = pool[0], pool[1:4]
             used.update(s["id"] for s in pool[:4])
             blocks.append('<section class="block"><h2 class="sec-title"><a href="/topic/%s/">%s ›</a></h2>%s'
                           '<h3 class="h-md"><a href="%s">%s</a></h3><span class="meta">%s · %s</span><div class="more">%s</div></section>' % (
-                              slug, E(label), pic(first), story_url(first), E(first["title"]), time_tag(first), E(first["source"]),
+                              slug, E(label), pic(first), story_url(first), E(first["title"]), time_tag(first), src(first),
                               "".join('<a href="%s">%s</a>' % (story_url(s), E(s["title"])) for s in more)))
         if blocks:
             out.append('<div class="blocks">%s</div>' % "".join(blocks))
@@ -301,13 +331,14 @@ def story_row(s):
     return ('<article class="row" data-time="%s" data-score="%d">%s<div class="txt"><a class="kicker" href="%s">%s</a>'
             '<h2 class="h-md"><a href="%s">%s</a></h2>%s<span class="meta">%s · %s</span></div></article>') % (
         when(s).isoformat(), s["importance"], pic(s), cat_url(s["category"]), E(cat_label(s["category"])),
-        story_url(s), E(s["title"]), ("<p>%s</p>" % E(s["summary"])) if s.get("summary") else "", time_tag(s), E(s["source"]))
+        story_url(s), E(s["title"]), ("<p>%s</p>" % E(s["summary"])) if s.get("summary") else "", time_tag(s), src(s))
 
 
 def build_topic(key, stories, all_stories):
     label, slug = CATEGORIES[key]
     items = sorted([s for s in stories if s["category"] == key], key=when, reverse=True)
-    top = sorted(items, key=lambda s: s["importance"], reverse=True)[:5]
+    top = sorted([s for s in items if hours_old(s) <= 168 and s.get("kind", "news") not in ("incident", "crime", "feature", "roundup")],
+                 key=lambda s: editorial.rank_score(s, NOW), reverse=True)[:5]
     desc = "Latest %s news for truckers, carriers, brokers and shippers in the US and Canada." % label.lower()
     filters = """<div class="filters"><div class="group"><span class="lbl">Show</span>
 <button class="chip" data-range="today" aria-pressed="false">Today</button><button class="chip" data-range="week" aria-pressed="false">This week</button>
@@ -348,7 +379,7 @@ def build_story(s, stories):
 {comments}</article>
 <aside>{rel}{ad}{signup}</aside></div></main>""".format(
         cu=cat_url(s["category"]), cl=E(cat_label(s["category"])), t=E(s["title"]), tm=time_tag(s),
-        region=E(s.get("region", "")), src=E(s["source"]), pic=pic(s), sm=E(s["summary"]), why=why, link=E(s["link"]),
+        region=E(s.get("region", "")), src=src(s), pic=pic(s), sm=E(s["summary"]), why=why, link=E(s["link"]),
         comments=comments, ad=ad(True), signup=signup(),
         rel=('<section><h2 class="sec-title">More %s</h2><ol class="ranked">%s</ol></section>' % (
             E(cat_label(s["category"])), "".join('<li><a href="%s">%s</a></li>' % (story_url(x), E(x["title"])) for x in related))) if related else "")
@@ -505,7 +536,7 @@ def build_feeds(stories):
     min_score = CFG.get("facebook_min_score", 70)
     by_day = {}
     for s in newest:
-        if s["importance"] >= min_score and hours_old(s) <= 72:
+        if s["importance"] >= min_score and hours_old(s) <= 72 and editorial.lead_eligible(s):
             by_day.setdefault(when(s).astimezone(EASTERN).date(), []).append(s)
     fb = []
     for day, items in by_day.items():
@@ -515,12 +546,40 @@ def build_feeds(stories):
     sm = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">%s</urlset>' % "".join(
         "<url><loc>%s</loc></url>" % E(BASE + u) for u in urls)
     write("/sitemap.xml", sm)
-    write("/robots.txt", "User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n" % BASE)
+    write("/robots.txt", "User-agent: *\nAllow: /\nDisallow: /editor/\nSitemap: %s/sitemap.xml\n" % BASE)
+
+
+def build_editor(stored):
+    """Private checklist for the site owner: every stored story, what the rules decided and why.
+    Not linked anywhere, hidden from search engines."""
+    names = {"ok": "On the site", "review": "Waiting for review", "duplicate": "Hidden duplicates", "rejected": "Rejected"}
+    rows = []
+    for st in ("ok", "review", "duplicate", "rejected"):
+        group = sorted([s for s in stored if s.get("status", "ok") == st],
+                       key=lambda s: editorial.rank_score(s, NOW), reverse=True)
+        rows.append('<h2 class="sec-title" style="margin-top:28px">%s (%d)</h2>' % (names[st], len(group)))
+        rows.append('<table class="waits" style="min-width:0"><thead><tr><th>Story id</th><th>Headline</th>'
+                    '<th>Topic</th><th>Score</th><th>Why</th></tr></thead><tbody>')
+        for s in group:
+            rows.append('<tr><td><code>%s</code>%s</td><td><a href="%s">%s</a><br><span class="note">%s · %s</span></td>'
+                        '<td>%s</td><td>%d</td><td class="note">%s</td></tr>' % (
+                            E(s["id"]), " 📌" if s.get("pinned") else "", E(s.get("link", "")),
+                            E(s.get("orig_title") or s["title"]), E(s.get("source", "")), E(s.get("published", "")[:16].replace("T", " ")),
+                            E(cat_label(s.get("category", "other"))), s.get("importance", 0),
+                            E("; ".join(s.get("reasons", [])) or s.get("kind", ""))))
+        rows.append("</tbody></table>")
+    page = (head("Editor", "Editor view", "/editor/", extra='<meta name="robots" content="noindex, nofollow">') +
+            '<main class="wrap"><div class="page-head"><h1>Editor view</h1><p>Every story the robot found in the last few days, '
+            'what it decided and why. To pin, hide or move a story, copy its id into <code>overrides.json</code> on GitHub.</p></div>' +
+            '<div class="table-box" style="overflow-x:auto">%s</div></main>' % "".join(rows) + footer())
+    write("/editor/", page)
 
 
 def main():
-    stories = [s for s in load_json("news.json", []) if s.get("title")]
-    stories.sort(key=when, reverse=True)
+    stored = load_json("news.json", [])
+    if stored and "status" not in stored[0]:
+        editorial.reprocess(stored, NOW)  # data saved by an older version of fetch_news.py
+    stories = editorial.eligible(stored)  # homepage, topic pages, story pages and feeds all use this list
     border = load_json("border.json", None)
 
     if os.path.isdir(SITE):
@@ -539,6 +598,7 @@ def main():
     build_border(border, stories)
     build_static_pages(stories)
     build_feeds(stories)
+    build_editor(stored)
     print("Site built: %d stories, %d border crossings." % (len(stories), len((border or {}).get("crossings", []))))
     return 0
 
