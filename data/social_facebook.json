@@ -158,6 +158,33 @@
    "reason": "importance 73 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false
+  },
+  "09353b98bc": {
+   "story_id": "09353b98bc",
+   "title": "As diesel prices soar, truckers in Pennsylvania struggle while keeping America moving",
+   "url_key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUJMUlRjaEJOY05FN05nTlFtWnVkcU1lN2YtVTJsSFMta3VPSW9nWlY2ZndiYXdOQ0E2VEJYWnJ4cmxfZy1rdVBvMURqdU1kRTZUVmJ3cVI2UXZmS2EyVzl1NDJWSlRYeE5NT0lMT2JHenZoWXVMV3k1d3hjWWZGeGNXTE95VDNQT1R2N2lXeEhUXzgybExHWjkxZnFvaTRfdE96ZEJobWZEdHBGd21qTU1FZmVMcm4yNFpvZm12bUl6Y3lu",
+   "category": "fuel",
+   "source": "Pittsburgh Post-Gazette",
+   "dest": "https://haultimes.com/story/as-diesel-prices-soar-truckers-in-pennsylvania-struggle-while-keeping-09353b98bc/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=09353b98bc",
+   "caption": "As diesel prices soar, truckers in Pennsylvania struggle while keeping America moving.\n\nReported by Pittsburgh Post-Gazette. The link has the details and the original article.\n\n#Trucking #Diesel",
+   "status": "queued",
+   "created_at": "2026-11-09T09:36:23.951675+00:00",
+   "published": "2026-11-09T09:00:00+00:00",
+   "score": 77,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "As diesel prices soar, truckers in Pennsylvania struggle while keeping America moving | HaulTimes",
+    "og:description": "Reported by Pittsburgh Post-Gazette. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/as-diesel-prices-soar-truckers-in-pennsylvania-struggle-while-keeping-09353b98bc/"
+   },
+   "reason": "importance 77 (threshold 65), Fuel, local/other outlet",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -196,7 +223,10 @@
   "25da25e64e": "held|held",
   "9da9b41d19": "expired|stale before a slot opened (published 13h ago)",
   "2f7718d073": "queued|importance 73 (threshold 65), Regulations, trade publication",
-  "c3587a91c0": "skipped|importance 45 is below this platform's threshold (65)"
+  "c3587a91c0": "skipped|importance 45 is below this platform's threshold (65)",
+  "09353b98bc": "queued|importance 77 (threshold 65), Fuel, local/other outlet",
+  "3cb951688a": "skipped|importance 57 is below this platform's threshold (65)",
+  "31b42eeab7": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -317,6 +347,27 @@
    "title": "Transportation Department Removes Hundreds More Dangerous Truckers Under Operation Highway Shield",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T09:36:23.951675+00:00",
+   "story_id": "09353b98bc",
+   "title": "As diesel prices soar, truckers in Pennsylvania struggle while keeping America moving",
+   "action": "queued",
+   "reason": "importance 77 (threshold 65), Fuel, local/other outlet"
+  },
+  {
+   "at": "2026-11-09T09:36:23.951675+00:00",
+   "story_id": "3cb951688a",
+   "title": "KB Event acquires bussing and trucking company",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T09:36:23.951675+00:00",
+   "story_id": "31b42eeab7",
+   "title": "Kazakhstan introduces deposit requirement for truckers at three border checkpoints",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ]
 }
