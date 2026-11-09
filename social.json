@@ -4,8 +4,8 @@
     "mode": "live",
     "min_gap_minutes": 90,
     "hours": [
-      7,
-      21
+      0,
+      24
     ],
     "min_score": 65,
     "max_age_hours": 12,
