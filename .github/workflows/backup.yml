@@ -1,0 +1,42 @@
+name: Weekly data backup
+
+on:
+  schedule:
+    - cron: "17 7 * * 0"   # Sundays, early morning Eastern
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-site
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Back up reader reports (encrypted)
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          D1_DATABASE_ID: ${{ secrets.D1_DATABASE_ID }}
+          BACKUP_PASSPHRASE: ${{ secrets.BACKUP_PASSPHRASE }}
+        run: python scripts/backup_market.py
+      - name: Save backup
+        run: |
+          git config user.name "HaulTimes"
+          git config user.email "updates@haultimes.com"
+          git add backups || true
+          if git diff --cached --quiet; then
+            echo "No new backup."
+          else
+            git commit -m "Weekly encrypted backup" --quiet
+            git pull --rebase --quiet || true
+            git push --quiet
+          fi
