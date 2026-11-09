@@ -1,0 +1,60 @@
+{
+ "items": {
+  "25da25e64e": {
+   "story_id": "25da25e64e",
+   "title": "Local grocery stores across New England running out of stock as truck drivers go on strike",
+   "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jT0xLbkFWc3VXWG1nbW1Ib0JCQ09heTJIdVQwTkNSRGxaZWc3N3I3ODZKUkNJS3Jxak5SVTZ5RVNwR3BuMHhNQVVlcHQ5ckR2b3N0a1JabHAxcE5scnRaMXo5T3NqcVlrd1ZzRFBQeWhqLVFXamJMa2dFLUg",
+   "source": "CBS News",
+   "dest": "https://haultimes.com/story/local-grocery-stores-across-new-england-running-out-of-stock-as-truck-25da25e64e/?utm_source=x&utm_medium=organic_social&utm_campaign=story&utm_content=25da25e64e",
+   "caption": "Local grocery stores across New England running out of stock as truck drivers go on strike.\n\nVia CBS News: https://haultimes.com/story/local-grocery-stores-across-new-england-running-out-of-stock-as-truck-25da25e64e/?utm_source=x&utm_medium=organic_social&utm_campaign=story&utm_content=25da25e64e\n#Trucking #TruckDrivers",
+   "status": "dry_run",
+   "created_at": "2026-11-09T01:04:27.965045+00:00",
+   "published": "2026-11-09T00:05:58+00:00",
+   "score": 70,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": "2026-11-09T01:04:27.965045+00:00",
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Local grocery stores across New England running out of stock as truck drivers go on strike | HaulTimes",
+    "og:description": "Reported by CBS News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og.png",
+    "og:url": "https://haultimes.com/story/local-grocery-stores-across-new-england-running-out-of-stock-as-truck-25da25e64e/"
+   },
+   "edited": false
+  },
+  "9da9b41d19": {
+   "story_id": "9da9b41d19",
+   "title": "Union Pacific & Norfolk Southern Merger: Trucking Impacts & Benefits",
+   "url_key": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3JvMDU2UzBnQVUwSHRhNUFURTdpY1UxRFh2QWRmUkNpS3RySTAyTmRwS184OE41Ni15eGZUaXZCc3pjTnhzSzFzY09pbXF1SWgxMmx1cGk0Z1k0bjRtNmR6aG1fUzdiY1FaV2d2QmZidWNCQmoySWkzNHJxWVVBSDVjZUpaT1RGejd3aGVEaGlTOUZlQ1c5VFVpUXhVWE1zR0h1WW9mdEFfd3FuX2FQNU9EZHY0Z0lKMFBxZmNTT05rZ1c0Q0tmWXktRFpFS3d1cHVpYg",
+   "source": "Commercial Carrier Journal",
+   "dest": "https://haultimes.com/story/union-pacific-norfolk-southern-merger-trucking-impacts-benefits-9da9b41d19/?utm_source=x&utm_medium=organic_social&utm_campaign=story&utm_content=9da9b41d19",
+   "caption": "Union Pacific & Norfolk Southern Merger: Trucking Impacts & Benefits.\n\nVia Commercial Carrier Journal: https://haultimes.com/story/union-pacific-norfolk-southern-merger-trucking-impacts-benefits-9da9b41d19/?utm_source=x&utm_medium=organic_social&utm_campaign=story&utm_content=9da9b41d19\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-09T01:04:27.965045+00:00",
+   "published": "2026-11-08T14:48:45+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Union Pacific & Norfolk Southern Merger: Trucking Impacts & Benefits | HaulTimes",
+    "og:description": "Reported by Commercial Carrier Journal. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og.png",
+    "og:url": "https://haultimes.com/story/union-pacific-norfolk-southern-merger-trucking-impacts-benefits-9da9b41d19/"
+   },
+   "edited": false
+  }
+ },
+ "paused": null,
+ "account": {},
+ "log": [
+  {
+   "at": "2026-11-09T01:04:27.965045+00:00",
+   "msg": "dry run: would post 25da25e64e"
+  }
+ ]
+}
