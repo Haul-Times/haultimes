@@ -42,6 +42,18 @@ def _asset_version():
 
 
 ASSET_VER = _asset_version()
+
+
+def _og_version():
+    import hashlib
+    try:
+        with open(os.path.join(STATIC, "og.png"), "rb") as f:
+            return hashlib.sha1(f.read()).hexdigest()[:8]
+    except OSError:
+        return "1"
+
+
+OG_VER = _og_version()
 FONTS = ("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Archivo:wdth,wght@62..125,400..900"
          "&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,500..700"
          "&family=Barlow:wght@400;500;600;700&display=swap")
@@ -162,7 +174,7 @@ def head(title, desc, path, image=None, extra=""):
     analytics = analytics_tag()
     verify = ('<meta name="google-site-verification" content="%s">' % E(CFG["google_site_verification"])
               if CFG.get("google_site_verification") else "")
-    og_img = image or BASE + "/static/og.png"
+    og_img = image or BASE + "/static/og.png?v=" + OG_VER  # new version number whenever the picture changes, so Facebook refetches it
     return """<!doctype html>
 <html lang="en">
 <head>
