@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T02:22:04.212210+00:00",
+ "updated": "2026-11-09T02:37:27.142081+00:00",
  "hour_now": 21,
  "have_us": true,
  "have_ca": true,
@@ -89,7 +89,7 @@
     "fast_wait": 0,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 19:15 EST"
+    "updated": "2026-11-08 21:15 EST"
    },
    "usual": {
     "south": [
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 13,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 9:07 pm EST",
+    "status": "no delay",
+    "updated": "At 9:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 7,
-    "status": "7 minutes",
-    "updated": "2026-11-08 21:00 EST"
+    "wait": 4,
+    "status": "4 minutes",
+    "updated": "2026-11-08 21:20 EST"
    },
    "usual": {
     "south": [
@@ -270,7 +270,7 @@
      0,
      0,
      0,
-     5,
+     4,
      null,
      null
     ],
@@ -296,7 +296,7 @@
      10,
      5,
      4,
-     6,
+     5,
      null,
      null
     ]
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:07 pm EST",
+    "updated": "At 9:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 21:00 EST"
+    "updated": "2026-11-08 21:20 EST"
    },
    "usual": {
     "south": [
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 19:15 EST"
+    "updated": "2026-11-08 21:15 EST"
    },
    "usual": {
     "south": [
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 19:15 EST"
+    "updated": "2026-11-08 21:15 EST"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 21:12 EST"
+    "updated": "2026-11-08 21:15 EST"
    },
    "usual": {
     "south": [
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "21:20:53",
+    "updated": "21:30:54",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-08 22:01 AST"
+    "updated": "2026-11-08 22:15 AST"
    },
    "usual": {
     "south": [
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 18:48 CST"
+    "updated": "2026-11-08 20:15 CST"
    },
    "usual": {
     "south": [
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-08 18:15 MDT"
+    "updated": "2026-11-08 20:15 MDT"
    },
    "usual": {
     "south": [
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-08 19:00 PDT"
+    "wait": 5,
+    "status": "5 minutes",
+    "updated": "2026-11-08 19:20 PDT"
    },
    "usual": {
     "south": [
@@ -1339,7 +1339,7 @@
      5,
      22,
      24,
-     10,
+     9,
      null,
      null
     ]
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": null,
     "status": "Closed",
-    "updated": "2026-11-08 19:00 PDT"
+    "updated": "2026-11-08 19:20 PDT"
    },
    "usual": {
     "south": [

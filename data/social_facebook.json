@@ -111,8 +111,13 @@
    "created_at": "2026-11-09T01:23:04.452152+00:00",
    "published": "2026-11-09T01:21:13+00:00",
    "score": 61,
-   "attempts": 0,
-   "errors": [],
+   "attempts": 1,
+   "errors": [
+    {
+     "at": "2026-11-09T02:37:31.618824+00:00",
+     "msg": "Facebook error 200: (#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage"
+    }
+   ],
    "post_id": null,
    "posted_at": null,
    "next_attempt_at": null,
@@ -124,10 +129,15 @@
    },
    "reason": "importance 61 (threshold 60), Industry, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-09T02:37:31.618824+00:00"
   }
  },
- "paused": null,
+ "paused": {
+  "reason": "Facebook error 200: (#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage",
+  "at": "2026-11-09T02:37:31.618824+00:00",
+  "token": "f5aeea0b7571"
+ },
  "account": {
   "name": "HaulTimes",
   "checked_at": "2026-11-09T02:07:29.309184+00:00",
@@ -154,7 +164,9 @@
   "87809632d1": "skipped|minor item (news) or low-quality source",
   "ea7a69c6c6": "skipped|minor item (feature) or low-quality source",
   "711e4a2a6d": "skipped|minor item (incident) or low-quality source",
-  "f5faf34c5f": "expired|stale before a slot opened (published 13h ago)"
+  "f5faf34c5f": "expired|stale before a slot opened (published 13h ago)",
+  "5d783a915f": "skipped|importance 57 is below this platform's threshold (65)",
+  "25da25e64e": "held|held"
  },
  "decisions": [
   {
@@ -240,6 +252,20 @@
    "title": "Nearly 85 percent of CMV brake inspections resulted in zero violations during CVSA Brake Safety Week",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T02:37:31.618824+00:00",
+   "story_id": "5d783a915f",
+   "title": "Finding the Best Defense to Protect Against Cargo Theft",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T02:37:31.618824+00:00",
+   "story_id": "25da25e64e",
+   "title": "Local grocery stores across New England running out of stock as truck drivers go on strike",
+   "action": "held",
+   "reason": "held: Facebook already covered this topic in the last 4h"
   }
  ]
 }
