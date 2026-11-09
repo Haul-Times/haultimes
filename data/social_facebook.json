@@ -194,7 +194,7 @@
    "source": "FreshFruitPortal.com",
    "dest": "https://haultimes.com/story/truckers-strike-at-the-port-of-san-antonio-ends-following-successful-n-6178f00440/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=6178f00440",
    "caption": "Truckers' strike at the Port of San Antonio ends following successful negotiations.\n\nReported by FreshFruitPortal. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T12:25:57.085722+00:00",
    "published": "2026-11-09T11:31:02+00:00",
    "score": 65,
@@ -498,7 +498,7 @@
   "3cb951688a": "skipped|importance 57 is below this platform's threshold (65)",
   "31b42eeab7": "skipped|minor item (announcement) or low-quality source",
   "9d5d413368": "skipped|importance 45 is below this platform's threshold (65)",
-  "6178f00440": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+  "6178f00440": "expired|stale before a slot opened (published 12h ago)",
   "f295ec745c": "skipped|importance 50 is below this platform's threshold (65)",
   "3b0436e4df": "skipped|importance 61 is below this platform's threshold (65)",
   "4cf0991dbf": "skipped|importance 55 is below this platform's threshold (65)",
@@ -542,7 +542,8 @@
   "fff86dfb1c": "skipped|minor item (crime) or low-quality source",
   "d21eec4468": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "e9962f774a": "skipped|minor item (news) or low-quality source",
-  "93de55188f": "skipped|minor item (announcement) or low-quality source"
+  "93de55188f": "skipped|minor item (announcement) or low-quality source",
+  "b6d7f09844": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1034,6 +1035,20 @@
    "title": "Career Driver Adds AI Agent to Help Drivers Connect With Carriers",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T23:33:49.604743+00:00",
+   "story_id": "6178f00440",
+   "title": "Truckers' strike at the Port of San Antonio ends following successful negotiations",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-09T23:33:49.604743+00:00",
+   "story_id": "b6d7f09844",
+   "title": "EPA 2027 Uncertainty Slows Truck Orders",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ]
 }

@@ -1,5 +1,29 @@
 [
  {
+  "id": "b6d7f09844",
+  "slug": "epa-2027-uncertainty-slows-truck-orders-b6d7f09844",
+  "title": "EPA 2027 Uncertainty Slows Truck Orders",
+  "orig_title": "EPA 2027 Uncertainty Slows Truck Orders",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 55,
+  "source": "Heavy Duty Trucking",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zUDJBV0d1cFVvZnNEenlLUmdNMnFpbjRDSzE4azFJV1E1dWNjQzB1UGtkbk9VT19qSUt4WkFoWE5saURoVVF5S3FibkNvbWhZdnVMVlpyQnZ1MEYtNnBoWWZVVDNjZjA1Yl9EdExnVE1GbmxyODl2SGFjZkFpUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zUDJBV0d1cFVvZnNEenlLUmdNMnFpbjRDSzE4azFJV1E1dWNjQzB1UGtkbk9VT19qSUt4WkFoWE5saURoVVF5S3FibkNvbWhZdnVMVlpyQnZ1MEYtNnBoWWZVVDNjZjA1Yl9EdExnVE1GbmxyODl2SGFjZkFpUQ",
+  "snippet": "EPA 2027 Uncertainty Slows Truck Orders Heavy Duty Trucking",
+  "published": "2026-11-09T23:19:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T23:33:43.959111+00:00",
+  "image": "",
+  "ai": false,
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news"
+ },
+ {
   "id": "e9962f774a",
   "slug": "does-your-trucking-fleet-need-a-new-tms-e9962f774a",
   "title": "Does Your Trucking Fleet Need a New TMS?",
@@ -2270,6 +2294,32 @@
   ],
   "labels": [],
   "kind": "review"
+ },
+ {
+  "id": "aeaab8e77b",
+  "slug": "ports-to-plains-corridor-gives-del-rio-boost-in-commercial-traffic-fro-aeaab8e77b",
+  "title": "‘Ports to Plains’ corridor gives Del Rio boost in commercial traffic from Mexico",
+  "orig_title": "‘Ports to Plains’ corridor gives Del Rio boost in commercial traffic from Mexico",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Alabama's 42",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGhtM2pObnFnclRkazI3enY5UmVWLXF6d29qTHNTdHVsSm81S3J0eWVyRkJ2VXBVTE1CYWlxNzlhRWY2RWVoVmFLYUhSRGR3ejFpalV1VkVWLVNnanpkTWhHZjZJMXVoSFVQc3IzenJ3UTFQal9SMFlZUFZuM21lcDBucENfU3dXRXRlQVlPN0NIcFpISXg5NDhSd1RjMHJlNEpMVEpzcDVzLXJLSmhUYlNsTG9SMS1ydERYT3VvRERVeWVQV0x2U9IByAFBVV95cUxPbGhtM2pObnFnclRkazI3enY5UmVWLXF6d29qTHNTdHVsSm81S3J0eWVyRkJ2VXBVTE1CYWlxNzlhRWY2RWVoVmFLYUhSRGR3ejFpalV1VkVWLVNnanpkTWhHZjZJMXVoSFVQc3IzenJ3UTFQal9SMFlZUFZuM21lcDBucENfU3dXRXRlQVlPN0NIcFpISXg5NDhSd1RjMHJlNEpMVEpzcDVzLXJLSmhUYlNsTG9SMS1ydERYT3VvRERVeWVQV0x2Uw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGhtM2pObnFnclRkazI3enY5UmVWLXF6d29qTHNTdHVsSm81S3J0eWVyRkJ2VXBVTE1CYWlxNzlhRWY2RWVoVmFLYUhSRGR3ejFpalV1VkVWLVNnanpkTWhHZjZJMXVoSFVQc3IzenJ3UTFQal9SMFlZUFZuM21lcDBucENfU3dXRXRlQVlPN0NIcFpISXg5NDhSd1RjMHJlNEpMVEpzcDVzLXJLSmhUYlNsTG9SMS1ydERYT3VvRERVeWVQV0x2U9IByAFBVV95cUxPbGhtM2pObnFnclRkazI3enY5UmVWLXF6d29qTHNTdHVsSm81S3J0eWVyRkJ2VXBVTE1CYWlxNzlhRWY2RWVoVmFLYUhSRGR3ejFpalV1VkVWLVNnanpkTWhHZjZJMXVoSFVQc3IzenJ3UTFQal9SMFlZUFZuM21lcDBucENfU3dXRXRlQVlPN0NIcFpISXg5NDhSd1RjMHJlNEpMVEpzcDVzLXJLSmhUYlNsTG9SMS1ydERYT3VvRERVeWVQV0x2Uw",
+  "snippet": "‘Ports to Plains’ corridor gives Del Rio boost in commercial traffic from Mexico Alabama's 42",
+  "published": "2026-11-09T13:04:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T23:33:43.959111+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
  },
  {
   "id": "5a47fe7656",
@@ -6915,28 +6965,6 @@
   "first_seen": "2026-11-09T00:47:54.174006+00:00",
   "image": "",
   "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected"
- },
- {
-  "id": "13e1b1da72",
-  "slug": "truckload-freight-news-13e1b1da72",
-  "title": "Truckload Freight News",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11QkZWV0dzekV6ZFM3TXU3ZWFGM1JseUo1bGQ0RDBJLW9tRG1NVHFQSXBHRHd1R1NPWXhqLVBjZ0NEUFBoYi1wcGs2aE9hMFRPTVQ3enFCek16bHNJRmZ3djZZTkxZZWNrdjVnRnk4ZGU?oc=5",
-  "published": "2026-11-05T23:24:47+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Truckload Freight News",
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"

@@ -894,7 +894,38 @@
   "source_url": "https://data.ontario.ca/dataset/fuels-price-survey-information"
  },
  "eia_diesel": {
-  "status": "no_key"
+  "status": "ok",
+  "week": "2026-11-02",
+  "prices": {
+   "US": 4.153,
+   "1": 3.936,
+   "1A": 4.145,
+   "1B": 4.232,
+   "1C": 3.695,
+   "2": 4.102,
+   "3": 3.636,
+   "4": 4.213,
+   "5": 5.296,
+   "5XCA": 4.771
+  },
+  "prev_week": "2026-10-26",
+  "prev_prices": {
+   "US": 4.269,
+   "1": 4.022,
+   "1A": 4.199,
+   "1B": 4.251,
+   "1C": 3.832,
+   "2": 4.269,
+   "3": 3.702,
+   "4": 4.458,
+   "5": 5.417,
+   "5XCA": 4.868
+  },
+  "units": "US$ per gallon",
+  "retrieved_at": "2026-11-09T23:33:48.212620+00:00",
+  "last_attempt_at": "2026-11-09T23:33:48.212620+00:00",
+  "last_error": null,
+  "source_url": "https://www.eia.gov/petroleum/gasdiesel/"
  },
  "bls_truckload": {
   "points": [
@@ -1148,5 +1179,171 @@
   "last_attempt_at": "2026-11-09T23:05:13.340464+00:00",
   "last_error": null,
   "source_url": "https://www.bts.gov/browse-statistical-products-and-data/border-crossing-data/border-crossingentry-data"
+ },
+ "statcan_diesel": {
+  "month": "2026-09",
+  "provinces": {
+   "NL": {
+    "avg": 268.3,
+    "cities": {
+     "St. John's": 268.3
+    }
+   },
+   "PE": {
+    "avg": 264.4,
+    "cities": {
+     "Charlottetown and Summerside": 264.4
+    }
+   },
+   "NS": {
+    "avg": 263.4,
+    "cities": {
+     "Halifax": 263.4
+    }
+   },
+   "NB": {
+    "avg": 262.3,
+    "cities": {
+     "Saint John": 262.3
+    }
+   },
+   "QC": {
+    "avg": 285.6,
+    "cities": {
+     "Québec": 284.1,
+     "Montréal": 287.1
+    }
+   },
+   "ON": {
+    "avg": 251.4,
+    "cities": {
+     "Ottawa-Gatineau": 253.4,
+     "Toronto": 249.4
+    }
+   },
+   "MB": {
+    "avg": 242.2,
+    "cities": {
+     "Winnipeg": 242.2
+    }
+   },
+   "SK": {
+    "avg": 238.8,
+    "cities": {
+     "Regina": 241.0,
+     "Saskatoon": 236.7
+    }
+   },
+   "AB": {
+    "avg": 238.4,
+    "cities": {
+     "Edmonton": 236.0,
+     "Calgary": 240.8
+    }
+   },
+   "BC": {
+    "avg": 281.8,
+    "cities": {
+     "Vancouver": 285.3,
+     "Victoria": 278.3
+    }
+   },
+   "YT": {
+    "avg": 249.5,
+    "cities": {
+     "Whitehorse": 249.5
+    }
+   },
+   "NT": {
+    "avg": 215.8,
+    "cities": {
+     "Yellowknife": 215.8
+    }
+   }
+  },
+  "prev_month": "2026-08",
+  "prev_provinces": {
+   "NL": {
+    "avg": 240.2,
+    "cities": {
+     "St. John's": 240.2
+    }
+   },
+   "PE": {
+    "avg": 240.5,
+    "cities": {
+     "Charlottetown and Summerside": 240.5
+    }
+   },
+   "NS": {
+    "avg": 236.6,
+    "cities": {
+     "Halifax": 236.6
+    }
+   },
+   "NB": {
+    "avg": 236.3,
+    "cities": {
+     "Saint John": 236.3
+    }
+   },
+   "QC": {
+    "avg": 254.5,
+    "cities": {
+     "Québec": 252.3,
+     "Montréal": 256.6
+    }
+   },
+   "ON": {
+    "avg": 222.9,
+    "cities": {
+     "Ottawa-Gatineau": 224.8,
+     "Toronto": 221.1
+    }
+   },
+   "MB": {
+    "avg": 212.8,
+    "cities": {
+     "Winnipeg": 212.8
+    }
+   },
+   "SK": {
+    "avg": 207.4,
+    "cities": {
+     "Regina": 209.1,
+     "Saskatoon": 205.8
+    }
+   },
+   "AB": {
+    "avg": 208.1,
+    "cities": {
+     "Edmonton": 205.5,
+     "Calgary": 210.6
+    }
+   },
+   "BC": {
+    "avg": 248.7,
+    "cities": {
+     "Vancouver": 251.7,
+     "Victoria": 245.7
+    }
+   },
+   "YT": {
+    "avg": 222.5,
+    "cities": {
+     "Whitehorse": 222.5
+    }
+   },
+   "NT": {
+    "avg": 207.2,
+    "cities": {
+     "Yellowknife": 207.2
+    }
+   }
+  },
+  "retrieved_at": "2026-11-09T23:33:48.212620+00:00",
+  "last_attempt_at": "2026-11-09T23:33:48.212620+00:00",
+  "last_error": null,
+  "source_url": "https://doi.org/10.25318/1810000101-eng"
  }
 }

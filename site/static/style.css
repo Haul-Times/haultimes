@@ -406,3 +406,57 @@ form.contact .hp { position: absolute; left: -9999px; }
   .sections a { min-height: 32px; font-size: 12px; padding: 2px 4px; letter-spacing: .03em; }
   .sections a.on { box-shadow: inset 0 -2px 0 var(--amber); }
 }
+.tm text.pl { font: 600 11px var(--body); }
+.mk-legend.fuel { grid-template-columns: 1fr 1fr; }
+@media (max-width: 640px) { .tm text.pl { font-size: 10px; } }
+
+/* Share buttons with icons and the networks' colours */
+.share a, .share button { border-radius: 999px; padding: 0 14px 0 10px; gap: 6px; border-color: transparent; color: #fff; }
+.share a svg, .share button svg { flex: none; }
+.share .sh-text { background: #34C759; }
+.share .sh-whatsapp { background: #25D366; }
+.share .sh-facebook { background: #1877F2; }
+.share .sh-email { background: #5B6573; }
+.share .sh-x { background: #111; }
+.share .sh-copy { background: #fff; color: var(--ink); border-color: #C9CED4; }
+.share a:hover, .share button:hover { filter: brightness(.92); border-color: transparent; }
+.share .sh-copy:hover { border-color: var(--navy); filter: none; }
+@media (max-width: 640px) {
+  .share { gap: 8px; }
+  .share a, .share button { width: 44px; height: 44px; min-height: 44px; padding: 0; justify-content: center; }
+  .share a span, .share button span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .share .sh-native { width: auto; padding: 0 14px; }
+}
+
+/* Topic blocks: tell the smaller headlines apart without adding space */
+.block .more a { position: relative; padding-left: 14px; border-top-color: var(--rule); }
+.block .more a::before { content: ""; position: absolute; left: 0; top: calc(9px + .5em); width: 6px; height: 6px; background: var(--amber); }
+.block .more a .src-in { font-weight: 400; font-size: .82em; color: var(--faint); white-space: nowrap; }
+@media (max-width: 640px) {
+  .share a, .share button { width: 40px; height: 40px; min-height: 40px; }
+  .share .sh-native { width: 40px; padding: 0; font-size: 0; }
+  .share .sh-native svg { width: 18px; height: 18px; }
+}
+/* Diesel map: compact, with a price scale instead of a colour key */
+.fuelbox .mk-mapwrap { flex: 0 1 540px; }
+.fuelbox .tm { max-width: 540px; }
+.fuelbox .mk-side { flex: 1 1 280px; max-width: 420px; }
+.fscale { margin: 0 0 14px; }
+.fscale .fl { display: block; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 4px; }
+.fscale .fb { display: block; height: 10px; }
+.fscale .fr { display: flex; justify-content: space-between; font-size: 13px; font-variant-numeric: tabular-nums; margin-top: 3px; }
+.fuelbox .note { font-size: 13px; line-height: 1.5; }
+table.mk-tight th, table.mk-tight td { padding: 6px 8px; font-size: 14px; line-height: 1.3; }
+table.mk-tight .src-in { font-size: 12px; color: var(--faint); }
+.fuelbox + .two .mk-h3 { font-size: 16px; margin-top: 18px; }
+/* Share buttons: smaller */
+.share { gap: 6px; }
+.share a, .share button { min-height: 30px; font-size: 13px; padding: 0 11px 0 8px; gap: 5px; }
+.share a svg, .share button svg { width: 15px; height: 15px; }
+.share .lbl { font-size: 11px; }
+@media (max-width: 640px) {
+  .share { gap: 6px; }
+  .share a, .share button { width: 32px; height: 32px; min-height: 32px; padding: 0; }
+  .share .sh-native { width: 32px; padding: 0; }
+  .share a svg, .share button svg, .share .sh-native svg { width: 15px; height: 15px; }
+}
