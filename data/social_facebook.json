@@ -81,7 +81,7 @@
    "source": "Commercial Carrier Journal",
    "dest": "https://haultimes.com/story/union-pacific-norfolk-southern-merger-trucking-impacts-benefits-9da9b41d19/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9da9b41d19",
    "caption": "Union Pacific & Norfolk Southern Merger: Trucking Impacts & Benefits.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T01:04:27.965045+00:00",
    "published": "2026-11-08T14:48:45+00:00",
    "score": 67,
@@ -131,6 +131,33 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-09T02:37:31.618824+00:00"
+  },
+  "2f7718d073": {
+   "story_id": "2f7718d073",
+   "title": "FMCSA’s New Complaint Platform Makes It Easier to Report Trucking Safety Concerns",
+   "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdklQRzZMTDItMU9vRFgyVjVaSkZiR0pnSlh4LW52bk9adnd6OHZockhLUFV0YThodFo0YXg5REt3eTN5SFQ1S0wwbDJoLWZhNlNfYmI0bXZSNGtnQjZubXNfRWVlTGtoRk1tcUg4UVhEblZFZlhQNUhCU3RqRWJpenhpOE51OXV2b1FpS2UwRk0wSFRfN3EwVmUzcHdpNXhDcEh5T2FuTUlpcV9XQkcydWNfMkh0NlNURC1wcQ",
+   "category": "regs",
+   "source": "Heavy Duty Trucking",
+   "dest": "https://haultimes.com/story/fmcsa-s-new-complaint-platform-makes-it-easier-to-report-trucking-safe-2f7718d073/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2f7718d073",
+   "caption": "FMCSA’s New Complaint Platform Makes It Easier to Report Trucking Safety Concerns.\n\nReported by Heavy Duty Trucking. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-09T03:34:14.661629+00:00",
+   "published": "2026-11-08T23:30:35+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "FMCSA’s New Complaint Platform Makes It Easier to Report Trucking Safety Concerns | HaulTimes",
+    "og:description": "Reported by Heavy Duty Trucking. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/fmcsa-s-new-complaint-platform-makes-it-easier-to-report-trucking-safe-2f7718d073/"
+   },
+   "reason": "importance 73 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -166,7 +193,9 @@
   "711e4a2a6d": "skipped|minor item (incident) or low-quality source",
   "f5faf34c5f": "expired|stale before a slot opened (published 13h ago)",
   "5d783a915f": "skipped|importance 57 is below this platform's threshold (65)",
-  "25da25e64e": "held|held"
+  "25da25e64e": "held|held",
+  "9da9b41d19": "expired|stale before a slot opened (published 13h ago)",
+  "2f7718d073": "queued|importance 73 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -266,6 +295,20 @@
    "title": "Local grocery stores across New England running out of stock as truck drivers go on strike",
    "action": "held",
    "reason": "held: Facebook already covered this topic in the last 4h"
+  },
+  {
+   "at": "2026-11-09T03:34:14.661629+00:00",
+   "story_id": "9da9b41d19",
+   "title": "Union Pacific & Norfolk Southern Merger: Trucking Impacts & Benefits",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 13h ago)"
+  },
+  {
+   "at": "2026-11-09T03:34:14.661629+00:00",
+   "story_id": "2f7718d073",
+   "title": "FMCSA’s New Complaint Platform Makes It Easier to Report Trucking Safety Concerns",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Regulations, trade publication"
   }
  ]
 }
