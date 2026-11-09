@@ -212,6 +212,60 @@
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
    "breaking": null,
    "edited": false
+  },
+  "afe721ad08": {
+   "story_id": "afe721ad08",
+   "title": "China extends pause on 24% U.S. tariffs to January",
+   "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vSXVSWTJFV0ZWcTI0cmhTcjVXdEJHTDZjTlozanNsTlFUY3RqZ2I0c1RPQ3VJbDZQeWZEVkNlNGNnTmg2UWNoU042RVlqdjJaNVpuTnR1QXp3Uy12cU9aVU1iQzlaWWp2TVE4",
+   "category": "border",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/china-extends-pause-on-24-u-s-tariffs-to-january-afe721ad08/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=afe721ad08",
+   "caption": "China extends pause on 24% U.S. tariffs to January.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder",
+   "status": "queued",
+   "created_at": "2026-11-09T16:44:47.249030+00:00",
+   "published": "2026-11-09T15:22:34+00:00",
+   "score": 78,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "China extends pause on 24% U.S. tariffs to January | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/china-extends-pause-on-24-u-s-tariffs-to-january-afe721ad08/"
+   },
+   "reason": "importance 78 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false
+  },
+  "e18749db81": {
+   "story_id": "e18749db81",
+   "title": "NHTSA funding could help truck owners catch safety recalls sooner",
+   "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE5XZ3V1dkpwaW0tTWlRazczZW9iUENtVndHWjhZU0ltQWhBcldkRFN3TWNmY3FYNVdxQXZaNDVTRThzdG5VS0p0emZUWHc5dGtIb2ZkU3lMeVVKTURnQTlrMkdRTEs5ODFyNXNmOTlXOGVWUTFWZ0NVclZ4LVdtX1NfQ3BMa2NBNjJWU0gwbTFHRjVUSVF0ZW5YWkpka1dwZDlTTVJ4MnhTSmx5djBBSHF6NzJSX2g4VUtlMHlB",
+   "category": "regs",
+   "source": "TheTrucker.com",
+   "dest": "https://haultimes.com/story/nhtsa-funding-could-help-truck-owners-catch-safety-recalls-sooner-e18749db81/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=e18749db81",
+   "caption": "NHTSA funding could help truck owners catch safety recalls sooner.\n\nReported by TheTrucker. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-09T16:44:47.249030+00:00",
+   "published": "2026-11-09T16:13:06+00:00",
+   "score": 70,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "NHTSA funding could help truck owners catch safety recalls sooner | HaulTimes",
+    "og:description": "Reported by TheTrucker.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/nhtsa-funding-could-help-truck-owners-catch-safety-recalls-sooner-e18749db81/"
+   },
+   "reason": "importance 70 (threshold 65), Regulations, established outlet",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -265,7 +319,12 @@
   "c973121cb6": "skipped|importance 55 is below this platform's threshold (65)",
   "8d8f5f6881": "skipped|importance 45 is below this platform's threshold (65)",
   "897d10264e": "skipped|importance 62 is below this platform's threshold (65)",
-  "b2f265a4ca": "skipped|importance 55 is below this platform's threshold (65)"
+  "b2f265a4ca": "skipped|importance 55 is below this platform's threshold (65)",
+  "afe721ad08": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
+  "e18749db81": "queued|importance 70 (threshold 65), Regulations, established outlet",
+  "9a23addb2c": "skipped|minor item (announcement) or low-quality source",
+  "d9567602da": "skipped|importance 55 is below this platform's threshold (65)",
+  "9ab542a2e8": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -512,6 +571,41 @@
    "title": "Dallas College, Goodwill launch CDL training program with FleetForce",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T16:44:47.249030+00:00",
+   "story_id": "afe721ad08",
+   "title": "China extends pause on 24% U.S. tariffs to January",
+   "action": "queued",
+   "reason": "importance 78 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-09T16:44:47.249030+00:00",
+   "story_id": "e18749db81",
+   "title": "NHTSA funding could help truck owners catch safety recalls sooner",
+   "action": "queued",
+   "reason": "importance 70 (threshold 65), Regulations, established outlet"
+  },
+  {
+   "at": "2026-11-09T16:44:47.249030+00:00",
+   "story_id": "9a23addb2c",
+   "title": "SONAR National Insights Expands With Flatbed and LTL Data",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T16:44:47.249030+00:00",
+   "story_id": "d9567602da",
+   "title": "Trucking Announcements: New appointments at ATD, Montway, PTR",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T16:44:47.249030+00:00",
+   "story_id": "9ab542a2e8",
+   "title": "Konecranes patents system to protect truck drivers under cranes",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ]
 }
