@@ -83,6 +83,10 @@
   {
    "at": "2026-11-09T01:04:27.965045+00:00",
    "msg": "dry run: would post 25da25e64e"
+  },
+  {
+   "at": "2026-11-09T01:24:49.566147+00:00",
+   "msg": "live mode but credentials are missing"
   }
  ],
  "decided": {
