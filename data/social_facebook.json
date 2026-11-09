@@ -226,7 +226,8 @@
   "c3587a91c0": "skipped|importance 45 is below this platform's threshold (65)",
   "09353b98bc": "queued|importance 77 (threshold 65), Fuel, local/other outlet",
   "3cb951688a": "skipped|importance 57 is below this platform's threshold (65)",
-  "31b42eeab7": "skipped|minor item (announcement) or low-quality source"
+  "31b42eeab7": "skipped|minor item (announcement) or low-quality source",
+  "9d5d413368": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -368,6 +369,13 @@
    "title": "Kazakhstan introduces deposit requirement for truckers at three border checkpoints",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T11:27:15.044026+00:00",
+   "story_id": "9d5d413368",
+   "title": "On the road to second chances: Training program seeks to transform inmates into truck drivers",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ]
 }
