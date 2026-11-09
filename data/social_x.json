@@ -31,7 +31,7 @@
    "source": "Commercial Carrier Journal",
    "dest": "https://haultimes.com/story/union-pacific-norfolk-southern-merger-trucking-impacts-benefits-9da9b41d19/?utm_source=x&utm_medium=organic_social&utm_campaign=story&utm_content=9da9b41d19",
    "caption": "Union Pacific & Norfolk Southern Merger: Trucking Impacts & Benefits.\n\nVia Commercial Carrier Journal: https://haultimes.com/story/union-pacific-norfolk-southern-merger-trucking-impacts-benefits-9da9b41d19/?utm_source=x&utm_medium=organic_social&utm_campaign=story&utm_content=9da9b41d19\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T01:04:27.965045+00:00",
    "published": "2026-11-08T14:48:45+00:00",
    "score": 67,
@@ -92,7 +92,8 @@
   "7c4f39840c": "skipped|importance 50 is below this platform's threshold (60)",
   "87809632d1": "skipped|minor item (news) or low-quality source",
   "ea7a69c6c6": "skipped|minor item (feature) or low-quality source",
-  "711e4a2a6d": "skipped|minor item (incident) or low-quality source"
+  "711e4a2a6d": "skipped|minor item (incident) or low-quality source",
+  "9da9b41d19": "expired|stale before a slot opened (published 11h ago)"
  },
  "decisions": [
   {
@@ -143,6 +144,13 @@
    "title": "Freight truck runs off road in Camden, prompting traffic advisory",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T01:23:30.626480+00:00",
+   "story_id": "9da9b41d19",
+   "title": "Union Pacific & Norfolk Southern Merger: Trucking Impacts & Benefits",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 11h ago)"
   }
  ]
 }

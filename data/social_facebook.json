@@ -56,7 +56,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obs-f5faf34c5f/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=f5faf34c5f",
    "caption": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #CrossBorder",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T01:04:27.965045+00:00",
    "published": "2026-11-08T12:00:00+00:00",
    "score": 72,
@@ -140,12 +140,13 @@
   "3568f5d719": "skipped|minor item (event) or low-quality source",
   "50e6a52f36": "skipped|importance 57 is below this platform's threshold (60)",
   "2c5252c8e2": "skipped|minor item (news) or low-quality source",
-  "7c4f39840c": "skipped|importance 50 is below this platform's threshold (60)",
+  "7c4f39840c": "skipped|importance 50 is below this platform's threshold (65)",
   "37c25f2fde": "skipped|importance 51 is below this platform's threshold (60)",
   "8428ab602b": "skipped|importance 50 is below this platform's threshold (60)",
   "87809632d1": "skipped|minor item (news) or low-quality source",
   "ea7a69c6c6": "skipped|minor item (feature) or low-quality source",
-  "711e4a2a6d": "skipped|minor item (incident) or low-quality source"
+  "711e4a2a6d": "skipped|minor item (incident) or low-quality source",
+  "f5faf34c5f": "expired|stale before a slot opened (published 13h ago)"
  },
  "decisions": [
   {
@@ -217,6 +218,20 @@
    "title": "Freight truck runs off road in Camden, prompting traffic advisory",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T01:23:30.626480+00:00",
+   "story_id": "f5faf34c5f",
+   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 13h ago)"
+  },
+  {
+   "at": "2026-11-09T01:23:30.626480+00:00",
+   "story_id": "7c4f39840c",
+   "title": "Nearly 85 percent of CMV brake inspections resulted in zero violations during CVSA Brake Safety Week",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ]
 }
