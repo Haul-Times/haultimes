@@ -702,6 +702,32 @@
   "kind": "review"
  },
  {
+  "id": "c76fb2e8a7",
+  "slug": "kenya-moves-to-adopt-global-road-safety-standards-as-thousands-continu-c76fb2e8a7",
+  "title": "Kenya moves to adopt global road safety standards as thousands continue dying in road crashes",
+  "orig_title": "Kenya moves to adopt global road safety standards as thousands continue dying in road crashes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Eastleigh Voice",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQU56SUxGSVlCSk1UWTdtbHJwMlY0SmlXVksycEhyV0hRUzg0U1ZRdzRyX0RaRTJHQXJITWpsSktXVVA0ckxuRUVRbmctV1diQThfVEc1VEU2c3Y3OXBhVk55dFBhbWoyV2M5WmtwOTJjTWVDcVhuUU14YnJacllHMDhFWUl0QzY0NU1KY0lzaDlVZHJ1aUdGX0N4bm5zS0llT3JoWVlKSFZESFpCVGZ4VFJKUnVLNDJiSHNwTU1JMVVDR2FPc242aGhUNjdQdmMwUWdUSmNXZ2VyZmhx?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQU56SUxGSVlCSk1UWTdtbHJwMlY0SmlXVksycEhyV0hRUzg0U1ZRdzRyX0RaRTJHQXJITWpsSktXVVA0ckxuRUVRbmctV1diQThfVEc1VEU2c3Y3OXBhVk55dFBhbWoyV2M5WmtwOTJjTWVDcVhuUU14YnJacllHMDhFWUl0QzY0NU1KY0lzaDlVZHJ1aUdGX0N4bm5zS0llT3JoWVlKSFZESFpCVGZ4VFJKUnVLNDJiSHNwTU1JMVVDR2FPc242aGhUNjdQdmMwUWdUSmNXZ2VyZmhx",
+  "snippet": "Kenya moves to adopt global road safety standards as thousands continue dying in road crashes The Eastleigh Voice",
+  "published": "2026-11-09T19:39:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T23:48:27.367220+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "d456d8df87",
   "slug": "jacobs-playbook-will-target-new-industry-to-be-determined-d456d8df87",
   "title": "Jacobs’ ‘playbook’ will target new industry, to be determined",
@@ -4000,6 +4026,32 @@
   "kind": "rejected"
  },
  {
+  "id": "3289135cf4",
+  "slug": "two-ugandan-transporters-shot-dead-in-south-sudan-3289135cf4",
+  "title": "Two Ugandan transporters shot dead in South Sudan",
+  "orig_title": "Two Ugandan transporters shot dead in South Sudan",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Daily Monitor",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzB1WnJNdkxtSndrb2xUQ0ozdVFNRllpTGljdk9ncEYyOEFVdkZ3UW1YaVVqUmkyRFVuZEtiR1BIOXUtUjJqaGlsWTNyUnc5M3FBUFVKd3ZQaUtqQ2dGeDhHTllKUUNPb0g4dHFkWGc2TldUQjExRW8yUnlib0VfQ2JHcGhfeXptVEdJUkFfdWUyTUswWFRDdVJOVmRPdlA4QXhjQ2pvYw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzB1WnJNdkxtSndrb2xUQ0ozdVFNRllpTGljdk9ncEYyOEFVdkZ3UW1YaVVqUmkyRFVuZEtiR1BIOXUtUjJqaGlsWTNyUnc5M3FBUFVKd3ZQaUtqQ2dGeDhHTllKUUNPb0g4dHFkWGc2TldUQjExRW8yUnlib0VfQ2JHcGhfeXptVEdJUkFfdWUyTUswWFRDdVJOVmRPdlA4QXhjQ2pvYw",
+  "snippet": "Two Ugandan transporters shot dead in South Sudan Daily Monitor",
+  "published": "2026-11-08T11:48:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T23:48:27.367220+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "a366560575",
   "slug": "what-comes-next-for-rxo-after-a-121-gain-a366560575",
   "title": "What Comes Next For RXO After A 121% Gain",
@@ -7147,28 +7199,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news"
- },
- {
-  "id": "5eef5c94be",
-  "slug": "logistics-brokerage-archives-5eef5c94be",
-  "title": "Logistics & Brokerage Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc3Fpd0M2WklQc3hUei16azRYT1VmWDFpVW1EWTgwQmtRRGlPU3NLd3BBWUdFWnQyOU1mVTA2X2hicVltWkhqaC1BcW9lZEwtLWFLZFU5dU9yNFlZOWpzd1laUEtpdmtwSFdMYWxSVDFfcXZEa2tpYlNBTnA0QTZDMw?oc=5",
-  "published": "2026-11-05T23:44:24+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Logistics & Brokerage Archives",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected"
  },
  {
   "id": "c6e0d61a1c",
