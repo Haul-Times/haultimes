@@ -628,6 +628,32 @@
   "kind": "news"
  },
  {
+  "id": "78f3f0f96c",
+  "slug": "russian-drones-attacked-the-khmelnytskyi-region-there-are-casualties-78f3f0f96c",
+  "title": "Russian drones attacked the Khmelnytskyi region; there are casualties",
+  "orig_title": "Russian drones attacked the Khmelnytskyi region; there are casualties",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "UA.NEWS",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHRJTDg1empJOVdOWFhBVDRHZkdDXzFDLVJma1dUSmwwaE9QZkNnd0tmcC1wRjhTcUhZb1pHOGFQS0d1cjhHRFJpNUplQXRIcUUwLWR0MkZqUEZfRURfZ2FpQTJ0Tnc2YllzSGMzVXZBQXdCMUZnTjVIclI0aW9TTThHNWQ2ckU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHRJTDg1empJOVdOWFhBVDRHZkdDXzFDLVJma1dUSmwwaE9QZkNnd0tmcC1wRjhTcUhZb1pHOGFQS0d1cjhHRFJpNUplQXRIcUUwLWR0MkZqUEZfRURfZ2FpQTJ0Tnc2YllzSGMzVXZBQXdCMUZnTjVIclI0aW9TTThHNWQ2ckU",
+  "snippet": "Russian drones attacked the Khmelnytskyi region; there are casualties UA.NEWS",
+  "published": "2026-11-08T12:46:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T00:49:53.810584+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "7d3164bef7",
   "slug": "crash-in-louisiana-kills-2-one-arrested-after-impairment-discovered-7d3164bef7",
   "title": "Crash in Louisiana kills 2, one arrested after impairment discovered",
@@ -844,6 +870,32 @@
   "reasons": [],
   "labels": [],
   "kind": "news"
+ },
+ {
+  "id": "07406f9980",
+  "slug": "chinese-dad-whose-daughter-died-in-crash-visits-junction-daily-catchin-07406f9980",
+  "title": "Chinese dad whose daughter died in crash visits junction daily catching violators",
+  "orig_title": "Chinese dad whose daughter died in crash visits junction daily catching violators",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "South China Morning Post",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSGxScWlIRXlLTTR3Qm1lcDdjczlzT05FTjd1V1BEN3hzM0VxdzJWZjJhWXVQV1JObDR5VzRfV3FKQUV5SkcyVHRJeUR3d0FBMjJOQzNvcUZ3NzE0TUNMd2pIMWdaN1MwQ1RRQ1BtSmVwYnpIUVd4ZzZpUTUwYkIyQjV3NGZFanFDaWpBRXJpaXBiMmtuZ0xKMWFNZ2ktU1VZWVFxRUQ5NnlvLWNkWlpKMjdzQ3dtNkFockhaZFlsSnEzWkF3Nlk5eU01VXRqdWliWi12NDZZZkF6c0doT0t0ektmOXkwS2owZE5B0gHrAUFVX3lxTE9COW1mVGg1bzliMGk5REhjeTBrNFlfclRVREQ5aUxWM2x4N05XSldfZlZNTkZVRVl5V3E2MHpOdW1oUjRXSmVIaXQxNF9zY3EzWjBXaXl1ei1qLWFSY2d2cUphVjVQdXFiNVNhZTdCVUhCR1FqcVUwR2RUNHUya05kVV9FbUktbnIwdmIxLTRvUl84SkpubEkxSlpzOHJ1VXM3RkhfNUlyUW5WMXVpd1hXc0ZVdzN3MDFZc2U1cURUdFRFaFBqZzAtcGtaOVRuaWF3QTYzTFJuWUljeEwyYlEtS1gwNGlYRm5YLTA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSGxScWlIRXlLTTR3Qm1lcDdjczlzT05FTjd1V1BEN3hzM0VxdzJWZjJhWXVQV1JObDR5VzRfV3FKQUV5SkcyVHRJeUR3d0FBMjJOQzNvcUZ3NzE0TUNMd2pIMWdaN1MwQ1RRQ1BtSmVwYnpIUVd4ZzZpUTUwYkIyQjV3NGZFanFDaWpBRXJpaXBiMmtuZ0xKMWFNZ2ktU1VZWVFxRUQ5NnlvLWNkWlpKMjdzQ3dtNkFockhaZFlsSnEzWkF3Nlk5eU01VXRqdWliWi12NDZZZkF6c0doT0t0ektmOXkwS2owZE5B0gHrAUFVX3lxTE9COW1mVGg1bzliMGk5REhjeTBrNFlfclRVREQ5aUxWM2x4N05XSldfZlZNTkZVRVl5V3E2MHpOdW1oUjRXSmVIaXQxNF9zY3EzWjBXaXl1ei1qLWFSY2d2cUphVjVQdXFiNVNhZTdCVUhCR1FqcVUwR2RUNHUya05kVV9FbUktbnIwdmIxLTRvUl84SkpubEkxSlpzOHJ1VXM3RkhfNUlyUW5WMXVpd1hXc0ZVdzN3MDFZc2U1cURUdFRFaFBqZzAtcGtaOVRuaWF3QTYzTFJuWUljeEwyYlEtS1gwNGlYRm5YLTA",
+  "snippet": "Chinese dad whose daughter died in crash visits junction daily catching violators South China Morning Post",
+  "published": "2026-11-08T10:00:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T00:49:53.810584+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected"
  },
  {
   "id": "8428ab602b",
