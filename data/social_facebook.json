@@ -266,6 +266,33 @@
    "reason": "importance 70 (threshold 65), Regulations, established outlet",
    "breaking": null,
    "edited": false
+  },
+  "000192fcb1": {
+   "story_id": "000192fcb1",
+   "title": "U.S. Diesel Price Outlook for Fleets in 2027",
+   "url_key": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TZlpmcFVDRFRldmR3VHMxQ0JscVBYSEJ0TlppbWdjLVoyN2RhZTB0RXhXektXMDVpYldDdDRFZ08tUDNpRnFyV0NtbnFqOUhmNE1uX2pFbUFxMk5lb0dNWU83VVRWYnVKVXNXaW01RFhuUUs4NFBRLVNR",
+   "category": "fuel",
+   "source": "Fleet Equipment Magazine",
+   "dest": "https://haultimes.com/story/u-s-diesel-price-outlook-for-fleets-in-2027-000192fcb1/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=000192fcb1",
+   "caption": "U.S. Diesel Price Outlook for Fleets in 2027.\n\nReported by Fleet Equipment Magazine. The link has the details and the original article.\n\n#Trucking #Diesel",
+   "status": "queued",
+   "created_at": "2026-11-09T17:41:17.406317+00:00",
+   "published": "2026-11-09T14:00:00+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "U.S. Diesel Price Outlook for Fleets in 2027 | HaulTimes",
+    "og:description": "Reported by Fleet Equipment Magazine. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/u-s-diesel-price-outlook-for-fleets-in-2027-000192fcb1/"
+   },
+   "reason": "importance 73 (threshold 65), Fuel, established outlet",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -324,7 +351,12 @@
   "e18749db81": "queued|importance 70 (threshold 65), Regulations, established outlet",
   "9a23addb2c": "skipped|minor item (announcement) or low-quality source",
   "d9567602da": "skipped|importance 55 is below this platform's threshold (65)",
-  "9ab542a2e8": "skipped|importance 45 is below this platform's threshold (65)"
+  "9ab542a2e8": "skipped|importance 45 is below this platform's threshold (65)",
+  "000192fcb1": "queued|importance 73 (threshold 65), Fuel, established outlet",
+  "4648ff7e05": "skipped|importance 62 is below this platform's threshold (65)",
+  "a5ae074b94": "skipped|importance 63 is below this platform's threshold (65)",
+  "708c2ac4b9": "skipped|importance 50 is below this platform's threshold (65)",
+  "1bfc38f0f3": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -606,6 +638,41 @@
    "title": "Konecranes patents system to protect truck drivers under cranes",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T17:41:17.406317+00:00",
+   "story_id": "000192fcb1",
+   "title": "U.S. Diesel Price Outlook for Fleets in 2027",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Fuel, established outlet"
+  },
+  {
+   "at": "2026-11-09T17:41:17.406317+00:00",
+   "story_id": "4648ff7e05",
+   "title": "DAT: Reefer spot rates climbs as holiday freight starts moving",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T17:41:17.406317+00:00",
+   "story_id": "a5ae074b94",
+   "title": "TRAFFIX November NAX Index signals easing cross-border freight conditions amid peak season capacity and fuel pressures",
+   "action": "skipped",
+   "reason": "importance 63 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T17:41:17.406317+00:00",
+   "story_id": "708c2ac4b9",
+   "title": "$115k copper wire stolen after trucking company email hacked",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T17:41:17.406317+00:00",
+   "story_id": "1bfc38f0f3",
+   "title": "Fleetworthy debuts RADAR for fleet toll analysis",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ]
 }
