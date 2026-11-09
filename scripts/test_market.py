@@ -104,9 +104,13 @@ EIA_HTML = """<html><body><h1>Gasoline and Diesel Fuel Update</h1><h2>Retail pri
 <tr><td>West Coast (PADD5)</td><td>4.3</td><td>4.35</td><td>4.40</td><td>0.05</td><td>0.1</td></tr>
 <tr><td>West Coast less California</td><td>4.0</td><td>4.05</td><td>4.10</td><td>0.05</td><td>0.1</td></tr>
 <tr><td>California</td><td>4.8</td><td>4.85</td><td>4.90</td><td>0.05</td><td>0.1</td></tr></table></body></html>"""
-wk, cur, pwk, prv = fm.parse_eia_page(EIA_HTML)
+wk, cur, pwk, prv, dbg = fm.parse_eia_page(EIA_HTML)
 check("EIA page: diesel table and latest week", wk == "2026-11-03" and pwk == "2026-10-27" and cur["US"] == 3.80 and prv["US"] == 3.75)
 check("EIA page: regions told apart", cur["5XCA"] == 4.10 and cur["CA"] == 4.90 and cur["5"] == 4.40 and cur["1A"] == 4.00)
+# headings ambiguous (both tables under the same title): the higher-priced table is diesel
+amb = EIA_HTML.replace("<h2>On-Highway Diesel Fuel Prices</h2>", "").replace("<h2>Retail prices for Gasoline, All Grades</h2>", "")
+_w, ac, _p, _pp, adbg = fm.parse_eia_page(amb)
+check("EIA page: ambiguous headings -> higher US average (diesel)", ac["US"] == 3.80 and adbg["picked_by"] == "higher US average")
 try:
     fm.parse_eia_page("<table><tr><td>U.S.</td><td>3</td></tr></table>")
     check("EIA page without diesel refused", False)

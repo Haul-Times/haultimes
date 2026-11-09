@@ -309,19 +309,12 @@ class _Tables(__import__("html.parser").parser.HTMLParser):
             self.before += " " + data.strip()
 
 
-def parse_eia_page(html_text):
-    """Diesel table from EIA's Gasoline and Diesel Fuel Update page -> (week, {region: price}, prev_week, {region: price})."""
+def _eia_candidates(html_text):
+    """Every table on the page that lists EIA regions with weekly prices."""
     p = _Tables()
     p.feed(html_text)
+    out = []
     for t in p.tables:
-        # The table's own heading is whichever fuel word appears LAST in the text just before it
-        # (the page title "Gasoline and Diesel Fuel Update" mentions both, so "contains diesel" is not enough).
-        before = t["before"].lower()
-        own = " ".join(" ".join(r) for r in t["rows"][:1]).lower()
-        if "diesel" in own and "gasoline" not in own:
-            pass
-        elif before.rfind("diesel") <= before.rfind("gasoline"):
-            continue
         dates = None
         for r in t["rows"]:
             ds = [c for c in r if re.match(r"^\d{1,2}/\d{1,2}/\d{2,4}$", c)]
@@ -341,16 +334,42 @@ def parse_eia_page(html_text):
                     nums.append(float(c.replace("$", "")))
                 except ValueError:
                     pass
-            if key and len(nums) >= len(dates) and 1 < nums[len(dates) - 1] < 15:
+            if key and len(nums) >= len(dates) and 1 < nums[len(dates) - 1] < 15 and key not in cur:
                 cur[key] = nums[len(dates) - 1]
                 prev[key] = nums[len(dates) - 2]
-        if len(cur) >= 5 and cur.get("US", 0) > 0:
-            iso = lambda d: datetime.strptime(d, "%m/%d/%y" if len(d.split("/")[2]) == 2 else "%m/%d/%Y").date().isoformat()
-            return iso(dates[-1]), cur, iso(dates[-2]), prev
-    raise ValueError("diesel table not found on EIA page")
+        if len(cur) >= 5 and cur.get("US"):
+            before = t["before"].lower()
+            own = " ".join(" ".join(r) for r in t["rows"][:2]).lower()
+            out.append({"dates": dates, "cur": cur, "prev": prev, "before": t["before"][-160:],
+                        "diesel_heading": ("diesel" in own and "gasoline" not in own) or before.rfind("diesel") > before.rfind("gasoline")})
+    return out
 
 
-EIA_PARSER = 2   # bump to force a fresh fetch when the way the page is read changes
+def parse_eia_page(html_text):
+    """Diesel table from EIA's Gasoline and Diesel Fuel Update page -> (week, {region: price}, prev_week, {region: price}, debug).
+
+    The page has a gasoline table and a diesel table with the same regions. We take the table headed
+    "diesel"; if headings are ambiguous we take the table with the higher US average, because US retail
+    diesel has cost more than gasoline every week since 2009. Both checks are recorded for review.
+    """
+    cands = _eia_candidates(html_text)
+    if not cands:
+        raise ValueError("no regional price table found on EIA page")
+    headed = [c for c in cands if c["diesel_heading"]]
+    if len(headed) == 1 and (len(cands) == 1 or headed[0]["cur"]["US"] >= max(c["cur"]["US"] for c in cands)):
+        pick, how = headed[0], "heading"
+    elif len(cands) >= 2:
+        pick, how = max(cands, key=lambda c: c["cur"]["US"]), "higher US average"
+    else:
+        raise ValueError("only one price table found and it is not clearly diesel")
+    iso = lambda d: datetime.strptime(d, "%m/%d/%y" if len(d.split("/")[2]) == 2 else "%m/%d/%Y").date().isoformat()
+    n = len(pick["dates"])
+    debug = {"tables": [{"us": c["cur"]["US"], "regions": sorted(c["cur"]), "diesel_heading": c["diesel_heading"],
+                         "before": c["before"]} for c in cands], "picked_by": how}
+    return iso(pick["dates"][n - 1]), pick["cur"], iso(pick["dates"][n - 2]), pick["prev"], debug
+
+
+EIA_PARSER = 3   # bump to force a fresh fetch when the way the page is read changes
 
 
 def update_eia(store, key):
@@ -372,9 +391,14 @@ def update_eia(store, key):
                 return out
             latest, prices, prev_week, prev_prices = weeks[0], pick(weeks[0]), weeks[1], pick(weeks[1])
         else:
-            latest, prices, prev_week, prev_prices = parse_eia_page(http_get(EIA_PAGE).decode("utf-8", "replace"))
+            latest, prices, prev_week, prev_prices, debug = parse_eia_page(http_get(EIA_PAGE).decode("utf-8", "replace"))
+            store["debug"] = debug
     except Exception as e:
         msg = re.sub(r"api_key=[^&\s]+", "api_key=***", "%s: %s" % (type(e).__name__, e))
+        if store.get("parser") != EIA_PARSER:   # data read the old, wrong way is dropped, not kept
+            for k in ("prices", "prev_prices", "week", "prev_week", "retrieved_at"):
+                store.pop(k, None)
+            store["status"] = "error"
         return keep_old(store, "EIA: " + msg)
     store.update(status="ok", week=latest, prices=prices, prev_week=prev_week, prev_prices=prev_prices, parser=EIA_PARSER,
                  units="US$ per gallon", retrieved_at=NOW.isoformat(), last_attempt_at=NOW.isoformat(),
