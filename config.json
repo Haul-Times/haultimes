@@ -15,19 +15,25 @@
   "facebook_posts_per_day": 6,
   "facebook_min_score": 70,
   "news_feeds": [
-    "https://news.google.com/rss/search?q=trucking+when:1d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=trucking+when:1d&hl=en-CA&gl=CA&ceid=CA:en",
-    "https://news.google.com/rss/search?q=truckload+OR+LTL+OR+%22freight+market%22+OR+%22freight+rates%22+when:2d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=%22truck+drivers%22+OR+truckers+when:2d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=%22truck+drivers%22+OR+truckers+when:2d&hl=en-CA&gl=CA&ceid=CA:en",
+    {
+      "url": "https://www.trucknews.com/feed/",
+      "source": "Truck News"
+    },
+    "https://news.google.com/rss/search?q=%22trucking+industry%22+OR+%22trucking+company%22+OR+%22trucking+companies%22+when:1d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=%22trucking+industry%22+OR+%22trucking+company%22+OR+%22trucking+companies%22+when:1d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=%22truckload%22+OR+%22LTL%22+OR+%22spot+rates%22+OR+%22freight+market%22+trucking+when:2d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=%22truck+drivers%22+OR+truckers+when:2d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares+-%22driving+job%22&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=%22truck+drivers%22+OR+truckers+when:2d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares+-%22driving+job%22&hl=en-CA&gl=CA&ceid=CA:en",
     "https://news.google.com/rss/search?q=FMCSA+OR+%22Transport+Canada%22+trucks+when:3d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=%22freight+broker%22+OR+%22freight+brokerage%22+when:3d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=%22freight+broker%22+OR+%22freight+brokerage%22+when:3d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=%22diesel+prices%22+truckers+OR+trucking+when:3d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=%22cross-border%22+trucking+OR+trucks+Canada+when:3d&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=CBSA+OR+CBP+%22commercial+trucks%22+OR+%22truck+traffic%22+border+when:3d&hl=en-CA&gl=CA&ceid=CA:en",
     "https://news.google.com/rss/search?q=site:freightwaves.com+when:2d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=site:ttnews.com+when:2d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=site:ccjdigital.com+OR+site:overdriveonline.com+when:2d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=site:thetrucker.com+OR+site:truckinginfo.com+when:2d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=site:trucknews.com+OR+site:todaystrucking.com+when:3d&hl=en-CA&gl=CA&ceid=CA:en"
-  ]
+    "https://news.google.com/rss/search?q=site:thetrucker.com+OR+site:truckinginfo.com+when:2d+-%22driving+job%22+-%22truck+driving+jobs%22&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=site:todaystrucking.com+when:3d&hl=en-CA&gl=CA&ceid=CA:en"
+  ],
+  "keep_hidden_days": 4
 }

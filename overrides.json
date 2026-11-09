@@ -1,0 +1,16 @@
+{
+  "_help": "Editor controls. Find a story's id on haultimes.com/editor/ and put it in a list below. You can also use the story's link, or a piece of its headline (at least 12 letters). Changes apply on the next update (within 15 minutes).",
+  "pin": [],
+  "exclude": [],
+  "include": [],
+  "category": {},
+  "importance": {},
+  "_examples": {
+    "pin": ["a1b2c3d4e5"],
+    "exclude": ["Fleet Costs Shape ACT Expo"],
+    "include": ["a1b2c3d4e5"],
+    "category": {"a1b2c3d4e5": "equip"},
+    "importance": {"a1b2c3d4e5": 85},
+    "topics": "rates, border, regs, fuel, equip, drivers, other (other = Industry)"
+  }
+}
