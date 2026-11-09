@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /editor/
+Disallow: /out/
 Sitemap: https://haultimes.com/sitemap.xml

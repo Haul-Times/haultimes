@@ -32,9 +32,9 @@
   "orig_title": "Local grocery stores across New England running out of stock as truck drivers go on strike",
   "summary": "",
   "why": "",
-  "category": "other",
+  "category": "drivers",
   "region": "",
-  "importance": 0,
+  "importance": 70,
   "source": "CBS News",
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jT0xLbkFWc3VXWG1nbW1Ib0JCQ09heTJIdVQwTkNSRGxaZWc3N3I3ODZKUkNJS3Jxak5SVTZ5RVNwR3BuMHhNQVVlcHQ5ckR2b3N0a1JabHAxcE5scnRaMXo5T3NqcVlrd1ZzRFBQeWhqLVFXamJMa2dFLUg?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jT0xLbkFWc3VXWG1nbW1Ib0JCQ09heTJIdVQwTkNSRGxaZWc3N3I3ODZKUkNJS3Jxak5SVTZ5RVNwR3BuMHhNQVVlcHQ5ckR2b3N0a1JabHAxcE5scnRaMXo5T3NqcVlrd1ZzRFBQeWhqLVFXamJMa2dFLUg",
@@ -44,12 +44,10 @@
   "first_seen": "2026-11-09T00:47:54.174006+00:00",
   "image": "",
   "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
-  "kind": "rejected"
+  "kind": "news"
  },
  {
   "id": "c2b1ed6dd1",
