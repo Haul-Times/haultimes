@@ -87,7 +87,45 @@ check("not re-fetched within 6 hours", fm.update_usda(dict(good, retrieved_at=fm
 fm.http_get = orig_get
 
 # --- EIA without a key does nothing and shows no numbers
-check("EIA without key -> no_key", fm.update_eia({}, None)["status"] == "no_key")
+# EIA page (no key needed): the diesel table, not the gasoline one
+EIA_HTML = """<html><body><h2>Retail prices for Gasoline, All Grades</h2><table><tr><th></th><th>10/27/26</th><th>11/03/26</th></tr>
+<tr><td>U.S.</td><td>3.10</td><td>3.05</td></tr></table>
+<h2>On-Highway Diesel Fuel Prices</h2><table><tr><th></th><th>10/20/26</th><th>10/27/26</th><th>11/03/26</th><th>week ago</th><th>year ago</th></tr>
+<tr><td>U.S.</td><td>3.70</td><td>3.75</td><td>3.80</td><td>0.05</td><td>0.10</td></tr>
+<tr><td>East Coast (PADD1)</td><td>3.8</td><td>3.85</td><td>3.9</td><td>0.05</td><td>0.1</td></tr>
+<tr><td>New England (PADD1A)</td><td>3.9</td><td>3.95</td><td>4.00</td><td>0.05</td><td>0.1</td></tr>
+<tr><td>Central Atlantic (PADD1B)</td><td>3.9</td><td>3.92</td><td>3.95</td><td>0.03</td><td>0.1</td></tr>
+<tr><td>Lower Atlantic (PADD1C)</td><td>3.6</td><td>3.65</td><td>3.7</td><td>0.05</td><td>0.1</td></tr>
+<tr><td>Midwest (PADD2)</td><td>3.6</td><td>3.62</td><td>3.66</td><td>0.04</td><td>0.1</td></tr>
+<tr><td>Gulf Coast (PADD3)</td><td>3.4</td><td>3.45</td><td>3.50</td><td>0.05</td><td>0.1</td></tr>
+<tr><td>Rocky Mountain (PADD4)</td><td>3.7</td><td>3.72</td><td>3.75</td><td>0.03</td><td>0.1</td></tr>
+<tr><td>West Coast (PADD5)</td><td>4.3</td><td>4.35</td><td>4.40</td><td>0.05</td><td>0.1</td></tr>
+<tr><td>West Coast less California</td><td>4.0</td><td>4.05</td><td>4.10</td><td>0.05</td><td>0.1</td></tr>
+<tr><td>California</td><td>4.8</td><td>4.85</td><td>4.90</td><td>0.05</td><td>0.1</td></tr></table></body></html>"""
+wk, cur, pwk, prv = fm.parse_eia_page(EIA_HTML)
+check("EIA page: diesel table and latest week", wk == "2026-11-03" and pwk == "2026-10-27" and cur["US"] == 3.80 and prv["US"] == 3.75)
+check("EIA page: regions told apart", cur["5XCA"] == 4.10 and cur["CA"] == 4.90 and cur["5"] == 4.40 and cur["1A"] == 4.00)
+try:
+    fm.parse_eia_page("<table><tr><td>U.S.</td><td>3</td></tr></table>")
+    check("EIA page without diesel refused", False)
+except ValueError:
+    check("EIA page without diesel refused", True)
+check("every lower-48 state has an EIA region", all(s in fm.EIA_STATE_REGION for s in fm.CODES))
+SC = ("REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS\n"
+      "2026-08,\"Halifax, Nova Scotia\",x,Diesel fuel at self service filling stations,Cents per litre,1,units,0,v,1,170.1,\n"
+      "2026-09,\"Halifax, Nova Scotia\",x,Diesel fuel at self service filling stations,Cents per litre,1,units,0,v,1,172.3,\n"
+      "2026-09,\"Toronto, Ontario\",x,Diesel fuel at self service filling stations,Cents per litre,1,units,0,v,1,160.0,\n"
+      "2026-09,\"Ottawa-Gatineau, Ontario part, Ontario/Quebec\",x,Diesel fuel at self service filling stations,Cents per litre,1,units,0,v,1,162.0,\n"
+      "2026-09,\"Toronto, Ontario\",x,Regular unleaded gasoline at self service filling stations,Cents per litre,1,units,0,v,1,140.0,\n")
+m, provs, pm, pprovs = fm.parse_statcan_fuel(SC)
+check("StatCan diesel: latest month, province averages", m == "2026-09" and provs["ON"]["avg"] == 161.0 and provs["NS"]["avg"] == 172.3 and pm == "2026-08")
+check("StatCan diesel: gasoline ignored, Ottawa counted in Ontario", set(provs["ON"]["cities"]) == {"Toronto", "Ottawa-Gatineau"})
+now = datetime(2026, 11, 9, 15, tzinfo=timezone.utc)
+dpage = mp.diesel_section({"eia_diesel": {"status": "ok", "week": wk, "prices": cur, "prev_week": pwk, "prev_prices": prv, "retrieved_at": "2026-11-09T12:00:00+00:00"},
+                           "statcan_diesel": {"month": m, "provinces": provs, "prev_month": pm, "prev_provinces": pprovs, "retrieved_at": "2026-11-09T12:00:00+00:00"}}, now, ET)
+check("diesel map: states and provinces priced", 'id="f-TX"' in dpage and "$3.50" in dpage and "161¢" in dpage)
+check("diesel map: change periods named", "vs Oct 27" in dpage and "vs Aug" in dpage)
+check("diesel map: empty -> No data", "No data yet" in mp.diesel_section({}, now, ET))
 
 # --- Ontario CSV: wide and long layouts, garbage refused
 wide = "Date,Fuel Type,Toronto West,Ottawa,Ontario Average/Moyenne provinciale\n2026-10-26,Diesel,165.2,166.0,164.9\n2026-11-02,Diesel,167.0,166.4,165.8\n2026-11-02,Regular Unleaded Gasoline,139.1,140.2,139.9\n"
@@ -137,7 +175,7 @@ spts, label = fm.parse_statcan(sc)
 check("StatCan: Canada total series picked", spts == [("2026-08", 124.1), ("2026-09", 124.7)] and "Total" in label)
 check("BTS parsed", fm.parse_bts([{"date": "2026-09-01T00:00:00.000", "trucks": "498210"}, {"bad": 1}]) == [("2026-09", 498210.0)])
 card = mp.gov_card("T", "D", st, lambda v: "%.1f" % v, "src", now, ET)
-check("gov card shows value and change", "118.4" in card and "0.6%" in card)
+check("gov card shows value and change from the named month", "118.4" in card and "0.6% from Aug 2026" in card)
 check("gov card failure keeps old value with notice", "update failed" in mp.gov_card("T", "D", dict(st, last_error="x"), lambda v: "%.1f" % v, "src", now, ET))
 
 print("\n%d failed" % len(failures) if failures else "\nAll market tests passed.")

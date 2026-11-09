@@ -181,7 +181,7 @@ export async function addPoll(db, body, voter, now) {
   const answer = Number(body.answer);
   if (!country(region)) return { ok: false, error: "Pick your state or province." };
   if (!EQUIPMENT[body.equipment]) return { ok: false, error: "Pick the equipment." };
-  if (![1, 0, -1].includes(answer)) return { ok: false, error: "Pick hot, normal or slow." };
+  if (![1, 0, -1].includes(answer)) return { ok: false, error: "Choose busy, normal or slow." };
   // One answer per person, equipment and region each week; answering again replaces it.
   await db.prepare(`INSERT INTO polls (week, region, equipment, answer, voter, created) VALUES (?, ?, ?, ?, ?, ?)
     ON CONFLICT(week, equipment, region, voter) DO UPDATE SET answer = excluded.answer, created = excluded.created`)

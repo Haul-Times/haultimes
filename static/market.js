@@ -63,10 +63,10 @@
       shown++; if (v.level === "hot") hot++;
       g.querySelector("rect").setAttribute("fill", COL[v.level]);
       if (v.level !== "normal") g.querySelector("text").setAttribute("fill", "#fff");
-      tip.textContent = (NAMES[k] || k) + ": " + v.level + " (" + v.hot + " hot, " + v.normal + " normal, " + v.slow + " slow)";
+      tip.textContent = (NAMES[k] || k) + ": " + ({ hot: "busy", normal: "normal", slow: "slow" })[v.level] + " (" + v.hot + " busy, " + v.normal + " normal, " + v.slow + " slow)";
     });
     $("#map-title").textContent = (eq === "all" ? "All loads" : EQ[eq] + " loads") + ", week of " + new Date(last.week + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric" });
-    $("#map-count").textContent = last.reports + " reports this week. " + (shown ? shown + " areas shown, " + hot + " hot." : "No area has 5 reports yet.");
+    $("#map-count").textContent = last.reports + " reports this week. " + (shown ? shown + " areas shown, " + hot + " busy." : "No area has 5 reports yet.");
   }
 
   function load() {
@@ -170,7 +170,7 @@
       post("poll", { region: pRegion, equipment: pEq, answer: Number(b.dataset.a) }).then(function (j) {
         if (!j.ok) return say(out, "err", esc(j.error || "Couldn't save. Try again."));
         store.set("ht_poll_region", pRegion); store.set("ht_poll_eq", pEq);
-        say(out, "ok", "Thanks! Counted for " + esc(NAMES[pRegion] || pRegion) + ", " + EQ[pEq] + ", this week.");
+        say(out, "ok", "Recorded for " + esc(NAMES[pRegion] || pRegion) + ", " + EQ[pEq] + ", this week.");
         load();
       }).catch(function () { say(out, "err", "Couldn't save right now. Try again in a minute."); });
     });
@@ -184,7 +184,7 @@
     var out = $("#rep-out"), body = vals(rep);
     post("rate", body).then(function (j) {
       if (!j.ok) return say(out, "err", esc(j.error || "Couldn't save. Try again."));
-      say(out, "ok", "Thanks! Recorded at " + (j.currency === "CAD" ? "C$" : "US$") + j.rpm.toFixed(2) + "/mi. It counts toward the lane once enough people report.");
+      say(out, "ok", "Recorded at " + (j.currency === "CAD" ? "C$" : "US$") + j.rpm.toFixed(2) + "/mi. It counts toward the lane once enough people report.");
       rep.querySelector("[name=amount]").value = ""; rep.querySelector("[name=distance]").value = "";
       load();
     }).catch(function () { say(out, "err", "Couldn't save right now. Try again in a minute."); });

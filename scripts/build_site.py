@@ -372,7 +372,7 @@ def build_home(stories, border):
             blocks.append('<section class="block"><h2 class="sec-title"><a href="/topic/%s/">%s ›</a></h2>%s'
                           '<h3 class="h-md"><a href="%s">%s</a></h3><span class="meta">%s · %s</span><div class="more">%s</div></section>' % (
                               slug, E(label), pic(first), story_url(first), E(first["title"]), time_tag(first), src(first),
-                              "".join('<a href="%s">%s</a>' % (story_url(s), E(s["title"])) for s in more)))
+                              "".join('<a href="%s">%s <span class="src-in">%s</span></a>' % (story_url(s), E(s["title"]), E(s["source"])) for s in more)))
         if blocks:
             out.append('<div class="blocks">%s</div>' % "".join(blocks))
     out.append("</main>")
@@ -389,6 +389,17 @@ def fmt_wait(w):
 SHARE_SVG = ('<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" '
              'stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/>'
              '<circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>')
+
+
+_I = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" %s>%s</svg>'
+SHARE_ICONS = {
+    "text": _I % ('fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"', '<path d="M4 5h16v11H9l-5 4z"/>'),
+    "whatsapp": _I % ('fill="currentColor"', '<path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 2a8 8 0 1 1-4.1 14.9l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 0 1 12 4zm-3.2 3.6c-.2 0-.6.1-.9.4-.3.3-1.1 1.1-1.1 2.6s1.1 3 1.3 3.2c.2.2 2.2 3.4 5.4 4.6 2.6 1 3.2.8 3.7.8.6-.1 1.8-.7 2-1.5.3-.7.3-1.3.2-1.5-.1-.1-.3-.2-.6-.4l-2-1c-.3-.1-.5-.1-.7.1l-.9 1.1c-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.4.1-.6l.5-.6.3-.5v-.5l-.9-2.2c-.2-.6-.5-.6-.7-.6z"/>'),
+    "facebook": _I % ('fill="currentColor"', '<path d="M14 8h3V4h-3c-2.8 0-4.5 1.8-4.5 4.6V11H7v4h2.5v7h4v-7h3l.5-4h-3.5V8.8c0-.5.3-.8.5-.8z"/>'),
+    "email": _I % ('fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"', '<rect x="3" y="5" width="18" height="14" rx="1"/><path d="M3 6l9 7 9-7"/>'),
+    "x": _I % ('fill="currentColor"', '<path d="M17.7 3h3.1l-6.8 7.8L22 21h-6.3l-4.9-6.4L5.2 21H2.1l7.3-8.3L1.8 3h6.4l4.4 5.9zm-1.1 16.2h1.7L7.4 4.7H5.6z"/>'),
+    "copy": _I % ('fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"', '<path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/>'),
+}
 
 
 def share_icon(s):
@@ -413,8 +424,8 @@ def share_bar(s):
     out.append('<button type="button" class="sh-native" data-u="%s" data-t="%s" hidden>%s Share…</button>' % (E(url), E(title), SHARE_SVG))
     for key, name, href in links:
         ext = "" if key in ("text", "email") else ' target="_blank" rel="noopener"'
-        out.append('<a class="sh-%s" data-net="%s" href="%s"%s>%s</a>' % (key, key, E(href), ext, name))
-    out.append('<button type="button" class="sh-copy" data-u="%s">Copy link</button></div>' % E(url))
+        out.append('<a class="sh-%s" data-net="%s" href="%s"%s>%s<span>%s</span></a>' % (key, key, E(href), ext, SHARE_ICONS[key], name))
+    out.append('<button type="button" class="sh-copy" data-u="%s">%s<span>Copy link</span></button></div>' % (E(url), SHARE_ICONS["copy"]))
     return "".join(out)
 
 

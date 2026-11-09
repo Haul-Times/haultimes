@@ -245,30 +245,203 @@ def update_ontario(store):
     return store
 
 
-# ------------------------------------------------------------------ EIA diesel (needs a free key)
+# ------------------------------------------------------------------ EIA diesel by region (public domain)
+# With a free EIA_API_KEY the official API is used; without one, the same weekly table is read from
+# EIA's Gasoline and Diesel Fuel Update page. Both give retail on-highway diesel, US$/gallon, by region.
+
+EIA_REGIONS = [  # (key, label, words that identify it in EIA's names), most specific first
+    ("5XCA", "West Coast except California", ("less california", "except california", "padd 5 ex", "padd 5xca")),
+    ("CA", "California", ("california",)),
+    ("1A", "New England", ("new england", "padd 1a")),
+    ("1B", "Central Atlantic", ("central atlantic", "padd 1b")),
+    ("1C", "Lower Atlantic", ("lower atlantic", "padd 1c")),
+    ("1", "East Coast", ("east coast", "padd 1")),
+    ("2", "Midwest", ("midwest", "padd 2")),
+    ("3", "Gulf Coast", ("gulf coast", "padd 3")),
+    ("4", "Rocky Mountain", ("rocky mountain", "padd 4")),
+    ("5", "West Coast", ("west coast", "padd 5")),
+    ("US", "US average", ("u.s.", "united states", "us average", "national")),
+]
+# Which EIA region each state is priced in (EIA's own regional definitions)
+EIA_STATE_REGION = {}
+for _r, _states in {"1A": "ME NH VT MA RI CT", "1B": "NY NJ PA DE MD", "1C": "VA WV NC SC GA FL",
+                    "2": "ND SD NE KS OK MN IA MO WI IL IN MI OH KY TN", "3": "TX LA MS AL AR NM",
+                    "4": "MT ID WY UT CO", "5XCA": "WA OR NV AZ AK HI", "CA": "CA"}.items():
+    for _s in _states.split():
+        EIA_STATE_REGION[_s] = _r
+
+
+def eia_region(name):
+    n = " %s " % name.lower().replace("(", " ").replace(")", " ")
+    for key, _, words in EIA_REGIONS:
+        if any(w in n for w in words):
+            return key
+    return None
+
+
+class _Tables(__import__("html.parser").parser.HTMLParser):
+    """Collects every <table> as rows of cell texts, plus the text that came just before it."""
+    def __init__(self):
+        super().__init__()
+        self.tables, self.before, self.cell, self.row, self.depth = [], "", None, None, 0
+    def handle_starttag(self, tag, attrs):
+        if tag == "table":
+            self.depth += 1
+            self.tables.append({"before": self.before[-300:], "rows": []})
+        elif tag == "tr" and self.depth:
+            self.row = []
+        elif tag in ("td", "th") and self.row is not None:
+            self.cell = ""
+    def handle_endtag(self, tag):
+        if tag in ("td", "th") and self.row is not None and self.cell is not None:
+            self.row.append(" ".join(self.cell.split()))
+            self.cell = None
+        elif tag == "tr" and self.row is not None:
+            if self.row and self.tables:
+                self.tables[-1]["rows"].append(self.row)
+            self.row = None
+        elif tag == "table":
+            self.depth = max(0, self.depth - 1)
+    def handle_data(self, data):
+        if self.cell is not None:
+            self.cell += data
+        else:
+            self.before += " " + data.strip()
+
+
+def parse_eia_page(html_text):
+    """Diesel table from EIA's Gasoline and Diesel Fuel Update page -> (week, {region: price}, prev_week, {region: price})."""
+    p = _Tables()
+    p.feed(html_text)
+    for t in p.tables:
+        heading = (t["before"] + " " + " ".join(" ".join(r) for r in t["rows"][:2])).lower()
+        if "diesel" not in heading:
+            continue
+        dates = None
+        for r in t["rows"]:
+            ds = [c for c in r if re.match(r"^\d{1,2}/\d{1,2}/\d{2,4}$", c)]
+            if len(ds) >= 2:
+                dates = ds
+                break
+        if not dates:
+            continue
+        cur, prev = {}, {}
+        for r in t["rows"]:
+            if not r:
+                continue
+            key = eia_region(r[0])
+            nums = []
+            for c in r[1:]:
+                try:
+                    nums.append(float(c.replace("$", "")))
+                except ValueError:
+                    pass
+            if key and len(nums) >= len(dates) and 1 < nums[len(dates) - 1] < 15:
+                cur[key] = nums[len(dates) - 1]
+                prev[key] = nums[len(dates) - 2]
+        if len(cur) >= 5:
+            iso = lambda d: datetime.strptime(d, "%m/%d/%y" if len(d.split("/")[2]) == 2 else "%m/%d/%Y").date().isoformat()
+            return iso(dates[-1]), cur, iso(dates[-2]), prev
+    raise ValueError("diesel table not found on EIA page")
+
 
 def update_eia(store, key):
-    if not key:
-        store["status"] = "no_key"
-        return store
-    if not due(store, 12):
+    if not due(store, 6):
         return store
     try:
-        body = json.loads(http_get(EIA_URL + urllib.parse.quote(key)))
-        data = body["response"]["data"]
-        if not data:
-            raise ValueError("no rows")
-        weeks = sorted({d["period"] for d in data}, reverse=True)
-        latest, prev = weeks[0], (weeks[1] if len(weeks) > 1 else None)
-        pick = lambda wk: {d["area-name"]: float(d["value"]) for d in data if d["period"] == wk and d.get("value") not in (None, "")}
-        units = {d.get("units") for d in data}
+        if key:
+            body = json.loads(http_get(EIA_URL + urllib.parse.quote(key)))
+            data = body["response"]["data"]
+            weeks = sorted({d["period"] for d in data}, reverse=True)
+            if len(weeks) < 2:
+                raise ValueError("not enough weeks")
+            def pick(wk):
+                out = {}
+                for d in data:
+                    r = eia_region(d.get("area-name", "") + " " + d.get("duoarea", ""))
+                    if d["period"] == wk and r and d.get("value") not in (None, ""):
+                        out.setdefault(r, float(d["value"]))
+                return out
+            latest, prices, prev_week, prev_prices = weeks[0], pick(weeks[0]), weeks[1], pick(weeks[1])
+        else:
+            latest, prices, prev_week, prev_prices = parse_eia_page(http_get(EIA_PAGE).decode("utf-8", "replace"))
     except Exception as e:
         msg = re.sub(r"api_key=[^&\s]+", "api_key=***", "%s: %s" % (type(e).__name__, e))
         return keep_old(store, "EIA: " + msg)
-    store.update(status="ok", week=latest, prices=pick(latest), prev_week=prev, prev_prices=pick(prev) if prev else {},
-                 units=sorted(u for u in units if u), retrieved_at=NOW.isoformat(), last_attempt_at=NOW.isoformat(),
+    store.update(status="ok", week=latest, prices=prices, prev_week=prev_week, prev_prices=prev_prices,
+                 units="US$ per gallon", retrieved_at=NOW.isoformat(), last_attempt_at=NOW.isoformat(),
                  last_error=None, source_url=EIA_PAGE)
     return store
+
+
+# ------------------------------------------------------------------ Canada diesel by city (Statistics Canada, Open Government Licence)
+
+STATCAN_FUEL_URL = "https://www150.statcan.gc.ca/n1/tbl/csv/18100001-eng.zip"
+STATCAN_FUEL_PAGE = "https://doi.org/10.25318/1810000101-eng"
+PROVINCES = {"newfoundland and labrador": "NL", "prince edward island": "PE", "nova scotia": "NS", "new brunswick": "NB",
+             "quebec": "QC", "ontario": "ON", "manitoba": "MB", "saskatchewan": "SK", "alberta": "AB",
+             "british columbia": "BC", "yukon": "YT", "northwest territories": "NT", "nunavut": "NU"}
+
+
+def city_province(geo):
+    g = geo.lower()
+    if "ontario part" in g:
+        return "ON"
+    if "quebec part" in g:
+        return "QC"
+    last = g.split(",")[-1].strip()
+    for name, code in PROVINCES.items():
+        if name in last:
+            return code
+    return None
+
+
+def parse_statcan_fuel(csv_text):
+    """Monthly diesel (self-serve) by city -> (month, {province: {"avg": ¢/L, "cities": {...}}}, prev_month, {...})."""
+    rows = list(csv.DictReader(io.StringIO(csv_text)))
+    if not rows or "REF_DATE" not in rows[0]:
+        raise ValueError("unexpected StatCan layout")
+    fuel_col = next((c for c in rows[0] if "fuel" in c.lower()), None)
+    if not fuel_col:
+        raise ValueError("no fuel column")
+    by_month = {}
+    for r in rows:
+        if "diesel" not in r[fuel_col].lower() or not r.get("VALUE"):
+            continue
+        prov = city_province(r["GEO"])
+        if not prov:
+            continue
+        try:
+            v = float(r["VALUE"])
+        except ValueError:
+            continue
+        if not 40 <= v <= 400:
+            continue
+        city = r["GEO"].split(",")[0].strip()
+        by_month.setdefault(r["REF_DATE"][:7], {}).setdefault(prov, {})[city] = v
+    if not by_month:
+        raise ValueError("no diesel rows")
+    months = sorted(by_month)
+    def summarise(m):
+        return {p: {"avg": round(sum(c.values()) / len(c), 1), "cities": c} for p, c in by_month.get(m, {}).items()}
+    latest = months[-1]
+    prev = months[-2] if len(months) > 1 else None
+    return latest, summarise(latest), prev, summarise(prev) if prev else {}
+
+
+def update_statcan_fuel(market):
+    st = market.get("statcan_diesel", {})
+    if due(st, 12):
+        try:
+            import zipfile
+            z = zipfile.ZipFile(io.BytesIO(http_get(STATCAN_FUEL_URL, timeout=90)))
+            name = next(n for n in z.namelist() if n.endswith(".csv") and "MetaData" not in n)
+            month, provs, prev_month, prev_provs = parse_statcan_fuel(z.read(name).decode("utf-8-sig", "replace"))
+            st.update(month=month, provinces=provs, prev_month=prev_month, prev_provinces=prev_provs,
+                      retrieved_at=NOW.isoformat(), last_attempt_at=NOW.isoformat(), last_error=None, source_url=STATCAN_FUEL_PAGE)
+        except Exception as e:
+            st = keep_old(st, "Statistics Canada fuel: %s: %s" % (type(e).__name__, e))
+    market["statcan_diesel"] = st
 
 
 # ------------------------------------------------------------------ official indicators (public domain / open licence)
@@ -390,7 +563,7 @@ def main():
     market["usda_reefer"] = update_usda(market.get("usda_reefer", {}))
     market["ontario_diesel"] = update_ontario(market.get("ontario_diesel", {}))
     market["eia_diesel"] = update_eia(market.get("eia_diesel", {}), os.environ.get("EIA_API_KEY"))
-    for fn in (update_bls, update_statcan, update_bts):
+    for fn in (update_bls, update_statcan, update_bts, update_statcan_fuel):
         fn(market)
     save_json("market.json", market)
     u = market["usda_reefer"]
@@ -399,6 +572,8 @@ def main():
         market["ontario_diesel"].get("week"), " [error: %s]" % market["ontario_diesel"]["last_error"] if market["ontario_diesel"].get("last_error") else "",
         market["eia_diesel"].get("week") or market["eia_diesel"].get("status"),
         " [error: %s]" % market["eia_diesel"]["last_error"] if market["eia_diesel"].get("last_error") else ""))
+    sd = market.get("statcan_diesel", {})
+    print("  statcan_diesel: %s %s provinces%s" % (sd.get("month"), len(sd.get("provinces", {})), " [error: %s]" % sd["last_error"] if sd.get("last_error") else ""))
     for k in ("bls_truckload", "bls_specialized", "statcan_trucking", "bts_trucks_canada"):
         st = market.get(k, {})
         print("  %s: %s %s%s" % (k, st.get("period"), st.get("value"), " [error: %s]" % st["last_error"] if st.get("last_error") else ""))

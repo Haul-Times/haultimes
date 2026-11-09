@@ -106,7 +106,7 @@ TILES_US = [("AK", 0, 0), ("ME", 0, 10), ("VT", 1, 9), ("NH", 1, 10), ("WA", 2, 
 S, G = 46, 4
 
 
-def tile_map(colours, tips, idp, label, canada=True):
+def tile_map(colours, tips, idp, label, canada=True, price_labels=None):
     """Square map. colours/tips: code -> fill / tooltip. Squares without a colour are light grey."""
     def tiles(lst, oy):
         out = []
@@ -114,9 +114,15 @@ def tile_map(colours, tips, idp, label, canada=True):
             x, y = c * (S + G), (r + oy) * (S + G)
             fill = colours.get(code, NO_DATA)
             dark = fill in ("#2F6690", "#C4262E")
-            out.append('<g id="%s%s"><rect x="%d" y="%d" width="%d" height="%d" rx="3" fill="%s"/><text x="%d" y="%d"%s>%s</text>'
-                       '<title>%s</title></g>' % (idp, code, x, y, S, S, fill, x + S // 2, y + S // 2 + 1,
-                                                  ' fill="#fff"' if dark else "", code, E(tips.get(code, ""))))
+            dark = dark or fill in ("#D9861C", "#A85A0A")
+            pl = (price_labels or {}).get(code)
+            if pl:
+                txt = '<text x="%d" y="%d"%s>%s</text><text class="pl" x="%d" y="%d"%s>%s</text>' % (
+                    x + S // 2, y + 17, ' fill="#fff"' if dark else "", code, x + S // 2, y + 33, ' fill="#fff"' if dark else "", E(pl))
+            else:
+                txt = '<text x="%d" y="%d"%s>%s</text>' % (x + S // 2, y + S // 2 + 1, ' fill="#fff"' if dark else "", code)
+            out.append('<g id="%s%s"><rect x="%d" y="%d" width="%d" height="%d" rx="3" fill="%s"/>%s'
+                       '<title>%s</title></g>' % (idp, code, x, y, S, S, fill, txt, E(tips.get(code, ""))))
         return "".join(out)
     oy = 2.6 if canada else 0
     w, h = 12 * (S + G), int((8 + oy) * (S + G))
@@ -285,7 +291,11 @@ def gov_card(title, desc, st, fmt, source, now, tz, period_fmt=_month, stale_day
     chg = ""
     if prev:
         pct = (v - prev) / prev * 100
-        chg = '<span class="chg %s">%s %.1f%% vs previous</span>' % ("up" if pct > 0 else "down" if pct < 0 else "", "▲" if pct > 0 else "▼" if pct < 0 else "–", abs(pct))
+        pts = st.get("points") or []
+        prev_period = st.get("prev_period") or (pts[-2][0] if len(pts) > 1 else "")
+        chg = '<span class="chg %s">%s %.1f%% from %s</span>' % (
+            "up" if pct > 0 else "down" if pct < 0 else "", "▲" if pct > 0 else "▼" if pct < 0 else "–", abs(pct),
+            E(period_fmt(prev_period)) if prev_period else "the previous report")
     badge = ""
     if st.get("last_error"):
         badge = ' <span class="mk-badge warn">update failed, showing last good data</span>'
@@ -305,28 +315,109 @@ def gov_section(market, now, tz):
         gov_card("US specialized trucking prices", "Flatbed, step deck, heavy haul and other specialized freight. Price index, monthly.",
                  market.get("bls_specialized", {}), lambda v: "%.1f" % v, a("https://fred.stlouisfed.org/series/PCU484230484230", "US BLS"), now, tz),
         gov_card("Canada trucking prices", "For-hire trucking price index, Canada. Monthly.",
-                 market.get("statcan_trucking", {}), lambda v: "%.1f" % v, a("https://doi.org/10.25318/1810028101-eng", "Statistics Canada"), now, tz),
+                 market.get("statcan_trucking", {}), lambda v: "%.1f" % v, a("https://doi.org/10.25318/1810028101-eng", "Statistics Canada"), now, tz,
+                 stale_days=200),  # published with a lag of about four months
         gov_card("Trucks entering the US from Canada", "All US–Canada crossings, monthly count.",
                  market.get("bts_trucks_canada", {}), lambda v: format(int(v), ","), a("https://www.bts.gov/browse-statistical-products-and-data/border-crossing-data/border-crossingentry-data", "US BTS"), now, tz),
     ]
-    e = market.get("eia_diesel", {})
-    if e.get("status") == "ok" and e.get("prices", {}).get("U.S.") is not None:
-        st = {"value": e["prices"]["U.S."], "prev": (e.get("prev_prices") or {}).get("U.S."), "period": e.get("week"),
-              "retrieved_at": e.get("retrieved_at"), "last_error": e.get("last_error")}
-        cards.append(gov_card("US diesel", "Retail on-highway diesel, US average. US$ per gallon, weekly.", st, lambda v: "$%.3f" % v,
-                              a("https://www.eia.gov/petroleum/gasdiesel/", "US EIA"), now, tz, _fmt_day, 21))
-    o = market.get("ontario_diesel", {})
-    if o.get("prices"):
-        def avg(d):
-            k = next((k for k in d if "average" in k.lower()), None)
-            return d[k] if k else (sum(d.values()) / len(d) if d else None)
-        st = {"value": avg(o["prices"]), "prev": avg(o.get("prev_prices") or {}), "period": o.get("week"),
-              "retrieved_at": o.get("retrieved_at"), "last_error": o.get("last_error")}
-        cards.append(gov_card("Ontario diesel", "Retail pump price, Ontario average. Cents per litre, weekly.", st, lambda v: "%.1f¢" % v,
-                              a("https://data.ontario.ca/dataset/fuels-price-survey-information", "Ontario (OGL)"), now, tz, _fmt_day, 21))
     return """<section class="mk-sec" aria-labelledby="gov-h"><h2 id="gov-h" class="sec-title">Official numbers · government data</h2>
 <div class="gov">{cards}</div>
-<p class="note">Price indexes show which way trucking prices are moving, not the rate on any load. US figures are US-only, Canadian figures Canada-only.</p></section>""".format(cards="".join(cards))
+<p class="note">Price indexes show which way trucking prices are moving, not the rate on any load. Each change compares the latest report with the one before it (the month or week named). US figures are US-only, Canadian figures Canada-only.</p></section>""".format(cards="".join(cards))
+
+
+FUEL_SCALE = ["#FBEFD5", "#F6D58E", "#EFB23F", "#D9861C", "#A85A0A"]   # cheaper -> pricier
+
+
+def _buckets(values):
+    """Five equal steps between the lowest and highest price in one country."""
+    lo, hi = min(values), max(values)
+    span = (hi - lo) or 1
+    return lambda v: FUEL_SCALE[min(4, int((v - lo) / span * 5))]
+
+
+def _change(cur, prev, fmt):
+    if prev is None:
+        return '<span class="note">—</span>'
+    d = cur - prev
+    if abs(d) < 1e-9:
+        return '<span class="note">no change</span>'
+    return '<span class="mk-chg %s">%s %s</span>' % ("up" if d > 0 else "down", "▲" if d > 0 else "▼", fmt(abs(d)))
+
+
+def diesel_section(market, now, tz):
+    """Our own diesel map: US by EIA region (weekly, US$/gal) and Canada by province (monthly, ¢/L)."""
+    from fetch_market import EIA_STATE_REGION, EIA_REGIONS
+    e, c, o = market.get("eia_diesel", {}), market.get("statcan_diesel", {}), market.get("ontario_diesel", {})
+    us = e.get("prices") or {}
+    ca = {p: v["avg"] for p, v in (c.get("provinces") or {}).items()}
+    if not us and not ca:
+        return ('<section class="mk-sec" aria-labelledby="fuel-h"><h2 id="fuel-h" class="sec-title">Diesel prices</h2>'
+                '<p class="mk-empty">No data yet. The diesel map appears after the next update.</p></section>')
+    names = {k: label for k, label, _ in EIA_REGIONS}
+    colours, tips, labels = {}, {}, {}
+    if us:
+        col = _buckets([v for k, v in us.items() if k in EIA_STATE_REGION.values()] or list(us.values()))
+        for st, reg in EIA_STATE_REGION.items():
+            if reg in us:
+                colours[st] = col(us[reg])
+                tips[st] = "%s: $%.3f/gal (%s region, week of %s)" % (REGION_NAMES.get(st, st), us[reg], names[reg], _fmt_day(e.get("week")))
+                labels[st] = "$%.2f" % us[reg]
+    if ca:
+        colc = _buckets(list(ca.values()))
+        for p, v in ca.items():
+            colours[p] = colc(v)
+            cities = ", ".join("%s %.1f¢" % (k, x) for k, x in sorted(c["provinces"][p]["cities"].items()))
+            tips[p] = "%s: %.1f¢/L (%s; %s)" % (PROVINCE_NAMES.get(p, p), v, _month(c.get("month")), cities)
+            labels[p] = "%.0f¢" % v
+    svg = tile_map(colours, tips, "f-", "Diesel prices by state and province. Details are in the tables below.", price_labels=labels)
+
+    us_rows = "".join('<tr><td>%s</td><td><b>$%.3f</b></td><td>%s</td></tr>' % (
+        ("&nbsp;&nbsp;" if k in ("1A", "1B", "1C", "5XCA", "CA") else "") + E(names[k]), us[k], _change(us[k], (e.get("prev_prices") or {}).get(k), lambda d: "$%.3f" % d))
+        for k in ("US", "1", "1A", "1B", "1C", "2", "3", "4", "5", "5XCA", "CA") if k in us)
+    ca_rows = "".join('<tr><td>%s <span class="src-in">%s</span></td><td><b>%.1f¢</b></td><td>%s</td></tr>' % (
+        E(PROVINCE_NAMES.get(p, p)), E(", ".join(sorted(c["provinces"][p]["cities"]))), ca[p],
+        _change(ca[p], ((c.get("prev_provinces") or {}).get(p) or {}).get("avg"), lambda d: "%.1f¢" % d))
+        for p in sorted(ca, key=lambda p: PROVINCE_NAMES.get(p, p)))
+    on = ""
+    if o.get("prices"):
+        prev = o.get("prev_prices") or {}
+        on_rows = "".join('<tr><td>%s</td><td><b>%.1f¢</b></td><td>%s</td></tr>' % (
+            E(k.split("/")[0]), v, _change(v, prev.get(k), lambda d: "%.1f¢" % d)) for k, v in sorted(o["prices"].items()))
+        on = ('<details class="mk-more"><summary>Ontario cities, weekly · %s (vs %s)</summary><div class="table-box">'
+              '<table class="waits mk-small"><thead><tr><th>Market</th><th>¢/L</th><th>Change</th></tr></thead><tbody>%s</tbody></table></div>'
+              '<p class="note">Source: Ontario Ministry of Energy fuel price survey, Open Government Licence – Ontario.</p></details>') % (
+            E(_fmt_day(o.get("week"))), E(_fmt_day(o.get("prev_week"))) if o.get("prev_week") else "the week before", on_rows)
+
+    short = lambda d: datetime.fromisoformat(d[:10]).strftime("%b %-d") if d else ""
+    us_head = ("United States · week of %s" % _fmt_day(e.get("week"))) if us else "United States · no data yet"
+    ca_head = ("Canada · %s" % _month(c.get("month"))) if ca else "Canada · no data yet"
+    us_vs = "vs %s" % short(e.get("prev_week")) if e.get("prev_week") else "Change"
+    ca_vs = "vs %s" % _month(c.get("prev_month")).split(" ")[0] if c.get("prev_month") else "Change"
+    def scale(label, lo, hi):
+        return ('<div class="fscale"><span class="fl">%s</span><span class="fb" style="background:linear-gradient(90deg,%s)"></span>'
+                '<span class="fr"><span>%s</span><span>%s</span></span></div>') % (label, ",".join(FUEL_SCALE), lo, hi)
+    scales = ""
+    if us:
+        vals = [v for k, v in us.items() if k in EIA_STATE_REGION.values()] or list(us.values())
+        scales += scale("United States, US$/gal", "$%.2f" % min(vals), "$%.2f" % max(vals))
+    if ca:
+        scales += scale("Canada, ¢/L", "%.0f¢" % min(ca.values()), "%.0f¢" % max(ca.values()))
+    return """<section class="mk-sec" aria-labelledby="fuel-h"><h2 id="fuel-h" class="sec-title">Diesel prices · US and Canada</h2>
+<p class="mk-lede">Retail on-highway diesel, latest official survey prices.</p>
+<div class="mk-mapbox fuelbox"><div class="mk-mapwrap">{svg}</div>
+<aside class="mk-side">{scales}
+<p class="note"><strong>US:</strong> EIA weekly survey, published Mondays. Each state shows its EIA region's average.<br>
+<strong>Canada:</strong> Statistics Canada monthly survey. Each province shows the average of its surveyed cities.<br>
+Pump prices including taxes; not fleet or cardlock prices. Shading is relative within each country, and prices are not comparable across the border.</p></aside></div>
+<div class="two">
+<div><h3 class="mk-h3">{us_head}</h3><div class="table-box"><table class="waits mk-small mk-tight"><thead><tr><th>EIA region</th><th>US$/gal</th><th>{us_vs}</th></tr></thead><tbody>{us_rows}</tbody></table></div>
+<p class="note">Source: U.S. Energy Information Administration, <a href="https://www.eia.gov/petroleum/gasdiesel/" rel="noopener" target="_blank">Gasoline and Diesel Fuel Update</a> (public domain). Retrieved {us_ret}.</p></div>
+<div><h3 class="mk-h3">{ca_head}</h3><div class="table-box"><table class="waits mk-small mk-tight"><thead><tr><th>Province (cities surveyed)</th><th>¢/L</th><th>{ca_vs}</th></tr></thead><tbody>{ca_rows}</tbody></table></div>
+<p class="note">Source: Statistics Canada, <a href="https://doi.org/10.25318/1810000101-eng" rel="noopener" target="_blank">monthly average retail prices, diesel at self-service stations</a>, Open Government Licence – Canada. Retrieved {ca_ret}.</p>
+{on}</div></div></section>""".format(svg=svg, scales=scales, us_vs=E(us_vs), ca_vs=E(ca_vs), us_head=E(us_head), ca_head=E(ca_head),
+                                       us_rows=us_rows or '<tr><td colspan="3" class="note">No data yet.</td></tr>',
+                                       ca_rows=ca_rows or '<tr><td colspan="3" class="note">No data yet.</td></tr>',
+                                       us_ret=E(_fmt_time(e.get("retrieved_at"), tz)), ca_ret=E(_fmt_time(c.get("retrieved_at"), tz)), on=on)
 
 
 def _region_options():
@@ -361,10 +452,10 @@ def reader_sections():
 <button class="chip" data-eq="flatbed" aria-pressed="false">Flatbed</button><button class="chip" data-eq="stepdeck" aria-pressed="false">Step deck</button></div>
 <div class="mk-mapbox"><div class="mk-mapwrap">{tiles}</div>
 <aside class="mk-side"><h3 id="map-title">Loads this week</h3>
-<ul class="mk-legend"><li><i style="background:#C4262E"></i><b>Hot</b> <span>Loads easy to find, rates firm</span></li>
-<li><i style="background:#E6DFC8"></i><b>Normal</b> <span>About as usual</span></li>
-<li><i style="background:#2F6690"></i><b>Slow</b> <span>Too many trucks, rates soft</span></li>
-<li><i style="background:#F1F2F4;border:1px solid #C9CED4"></i><b>Not enough reports</b> <span>Under 5 this week, so nothing is shown</span></li></ul>
+<ul class="mk-legend"><li><i style="background:#C4262E"></i><b>Busy</b> <span>Plenty of loads, rates firm</span></li>
+<li><i style="background:#E6DFC8"></i><b>Normal</b> <span>About usual for the season</span></li>
+<li><i style="background:#2F6690"></i><b>Slow</b> <span>More trucks than loads, rates soft</span></li>
+<li><i style="background:#F1F2F4;border:1px solid #C9CED4"></i><b>Insufficient reports</b> <span>Fewer than 5 this week</span></li></ul>
 <p class="mk-hot" id="map-count"></p>
 <p class="note">Colours come from readers' weekly one-tap answers. One person can't move the map: each counts once per week.</p></aside></div>
 <h3 class="mk-h3">Lane rates, last 7 days</h3>
@@ -384,11 +475,11 @@ def reader_sections():
 <div class="f" id="poll-pick" hidden><label>State or province<select name="region">{r}</select></label>
 <label>Equipment<select name="equipment">{eq}</select></label></div>
 <p class="note" id="poll-eq-line">Equipment: <b id="poll-eq">Dry van</b></p>
-<button type="button" class="pollbtn" data-a="1">🔥 Hot: loads everywhere, rates up</button>
-<button type="button" class="pollbtn" data-a="0">➖ Normal</button>
-<button type="button" class="pollbtn" data-a="-1">🧊 Slow: hunting for loads</button>
+<button type="button" class="pollbtn" data-a="1"><b>Busy</b> · plenty of loads, rates firm</button>
+<button type="button" class="pollbtn" data-a="0"><b>Normal</b> · about usual for the season</button>
+<button type="button" class="pollbtn" data-a="-1"><b>Slow</b> · more trucks than loads, rates soft</button>
 <div class="mk-out" id="poll-out" aria-live="polite"></div>
-<span class="note">One tap. No name, no email. Your answer counts for this week; tapping again changes it. By answering you agree to our <a href="/terms/">Terms</a>.</span></form>
+<span class="note">Anonymous. One answer per week; answering again replaces it. By answering you agree to our <a href="/terms/">Terms</a>.</span></form>
 <form class="box" id="rep" novalidate><h3>Report a rate</h3><p>A load you hauled or booked in the last 14 days. No company names.</p>
 <div class="f">{fields}<label>Load date<input name="date" type="date" required></label>
 <input name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true"></div>
@@ -415,7 +506,8 @@ def body(market, now, tz):
 <div class="page-head"><h1>Freight Market</h1>
 <p>What carriers are getting paid, lane by lane, for dry van, reefer, flatbed and step deck across the US and Canada. Reported anonymously by drivers and brokers, next to official government data.</p></div>
 {reader}
+{diesel}
 {gov}
 {reefer}
 {links}
-</main>""".format(reader=reader_sections(), gov=gov_section(market, now, tz), reefer=reefer_section(u, now, tz), links=links_section())
+</main>""".format(reader=reader_sections(), diesel=diesel_section(market, now, tz), gov=gov_section(market, now, tz), reefer=reefer_section(u, now, tz), links=links_section())
