@@ -129,6 +129,9 @@ class LegitimateStories(unittest.TestCase):
         ("Port of Long Beach container surge strains drayage truck capacity", "Journal of Commerce", None),
         ("Canada-U.S. tariff talks stall, cross-border truckers brace for delays", "CBC", "border"),
         ("Minnesota trucking company teams with Semper Forward to hire veterans", "Truckers News", "drivers"),
+        # North American places that share a name with somewhere abroad
+        ("Local grocery stores across New England running out of stock as truck drivers strike", "CBS News", "drivers"),
+        ("London, Ont. trucking company expands cross-border fleet", "London Free Press", None),
     ]
 
     def test_accepted_and_categorized(self):
@@ -283,13 +286,19 @@ class Pipeline(unittest.TestCase):
             html_all = "\n".join(pages)
             import html as h
             for s in hidden:
+                self.assertNotIn("/story/%s/" % s["slug"], html_all, "hidden story on a page: " + s["title"])
                 self.assertNotIn(h.escape(s["link"], quote=True), html_all, "hidden story on a page: " + s["title"])
+                self.assertFalse(os.path.exists(os.path.join(site, "story", s["slug"])), "page built for hidden story")
             topics = "\n".join(read(os.path.join(site, "topic", d, "index.html"))
                                for d in os.listdir(os.path.join(site, "topic")))
             home = read(os.path.join(site, "index.html"))
             for s in shown:
-                self.assertIn(h.escape(s["link"], quote=True), topics, "shown story missing from its topic page: " + s["title"])
-            self.assertTrue(any(h.escape(s["link"], quote=True) in home for s in shown))
+                self.assertIn("/story/%s/" % s["slug"], topics, "shown story missing from its topic page: " + s["title"])
+                page = read(os.path.join(site, "story", s["slug"], "index.html"))
+                self.assertIn("Reported by <strong>%s</strong>" % h.escape(s["source"]), page)   # publisher visible
+                self.assertIn('href="/out/%s/"' % s["id"], page)                               # original article link
+                self.assertIn(h.escape(s["link"], quote=True), read(os.path.join(site, "out", s["id"], "index.html")))
+            self.assertTrue(any("/story/%s/" % s["slug"] in home for s in shown))
         finally:
             shutil.rmtree(work)
 

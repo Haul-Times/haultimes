@@ -91,12 +91,23 @@ def cat_url(c):
 
 
 def has_page(s):
-    """Headline-only stories (no AI summary yet) link straight to the source."""
-    return s.get("ai", True) is not False
+    """Every story on the site has its own HaulTimes page: headline, publisher and the
+    link to the original article, plus our summary once the AI is switched on."""
+    return bool(s.get("slug"))
+
+
+def has_summary(s):
+    return bool(s.get("summary"))
 
 
 def story_url(s):
     return "/story/%s/" % s["slug"] if has_page(s) else s["link"]
+
+
+def out_url(s):
+    """Link to the original article, through a short HaulTimes hop so outbound clicks
+    show up (as /out/... page views) in Cloudflare Web Analytics."""
+    return "/out/%s/" % s["id"]
 
 
 def topic_art(cat):
@@ -139,12 +150,16 @@ def write(path, content):
 
 # ---------------------------------------------------------------- page shell
 
+def analytics_tag():
+    if not CFG.get("cloudflare_analytics_token"):
+        return ""
+    return ("<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" "
+            "data-cf-beacon='{\"token\": \"%s\"}'></script>" % E(CFG["cloudflare_analytics_token"]))
+
+
 def head(title, desc, path, image=None, extra=""):
     full_title = title if title.startswith(CFG["site_name"]) else "%s | %s" % (title, CFG["site_name"])
-    analytics = ""
-    if CFG.get("cloudflare_analytics_token"):
-        analytics = ("<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" "
-                     "data-cf-beacon='{\"token\": \"%s\"}'></script>" % E(CFG["cloudflare_analytics_token"]))
+    analytics = analytics_tag()
     verify = ('<meta name="google-site-verification" content="%s">' % E(CFG["google_site_verification"])
               if CFG.get("google_site_verification") else "")
     og_img = image or BASE + "/static/og.png"
@@ -275,14 +290,14 @@ def build_home(stories, border):
 <a class="kicker hot" href="{cu}">{cl}</a>
 <h1 class="h-xl"><a href="{su}">{t}</a></h1>
 {sm}{why}
-<span class="meta">{tm} · via {src}{cm} · <a href="{link}" rel="nofollow noopener" target="_blank">Read full story</a></span>
+<span class="meta">{tm} · via {src}{cm} · <a href="{link}" rel="nofollow noopener" target="_blank">Original article at {src_plain} ›</a></span>
 {rel}{more}</section>""".format(more=('<section class="lead-more" aria-label="More headlines"><h2 class="sec-title">More headlines</h2>%s</section>' % "".join(
                           '<article class="lm"><a class="kicker" href="%s">%s</a><h3 class="h-sm"><a href="%s">%s</a></h3><span class="meta">%s · %s</span></article>' % (
                               cat_url(x["category"]), E(cat_label(x["category"])), story_url(x), E(x["title"]), time_tag(x), src(x)) for x in more_latest)) if more_latest else "",
                           pic=pic(lead), cu=cat_url(lead["category"]), cl=E(cat_label(lead["category"])), su=story_url(lead),
                           t=E(lead["title"]), sm=('<p class="dek">%s</p>' % E(lead["summary"])) if lead.get("summary") else "", why=why,
                           cm=(' · <a href="%s">Comments</a>' % story_url(lead)) if has_page(lead) and CFG.get("cusdis_app_id") else "", tm=time_tag(lead), src=src(lead),
-                          link=E(lead["link"]), rel=('<div class="related">%s</div>' % rel) if rel else "")
+                          link=out_url(lead), src_plain=E(lead["source"]), rel=('<div class="related">%s</div>' % rel) if rel else "")
         right = ['<aside class="col-right">']
         if top_week:
             right.append('<section aria-label="Top stories this week"><h2 class="sec-title">Top this week</h2><ol class="ranked">%s</ol></section>' %
@@ -358,6 +373,9 @@ def build_topic(key, stories, all_stories):
 
 
 def build_story(s, stories):
+    """The story's own HaulTimes page. Publisher and the link to the original article are
+    right under the headline, so a reader arriving from Facebook, X or our homepage
+    sees at once who reported it and where to read it."""
     related = sorted([x for x in stories if x["category"] == s["category"] and x["id"] != s["id"]], key=when, reverse=True)[:5]
     comments = ""
     if CFG.get("cusdis_app_id"):
@@ -366,24 +384,43 @@ def build_story(s, stories):
 <div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="{a}" data-page-id="{i}" data-page-url="{u}" data-page-title="{t}" data-theme="light"></div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 </section>""".format(a=E(CFG["cusdis_app_id"]), i=E(s["id"]), u=E(BASE + story_url(s)), t=E(s["title"]))
-    why = '<p class="why"><strong>Why it matters:</strong> %s</p>' % E(s["why"]) if s.get("why") else ""
+    pub = E(s["source"])
+    if has_summary(s):
+        why = '<p class="why"><strong>Why it matters:</strong> %s</p>' % E(s["why"]) if s.get("why") else ""
+        body_text = '<p class="note">HaulTimes summary</p><p class="dek">%s</p>%s' % (E(s["summary"]), why)
+    else:
+        body_text = ('<p class="note">HaulTimes lists this headline and links to the original reporting. '
+                     'The story was reported by %s, not by HaulTimes.</p>' % pub)
     img = BASE + "/" + s["image"] if s.get("image") else None
-    body = """<main class="wrap"><div class="story"><article>
+    body = """<main class="wrap"><div class="story"><article id="story-{sid}">
 <a class="kicker" href="{cu}">{cl}</a>
 <h1 class="h-xl">{t}</h1>
-<span class="meta">{tm} · {region} · via {src}</span>
+<span class="meta">{tm}</span>
+<div class="source-box"><span>Reported by <strong>{pub}</strong>{lab}</span>
+<a class="btn amber" href="{out}" data-out="{link}">Read the original article at {pub} ›</a></div>
 {pic}
-<p class="dek">{sm}</p>{why}
-<div class="source-box"><span>This is a short summary. The full story is published by <strong>{src}</strong>.</span>
-<a class="btn amber" href="{link}" rel="nofollow noopener" target="_blank">Read the full story ›</a></div>
+{body_text}
 {comments}</article>
 <aside>{rel}{ad}{signup}</aside></div></main>""".format(
-        cu=cat_url(s["category"]), cl=E(cat_label(s["category"])), t=E(s["title"]), tm=time_tag(s),
-        region=E(s.get("region", "")), src=src(s), pic=pic(s), sm=E(s["summary"]), why=why, link=E(s["link"]),
+        sid=E(s["id"]), cu=cat_url(s["category"]), cl=E(cat_label(s["category"])), t=E(s["title"]), tm=time_tag(s),
+        pub=pub, lab=label(s), out=out_url(s), link=E(s["link"]), pic=pic(s), body_text=body_text,
         comments=comments, ad=ad(True), signup=signup(),
         rel=('<section><h2 class="sec-title">More %s</h2><ol class="ranked">%s</ol></section>' % (
             E(cat_label(s["category"])), "".join('<li><a href="%s">%s</a></li>' % (story_url(x), E(x["title"])) for x in related))) if related else "")
-    write(story_url(s), head(s["title"], s["summary"] or s["title"], story_url(s), img) + header(s["category"], stories) + body + footer())
+    desc = s["summary"] if has_summary(s) else "Reported by %s. Read the original article and more US and Canada trucking news on HaulTimes." % s["source"]
+    extra = ('<meta property="article:published_time" content="%s">\n'
+             '<meta property="og:site_name" content="%s">' % (E(s["published"]), E(CFG["site_name"])))
+    if not has_summary(s):
+        extra += '\n<meta name="robots" content="noindex, follow">'  # headline-only pages: useful for readers, too thin for Google
+    write(story_url(s), head(s["title"], desc, story_url(s), img, extra=extra) + header(s["category"], stories) + body + footer())
+    # The hop to the original article (counted as a page view, then straight on).
+    write(out_url(s), """<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex, nofollow">
+<title>Opening {pub}</title><meta http-equiv="refresh" content="1;url={link}">{an}
+<style>body{{font:16px system-ui,sans-serif;margin:0;display:grid;place-items:center;min-height:100vh;background:#fff;color:#111418}}a{{color:#9A5B00}}</style>
+</head><body><p>Opening the original article at <strong>{pub}</strong>… <a href="{link}" rel="nofollow noopener">Continue</a></p>
+<script>setTimeout(function(){{location.replace({js})}},600)</script></body></html>""".format(
+        pub=pub, link=E(s["link"]), js=json.dumps(s["link"]), an=analytics_tag()))
 
 
 REGIONS = [("all", "All"), ("on-mi", "Ontario–Michigan"), ("on-ny", "Ontario–New York"), ("on-mn", "Ontario–Minnesota"),
@@ -542,11 +579,11 @@ def build_feeds(stories):
     for day, items in by_day.items():
         fb += sorted(items, key=lambda x: x["importance"], reverse=True)[:per_day]
     rss(sorted(fb, key=when, reverse=True), "facebook.xml", CFG["site_name"], social=True)
-    urls = ["/", "/border-wait-times/", "/about/", "/contact/"] + ["/topic/%s/" % v[1] for v in CATEGORIES.values()] + [story_url(s) for s in newest if has_page(s)]
+    urls = ["/", "/border-wait-times/", "/about/", "/contact/"] + ["/topic/%s/" % v[1] for v in CATEGORIES.values()] + [story_url(s) for s in newest if has_page(s) and has_summary(s)]
     sm = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">%s</urlset>' % "".join(
         "<url><loc>%s</loc></url>" % E(BASE + u) for u in urls)
     write("/sitemap.xml", sm)
-    write("/robots.txt", "User-agent: *\nAllow: /\nDisallow: /editor/\nSitemap: %s/sitemap.xml\n" % BASE)
+    write("/robots.txt", "User-agent: *\nAllow: /\nDisallow: /editor/\nDisallow: /out/\nSitemap: %s/sitemap.xml\n" % BASE)
 
 
 def build_editor(stored):

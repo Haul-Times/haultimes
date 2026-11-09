@@ -1,0 +1,829 @@
+"""
+Automatic posting of selected HaulTimes stories to the HaulTimes Facebook Page
+(Meta Graph API) and X account (X API v2).
+
+Runs after build_site.py in the GitHub Action. Controls live in social.json at the
+top of the repo (mode off / dry_run / live per platform, daily cap, spacing, posting
+hours, skip, publish-now and caption overrides). Queue and history are kept in
+data/social_facebook.json and data/social_x.json; the editor page at
+haultimes.com/editor/social/ shows previews, posts and errors.
+
+Credentials come only from GitHub Secrets (environment variables):
+  Facebook: FB_PAGE_ID, FB_PAGE_TOKEN
+  X:        X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET
+They are never written to files or printed.
+
+  python scripts/social.py                 normal run (respects social.json)
+  python scripts/social.py --samples 10    print sample captions, never posts
+"""
+
+import base64
+import hashlib
+import hmac
+import html
+import json
+import os
+import re
+import secrets
+import socket
+import sys
+import time
+import unicodedata
+import urllib.error
+import urllib.parse
+import urllib.request
+from datetime import datetime, timedelta, timezone
+
+import editorial
+from common import CATEGORIES, ROOT, SITE, load_config, load_json, save_json
+
+try:
+    from zoneinfo import ZoneInfo
+    EASTERN = ZoneInfo("America/Toronto")
+except Exception:  # pragma: no cover
+    EASTERN = timezone(timedelta(hours=-5))
+
+PLATFORMS = ("facebook", "x")
+GRAPH = "https://graph.facebook.com/v25.0"
+XAPI = "https://api.x.com/2"
+SETTINGS_FILE = os.path.join(ROOT, "social.json")
+DEFAULTS = {
+    "facebook": {"mode": "dry_run", "max_per_day": 4, "min_gap_minutes": 180, "hours": [7, 21], "min_score": 60,
+                 "max_age_hours": 18},
+    "x": {"mode": "dry_run", "max_per_day": 6, "min_gap_minutes": 90, "hours": [6, 22], "min_score": 60,
+          "max_age_hours": 12},
+}
+MAX_ATTEMPTS = 5
+
+
+# ------------------------------------------------------------------ settings
+
+def load_settings(path=None):
+    try:
+        with open(path or SETTINGS_FILE, encoding="utf-8") as f:
+            raw = json.load(f)
+    except (OSError, ValueError):
+        raw = {}
+    out = {}
+    for p in PLATFORMS:
+        cfg = dict(DEFAULTS[p])
+        cfg.update({k: v for k, v in (raw.get(p) or {}).items() if k in DEFAULTS[p]})
+        if cfg["mode"] not in ("off", "dry_run", "live"):
+            cfg["mode"] = "dry_run"
+        cfg["skip"] = [x for x in (raw.get("skip") or {}).get(p, []) if isinstance(x, str)]
+        cfg["publish_now"] = [x for x in (raw.get("publish_now") or {}).get(p, []) if isinstance(x, str)]
+        cfg["captions"] = {k: v for k, v in ((raw.get("captions") or {}).get(p) or {}).items() if isinstance(v, str)}
+        out[p] = cfg
+    return out
+
+
+# ------------------------------------------------------------------ text helpers
+CANADIAN = ["canada", "canadian", "ontario", "quebec", "alberta", "british columbia", "b.c.", "manitoba",
+            "saskatchewan", "nova scotia", "new brunswick", "newfoundland", "p.e.i", "toronto", "montreal",
+            "calgary", "edmonton", "winnipeg", "vancouver", "ottawa", "thunder bay", "cbsa", "transport canada",
+            "cusma", "ota ", "canadian trucking alliance", "driver inc"]
+CANADIAN_SOURCES = ["truck news", "today's trucking", "todays trucking", "cbc", "ctv", "global news", "insauga",
+                    "globe and mail", "toronto star", "financial post", "canadian press", "midlandtoday"]
+
+
+def is_canadian(s):
+    """Canadian story: the headline says so, or a Canadian outlet with nothing pointing elsewhere."""
+    t = " %s " % (s.get("orig_title") or s.get("title", "")).lower()
+    if editorial._has(t, CANADIAN):
+        return True
+    elsewhere = editorial._has(t, ["north america", "u.s.", "us", "america", "american", "fmcsa", "congress",
+                                   "mexico", "texas", "california", "state", "states", "nationwide"])
+    return editorial._has((s.get("source") or "").lower(), CANADIAN_SOURCES) and not elsewhere
+
+
+def hashtags(s, limit=2):
+    """One broad tag plus one specific tag when it fits the story. #FMCSA only when FMCSA is in the story."""
+    t = " %s " % ((s.get("orig_title") or s.get("title", "")) + " " + (s.get("summary") or "")).lower()
+    cat = s.get("category", "other")
+    broad = "#CanadianTrucking" if is_canadian(s) else "#Trucking"
+    specific = {
+        "fuel": "#Diesel" if "diesel" in t else None,
+        "border": "#CrossBorder",
+        "regs": "#FMCSA" if "fmcsa" in t else None,
+        "drivers": "#TruckDrivers",
+        "rates": "#Freight",
+        "equip": None,
+        "other": "#SupplyChain" if "supply chain" in t else ("#Freight" if editorial._has(t, ["broker", "brokerage", "freight fraud", "cargo theft"]) else None),
+    }.get(cat)
+    tags = [broad] + ([specific] if specific else [])
+    return tags[:limit]
+
+
+def publisher(s):
+    """Publisher name as readers know it. Domain-style names lose their ending so X/Facebook
+    don't turn them into a second link ("TheTrucker.com" -> "TheTrucker")."""
+    name = (s.get("source") or "the original publisher").strip()
+    name = re.split(r"\s+[|–-]\s+", name)[0].strip()
+    name = re.sub(r"\.(com|ca|net|org|news|trade|tv|us|info|co|io)$", "", name, flags=re.I)
+    return name or "the original publisher"
+
+
+def dest_url(s, platform):
+    q = urllib.parse.urlencode({"utm_source": platform, "utm_medium": "organic_social",
+                                "utm_campaign": "story", "utm_content": s["id"]})
+    base = load_config()["site_url"].rstrip("/")
+    return "%s/story/%s/?%s" % (base, s["slug"], q)
+
+
+def headline(s):
+    t = re.sub(r"\s+", " ", (s.get("title") or "").strip())
+    return t if t.endswith(("?", "!", ".")) else t + "."
+
+
+def words(text):
+    return len(re.findall(r"\S+", text))
+
+
+# ---- X character counting (twitter-text v3 rules: weight 1 for common Latin ranges,
+# 2 for everything else incl. emoji and CJK; any URL = 23; text is NFC-normalized)
+X_LIMIT = 280
+X_URL_LEN = 23
+_X_LIGHT = [(0, 4351), (8192, 8205), (8208, 8223), (8242, 8247)]
+_URL_RX = re.compile(r"(https?://\S+|\b(?:[a-z0-9-]+\.)+(?:com|ca|net|org|news|io|co|us|info|tv|trade|ly|gov)\b(?:/\S*)?)", re.I)
+
+
+def x_weighted_length(text):
+    text = unicodedata.normalize("NFC", text)
+    total = 0
+    pos = 0
+    for m in _URL_RX.finditer(text):
+        total += _x_chars(text[pos:m.start()]) + X_URL_LEN
+        pos = m.end()
+    return total + _x_chars(text[pos:])
+
+
+def _x_chars(chunk):
+    n = 0
+    prev_emoji = False
+    after_zwj = False
+    for ch in chunk:
+        cp = ord(ch)
+        if cp == 0x200D:            # zero-width joiner: glues an emoji sequence, adds nothing
+            after_zwj = prev_emoji
+            continue
+        if cp in (0xFE0E, 0xFE0F) or 0x1F3FB <= cp <= 0x1F3FF:  # variation selectors, skin tones
+            continue
+        is_emoji = cp >= 0x1F000 or 0x2600 <= cp <= 0x27BF
+        if is_emoji and after_zwj:
+            after_zwj = False
+            continue
+        after_zwj = False
+        prev_emoji = is_emoji
+        n += 1 if any(a <= cp <= b for a, b in _X_LIGHT) else 2
+    return n
+
+
+def shorten_headline(text, budget):
+    """Shorten at a natural break (colon, dash, comma), else at a word, never mid-word."""
+    if x_weighted_length(text) <= budget:
+        return text
+    for sep in (": ", " — ", " – ", " - ", "; ", ", "):
+        if sep in text:
+            head = text.split(sep)[0].strip()
+            if 20 <= x_weighted_length(head) <= budget:
+                return head if head.endswith((".", "?", "!")) else head + "."
+    out = ""
+    for w in text.split():
+        if x_weighted_length((out + " " + w).strip() + "…") > budget:
+            break
+        out = (out + " " + w).strip()
+    return out.rstrip(",;:—–-") + "…"
+
+
+# ------------------------------------------------------------------ captions
+
+def facebook_caption(s, override=None):
+    """Factual opening line, one or two supported sentences, attribution, 0-2 hashtags.
+    The HaulTimes link is attached as the post's link (with its preview card)."""
+    tags = " ".join(hashtags(s))
+    if override:
+        return override.strip() + ("\n\n" + tags if tags and "#" not in override else "")
+    pub = publisher(s)
+    paras = [headline(s)]
+    body = []
+    if s.get("summary"):  # written from the source snippet; nothing added beyond it
+        body.append(s["summary"].strip())
+        if s.get("why"):
+            body.append(s["why"].strip())
+    attribution = "Reported by %s. The link has the details and the original article." % pub
+    text_body = " ".join(body)
+    while body and words(" ".join([paras[0], " ".join(body), attribution, tags])) > 80:
+        body.pop()
+        text_body = " ".join(body)
+    if text_body:
+        paras.append(text_body)
+    paras.append(attribution)
+    if tags:
+        paras.append(tags)
+    return "\n\n".join(paras)
+
+
+def x_text(s, override=None):
+    """Headline, optional supported explanation, attribution, the HaulTimes link, 1-2 hashtags; fits 280."""
+    url = dest_url(s, "x")
+    tags_all = hashtags(s)
+    pub = publisher(s)
+    if override:
+        text = "%s %s" % (override.strip(), url)
+        if x_weighted_length(text) <= X_LIMIT:
+            return text
+    head = headline(s)
+    why = (s.get("why") or "").strip() if s.get("summary") else ""
+    variants = []
+    for use_why in ([True, False] if why else [False]):
+        for n_tags in (len(tags_all), 1, 0):
+            tags = " ".join(tags_all[:n_tags])
+            parts = [head]
+            if use_why:
+                parts.append(why)
+            parts.append(("Via %s: %s" % (pub, url)) + (("\n" + tags) if tags else ""))
+            variants.append("\n\n".join(parts))
+    for v in variants:
+        if x_weighted_length(v) <= X_LIMIT:
+            return v
+    # Very long headline: shorten it naturally.
+    tail = "\n\nVia %s: %s" % (pub, url) + ("\n" + tags_all[0] if tags_all else "")
+    budget = X_LIMIT - x_weighted_length(tail)
+    return shorten_headline(head, budget) + tail
+
+
+def caption_for(platform, s, override=None):
+    return facebook_caption(s, override) if platform == "facebook" else x_text(s, override)
+
+
+# ------------------------------------------------------------------ selection
+
+def hours_old(s, now):
+    return (now - datetime.fromisoformat(s["published"])).total_seconds() / 3600
+
+
+def similar(a, b):
+    """Same event? Shares most of its distinctive words."""
+    ta, tb = editorial.tokens(a), editorial.tokens(b)
+    if not ta or not tb:
+        return False
+    inter = ta & tb
+    return len(inter) / len(ta | tb) >= 0.5 or (len(inter) >= 3 and len(inter) / min(len(ta), len(tb)) >= 0.6)
+
+
+def page_problem(s, site_dir):
+    """The post must land on a real HaulTimes page that names the publisher and links the original."""
+    path = os.path.join(site_dir, "story", s.get("slug", "-"), "index.html")
+    if not os.path.exists(path):
+        return "story page not built"
+    with open(path, encoding="utf-8") as f:
+        page = f.read()
+    if html.escape(s["source"]) not in page and s["source"] not in page:
+        return "story page does not name the publisher"
+    if ('/out/%s/' % s["id"]) not in page:
+        return "story page has no link to the original article"
+    return None
+
+
+def preview_meta(s, site_dir):
+    """What Facebook/X will show in the link preview (from the page's Open Graph tags)."""
+    path = os.path.join(site_dir, "story", s.get("slug", "-"), "index.html")
+    try:
+        with open(path, encoding="utf-8") as f:
+            page = f.read()
+    except OSError:
+        return {}
+    meta = {}
+    for prop in ("og:title", "og:description", "og:image", "og:url"):
+        m = re.search(r'<meta property="%s" content="([^"]*)"' % prop, page)
+        if m:
+            meta[prop] = html.unescape(m.group(1))
+    return meta
+
+
+def why_not(s, cfg, now):
+    """Reason a story can't be posted automatically, or None."""
+    if s.get("status") != editorial.SHOWN:
+        return "not shown on the site"
+    if not s.get("date_known", True):
+        return "no publication date"
+    if not editorial.lead_eligible(s) and not s.get("pinned"):
+        return "minor item (%s) or low-quality source" % s.get("kind", "?")
+    if set(s.get("labels", [])) & {"Press release", "Sponsored", "Company announcement"}:
+        return "press release / company announcement"
+    if s.get("importance", 0) < cfg["min_score"] and not s.get("pinned"):
+        return "below the importance threshold"
+    if hours_old(s, now) > cfg["max_age_hours"]:
+        return "too old to post as news"
+    return None
+
+
+def new_state():
+    return {"items": {}, "paused": None, "account": {}, "log": []}
+
+
+def log(st, now, msg):
+    st["log"] = (st.get("log", []) + [{"at": now.isoformat(), "msg": msg}])[-200:]
+
+
+def queue_new(platform, stories, cfg, st, now, site_dir):
+    items = st["items"]
+    url_keys = {r.get("url_key") for r in items.values()}
+    recent = [r for r in items.values() if r["status"] in ("queued", "posting", "uncertain", "posted", "dry_run")
+              and (now - datetime.fromisoformat(r["created_at"])).total_seconds() < 72 * 3600]
+    added = 0
+    by_rank = sorted(editorial.eligible(stories), key=lambda s: editorial.rank_score(s, now), reverse=True)
+    for s in by_rank:
+        if s["id"] in items:
+            continue
+        forced = s["id"] in cfg["publish_now"]
+        reason = why_not(s, cfg, now)
+        if reason and not forced:
+            continue
+        key = s.get("url_key") or editorial.canonical_url(s.get("link"))
+        if key and key in url_keys:
+            continue
+        if not s.get("followup_of") and any(similar(s.get("orig_title") or s["title"], r["title"]) for r in recent):
+            continue
+        problem = page_problem(s, site_dir)
+        if problem:
+            continue
+        rec = {"story_id": s["id"], "title": s.get("orig_title") or s["title"], "url_key": key,
+               "source": s["source"], "dest": dest_url(s, platform), "caption": caption_for(platform, s),
+               "status": "queued", "created_at": now.isoformat(), "published": s["published"],
+               "score": s.get("importance", 0), "attempts": 0, "errors": [], "post_id": None, "posted_at": None,
+               "next_attempt_at": None, "preview": preview_meta(s, site_dir)}
+        items[s["id"]] = rec
+        url_keys.add(key)
+        recent.append(rec)
+        added += 1
+    return added
+
+
+def refresh_queue(platform, stories, cfg, st, now):
+    """Skip list, caption edits, and stories that went stale or were hidden since they were queued."""
+    by_id = {s["id"]: s for s in stories}
+    for sid, r in st["items"].items():
+        if r["status"] != "queued":
+            continue
+        s = by_id.get(sid)
+        if sid in cfg["skip"]:
+            r["status"] = "skipped"
+            r["errors"].append({"at": now.isoformat(), "msg": "skipped by editor"})
+            continue
+        if s is None or s.get("status") != editorial.SHOWN:
+            r["status"] = "skipped"
+            r["errors"].append({"at": now.isoformat(), "msg": "story no longer on the site"})
+            continue
+        if sid not in cfg["publish_now"] and hours_old(s, now) > cfg["max_age_hours"]:
+            r["status"] = "expired"
+            continue
+        r["caption"] = caption_for(platform, s, cfg["captions"].get(sid))
+        r["edited"] = sid in cfg["captions"]
+
+
+def slot_open(cfg, st, now):
+    """Within posting hours, under the daily cap, and far enough from the last post?"""
+    local = now.astimezone(EASTERN)
+    start, end = cfg["hours"]
+    if not (start <= local.hour < end):
+        return False, "outside posting hours"
+    done = [r for r in st["items"].values() if r.get("posted_at") and r["status"] in ("posted", "dry_run", "posting", "uncertain")]
+    today = [r for r in done if datetime.fromisoformat(r["posted_at"]).astimezone(EASTERN).date() == local.date()]
+    if len(today) >= cfg["max_per_day"]:
+        return False, "daily limit reached"
+    if done:
+        last = max(datetime.fromisoformat(r["posted_at"]) for r in done)
+        if now - last < timedelta(minutes=cfg["min_gap_minutes"]):
+            return False, "too soon after the last post"
+    return True, ""
+
+
+def next_item(cfg, st, now, forced_only=False):
+    ready = [r for r in st["items"].values() if r["status"] == "queued"
+             and (not r.get("next_attempt_at") or datetime.fromisoformat(r["next_attempt_at"]) <= now)]
+    forced = [r for r in ready if r["story_id"] in cfg["publish_now"]]
+    if forced:
+        return forced[0]
+    if forced_only or not ready:
+        return None
+    return max(ready, key=lambda r: (r["score"] - min(40, (now - datetime.fromisoformat(r["published"])).total_seconds() / 3600 * 0.6),
+                                     r["published"]))
+
+
+# ------------------------------------------------------------------ API clients
+class AuthError(Exception):
+    """Token expired, revoked, missing permission, or billing/credits problem. Pauses the platform."""
+
+
+class RateLimited(Exception):
+    def __init__(self, msg, retry_at):
+        super().__init__(msg)
+        self.retry_at = retry_at
+
+
+class Temporary(Exception):
+    """Failed before or without reaching the platform; safe to retry later."""
+
+
+class Uncertain(Exception):
+    """The request may have gone through (timeout / server error after sending). Check before retrying."""
+
+
+class Permanent(Exception):
+    """The platform refused this post (e.g. content rejected). Don't retry."""
+
+
+def http_request(method, url, data=None, headers=None, json_body=None, timeout=25):
+    """Small HTTP helper. Returns (status, headers, parsed JSON or {})."""
+    body = None
+    headers = dict(headers or {})
+    headers.setdefault("User-Agent", "HaulTimes/1.0")
+    if json_body is not None:
+        body = json.dumps(json_body).encode()
+        headers["Content-Type"] = "application/json"
+    elif data is not None:
+        body = urllib.parse.urlencode(data).encode()
+        headers["Content-Type"] = "application/x-www-form-urlencoded"
+    req = urllib.request.Request(url, data=body, headers=headers, method=method)
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            raw = r.read()
+            return r.status, dict(r.headers), (json.loads(raw) if raw else {})
+    except urllib.error.HTTPError as e:
+        raw = e.read()
+        try:
+            parsed = json.loads(raw) if raw else {}
+        except ValueError:
+            parsed = {"raw": raw[:300].decode("utf-8", "replace")}
+        return e.code, dict(e.headers or {}), parsed
+
+
+class FacebookClient:
+    """Posts to the Page feed with a Page access token (Graph API v25.0)."""
+
+    def __init__(self, page_id, token, http=http_request):
+        self.page_id, self.token, self.http = page_id, token, http
+
+    def _check(self, status, headers, body, sent):
+        err = body.get("error") if isinstance(body, dict) else None
+        if status < 400 and not err:
+            return body
+        err = err or {}
+        code = err.get("code")
+        msg = "Facebook error %s: %s" % (code or status, err.get("message", "")[:200])
+        if code in (190, 102, 10, 200, 3) or err.get("type") == "OAuthException" and code not in (1, 2, 4, 17, 32, 613):
+            raise AuthError(msg)
+        if code in (4, 17, 32, 613, 80001) or status == 429:
+            raise RateLimited(msg, datetime.now(timezone.utc) + timedelta(hours=1))
+        if err.get("is_transient") or code in (1, 2) or status >= 500:
+            raise (Uncertain if sent else Temporary)(msg)
+        raise Permanent(msg)
+
+    def post(self, message, link):
+        try:
+            status, headers, body = self.http("POST", "%s/%s/feed" % (GRAPH, self.page_id),
+                                              data={"message": message, "link": link, "access_token": self.token})
+        except (socket.timeout, TimeoutError) as e:
+            raise Uncertain("Facebook timed out: %s" % type(e).__name__)
+        except urllib.error.URLError as e:
+            raise Temporary("Facebook unreachable: %s" % e.reason)
+        body = self._check(status, headers, body, sent=True)
+        if not body.get("id"):
+            raise Uncertain("Facebook returned no post id")
+        return body["id"], "https://www.facebook.com/%s" % body["id"]
+
+    def find(self, message, since):
+        """Look for a post we may already have made (after a timeout or crash)."""
+        try:
+            status, headers, body = self.http(
+                "GET", "%s/%s/feed?fields=id,message,created_time&limit=25" % (GRAPH, self.page_id),
+                headers={"Authorization": "OAuth " + self.token})
+        except (socket.timeout, TimeoutError, urllib.error.URLError) as e:
+            raise Temporary("Facebook check failed: %s" % type(e).__name__)
+        body = self._check(status, headers, body, sent=False)
+        norm = lambda t: re.sub(r"\s+", " ", t or "").strip()
+        for p in body.get("data", []):
+            if norm(p.get("message")) == norm(message):
+                return p["id"], "https://www.facebook.com/%s" % p["id"]
+        return None
+
+
+def _pct(s):
+    return urllib.parse.quote(str(s), safe="~-._")
+
+
+class XClient:
+    """Creates posts with OAuth 1.0a user context (POST /2/tweets)."""
+
+    def __init__(self, api_key, api_secret, token, token_secret, http=http_request):
+        self.k, self.ks, self.t, self.ts, self.http = api_key, api_secret, token, token_secret, http
+
+    def _auth(self, method, url, params=None):
+        oauth = {"oauth_consumer_key": self.k, "oauth_nonce": secrets.token_hex(16),
+                 "oauth_signature_method": "HMAC-SHA1", "oauth_timestamp": str(int(time.time())),
+                 "oauth_token": self.t, "oauth_version": "1.0"}
+        allp = dict(oauth, **(params or {}))
+        base = "&".join([method.upper(), _pct(url),
+                         _pct("&".join("%s=%s" % (_pct(k), _pct(v)) for k, v in sorted(allp.items())))])
+        key = "%s&%s" % (_pct(self.ks), _pct(self.ts))
+        oauth["oauth_signature"] = base64.b64encode(hmac.new(key.encode(), base.encode(), hashlib.sha1).digest()).decode()
+        return "OAuth " + ", ".join('%s="%s"' % (_pct(k), _pct(v)) for k, v in sorted(oauth.items()))
+
+    def _check(self, status, headers, body, sent):
+        if status < 400:
+            return body
+        detail = (body.get("detail") or body.get("title") or (body.get("errors") or [{}])[0].get("message", "")
+                  if isinstance(body, dict) else "")
+        msg = "X error %s: %s" % (status, str(detail)[:200])
+        if status in (401, 402) or (status == 403 and "duplicate" not in msg.lower() and "not permitted" not in msg.lower()):
+            raise AuthError(msg)
+        if status == 429:
+            reset = headers.get("x-rate-limit-reset") or headers.get("X-Rate-Limit-Reset")
+            when = datetime.fromtimestamp(int(reset), timezone.utc) if reset and str(reset).isdigit() \
+                else datetime.now(timezone.utc) + timedelta(minutes=15)
+            raise RateLimited(msg, when)
+        if status >= 500:
+            raise (Uncertain if sent else Temporary)(msg)
+        raise Permanent(msg)
+
+    def post(self, text, link=None):
+        url = XAPI + "/tweets"
+        try:
+            status, headers, body = self.http("POST", url, json_body={"text": text},
+                                              headers={"Authorization": self._auth("POST", url)})
+        except (socket.timeout, TimeoutError) as e:
+            raise Uncertain("X timed out: %s" % type(e).__name__)
+        except urllib.error.URLError as e:
+            raise Temporary("X unreachable: %s" % e.reason)
+        body = self._check(status, headers, body, sent=True)
+        pid = (body.get("data") or {}).get("id")
+        if not pid:
+            raise Uncertain("X returned no post id")
+        return pid, "https://x.com/i/web/status/%s" % pid
+
+    def user_id(self, st):
+        if st.get("account", {}).get("x_user_id"):
+            return st["account"]["x_user_id"]
+        url = XAPI + "/users/me"
+        status, headers, body = self.http("GET", url, headers={"Authorization": self._auth("GET", url)})
+        body = self._check(status, headers, body, sent=False)
+        st.setdefault("account", {})["x_user_id"] = body["data"]["id"]
+        return body["data"]["id"]
+
+    def find(self, story_id, st):
+        """Our recent posts (owned reads); match the story id in the link's utm_content."""
+        try:
+            uid = self.user_id(st)
+            base = "%s/users/%s/tweets" % (XAPI, uid)
+            params = {"max_results": "10", "tweet.fields": "created_at,entities"}
+            status, headers, body = self.http("GET", base + "?" + urllib.parse.urlencode(params),
+                                              headers={"Authorization": self._auth("GET", base, params)})
+        except (socket.timeout, TimeoutError, urllib.error.URLError) as e:
+            raise Temporary("X check failed: %s" % type(e).__name__)
+        body = self._check(status, headers, body, sent=False)
+        for p in body.get("data", []):
+            for u in ((p.get("entities") or {}).get("urls") or []):
+                if "utm_content=%s" % story_id in (u.get("expanded_url") or ""):
+                    return p["id"], "https://x.com/i/web/status/%s" % p["id"]
+        return None
+
+
+def make_client(platform, env=None):
+    env = env if env is not None else os.environ
+    if platform == "facebook":
+        pid, tok = env.get("FB_PAGE_ID"), env.get("FB_PAGE_TOKEN")
+        return (FacebookClient(pid, tok), [tok]) if pid and tok else (None, [])
+    keys = [env.get(k) for k in ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_TOKEN_SECRET")]
+    return (XClient(*keys), keys) if all(keys) else (None, [])
+
+
+def scrub(text, secret_values):
+    for v in secret_values:
+        if v and len(v) > 6:
+            text = text.replace(v, "***")
+    return re.sub(r"(access_token=)[^&\s]+", r"\1***", text)
+
+
+def token_fingerprint(secret_values):
+    return hashlib.sha256("|".join(v or "" for v in secret_values).encode()).hexdigest()[:12] if secret_values else ""
+
+
+# ------------------------------------------------------------------ one platform, one run
+
+def find_existing(platform, client, r, st):
+    return client.find(r["caption"], r["created_at"]) if platform == "facebook" else client.find(r["story_id"], st)
+
+
+def run_platform(platform, stories, cfg, st, now, site_dir, client=None, secret_values=(), save=lambda: None):
+    """Queue, refresh, and (in live mode) publish at most one post. Returns a short status line."""
+    if cfg["mode"] == "off":
+        return "off"
+    queue_new(platform, stories, cfg, st, now, site_dir)
+    refresh_queue(platform, stories, cfg, st, now)
+    forced_waiting = any(r["status"] == "queued" and r["story_id"] in cfg["publish_now"] for r in st["items"].values())
+
+    if cfg["mode"] == "dry_run":
+        ok, why = slot_open(cfg, st, now)
+        r = next_item(cfg, st, now, forced_only=not ok)
+        if not r:
+            return "dry run: nothing to post (%s)" % (why or "no worthwhile new story")
+        r["status"], r["posted_at"] = "dry_run", now.isoformat()
+        log(st, now, "dry run: would post %s" % r["story_id"])
+        return "dry run: would post %s" % r["story_id"]
+
+    # ---- live
+    if client is None:
+        log(st, now, "live mode but credentials are missing")
+        return "live: credentials missing (see setup notes)"
+    fp = token_fingerprint(secret_values)
+    if st.get("paused"):
+        if st["paused"].get("token") and st["paused"]["token"] != fp:
+            log(st, now, "new credentials found, resuming")
+            st["paused"] = None
+        else:
+            return "live: paused (%s)" % st["paused"]["reason"]
+
+    # Settle anything left uncertain by an earlier run before posting anything new.
+    for r in [x for x in st["items"].values() if x["status"] in ("posting", "uncertain")]:
+        try:
+            found = find_existing(platform, client, r, st)
+        except AuthError as e:
+            st["paused"] = {"reason": scrub(str(e), secret_values), "at": now.isoformat(), "token": fp}
+            return "live: paused (%s)" % st["paused"]["reason"]
+        except (Temporary, RateLimited, Uncertain, Permanent) as e:
+            r["errors"].append({"at": now.isoformat(), "msg": "check failed: " + scrub(str(e), secret_values)})
+            return "live: waiting to confirm %s" % r["story_id"]
+        if found:
+            r["status"], r["post_id"], r["post_url"] = "posted", found[0], found[1]
+            r["posted_at"] = r.get("posted_at") or now.isoformat()
+            log(st, now, "confirmed earlier post %s" % r["story_id"])
+        elif now - datetime.fromisoformat(r.get("last_attempt_at") or r["created_at"]) >= timedelta(minutes=10):
+            r["status"] = "queued" if r["attempts"] < MAX_ATTEMPTS else "failed"
+            r["next_attempt_at"] = now.isoformat()
+            log(st, now, "earlier attempt for %s did not post; will retry" % r["story_id"])
+        else:
+            return "live: waiting to confirm %s" % r["story_id"]
+
+    if st.get("backoff_until") and datetime.fromisoformat(st["backoff_until"]) > now:
+        return "live: rate limited until %s" % st["backoff_until"]
+    st.pop("backoff_until", None)
+    ok, why = slot_open(cfg, st, now)
+    r = next_item(cfg, st, now, forced_only=not ok)
+    if not r:
+        return "live: nothing to post (%s)" % (why or "no worthwhile new story")
+    # Never post twice: if we've tried before, look first.
+    if r["attempts"] > 0:
+        try:
+            found = find_existing(platform, client, r, st)
+            if found:
+                r["status"], r["post_id"], r["post_url"], r["posted_at"] = "posted", found[0], found[1], now.isoformat()
+                return "live: confirmed earlier post %s" % r["story_id"]
+        except (Temporary, RateLimited, Uncertain, Permanent, AuthError):
+            pass
+    r["status"], r["attempts"], r["last_attempt_at"], r["posted_at"] = "posting", r["attempts"] + 1, now.isoformat(), now.isoformat()
+    save()  # record the attempt before calling the platform
+    try:
+        if platform == "facebook":
+            pid, purl = client.post(r["caption"], r["dest"])
+        else:
+            pid, purl = client.post(r["caption"])
+    except AuthError as e:
+        r["status"], r["posted_at"] = "queued", None
+        r["errors"].append({"at": now.isoformat(), "msg": scrub(str(e), secret_values)})
+        st["paused"] = {"reason": scrub(str(e), secret_values), "at": now.isoformat(), "token": fp}
+        return "live: paused (%s)" % st["paused"]["reason"]
+    except RateLimited as e:
+        r["status"], r["posted_at"] = "queued", None
+        r["next_attempt_at"] = e.retry_at.isoformat()
+        st["backoff_until"] = e.retry_at.isoformat()  # platform limits apply to the whole account
+        r["errors"].append({"at": now.isoformat(), "msg": scrub(str(e), secret_values)})
+        return "live: rate limited until %s" % e.retry_at.isoformat()
+    except Uncertain as e:
+        r["status"] = "uncertain"
+        r["errors"].append({"at": now.isoformat(), "msg": scrub(str(e), secret_values)})
+        return "live: result unclear for %s, will check before retrying" % r["story_id"]
+    except Temporary as e:
+        r["posted_at"] = None
+        r["errors"].append({"at": now.isoformat(), "msg": scrub(str(e), secret_values)})
+        if r["attempts"] >= MAX_ATTEMPTS:
+            r["status"] = "failed"
+        else:
+            r["status"] = "queued"
+            r["next_attempt_at"] = (now + timedelta(minutes=15 * 2 ** (r["attempts"] - 1))).isoformat()
+        return "live: temporary failure, retry later"
+    except Permanent as e:
+        r["status"], r["posted_at"] = "failed", None
+        r["errors"].append({"at": now.isoformat(), "msg": scrub(str(e), secret_values)})
+        return "live: refused (%s)" % scrub(str(e), secret_values)
+    r["status"], r["post_id"], r["post_url"] = "posted", pid, purl
+    log(st, now, "posted %s" % r["story_id"])
+    return "live: posted %s" % r["story_id"]
+
+
+def prune(st, now, days=30):
+    cutoff = now - timedelta(days=days)
+    st["items"] = {k: v for k, v in st["items"].items()
+                   if datetime.fromisoformat(v["created_at"]) >= cutoff or v["status"] in ("posting", "uncertain")}
+
+
+# ------------------------------------------------------------------ editor page
+
+def build_editor_page(settings, states, now, site_dir):
+    import build_site as b
+    E = html.escape
+    names = {"facebook": "Facebook Page", "x": "X account"}
+    out = [b.head("Social posts", "Editor view", "/editor/social/", extra='<meta name="robots" content="noindex, nofollow">'),
+           '<main class="wrap"><div class="page-head"><h1>Social posts</h1><p>Queue, previews, posts and errors for automatic '
+           'posting. Change settings in <code>social.json</code> on GitHub. Updated %s ET.</p></div>' % now.astimezone(EASTERN).strftime("%b %-d, %-I:%M %p")]
+    order = {"posting": 0, "uncertain": 1, "queued": 2, "posted": 3, "dry_run": 4, "failed": 5, "skipped": 6, "expired": 7}
+    for p in PLATFORMS:
+        cfg, st = settings[p], states[p]
+        ok, why = slot_open(cfg, st, now)
+        out.append('<h2 class="sec-title" style="margin-top:28px">%s · mode: %s%s</h2>' % (
+            names[p], E(cfg["mode"]), (" · PAUSED: " + E(st["paused"]["reason"])) if st.get("paused") else ""))
+        out.append('<p class="note">Up to %d posts a day, at least %d minutes apart, %d:00–%d:00 ET. Next slot: %s.</p>' % (
+            cfg["max_per_day"], cfg["min_gap_minutes"], cfg["hours"][0], cfg["hours"][1], "open now" if ok else E(why)))
+        out.append('<table class="waits" style="min-width:0"><thead><tr><th>Status</th><th>Post text</th><th>Links</th><th>Notes</th></tr></thead><tbody>')
+        rows = sorted(st["items"].values(), key=lambda r: (order.get(r["status"], 9), r["created_at"]), reverse=False)
+        for r in rows[:80]:
+            prev = r.get("preview") or {}
+            out.append('<tr><td><strong>%s</strong><br><code>%s</code>%s</td><td style="white-space:pre-wrap;max-width:520px">%s'
+                       '<div class="note" style="margin-top:6px;border:1px solid #D5D9DE;padding:6px">Link preview: <strong>%s</strong><br>%s</div></td>'
+                       '<td><a href="%s">HaulTimes page</a>%s</td><td class="note">%s</td></tr>' % (
+                           E(r["status"]), E(r["story_id"]), " (edited)" if r.get("edited") else "", E(r["caption"]),
+                           E(prev.get("og:title", "")), E(prev.get("og:description", "")), E(r["dest"]),
+                           ('<br><a href="%s">View post</a>' % E(r["post_url"])) if r.get("post_url") else "",
+                           E("; ".join(e["msg"] for e in r.get("errors", [])[-3:]) or (r.get("posted_at") or "")[:16].replace("T", " "))))
+        out.append("</tbody></table>")
+    out.append("</main>")
+    out.append(b.footer())
+    path = os.path.join(site_dir, "editor", "social", "index.html")
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("".join(out))
+
+
+# ------------------------------------------------------------------ samples (dry run, no state change)
+
+def samples(n=10, now=None, site_dir=SITE):
+    now = now or datetime.now(timezone.utc)
+    stories = load_json("news.json", [])
+    if stories and "status" not in stories[0]:
+        editorial.reprocess(stories, now)
+    picked = []
+    for s in sorted(editorial.eligible(stories), key=lambda s: editorial.rank_score(s, now), reverse=True):
+        cfg = dict(DEFAULTS["facebook"], max_age_hours=10 ** 6)  # same rules as the live queue, minus freshness
+        if why_not(s, cfg, now):
+            continue
+        if any(similar(s.get("orig_title") or s["title"], p.get("orig_title") or p["title"]) for p in picked):
+            continue
+        picked.append(s)
+        if len(picked) == n:
+            break
+    out = []
+    for s in picked:
+        out.append({"story_id": s["id"], "title": s["title"], "source": s["source"], "category": CATEGORIES[s["category"]][0],
+                    "score": s["importance"], "published": s["published"],
+                    "facebook": {"caption": facebook_caption(s), "link": dest_url(s, "facebook"),
+                                 "words": words(facebook_caption(s))},
+                    "x": {"text": x_text(s), "length": x_weighted_length(x_text(s))},
+                    "page_check": page_problem(s, site_dir) or "ok", "preview": preview_meta(s, site_dir)})
+    return out
+
+
+def main(argv):
+    if "--samples" in argv:
+        i = argv.index("--samples")
+        n = int(argv[i + 1]) if len(argv) > i + 1 else 10
+        print(json.dumps(samples(n), indent=1, ensure_ascii=False))
+        return 0
+    now = datetime.now(timezone.utc)
+    settings = load_settings()
+    stories = load_json("news.json", [])
+    if stories and "status" not in stories[0]:
+        editorial.reprocess(stories, now)
+    states = {}
+    for p in PLATFORMS:
+        name = "social_%s.json" % p
+        st = load_json(name, new_state())
+        client, secret_values = (make_client(p) if settings[p]["mode"] == "live" else (None, []))
+        try:
+            msg = run_platform(p, stories, settings[p], st, now, SITE, client, secret_values,
+                               save=lambda st=st, name=name: save_json(name, st))
+        except Exception as e:  # never let one platform break the other or the site update
+            msg = "error: %s" % scrub("%s: %s" % (type(e).__name__, e), secret_values)
+            log(st, now, msg)
+        prune(st, now)
+        save_json(name, st)
+        states[p] = st
+        print("%s: %s" % (p, msg))
+    try:
+        build_editor_page(settings, states, now, SITE)
+    except Exception as e:
+        print("editor page failed:", type(e).__name__, e)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))

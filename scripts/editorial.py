@@ -155,17 +155,17 @@ FOREIGN = ["india", "indian", "pakistan", "bangladesh", "sri lanka", "nepal", "p
            "malaysia", "singapore", "indonesia", "vietnam", "thailand", "china", "chinese", "japan",
            "korea", "taiwan", "australia", "aussie", "new zealand", "kiwi", "nigeria", "kenya", "ghana",
            "south africa", "uganda", "tanzania", "ukraine", "russia", "dnipro", " uk ", "u.k.", "britain",
-           "british", "england", "scotland", "wales", "ireland", "yorkshire", "london", "europe", " eu ",
+           "british", "england", "scotland", "wales", "ireland", "yorkshire", "europe", " eu ",
            "germany", "france", "spain", "italy", "poland", "netherlands", "dubai", "saudi", "uae",
-           "iran", "israel", "turkey", "egypt", "brazil", "argentina", "chile", "peru", "colombia",
+           "iran", "israel", "türkiye", "turkish", "ankara", "egypt", "brazil", "argentina", "chile", "peru", "colombia",
            "hgv", "lorry", "lorries", "haulage", "sebi", " nse", " bse", "tse:", ".ns)", "railways", " ioc ",
            "berjaya", "tasco", "mnre", "arai", "fy27", "fy28", "crore", "lakh", "rupee", "naxal", "bjd",
            "lagos", "lastma", "abuja", "nairobi", "accra", "afienya", "johannesburg", "cairo", "karachi", "lahore",
            "islamabad", "delhi", "mumbai", "chennai", "kolkata", "bengaluru", "bangalore", "hyderabad",
            "dhaka", "colombo", "kathmandu", "jakarta", "kuala lumpur", "bangkok", "hanoi", "beijing",
-           "shanghai", "shenzhen", "hong kong", "tokyo", "seoul", "sydney", "melbourne", "brisbane",
-           "auckland", "dublin", "manchester", "birmingham, uk", "glasgow", "paris", "berlin",
-           "madrid", "rome", "warsaw", "kyiv", "moscow", "istanbul", "riyadh", "tehran", "sao paulo",
+           "shanghai", "shenzhen", "hong kong", "tokyo", "seoul", 
+           "auckland", 
+           "madrid", "warsaw", "kyiv", "moscow", "istanbul", "riyadh", "tehran", "sao paulo",
            "nigerian", "kenyan", "pakistani", "bangladeshi", "filipino", "malaysian", "australian", "european",
            "german ", "french ", "polish ", "fenerbah", "galatasaray", "west asia", "middle east", " n3 ",
            "natroad", "nhvr", "dvsa", "logistics uk", "road haulage association", "rha "]
@@ -474,7 +474,8 @@ def assess(title, source="", snippet=""):
     # 5. Other countries
     if _has(s, FOREIGN_SOURCES) and not _has(t, NA_PLACES):
         return reject("non-North American source")
-    if _has(t, FOREIGN) and not _has(t, ["u.s.", "canada", "canadian", "american", "usmca", "cusma", "tariff"]):
+    t_geo = re.sub(r"new england|new south wales|new brunswick|new mexico|new york|new jersey", " na-place ", t)
+    if _has(t_geo, FOREIGN) and not _has(t, ["u.s.", "canada", "canadian", "american", "usmca", "cusma", "tariff"]):
         return reject("story about another country")
     # 6. Ocean / air / rail freight with no North American trucking link
     if _has(t, OTHER_MODE) and not _has(t, NA_LINK):

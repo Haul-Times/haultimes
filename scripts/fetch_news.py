@@ -239,8 +239,8 @@ def main():
             s["region"] = ai.get("region", "Other")
             if s["ai_relevant"]:
                 title = (ai.get("title") or s["orig_title"]).strip()
-                s.update(title=title, slug="%s-%s" % (slugify(title), s["id"]),
-                         summary=(ai.get("summary") or "").strip(), why=(ai.get("why_it_matters") or "").strip())
+                # The page address (slug) never changes once created: links already shared on Facebook/X must keep working.
+                s.update(title=title, summary=(ai.get("summary") or "").strip(), why=(ai.get("why_it_matters") or "").strip())
                 summarized += 1
             else:
                 rejected_by_ai += 1
