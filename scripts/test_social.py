@@ -430,6 +430,31 @@ class Failures(Base):
         self.assertEqual(self.st["items"]["s001"]["status"], "failed")
 
 
+class CredentialCheck(Base):
+
+    def test_check_runs_without_posting(self):
+        class FB(FakePlatform):
+            checked = 0
+            def check(self):
+                FB.checked += 1
+                return "HaulTimes"
+        fb = FB()
+        night = datetime(2026, 11, 10, 3, 0, tzinfo=timezone.utc)   # 10 PM Eastern: outside hours
+        msg = self.run_live(fb, now=night)
+        self.assertIn("outside posting hours", msg)
+        self.assertEqual(fb.posts, [])
+        self.assertEqual(self.st["account"]["name"], "HaulTimes")
+        self.run_live(fb, now=night + timedelta(minutes=15))
+        self.assertEqual(FB.checked, 1)   # once a day, not every run
+
+    def test_bad_token_found_by_check_pauses(self):
+        class FB(FakePlatform):
+            def check(self):
+                raise so.AuthError("Facebook error 190: Invalid OAuth access token")
+        msg = self.run_live(FB())
+        self.assertIn("paused", msg)
+
+
 class ApiClients(unittest.TestCase):
     """Request shape and error mapping, with a fake HTTP layer."""
 

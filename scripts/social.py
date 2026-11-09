@@ -619,6 +619,16 @@ class FacebookClient:
             raise Uncertain("Facebook returned no post id")
         return body["id"], "https://www.facebook.com/%s" % body["id"]
 
+    def check(self):
+        """Read-only: can this token reach the Page? Returns the Page name."""
+        try:
+            status, headers, body = self.http("GET", "%s/%s?fields=id,name" % (GRAPH, self.page_id),
+                                              headers={"Authorization": "OAuth " + self.token})
+        except (socket.timeout, TimeoutError, urllib.error.URLError) as e:
+            raise Temporary("Facebook check failed: %s" % type(e).__name__)
+        body = self._check(status, headers, body, sent=False)
+        return body.get("name") or body.get("id")
+
     def find(self, message, since):
         """Look for a post we may already have made (after a timeout or crash)."""
         try:
@@ -772,6 +782,20 @@ def run_platform(platform, stories, cfg, st, now, site_dir, client=None, secret_
         else:
             return "live: paused (%s)" % st["paused"]["reason"]
 
+    # Once a day (and right after setup), confirm the credentials work, without posting.
+    acct = st.setdefault("account", {})
+    if hasattr(client, "check") and (acct.get("checked_fp") != fp or not acct.get("checked_at")
+                                     or now - datetime.fromisoformat(acct["checked_at"]) > timedelta(hours=24)):
+        try:
+            acct["name"] = client.check()
+            acct["checked_at"], acct["checked_fp"] = now.isoformat(), fp
+            log(st, now, "credentials OK: connected to %s" % acct["name"])
+        except AuthError as e:
+            st["paused"] = {"reason": scrub(str(e), secret_values), "at": now.isoformat(), "token": fp}
+            return "live: paused (%s)" % st["paused"]["reason"]
+        except (Temporary, RateLimited, Uncertain, Permanent) as e:
+            log(st, now, "credential check failed: " + scrub(str(e), secret_values))
+
     # Settle anything left uncertain by an earlier run before posting anything new.
     for r in [x for x in st["items"].values() if x["status"] in ("posting", "uncertain")]:
         try:
@@ -892,6 +916,9 @@ def build_editor_page(settings, states, now, site_dir, traffic=None):
         ok, why = slot_open(cfg, st, now)
         out.append('<h2 class="sec-title" style="margin-top:28px">%s · mode: %s%s</h2>' % (
             names[p], E(cfg["mode"]), (" · PAUSED: " + E(st["paused"]["reason"])) if st.get("paused") else ""))
+        if st.get("account", {}).get("name"):
+            out.append('<p class="note">Connected to <strong>%s</strong> (checked %s ET).</p>' % (
+                E(st["account"]["name"]), datetime.fromisoformat(st["account"]["checked_at"]).astimezone(EASTERN).strftime("%b %-d, %-I:%M %p")))
         out.append('<p class="note">No daily limit. At least %d minutes between posts, %d:00–%d:00 ET (verified breaking news may go any time). '
                    'Minimum importance %d, posts within %dh of publication. Next slot: %s.</p>' % (
                        cfg["min_gap_minutes"], cfg["hours"][0], cfg["hours"][1], cfg["min_score"], cfg["max_age_hours"],
@@ -976,7 +1003,8 @@ def main(argv):
         prune(st, now)
         save_json(name, st)
         states[p] = st
-        print("%s: %s" % (p, msg))
+        acct = st.get("account", {})
+        print("%s: %s%s" % (p, msg, (" | connected to %s" % acct["name"]) if acct.get("name") and settings[p]["mode"] == "live" else ""))
     try:
         import traffic as tr
         traffic = tr.update(now)
