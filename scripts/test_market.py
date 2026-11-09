@@ -88,8 +88,10 @@ fm.http_get = orig_get
 
 # --- EIA without a key does nothing and shows no numbers
 # EIA page (no key needed): the diesel table, not the gasoline one
-EIA_HTML = """<html><body><h2>Retail prices for Gasoline, All Grades</h2><table><tr><th></th><th>10/27/26</th><th>11/03/26</th></tr>
-<tr><td>U.S.</td><td>3.10</td><td>3.05</td></tr></table>
+EIA_HTML = """<html><body><h1>Gasoline and Diesel Fuel Update</h1><h2>Retail prices for Gasoline, All Grades</h2><table><tr><th></th><th>10/20/26</th><th>10/27/26</th><th>11/03/26</th></tr>
+<tr><td>U.S.</td><td>3.1</td><td>3.10</td><td>3.05</td></tr><tr><td>East Coast (PADD1)</td><td>3.1</td><td>3.1</td><td>3.1</td></tr>
+<tr><td>Midwest (PADD2)</td><td>3.1</td><td>3.1</td><td>3.1</td></tr><tr><td>Gulf Coast (PADD3)</td><td>3.1</td><td>3.1</td><td>3.1</td></tr>
+<tr><td>Rocky Mountain (PADD4)</td><td>3.1</td><td>3.1</td><td>3.1</td></tr><tr><td>West Coast (PADD5)</td><td>3.1</td><td>3.1</td><td>3.1</td></tr></table>
 <h2>On-Highway Diesel Fuel Prices</h2><table><tr><th></th><th>10/20/26</th><th>10/27/26</th><th>11/03/26</th><th>week ago</th><th>year ago</th></tr>
 <tr><td>U.S.</td><td>3.70</td><td>3.75</td><td>3.80</td><td>0.05</td><td>0.10</td></tr>
 <tr><td>East Coast (PADD1)</td><td>3.8</td><td>3.85</td><td>3.9</td><td>0.05</td><td>0.1</td></tr>

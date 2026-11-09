@@ -314,8 +314,13 @@ def parse_eia_page(html_text):
     p = _Tables()
     p.feed(html_text)
     for t in p.tables:
-        heading = (t["before"] + " " + " ".join(" ".join(r) for r in t["rows"][:2])).lower()
-        if "diesel" not in heading:
+        # The table's own heading is whichever fuel word appears LAST in the text just before it
+        # (the page title "Gasoline and Diesel Fuel Update" mentions both, so "contains diesel" is not enough).
+        before = t["before"].lower()
+        own = " ".join(" ".join(r) for r in t["rows"][:1]).lower()
+        if "diesel" in own and "gasoline" not in own:
+            pass
+        elif before.rfind("diesel") <= before.rfind("gasoline"):
             continue
         dates = None
         for r in t["rows"]:
@@ -339,14 +344,17 @@ def parse_eia_page(html_text):
             if key and len(nums) >= len(dates) and 1 < nums[len(dates) - 1] < 15:
                 cur[key] = nums[len(dates) - 1]
                 prev[key] = nums[len(dates) - 2]
-        if len(cur) >= 5:
+        if len(cur) >= 5 and cur.get("US", 0) > 0:
             iso = lambda d: datetime.strptime(d, "%m/%d/%y" if len(d.split("/")[2]) == 2 else "%m/%d/%Y").date().isoformat()
             return iso(dates[-1]), cur, iso(dates[-2]), prev
     raise ValueError("diesel table not found on EIA page")
 
 
+EIA_PARSER = 2   # bump to force a fresh fetch when the way the page is read changes
+
+
 def update_eia(store, key):
-    if not due(store, 6):
+    if store.get("parser") == EIA_PARSER and not due(store, 6):
         return store
     try:
         if key:
@@ -368,7 +376,7 @@ def update_eia(store, key):
     except Exception as e:
         msg = re.sub(r"api_key=[^&\s]+", "api_key=***", "%s: %s" % (type(e).__name__, e))
         return keep_old(store, "EIA: " + msg)
-    store.update(status="ok", week=latest, prices=prices, prev_week=prev_week, prev_prices=prev_prices,
+    store.update(status="ok", week=latest, prices=prices, prev_week=prev_week, prev_prices=prev_prices, parser=EIA_PARSER,
                  units="US$ per gallon", retrieved_at=NOW.isoformat(), last_attempt_at=NOW.isoformat(),
                  last_error=None, source_url=EIA_PAGE)
     return store
