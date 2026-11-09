@@ -3318,6 +3318,32 @@
   "kind": "news"
  },
  {
+  "id": "772ba14338",
+  "slug": "industry-groups-protest-canada-u-s-border-blockades-772ba14338",
+  "title": "Industry Groups Protest Canada-U.S. Border Blockades",
+  "orig_title": "Industry Groups Protest Canada-U.S. Border Blockades",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Canadian Plastics",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa21SemMyVFVheXhwY2hZVkpqcE04QXdGejRkTUxMSEZySlU1cWkwTnlpSVF0NXVaOURfRU1GQnAtRWRlYzdjZHdRYUZ0XzczY2pxdmZPa1FUa0ZYRGhJOVJMbjBjcVpzaE1XX0ZDWkQ4bGdHSS1yckZrZzJCYXFPZEMzZ0VONEZsamMydDE0dXNDaUl4SXlKY1Uyb3k?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa21SemMyVFVheXhwY2hZVkpqcE04QXdGejRkTUxMSEZySlU1cWkwTnlpSVF0NXVaOURfRU1GQnAtRWRlYzdjZHdRYUZ0XzczY2pxdmZPa1FUa0ZYRGhJOVJMbjBjcVpzaE1XX0ZDWkQ4bGdHSS1yckZrZzJCYXFPZEMzZ0VONEZsamMydDE0dXNDaUl4SXlKY1Uyb3k",
+  "snippet": "Industry Groups Protest Canada-U.S. Border Blockades Canadian Plastics",
+  "published": "2026-11-06T16:58:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T00:48:28.901732+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "c4f54cc1dc",
   "slug": "republicans-ran-away-from-trump-s-canadian-tariffs-but-not-far-enough-c4f54cc1dc",
   "title": "Republicans ran away from Trump’s Canadian tariffs, but not far enough",
