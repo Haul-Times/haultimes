@@ -46,6 +46,34 @@
     "og:image": "https://haultimes.com/static/og.png",
     "og:url": "https://haultimes.com/story/union-pacific-norfolk-southern-merger-trucking-impacts-benefits-9da9b41d19/"
    },
+   "edited": false,
+   "breaking": null
+  },
+  "37436ea238": {
+   "story_id": "37436ea238",
+   "title": "Brake Problems Sideline 15% of Inspected Trucks",
+   "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3ktWXZSVThsMHJoZ29STWZ5dE1kSlJPc2dOZmxmdDFqSmpJd0dUdW45dWFtc3Y0Q1JyRFBEVmtmeGZKdmQzQUZZYzV6QWlPbGhLa0hybEFOZUFjM09yM0pDYUU3MTJHcG5NVzhta292bjB4czFEMjBwWmZhTGFEbGRiOElUbnM",
+   "category": "other",
+   "source": "Heavy Duty Trucking",
+   "dest": "https://haultimes.com/story/brake-problems-sideline-15-of-inspected-trucks-37436ea238/?utm_source=x&utm_medium=organic_social&utm_campaign=story&utm_content=37436ea238",
+   "caption": "Brake Problems Sideline 15% of Inspected Trucks.\n\nVia Heavy Duty Trucking: https://haultimes.com/story/brake-problems-sideline-15-of-inspected-trucks-37436ea238/?utm_source=x&utm_medium=organic_social&utm_campaign=story&utm_content=37436ea238\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-09T01:23:04.452152+00:00",
+   "published": "2026-11-09T01:21:13+00:00",
+   "score": 61,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Brake Problems Sideline 15% of Inspected Trucks | HaulTimes",
+    "og:description": "Reported by Heavy Duty Trucking. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og.png",
+    "og:url": "https://haultimes.com/story/brake-problems-sideline-15-of-inspected-trucks-37436ea238/"
+   },
+   "reason": "importance 61 (threshold 60), Industry, trade publication",
+   "breaking": null,
    "edited": false
   }
  },
@@ -55,6 +83,66 @@
   {
    "at": "2026-11-09T01:04:27.965045+00:00",
    "msg": "dry run: would post 25da25e64e"
+  }
+ ],
+ "decided": {
+  "37436ea238": "queued|importance 61 (threshold 60), Industry, trade publication",
+  "3568f5d719": "skipped|minor item (event) or low-quality source",
+  "2c5252c8e2": "skipped|minor item (news) or low-quality source",
+  "7c4f39840c": "skipped|importance 50 is below this platform's threshold (60)",
+  "87809632d1": "skipped|minor item (news) or low-quality source",
+  "ea7a69c6c6": "skipped|minor item (feature) or low-quality source",
+  "711e4a2a6d": "skipped|minor item (incident) or low-quality source"
+ },
+ "decisions": [
+  {
+   "at": "2026-11-09T01:23:04.452152+00:00",
+   "story_id": "37436ea238",
+   "title": "Brake Problems Sideline 15% of Inspected Trucks",
+   "action": "queued",
+   "reason": "importance 61 (threshold 60), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-09T01:23:04.452152+00:00",
+   "story_id": "3568f5d719",
+   "title": "Fleet Costs Shape ACT Expo 2027 Agenda",
+   "action": "skipped",
+   "reason": "minor item (event) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T01:23:04.452152+00:00",
+   "story_id": "2c5252c8e2",
+   "title": "America’s Diesel Stockpiles Just Hit a 23-Year Low — and Families Could Pay the Price",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T01:23:04.452152+00:00",
+   "story_id": "7c4f39840c",
+   "title": "Nearly 85 percent of CMV brake inspections resulted in zero violations during CVSA Brake Safety Week",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (60)"
+  },
+  {
+   "at": "2026-11-09T01:23:04.452152+00:00",
+   "story_id": "87809632d1",
+   "title": "Optimal Dynamics says cutting empty truck miles can shrink driver pay",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T01:23:04.452152+00:00",
+   "story_id": "ea7a69c6c6",
+   "title": "Third generation truck driver enjoys the open road and serving customers",
+   "action": "skipped",
+   "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T01:23:04.452152+00:00",
+   "story_id": "711e4a2a6d",
+   "title": "Freight truck runs off road in Camden, prompting traffic advisory",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ]
 }

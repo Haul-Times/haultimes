@@ -1,5 +1,29 @@
 [
  {
+  "id": "37436ea238",
+  "slug": "brake-problems-sideline-15-of-inspected-trucks-37436ea238",
+  "title": "Brake Problems Sideline 15% of Inspected Trucks",
+  "orig_title": "Brake Problems Sideline 15% of Inspected Trucks",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 61,
+  "source": "Heavy Duty Trucking",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3ktWXZSVThsMHJoZ29STWZ5dE1kSlJPc2dOZmxmdDFqSmpJd0dUdW45dWFtc3Y0Q1JyRFBEVmtmeGZKdmQzQUZZYzV6QWlPbGhLa0hybEFOZUFjM09yM0pDYUU3MTJHcG5NVzhta292bjB4czFEMjBwWmZhTGFEbGRiOElUbnM?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3ktWXZSVThsMHJoZ29STWZ5dE1kSlJPc2dOZmxmdDFqSmpJd0dUdW45dWFtc3Y0Q1JyRFBEVmtmeGZKdmQzQUZZYzV6QWlPbGhLa0hybEFOZUFjM09yM0pDYUU3MTJHcG5NVzhta292bjB4czFEMjBwWmZhTGFEbGRiOElUbnM",
+  "snippet": "Brake Problems Sideline 15% of Inspected Trucks Heavy Duty Trucking",
+  "published": "2026-11-09T01:21:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T01:23:00.129184+00:00",
+  "image": "",
+  "ai": false,
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news"
+ },
+ {
   "id": "415ae6e54b",
   "slug": "ch-robinson-earnings-call-highlights-growth-and-rxo-plans-415ae6e54b",
   "title": "CH Robinson Earnings Call Highlights Growth and RXO Plans",
@@ -48,6 +72,32 @@
   "reasons": [],
   "labels": [],
   "kind": "news"
+ },
+ {
+  "id": "6b7a47b5bf",
+  "slug": "stakh-vozniak-6b7a47b5bf",
+  "title": "Stakh Vozniak",
+  "orig_title": "Stakh Vozniak",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fQjFzcFRxZFpDSGw3eUdpeVZhU0JnbVUweV92SW9mTUxyVkhTU2lJcHd3XzBRTWZMSUUtSGFNdnA0N0dmOElIUks1eWJkVURHdmt5cVRMd3pPWmVDYnlSSTd4Z05mVzVidmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fQjFzcFRxZFpDSGw3eUdpeVZhU0JnbVUweV92SW9mTUxyVkhTU2lJcHd3XzBRTWZMSUUtSGFNdnA0N0dmOElIUks1eWJkVURHdmt5cVRMd3pPWmVDYnlSSTd4Z05mVzVidmc",
+  "snippet": "Stakh Vozniak FreightWaves",
+  "published": "2026-11-09T00:00:42+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-09T01:23:00.129184+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected"
  },
  {
   "id": "c2b1ed6dd1",
