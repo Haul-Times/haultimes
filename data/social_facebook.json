@@ -347,6 +347,33 @@
    "reason": "importance 67 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false
+  },
+  "b80fc7fa5e": {
+   "story_id": "b80fc7fa5e",
+   "title": "Truck drivers to end strike after govt agrees to remove roadblocks, improve security",
+   "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYno3WG9BemJ2ZDJERVJQb2U4eFJfMmRYNWNib3duSmt0T0VrLVVTZFRoUm4zV0xqQmNHc0ZTZGNTeEV2bnJnU0F6REtXWFRWOHRWUTg4RXhDU1FaR19KMU9GYmd3SDJyZ0ZjVHBnODNmaUlYT3FKeFJiNmZfeTFYNU1KTEM3Z1FqQUJKMDZhZ3hZalVwZFQ1dzlXNDI1ZFpVTU9uY1VnWUfSAa4BQVVfeXFMUGlmZnM3eFBGV1hKTGJtc010WFExZm4zWWxpWUpONE9KdWU0dHNnSkhKSnU1blM1YmNiblRjQVpYNlRrLTljSzZHM0tiRGFfbEppdDFyRGU0a3RnbTNJRHc5OFJ5a28zRTFlN183SEdjQnRKZG56N1o0VHVta0FUUXpnUlNaWFJnRzNhNDdZX2hDZzA5Qm44a0JhdVVrbmZHaEU0R1BHUUpacG9tSTV3",
+   "category": "drivers",
+   "source": "Eye Radio",
+   "dest": "https://haultimes.com/story/truck-drivers-to-end-strike-after-govt-agrees-to-remove-roadblocks-imp-b80fc7fa5e/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=b80fc7fa5e",
+   "caption": "Truck drivers to end strike after govt agrees to remove roadblocks, improve security.\n\nReported by Eye Radio. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
+   "status": "queued",
+   "created_at": "2026-11-09T20:24:38.271319+00:00",
+   "published": "2026-11-09T13:15:17+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Truck drivers to end strike after govt agrees to remove roadblocks, improve security | HaulTimes",
+    "og:description": "Reported by Eye Radio. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/truck-drivers-to-end-strike-after-govt-agrees-to-remove-roadblocks-imp-b80fc7fa5e/"
+   },
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -417,7 +444,13 @@
   "de2dead35c": "skipped|importance 55 is below this platform's threshold (65)",
   "d259bc1a28": "skipped|importance 50 is below this platform's threshold (65)",
   "d6d5fa686f": "skipped|importance 50 is below this platform's threshold (65)",
-  "f357d4102e": "skipped|importance 50 is below this platform's threshold (65)"
+  "f357d4102e": "skipped|importance 50 is below this platform's threshold (65)",
+  "b80fc7fa5e": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+  "75fb78c6f6": "skipped|importance 55 is below this platform's threshold (65)",
+  "534289d9e0": "skipped|importance 55 is below this platform's threshold (65)",
+  "2d4116ae72": "skipped|importance 55 is below this platform's threshold (65)",
+  "eb6db6c5c6": "skipped|importance 50 is below this platform's threshold (65)",
+  "64402e19b8": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -781,6 +814,48 @@
    "at": "2026-11-09T19:29:56.752075+00:00",
    "story_id": "f357d4102e",
    "title": "Truckstop, FTR: Spot rate moves are mostly seasonal in the latest week",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T20:24:38.271319+00:00",
+   "story_id": "b80fc7fa5e",
+   "title": "Truck drivers to end strike after govt agrees to remove roadblocks, improve security",
+   "action": "queued",
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  },
+  {
+   "at": "2026-11-09T20:24:38.271319+00:00",
+   "story_id": "75fb78c6f6",
+   "title": "Months-long closure will affect truck traffic",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T20:24:38.271319+00:00",
+   "story_id": "534289d9e0",
+   "title": "Truck’s air brakes fail during inspection near steep hill in Burnaby, B.C.",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T20:24:38.271319+00:00",
+   "story_id": "2d4116ae72",
+   "title": "AI in Logistics: How to Get Real ROI, Not Just Hype",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T20:24:38.271319+00:00",
+   "story_id": "eb6db6c5c6",
+   "title": "Truckers Warn Higher Insurance Mandates Could Push Small Carriers Out of Business",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T20:24:38.271319+00:00",
+   "story_id": "64402e19b8",
+   "title": "Brake violations sidelined 2,300 trucks during Brake Safety Week",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
   }
