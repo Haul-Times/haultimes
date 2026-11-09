@@ -428,6 +428,33 @@
    "reason": "importance 73 (threshold 65), Rates & Market, trade publication",
    "breaking": null,
    "edited": false
+  },
+  "d21eec4468": {
+   "story_id": "d21eec4468",
+   "title": "Truck enforcements widen to Maryland, DC as 128 drivers sidelined",
+   "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3U4bUZLLWw0ZFpQeUNzdmd6Nm5HOXI0QUZOQXpOR1RvakEzM290ZHpDSzEzbDdWVW9xNzVFRkxreFpaRWV6alpFcnpPbzk0RlktbXBzOEJrU2FRYl9TYmhveGZfakxKdHVnMFV2ME05cjdMZnk0cmNiNWZ2ZW80cnVDRjMzUjZjZjdDdnlVX3pKM3lhRm5ac1hwZnp6VWc",
+   "category": "regs",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/truck-enforcements-widen-to-maryland-dc-as-128-drivers-sidelined-d21eec4468/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=d21eec4468",
+   "caption": "Truck enforcements widen to Maryland, DC as 128 drivers sidelined.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-09T22:57:44.337288+00:00",
+   "published": "2026-11-09T22:40:06+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Truck enforcements widen to Maryland, DC as 128 drivers sidelined | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/truck-enforcements-widen-to-maryland-dc-as-128-drivers-sidelined-d21eec4468/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -512,7 +539,10 @@
   "6f93a4c45c": "skipped|importance 61 is below this platform's threshold (65)",
   "c1b0dcb0b5": "skipped|importance 60 is below this platform's threshold (65)",
   "b007adf0af": "skipped|importance 45 is below this platform's threshold (65)",
-  "fff86dfb1c": "skipped|minor item (crime) or low-quality source"
+  "fff86dfb1c": "skipped|minor item (crime) or low-quality source",
+  "d21eec4468": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "e9962f774a": "skipped|minor item (news) or low-quality source",
+  "93de55188f": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -983,6 +1013,27 @@
    "title": "Driver arrested after load payment dispute",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T22:57:44.337288+00:00",
+   "story_id": "d21eec4468",
+   "title": "Truck enforcements widen to Maryland, DC as 128 drivers sidelined",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-09T22:57:44.337288+00:00",
+   "story_id": "e9962f774a",
+   "title": "Does Your Trucking Fleet Need a New TMS?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T22:57:44.337288+00:00",
+   "story_id": "93de55188f",
+   "title": "Career Driver Adds AI Agent to Help Drivers Connect With Carriers",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ]
 }
