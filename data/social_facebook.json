@@ -263,7 +263,9 @@
   "c8dc5c87cb": "skipped|importance 45 is below this platform's threshold (65)",
   "47861765f0": "skipped|importance 55 is below this platform's threshold (65)",
   "c973121cb6": "skipped|importance 55 is below this platform's threshold (65)",
-  "8d8f5f6881": "skipped|importance 45 is below this platform's threshold (65)"
+  "8d8f5f6881": "skipped|importance 45 is below this platform's threshold (65)",
+  "897d10264e": "skipped|importance 62 is below this platform's threshold (65)",
+  "b2f265a4ca": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -496,6 +498,20 @@
    "title": "How Hemut is using Confluent to automate trucking’s back office",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T15:38:45.061200+00:00",
+   "story_id": "897d10264e",
+   "title": "Safety concerns, fraud or misconduct? FMCSA gives truckers more ways to speak up",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T15:38:45.061200+00:00",
+   "story_id": "b2f265a4ca",
+   "title": "Dallas College, Goodwill launch CDL training program with FleetForce",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ]
 }
