@@ -293,6 +293,60 @@
    "reason": "importance 73 (threshold 65), Fuel, established outlet",
    "breaking": null,
    "edited": false
+  },
+  "598d07d769": {
+   "story_id": "598d07d769",
+   "title": "FMCSA wants drivers to expose the bad in trucking",
+   "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LQ2RXVVZaZjRnb2JPQndhQXF6dU1VT1ZtOGNDd0dZQUc1eWJXQ2YzTXhBYWlSZ0dwZG0yN0w0LWxlRWlnSEZreTYtdHFLTDZUbWh1aUNrNmtlWjZQRlZZOV9GWXQ3Wmxnek9RemhZVk5IZHlQRkF3aEtRNTBlQQ",
+   "category": "regs",
+   "source": "Land Line Media",
+   "dest": "https://haultimes.com/story/fmcsa-wants-drivers-to-expose-the-bad-in-trucking-598d07d769/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=598d07d769",
+   "caption": "FMCSA wants drivers to expose the bad in trucking.\n\nReported by Land Line Media. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-09T19:29:56.752075+00:00",
+   "published": "2026-11-09T18:59:17+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "FMCSA wants drivers to expose the bad in trucking | HaulTimes",
+    "og:description": "Reported by Land Line Media. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/fmcsa-wants-drivers-to-expose-the-bad-in-trucking-598d07d769/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false
+  },
+  "4cecda89cb": {
+   "story_id": "4cecda89cb",
+   "title": "What trucking can still get from a lame-duck Congress before Jan. 3",
+   "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMndhSmd6ODBVUGljNE1PZFZSQVdnWjAyV0lUcmhKcF9yZmFZQWJOaHdMdXpTelYzNVhtQS1hbnh4TVRPaW9jNlpBcjBhNVl6X0dLM3pFeEQ0RGdHY2lxeExDTHJSSGNwaTQ5cXh3YmxCY3VweDJ4VHlEZE9BcEhOaGRLamRpVUtDUjFuTTZzZ011cEZtUVJpSERPVnlVVzQwZUE",
+   "category": "regs",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/what-trucking-can-still-get-from-a-lame-duck-congress-before-jan-3-4cecda89cb/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=4cecda89cb",
+   "caption": "What trucking can still get from a lame-duck Congress before Jan. 3.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-09T19:29:56.752075+00:00",
+   "published": "2026-11-09T17:48:45+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "What trucking can still get from a lame-duck Congress before Jan. 3 | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/what-trucking-can-still-get-from-a-lame-duck-congress-before-jan-3-4cecda89cb/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -356,7 +410,14 @@
   "4648ff7e05": "skipped|importance 62 is below this platform's threshold (65)",
   "a5ae074b94": "skipped|importance 63 is below this platform's threshold (65)",
   "708c2ac4b9": "skipped|importance 50 is below this platform's threshold (65)",
-  "1bfc38f0f3": "skipped|minor item (announcement) or low-quality source"
+  "1bfc38f0f3": "skipped|minor item (announcement) or low-quality source",
+  "598d07d769": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "4cecda89cb": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "0a7a212dcd": "skipped|minor item (news) or low-quality source",
+  "de2dead35c": "skipped|importance 55 is below this platform's threshold (65)",
+  "d259bc1a28": "skipped|importance 50 is below this platform's threshold (65)",
+  "d6d5fa686f": "skipped|importance 50 is below this platform's threshold (65)",
+  "f357d4102e": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -673,6 +734,55 @@
    "title": "Fleetworthy debuts RADAR for fleet toll analysis",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T19:29:56.752075+00:00",
+   "story_id": "598d07d769",
+   "title": "FMCSA wants drivers to expose the bad in trucking",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-09T19:29:56.752075+00:00",
+   "story_id": "4cecda89cb",
+   "title": "What trucking can still get from a lame-duck Congress before Jan. 3",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-09T19:29:56.752075+00:00",
+   "story_id": "0a7a212dcd",
+   "title": "Spot rates up, trucking jobs flat: What’s going on?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T19:29:56.752075+00:00",
+   "story_id": "de2dead35c",
+   "title": "Manitoba revokes 7Star trucking company’s safety certificate amid chameleon carrier concerns",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T19:29:56.752075+00:00",
+   "story_id": "d259bc1a28",
+   "title": "FTR: trucking market eased slightly in September, but future looks good",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T19:29:56.752075+00:00",
+   "story_id": "d6d5fa686f",
+   "title": "Waabi, Warrior Logistics Partnership Moves Freight in Texas",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T19:29:56.752075+00:00",
+   "story_id": "f357d4102e",
+   "title": "Truckstop, FTR: Spot rate moves are mostly seasonal in the latest week",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ]
 }
