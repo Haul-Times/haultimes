@@ -401,6 +401,33 @@
    "reason": "importance 78 (threshold 65), Rates & Market, trade publication",
    "breaking": null,
    "edited": false
+  },
+  "f22cb7ef8f": {
+   "story_id": "f22cb7ef8f",
+   "title": "Freight Demand Jumps 5% as Spot Rates Climb",
+   "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDgxZVg5dW0zSkNSamxhOTVzVEZzNGNCcWhSU0l1U3RoUThycUlhbUtpeW1ZbXE2Ri1PS0VhR29hbjcwaUZQazBxZWtYVzBzUE1UVWJXWHVzQVlUVlprV0NGbkdicEplNnBzNG55aHh5Q2VvQVJGWFBQUDlWa21iSWdB",
+   "category": "rates",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/freight-demand-jumps-5-as-spot-rates-climb-f22cb7ef8f/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=f22cb7ef8f",
+   "caption": "Freight Demand Jumps 5% as Spot Rates Climb.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-09T22:13:54.237315+00:00",
+   "published": "2026-11-09T19:00:13+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Freight Demand Jumps 5% as Spot Rates Climb | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/freight-demand-jumps-5-as-spot-rates-climb-f22cb7ef8f/"
+   },
+   "reason": "importance 73 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -480,7 +507,12 @@
   "64402e19b8": "skipped|importance 50 is below this platform's threshold (65)",
   "1b9eaa0792": "queued|importance 78 (threshold 65), Rates & Market, trade publication",
   "7bdf0749e5": "skipped|importance 62 is below this platform's threshold (65)",
-  "7119a7ae85": "skipped|minor item (feature) or low-quality source"
+  "7119a7ae85": "skipped|minor item (feature) or low-quality source",
+  "f22cb7ef8f": "queued|importance 73 (threshold 65), Rates & Market, trade publication",
+  "6f93a4c45c": "skipped|importance 61 is below this platform's threshold (65)",
+  "c1b0dcb0b5": "skipped|importance 60 is below this platform's threshold (65)",
+  "b007adf0af": "skipped|importance 45 is below this platform's threshold (65)",
+  "fff86dfb1c": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -916,6 +948,41 @@
    "title": "Four truck drivers named Highway Angels for helping crash victims",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-09T22:13:54.237315+00:00",
+   "story_id": "f22cb7ef8f",
+   "title": "Freight Demand Jumps 5% as Spot Rates Climb",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-09T22:13:54.237315+00:00",
+   "story_id": "6f93a4c45c",
+   "title": "Premium on experience drives trucker recruitment costs",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T22:13:54.237315+00:00",
+   "story_id": "c1b0dcb0b5",
+   "title": "SELF-DRIVING Trucks Are HERE: Venti CEO Reveals US Fleet Operations",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T22:13:54.237315+00:00",
+   "story_id": "b007adf0af",
+   "title": "More accountability needed after truck in ditch on Highway 5: Clearwater RCMP",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T22:13:54.237315+00:00",
+   "story_id": "fff86dfb1c",
+   "title": "Driver arrested after load payment dispute",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ]
 }
