@@ -922,10 +922,11 @@
    "5XCA": 4.868
   },
   "units": "US$ per gallon",
-  "retrieved_at": "2026-11-09T23:33:48.212620+00:00",
-  "last_attempt_at": "2026-11-09T23:33:48.212620+00:00",
+  "retrieved_at": "2026-11-09T23:38:20.414425+00:00",
+  "last_attempt_at": "2026-11-09T23:38:20.414425+00:00",
   "last_error": null,
-  "source_url": "https://www.eia.gov/petroleum/gasdiesel/"
+  "source_url": "https://www.eia.gov/petroleum/gasdiesel/",
+  "parser": 2
  },
  "bls_truckload": {
   "points": [

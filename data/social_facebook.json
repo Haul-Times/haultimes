@@ -543,7 +543,11 @@
   "d21eec4468": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "e9962f774a": "skipped|minor item (news) or low-quality source",
   "93de55188f": "skipped|minor item (announcement) or low-quality source",
-  "b6d7f09844": "skipped|importance 55 is below this platform's threshold (65)"
+  "b6d7f09844": "skipped|importance 55 is below this platform's threshold (65)",
+  "34aa44588e": "skipped|importance 61 is below this platform's threshold (65)",
+  "c217e43d6d": "skipped|importance 56 is below this platform's threshold (65)",
+  "2b12ea5fa6": "skipped|importance 45 is below this platform's threshold (65)",
+  "f24df3ce85": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1049,6 +1053,34 @@
    "title": "EPA 2027 Uncertainty Slows Truck Orders",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T23:38:20.874108+00:00",
+   "story_id": "34aa44588e",
+   "title": "Running hard, standing still: Inside trucking’s 2026 data squeeze",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T23:38:20.874108+00:00",
+   "story_id": "c217e43d6d",
+   "title": "Q3 Freight Spending Climbs 32.1% as Volumes Edge Up",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T23:38:20.874108+00:00",
+   "story_id": "2b12ea5fa6",
+   "title": "Fleets Keep LRR Tires as Total Cost of Ownership Leads Specs",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T23:38:20.874108+00:00",
+   "story_id": "f24df3ce85",
+   "title": "Diesel drivers handed £40 fuel boost after October change",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ]
 }
