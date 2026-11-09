@@ -620,13 +620,18 @@ class FacebookClient:
         return body["id"], "https://www.facebook.com/%s" % body["id"]
 
     def check(self):
-        """Read-only: can this token reach the Page? Returns the Page name."""
+        """Read-only: is this the Page's own token? (/me answers as the Page only for a Page token.)
+        Returns the Page name."""
         try:
-            status, headers, body = self.http("GET", "%s/%s?fields=id,name" % (GRAPH, self.page_id),
+            status, headers, body = self.http("GET", "%s/me?fields=id,name" % GRAPH,
                                               headers={"Authorization": "OAuth " + self.token})
         except (socket.timeout, TimeoutError, urllib.error.URLError) as e:
             raise Temporary("Facebook check failed: %s" % type(e).__name__)
         body = self._check(status, headers, body, sent=False)
+        if str(body.get("id")) != str(self.page_id):
+            raise AuthError("FB_PAGE_TOKEN is a personal (user) token, not the Page token. In Graph API Explorer run "
+                            "me/accounts and copy the access_token inside the HaulTimes block, then update the "
+                            "FB_PAGE_TOKEN secret on GitHub.")
         return body.get("name") or body.get("id")
 
     def find(self, message, since):

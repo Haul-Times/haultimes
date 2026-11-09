@@ -14,6 +14,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 
 import editorial
+import market_page
 from common import CATEGORIES, IMAGES, SITE, STATIC, load_config, load_json
 
 try:
@@ -209,7 +210,9 @@ def head(title, desc, path, image=None, extra=""):
 def header(active, stories):
     today = NOW.astimezone(EASTERN).strftime("%A, %B %-d, %Y")
     links = ['<a href="/"%s>Top news</a>' % (' class="on"' if active == "home" else ""),
-             '<a href="/border-wait-times/"%s>Border wait times</a>' % (' class="on"' if active == "border-waits" else "")]
+             '<a href="/border-wait-times/"%s>Border wait times</a>' % (' class="on"' if active == "border-waits" else ""),
+             '<a href="/freight-market/"%s>Freight Market%s</a>' % (' class="on"' if active == "market" else "",
+                                                                      '<b class="new-dot" aria-label="new"></b>' if market_new() else "")]
     for key, (label, slug) in CATEGORIES.items():
         links.append('<a href="/topic/%s/"%s>%s</a>' % (slug, ' class="on"' if active == key else "", E(label)))
     latest = sorted(stories, key=when, reverse=True)[:12]
@@ -231,7 +234,7 @@ def header(active, stories):
 def footer(scripts=""):
     return """<footer class="site"><div class="wrap">
 <span><strong style="color:#111418">{n}</strong> · Freight and trucking news for the US and Canada</span>
-<nav aria-label="Footer"><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a></nav>
+<nav aria-label="Footer"><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></nav>
 </div></footer>
 <script src="/static/site.js?v={ver}" defer></script>{scripts}
 </body></html>""".format(n=E(CFG["site_name"]), scripts=scripts, ver=ASSET_VER)
@@ -256,6 +259,32 @@ def signup():
 
 
 # ---------------------------------------------------------------- pages
+
+def market_new():
+    """'New' tag on the Freight Market tab until the date in config.json (market_new_until)."""
+    until = CFG.get("market_new_until", "2026-12-31")
+    return NOW.date().isoformat() <= until
+
+
+def market_card():
+    """Homepage box: pick a lane and jump straight to the rate checker. Calm, not a pop-up."""
+    regions = market_page._region_options()
+    return """<section class="rate-card" aria-labelledby="rc-h"><span class="kicker">Freight Market{new}</span>
+<h2 id="rc-h">Is your rate fair?</h2>
+<p>Compare a load offer with what other carriers reported on the same lane.</p>
+<form action="/freight-market/" method="get" class="rc-form">
+<label>From<select name="o" required>{r}</select></label><label>To<select name="d" required>{r}</select></label>
+<label>Equipment<select name="equipment">{eq}</select></label>
+<button class="btn2" type="submit">Check this lane ›</button></form>
+<p class="rc-alt"><a href="/freight-market/#rep">Hauled a load this week? Report your rate ›</a></p></section>""".format(
+        r=regions, eq=market_page.EQ_OPTIONS, new=' <b class="new-tag">New</b>' if market_new() else "")
+
+
+def market_strip(where=""):
+    """One-line pointer used on phones under the top story, and in story/topic sidebars."""
+    return ('<a class="rate-strip%s" href="/freight-market/#chk"><span><b>Is your rate fair?</b> '
+            'Check any lane against what carriers are reporting.</span><span class="go">Check ›</span></a>') % (" " + where if where else "")
+
 
 def build_home(stories, border):
     recent = [s for s in stories if hours_old(s) <= 48 or s.get("pinned")] or stories[:20]
@@ -294,9 +323,9 @@ def build_home(stories, border):
         lc = ['<div class="col-left">']
         for i, s in enumerate(left):
             lc.append('<article class="stack-item">%s<a class="kicker" href="%s">%s</a><h3 class="h-md"><a href="%s">%s</a></h3>'
-                      '<span class="meta">%s · %s</span></article>' % (
+                      '<span class="meta">%s · %s%s</span></article>' % (
                           pic(s) if i == 0 else "", cat_url(s["category"]), E(cat_label(s["category"])),
-                          story_url(s), E(s["title"]), time_tag(s), src(s)))
+                          story_url(s), E(s["title"]), time_tag(s), src(s), share_icon(s)))
         lc.append("</div>")
         rel = "".join('<div><h3 class="h-sm"><a href="%s">%s</a></h3><span class="meta">%s · %s</span></div>' % (
             story_url(s), E(s["title"]), time_tag(s), src(s)) for s in related)
@@ -305,15 +334,15 @@ def build_home(stories, border):
 <a class="kicker hot" href="{cu}">{cl}</a>
 <h1 class="h-xl"><a href="{su}">{t}</a></h1>
 {sm}{why}
-<span class="meta">{tm} · via {src}{cm} · <a href="{link}" rel="nofollow noopener" target="_blank">Original article at {src_plain} ›</a></span>
-{rel}{more}</section>""".format(more=('<section class="lead-more" aria-label="More headlines"><h2 class="sec-title">More headlines</h2>%s</section>' % "".join(
-                          '<article class="lm"><a class="kicker" href="%s">%s</a><h3 class="h-sm"><a href="%s">%s</a></h3><span class="meta">%s · %s</span></article>' % (
-                              cat_url(x["category"]), E(cat_label(x["category"])), story_url(x), E(x["title"]), time_tag(x), src(x)) for x in more_latest)) if more_latest else "",
+<span class="meta">{tm} · via {src}{cm} · <a href="{link}" rel="nofollow noopener" target="_blank">Original article at {src_plain} ›</a>{share}</span>
+{strip}{rel}{more}</section>""".format(strip=market_strip("phone-only"), more=('<section class="lead-more" aria-label="More headlines"><h2 class="sec-title">More headlines</h2>%s</section>' % "".join(
+                          '<article class="lm"><a class="kicker" href="%s">%s</a><h3 class="h-sm"><a href="%s">%s</a></h3><span class="meta">%s · %s%s</span></article>' % (
+                              cat_url(x["category"]), E(cat_label(x["category"])), story_url(x), E(x["title"]), time_tag(x), src(x), share_icon(x)) for x in more_latest)) if more_latest else "",
                           pic=pic(lead), cu=cat_url(lead["category"]), cl=E(cat_label(lead["category"])), su=story_url(lead),
                           t=E(lead["title"]), sm=('<p class="dek">%s</p>' % E(lead["summary"])) if lead.get("summary") else "", why=why,
                           cm=(' · <a href="%s">Comments</a>' % story_url(lead)) if has_page(lead) and CFG.get("cusdis_app_id") else "", tm=time_tag(lead), src=src(lead),
-                          link=out_url(lead), src_plain=E(lead["source"]), rel=('<div class="related">%s</div>' % rel) if rel else "")
-        right = ['<aside class="col-right">']
+                          link=out_url(lead), src_plain=E(lead["source"]), share=share_icon(lead), rel=('<div class="related">%s</div>' % rel) if rel else "")
+        right = ['<aside class="col-right">', market_card()]
         if top_week:
             right.append('<section aria-label="Top stories this week"><h2 class="sec-title">Top this week</h2><ol class="ranked">%s</ol></section>' %
                          "".join('<li><a href="%s">%s</a></li>' % (story_url(s), E(s["title"])) for s in top_week))
@@ -357,11 +386,43 @@ def fmt_wait(w):
     return "%d min" % w if w < 60 else "%d h %d min" % (w // 60, w % 60)
 
 
+SHARE_SVG = ('<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" '
+             'stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/>'
+             '<circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>')
+
+
+def share_icon(s):
+    """Small share button next to a headline. Opens the phone's share sheet, or a menu on computers."""
+    return ' <button type="button" class="sh" data-u="%s" data-t="%s" aria-label="Share: %s">%s</button>' % (
+        E(BASE + story_url(s)), E(s["title"]), E(s["title"]), SHARE_SVG)
+
+
+def share_bar(s):
+    """Row of share links on a story page. Plain links, so they work even without JavaScript."""
+    from urllib.parse import quote
+    url, title = BASE + story_url(s), s["title"]
+    text = "%s %s" % (title, url)
+    links = [
+        ("text", "Text", "sms:?&body=" + quote(text)),
+        ("whatsapp", "WhatsApp", "https://wa.me/?text=" + quote(text)),
+        ("facebook", "Facebook", "https://www.facebook.com/sharer/sharer.php?u=" + quote(url, safe="")),
+        ("email", "Email", "mailto:?subject=%s&body=%s" % (quote(title), quote("Saw this on HaulTimes:\n\n%s\n%s" % (title, url)))),
+        ("x", "X", "https://x.com/intent/post?text=%s&url=%s" % (quote(title), quote(url, safe=""))),
+    ]
+    out = ['<div class="share" aria-label="Share this story"><span class="lbl">Share</span>']
+    out.append('<button type="button" class="sh-native" data-u="%s" data-t="%s" hidden>%s Share…</button>' % (E(url), E(title), SHARE_SVG))
+    for key, name, href in links:
+        ext = "" if key in ("text", "email") else ' target="_blank" rel="noopener"'
+        out.append('<a class="sh-%s" data-net="%s" href="%s"%s>%s</a>' % (key, key, E(href), ext, name))
+    out.append('<button type="button" class="sh-copy" data-u="%s">Copy link</button></div>' % E(url))
+    return "".join(out)
+
+
 def story_row(s):
     return ('<article class="row" data-time="%s" data-score="%d">%s<div class="txt"><a class="kicker" href="%s">%s</a>'
-            '<h2 class="h-md"><a href="%s">%s</a></h2>%s<span class="meta">%s · %s</span></div></article>') % (
+            '<h2 class="h-md"><a href="%s">%s</a></h2>%s<span class="meta">%s · %s%s</span></div></article>') % (
         when(s).isoformat(), s["importance"], pic(s), cat_url(s["category"]), E(cat_label(s["category"])),
-        story_url(s), E(s["title"]), ("<p>%s</p>" % E(s["summary"])) if s.get("summary") else "", time_tag(s), src(s))
+        story_url(s), E(s["title"]), ("<p>%s</p>" % E(s["summary"])) if s.get("summary") else "", time_tag(s), src(s), share_icon(s))
 
 
 def build_topic(key, stories, all_stories):
@@ -383,7 +444,7 @@ def build_topic(key, stories, all_stories):
             '<main class="wrap"><div class="page-head"><h1>%s</h1><p>%s</p></div>%s' % (E(label), E(desc), filters),
             '<div class="list"><div class="list-main"><div id="story-list">%s</div><p id="no-stories" class="empty" %s>No stories in this time range yet. Try “All”.</p></div>'
             % ("".join(story_row(s) for s in items), "hidden" if items else ""),
-            '<aside class="list-side">%s%s%s</aside></div></main>' % (side, ad(True), signup()), footer()]
+            '<aside class="list-side">%s%s%s%s</aside></div></main>' % (market_strip(), side, ad(True), signup()), footer()]
     write("/topic/%s/" % slug, "".join(page))
 
 
@@ -413,13 +474,14 @@ def build_story(s, stories):
 <span class="meta">{tm}</span>
 <div class="source-box"><span>Reported by <strong>{pub}</strong>{lab}</span>
 <a class="btn amber" href="{out}" data-out="{link}">Read the original article at {pub} ›</a></div>
+{share}
 {pic}
 {body_text}
 {comments}</article>
-<aside>{rel}{ad}{signup}</aside></div></main>""".format(
+<aside>{strip}{rel}{ad}{signup}</aside></div></main>""".format(strip=market_strip(),
         sid=E(s["id"]), cu=cat_url(s["category"]), cl=E(cat_label(s["category"])), t=E(s["title"]), tm=time_tag(s),
         pub=pub, lab=label(s), out=out_url(s), link=E(s["link"]), pic=pic(s), body_text=body_text,
-        comments=comments, ad=ad(True), signup=signup(),
+        comments=comments, ad=ad(True), signup=signup(), share=share_bar(s),
         rel=('<section><h2 class="sec-title">More %s</h2><ol class="ranked">%s</ol></section>' % (
             E(cat_label(s["category"])), "".join('<li><a href="%s">%s</a></li>' % (story_url(x), E(x["title"])) for x in related))) if related else "")
     desc = s["summary"] if has_summary(s) else "Reported by %s. Read the original article and more US and Canada trucking news on HaulTimes." % s["source"]
@@ -493,6 +555,22 @@ def build_border(border, stories):
           footer('<script src="/static/border.js" defer></script>'))
 
 
+def build_market(stories):
+    # Fetch here so no workflow change is needed. fetch_market limits itself to one try every 6-12 hours
+    # per source and keeps the last good data when a source fails.
+    if not os.environ.get("HAULTIMES_NO_FETCH"):
+        try:
+            import fetch_market
+            fetch_market.main()
+        except Exception as e:  # never let market data break the news site
+            print("Freight market fetch failed: %s" % e)
+    market = load_json("market.json", {})
+    write("/freight-market/", head("Freight Market: Reefer Truck Availability, Spot Rates and Diesel",
+                                   "Weekly freight market indicators from USDA, EIA and Ontario: reefer truck availability at US produce shipping points, spot rates per load and diesel prices, with sources and limits.",
+                                   "/freight-market/") + header("market", stories) + market_page.body(market, NOW, EASTERN) +
+          footer(market_page.SCRIPT))
+
+
 def build_static_pages(stories):
     about = """<main class="wrap prose"><h1>About {n}</h1>
 <p>{n} brings freight and trucking news from across the US and Canada into one place, updated every 15 minutes, with live truck border wait times.</p>
@@ -525,11 +603,33 @@ def build_static_pages(stories):
           '<main class="wrap prose"><h1>Thanks, your message was sent</h1><p>We\'ll reply as soon as we can. Back to the <a href="/">latest news</a>.</p></main>' + footer())
 
     privacy = """<main class="wrap prose"><h1>Privacy</h1>
-<p>{n} does not ask for your name or an account to read the site.</p>
-<p>We use privacy-friendly analytics to count visits and popular pages. It does not use cookies or track you across other websites.</p>
+<p>{n} does not ask for your name or an account to read the site, and does not use advertising or tracking cookies.</p>
+<p><strong>Visit counts.</strong> We count page views and where visitors came from (for example, Facebook) to see which pages are useful. No cookies are used and nothing is stored on your device. To count unique visitors, your internet address is turned into a scrambled code that changes every week and cannot be turned back into the address. The address itself is not stored.</p>
+<p><strong>Rate reports and market answers.</strong> When you report a rate or answer the weekly market question on the Freight Market page, we store only what you enter (lane, equipment, rate, distance, date, or your answer) and the same weekly scrambled code, used to stop spam and to make sure one person can't tilt the results. We never ask for names, company names or contact details there. We publish only combined figures, never single reports.</p>
+<p><strong>Location.</strong> The weekly market question can suggest your state or province, worked out by our hosting provider from your internet address. Only the state or province is stored, and only if you submit an answer.</p>
 <p>Messages sent through the contact form are used only to reply to you.</p>
-<p>Questions: use our <a href="/contact/">contact form</a>.</p></main>""".format(n=E(CFG["site_name"]))
+<p>Questions: use our <a href="/contact/">contact form</a>. See also our <a href="/terms/">Terms of Use</a>.</p></main>""".format(n=E(CFG["site_name"]))
     write("/privacy/", head("Privacy", "HaulTimes privacy policy.", "/privacy/") + header("", stories) + privacy + footer())
+    terms = """<main class="wrap prose"><h1>Terms of Use</h1>
+<p class="note">Last updated {upd}.</p>
+<p>By using {n} you agree to these terms.</p>
+<h2>News</h2>
+<p>Headlines link to the original publishers, who own their articles. Summaries are for information only and may contain errors; check the original source before acting on any story.</p>
+<h2>Freight Market data</h2>
+<p>Rates and market conditions on the Freight Market page come from anonymous reader reports and public government sources. Reader reports are not verified loads. Use them as a guide, not as a quote, offer or advice. {n} is not responsible for decisions made using them.</p>
+<h2>What you submit</h2>
+<p>When you report a rate or answer the weekly market question, you confirm the information is true to the best of your knowledge, and you give {n} a permanent, worldwide, royalty-free right to store, combine, analyse, publish and license that information, including in combined reports, data products and services offered by {n}. Do not include names of people or companies.</p>
+<p>We may remove or exclude any report, for example one that looks false or appears to be an attempt to push rates up or down.</p>
+<h2>Using our data</h2>
+<p>You're welcome to quote individual figures from {n} in news articles, social media posts and conversations, with the credit "Source: HaulTimes" and a link to haultimes.com.</p>
+<p>You may not, without our written permission: copy or download our data in bulk; use automated tools (scrapers, bots or scripts) to collect it; republish it as a data set, feed, rate tool or index; or use it to build or improve a competing product, rate service or load board. Contact us through the <a href="/contact/">contact form</a> about licensing.</p>
+<h2>Fair use of the site</h2>
+<p>Don't attempt to overload, probe or get around the limits and protections of the site. We may block traffic that does.</p>
+<h2>No warranty</h2>
+<p>The site is provided as is, without warranties of any kind. To the extent the law allows, {n} is not liable for any loss arising from use of the site or its data.</p>
+<h2>Changes</h2>
+<p>We may update these terms. The date above shows the latest version.</p></main>""".format(n=E(CFG["site_name"]), upd=E(CFG.get("terms_updated", "November 9, 2026")))
+    write("/terms/", head("Terms of Use", "HaulTimes terms of use, including use of Freight Market data.", "/terms/") + header("", stories) + terms + footer())
     write("/404.html", head("Page not found", "Page not found.", "/404.html") + header("", stories) +
           '<main class="wrap prose"><h1>Page not found</h1><p>That story may have expired. Head back to the <a href="/">latest news</a>.</p></main>' + footer())
 
@@ -594,11 +694,11 @@ def build_feeds(stories):
     for day, items in by_day.items():
         fb += sorted(items, key=lambda x: x["importance"], reverse=True)[:per_day]
     rss(sorted(fb, key=when, reverse=True), "facebook.xml", CFG["site_name"], social=True)
-    urls = ["/", "/border-wait-times/", "/about/", "/contact/"] + ["/topic/%s/" % v[1] for v in CATEGORIES.values()] + [story_url(s) for s in newest if has_page(s) and has_summary(s)]
+    urls = ["/", "/border-wait-times/", "/freight-market/", "/about/", "/contact/", "/terms/"] + ["/topic/%s/" % v[1] for v in CATEGORIES.values()] + [story_url(s) for s in newest if has_page(s) and has_summary(s)]
     sm = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">%s</urlset>' % "".join(
         "<url><loc>%s</loc></url>" % E(BASE + u) for u in urls)
     write("/sitemap.xml", sm)
-    write("/robots.txt", "User-agent: *\nAllow: /\nDisallow: /editor/\nDisallow: /out/\nSitemap: %s/sitemap.xml\n" % BASE)
+    write("/robots.txt", "User-agent: *\nAllow: /\nDisallow: /editor/\nDisallow: /out/\nDisallow: /admin\nDisallow: /api/\nSitemap: %s/sitemap.xml\n" % BASE)
 
 
 def build_editor(stored):
@@ -648,6 +748,7 @@ def main():
         if has_page(s):
             build_story(s, stories)
     build_border(border, stories)
+    build_market(stories)
     build_static_pages(stories)
     build_feeds(stories)
     build_editor(stored)

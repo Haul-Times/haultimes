@@ -1,0 +1,144 @@
+"""Tests for the Freight Market fetcher and page. Run: python scripts/test_market.py
+Uses made-up rows shaped like real USDA AgTransport rows; nothing here is written to the live data folder."""
+
+import json
+import os
+import sys
+import tempfile
+from datetime import datetime, timedelta, timezone
+
+os.environ["HAULTIMES_DATA"] = tempfile.mkdtemp()
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+import fetch_market as fm  # noqa: E402
+import market_page as mp  # noqa: E402
+
+ET = timezone(timedelta(hours=-5))
+
+
+def row(origin, dest, avail, mid=8400, dist=2100, date="2026-11-03T00:00:00.000", commodity="MIXED VEGETABLES"):
+    return {"date": date, "region": "SOUTHWEST", "origin": origin, "destination": dest, "distance": str(dist),
+            "commodity": commodity, "weeklow": str(mid - 150), "weekhigh": str(mid + 150), "midpoint": str(mid),
+            "rpm": "4", "availability": str(avail)}
+
+
+IMPERIAL = "IMPERIAL, COACHELLA VALLEYS CA, CENTRAL AND WESTERN AZ, MEXICO CROSSINGS THROUGH CALEXICO AND SAN LUIS"
+ROWS = [row(IMPERIAL, "ATLANTA", 3), row(IMPERIAL, "CHICAGO", 3, 7600, 1900),
+        row("SOUTH FLORIDA", "NEW YORK", 5, 4200, 1250), row("WEST VIRGINIA APPLES", "BOSTON", 2, 3000, 700),
+        row("MEXICO CROSSINGS THROUGH NOGALES", "LOS ANGELES", 4, 2600, 540),
+        row("RED RIVER VALLEY", "DALLAS", 1, 3900, 1100), row("SOMEWHERE ODD", "MIAMI", "")]
+
+failures = []
+
+
+def check(name, cond):
+    print(("ok   " if cond else "FAIL ") + name)
+    if not cond:
+        failures.append(name)
+
+
+# --- district -> state mapping never guesses
+check("Imperial maps to CA and AZ", set(fm.states_in(IMPERIAL)) == {"CA", "AZ"})
+check("West Virginia is not Virginia", fm.states_in("WEST VIRGINIA APPLES") == ["WV"])
+check("Arkansas is not Kansas", fm.states_in("ARKANSAS DELTA") == ["AR"])
+check("regional name: Red River Valley", set(fm.states_in("RED RIVER VALLEY")) == {"MN", "ND"})
+check("Mexico-only crossing has no US state", fm.states_in("MEXICO CROSSINGS THROUGH NOGALES") == [])
+check("unknown district stays unmapped", fm.states_in("SOMEWHERE ODD") == [])
+check("'IN' inside a word is not Indiana", "IN" not in fm.states_in("CENTRAL SAN JOAQUIN VALLEY CA"))
+
+# --- parsing
+week, origins = fm.parse_usda(ROWS)
+check("week parsed", week == "2026-11-03")
+imp = next(o for o in origins if o["origin"] == IMPERIAL)
+check("one entry per district, rates grouped", len(imp["rates"]) == 2)
+check("Mexico flag on Imperial", imp["mexico"])
+check("rpm is midpoint / distance", imp["rates"][0]["rpm"] == 4.0)
+check("tightest first", origins[0]["availability"] == 5)
+odd = next(o for o in origins if o["origin"] == "SOMEWHERE ODD")
+check("blank availability -> None, not a guess", odd["availability"] is None)
+try:
+    fm.parse_usda(ROWS + [row("X", "Y", 3, date="2026-10-27T00:00:00.000")])
+    check("mixed weeks rejected", False)
+except ValueError:
+    check("mixed weeks rejected", True)
+try:
+    fm.parse_usda([])
+    check("empty response rejected", False)
+except ValueError:
+    check("empty response rejected", True)
+
+# --- failure keeps previous good data
+good = {"week_ending": "2026-11-03", "origins": origins, "retrieved_at": "2026-11-05T12:00:00+00:00"}
+orig_get = fm.http_get
+fm.http_get = lambda url, timeout=40: (_ for _ in ()).throw(OSError("network down"))
+kept = fm.update_usda(dict(good, retrieved_at=(fm.NOW - timedelta(hours=7)).isoformat()))
+check("failed fetch keeps old origins", kept["origins"] == origins and kept["week_ending"] == "2026-11-03")
+check("failed fetch records error", "network down" in kept["last_error"])
+
+# --- an older week from the API is refused; a newer week moves the old one into history
+fm.http_get = lambda url, timeout=40: json.dumps([dict(r, date="2026-10-27T00:00:00.000") for r in ROWS]).encode()
+older = fm.update_usda(dict(good, retrieved_at=(fm.NOW - timedelta(hours=7)).isoformat()))
+check("older week refused", older["week_ending"] == "2026-11-03" and "older week" in older["last_error"])
+fm.http_get = lambda url, timeout=40: json.dumps([dict(r, date="2026-11-10T00:00:00.000", availability="5") for r in ROWS]).encode()
+newer = fm.update_usda(dict(good, retrieved_at=(fm.NOW - timedelta(hours=7)).isoformat()))
+check("newer week stored", newer["week_ending"] == "2026-11-10" and newer["last_error"] is None)
+check("previous week kept in history", "2026-11-03" in newer["history"])
+check("not re-fetched within 6 hours", fm.update_usda(dict(good, retrieved_at=fm.NOW.isoformat())) ["retrieved_at"] == fm.NOW.isoformat())
+fm.http_get = orig_get
+
+# --- EIA without a key does nothing and shows no numbers
+check("EIA without key -> no_key", fm.update_eia({}, None)["status"] == "no_key")
+
+# --- Ontario CSV: wide and long layouts, garbage refused
+wide = "Date,Fuel Type,Toronto West,Ottawa,Ontario Average/Moyenne provinciale\n2026-10-26,Diesel,165.2,166.0,164.9\n2026-11-02,Diesel,167.0,166.4,165.8\n2026-11-02,Regular Unleaded Gasoline,139.1,140.2,139.9\n"
+w, prices, pw, pp = fm.parse_ontario(wide)
+check("Ontario wide layout", w == "2026-11-02" and prices["Toronto West"] == 167.0 and pp["Ottawa"] == 166.0)
+long = "date,fuel_type,market,price\n11/02/2026,Diesel,Sudbury,170.3\n11/02/2026,Premium,Sudbury,180.0\n"
+w, prices, _, _ = fm.parse_ontario(long)
+check("Ontario long layout", w == "2026-11-02" and prices == {"Sudbury": 170.3})
+try:
+    fm.parse_ontario("a,b,c\n1,2,3\n")
+    check("unknown Ontario layout refused", False)
+except ValueError:
+    check("unknown Ontario layout refused", True)
+
+# --- page
+now = datetime(2026, 11, 9, 15, tzinfo=timezone.utc)
+check("fresh week not stale", not mp.is_stale("2026-11-03", now))
+check("old week is stale", mp.is_stale("2026-10-20", now))
+empty = mp.body({}, now, ET)
+check("no data -> 'No data yet' on every official card", empty.count("No data yet.") >= 4)
+check("reader sections present", all(x in empty for x in ('id="chk"', 'id="poll"', 'id="rep"', 'id="r-ON"', 'id="r-TX"', 'Step deck')))
+page = mp.body({"usda_reefer": dict(good, last_attempt_at=good["retrieved_at"], source_url=fm.USDA_PAGE),
+                "ontario_diesel": {}, "eia_diesel": {"status": "no_key"}}, now, ET)
+check("page labels produce/reefer", "Not dry van, flatbed or general freight" in page)
+check("Canada says no data for USDA", "Canada: no data in this report" in page)
+check("map has accessible label and table", 'role="img"' in page and "<caption" in page)
+check("cross-border kept separate", "Cross-border, Mexico → US" in page)
+check("unmapped district listed, not guessed", "Somewhere Odd" in page.split("Not shown on the map")[1][:200])
+check("rate type and currency stated", "US dollars per load" in page and "fuel surcharge" in page)
+check("'hot' explained", "Red means trucks are short" in page)
+check("FTR and DAT are links only", "Truckstop and FTR heat map" in page and "<iframe" not in page)
+stale_page = mp.body({"usda_reefer": dict(good, week_ending="2026-10-01", last_error="x", last_attempt_at=good["retrieved_at"])}, now, ET)
+check("stale badge and failed-update notice", "Stale:" in stale_page and "showing the last good data" in stale_page)
+levels = mp.state_levels(origins)
+check("state coloured by tightest district", levels["FL"][0] == 5 and levels["CA"][0] == 3)
+check("Mexico-only crossing not painted on US map", all(s in fm.CODES for s in levels))
+
+# --- official indicators
+pts = fm.parse_bls({"status": "REQUEST_SUCCEEDED", "Results": {"series": [{"seriesID": "PCU484121484121", "data": [
+    {"year": "2026", "period": "M09", "value": "118.4"}, {"year": "2026", "period": "M08", "value": "117.7"},
+    {"year": "2025", "period": "M13", "value": "110"}, {"year": "2026", "period": "M07", "value": "-"}]}]}}, "PCU484121484121")
+check("BLS parsed, annual average and blanks skipped", sorted(pts) == [("2026-08", 117.7), ("2026-09", 118.4)])
+st = fm.series_store({}, pts, "x")
+check("series keeps latest and previous", st["value"] == 118.4 and st["prev"] == 117.7 and st["period"] == "2026-09")
+sc = 'REF_DATE,GEO,DGUID,Service,UOM,UOM_ID,SCALAR_FACTOR,VALUE,STATUS\n2026-08,Canada,x,Total for-hire trucking,Index,1,units,124.1,\n2026-09,Canada,x,Total for-hire trucking,Index,1,units,124.7,\n2026-09,Canada,x,Local trucking,Index,1,units,130.0,\n2026-09,Ontario,x,Total for-hire trucking,Index,1,units,99,\n'
+spts, label = fm.parse_statcan(sc)
+check("StatCan: Canada total series picked", spts == [("2026-08", 124.1), ("2026-09", 124.7)] and "Total" in label)
+check("BTS parsed", fm.parse_bts([{"date": "2026-09-01T00:00:00.000", "trucks": "498210"}, {"bad": 1}]) == [("2026-09", 498210.0)])
+card = mp.gov_card("T", "D", st, lambda v: "%.1f" % v, "src", now, ET)
+check("gov card shows value and change", "118.4" in card and "0.6%" in card)
+check("gov card failure keeps old value with notice", "update failed" in mp.gov_card("T", "D", dict(st, last_error="x"), lambda v: "%.1f" % v, "src", now, ET))
+
+print("\n%d failed" % len(failures) if failures else "\nAll market tests passed.")
+sys.exit(1 if failures else 0)

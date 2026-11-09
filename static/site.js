@@ -55,3 +55,89 @@
   });
   apply();
 })();
+
+// Privacy-friendly visit counter: page and referring site only. No cookies, nothing stored on the device.
+(function () {
+  try {
+    if (location.hostname !== "haultimes.com" && location.hostname !== "www.haultimes.com" && location.hostname !== "localhost") return;
+    var body = JSON.stringify({ p: location.pathname, r: document.referrer || "" });
+    if (navigator.sendBeacon) navigator.sendBeacon("/api/hit", body);
+    else fetch("/api/hit", { method: "POST", body: body, keepalive: true });
+  } catch (e) {}
+})();
+
+// A refresh on a news page should show the newest stories, so start back at the top instead of
+// where the reader was (browsers otherwise restore the old scroll position, which can leave the
+// logo half hidden under the address bar on phones). Back/forward still keep their position.
+(function () {
+  try {
+    var nav = performance.getEntriesByType && performance.getEntriesByType("navigation")[0];
+    if (nav && nav.type === "reload") {
+      if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+      window.scrollTo(0, 0);
+      var top = function () { window.scrollTo(0, 0); };
+      window.addEventListener("load", function () { top(); setTimeout(top, 60); });
+      window.addEventListener("pagehide", function () { history.scrollRestoration = "auto"; });
+    }
+  } catch (e) {}
+})();
+
+// Share buttons: the phone's own share sheet (Messages, WhatsApp, Facebook...) when available,
+// otherwise a small menu. Shares are counted (network only) so the admin panel can show them.
+(function () {
+  var canNative = !!navigator.share && /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent);
+  function count(net) {
+    try { navigator.sendBeacon && navigator.sendBeacon("/api/hit", JSON.stringify({ p: "/~share/" + net, r: "" })); } catch (e) {}
+  }
+  function links(u, t) {
+    var e = encodeURIComponent, txt = t + " " + u;
+    return [["text", "Text message", "sms:?&body=" + e(txt)], ["whatsapp", "WhatsApp", "https://wa.me/?text=" + e(txt)],
+      ["facebook", "Facebook", "https://www.facebook.com/sharer/sharer.php?u=" + e(u)],
+      ["email", "Email", "mailto:?subject=" + e(t) + "&body=" + e("Saw this on HaulTimes:\n\n" + t + "\n" + u)],
+      ["x", "X", "https://x.com/intent/post?text=" + e(t) + "&url=" + e(u)]];
+  }
+  function copy(u, el) {
+    var done = function () { var old = el.textContent; el.textContent = "Link copied"; setTimeout(function () { el.textContent = old; }, 1600); };
+    if (navigator.clipboard) navigator.clipboard.writeText(u).then(done, function () { prompt("Copy this link:", u); });
+    else prompt("Copy this link:", u);
+    count("copy");
+  }
+  var menu;
+  function close() { if (menu) { menu.remove(); menu = null; } }
+  function openMenu(btn) {
+    close();
+    var u = btn.dataset.u, t = btn.dataset.t;
+    menu = document.createElement("div");
+    menu.className = "sh-menu";
+    menu.setAttribute("role", "menu");
+    menu.innerHTML = links(u, t).map(function (l) {
+      var ext = l[0] === "text" || l[0] === "email" ? "" : ' target="_blank" rel="noopener"';
+      return '<a role="menuitem" data-net="' + l[0] + '" href="' + l[2].replace(/"/g, "&quot;") + '"' + ext + ">" + l[1] + "</a>";
+    }).join("") + '<button type="button" role="menuitem" class="cp">Copy link</button>';
+    document.body.appendChild(menu);
+    var r = btn.getBoundingClientRect();
+    menu.style.top = (window.scrollY + r.bottom + 6) + "px";
+    menu.style.left = Math.max(8, Math.min(window.scrollX + r.left - 8, window.scrollX + document.documentElement.clientWidth - menu.offsetWidth - 8)) + "px";
+    menu.querySelector(".cp").addEventListener("click", function (e) { copy(u, e.target); setTimeout(close, 900); });
+    menu.querySelector("a,button").focus();
+  }
+  document.addEventListener("click", function (ev) {
+    var b = ev.target.closest && ev.target.closest(".sh, .sh-native");
+    var a = ev.target.closest && ev.target.closest("[data-net]");
+    if (a) { count(a.dataset.net); setTimeout(close, 100); return; }
+    if (b) {
+      ev.preventDefault();
+      if (canNative) {
+        navigator.share({ title: b.dataset.t, url: b.dataset.u }).then(function () { count("native"); }, function () {});
+      } else if (b.classList.contains("sh")) {
+        menu ? close() : openMenu(b);
+      }
+      return;
+    }
+    var c = ev.target.closest && ev.target.closest(".sh-copy");
+    if (c) { copy(c.dataset.u, c); return; }
+    if (menu && !menu.contains(ev.target)) close();
+  });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
+  if (canNative) document.querySelectorAll(".sh-native").forEach(function (b) { b.hidden = false; });
+})();

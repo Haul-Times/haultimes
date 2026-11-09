@@ -476,6 +476,14 @@ class ApiClients(unittest.TestCase):
             with self.assertRaises(exc):
                 c.post("Hello", "https://haultimes.com/")
 
+    def test_facebook_check_spots_user_token(self):
+        page = so.FacebookClient("123", "T", lambda *a, **k: (200, {}, {"id": "123", "name": "HaulTimes"}))
+        self.assertEqual(page.check(), "HaulTimes")
+        user = so.FacebookClient("123", "T", lambda *a, **k: (200, {}, {"id": "999", "name": "Some Person"}))
+        with self.assertRaises(so.AuthError) as cm:
+            user.check()
+        self.assertIn("user", str(cm.exception))
+
     def test_x_request_signed_and_errors(self):
         seen = {}
 
