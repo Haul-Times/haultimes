@@ -15,10 +15,6 @@
   "facebook_posts_per_day": 6,
   "facebook_min_score": 70,
   "news_feeds": [
-    {
-      "url": "https://www.trucknews.com/feed/",
-      "source": "Truck News"
-    },
     "https://news.google.com/rss/search?q=%22trucking+industry%22+OR+%22trucking+company%22+OR+%22trucking+companies%22+when:1d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=%22trucking+industry%22+OR+%22trucking+company%22+OR+%22trucking+companies%22+when:1d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-CA&gl=CA&ceid=CA:en",
     "https://news.google.com/rss/search?q=%22truckload%22+OR+%22LTL%22+OR+%22spot+rates%22+OR+%22freight+market%22+trucking+when:2d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-US&gl=US&ceid=US:en",
@@ -33,7 +29,7 @@
     "https://news.google.com/rss/search?q=site:ttnews.com+when:2d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=site:ccjdigital.com+OR+site:overdriveonline.com+when:2d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=site:thetrucker.com+OR+site:truckinginfo.com+when:2d+-%22driving+job%22+-%22truck+driving+jobs%22&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=site:todaystrucking.com+when:3d&hl=en-CA&gl=CA&ceid=CA:en"
+    "https://news.google.com/rss/search?q=site:trucknews.com+OR+site:todaystrucking.com+when:3d&hl=en-CA&gl=CA&ceid=CA:en"
   ],
   "keep_hidden_days": 4
 }
