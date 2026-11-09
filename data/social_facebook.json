@@ -31,7 +31,7 @@
    "source": "CBS News",
    "dest": "https://haultimes.com/story/local-grocery-stores-across-new-england-running-out-of-stock-as-truck-25da25e64e/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=25da25e64e",
    "caption": "Local grocery stores across New England running out of stock as truck drivers go on strike.\n\nReported by CBS News. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T01:04:27.965045+00:00",
    "published": "2026-11-09T00:05:58+00:00",
    "score": 70,
@@ -140,7 +140,7 @@
    "source": "Heavy Duty Trucking",
    "dest": "https://haultimes.com/story/fmcsa-s-new-complaint-platform-makes-it-easier-to-report-trucking-safe-2f7718d073/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2f7718d073",
    "caption": "FMCSA’s New Complaint Platform Makes It Easier to Report Trucking Safety Concerns.\n\nReported by Heavy Duty Trucking. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T03:34:14.661629+00:00",
    "published": "2026-11-08T23:30:35+00:00",
    "score": 73,
@@ -185,6 +185,33 @@
    "reason": "importance 77 (threshold 65), Fuel, local/other outlet",
    "breaking": null,
    "edited": false
+  },
+  "6178f00440": {
+   "story_id": "6178f00440",
+   "title": "Truckers' strike at the Port of San Antonio ends following successful negotiations",
+   "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WcXhJSVR2Vk1LUXhSV0ZNM2dCMWwtU1NPVHNWLTNOb19uY3NicHNROVdoV3Qxc21QSEpUajhva1d1cUc4eExMalBjUFJRVVJUTVhHcGhVV0dqc3J1R2lxRk8zbHFvRHR5Ymh5RkdtN21RZWRPNkNHMEVGdnU",
+   "category": "drivers",
+   "source": "FreshFruitPortal.com",
+   "dest": "https://haultimes.com/story/truckers-strike-at-the-port-of-san-antonio-ends-following-successful-n-6178f00440/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=6178f00440",
+   "caption": "Truckers' strike at the Port of San Antonio ends following successful negotiations.\n\nReported by FreshFruitPortal. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
+   "status": "queued",
+   "created_at": "2026-11-09T12:25:57.085722+00:00",
+   "published": "2026-11-09T11:31:02+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Truckers' strike at the Port of San Antonio ends following successful negotiations | HaulTimes",
+    "og:description": "Reported by FreshFruitPortal.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/static/og-square.png?v=6bf4f4a1",
+    "og:url": "https://haultimes.com/story/truckers-strike-at-the-port-of-san-antonio-ends-following-successful-n-6178f00440/"
+   },
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": {
@@ -220,14 +247,16 @@
   "711e4a2a6d": "skipped|minor item (incident) or low-quality source",
   "f5faf34c5f": "expired|stale before a slot opened (published 13h ago)",
   "5d783a915f": "skipped|importance 57 is below this platform's threshold (65)",
-  "25da25e64e": "held|held",
+  "25da25e64e": "expired|stale before a slot opened (published 12h ago)",
   "9da9b41d19": "expired|stale before a slot opened (published 13h ago)",
-  "2f7718d073": "queued|importance 73 (threshold 65), Regulations, trade publication",
+  "2f7718d073": "expired|stale before a slot opened (published 13h ago)",
   "c3587a91c0": "skipped|importance 45 is below this platform's threshold (65)",
   "09353b98bc": "queued|importance 77 (threshold 65), Fuel, local/other outlet",
   "3cb951688a": "skipped|importance 57 is below this platform's threshold (65)",
   "31b42eeab7": "skipped|minor item (announcement) or low-quality source",
-  "9d5d413368": "skipped|importance 45 is below this platform's threshold (65)"
+  "9d5d413368": "skipped|importance 45 is below this platform's threshold (65)",
+  "6178f00440": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+  "f295ec745c": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -376,6 +405,34 @@
    "title": "On the road to second chances: Training program seeks to transform inmates into truck drivers",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-09T12:25:57.085722+00:00",
+   "story_id": "25da25e64e",
+   "title": "Local grocery stores across New England running out of stock as truck drivers go on strike",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-09T12:25:57.085722+00:00",
+   "story_id": "2f7718d073",
+   "title": "FMCSA’s New Complaint Platform Makes It Easier to Report Trucking Safety Concerns",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 13h ago)"
+  },
+  {
+   "at": "2026-11-09T12:25:57.085722+00:00",
+   "story_id": "6178f00440",
+   "title": "Truckers' strike at the Port of San Antonio ends following successful negotiations",
+   "action": "queued",
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  },
+  {
+   "at": "2026-11-09T12:25:57.085722+00:00",
+   "story_id": "f295ec745c",
+   "title": "Opinion | Driverless trucks will take the jobs truckers don’t want",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ]
 }
