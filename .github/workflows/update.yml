@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["scripts/**", "static/**", "images/**", "config.json"]
+    paths: ["scripts/**", "static/**", "images/**", "config.json", "overrides.json", "social.json"]
 
 permissions:
   contents: write
@@ -42,6 +42,19 @@ jobs:
 
       - name: Build pages
         run: python scripts/build_site.py
+
+      # Facebook / X posting. Off or dry-run unless social.json says "live".
+      # Credentials live only in GitHub Secrets.
+      - name: Social posts
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: python scripts/social.py
+        continue-on-error: true
 
       - name: Save changes
         run: |
