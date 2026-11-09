@@ -475,9 +475,9 @@ def reader_sections():
 <div class="f" id="poll-pick" hidden><label>State or province<select name="region">{r}</select></label>
 <label>Equipment<select name="equipment">{eq}</select></label></div>
 <p class="note" id="poll-eq-line">Equipment: <b id="poll-eq">Dry van</b></p>
-<button type="button" class="pollbtn" data-a="1"><b>Busy</b> · plenty of loads, rates firm</button>
-<button type="button" class="pollbtn" data-a="0"><b>Normal</b> · about usual for the season</button>
-<button type="button" class="pollbtn" data-a="-1"><b>Slow</b> · more trucks than loads, rates soft</button>
+<button type="button" class="pollbtn" data-a="1"><span><b>Busy</b> · plenty of loads, rates firm</span></button>
+<button type="button" class="pollbtn" data-a="0"><span><b>Normal</b> · about usual for the season</span></button>
+<button type="button" class="pollbtn" data-a="-1"><span><b>Slow</b> · more trucks than loads, rates soft</span></button>
 <div class="mk-out" id="poll-out" aria-live="polite"></div>
 <span class="note">Anonymous. One answer per week; answering again replaces it. By answering you agree to our <a href="/terms/">Terms</a>.</span></form>
 <form class="box" id="rep" novalidate><h3>Report a rate</h3><p>A load you hauled or booked in the last 14 days. No company names.</p>
