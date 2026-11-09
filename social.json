@@ -1,0 +1,27 @@
+{
+  "_help": "Social posting controls. mode: off = do nothing, dry_run = build the queue and preview captions on haultimes.com/editor/social/ but never post, live = post for real. Hours are Eastern time (start, end). Story ids are on haultimes.com/editor/. Changes apply on the next update (within 15 minutes).",
+  "facebook": {
+    "mode": "dry_run",
+    "max_per_day": 4,
+    "min_gap_minutes": 180,
+    "hours": [7, 21],
+    "min_score": 60,
+    "max_age_hours": 18
+  },
+  "x": {
+    "mode": "dry_run",
+    "max_per_day": 6,
+    "min_gap_minutes": 90,
+    "hours": [6, 22],
+    "min_score": 60,
+    "max_age_hours": 12
+  },
+  "skip": {"facebook": [], "x": []},
+  "publish_now": {"facebook": [], "x": []},
+  "captions": {"facebook": {}, "x": {}},
+  "_examples": {
+    "skip": {"facebook": ["a1b2c3d4e5"]},
+    "publish_now": {"x": ["a1b2c3d4e5"]},
+    "captions": {"facebook": {"a1b2c3d4e5": "Your own caption text. The HaulTimes link is added automatically."}}
+  }
+}
