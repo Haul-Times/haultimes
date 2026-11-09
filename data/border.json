@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T20:24:33.474049+00:00",
- "hour_now": 15,
+ "updated": "2026-11-09T21:18:57.043944+00:00",
+ "hour_now": 16,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 20,
+    "wait": 25,
     "fast_wait": 0,
     "lanes": "7",
     "status": "delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -40,7 +40,7 @@
      null,
      20,
      20,
-     null,
+     25,
      null,
      null,
      null,
@@ -66,7 +66,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -85,17 +85,17 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 45,
+    "wait": 30,
     "fast_wait": 0,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 13:15 EST"
+    "updated": "2026-11-09 15:15 EST"
    },
    "usual": {
     "south": [
@@ -115,7 +115,7 @@
      null,
      39,
      45,
-     null,
+     30,
      null,
      null,
      null,
@@ -141,7 +141,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -190,7 +190,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -216,7 +216,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 29,
+    "wait": 41,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 3:07 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-09 15:00 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-09 16:00 EST"
    },
    "usual": {
     "south": [
@@ -265,7 +265,7 @@
      null,
      23,
      29,
-     null,
+     41,
      null,
      null,
      null,
@@ -291,7 +291,7 @@
      null,
      1,
      1,
-     null,
+     2,
      null,
      null,
      null,
@@ -310,17 +310,17 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 23,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 3:07 pm EST",
+    "status": "delay",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-09 15:00 EST"
+    "wait": 15,
+    "status": "15 minutes",
+    "updated": "2026-11-09 16:00 EST"
    },
    "usual": {
     "south": [
@@ -340,7 +340,7 @@
      null,
      11,
      0,
-     null,
+     23,
      null,
      null,
      null,
@@ -366,7 +366,7 @@
      null,
      2,
      2,
-     null,
+     15,
      null,
      null,
      null,
@@ -395,7 +395,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 14:15 EST"
+    "updated": "2026-11-09 15:16 EST"
    },
    "usual": {
     "south": [
@@ -415,7 +415,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -441,7 +441,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -464,13 +464,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 14:15 EST"
+    "updated": "2026-11-09 15:33 EST"
    },
    "usual": {
     "south": [
@@ -490,7 +490,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -516,7 +516,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -565,7 +565,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -591,7 +591,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -614,13 +614,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 pm CST",
+    "updated": "At 5:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 13:15 CDT"
+    "updated": "2026-11-09 15:15 CDT"
    },
    "usual": {
     "south": [
@@ -640,7 +640,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -666,7 +666,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -685,17 +685,17 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": 0,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "status": "delay",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 14:15 EST"
+    "updated": "2026-11-09 15:15 EST"
    },
    "usual": {
     "south": [
@@ -715,7 +715,7 @@
      null,
      0,
      0,
-     null,
+     10,
      null,
      null,
      null,
@@ -741,7 +741,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -790,7 +790,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -816,7 +816,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 15:14 EST"
+    "updated": "2026-11-09 15:15 EST"
    },
    "usual": {
     "south": [
@@ -865,7 +865,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -891,7 +891,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -940,7 +940,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -966,7 +966,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "15:15:04",
+    "updated": "16:15:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,17 +1060,17 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 50,
+    "wait": 56,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 1:00 pm CST",
+    "updated": "At 3:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 13:15 CDT"
+    "updated": "2026-11-09 15:15 CDT"
    },
    "usual": {
     "south": [
@@ -1090,7 +1090,7 @@
      null,
      50,
      50,
-     null,
+     56,
      null,
      null,
      null,
@@ -1116,7 +1116,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 12:15 CST"
+    "updated": "2026-11-09 14:15 CST"
    },
    "usual": {
     "south": [
@@ -1184,7 +1184,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1233,7 +1233,7 @@
      null,
      15,
      15,
-     null,
+     15,
      null,
      null,
      null,
@@ -1259,7 +1259,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-09 13:00 PDT"
+    "updated": "2026-11-09 14:00 PDT"
    },
    "usual": {
     "south": [
@@ -1308,7 +1308,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1334,7 +1334,7 @@
      null,
      5,
      5,
-     null,
+     5,
      null,
      null,
      null,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 13:00 PDT"
+    "updated": "2026-11-09 14:00 PDT"
    },
    "usual": {
     "south": [
@@ -1383,7 +1383,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1409,7 +1409,7 @@
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1457,8 +1457,8 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 20,
+    "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 221",
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },
