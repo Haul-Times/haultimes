@@ -2,170 +2,170 @@
  "https://news.google.com/rss/search?q=%22trucking+industry%22+OR+%22trucking+company%22+OR+%22trucking+companies%22+when:1d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: \"trucking industry\" OR \"trucking company\" OR \"trucking companies\" when",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 7
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 8
  },
  "https://news.google.com/rss/search?q=%22trucking+industry%22+OR+%22trucking+company%22+OR+%22trucking+companies%22+when:1d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: \"trucking industry\" OR \"trucking company\" OR \"trucking companies\" when",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 7
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 8
  },
  "https://news.google.com/rss/search?q=%22truckload%22+OR+%22LTL%22+OR+%22spot+rates%22+OR+%22freight+market%22+trucking+when:2d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: \"truckload\" OR \"LTL\" OR \"spot rates\" OR \"freight market\" trucking when",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 9
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 10
  },
  "https://news.google.com/rss/search?q=%22truck+drivers%22+OR+truckers+when:2d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares+-%22driving+job%22&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: \"truck drivers\" OR truckers when:2d -\"drive-by truckers\" -\"food truck\"",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 25
  },
  "https://news.google.com/rss/search?q=%22truck+drivers%22+OR+truckers+when:2d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares+-%22driving+job%22&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: \"truck drivers\" OR truckers when:2d -\"drive-by truckers\" -\"food truck\"",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 25
  },
  "https://news.google.com/rss/search?q=FMCSA+OR+%22Transport+Canada%22+trucks+when:3d&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: FMCSA OR \"Transport Canada\" trucks when:3d",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 9
  },
  "https://news.google.com/rss/search?q=%22freight+broker%22+OR+%22freight+brokerage%22+when:3d+-%22drive-by+truckers%22+-%22food+truck%22+-%22monster+truck%22+-stock+-shares&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: \"freight broker\" OR \"freight brokerage\" when:3d -\"drive-by truckers\" -",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 1
  },
  "https://news.google.com/rss/search?q=%22diesel+prices%22+truckers+OR+trucking+when:3d&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: \"diesel prices\" truckers OR trucking when:3d",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 15
  },
  "https://news.google.com/rss/search?q=%22cross-border%22+trucking+OR+trucks+Canada+when:3d&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: \"cross-border\" trucking OR trucks Canada when:3d",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 8
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 7
  },
  "https://news.google.com/rss/search?q=CBSA+OR+CBP+%22commercial+trucks%22+OR+%22truck+traffic%22+border+when:3d&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: CBSA OR CBP \"commercial trucks\" OR \"truck traffic\" border when:3d",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 0
  },
  "https://news.google.com/rss/search?q=site:freightwaves.com+when:2d&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: site:freightwaves.com when:2d",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 35
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 36
  },
  "https://news.google.com/rss/search?q=site:ttnews.com+when:2d&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: site:ttnews.com when:2d",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 33
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 37
  },
  "https://news.google.com/rss/search?q=site:ccjdigital.com+OR+site:overdriveonline.com+when:2d&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: site:ccjdigital.com OR site:overdriveonline.com when:2d",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 10
  },
  "https://news.google.com/rss/search?q=site:thetrucker.com+OR+site:truckinginfo.com+when:2d+-%22driving+job%22+-%22truck+driving+jobs%22&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: site:thetrucker.com OR site:truckinginfo.com when:2d -\"driving job\" -\"",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 9
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 10
  },
  "https://news.google.com/rss/search?q=site:trucknews.com+OR+site:todaystrucking.com+when:3d&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: site:trucknews.com OR site:todaystrucking.com when:3d",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 17
  },
  "https://news.google.com/rss/search?q=trucking+OR+truckers+OR+%22truck+drivers%22+OR+%22trucking+company%22+OR+%22commercial+vehicles%22+site%3Acbc.ca+OR+site%3Actvnews.ca+when%3A3d+-%22food+truck%22+-%22monster+truck%22&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: trucking OR truckers OR \"truck drivers\" OR \"trucking company\" OR \"comm",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 4
  },
  "https://news.google.com/rss/search?q=trucking+OR+truckers+OR+%22truck+drivers%22+OR+%22trucking+company%22+OR+%22commercial+vehicles%22+site%3Aglobalnews.ca+OR+site%3Atheglobeandmail.com+OR+site%3Afinancialpost.com+OR+site%3Athecanadianpressnews.ca+when%3A3d+-%22food+truck%22+-%22monster+truck%22&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: trucking OR truckers OR \"truck drivers\" OR \"trucking company\" OR \"comm",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 21
  },
  "https://news.google.com/rss/search?q=site%3Aroadtoday.com+OR+site%3Acantruck.ca+OR+site%3Aontruck.org+OR+site%3Acanadianshipper.com+when%3A3d&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: site:roadtoday.com OR site:cantruck.ca OR site:ontruck.org OR site:can",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 5
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 2
  },
  "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=federal-motor-carrier-safety-administration&order=newest": {
   "name": "Federal Register (FMCSA)",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:41:06.873276+00:00",
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
   "error": null,
   "fails_in_row": 0,
   "items": 13
@@ -173,8 +173,8 @@
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=transportcanada&sort=publishedDate&orderBy=desc&pick=30&format=atom&atomtitle=Transport%20Canada": {
   "name": "Transport Canada",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:41:06.873276+00:00",
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
   "error": null,
   "fails_in_row": 0,
   "items": 0
@@ -182,8 +182,8 @@
  "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadaborderservicesagency&sort=publishedDate&orderBy=desc&pick=30&format=atom&atomtitle=CBSA": {
   "name": "Canada Border Services Agency",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:41:06.873276+00:00",
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
   "error": null,
   "fails_in_row": 0,
   "items": 30
@@ -191,19 +191,19 @@
  "https://news.google.com/rss/search?q=%22double+brokering%22+OR+%22cargo+theft%22+OR+%22freight+fraud%22+OR+%22carrier+fraud%22+when%3A3d&hl=en-US&gl=US&ceid=US:en": {
   "name": "Google News: \"double brokering\" OR \"cargo theft\" OR \"freight fraud\" OR \"carrier fra",
   "country": "US",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
-  "items": 12
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
+  "items": 13
  },
  "https://news.google.com/rss/search?q=%22distribution+center%22+OR+%22distribution+centre%22+OR+%22warehouse%22+trucks+OR+trucking+when%3A2d&hl=en-CA&gl=CA&ceid=CA:en": {
   "name": "Google News: \"distribution center\" OR \"distribution centre\" OR \"warehouse\" trucks O",
   "country": "CA",
-  "last_attempt": "2026-11-10T15:41:06.873276+00:00",
-  "last_success": "2026-11-10T15:31:04.714477+00:00",
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "fails_in_row": 1,
+  "last_attempt": "2026-11-10T15:51:05.105327+00:00",
+  "last_success": "2026-11-10T15:51:05.105327+00:00",
+  "error": null,
+  "fails_in_row": 0,
   "items": 22
  }
 }
