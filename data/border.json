@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T05:11:04.575957+00:00",
+ "updated": "2026-11-10T05:21:05.337968+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -24,7 +24,7 @@
    },
    "usual": {
     "south": [
-     17,
+     15,
      null,
      null,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:06:42",
+    "updated": "00:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:06:42",
+    "updated": "00:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:06:42",
+    "updated": "00:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:06:42",
+    "updated": "00:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:06:42",
+    "updated": "00:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -910,11 +910,11 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:06:42",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:06:42",
+    "updated": "00:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm CST",
+    "updated": "At 11:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1217,7 +1217,7 @@
    },
    "usual": {
     "south": [
-     5,
+     3,
      null,
      null,
      null,
@@ -1292,7 +1292,7 @@
    },
    "usual": {
     "south": [
-     5,
+     3,
      null,
      null,
      null,
