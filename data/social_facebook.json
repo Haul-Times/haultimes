@@ -770,7 +770,36 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-10T17:51:42.287672+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122100461415544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122100461415544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122100461415544428",
+    "created": "2026-11-10T17:51:42+0000",
+    "at": "2026-11-10T18:01:20.585765+00:00"
+   }
+  },
+  "diesel-2026-11-09": {
+   "story_id": "diesel-2026-11-09",
+   "title": "Diesel prices, week of 2026-11-09",
+   "url_key": "diesel-2026-11-09",
+   "category": "house:diesel",
+   "source": "HaulTimes",
+   "dest": "https://haultimes.com/s/diesel-2026-11-09/?utm_source=facebook&utm_medium=organic_social&utm_campaign=diesel",
+   "caption": "US diesel averaged $6.13 a gallon for the week of November 9, down 17¢ from the week before, according to the US Energy Information Administration. Highest: California at $7.90. Lowest: Lower Atlantic at $5.69.\n\nIn Ontario, diesel averaged 243.1¢ a litre (week of November 9). Every state and province on the HaulTimes diesel map.\n\n#Diesel #Trucking #FuelPrices",
+   "status": "queued",
+   "created_at": "2026-11-10T18:01:20.585765+00:00",
+   "published": "2026-11-10T18:01:20.585765+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {},
+   "house": "diesel",
+   "reason": "HaulTimes update: diesel"
   }
  },
  "paused": null,
@@ -954,7 +983,9 @@
   "db3b41cb73": "skipped|importance 55 is below this platform's threshold (65)",
   "fd5221d945": "skipped|importance 55 is below this platform's threshold (65)",
   "fbd702a75b": "posted|importance 67 (threshold 65), Industry, trade publication; waited 10 min in queue",
-  "c2f3d704e3": "skipped|importance 61 is below this platform's threshold (65)"
+  "c2f3d704e3": "skipped|importance 61 is below this platform's threshold (65)",
+  "715577ea7b": "skipped|importance 63 is below this platform's threshold (65)",
+  "diesel-2026-11-09": "queued|HaulTimes update"
  },
  "decisions": [
   {
@@ -1880,16 +1911,30 @@
    "title": "PS Logistics unit buys Tennessee-based flatbed carrier Roane",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Industry, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-10T18:01:20.585765+00:00",
+   "story_id": "715577ea7b",
+   "title": "TRAFFIX data: Spot rates hold at $3.47 a mile, but peak freight is meeting tight capacity",
+   "action": "skipped",
+   "reason": "importance 63 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T18:01:20.585765+00:00",
+   "story_id": "diesel-2026-11-09",
+   "title": "Diesel prices, week of 2026-11-09",
+   "action": "queued",
+   "reason": "HaulTimes update: diesel"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122100447525544428",
+  "post": "1476615495528085_122100461415544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122100447525544428",
-  "created": "2026-11-10T17:31:18+0000",
-  "at": "2026-11-10T17:41:34.097531+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122100461415544428",
+  "created": "2026-11-10T17:51:42+0000",
+  "at": "2026-11-10T18:01:20.585765+00:00"
  },
  "promo_i": 1
 }
