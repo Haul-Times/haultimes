@@ -1,5 +1,33 @@
 [
  {
+  "id": "386cf0ba2f",
+  "slug": "wing-to-invest-125m-in-drone-manufacturing-plant-386cf0ba2f",
+  "title": "Wing to invest $125M in drone manufacturing plant",
+  "orig_title": "Wing to invest $125M in drone manufacturing plant",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjNCUTZMVzBGYmpWelBsRHo0SGIxSUdtdWJHcm1FQXBlZTVfeUZSdE8tSjA5RDVsQnZZNHVpRjlMZmRDTDVWdDYwYVlHQlJxbDhJTUZSV2FEY3FOVy1FNFYxRjhVanV4UGtSX3N5eVBjSHhaVlF3NGpXWGFNUWltVzR4SlgySDVoeWc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjNCUTZMVzBGYmpWelBsRHo0SGIxSUdtdWJHcm1FQXBlZTVfeUZSdE8tSjA5RDVsQnZZNHVpRjlMZmRDTDVWdDYwYVlHQlJxbDhJTUZSV2FEY3FOVy1FNFYxRjhVanV4UGtSX3N5eVBjSHhaVlF3NGpXWGFNUWltVzR4SlgySDVoeWc",
+  "snippet": "Wing to invest $125M in drone manufacturing plant FreightWaves",
+  "published": "2026-11-10T14:06:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T14:17:18.671765+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review"
+ },
+ {
   "id": "728b211887",
   "slug": "cargo-theft-incidents-decline-as-average-loss-value-jumps-72-728b211887",
   "title": "Cargo Theft Incidents Decline as Average Loss Value Jumps 72%",
@@ -267,9 +295,9 @@
   "orig_title": "Rig Rest : une app gratuite conçue spécialement pour les camionneurs!",
   "summary": "",
   "why": "",
-  "category": "equip",
+  "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "Truck Stop Québec",
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNcHpHaElVV0RyMjNfSlhjTzhhcllGNGFmRXhOY2lPS3BuZnFYN1UzTGdhaGlzRUdiZEl2dUQtQTQ5QnR2UmtUUC0xb3lOb29LaGh4alYtM2ExMlR5YmMxSjVuczJUY1E5cXBMc2VPU3V1R1RZVHNyQmhpUVE?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNcHpHaElVV0RyMjNfSlhjTzhhcllGNGFmRXhOY2lPS3BuZnFYN1UzTGdhaGlzRUdiZEl2dUQtQTQ5QnR2UmtUUC0xb3lOb29LaGh4alYtM2ExMlR5YmMxSjVuczJUY1E5cXBMc2VPU3V1R1RZVHNyQmhpUVE",
@@ -281,10 +309,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "bf4bb9ae24",
@@ -295,7 +325,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 51,
+  "importance": 0,
   "source": "EcoActu.ma",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94c0VaSmFiTE1VN3NjaTJ6TW9hTURFSmlvNWM4X3JITEliOWtVajE5dU5HUy1EXzBYWGNwU0Q5ZVhaVDdrc3VKZGtGS01CMTRJckJOQWM5M19YNk1hVENsR3FsT0FOYlZlRWUwaEFVYVhrcm5hcmlv?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94c0VaSmFiTE1VN3NjaTJ6TW9hTURFSmlvNWM4X3JITEliOWtVajE5dU5HUy1EXzBYWGNwU0Q5ZVhaVDdrc3VKZGtGS01CMTRJckJOQWM5M19YNk1hVENsR3FsT0FOYlZlRWUwaEFVYVhrcm5hcmlv",
@@ -307,12 +337,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "duplicate",
+  "status": "rejected",
   "reasons": [
-   "same story as: Transport routier : 400 millions de dirhams débloqués pour réévaluer l'aide aux profession"
+   "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "news",
+  "kind": "rejected",
   "dup_of": "5e1a33f0b1"
  },
  {
@@ -556,7 +586,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 51,
+  "importance": 0,
   "source": "lnt.ma",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3o2cnB5eHVEeTVGbWM1c2xHZ2dDSTRjajFCQlUxclgyN1pvS051M1BXVVJfdUNweC1ISDJsZmdZc3R1VE9BaFRTQnJGcGJOMHhCdVhyS2o3YXhFY2JUdlgwQVpEa3RnQUdReVpKXzhyblI0RU1WN0ZlNTFxRFRYMUl6R21wYzZCcWpSNS0yam1SUFpwVmx2SUxKUmVMNFQ2VkRheFBoMlVmaDFITF9NUXYxZmE4WEtwTnNPR0ZuVzl2YlI5ZDc4?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3o2cnB5eHVEeTVGbWM1c2xHZ2dDSTRjajFCQlUxclgyN1pvS051M1BXVVJfdUNweC1ISDJsZmdZc3R1VE9BaFRTQnJGcGJOMHhCdVhyS2o3YXhFY2JUdlgwQVpEa3RnQUdReVpKXzhyblI0RU1WN0ZlNTFxRFRYMUl6R21wYzZCcWpSNS0yam1SUFpwVmx2SUxKUmVMNFQ2VkRheFBoMlVmaDFITF9NUXYxZmE4WEtwTnNPR0ZuVzl2YlI5ZDc4",
@@ -568,12 +598,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "duplicate",
+  "status": "rejected",
   "reasons": [
-   "same story as: Transport routier : plus de 11 milliards de DH d’aides versés depuis 2022, les montants re"
+   "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "news",
+  "kind": "rejected",
   "dup_of": "62f1cde88b"
  },
  {
@@ -609,7 +639,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 51,
+  "importance": 0,
   "source": "www.laverite.ma",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYl95UnJhZ1VYa2M0UVlLVE9sNWFxNGpNenBUejhZdUVZVkJ6cjh4aXBFNGRGdmUtWWZEYXNRWlhXOWVwTi0zZzh6UmR0cFlyaUpZS3J2X0xPYk5HR08wWHJJN0dxajlTUG9Ed1NjUk1vS0JNSUFGNzlEV0VkempBRVBPZDhsNFNDcXhIdGd2MjdvR2ZBSU9LczNROXZTTDl0Q20xR2xZR3FpWVRSS3U3NVlzMFhyMUE?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYl95UnJhZ1VYa2M0UVlLVE9sNWFxNGpNenBUejhZdUVZVkJ6cjh4aXBFNGRGdmUtWWZEYXNRWlhXOWVwTi0zZzh6UmR0cFlyaUpZS3J2X0xPYk5HR08wWHJJN0dxajlTUG9Ed1NjUk1vS0JNSUFGNzlEV0VkempBRVBPZDhsNFNDcXhIdGd2MjdvR2ZBSU9LczNROXZTTDl0Q20xR2xZR3FpWVRSS3U3NVlzMFhyMUE",
@@ -621,10 +651,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "b5fdd895bc",
@@ -767,7 +799,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 51,
+  "importance": 0,
   "source": "laquotidienne.ma",
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmY3RWFsdlU3OXFqMVRHZFBDeG14Vm5MXzRMS3pSbVRxWEY5V2lyLTExWTJkNTAtSmNDZS1pMlZIRFFBal9lcVNhSkRrTXBFVWNUbkZCWWlpekY1V3NrLVlzU3l6bF82YXEwV0N4ZExRVEJ5RjdiSWt2ZnUtRFR6M2U5MEowS1c3YnNfSHhPbXo?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmY3RWFsdlU3OXFqMVRHZFBDeG14Vm5MXzRMS3pSbVRxWEY5V2lyLTExWTJkNTAtSmNDZS1pMlZIRFFBal9lcVNhSkRrTXBFVWNUbkZCWWlpekY1V3NrLVlzU3l6bF82YXEwV0N4ZExRVEJ5RjdiSWt2ZnUtRFR6M2U5MEowS1c3YnNfSHhPbXo",
@@ -779,10 +811,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "e8cf9f5f84",
@@ -899,7 +933,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "Otre",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnE4bW9xbkVXd1V5ZE9XWVh1N0tQc0pOVldoTU8wNlMzM3lPX1pVbzlLTl84amx6dnZFQTF6eFpQWGN6b2VnWl9ZSk91QjBWenY1RUpXZkVmTF90MlVRQng1NzZrRmZ1UTk1ajFSRlBIOGJxdkFDZTUwa3FZTmtBQWVkWjNGeGZXcmJILU1xTVVNYmxBbUlnR25RSXNadjBKRXpmamx1N0NJdFFSNUdEWkZJcHBhOUJyUHZV?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnE4bW9xbkVXd1V5ZE9XWVh1N0tQc0pOVldoTU8wNlMzM3lPX1pVbzlLTl84amx6dnZFQTF6eFpQWGN6b2VnWl9ZSk91QjBWenY1RUpXZkVmTF90MlVRQng1NzZrRmZ1UTk1ajFSRlBIOGJxdkFDZTUwa3FZTmtBQWVkWjNGeGZXcmJILU1xTVVNYmxBbUlnR25RSXNadjBKRXpmamx1N0NJdFFSNUdEWkZJcHBhOUJyUHZV",
@@ -911,10 +945,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "de7e9739f8",
@@ -1112,7 +1148,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "TRM24",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2NVSlRqSUQ4VVRhWGJfYnd5cU5WSGUzYTJjQlQ4amlmbjZvUnFmWklpaTVJNnpCX1VhTHg0Qzlpck1hYzNtS1RCVjJVV3JSM0ljT0tXUnBPcTg0MjBzS0E3M3AxaDJaNldUdm13SlFSSGdYYjdMcmE1YUNpSHh4NVA0b2NFcUs0T3pyTVhoenk4eEI3WG0xSDdIQVZBRW90dEE?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2NVSlRqSUQ4VVRhWGJfYnd5cU5WSGUzYTJjQlQ4amlmbjZvUnFmWklpaTVJNnpCX1VhTHg0Qzlpck1hYzNtS1RCVjJVV3JSM0ljT0tXUnBPcTg0MjBzS0E3M3AxaDJaNldUdm13SlFSSGdYYjdMcmE1YUNpSHh4NVA0b2NFcUs0T3pyTVhoenk4eEI3WG0xSDdIQVZBRW90dEE",
@@ -1124,10 +1160,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "76d1c6bff2",
@@ -1262,7 +1300,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "Le360",
   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM2tQRXBUMTNDQW1nWnpsWGtMWXpxcHdnMl8zOWM5MlZvcVNfUEFiTUQwZEpPNWNQeFZZR1NVeC14NjQzN0Rtbnpudk54TzFzRjVnT3VqNGVNd04tRUlmWjVTUDNGQndFZFRHT3VDYWdKZGJBM0NXVzNJbXBvTWJ1SzBUZy1ybTRsRWdkNnJsbTRBMVdORUg4aWNMN2xYbXhlemdWUTFzdmtsWWNIQXQ3aUlhRGQ1dkcyMGgwbGNHaXJ4M1BMTWpqX2k0RTE2MnRucnhHeW5Udk04OWM4LXpJMXlWcTBsUzJOTzd4OTB3?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM2tQRXBUMTNDQW1nWnpsWGtMWXpxcHdnMl8zOWM5MlZvcVNfUEFiTUQwZEpPNWNQeFZZR1NVeC14NjQzN0Rtbnpudk54TzFzRjVnT3VqNGVNd04tRUlmWjVTUDNGQndFZFRHT3VDYWdKZGJBM0NXVzNJbXBvTWJ1SzBUZy1ybTRsRWdkNnJsbTRBMVdORUg4aWNMN2xYbXhlemdWUTFzdmtsWWNIQXQ3aUlhRGQ1dkcyMGgwbGNHaXJ4M1BMTWpqX2k0RTE2MnRucnhHeW5Udk04OWM4LXpJMXlWcTBsUzJOTzd4OTB3",
@@ -1274,12 +1312,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "duplicate",
+  "status": "rejected",
   "reasons": [
-   "same story as: Transport routier : plus de 11 milliards de DH d’aides versés depuis 2022, les montants re"
+   "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "news",
+  "kind": "rejected",
   "dup_of": "62f1cde88b"
  },
  {
@@ -2298,7 +2336,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "L'Opinion",
   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNLVdqT01rcUt1ZlJNVGF3MEtHSEY1dVBfamtKdXZEakRwQW8ybU84OTFOaTdmV3JuOWRJSW9wNGZIdG8waFpxc3JoRHFtanFUdDROQnVYTFhDZW9XbGs1enJZMHViYXd4aVhodGxIT3dZdE1wU3RSRFFtMnVfV0tsanFmSnNNSWhQUnNnc0lCUDJtQnBQbU93d2tnSVdjYVhLcENzWDZQTXVaQ0ZRcktFbmpCSDlVR1VrNnp2eTNIbWdHQm5kaEs0TUNwZV9wTWtWeDhuQ0tVX0FfUUQ0QzNkakpYVXFWZTZ0VnBMODNTeGxUaThLS3JfY005bU5JbmtCd3JvMDQ2SlFlZ3JTOWpkQTQ1dll2QQ?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNLVdqT01rcUt1ZlJNVGF3MEtHSEY1dVBfamtKdXZEakRwQW8ybU84OTFOaTdmV3JuOWRJSW9wNGZIdG8waFpxc3JoRHFtanFUdDROQnVYTFhDZW9XbGs1enJZMHViYXd4aVhodGxIT3dZdE1wU3RSRFFtMnVfV0tsanFmSnNNSWhQUnNnc0lCUDJtQnBQbU93d2tnSVdjYVhLcENzWDZQTXVaQ0ZRcktFbmpCSDlVR1VrNnp2eTNIbWdHQm5kaEs0TUNwZV9wTWtWeDhuQ0tVX0FfUUQ0QzNkakpYVXFWZTZ0VnBMODNTeGxUaThLS3JfY005bU5JbmtCd3JvMDQ2SlFlZ3JTOWpkQTQ1dll2QQ",
@@ -2310,10 +2348,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "64402e19b8",
@@ -5190,7 +5230,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "LesEco.ma",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS21mclV3dnNXRXBVZzF2WFVaZDRSWmhqdG5iaXVTTFJQSjVNckx3MllNYXpoYkZBVkRRbmh5MUNsal9JZ3ZtNkFWcDlaenFrVVBHQ3YyY1pPYjhxVFNVZFlmZmd4ZXhvNGotQzk2bGZIUEEwMThmbEI5MkxKdUtQUTBQVFJxYlpUVTlEUGZRMTlEeHNMQnJHNFRfNm1CQmRLV2hn?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS21mclV3dnNXRXBVZzF2WFVaZDRSWmhqdG5iaXVTTFJQSjVNckx3MllNYXpoYkZBVkRRbmh5MUNsal9JZ3ZtNkFWcDlaenFrVVBHQ3YyY1pPYjhxVFNVZFlmZmd4ZXhvNGotQzk2bGZIUEEwMThmbEI5MkxKdUtQUTBQVFJxYlpUVTlEUGZRMTlEeHNMQnJHNFRfNm1CQmRLV2hn",
@@ -5202,12 +5242,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "duplicate",
+  "status": "rejected",
   "reasons": [
-   "same story as: Transport routier : 400 MDH mobilisés pour un soutien exceptionnel aux professionnels"
+   "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "news",
+  "kind": "rejected",
   "dup_of": "84a93361d9"
  },
  {
@@ -5449,7 +5489,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "Economiematin",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHN2Wk9SdVZmX0E3clRadTNBYlppRHRZSmtUV09MbTZwOVhaQVN6NGZoSmZFXzRYUnhULXZJM2R6VlhIeEcwTi1qM3c3SkZTVlZzR3pkcGVpSFlfTXZmT2dIX0FpQkFOSmpDMGtTREdTTUkySGNzYkpDbWhHVTNyTDVYMGtwTC0zY2FwbVU3QlpOYzQ5X2Ew?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHN2Wk9SdVZmX0E3clRadTNBYlppRHRZSmtUV09MbTZwOVhaQVN6NGZoSmZFXzRYUnhULXZJM2R6VlhIeEcwTi1qM3c3SkZTVlZzR3pkcGVpSFlfTXZmT2dIX0FpQkFOSmpDMGtTREdTTUkySGNzYkpDbWhHVTNyTDVYMGtwTC0zY2FwbVU3QlpOYzQ5X2Ew",
@@ -5461,10 +5501,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "b7cf028a0e",
@@ -5603,7 +5645,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "Le360 Afrique",
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMlZOZHpOenJCdVBGRnMwNWdqNWdXT3ctZ2gzMFZVejB0MU5BN29aN0N6S3o4UGJIY1BWWkhHUjh5NDRBTjFJd05fMlotNS1rVElMRXZPSkpmQnkya3BWWFEwSHFGNnBYYWFOVnM4MmU4T1FPQV8xSkxnTzIyeEFTLUY4VzYyd3FweTBucEhDM3NsNVR4b29ram5ldFI1ajlMS1huV0F1TEgwdEdRUVd3UWhMTHdaVlExUVpvVGx6SS1CRWI1eUZ6Q1FKbFV6aFhfQ1lwTjk3MnFiR2pXNXlBdWxfUTFtazkxOUhTeVRkbDNxZw?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMlZOZHpOenJCdVBGRnMwNWdqNWdXT3ctZ2gzMFZVejB0MU5BN29aN0N6S3o4UGJIY1BWWkhHUjh5NDRBTjFJd05fMlotNS1rVElMRXZPSkpmQnkya3BWWFEwSHFGNnBYYWFOVnM4MmU4T1FPQV8xSkxnTzIyeEFTLUY4VzYyd3FweTBucEhDM3NsNVR4b29ram5ldFI1ajlMS1huV0F1TEgwdEdRUVd3UWhMTHdaVlExUVpvVGx6SS1CRWI1eUZ6Q1FKbFV6aFhfQ1lwTjk3MnFiR2pXNXlBdWxfUTFtazkxOUhTeVRkbDNxZw",
@@ -5615,10 +5657,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "415ae6e54b",
@@ -6451,10 +6495,13 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Nvidia Cargo Theft Worth $11.4 Million Went Unreported for 15 Days"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "dup_of": "428e53bc18"
  },
  {
   "id": "0f89923a3c",
@@ -7027,7 +7074,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 51,
+  "importance": 0,
   "source": "Truck Stop Québec",
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xWDRXRnJOaXBsNzRGWlE0VjAydTdLcTFnUXRlM2hhVEVNRGpCblQxYURPS2ZuZWNPaDNYdm55a1ZhamN0dDEtQkxRc3RrdHZNMVpjcERJUnhXc2U5QkR6cUM2RXBrMGFXbEFFNjhYRlF3Unl5b0xzRG9SZklkZw?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xWDRXRnJOaXBsNzRGWlE0VjAydTdLcTFnUXRlM2hhVEVNRGpCblQxYURPS2ZuZWNPaDNYdm55a1ZhamN0dDEtQkxRc3RrdHZNMVpjcERJUnhXc2U5QkR6cUM2RXBrMGFXbEFFNjhYRlF3Unl5b0xzRG9SZklkZw",
@@ -7039,10 +7086,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "37c25f2fde",
@@ -7535,7 +7584,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "2M",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVVDWlg2WlhQSGMtcXJvNlhDWThWdVRuelk5LXd6SHhkbzk4STY4T2VIbDAtU0RQSE84X0pBUEFROTJlUUxnWmJCOGIzTFNaWWxSdzIxdG9mYmNEcHJ1TEo2UTdPXy1OeU5oU0JRemhqZzhVUzNLd0JGNlZkUXJQYlR2blZiOUJ3S0pZNmRKc29jVWstbWlF?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVVDWlg2WlhQSGMtcXJvNlhDWThWdVRuelk5LXd6SHhkbzk4STY4T2VIbDAtU0RQSE84X0pBUEFROTJlUUxnWmJCOGIzTFNaWWxSdzIxdG9mYmNEcHJ1TEo2UTdPXy1OeU5oU0JRemhqZzhVUzNLd0JGNlZkUXJQYlR2blZiOUJ3S0pZNmRKc29jVWstbWlF",
@@ -7547,10 +7596,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "87556b2ad3",
@@ -7633,7 +7684,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "EcoActu.ma",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ25TMnlTTEdDLUw3TlRjYVJ3OWZLVU05cXBHOW9nbXpVb3FrYTQyOTNwRWZUSG95RndRSzBIOXVFc3R2a0JOUm14aXBxZWc1amdZajNIVTVQWmVObWVSZlhSVExsVEc0UXBRRXlPdzZiMW4xdjFsMkRkMW9menE3VGZnODRGWHoyaEE4TmlXb1pzMWFONWFXWklsWXRsTkJ0STU5QXBB?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ25TMnlTTEdDLUw3TlRjYVJ3OWZLVU05cXBHOW9nbXpVb3FrYTQyOTNwRWZUSG95RndRSzBIOXVFc3R2a0JOUm14aXBxZWc1amdZajNIVTVQWmVObWVSZlhSVExsVEc0UXBRRXlPdzZiMW4xdjFsMkRkMW9menE3VGZnODRGWHoyaEE4TmlXb1pzMWFONWFXWklsWXRsTkJ0STU5QXBB",
@@ -7645,10 +7696,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "92dd40a47c",
@@ -7781,7 +7834,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "medi1tv",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaV9YcFJPTjJ4QURlU0g5ejNCRDdnWVJrNUE4UnFra2tOSm9RenFQbzMtaEFyZy1rVXFtZ3ZPVGlSOVpWSzYybjNtLVVoUnJzbE1lWG0yeXA5bVNUcHU3b1pJaktYSTNMZElHVTZFdHdqZWhadmhDOG9jd3JtUkFMZGVqYm1qQWlmVHpsUUpvMHZXNVZfVVpqMS15QmQ5VnRtTDltUTM4Wkt0NVE3NEpSd2ZEVDA5TnFFVGs1TUFscjhoVXdqTm9FUHFKNl9wQ25IUTRadThoWQ?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaV9YcFJPTjJ4QURlU0g5ejNCRDdnWVJrNUE4UnFra2tOSm9RenFQbzMtaEFyZy1rVXFtZ3ZPVGlSOVpWSzYybjNtLVVoUnJzbE1lWG0yeXA5bVNUcHU3b1pJaktYSTNMZElHVTZFdHdqZWhadmhDOG9jd3JtUkFMZGVqYm1qQWlmVHpsUUpvMHZXNVZfVVpqMS15QmQ5VnRtTDltUTM4Wkt0NVE3NEpSd2ZEVDA5TnFFVGs1TUFscjhoVXdqTm9FUHFKNl9wQ25IUTRadThoWQ",
@@ -7793,10 +7846,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "ec23479acc",
@@ -7929,7 +7984,7 @@
   "why": "",
   "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "Nord Littoral",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTZJU0xaUWhyMWwxU191VHpSYU8zVkNKV2hHcmQ5bHBlVW43NG5WaDRuSVlxQUxFejdfcDh3c1c5dm1Xb2lic2RUT3hvRWZRcWxBdzlJLXZabE90YzFiam94QTlTR2w1OGxjZWYweTludzdqLTd5Vm5HUG95ZjRyTUhrQzQzazl3QVJ3dkUxblg3MXhYNktRckVyMS1MVWpPZlBRWVdmSlMzY05qZHU1bWszcVZhWU0?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTZJU0xaUWhyMWwxU191VHpSYU8zVkNKV2hHcmQ5bHBlVW43NG5WaDRuSVlxQUxFejdfcDh3c1c5dm1Xb2lic2RUT3hvRWZRcWxBdzlJLXZabE90YzFiam94QTlTR2w1OGxjZWYweTludzdqLTd5Vm5HUG95ZjRyTUhrQzQzazl3QVJ3dkUxblg3MXhYNktRckVyMS1MVWpPZlBRWVdmSlMzY05qZHU1bWszcVZhWU0",
@@ -7941,10 +7996,12 @@
   "ai": false,
   "lang": "fr",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "French-language story (English only)"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "65925a6ea0",

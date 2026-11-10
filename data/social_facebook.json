@@ -441,7 +441,15 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-10T05:01:10.761543+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122099921043544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122099921043544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122099921043544428",
+    "created": "2026-11-10T05:01:10+0000",
+    "at": "2026-11-10T14:17:29.375750+00:00"
+   }
   },
   "d21eec4468": {
    "story_id": "d21eec4468",
@@ -470,7 +478,15 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-10T05:21:14.796624+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122099936013544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122099936013544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122099936013544428",
+    "created": "2026-11-10T05:21:14+0000",
+    "at": "2026-11-10T14:17:29.375750+00:00"
+   }
   },
   "diesel-2026-11-02": {
    "story_id": "diesel-2026-11-02",
@@ -1537,12 +1553,12 @@
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122099947923544428",
+  "post": "1476615495528085_122099921043544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122099947923544428",
-  "created": "2026-11-10T05:41:13+0000",
-  "at": "2026-11-10T14:11:26.336657+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122099921043544428",
+  "created": "2026-11-10T05:01:10+0000",
+  "at": "2026-11-10T14:17:29.375750+00:00"
  }
 }
