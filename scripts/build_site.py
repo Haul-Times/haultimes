@@ -33,7 +33,7 @@ def _asset_version():
     """Short fingerprint of the CSS and JS, so phones load new designs right away."""
     import hashlib
     h = hashlib.sha1()
-    for name in ("style.css", "site.js"):
+    for name in ("style.css", "site.js", "logo.svg"):
         try:
             with open(os.path.join(STATIC, name), "rb") as f:
                 h.update(f.read())
@@ -194,7 +194,7 @@ def head(title, desc, path, image=None, extra=""):
 <meta property="og:type" content="website">
 <meta property="og:image" content="{img}">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/static/favicon.svg?v={ver}" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{n}" href="/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -224,11 +224,11 @@ def header(active, stories):
     return """<div class="topbar"><div class="wrap"><span>{today} · Updated every 15 minutes</span>
 <nav aria-label="Site"><a href="/about/">About</a><a href="/contact/">Contact</a></nav></div></div>
 <header class="masthead"><div class="wrap">
-<a class="logo" href="/" aria-label="{name} home">HaulTimes</a>
+<a class="logo" href="/" aria-label="{name} home"><img src="/static/logo.svg?v={av}" alt="{name}" width="1962" height="331"></a>
 </div></header>
 <nav class="sections" aria-label="Sections"><div class="wrap">{links}</div></nav>
 {ticker}
-""".format(today=E(today), name=E(CFG["site_name"]), mark=MARK, tag=E(CFG["tagline"]), links="".join(links), ticker=ticker)
+""".format(today=E(today), name=E(CFG["site_name"]), mark=MARK, tag=E(CFG["tagline"]), links="".join(links), ticker=ticker, av=ASSET_VER)
 
 
 def footer(scripts=""):
