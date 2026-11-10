@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:11:02.226616+00:00",
+ "updated": "2026-11-10T06:20:43.679506+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -25,7 +25,7 @@
    "usual": {
     "south": [
      12,
-     5,
+     3,
      null,
      null,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:01:56",
+    "updated": "01:17:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 0:57 am EST",
+    "updated": "At 1:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -250,7 +250,7 @@
    "usual": {
     "south": [
      0,
-     5,
+     7,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 0:57 am EST",
+    "updated": "At 1:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:01:56",
+    "updated": "01:17:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -610,11 +610,11 @@
    "ports": "International Falls, MN ↔ Fort Frances, ON",
    "region": "on-mn",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:56",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:01:56",
+    "updated": "01:17:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:01:56",
+    "updated": "01:17:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:56",
+    "updated": "00:17:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 21:15 MDT"
+    "updated": "2026-11-10 00:07 MDT"
    },
    "usual": {
     "south": [
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:00 pm PST",
+    "updated": "At 10:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1482,8 +1482,8 @@
    },
    {
     "name": "Norton",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    }
   ],
   "north": [
