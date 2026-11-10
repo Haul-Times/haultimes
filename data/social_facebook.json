@@ -801,7 +801,69 @@
    "house": "diesel",
    "reason": "HaulTimes update: diesel",
    "last_attempt_at": "2026-11-10T18:21:34.962549+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122100478965544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122100478965544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122100478965544428",
+    "created": "2026-11-10T18:21:35+0000",
+    "at": "2026-11-10T18:31:18.494004+00:00"
+   }
+  },
+  "094bf8c5ce": {
+   "story_id": "094bf8c5ce",
+   "title": "U.S. raises forecasts for 2027 gasoline and diesel prices",
+   "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YTFpINGx0QndsbVFOZ2hwYzBhY19zWDduN0d3Vm00anF0TGg5OUtqMEYxRXBQS2tLVjhyOXVGS1ZLQlJjdzZxN2JBNFViNEd3TmVaRmF2RXhqaXRyWnIwNnRBZ1ZDWDg",
+   "category": "fuel",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/u-s-raises-forecasts-for-2027-gasoline-and-diesel-prices-094bf8c5ce/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=094bf8c5ce",
+   "caption": "U.S. raises forecasts for 2027 gasoline and diesel prices.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #Diesel",
+   "status": "queued",
+   "created_at": "2026-11-10T18:31:18.494004+00:00",
+   "published": "2026-11-10T18:02:54+00:00",
+   "score": 78,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "U.S. raises forecasts for 2027 gasoline and diesel prices | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/3151523071.png",
+    "og:url": "https://haultimes.com/story/u-s-raises-forecasts-for-2027-gasoline-and-diesel-prices-094bf8c5ce/"
+   },
+   "reason": "importance 78 (threshold 65), Fuel, trade publication",
+   "breaking": null,
+   "edited": false
+  },
+  "c272484a07": {
+   "story_id": "c272484a07",
+   "title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EZkczcV9hUm95V04xSFdMSjBueDNBNnVOQlBXMks4cnZFYmg4LVRwRGFwdUpQdHR6SzBTUDdoMTh0RnNLQTc3NmdiUllPS0RUTG5rSjhUWlZxWnhZWkJzc3QySnRDN1pnMlUyZg",
+   "category": "rates",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/forward-air-bolsters-freight-demand-amid-capacity-crackdown-c272484a07/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=c272484a07",
+   "caption": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-10T18:31:18.494004+00:00",
+   "published": "2026-11-10T18:25:00+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/9f4558c9e5.png",
+    "og:url": "https://haultimes.com/story/forward-air-bolsters-freight-demand-amid-capacity-crackdown-c272484a07/"
+   },
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": null,
@@ -991,7 +1053,9 @@
   "fbd702a75b": "posted|importance 67 (threshold 65), Industry, trade publication; waited 10 min in queue",
   "c2f3d704e3": "skipped|importance 61 is below this platform's threshold (65)",
   "715577ea7b": "skipped|importance 63 is below this platform's threshold (65)",
-  "diesel-2026-11-09": "posted|HaulTimes update"
+  "diesel-2026-11-09": "posted|HaulTimes update",
+  "094bf8c5ce": "queued|importance 78 (threshold 65), Fuel, trade publication",
+  "c272484a07": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
  },
  "decisions": [
   {
@@ -1938,16 +2002,30 @@
    "title": "Diesel prices, week of 2026-11-09",
    "action": "posted",
    "reason": "HaulTimes update: diesel; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-10T18:31:18.494004+00:00",
+   "story_id": "094bf8c5ce",
+   "title": "U.S. raises forecasts for 2027 gasoline and diesel prices",
+   "action": "queued",
+   "reason": "importance 78 (threshold 65), Fuel, trade publication"
+  },
+  {
+   "at": "2026-11-10T18:31:18.494004+00:00",
+   "story_id": "c272484a07",
+   "title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122100461415544428",
+  "post": "1476615495528085_122100478965544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122100461415544428",
-  "created": "2026-11-10T17:51:42+0000",
-  "at": "2026-11-10T18:01:20.585765+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122100478965544428",
+  "created": "2026-11-10T18:21:35+0000",
+  "at": "2026-11-10T18:31:18.494004+00:00"
  },
  "promo_i": 1
 }
