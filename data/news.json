@@ -4207,6 +4207,34 @@
   "kind": "news"
  },
  {
+  "id": "a5d79c7378",
+  "slug": "lafd-and-lacofd-battle-major-emergency-commercial-fire-overnight-a5d79c7378",
+  "title": "LAFD and LACoFD Battle Major Emergency Commercial Fire Overnight",
+  "orig_title": "LAFD and LACoFD Battle Major Emergency Commercial Fire Overnight",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Los Angeles Fire Department",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWU5OOEZlVGRFVGg0VnhZUS1wZ0lMWXZlamlxUlE0bkpPX0x4WWFMV241bkxHNng0NFo3N3F4WGVBb2xVR1VTZWxXZWc3Z19aWDVsVEtIZlBGQWg0d21oVlhoWlBuLTBKMF9yVEU0TkF4V2k4R3hDcHpjM3J0N0lyUUJvSEVaSHBlRV91MmNqbw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWU5OOEZlVGRFVGg0VnhZUS1wZ0lMWXZlamlxUlE0bkpPX0x4WWFMV241bkxHNng0NFo3N3F4WGVBb2xVR1VTZWxXZWc3Z19aWDVsVEtIZlBGQWg0d21oVlhoWlBuLTBKMF9yVEU0TkF4V2k4R3hDcHpjM3J0N0lyUUJvSEVaSHBlRV91MmNqbw",
+  "snippet": "LAFD and LACoFD Battle Major Emergency Commercial Fire Overnight | Los Angeles Fire Department Los Angeles Fire Department",
+  "published": "2026-11-09T20:04:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T21:31:05.286481+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "eb6db6c5c6",
   "slug": "truckers-warn-higher-insurance-mandates-could-push-small-carriers-out-eb6db6c5c6",
   "title": "Truckers Warn Higher Insurance Mandates Could Push Small Carriers Out of Business",
@@ -11649,28 +11677,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news"
- },
- {
-  "id": "997eee5473",
-  "slug": "soldiers-allegedly-shoot-sand-and-stone-tipper-truck-drivers-in-afieny-997eee5473",
-  "title": "Soldiers allegedly shoot Sand and Stone Tipper Truck drivers in Afienya",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "GhanaWeb",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjE1bnpoOU56eWhfYkVHU0R3WE1CZVhweFJnTDdrSmtNTnN2eDViSkJ2N3VCMW9MNkVrVmYwbzlPam0wWjNXcUZzVW9pdVhKWXN0eUE2OVU2U09USnVqVnBHUF80V2s4RVJyMnNaZ25tWVVUZkNqajBDMVh5Sm1KblVrWTQ1VUdXZXpuMlRBUzAtYjdsem5iWVNUbWwyTEstbG01V1FqNWZQT0dhcVpLSFlrWFVlMmZkSkVjMlR6TEFNRXJZRGlwOXNRaVExNHBWbGZmRGVPYw?oc=5",
-  "published": "2026-11-06T21:27:45+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Soldiers allegedly shoot Sand and Stone Tipper Truck drivers in Afienya",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
-  ],
-  "labels": [],
-  "kind": "rejected"
  },
  {
   "id": "ac8ee3dd07",
