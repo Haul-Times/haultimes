@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:11:06.477926+00:00",
+ "updated": "2026-11-10T19:21:05.939340+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": 10,
     "lanes": "5",
-    "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "status": "delay",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -38,7 +38,7 @@
      9,
      1,
      0,
-     0,
+     5,
      null,
      null,
      null,
@@ -113,7 +113,7 @@
      59,
      55,
      45,
-     48,
+     52,
      null,
      null,
      null,
@@ -226,7 +226,7 @@
      null
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 3 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 2:00 pm EST",
+    "status": "no delay",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -263,7 +263,7 @@
      0,
      0,
      2,
-     5,
+     3,
      null,
      null,
      null,
@@ -289,7 +289,7 @@
      6,
      6,
      12,
-     6,
+     5,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -338,7 +338,7 @@
      0,
      0,
      4,
-     9,
+     6,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "14:10:06",
+    "updated": "14:15:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:10:06",
+    "updated": "14:15:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:00 am PST",
+    "updated": "At 11:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 1 AM",
-   "best_north": "Usually fastest around 12 AM"
+   "best_north": "Usually fastest around 2 PM"
   },
   {
    "id": "sumas",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:10:06",
+    "updated": "11:15:07",
     "hours": "24 hrs/day"
    },
    "north": {
