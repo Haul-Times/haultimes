@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:11:03.360446+00:00",
+ "updated": "2026-11-10T21:21:05.756763+00:00",
  "hour_now": 16,
  "have_us": true,
  "have_ca": true,
@@ -40,7 +40,7 @@
      0,
      11,
      21,
-     33,
+     35,
      null,
      null,
      null,
@@ -115,7 +115,7 @@
      45,
      57,
      60,
-     47,
+     42,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -291,7 +291,7 @@
      12,
      4,
      9,
-     11,
+     12,
      null,
      null,
      null,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 20,
+    "wait": 19,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -340,7 +340,7 @@
      4,
      2,
      2,
-     17,
+     18,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "16:10:19",
+    "updated": "16:20:20",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:10:19",
+    "updated": "16:20:20",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At Noon CST",
+    "updated": "At 3:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1334,7 +1334,7 @@
      5,
      5,
      5,
-     10,
+     12,
      null,
      null,
      null,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "13:10:20",
+    "updated": "13:20:20",
     "hours": "24 hrs/day"
    },
    "north": {
