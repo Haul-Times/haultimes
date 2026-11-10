@@ -7727,50 +7727,6 @@
   "kind": "rejected"
  },
  {
-  "id": "f2059d210c",
-  "slug": "trucking-defence-archives-f2059d210c",
-  "title": "trucking defence Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TdFI5SzBjUFBWcEdsRzZHaXZwTmtwakJmUTVld3R2WkNtWnQ1T3lweDhZcVEtM1ktc1J2bHIzcnBrVFVnRHdlZlhQVVFZRGtUVloxYmpOS29iZzhFMXd2TA?oc=5",
-  "published": "2026-11-06T08:00:00+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "trucking defence Archives",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected"
- },
- {
-  "id": "3e78d8c804",
-  "slug": "trucking-policy-archives-3e78d8c804",
-  "title": "trucking policy Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0THl6S3BsbGR4bHRjTjN6endER0dQUW5DdXJycDI3QjZ0NnItSElub0UwQzJZLWkzaVRvSVZVTHBWUXFUTldDWVZvUnNCSGh3c1JQVmxZYUthbGlTaFU0?oc=5",
-  "published": "2026-11-06T08:00:00+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "trucking policy Archives",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected"
- },
- {
   "id": "edb45ea268",
   "slug": "devine-archives-edb45ea268",
   "title": "Devine Archives",
