@@ -1,5 +1,29 @@
 [
  {
+  "id": "573d91d7eb",
+  "slug": "fmcsa-enhances-complaint-center-to-improve-safety-reporting-573d91d7eb",
+  "title": "FMCSA enhances complaint center to improve safety reporting",
+  "orig_title": "FMCSA enhances complaint center to improve safety reporting",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 73,
+  "source": "FleetOwner",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVYxbVNoaGIzendzZXYyand2cDBQcC14WDdkS0F0ZHZfZkJUTmRTSnpaVXRuUjJtaWJyOHBvdlZxd0EzWmNlTm93dTE2aTlIVFpPaC1xNjEwV19Zb1B1WmUyT1dRcWx1UDJiMmlkOTRoRmNaVmhPem5GWE0xVm40cEllOV9kUzhHVk1FY3N2N0JaQWZLcGJrZGJDMy1IWU81VWJUTkNOdkNBS0FZcHVLMDNvNDZLTWxqMXhJdTJGdjdPR0lfWHcwbkJObHo?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVYxbVNoaGIzendzZXYyand2cDBQcC14WDdkS0F0ZHZfZkJUTmRTSnpaVXRuUjJtaWJyOHBvdlZxd0EzWmNlTm93dTE2aTlIVFpPaC1xNjEwV19Zb1B1WmUyT1dRcWx1UDJiMmlkOTRoRmNaVmhPem5GWE0xVm40cEllOV9kUzhHVk1FY3N2N0JaQWZLcGJrZGJDMy1IWU81VWJUTkNOdkNBS0FZcHVLMDNvNDZLTWxqMXhJdTJGdjdPR0lfWHcwbkJObHo",
+  "snippet": "FMCSA enhances complaint center to improve safety reporting FleetOwner",
+  "published": "2026-11-10T13:17:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T13:21:03.277492+00:00",
+  "image": "",
+  "ai": false,
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news"
+ },
+ {
   "id": "7fca7057c6",
   "slug": "smuggled-cigarettes-nbi-files-cases-against-13-people-over-13b-haul-7fca7057c6",
   "title": "Smuggled cigarettes: NBI files cases against 13 people over ₱13B haul",
@@ -377,6 +401,32 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
+  "id": "530b9af392",
+  "slug": "i-can-feel-their-heart-silver-cross-mother-offers-condolences-over-wai-530b9af392",
+  "title": "'I can feel their heart': Silver Cross mother offers condolences over Wainwright",
+  "orig_title": "'I can feel their heart': Silver Cross mother offers condolences over Wainwright",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "thecanadianpressnews.ca",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV0pWcEdrQ3VaSVptTzFLQjA5ZWdESDc5a3JIeExRM1FtX2FYOWtwcXEzV2V5NnVGbHNvSGhXZzVJQ3laVXotT2RQSUpGWkttVHpnaHJJTkZlcjlWenVqb183RzFuYTlvazNUQmxIeGx0aHFXcXFQZUliaEtLOWRSQ3RaTFlCMVlfVEJ3Vk02dl80TUhPeUdEaG5fZE5iSV80ZlRIOUhOeVQ0eGg3MWx6cUR2eW9obmRrbjREamE4aWhJZ0VOTDNjWHVDRUlMRXN0QS1PZDRwaXMyaWh3ampYN2JqV2xUYk53YjNidWZ0WTJhcVJiQWJyZ2Zad2NVUlVtZmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV0pWcEdrQ3VaSVptTzFLQjA5ZWdESDc5a3JIeExRM1FtX2FYOWtwcXEzV2V5NnVGbHNvSGhXZzVJQ3laVXotT2RQSUpGWkttVHpnaHJJTkZlcjlWenVqb183RzFuYTlvazNUQmxIeGx0aHFXcXFQZUliaEtLOWRSQ3RaTFlCMVlfVEJ3Vk02dl80TUhPeUdEaG5fZE5iSV80ZlRIOUhOeVQ0eGg3MWx6cUR2eW9obmRrbjREamE4aWhJZ0VOTDNjWHVDRUlMRXN0QS1PZDRwaXMyaWh3ampYN2JqV2xUYk53YjNidWZ0WTJhcVJiQWJyZ2Zad2NVUlVtZmc",
+  "snippet": "'I can feel their heart': Silver Cross mother offers condolences over Wainwright thecanadianpressnews.ca",
+  "published": "2026-11-10T09:00:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T13:21:03.277492+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected"
@@ -852,6 +902,32 @@
   "status": "rejected",
   "reasons": [
    "stock commentary, no trucking development"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
+  "id": "bf1e6fe508",
+  "slug": "ottawa-extends-tariff-relief-program-for-firms-importing-u-s-goods-bf1e6fe508",
+  "title": "Ottawa extends tariff relief program for firms importing U.S. goods",
+  "orig_title": "Ottawa extends tariff relief program for firms importing U.S. goods",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzlpT3M2WTZ0YjlOeG9hYUoyVDZrTjRhbEFRcWdhWU44a1FZb05tTmVsdi1mNkE1di1pRUtpUGt4SWpDWnVnWi0zdzNFZnY1MXRqaTVnX3J6SEd3c05wRnIxWUpXMm0xVFo2V1dDMTBSTmc4eDFOdWJhQThsSGs3bkNpaw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzlpT3M2WTZ0YjlOeG9hYUoyVDZrTjRhbEFRcWdhWU44a1FZb05tTmVsdi1mNkE1di1pRUtpUGt4SWpDWnVnWi0zdzNFZnY1MXRqaTVnX3J6SEd3c05wRnIxWUpXMm0xVFo2V1dDMTBSTmc4eDFOdWJhQThsSGs3bkNpaw",
+  "snippet": "Ottawa extends tariff relief program for firms importing U.S. goods The Globe and Mail",
+  "published": "2026-11-09T22:30:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T13:21:03.277492+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected"
@@ -2420,6 +2496,32 @@
    "Company announcement"
   ],
   "kind": "announcement"
+ },
+ {
+  "id": "ab55c44bbc",
+  "slug": "quebec-prepares-to-weigh-in-on-race-to-lead-international-francophonie-ab55c44bbc",
+  "title": "Quebec prepares to weigh in on race to lead international Francophonie organization",
+  "orig_title": "Quebec prepares to weigh in on race to lead international Francophonie organization",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "thecanadianpressnews.ca",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQlV6N1JUQVhUdkl0ZlNJLVRYUG9kc2t5eHZGcy1wTU1aZTVmRFE4S2N5SjRnblJ3c3hhSE1uSUpQSDAweUcwOG5pbFYzazRjMlpKM05OaVFQdC1DZlRJa1BtMU1uYTREN2RmcnZxaEoySWxjbW1IUG5HUkJ6S3dMY1A0N01NQUc2TUlXcE5IckZDYmNwOE4xaGNGVUJ3TzBRM291RTBlREZPRGh1MXU1RUk4RzJwcTkwX09UZWIySHAxQ3huTW9Id3IwSmtzeHFVM2xqWlRwMGp4V2Znbm1pTnk0UTJnMXVqUjY4M2M0VzhGTmR6UG41MFlOQ0ROVVh1Z19keldTbGY5QQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQlV6N1JUQVhUdkl0ZlNJLVRYUG9kc2t5eHZGcy1wTU1aZTVmRFE4S2N5SjRnblJ3c3hhSE1uSUpQSDAweUcwOG5pbFYzazRjMlpKM05OaVFQdC1DZlRJa1BtMU1uYTREN2RmcnZxaEoySWxjbW1IUG5HUkJ6S3dMY1A0N01NQUc2TUlXcE5IckZDYmNwOE4xaGNGVUJ3TzBRM291RTBlREZPRGh1MXU1RUk4RzJwcTkwX09UZWIySHAxQ3huTW9Id3IwSmtzeHFVM2xqWlRwMGp4V2Znbm1pTnk0UTJnMXVqUjY4M2M0VzhGTmR6UG41MFlOQ0ROVVh1Z19keldTbGY5QQ",
+  "snippet": "Quebec prepares to weigh in on race to lead international Francophonie organization thecanadianpressnews.ca",
+  "published": "2026-11-09T16:39:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T13:21:03.277492+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
  },
  {
   "id": "863880f5c4",

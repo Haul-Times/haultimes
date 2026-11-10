@@ -544,6 +544,33 @@
    "edited": false,
    "last_attempt_at": "2026-11-10T13:11:13.040276+00:00",
    "post_url": "https://www.facebook.com/1476615495528085_122100246609544428"
+  },
+  "573d91d7eb": {
+   "story_id": "573d91d7eb",
+   "title": "FMCSA enhances complaint center to improve safety reporting",
+   "url_key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVYxbVNoaGIzendzZXYyand2cDBQcC14WDdkS0F0ZHZfZkJUTmRTSnpaVXRuUjJtaWJyOHBvdlZxd0EzWmNlTm93dTE2aTlIVFpPaC1xNjEwV19Zb1B1WmUyT1dRcWx1UDJiMmlkOTRoRmNaVmhPem5GWE0xVm40cEllOV9kUzhHVk1FY3N2N0JaQWZLcGJrZGJDMy1IWU81VWJUTkNOdkNBS0FZcHVLMDNvNDZLTWxqMXhJdTJGdjdPR0lfWHcwbkJObHo",
+   "category": "regs",
+   "source": "FleetOwner",
+   "dest": "https://haultimes.com/story/fmcsa-enhances-complaint-center-to-improve-safety-reporting-573d91d7eb/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=573d91d7eb",
+   "caption": "FMCSA enhances complaint center to improve safety reporting.\n\nReported by FleetOwner. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-10T13:21:12.744280+00:00",
+   "published": "2026-11-10T13:17:16+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "FMCSA enhances complaint center to improve safety reporting | HaulTimes",
+    "og:description": "Reported by FleetOwner. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/668272426b.png",
+    "og:url": "https://haultimes.com/story/fmcsa-enhances-complaint-center-to-improve-safety-reporting-573d91d7eb/"
+   },
+   "reason": "importance 73 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": null,
@@ -681,7 +708,8 @@
   "f636d43c1f": "skipped|importance 45 is below this platform's threshold (65)",
   "33c96b704c": "skipped|importance 45 is below this platform's threshold (65)",
   "ab4bacf873": "skipped|minor item (event) or low-quality source",
-  "81d1dd3fe9": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
+  "81d1dd3fe9": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
+  "573d91d7eb": "queued|importance 73 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -1390,6 +1418,13 @@
    "title": "Covenant Q3: Expedited Unit Shifts to Committed Capacity",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-10T13:21:12.744280+00:00",
+   "story_id": "573d91d7eb",
+   "title": "FMCSA enhances complaint center to improve safety reporting",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Regulations, trade publication"
   }
  ]
 }
