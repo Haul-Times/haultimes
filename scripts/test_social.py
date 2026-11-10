@@ -29,7 +29,7 @@ def story(i, title, source="Truck News", hours=1, score=75, cat="regs", **kw):
 
 
 def cfg(**kw):
-    c = dict(so.DEFAULTS["facebook"], skip=[], publish_now=[], captions={}, min_score=60, topic_gap_hours=0, house_posts=False)
+    c = dict(so.DEFAULTS["facebook"], skip=[], publish_now=[], captions={}, min_score=60, topic_gap_hours=0, house_posts=False, settle_minutes=0)
     c.update(kw)
     return c
 
@@ -571,7 +571,12 @@ class HousePosts(unittest.TestCase):
         st = so.new_state()
         c = cfg(house_posts=True, promo_every_days=3, hours=[0, 24])
         t0 = datetime(2026, 11, 10, 16, tzinfo=timezone.utc)   # 11 a.m. Eastern
-        with mock.patch.object(so, "load_json", side_effect=lambda name, d=None: {} if name != "news.json" else []):
+        site = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, site)
+        saved = {}
+        with mock.patch.object(so, "load_json", side_effect=lambda name, d=None: saved.get(name, {} if name != "news.json" else [])), \
+                mock.patch.object(so, "save_json", side_effect=lambda name, v: saved.__setitem__(name, v)), \
+                mock.patch.object(so, "SITE", site):
             so.queue_house("facebook", c, st, t0)
             so.queue_house("facebook", c, st, t0 + timedelta(days=1))
             so.queue_house("facebook", c, st, t0 + timedelta(days=3))
@@ -579,7 +584,20 @@ class HousePosts(unittest.TestCase):
         self.assertEqual(len(promos), 2)
         self.assertNotEqual(promos[0]["caption"], promos[1]["caption"])
         self.assertIn("#Trucking", promos[0]["caption"])
-        self.assertIn("/freight-market/?utm_source=facebook", promos[0]["dest"])
+        # Each promo links to its own share page (own picture), which forwards to the Freight Market.
+        self.assertIn("/s/promo-20261110/?utm_source=facebook", promos[0]["dest"])
+        page = open(os.path.join(site, "s", "promo-20261110", "index.html")).read()
+        self.assertIn('og:image" content="https://haultimes.com/s/promo-20261110/', page)
+        self.assertIn('location.replace("/freight-market/" + location.search + "#chk")', page)
+        self.assertEqual(saved["share.json"]["promo-20261110"]["target"], "/freight-market/#chk")
+        self.assertEqual(len([f for f in os.listdir(os.path.join(site, "s", "promo-20261110")) if f.endswith(".png")]), 1)
+
+    def test_new_items_wait_for_the_site_to_publish(self):
+        st = so.new_state()
+        so._house_item(st, NOW, "promo-y", "Freight Market reminder", "text", "https://haultimes.com/freight-market/", 90, "promo")
+        c = cfg(settle_minutes=10)
+        self.assertIsNone(so.next_item(c, st, NOW + timedelta(minutes=2), True, True, "facebook"))
+        self.assertEqual(so.next_item(c, st, NOW + timedelta(minutes=11), True, True, "facebook")["story_id"], "promo-y")
 
     def test_house_posts_survive_refresh_but_expire(self):
         st = so.new_state()

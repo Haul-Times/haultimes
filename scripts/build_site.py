@@ -15,7 +15,7 @@ from email.utils import format_datetime
 
 import editorial
 import market_page
-from common import CATEGORIES, IMAGES, SITE, STATIC, load_config, load_json
+from common import CATEGORIES, IMAGES, SITE, STATIC, load_config, load_json, save_json
 
 try:
     from zoneinfo import ZoneInfo
@@ -459,6 +459,40 @@ def build_topic(key, stories, all_stories):
     write("/topic/%s/" % slug, "".join(page))
 
 
+def story_card(s):
+    """Share picture for a story: topic, headline and publisher in HaulTimes' own style."""
+    if "_card" not in s:
+        if NOW - datetime.fromisoformat(s["published"]) > timedelta(days=4) or s.get("importance", 0) < 60:
+            s["_card"] = None   # only stories that may be posted get a picture (keeps the repository small)
+            return None
+        try:
+            import cards
+            s["_card"] = cards.write_card(SITE, "og", {"type": "news", "kicker": cat_label(s["category"]),
+                                                       "headline": s["title"], "source": s["source"]})
+        except Exception as e:  # a missing font or library must never stop the site build
+            print("share image failed:", s.get("id"), e)
+            s["_card"] = None
+    return s["_card"]
+
+
+def build_shares():
+    """Pages behind HaulTimes' own Facebook posts (diesel, border, Freight Market), each with its picture."""
+    shares = load_json("share.json", {})
+    keep = {k: v for k, v in shares.items() if NOW - datetime.fromisoformat(v["created"]) < timedelta(days=21)}
+    if keep != shares:
+        save_json("share.json", keep)
+    try:
+        import cards
+    except Exception as e:
+        print("share pages skipped:", e)
+        return
+    for hid, entry in keep.items():
+        try:
+            cards.write_share(SITE, BASE, hid, entry)
+        except Exception as e:
+            print("share page failed:", hid, e)
+
+
 def build_story(s, stories):
     """The story's own HaulTimes page. Publisher and the link to the original article are
     right under the headline, so a reader arriving from Facebook, X or our homepage
@@ -478,7 +512,7 @@ def build_story(s, stories):
     else:
         body_text = ('<p class="note">HaulTimes lists this headline and links to the original reporting. '
                      'The story was reported by %s, not by HaulTimes.</p>' % pub)
-    img = BASE + "/" + s["image"] if s.get("image") else STORY_IMG
+    img = BASE + "/" + s["image"] if s.get("image") else (BASE + story_card(s) if story_card(s) else STORY_IMG)
     body = """<main class="wrap"><div class="story"><article id="story-{sid}">
 <a class="kicker" href="{cu}">{cl}</a>
 <h1 class="h-xl">{t}</h1>
@@ -753,6 +787,7 @@ def main():
         shutil.copytree(IMAGES, os.path.join(SITE, "images"))
 
     build_home(stories, border)
+    build_shares()
     for key in CATEGORIES:
         build_topic(key, stories, stories)
     for s in stories:

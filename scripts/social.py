@@ -53,11 +53,11 @@ DEFAULTS = {
     "facebook": {"mode": "dry_run", "min_gap_minutes": 90, "hours": [7, 21], "min_score": 70,
                  "max_age_hours": 12, "topic_gap_hours": 4, "breaking_score": 85, "breaking_max_age_hours": 3,
                  "breaking_min_gap_minutes": 10, "house_posts": True, "promo_every_days": 3,
-                 "border_alert_minutes": 90},
+                 "border_alert_minutes": 90, "settle_minutes": 10},
     "x": {"mode": "dry_run", "min_gap_minutes": 30, "hours": [6, 22], "min_score": 60,
           "max_age_hours": 8, "topic_gap_hours": 0, "breaking_score": 85, "breaking_max_age_hours": 3,
                  "breaking_min_gap_minutes": 10, "house_posts": False, "promo_every_days": 3,
-                 "border_alert_minutes": 90},
+                 "border_alert_minutes": 90, "settle_minutes": 10},
 }
 MAX_ATTEMPTS = 5
 
@@ -463,6 +463,47 @@ PROMOS = [
 ]
 
 
+# Picture text for each PROMOS entry (same order): headline, one line, chips.
+PROMO_CARDS = [
+    ("Is that load offer fair?", "Check any lane against what carriers reported this week.",
+     ["Dry van", "Reefer", "Flatbed", "Step deck"]),
+    ("How's your market this week?", "Hot, normal or slow? One tap adds to the live load-market map.",
+     ["Hot", "Normal", "Slow"]),
+    ("Hauled a load this week?", "Share the rate anonymously. Every report makes each lane clearer.",
+     ["No name", "No email", "US & Canada"]),
+    ("See what your lane is paying", "Typical all-in rates from real carrier and broker reports.",
+     ["Dry van", "Reefer", "Flatbed", "Step deck"]),
+]
+
+
+def diesel_card(e, o=None):
+    from fetch_market import EIA_REGIONS
+    names = {k: label for k, label, _ in EIA_REGIONS}
+    p, prev = e["prices"], e.get("prev_prices") or {}
+    card = {"type": "stat", "kicker": "Diesel · week of %s" % datetime.fromisoformat(e["week"]).strftime("%b %-d"),
+            "big": _money(p["US"]), "label": "US average per gallon (US Energy Information Administration)",
+            "footer": "Weekly diesel prices · US & Canada", "details": []}
+    if prev.get("US"):
+        d = round((p["US"] - prev["US"]) * 100)
+        if d:
+            card.update(change="%d¢" % abs(d), dir="up" if d > 0 else "down")
+    regional = {k: v for k, v in p.items() if k in ("1A", "1B", "1C", "2", "3", "4", "5XCA", "CA")}
+    if len(regional) >= 3:
+        hi, lo = max(regional, key=regional.get), min(regional, key=regional.get)
+        card["details"] += [("Highest", "%s %s" % (names[hi], _money(regional[hi]))),
+                            ("Lowest", "%s %s" % (names[lo], _money(regional[lo])))]
+    if o and o.get("prices"):
+        k = next((k for k in o["prices"] if "average" in k.lower()), None)
+        if k:
+            card["details"].append(("Ontario", "%.1f¢/L" % o["prices"][k]))
+    return card
+
+
+def _dur(m):
+    h, mm = divmod(int(round(m)), 60)
+    return ("%d h %d min" % (h, mm) if mm else "%d h" % h) if h else "%d min" % mm
+
+
 def _site():
     return load_config()["site_url"].rstrip("/")
 
@@ -474,6 +515,25 @@ def _house_dest(platform, path, campaign):
         path, frag = path.split("#", 1)
         frag = "#" + frag
     return "%s%s?%s%s" % (_site(), path, q, frag)
+
+
+def _house_share(platform, hid, target, campaign, title, desc, card, now):
+    """Share page + image for a house post (so each post has its own picture). Falls back to the plain page."""
+    plain = _house_dest(platform, target, campaign)
+    if not card:
+        return plain
+    try:
+        import cards
+        entry = {"title": title, "desc": desc, "card": card, "target": target, "created": now.isoformat()}
+        shares = load_json("share.json", {})
+        shares[hid] = entry
+        save_json("share.json", shares)
+        cards.write_share(SITE, _site(), hid, entry)
+    except Exception as e:  # never let a picture problem stop the post
+        print("share card failed for %s: %s" % (hid, e))
+        return plain
+    q = urllib.parse.urlencode({"utm_source": platform, "utm_medium": "organic_social", "utm_campaign": campaign})
+    return "%s/s/%s/?%s" % (_site(), hid, q)
 
 
 def _house_item(st, now, hid, title, caption, dest, score, kind):
@@ -537,7 +597,17 @@ def border_alerts(border, minutes):
                     % (c["name"], c.get("ports", "").replace("↔", "-"), wait, into, agency,
                        (", against a usual %d min at this hour" % usual) if usual is not None else ""))
             out.append(("%s-%s" % (c["id"], side), text))
+            border_alerts.info[out[-1][0]] = {
+                "type": "stat", "kicker": "Border delay", "big": _dur(w),
+                "label": "%s (%s), trucks entering %s" % (c["name"], c.get("ports", "").replace("↔", "–"), into),
+                "details": ([("Usual at this hour", _dur(usual))] if usual is not None else []) + [("Source", agency)],
+                "footer": "Live truck border waits"}
+            if usual is not None:
+                border_alerts.info[out[-1][0]].update(change="+" + _dur(w - usual), dir="up")
     return out
+
+
+border_alerts.info = {}
 
 
 def queue_house(platform, cfg, st, now):
@@ -553,8 +623,12 @@ def queue_house(platform, cfg, st, now):
     if e.get("status") == "ok" and (e.get("prices") or {}).get("US") and e.get("parser") and in_hours and local.hour >= 10:
         hid = "diesel-%s" % e["week"]
         if hid not in items:
-            _house_item(st, now, hid, "Diesel prices, week of %s" % e["week"], diesel_caption(e, o),
-                        _house_dest(platform, "/freight-market/#fuel-h", "diesel"), cfg["min_score"] + 10, "diesel")
+            cap = diesel_caption(e, o)
+            _house_item(st, now, hid, "Diesel prices, week of %s" % e["week"], cap,
+                        _house_share(platform, hid, "/freight-market/#fuel-h", "diesel",
+                                     "US & Canada diesel prices: week of %s" % datetime.fromisoformat(e["week"]).strftime("%B %-d"),
+                                     cap.split("\n\n")[0], diesel_card(e, o), now),
+                        cfg["min_score"] + 10, "diesel")
             added += 1
     # border delays (any hour: a 3 a.m. delay matters to drivers too)
     border = load_json("border.json", {})
@@ -565,7 +639,9 @@ def queue_house(platform, cfg, st, now):
             continue
         hid = "border-%s-%s" % (key, local.strftime("%Y%m%d%H"))
         _house_item(st, now, hid, text[:90], text + "\n\nLive waits at every crossing on HaulTimes.\n\n#CrossBorder #Trucking",
-                    _house_dest(platform, "/border-wait-times/", "border"), cfg.get("breaking_score", 85), "border")
+                    _house_share(platform, hid, "/border-wait-times/", "border", "Truck border delay", text,
+                                 border_alerts.info.get(key), now),
+                    cfg.get("breaking_score", 85), "border")
         items[hid]["breaking"] = "unusual border delay"
         added += 1
     # Freight Market reminder
@@ -577,8 +653,12 @@ def queue_house(platform, cfg, st, now):
             text, tags, anchor = PROMOS[i]
             st["promo_i"] = i + 1
             hid = "promo-%s" % local.strftime("%Y%m%d")
+            head, sub, chips = PROMO_CARDS[i]
             _house_item(st, now, hid, "Freight Market reminder", text + "\n\n" + tags,
-                        _house_dest(platform, "/freight-market/" + anchor, "freight_market"), cfg["min_score"], "promo")
+                        _house_share(platform, hid, "/freight-market/" + anchor, "freight_market",
+                                     "HaulTimes Freight Market: " + head, text,
+                                     {"type": "promo", "kicker": "Freight Market", "headline": head, "sub": sub, "chips": chips}, now),
+                        cfg["min_score"], "promo")
             added += 1
     return added
 
@@ -656,6 +736,9 @@ def next_item(cfg, st, now, open_routine=True, open_breaking=None, platform="x")
     ready = [r for r in st["items"].values() if r["status"] == "queued"
              and (not r.get("next_attempt_at") or datetime.fromisoformat(r["next_attempt_at"]) <= now)]
     forced = [r for r in ready if r["story_id"] in cfg["publish_now"]]
+    # Give the site time to publish the page and its share image before Facebook reads it.
+    settle = timedelta(minutes=cfg.get("settle_minutes") or 0)
+    ready = [r for r in ready if now - datetime.fromisoformat(r["created_at"]) >= settle]
     if forced:
         return forced[0]
     breaking = [r for r in ready if r.get("breaking")]
