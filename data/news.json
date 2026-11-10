@@ -1,5 +1,59 @@
 [
  {
+  "id": "a3df1e5254",
+  "slug": "superior-reports-third-quarter-2026-results-including-record-q3-adjust-a3df1e5254",
+  "title": "Superior Reports Third Quarter 2026 Results, Including Record Q3 Adjusted EBITDA in CNG",
+  "orig_title": "Superior Reports Third Quarter 2026 Results, Including Record Q3 Adjusted EBITDA in CNG",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS1htSjNld09KYzZYY2NDX20wLVR1OWVqZjd3QXFtU0RGYU9tNmZpb1JfNF9WNnk5dTM5LUQwcHRKV0VRQ1lUeTVzeFhkVWVhd1YwM0FOMnJ2NC13V0tjaEdMelNfTzdLOUdUYmsyRndlSU1Dc3NPblVFbGVZa0g1VklfVjlGLUNwRVhORGlId0FQNTNFNFktclBDcmNLRjZFUTFNNWFSOXlhVk9pWS1ZalBNWC0taVpDa0F1SjhrQ09oSUw1clRUV1lJcXRueVc0LTZocEhXRms4LUhhR0lpZzJKNHJQSmdCZkVtLUFuZURFdnJlRmhQNm1kUVB4cVNYS1VWeg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS1htSjNld09KYzZYY2NDX20wLVR1OWVqZjd3QXFtU0RGYU9tNmZpb1JfNF9WNnk5dTM5LUQwcHRKV0VRQ1lUeTVzeFhkVWVhd1YwM0FOMnJ2NC13V0tjaEdMelNfTzdLOUdUYmsyRndlSU1Dc3NPblVFbGVZa0g1VklfVjlGLUNwRVhORGlId0FQNTNFNFktclBDcmNLRjZFUTFNNWFSOXlhVk9pWS1ZalBNWC0taVpDa0F1SjhrQ09oSUw1clRUV1lJcXRueVc0LTZocEhXRms4LUhhR0lpZzJKNHJQSmdCZkVtLUFuZURFdnJlRmhQNm1kUVB4cVNYS1VWeg",
+  "snippet": "Superior Reports Third Quarter 2026 Results, Including Record Q3 Adjusted EBITDA in CNG The Globe and Mail",
+  "published": "2026-11-10T22:17:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T22:31:04.256664+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
+  "id": "3cce4b6a98",
+  "slug": "1-in-6-supply-chain-professionals-report-ai-related-data-exposure-surv-3cce4b6a98",
+  "title": "1 in 6 supply chain professionals report AI-related data exposure, survey finds",
+  "orig_title": "1 in 6 supply chain professionals report AI-related data exposure, survey finds",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 61,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHc3LVRQVUhPbnA5cmJLUl9ZbGlNRmwwTWo5bUJVRTdiWVlrY0c0Vm5YS1kxOTc2aWZWejJmOGgxa2l5eDBUXzE3QkV2aXUwb0p0NUtKalZnZ29pbXBnWHppOE14eFNhOGp1QlR4bGhmd2M1dEp0RVdOeEZ5MUFpYnRKcUEzeGV6Z3dvSE9CWTdXV1pIS05oeDIyVG52eVZaaWR4OXVzVDY5UGRfNDJiZDBB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHc3LVRQVUhPbnA5cmJLUl9ZbGlNRmwwTWo5bUJVRTdiWVlrY0c0Vm5YS1kxOTc2aWZWejJmOGgxa2l5eDBUXzE3QkV2aXUwb0p0NUtKalZnZ29pbXBnWHppOE14eFNhOGp1QlR4bGhmd2M1dEp0RVdOeEZ5MUFpYnRKcUEzeGV6Z3dvSE9CWTdXV1pIS05oeDIyVG52eVZaaWR4OXVzVDY5UGRfNDJiZDBB",
+  "snippet": "1 in 6 supply chain professionals report AI-related data exposure, survey finds FreightWaves",
+  "published": "2026-11-10T22:15:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T22:31:04.256664+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news"
+ },
+ {
   "id": "9b09ae420c",
   "slug": "trucks-busted-loaded-with-cocaine-liquid-meth-at-borders-9b09ae420c",
   "title": "Trucks busted loaded with cocaine, liquid meth at borders",
@@ -11681,28 +11735,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected"
- },
- {
-  "id": "db82dec0f4",
-  "slug": "fareway-iowa-farm-bureau-deliver-truckload-of-protein-to-food-bank-of-db82dec0f4",
-  "title": "Fareway, Iowa Farm Bureau deliver truckload of protein to Food Bank of Iowa",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Globe Gazette",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0wyYWJyZ0oxeG1YaENtdDdtTlIzdUxJNUd1R1BPOFcxWTlvZEUtbWtrWE1HRzhaUkVPcGZidHY2b2k2TnN5Nzk2T2dOWGt5aTZqb3NsRkFWWUZvdWlzOWw5TEdkU0hfTmRGT21YUmRlNnpsWEY1NHFHZWlEcGV4QXZsLUJzT3gxZWtEODNlYkpoTWVWQUNlaWx3?oc=5",
-  "published": "2026-11-06T22:30:00+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Fareway, Iowa Farm Bureau deliver truckload of protein to Food Bank of Iowa",
-  "status": "rejected",
-  "reasons": [
-   "'truckload' used as an expression, not freight news"
   ],
   "labels": [],
   "kind": "rejected"
