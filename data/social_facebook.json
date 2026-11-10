@@ -912,7 +912,15 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-10T19:21:26.459815+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122100514407544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122100514407544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122100514407544428",
+    "created": "2026-11-10T19:21:26+0000",
+    "at": "2026-11-10T19:31:17.651406+00:00"
+   }
   }
  },
  "paused": null,
@@ -1118,7 +1126,8 @@
   "094bf8c5ce": "posted|importance 78 (threshold 65), Fuel, trade publication; waited 10 min in queue",
   "c272484a07": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 29 min in queue",
   "4189f03da5": "skipped|importance 45 is below this platform's threshold (65)",
-  "c35e0010a1": "posted|importance 65 (threshold 65), Rates & Market, local/other outlet; waited 10 min in queue"
+  "c35e0010a1": "posted|importance 65 (threshold 65), Rates & Market, local/other outlet; waited 10 min in queue",
+  "4b917c17f1": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2114,16 +2123,23 @@
    "title": "DAT: Van spot rate rises to $3.05 a mile, highest since early 2022",
    "action": "posted",
    "reason": "importance 65 (threshold 65), Rates & Market, local/other outlet; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-10T19:31:17.651406+00:00",
+   "story_id": "4b917c17f1",
+   "title": "Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122100502563544428",
+  "post": "1476615495528085_122100514407544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122100502563544428",
-  "created": "2026-11-10T19:00:44+0000",
-  "at": "2026-11-10T19:11:19.285258+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122100514407544428",
+  "created": "2026-11-10T19:21:26+0000",
+  "at": "2026-11-10T19:31:17.651406+00:00"
  },
  "promo_i": 1
 }
