@@ -160,6 +160,34 @@
   "kind": "review"
  },
  {
+  "id": "06e4d2b188",
+  "slug": "brightstar-lottery-brsl-q3-2026-earnings-call-transcript-06e4d2b188",
+  "title": "Brightstar Lottery (BRSL) Q3 2026 Earnings Call Transcript",
+  "orig_title": "Brightstar Lottery (BRSL) Q3 2026 Earnings Call Transcript",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZklZQjZxVU1rWXJPbUtrMjVsbW9kYXdiUnRQWl9JQVF6OEliSmdJYlBxdm9wN25ZeDh2Sjc2UzR4UFo3Nm5zU0ZFX2ltUVdXWjUxQ3lyVmhndlBmb05ZcUtzUUxCVDg5dXphWU1idHR2cnVhVkQ0OVE2ZXg2YjFnRUhoRXhOUkxvTnYzbERUTWd0RGd5ZGpSOTBKTFdadDY2N0R2dTlBeFo5TU91clhLcS0tc0lieW9wZnlBTUxDbTM1WDh4VkhQWlBfbnhibVQ1?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZklZQjZxVU1rWXJPbUtrMjVsbW9kYXdiUnRQWl9JQVF6OEliSmdJYlBxdm9wN25ZeDh2Sjc2UzR4UFo3Nm5zU0ZFX2ltUVdXWjUxQ3lyVmhndlBmb05ZcUtzUUxCVDg5dXphWU1idHR2cnVhVkQ0OVE2ZXg2YjFnRUhoRXhOUkxvTnYzbERUTWd0RGd5ZGpSOTBKTFdadDY2N0R2dTlBeFo5TU91clhLcS0tc0lieW9wZnlBTUxDbTM1WDh4VkhQWlBfbnhibVQ1",
+  "snippet": "Brightstar Lottery (BRSL) Q3 2026 Earnings Call Transcript The Globe and Mail",
+  "published": "2026-11-10T19:54:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T21:01:02.664011+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "stock commentary, no trucking development"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "8198337280",
   "slug": "chile-truckers-fuel-strike-hits-shipping-routes-putting-salmon-logisti-8198337280",
   "title": "Chile Truckers' Fuel Strike Hits Shipping Routes, Putting Salmon Logistics on Watch",
@@ -462,6 +490,32 @@
   ],
   "labels": [],
   "kind": "rejected"
+ },
+ {
+  "id": "0ef42f4242",
+  "slug": "truck-driver-arrested-and-banned-from-pilot-after-seriously-threatenin-0ef42f4242",
+  "title": "Truck driver arrested and banned from Pilot after seriously threatening driver parked in the fuel island while eating dinner",
+  "orig_title": "Truck driver arrested and banned from Pilot after seriously threatening driver parked in the fuel island while eating dinner",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "CDLLife",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOd3JWYXZoQ3dxR0lEbEJaMUVtQkNPZ0dVVGRQdDB1Z3Y4c3FGNE5GdS01cGNMLWN1Uk8yM0txYnN5dmpDRGRoeGF3Z05hYkdhamZnQmdWOWR5czNaX1hRWXhSVjJlejhpOEhPVmZKb0pVOTVkTkJNeGVVOHFsbkM1aGlXSm1nOGtBOUJKNmJwNnFVa0ZvVXBKcFlYT1ZSQWUwUjRQekkyVG9RbjdhcDFoR1RvOElmQ3lqYlZ0SUEyQ1JPRHcwaEF4UFhyenBpSzJOb2pPNTBWWVZjVlVqTGwxR2tRMDZqMWdNbnc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOd3JWYXZoQ3dxR0lEbEJaMUVtQkNPZ0dVVGRQdDB1Z3Y4c3FGNE5GdS01cGNMLWN1Uk8yM0txYnN5dmpDRGRoeGF3Z05hYkdhamZnQmdWOWR5czNaX1hRWXhSVjJlejhpOEhPVmZKb0pVOTVkTkJNeGVVOHFsbkM1aGlXSm1nOGtBOUJKNmJwNnFVa0ZvVXBKcFlYT1ZSQWUwUjRQekkyVG9RbjdhcDFoR1RvOElmQ3lqYlZ0SUEyQ1JPRHcwaEF4UFhyenBpSzJOb2pPNTBWWVZjVlVqTGwxR2tRMDZqMWdNbnc",
+  "snippet": "Truck driver arrested and banned from Pilot after seriously threatening driver parked in the fuel island while eating dinner CDLLife",
+  "published": "2026-11-10T18:50:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T21:01:02.664011+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "crime"
  },
  {
   "id": "ae3eea659d",
@@ -1245,6 +1299,34 @@
   "reasons": [],
   "labels": [],
   "kind": "news"
+ },
+ {
+  "id": "5553e2f561",
+  "slug": "trucking-mobilisation-disrupts-inland-transport-across-chile-5553e2f561",
+  "title": "Trucking mobilisation disrupts inland transport across Chile",
+  "orig_title": "Trucking mobilisation disrupts inland transport across Chile",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Kuehne+Nagel",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0M4MDVjUzhEaVMxQVZ5V0Y0VzlQNXNUM0d3cmNXeXE4aTJuNkRPZXZuVjAtZ2Mxd1FqdlpRQ0MzNjdUbmpPbndETGhCYmQ1VEllNTEyOTFIUnZwM3U4ZE5PZ3ZIbUdGRlhWQldLdGVCYVZLSmJ2YU5BcTRNc1VuTy1oMkMzTFU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0M4MDVjUzhEaVMxQVZ5V0Y0VzlQNXNUM0d3cmNXeXE4aTJuNkRPZXZuVjAtZ2Mxd1FqdlpRQ0MzNjdUbmpPbndETGhCYmQ1VEllNTEyOTFIUnZwM3U4ZE5PZ3ZIbUdGRlhWQldLdGVCYVZLSmJ2YU5BcTRNc1VuTy1oMkMzTFU",
+  "snippet": "Trucking mobilisation disrupts inland transport across Chile Kuehne+Nagel",
+  "published": "2026-11-10T15:19:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T21:01:02.664011+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected"
  },
  {
   "id": "ffccee5e0a",
@@ -11532,28 +11614,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected"
- },
- {
-  "id": "8313a22c26",
-  "slug": "fareway-iowa-farm-bureau-and-food-bank-of-iowa-continue-meat-the-need-8313a22c26",
-  "title": "Fareway, Iowa Farm Bureau and Food Bank of Iowa Continue “Meat the Need” Partnership, Delivering Truckload of Protein to Help Fight Hunger",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "KWBG Radio | Boone, Iowa",
-  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcFB0SWM5RWx4QzRVQ0Q5WGRoVHhZM1RTZ3dPcEVBQ3RWRWhTblgxNTVmNGRtNjFmbEVWXzlhN1Y2Y0diTkZhMm5QUVZGMXRJRjFtazBmaGhBZFBEV0h1cWZpcDhNWElOWk1oN19BRXZlMWtSVkZYN3RSZkRnNWl5cWJWSnNydEtxUGlxNFNxUU1TZ0ZQbnJzNEp4T0pDaE1XQjFnUUdWVGVXNVMwUHhuejFGLUl1NUFoVl9LcEdvZVQ5QmxIRUlNdXhwWWRQVlBnVlB6eHFodkg5aEgyNGZsdS1EdW42bWc?oc=5",
-  "published": "2026-11-06T20:56:31+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Fareway, Iowa Farm Bureau and Food Bank of Iowa Continue “Meat the Need” Partnership, Delivering Truckload of Protein to Help Fight Hunger",
-  "status": "rejected",
-  "reasons": [
-   "'truckload' used as an expression, not freight news"
   ],
   "labels": [],
   "kind": "rejected"

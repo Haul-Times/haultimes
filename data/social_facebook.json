@@ -1201,7 +1201,8 @@
   "f788ed9e88": "skipped|importance 45 is below this platform's threshold (65)",
   "0eda08e248": "skipped|importance 60 is below this platform's threshold (65)",
   "ab5dbdd692": "queued|importance 67 (threshold 65), Fuel, trade publication",
-  "603bae12fe": "skipped|importance 55 is below this platform's threshold (65)"
+  "603bae12fe": "skipped|importance 55 is below this platform's threshold (65)",
+  "0ef42f4242": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -2253,6 +2254,13 @@
    "title": "TTSAO demands immediate restoration of Ontario truck training funding",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T21:01:12.865653+00:00",
+   "story_id": "0ef42f4242",
+   "title": "Truck driver arrested and banned from Pilot after seriously threatening driver parked in the fuel island while eating dinner",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
