@@ -838,7 +838,15 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-10T18:41:36.825517+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122100493803544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122100493803544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122100493803544428",
+    "created": "2026-11-10T18:41:36+0000",
+    "at": "2026-11-10T18:51:17.388474+00:00"
+   }
   },
   "c272484a07": {
    "story_id": "c272484a07",
@@ -1061,7 +1069,8 @@
   "715577ea7b": "skipped|importance 63 is below this platform's threshold (65)",
   "diesel-2026-11-09": "posted|HaulTimes update",
   "094bf8c5ce": "posted|importance 78 (threshold 65), Fuel, trade publication; waited 10 min in queue",
-  "c272484a07": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
+  "c272484a07": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
+  "4189f03da5": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2029,16 +2038,23 @@
    "title": "U.S. raises forecasts for 2027 gasoline and diesel prices",
    "action": "posted",
    "reason": "importance 78 (threshold 65), Fuel, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-10T18:51:17.388474+00:00",
+   "story_id": "4189f03da5",
+   "title": "Effort to get trucks off Van Dam in Saratoga Springs continues to stall",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122100478965544428",
+  "post": "1476615495528085_122100493803544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122100478965544428",
-  "created": "2026-11-10T18:21:35+0000",
-  "at": "2026-11-10T18:31:18.494004+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122100493803544428",
+  "created": "2026-11-10T18:41:36+0000",
+  "at": "2026-11-10T18:51:17.388474+00:00"
  },
  "promo_i": 1
 }
