@@ -221,7 +221,7 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/china-extends-pause-on-24-u-s-tariffs-to-january-afe721ad08/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=afe721ad08",
    "caption": "China extends pause on 24% U.S. tariffs to January.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T16:44:47.249030+00:00",
    "published": "2026-11-09T15:22:34+00:00",
    "score": 78,
@@ -464,29 +464,27 @@
    "source": "HaulTimes",
    "dest": "https://haultimes.com/freight-market/?utm_source=facebook&utm_medium=organic_social&utm_campaign=diesel#fuel-h",
    "caption": "US diesel averaged $6.29 a gallon for the week of November 2, down 6¢ from the week before, according to the US Energy Information Administration. Highest: California at $8.08. Lowest: Lower Atlantic at $5.81.\n\nIn Ontario, diesel averaged 243.1¢ a litre (week of November 9). Every state and province on the HaulTimes diesel map.\n\n#Diesel #Trucking #FuelPrices",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T02:47:57.354375+00:00",
    "published": "2026-11-10T02:47:57.354375+00:00",
    "score": 75,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122099875881544428",
+   "posted_at": "2026-11-10T03:22:44.965792+00:00",
    "next_attempt_at": null,
    "preview": {},
    "house": "diesel",
-   "reason": "HaulTimes update: diesel"
+   "reason": "HaulTimes update: diesel",
+   "last_attempt_at": "2026-11-10T03:22:44.965792+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122099875881544428"
   }
  },
- "paused": {
-  "reason": "Facebook error 200: (#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage",
-  "at": "2026-11-09T02:37:31.618824+00:00",
-  "token": "f5aeea0b7571"
- },
+ "paused": null,
  "account": {
   "name": "HaulTimes",
-  "checked_at": "2026-11-09T02:07:29.309184+00:00",
-  "checked_fp": "f5aeea0b7571"
+  "checked_at": "2026-11-10T03:22:44.965792+00:00",
+  "checked_fp": "45e47322b1f3"
  },
  "log": [
   {
@@ -496,6 +494,18 @@
   {
    "at": "2026-11-09T02:07:29.309184+00:00",
    "msg": "credentials OK: connected to HaulTimes"
+  },
+  {
+   "at": "2026-11-10T03:22:44.965792+00:00",
+   "msg": "new credentials found, resuming"
+  },
+  {
+   "at": "2026-11-10T03:22:44.965792+00:00",
+   "msg": "credentials OK: connected to HaulTimes"
+  },
+  {
+   "at": "2026-11-10T03:22:44.965792+00:00",
+   "msg": "posted diesel-2026-11-02"
   }
  ],
  "decided": {
@@ -530,7 +540,7 @@
   "8d8f5f6881": "skipped|importance 45 is below this platform's threshold (65)",
   "897d10264e": "skipped|importance 62 is below this platform's threshold (65)",
   "b2f265a4ca": "skipped|importance 55 is below this platform's threshold (65)",
-  "afe721ad08": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
+  "afe721ad08": "expired|stale before a slot opened (published 12h ago)",
   "e18749db81": "queued|importance 70 (threshold 65), Regulations, established outlet",
   "9a23addb2c": "skipped|minor item (announcement) or low-quality source",
   "d9567602da": "skipped|importance 55 is below this platform's threshold (65)",
@@ -571,7 +581,7 @@
   "f24df3ce85": "skipped|importance 45 is below this platform's threshold (65)",
   "0aa4a2dd3e": "skipped|importance 55 is below this platform's threshold (65)",
   "c99e6d2501": "skipped|importance 55 is below this platform's threshold (65)",
-  "diesel-2026-11-02": "queued|HaulTimes update"
+  "diesel-2026-11-02": "posted|HaulTimes update"
  },
  "decisions": [
   {
@@ -1140,6 +1150,20 @@
    "title": "Diesel prices, week of 2026-11-02",
    "action": "queued",
    "reason": "HaulTimes update: diesel"
+  },
+  {
+   "at": "2026-11-10T03:22:44.965792+00:00",
+   "story_id": "afe721ad08",
+   "title": "China extends pause on 24% U.S. tariffs to January",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-10T03:22:44.965792+00:00",
+   "story_id": "diesel-2026-11-02",
+   "title": "Diesel prices, week of 2026-11-02",
+   "action": "posted",
+   "reason": "HaulTimes update: diesel; waited 34 min in queue"
   }
  ]
 }
