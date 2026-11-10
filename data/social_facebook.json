@@ -1224,7 +1224,9 @@
   "3cce4b6a98": "skipped|importance 61 is below this platform's threshold (65)",
   "52b3f0cc5a": "skipped|importance 55 is below this platform's threshold (65)",
   "8b2c38e46d": "skipped|importance 57 is below this platform's threshold (65)",
-  "8352a42eef": "skipped|importance 45 is below this platform's threshold (65)"
+  "8352a42eef": "skipped|importance 45 is below this platform's threshold (65)",
+  "d839f6bd80": "skipped|importance 50 is below this platform's threshold (65)",
+  "233acdc2b0": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2344,6 +2346,20 @@
    "at": "2026-11-10T22:51:04.162217+00:00",
    "story_id": "8352a42eef",
    "title": "Oklahoma Department of Transportation wants your input on freight improvement plan",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T23:01:23.050361+00:00",
+   "story_id": "d839f6bd80",
+   "title": "Burnaby RCMP officer prevents accident after inspecting commercial truck",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T23:01:23.050361+00:00",
+   "story_id": "233acdc2b0",
+   "title": "Ohio DOT bridge inspector fatally struck by semi truck in I-70 construction zone",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
