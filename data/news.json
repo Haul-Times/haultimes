@@ -1,5 +1,33 @@
 [
  {
+  "id": "7b86eea09f",
+  "slug": "michael-anderson-named-ota-chairman-vows-to-fight-noncompliance-7b86eea09f",
+  "title": "Michael Anderson named OTA chairman, vows to fight noncompliance",
+  "orig_title": "Michael Anderson named OTA chairman, vows to fight noncompliance",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREpwbmpkWDdtR1FmZ1k1VTFaMkxHY09OaWRXZ1FpaWZjNTIzenVXSUIzZVJKRGRhU0FMUkc0Rnp1VHBod205NDVQSXlwVEdEMVFqdDVxQWFjVXdBMW54dXpYZ3pVaVVFVDgzVWRBSkFGckZLV3lOSmRvLXloeE9kLW44eUZKS1JEUW5KeGZqNG5iVXRFLVUxUlpOcTQ5Qy1XSU14NFVnTzA2Q2VxYlBaZEUxclNSQTg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREpwbmpkWDdtR1FmZ1k1VTFaMkxHY09OaWRXZ1FpaWZjNTIzenVXSUIzZVJKRGRhU0FMUkc0Rnp1VHBod205NDVQSXlwVEdEMVFqdDVxQWFjVXdBMW54dXpYZ3pVaVVFVDgzVWRBSkFGckZLV3lOSmRvLXloeE9kLW44eUZKS1JEUW5KeGZqNG5iVXRFLVUxUlpOcTQ5Qy1XSU14NFVnTzA2Q2VxYlBaZEUxclNSQTg",
+  "snippet": "Michael Anderson named OTA chairman, vows to fight noncompliance Truck News",
+  "published": "2026-11-10T19:37:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T19:41:06.937445+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review"
+ },
+ {
   "id": "4b917c17f1",
   "slug": "rising-q3-transportation-costs-squeeze-manufacturers-reward-railroads-4b917c17f1",
   "title": "Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade",
@@ -161,6 +189,34 @@
   "status": "rejected",
   "reasons": [
    "stock commentary, no trucking development"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
+  "id": "ae3eea659d",
+  "slug": "food-beverage-archives-ae3eea659d",
+  "title": "Food & Beverage Archives",
+  "orig_title": "Food & Beverage Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwSmJrdDBucGxoRkNCb0RaMFJqWHIxV0UwQWxJZS1sSUMtNU5ibDFYcW5mZXB1SUFLWG5JSGN6eDJXOE9zQ2M5bGJlZmFqanIxclU0TGlsd3BOTjZlWkxQMmVGa1BldGpCVzZHdjRPQTBua3lPZ1RmcTllSnQwbVk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwSmJrdDBucGxoRkNCb0RaMFJqWHIxV0UwQWxJZS1sSUMtNU5ibDFYcW5mZXB1SUFLWG5JSGN6eDJXOE9zQ2M5bGJlZmFqanIxclU0TGlsd3BOTjZlWkxQMmVGa1BldGpCVzZHdjRPQTBua3lPZ1RmcTllSnQwbVk",
+  "snippet": "Food & Beverage Archives FreightWaves",
+  "published": "2026-11-10T18:41:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T19:41:06.937445+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
   ],
   "labels": [],
   "kind": "rejected"
@@ -1408,6 +1464,32 @@
   ],
   "labels": [],
   "kind": "rejected"
+ },
+ {
+  "id": "a47ed62eec",
+  "slug": "shaver-driver-pay-changes-hit-a-four-year-high-a47ed62eec",
+  "title": "Shaver: Driver pay changes hit a four-year high",
+  "orig_title": "Shaver: Driver pay changes hit a four-year high",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "",
+  "importance": 67,
+  "source": "FleetOwner",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlNhc0xYRW5FMTltYWVrRVVJd2wzcFE5WXA0X1FLMDBxTWRUeXVPM1JfbTc2SDlTbjJUWXRwbGlYNElhWGY3eHFOUk5zckl0ZkJLSmVRLTQ1ZXhaTVRFUm5oWGRfTXJpQXZ2MUx6ZUgySlVobm9rSWVQQWxqdzRKUlV4NlJYTXdwbG5ieWhjWjl0SHUtS2xDaXRmeTlSelk0b2hDUkNWbHV0ZWNjQlJycmM5MjZpTUkwVXdvVlVMcFpxYVhZQTNiZ3JfTkd1RHA4T0RwZHFZdlBydjV3QU5FWDZn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlNhc0xYRW5FMTltYWVrRVVJd2wzcFE5WXA0X1FLMDBxTWRUeXVPM1JfbTc2SDlTbjJUWXRwbGlYNElhWGY3eHFOUk5zckl0ZkJLSmVRLTQ1ZXhaTVRFUm5oWGRfTXJpQXZ2MUx6ZUgySlVobm9rSWVQQWxqdzRKUlV4NlJYTXdwbG5ieWhjWjl0SHUtS2xDaXRmeTlSelk0b2hDUkNWbHV0ZWNjQlJycmM5MjZpTUkwVXdvVlVMcFpxYVhZQTNiZ3JfTkd1RHA4T0RwZHFZdlBydjV3QU5FWDZn",
+  "snippet": "Shaver: Driver pay changes hit a four-year high FleetOwner",
+  "published": "2026-11-10T13:32:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T19:41:06.937445+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news"
  },
  {
   "id": "4686be3482",

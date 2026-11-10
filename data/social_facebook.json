@@ -921,6 +921,33 @@
     "created": "2026-11-10T19:21:26+0000",
     "at": "2026-11-10T19:31:17.651406+00:00"
    }
+  },
+  "a47ed62eec": {
+   "story_id": "a47ed62eec",
+   "title": "Shaver: Driver pay changes hit a four-year high",
+   "url_key": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlNhc0xYRW5FMTltYWVrRVVJd2wzcFE5WXA0X1FLMDBxTWRUeXVPM1JfbTc2SDlTbjJUWXRwbGlYNElhWGY3eHFOUk5zckl0ZkJLSmVRLTQ1ZXhaTVRFUm5oWGRfTXJpQXZ2MUx6ZUgySlVobm9rSWVQQWxqdzRKUlV4NlJYTXdwbG5ieWhjWjl0SHUtS2xDaXRmeTlSelk0b2hDUkNWbHV0ZWNjQlJycmM5MjZpTUkwVXdvVlVMcFpxYVhZQTNiZ3JfTkd1RHA4T0RwZHFZdlBydjV3QU5FWDZn",
+   "category": "drivers",
+   "source": "FleetOwner",
+   "dest": "https://haultimes.com/story/shaver-driver-pay-changes-hit-a-four-year-high-a47ed62eec/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=a47ed62eec",
+   "caption": "Shaver: Driver pay changes hit a four-year high.\n\nReported by FleetOwner. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
+   "status": "queued",
+   "created_at": "2026-11-10T19:41:22.192204+00:00",
+   "published": "2026-11-10T13:32:16+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Shaver: Driver pay changes hit a four-year high | HaulTimes",
+    "og:description": "Reported by FleetOwner. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/800867e956.png",
+    "og:url": "https://haultimes.com/story/shaver-driver-pay-changes-hit-a-four-year-high-a47ed62eec/"
+   },
+   "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": null,
@@ -1127,7 +1154,8 @@
   "c272484a07": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 29 min in queue",
   "4189f03da5": "skipped|importance 45 is below this platform's threshold (65)",
   "c35e0010a1": "posted|importance 65 (threshold 65), Rates & Market, local/other outlet; waited 10 min in queue",
-  "4b917c17f1": "skipped|importance 61 is below this platform's threshold (65)"
+  "4b917c17f1": "skipped|importance 61 is below this platform's threshold (65)",
+  "a47ed62eec": "queued|importance 67 (threshold 65), Drivers & Jobs, trade publication"
  },
  "decisions": [
   {
@@ -2130,6 +2158,13 @@
    "title": "Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T19:41:22.192204+00:00",
+   "story_id": "a47ed62eec",
+   "title": "Shaver: Driver pay changes hit a four-year high",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication"
   }
  ],
  "visibility": {
