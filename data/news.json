@@ -1,5 +1,31 @@
 [
  {
+  "id": "feb0cb8dc0",
+  "slug": "glionna-archives-feb0cb8dc0",
+  "title": "Glionna Archives",
+  "orig_title": "Glionna Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tOFdLRFZvVUlZTzJLRjdfeWE3TXAtNEVDRUFZb19TWElwbXBpX1Rrc2FDcllzWFY3MU9OSHVuTWt2N25wS2Y5VUFVZHhORTBxTnA1dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tOFdLRFZvVUlZTzJLRjdfeWE3TXAtNEVDRUFZb19TWElwbXBpX1Rrc2FDcllzWFY3MU9OSHVuTWt2N25wS2Y5VUFVZHhORTBxTnA1dw",
+  "snippet": "Glionna Archives Truck News",
+  "published": "2026-11-10T09:34:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T09:41:01.780954+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "2581d36e44",
   "slug": "metstrade-debut-xing-mobility-brings-advanced-immersion-cooled-marine-2581d36e44",
   "title": "Metstrade Debut: XING Mobility Brings Advanced Immersion-Cooled Marine Battery Systems to Amsterdam",
