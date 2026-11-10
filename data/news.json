@@ -1,5 +1,31 @@
 [
  {
+  "id": "4686be3482",
+  "slug": "sonar-launches-mcp-bringing-freight-market-intelligence-inside-your-ai-4686be3482",
+  "title": "SONAR launches MCP, bringing freight market intelligence inside your AI assistant",
+  "orig_title": "SONAR launches MCP, bringing freight market intelligence inside your AI assistant",
+  "summary": "",
+  "why": "",
+  "category": "rates",
+  "region": "",
+  "importance": 45,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU1MMTBmMkJicy1tV3FhdmtFaGdER1V6cDd4SVJNY3R2N3Fuc3BsTmNKLUlXUW43V09YaXlqVFdrZjhrQ01LcUNFNWdud291MlFhMFpiQkg0a3hidW9teHAwZWNaVVUzd3dhM29kbXZqVW5SOHdzcF9Oc19CbFNrYWJ1WnR0cDFmTXpTMHN2QzVZaGJjMDdHcjcyNHlZWXdGT0pjc3pORzhKZDdpQWs0YXFoV3I?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU1MMTBmMkJicy1tV3FhdmtFaGdER1V6cDd4SVJNY3R2N3Fuc3BsTmNKLUlXUW43V09YaXlqVFdrZjhrQ01LcUNFNWdud291MlFhMFpiQkg0a3hidW9teHAwZWNaVVUzd3dhM29kbXZqVW5SOHdzcF9Oc19CbFNrYWJ1WnR0cDFmTXpTMHN2QzVZaGJjMDdHcjcyNHlZWXdGT0pjc3pORzhKZDdpQWs0YXFoV3I",
+  "snippet": "SONAR launches MCP, bringing freight market intelligence inside your AI assistant FreightWaves",
+  "published": "2026-11-10T13:28:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T13:41:06.327902+00:00",
+  "image": "",
+  "ai": false,
+  "status": "ok",
+  "reasons": [],
+  "labels": [
+   "Company announcement"
+  ],
+  "kind": "announcement"
+ },
+ {
   "id": "573d91d7eb",
   "slug": "fmcsa-enhances-complaint-center-to-improve-safety-reporting-573d91d7eb",
   "title": "FMCSA enhances complaint center to improve safety reporting",
@@ -22,6 +48,32 @@
   "reasons": [],
   "labels": [],
   "kind": "news"
+ },
+ {
+  "id": "d856c3453a",
+  "slug": "oil-prices-touch-lowest-level-in-3-months-d856c3453a",
+  "title": "Oil prices touch lowest level in 3 months",
+  "orig_title": "Oil prices touch lowest level in 3 months",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQWkx2NG9QMnhmY3lGeDkxU1ppVHlDVERNalB0U3o4a240NHg2NUdveFZHM2MzTUZRazlIdXl2TGVGTW9pYnBmWW9tYUdXek02Q2JJTjUzdlFQRW03VmNKTUxvdXJpNnV1REE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQWkx2NG9QMnhmY3lGeDkxU1ppVHlDVERNalB0U3o4a240NHg2NUdveFZHM2MzTUZRazlIdXl2TGVGTW9pYnBmWW9tYUdXek02Q2JJTjUzdlFQRW03VmNKTUxvdXJpNnV1REE",
+  "snippet": "Oil prices touch lowest level in 3 months Transport Topics",
+  "published": "2026-11-10T13:13:46+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T13:41:06.327902+00:00",
+  "image": "",
+  "ai": false,
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review"
  },
  {
   "id": "7fca7057c6",
@@ -172,6 +224,32 @@
   ],
   "labels": [],
   "kind": "rejected"
+ },
+ {
+  "id": "213cfebe89",
+  "slug": "events-for-november-10-2026-213cfebe89",
+  "title": "Events for November 10, 2026",
+  "orig_title": "Events for November 10, 2026",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Ontario Trucking Association",
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xVEZzN2RQRVhwT2N5eWFhQXN3Wk51MlJpVDJBSFJrbjMxaGJfUDBmOXdLUjA0WERwd2FOSVgzSVVobU5VVGdqT2hyeklkVEU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xVEZzN2RQRVhwT2N5eWFhQXN3Wk51MlJpVDJBSFJrbjMxaGJfUDBmOXdLUjA0WERwd2FOSVgzSVVobU5VVGdqT2hyeklkVEU",
+  "snippet": "Events for November 10, 2026 Ontario Trucking Association",
+  "published": "2026-11-10T11:06:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T13:41:06.327902+00:00",
+  "image": "",
+  "ai": false,
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review"
  },
  {
   "id": "2104cc5b6c",

@@ -715,7 +715,8 @@
   "33c96b704c": "skipped|importance 45 is below this platform's threshold (65)",
   "ab4bacf873": "skipped|minor item (event) or low-quality source",
   "81d1dd3fe9": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
-  "573d91d7eb": "posted|importance 73 (threshold 65), Regulations, trade publication; waited 10 min in queue"
+  "573d91d7eb": "posted|importance 73 (threshold 65), Regulations, trade publication; waited 10 min in queue",
+  "4686be3482": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -1438,6 +1439,13 @@
    "title": "FMCSA enhances complaint center to improve safety reporting",
    "action": "posted",
    "reason": "importance 73 (threshold 65), Regulations, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-10T13:41:17.106476+00:00",
+   "story_id": "4686be3482",
+   "title": "SONAR launches MCP, bringing freight market intelligence inside your AI assistant",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ]
 }

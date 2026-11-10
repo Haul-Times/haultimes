@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:31:03.162032+00:00",
+ "updated": "2026-11-10T13:41:06.172562+00:00",
  "hour_now": 8,
  "have_us": true,
  "have_ca": true,
@@ -107,7 +107,7 @@
      0,
      0,
      0,
-     15,
+     16,
      null,
      null,
      null,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 40,
+    "wait": 24,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 8:17 am EST",
+    "updated": "At 8:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -257,7 +257,7 @@
      0,
      0,
      10,
-     31,
+     30,
      null,
      null,
      null,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 8:17 am EST",
+    "status": "no delay",
+    "updated": "At 8:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -332,7 +332,7 @@
      0,
      0,
      4,
-     20,
+     16,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "08:29:04",
+    "updated": "08:39:10",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 08:15 EST"
+    "updated": "2026-11-10 08:26 EST"
    },
    "usual": {
     "south": [
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "08:29:05",
+    "updated": "08:39:10",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "08:29:05",
+    "updated": "08:39:10",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:29:05",
+    "updated": "05:39:10",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1494,6 +1494,11 @@
    },
    {
     "name": "Edmundston",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
