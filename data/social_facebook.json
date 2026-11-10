@@ -1222,7 +1222,9 @@
   "9b09ae420c": "skipped|importance 55 is below this platform's threshold (65)",
   "1d6b16d398": "skipped|importance 55 is below this platform's threshold (65)",
   "3cce4b6a98": "skipped|importance 61 is below this platform's threshold (65)",
-  "52b3f0cc5a": "skipped|importance 55 is below this platform's threshold (65)"
+  "52b3f0cc5a": "skipped|importance 55 is below this platform's threshold (65)",
+  "8b2c38e46d": "skipped|importance 57 is below this platform's threshold (65)",
+  "8352a42eef": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2330,6 +2332,20 @@
    "title": "Tech Transformation: ShipStation Global’s AI Overhauls Freight Operations",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T22:51:04.162217+00:00",
+   "story_id": "8b2c38e46d",
+   "title": "vidia Cargo Theft: $11.4M Load Stolen En Route to Texas",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T22:51:04.162217+00:00",
+   "story_id": "8352a42eef",
+   "title": "Oklahoma Department of Transportation wants your input on freight improvement plan",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
