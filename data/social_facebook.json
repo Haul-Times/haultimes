@@ -716,7 +716,8 @@
   "ab4bacf873": "skipped|minor item (event) or low-quality source",
   "81d1dd3fe9": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
   "573d91d7eb": "posted|importance 73 (threshold 65), Regulations, trade publication; waited 10 min in queue",
-  "4686be3482": "skipped|minor item (announcement) or low-quality source"
+  "4686be3482": "skipped|minor item (announcement) or low-quality source",
+  "0c60512b4f": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1446,6 +1447,13 @@
    "title": "SONAR launches MCP, bringing freight market intelligence inside your AI assistant",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-10T14:01:15.325395+00:00",
+   "story_id": "0c60512b4f",
+   "title": "Trucking By the Numbers: Combustion fuel's explosive prices",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ]
 }
