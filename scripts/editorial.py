@@ -125,8 +125,7 @@ def is_trucking_source(source):
 
 # ------------------------------------------------------------------ word lists
 # Words that only make sense for US/Canadian commercial road freight.
-STRONG = ["camionnage", "camionneur", "camionneurs", "camionneuse", "transport routier", "poids lourds",
-          "véhicules lourds", "trucking", "trucker", "truckers", "truckload", "less-than-truckload", "ltl ", " ltl", "fmcsa", "cdl",
+STRONG = ["trucking", "trucker", "truckers", "truckload", "less-than-truckload", "ltl ", " ltl", "fmcsa", "cdl",
           "owner-operator", "owner operator", "freight broker", "freight brokerage", "semi truck", "semi-truck",
           "semitruck", "tractor-trailer", "tractor trailer", "big rig", "18-wheeler", "class 8", "cvsa",
           "out of service", "out-of-service", "electronic logging", " eld", "hours of service", "hours-of-service",
@@ -499,6 +498,11 @@ def assess(title, source="", snippet=""):
         return reject("stock commentary, no trucking development")
     if _has(s, RESEARCH_SOURCES) or RESEARCH.search(raw):
         return reject("market-research sales page")
+    # French-language stories are switched off (English only)
+    fr = sum(1 for w in (" les ", " des ", " pour ", " une ", " du ", " au ", " aux ", " avec ", " sur ", " dans ",
+                        " camionn", " routier", " lourds", " est ", " sont ", " et ") if w in t)
+    if fr >= 2 or (fr >= 1 and re.search(r"[éèêàçù]", raw)):
+        return reject("French-language story (English only)")
     # 5. Other countries
     if _has(s, FOREIGN_SOURCES) and not _has(t, NA_PLACES):
         return reject("non-North American source")
