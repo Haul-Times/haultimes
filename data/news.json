@@ -137,9 +137,9 @@
   "orig_title": "Chilean Truckers Block Southern Routes Over Fuel Prices",
   "summary": "",
   "why": "",
-  "category": "fuel",
+  "category": "other",
   "region": "",
-  "importance": 45,
+  "importance": 0,
   "source": "teleSUR English",
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYi1jMVV2Um05ZklKSVdaLUdkb1E5NU45SUxQX01FX0NPeGQweGo4TUQ4TF8yd0hNTkZkRGhHc0N0R0gyb282WlkwdG9WdVhhX2ROTDAzUk9XSEpCbVVneS11Qmh5N3prT29LSTczUnNMX0p0SU02LWRaUDE2RmR3ZW1mQWhHX3A4aGszRURDUjU?oc=5",
   "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYi1jMVV2Um05ZklKSVdaLUdkb1E5NU45SUxQX01FX0NPeGQweGo4TUQ4TF8yd0hNTkZkRGhHc0N0R0gyb282WlkwdG9WdVhhX2ROTDAzUk9XSEpCbVVneS11Qmh5N3prT29LSTczUnNMX0p0SU02LWRaUDE2RmR3ZW1mQWhHX3A4aGszRURDUjU",
@@ -149,10 +149,12 @@
   "first_seen": "2026-11-10T05:21:05.465137+00:00",
   "image": "",
   "ai": false,
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "non-North American source"
+  ],
   "labels": [],
-  "kind": "news"
+  "kind": "rejected"
  },
  {
   "id": "76d1c6bff2",
@@ -824,7 +826,7 @@
   "ai": false,
   "status": "rejected",
   "reasons": [
-   "not about commercial trucking"
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected"
