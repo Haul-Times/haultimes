@@ -958,6 +958,33 @@
     "created": "2026-11-10T19:58:36+0000",
     "at": "2026-11-10T20:01:22.436634+00:00"
    }
+  },
+  "ab5dbdd692": {
+   "story_id": "ab5dbdd692",
+   "title": "Diesel Price Drop: Why Oil Markets Are Tumbling",
+   "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3NKUWR6MW50ejQwUVBJNkJLel95UmQ4WlFvNjRUOGlSaHlQaU5iWHVnNkplX3pKY2pLWjk1ZHBrcjJzeC1qOHh1Y3RrcmpLd3JQSUxERjYxVm1NeURuTHpBY1Vod1F6cUFFY1ltbDZZMnpZUk4yM1BJWHNLRExEbHpoOFdHLVk",
+   "category": "fuel",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/diesel-price-drop-why-oil-markets-are-tumbling-ab5dbdd692/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ab5dbdd692",
+   "caption": "Diesel Price Drop: Why Oil Markets Are Tumbling.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Diesel",
+   "status": "queued",
+   "created_at": "2026-11-10T20:51:29.824767+00:00",
+   "published": "2026-11-10T19:42:51+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Diesel Price Drop: Why Oil Markets Are Tumbling | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/f00e0b6124.png",
+    "og:url": "https://haultimes.com/story/diesel-price-drop-why-oil-markets-are-tumbling-ab5dbdd692/"
+   },
+   "reason": "importance 67 (threshold 65), Fuel, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": null,
@@ -1172,7 +1199,9 @@
   "a47ed62eec": "posted|importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue",
   "02eb18d7fd": "skipped|importance 55 is below this platform's threshold (65)",
   "f788ed9e88": "skipped|importance 45 is below this platform's threshold (65)",
-  "0eda08e248": "skipped|importance 60 is below this platform's threshold (65)"
+  "0eda08e248": "skipped|importance 60 is below this platform's threshold (65)",
+  "ab5dbdd692": "queued|importance 67 (threshold 65), Fuel, trade publication",
+  "603bae12fe": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2210,6 +2239,20 @@
    "title": "DEX Heavy Duty Parts earns landfill-free certification at two US facilities",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T20:51:29.824767+00:00",
+   "story_id": "ab5dbdd692",
+   "title": "Diesel Price Drop: Why Oil Markets Are Tumbling",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Fuel, trade publication"
+  },
+  {
+   "at": "2026-11-10T20:51:29.824767+00:00",
+   "story_id": "603bae12fe",
+   "title": "TTSAO demands immediate restoration of Ontario truck training funding",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
