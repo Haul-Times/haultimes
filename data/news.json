@@ -1,5 +1,33 @@
 [
  {
+  "id": "1bd8a25f88",
+  "slug": "another-uber-executive-danny-guo-to-depart-1bd8a25f88",
+  "title": "Another Uber executive, Danny Guo, to depart",
+  "orig_title": "Another Uber executive, Danny Guo, to depart",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IQTMzVllzMjgwaFlIdWRWSnppRDNHT0xDdnFXQlBuZDdvQkpJMGRqM0dWSlVRMkZBMUNFY2JKbS03XzFsdE1GSF91YTBHb3NTR3AyR0JBY0NtbVI4TEtsdTQwS0duU05B?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IQTMzVllzMjgwaFlIdWRWSnppRDNHT0xDdnFXQlBuZDdvQkpJMGRqM0dWSlVRMkZBMUNFY2JKbS03XzFsdE1GSF91YTBHb3NTR3AyR0JBY0NtbVI4TEtsdTQwS0duU05B",
+  "snippet": "Another Uber executive, Danny Guo, to depart Transport Topics",
+  "published": "2026-11-10T19:55:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T20:11:04.949518+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review"
+ },
+ {
   "id": "8198337280",
   "slug": "chile-truckers-fuel-strike-hits-shipping-routes-putting-salmon-logisti-8198337280",
   "title": "Chile Truckers' Fuel Strike Hits Shipping Routes, Putting Salmon Logistics on Watch",
@@ -23,6 +51,34 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
+  "id": "bb4e37791b",
+  "slug": "ai-saved-air-cargo-rates-up-30-yoy-bb4e37791b",
+  "title": "AI saved air cargo? Rates up 30% YOY",
+  "orig_title": "AI saved air cargo? Rates up 30% YOY",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03TmJvdUtvYng1Q0dnV2RDZjVRWkNHaV9TTG9jbVZ5eW9xY29VNEhsbXhrNUgtX0FsSy1uTlRsdXNlaHdSTnlkOEpJZ2VDQ1FaUDRET0kybU1EZ051cGNueFIta0lvXzh6NXJCVlNWc01UZ084X3Bz?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03TmJvdUtvYng1Q0dnV2RDZjVRWkNHaV9TTG9jbVZ5eW9xY29VNEhsbXhrNUgtX0FsSy1uTlRsdXNlaHdSTnlkOEpJZ2VDQ1FaUDRET0kybU1EZ051cGNueFIta0lvXzh6NXJCVlNWc01UZ084X3Bz",
+  "snippet": "AI saved air cargo? Rates up 30% YOY FreightWaves",
+  "published": "2026-11-10T19:41:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T20:11:04.949518+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
   "kind": "rejected"
