@@ -215,8 +215,11 @@ def reefer_section(u, now, tz):
 
     xb = ""
     if mexico:
-        xb = '<p class="mk-xb"><strong>Cross-border, Mexico → US:</strong> %s.</p>' % "; ".join(
-            "%s: %s" % (E(tidy(o["origin"])), E(LEVELS[o["availability"]][0].lower()) if o.get("availability") else "not reported") for o in mexico)
+        xb = ('<div class="mk-xb"><span class="kicker">Cross-border · Mexico → US</span><ul>%s</ul></div>') % "".join(
+            '<li><span>%s</span>%s</li>' % (
+                E(tidy(o["origin"])),
+                ('<span class="mk-lvl" style="--c:%s">%s</span>' % (LEVELS[o["availability"]][1], E(LEVELS[o["availability"]][0])))
+                if o.get("availability") else '<span class="note">Not reported</span>') for o in mexico)
     um = ""
     if unmapped:
         um = '<p class="note">Not shown on the map because the district name does not identify a state: %s.</p>' % E(
@@ -249,7 +252,7 @@ def reefer_section(u, now, tz):
 <p class="mk-hot"><strong>Red means trucks are short</strong> for produce loads leaving that area, so rates there tend to rise. It doesn't promise a load or cover other freight.</p>
 <p class="note">Canada: no data in this report (USDA covers US districts and Mexico crossings only).</p>
 </aside></div>
-{xb}{um}
+{um}
 <details class="mk-more"><summary>All {n} districts with USDA rates</summary>
 <div class="mk-tools"><label for="mk-dest">Show rates to</label>
 <select id="mk-dest"><option value="">All destinations</option>{opts}</select></div>
@@ -452,9 +455,9 @@ def reader_sections():
 <button class="chip" data-eq="flatbed" aria-pressed="false">Flatbed</button><button class="chip" data-eq="stepdeck" aria-pressed="false">Step deck</button></div>
 <div class="mk-mapbox"><div class="mk-mapwrap">{tiles}</div>
 <aside class="mk-side"><h3 id="map-title">Loads this week</h3>
-<ul class="mk-legend"><li><i style="background:#C4262E"></i><b>Busy</b> <span>Plenty of loads, rates firm</span></li>
-<li><i style="background:#E6DFC8"></i><b>Normal</b> <span>About usual for the season</span></li>
-<li><i style="background:#2F6690"></i><b>Slow</b> <span>More trucks than loads, rates soft</span></li>
+<ul class="mk-legend"><li><i style="background:#C4262E"></i><b>Hot</b> <span>Loads easy to find, rates firm</span></li>
+<li><i style="background:#E6DFC8"></i><b>Normal</b> <span>About as usual</span></li>
+<li><i style="background:#2F6690"></i><b>Slow</b> <span>Too many trucks, rates soft</span></li>
 <li><i style="background:#F1F2F4;border:1px solid #C9CED4"></i><b>Insufficient reports</b> <span>Fewer than 5 this week</span></li></ul>
 <p class="mk-hot" id="map-count"></p>
 <p class="note">Colours come from readers' weekly one-tap answers. One person can't move the map: each counts once per week.</p></aside></div>
@@ -475,9 +478,10 @@ def reader_sections():
 <div class="f" id="poll-pick" hidden><label>State or province<select name="region">{r}</select></label>
 <label>Equipment<select name="equipment">{eq}</select></label></div>
 <p class="note" id="poll-eq-line">Equipment: <b id="poll-eq">Dry van</b></p>
-<button type="button" class="pollbtn" data-a="1"><span><b>Busy</b> · plenty of loads, rates firm</span></button>
-<button type="button" class="pollbtn" data-a="0"><span><b>Normal</b> · about usual for the season</span></button>
-<button type="button" class="pollbtn" data-a="-1"><span><b>Slow</b> · more trucks than loads, rates soft</span></button>
+<div class="pollseg" role="group" aria-label="Your market this week">
+<button type="button" class="pollbtn" data-a="1"><i style="background:#C4262E"></i><b>Hot</b><span>Loads easy to find</span></button>
+<button type="button" class="pollbtn" data-a="0"><i style="background:#CFC39A"></i><b>Normal</b><span>About as usual</span></button>
+<button type="button" class="pollbtn" data-a="-1"><i style="background:#2F6690"></i><b>Slow</b><span>Hunting for loads</span></button></div>
 <div class="mk-out" id="poll-out" aria-live="polite"></div>
 <span class="note">Anonymous. One answer per week; answering again replaces it. By answering you agree to our <a href="/terms/">Terms</a>.</span></form>
 <form class="box" id="rep" novalidate><h3>Report a rate</h3><p>A load you hauled or booked in the last 14 days. No company names.</p>
@@ -488,13 +492,15 @@ def reader_sections():
 
 
 def links_section():
-    return """<section class="mk-sec" aria-labelledby="links-h"><h2 id="links-h" class="sec-title">More market data (other sites)</h2>
-<ul class="mk-links">
-<li><a href="{ftr}" rel="noopener" target="_blank"><strong>Truckstop and FTR heat map ›</strong></a>
-<span>Van, reefer, flatbed and specialized by state, compared with each state's own seasonal normal.</span></li>
-<li><a href="{dat}" rel="noopener" target="_blank"><strong>DAT Trendlines ›</strong></a>
-<span>National weekly spot rates and load-to-truck ratios for van, reefer and flatbed.</span></li>
-</ul></section>""".format(ftr=E(FTR_URL), dat=E(DAT_URL))
+    return """<section class="mk-sec" aria-labelledby="links-h"><h2 id="links-h" class="sec-title">Further reading</h2>
+<div class="mk-links">
+<a class="mk-link" href="{dat}" rel="noopener" target="_blank"><span class="kicker">DAT · external</span>
+<strong>DAT Trendlines</strong><span>National weekly spot rates and load-to-truck ratios for van, reefer and flatbed.</span><i aria-hidden="true">↗</i></a>
+<a class="mk-link" href="https://www.eia.gov/petroleum/gasdiesel/" rel="noopener" target="_blank"><span class="kicker">EIA · external</span>
+<strong>EIA Gasoline and Diesel Fuel Update</strong><span>Weekly US retail diesel by region, the source of the US diesel map.</span><i aria-hidden="true">↗</i></a>
+</div></section>
+
+""".format(dat=E(DAT_URL), usda=E(USDA_DOCS))
 
 
 SCRIPT = '<script src="/static/market.js" defer></script>'
@@ -508,6 +514,5 @@ def body(market, now, tz):
 {reader}
 {diesel}
 {gov}
-{reefer}
 {links}
-</main>""".format(reader=reader_sections(), diesel=diesel_section(market, now, tz), gov=gov_section(market, now, tz), reefer=reefer_section(u, now, tz), links=links_section())
+</main>""".format(reader=reader_sections(), diesel=diesel_section(market, now, tz), gov=gov_section(market, now, tz), links=links_section())

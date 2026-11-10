@@ -576,8 +576,8 @@ def build_market(stories):
         except Exception as e:  # never let market data break the news site
             print("Freight market fetch failed: %s" % e)
     market = load_json("market.json", {})
-    write("/freight-market/", head("Freight Market: Reefer Truck Availability, Spot Rates and Diesel",
-                                   "Weekly freight market indicators from USDA, EIA and Ontario: reefer truck availability at US produce shipping points, spot rates per load and diesel prices, with sources and limits.",
+    write("/freight-market/", head("Freight Market: Lane Rates, Load Market and Diesel Prices",
+                                   "Check a load offer against what carriers report on the same lane, see this week's load market by state and province, and current US and Canadian diesel prices.",
                                    "/freight-market/") + header("market", stories) + market_page.body(market, NOW, EASTERN) +
           footer(market_page.SCRIPT))
 
@@ -617,7 +617,7 @@ def build_static_pages(stories):
 <p>{n} does not ask for your name or an account to read the site, and does not use advertising or tracking cookies.</p>
 <p><strong>Visit counts.</strong> We count page views and where visitors came from (for example, Facebook) to see which pages are useful. No cookies are used and nothing is stored on your device. To count unique visitors, your internet address is turned into a scrambled code that changes every week and cannot be turned back into the address. The address itself is not stored.</p>
 <p><strong>Rate reports and market answers.</strong> When you report a rate or answer the weekly market question on the Freight Market page, we store only what you enter (lane, equipment, rate, distance, date, or your answer) and the same weekly scrambled code, used to stop spam and to make sure one person can't tilt the results. We never ask for names, company names or contact details there. We publish only combined figures, never single reports.</p>
-<p><strong>Location.</strong> The weekly market question can suggest your state or province, worked out by our hosting provider from your internet address. Only the state or province is stored, and only if you submit an answer.</p>
+<p><strong>Location.</strong> For the weekly market question you choose your state or province yourself; it is remembered only on your device. Only the state or province is stored with an answer.</p>
 <p>Messages sent through the contact form are used only to reply to you.</p>
 <p>Questions: use our <a href="/contact/">contact form</a>. See also our <a href="/terms/">Terms of Use</a>.</p></main>""".format(n=E(CFG["site_name"]))
     write("/privacy/", head("Privacy", "HaulTimes privacy policy.", "/privacy/") + header("", stories) + privacy + footer())
