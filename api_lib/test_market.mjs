@@ -94,7 +94,23 @@ const adminReq = (path, pass, opts = {}) => new Request("https://haultimes.com/a
   headers: { ...(pass ? { authorization: "Basic " + btoa("admin:" + pass) } : {}), "cf-connecting-ip": opts.ip || "50.0.0.1", "content-type": "application/json" } });
 const envA = { DB: env.DB, ADMIN_PASSWORD: "correct horse battery" };
 check("admin: no password set -> 503", (await handleAdmin(adminReq("", "x"), { DB: env.DB }, "PAGE", NOW)).status === 503);
-check("admin: asks for password", (await handleAdmin(adminReq(""), envA, "PAGE", NOW)).headers.get("www-authenticate")?.startsWith("Basic"));
+const askPage = await handleAdmin(adminReq(""), envA, "PAGE", NOW);
+check("admin: shows a sign-in form (works in any browser, no popup)", askPage.status === 401 && !askPage.headers.get("www-authenticate") && (await askPage.text()).includes('name="password"'));
+const login = (pw, ip = "50.0.0.9") => handleAdmin(new Request("https://haultimes.com/admin/login", { method: "POST",
+  body: new URLSearchParams({ username: "admin", password: pw }), headers: { "cf-connecting-ip": ip, "content-type": "application/x-www-form-urlencoded" } }), envA, "PAGE", NOW);
+const badLogin = await login("nope");
+check("admin form: wrong password refused, no cookie", badLogin.status === 401 && !badLogin.headers.get("set-cookie") && (await badLogin.text()).includes("Wrong password"));
+const good = await login("correct horse battery");
+const cookie = (good.headers.get("set-cookie") || "").split(";")[0];
+check("admin form: right password -> session cookie, back to the panel", good.status === 303 && good.headers.get("location") === "/admin/" && /^ht_admin=\d+\.[0-9a-f]{64}$/.test(cookie) && /HttpOnly; Secure; SameSite=Strict/.test(good.headers.get("set-cookie")));
+const withCookie = (path, c) => handleAdmin(new Request("https://haultimes.com/admin/" + path, { headers: { cookie: c, "cf-connecting-ip": "50.0.0.9" } }), envA, "PAGE", NOW);
+check("admin: session cookie opens the panel and the data", (await withCookie("", cookie)).status === 200 && (await withCookie("api/stats", cookie)).status === 200);
+check("admin: forged or expired cookie refused", (await withCookie("api/stats", "ht_admin=99999999999." + "0".repeat(64))).status === 401 && (await withCookie("", "ht_admin=1." + cookie.split(".")[1])).status === 401);
+check("admin: changing the password signs everyone out", (await handleAdmin(new Request("https://haultimes.com/admin/", { headers: { cookie } }), { ...envA, ADMIN_PASSWORD: "new one" }, "PAGE", NOW)).status === 401);
+check("admin: sign out clears the cookie", /Max-Age=0/.test((await withCookie("logout", cookie)).headers.get("set-cookie")));
+let lockedForm = 0;
+for (let i = 0; i < 11; i++) lockedForm = (await login("guess" + i, "66.6.6.7")).status;
+check("admin form: locked after 10 wrong passwords, even the right one", lockedForm === 429 && (await login("correct horse battery", "66.6.6.7")).status === 429);
 check("admin: wrong password refused", (await handleAdmin(adminReq("api/stats", "nope"), envA, "PAGE", NOW)).status === 401);
 const okPage = await handleAdmin(adminReq("", "correct horse battery"), envA, "PAGE", NOW);
 check("admin: right password opens, not indexed", okPage.status === 200 && okPage.headers.get("x-robots-tag").includes("noindex"));

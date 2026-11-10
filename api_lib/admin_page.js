@@ -31,7 +31,7 @@ table.t td.num{text-align:right;font-variant-numeric:tabular-nums}
 code{font-size:12px;background:var(--wash);padding:1px 4px}
 .muted{color:var(--faint);font-size:13px}
 </style></head><body><main class="wrap adm">
-<h1>HaulTimes admin</h1><p class="sub">Private. Updated <span id="upd">…</span> · <a href="/freight-market/">Freight Market page ›</a><br>Views are unique: one per person, per page, per day. Your own visits in this browser are not counted.</p>
+<h1>HaulTimes admin</h1><p class="sub">Private. Updated <span id="upd">…</span> · <a href="/freight-market/">Freight Market page ›</a> · <a href="/admin/logout">Sign out</a><br>Views are unique: one per person, per page, per day. Your own visits in this browser are not counted.</p>
 <div class="kpis" id="kpis"></div>
 <div class="cols">
 <section><h2>Visitors, last 30 days</h2><div class="bars" id="ch-visits"></div><div class="bx" id="ch-visits-x"></div>

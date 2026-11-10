@@ -13,23 +13,75 @@ function sameText(a, b) {          // compare without leaking length/position th
   return diff === 0;
 }
 
+const COOKIE = "ht_admin";
+const SESSION_DAYS = 30;
+
+async function sign(secret, text) {
+  const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(secret), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  const sig = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(text));
+  return [...new Uint8Array(sig)].map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+/** Session token "expiry.signature", signed with the admin password (changing the password signs everyone out). */
+export async function makeSession(env, now) {
+  const exp = Math.floor(now.getTime() / 1000) + SESSION_DAYS * 86400;
+  return exp + "." + (await sign(env.ADMIN_PASSWORD, "admin-session:" + exp));
+}
+
+async function validSession(env, request, now) {
+  const m = (request.headers.get("cookie") || "").match(/(?:^|;\s*)ht_admin=(\d+)\.([0-9a-f]{64})/);
+  if (!m || parseInt(m[1], 10) * 1000 < now.getTime()) return false;
+  return sameText(m[2], await sign(env.ADMIN_PASSWORD, "admin-session:" + m[1]));
+}
+
+const LOGIN = (msg) => `<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex, nofollow">
+<title>HaulTimes admin</title><style>
+body{margin:0;font-family:-apple-system,system-ui,sans-serif;background:#f5f6f7;color:#111418;display:flex;min-height:100vh;align-items:center;justify-content:center}
+form{background:#fff;border:1px solid #d5d9de;border-radius:12px;padding:28px 24px;width:min(340px,calc(100vw - 32px));box-sizing:border-box}
+h1{font-size:20px;margin:0 0 4px}p{color:#4a5260;font-size:14px;margin:0 0 18px}
+input{width:100%;box-sizing:border-box;font-size:17px;padding:12px;border:1px solid #c9ced5;border-radius:8px;margin-bottom:14px}
+button{width:100%;font-size:16px;font-weight:700;padding:12px;border:0;border-radius:8px;background:#101826;color:#fff}
+.err{color:#c4262e;font-weight:600}</style></head><body>
+<form method="post" action="/admin/login"><h1>HaulTimes admin</h1>
+<p${msg ? ' class="err"' : ""}>${msg || "Private. Enter the admin password."}</p>
+<input type="text" name="username" value="admin" autocomplete="username" hidden>
+<input type="password" name="password" placeholder="Password" autocomplete="current-password" autofocus required>
+<button type="submit">Sign in</button></form></body></html>`;
+
+const loginPage = (msg, status = 401) => new Response(LOGIN(msg), { status, headers: { "content-type": "text/html; charset=utf-8", ...NOINDEX } });
+
 /** null when the visitor may enter, otherwise the Response to send back. */
 export async function guard(request, env, db, now) {
   if (!env.ADMIN_PASSWORD) {
     return new Response("Admin panel is not set up yet: add an ADMIN_PASSWORD secret in Cloudflare Pages settings.", { status: 503, headers: NOINDEX });
   }
+  if (await validSession(env, request, now)) return null;
   const ip = request.headers.get("cf-connecting-ip") || "unknown";
   const who = await voterCode(db, ip, now);
+  // Older Basic sign-in still accepted (e.g. saved in a desktop browser).
   const h = request.headers.get("authorization") || "";
   let pass = null;
   if (h.startsWith("Basic ")) {
     try { pass = atob(h.slice(6)).split(":").slice(1).join(":"); } catch (e) { pass = null; }
   }
   if (pass !== null && sameText(pass, env.ADMIN_PASSWORD)) return null;
-  if (pass !== null && (await bump(db, "login:" + who, now)) > 10) {
-    return new Response("Too many wrong passwords. Try again in an hour.", { status: 429, headers: NOINDEX });
+  const path = new URL(request.url).pathname.replace(/^\/admin\/?/, "").replace(/\/$/, "");
+  if (path === "login" && request.method === "POST") {
+    const tries = await db.prepare("SELECT n FROM hits WHERE k = ? AND hour = ?").bind("login:" + who, now.toISOString().slice(0, 13)).first();
+    if (tries && tries.n >= 10) return loginPage("Too many wrong passwords. Try again in an hour.", 429);
+    const form = await request.formData().catch(() => null);
+    const given = form ? String(form.get("password") || "") : "";
+    if (given && sameText(given, env.ADMIN_PASSWORD)) {
+      return new Response(null, { status: 303, headers: { location: "/admin/", ...NOINDEX,
+        "set-cookie": `${COOKIE}=${await makeSession(env, now)}; Path=/admin; Max-Age=${SESSION_DAYS * 86400}; HttpOnly; Secure; SameSite=Strict` } });
+    }
+    await bump(db, "login:" + who, now);
+    return loginPage("Wrong password. Try again.");
   }
-  return new Response("Password required.", { status: 401, headers: { "www-authenticate": 'Basic realm="HaulTimes admin", charset="UTF-8"', ...NOINDEX } });
+  if (pass !== null && (await bump(db, "login:" + who, now)) > 10) return loginPage("Too many wrong passwords. Try again in an hour.", 429);
+  if (path.startsWith("api/")) return json({ ok: false, error: "Signed out. Reload the page." }, 401);
+  return loginPage("");
 }
 
 const all = async (db, sql, ...a) => (await db.prepare(sql).bind(...a).all()).results;
@@ -116,7 +168,9 @@ export async function handleAdmin(request, env, page, now = new Date()) {
   const url = new URL(request.url);
   const path = url.pathname.replace(/^\/admin\/?/, "").replace(/\/$/, "");
   const q = Object.fromEntries(url.searchParams);
-  if (path === "" ) return new Response(page, { headers: { "content-type": "text/html; charset=utf-8", ...NOINDEX } });
+  if (path === "logout") return new Response(null, { status: 303, headers: { location: "/admin/", ...NOINDEX,
+    "set-cookie": `${COOKIE}=; Path=/admin; Max-Age=0; HttpOnly; Secure; SameSite=Strict` } });
+  if (path === "" || path === "login") return new Response(page, { headers: { "content-type": "text/html; charset=utf-8", ...NOINDEX } });
   if (path === "api/stats") return json(await stats(db, now));
   if (path === "api/rates") return json(await listRates(db, q));
   if (path === "api/polls") return json(await listPolls(db, /^\d{4}-\d{2}-\d{2}$/.test(q.week || "") ? q.week : weekOf(now)));
