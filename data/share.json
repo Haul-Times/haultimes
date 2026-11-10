@@ -1,0 +1,20 @@
+{
+ "promo-20261110": {
+  "title": "HaulTimes Freight Market: Is that load offer fair?",
+  "desc": "Is that load offer fair? Check any lane against what other carriers reported this week: dry van, reefer, flatbed and step deck, across the US and Canada. Free and anonymous on HaulTimes Freight Market.",
+  "card": {
+   "type": "promo",
+   "kicker": "Freight Market",
+   "headline": "Is that load offer fair?",
+   "sub": "Check any lane against what carriers reported this week.",
+   "chips": [
+    "Dry van",
+    "Reefer",
+    "Flatbed",
+    "Step deck"
+   ]
+  },
+  "target": "/freight-market/#chk",
+  "created": "2026-11-10T15:01:37.542824+00:00"
+ }
+}
