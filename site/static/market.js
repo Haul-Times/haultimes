@@ -66,6 +66,9 @@
       tip.textContent = (NAMES[k] || k) + ": " + v.level + " (" + v.hot + " hot, " + v.normal + " normal, " + v.slow + " slow)";
     });
     $("#map-title").textContent = (eq === "all" ? "All loads" : EQ[eq] + " loads") + ", week of " + new Date(last.week + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric" });
+    var cta = $("#rep-cta-n");
+    if (cta) cta.textContent = last.reports + (last.reports === 1 ? " report" : " reports") + " this week" +
+      (last.lanes_waiting ? " · " + last.lanes_waiting + (last.lanes_waiting === 1 ? " lane" : " lanes") + " building toward the minimum" : "");
     $("#map-count").textContent = last.reports + " reports this week. " + (shown ? shown + " areas shown, " + hot + " hot." : "No area has 5 reports yet.");
   }
 
