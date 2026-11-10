@@ -26,6 +26,34 @@
   "kind": "news"
  },
  {
+  "id": "3176cf5643",
+  "slug": "fuel-prices-trigger-coordinated-trucker-blockades-across-chile-disrupt-3176cf5643",
+  "title": "Fuel prices trigger coordinated trucker blockades across Chile, disrupting major north-south routes",
+  "orig_title": "Fuel prices trigger coordinated trucker blockades across Chile, disrupting major north-south routes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Latin Times",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHBTeHdDQWJELU5aQ1VCMV9yRmpGSS1YNDBwdG5uMnpKZW5WWWxxTjRIY2tUeGp4Qmd4NWY3Q0JjZUxsdHlIcE1yOU1qSmtVaUoyVXlsbVFxWkFwNUxjT0V6Nk1rS2J3bnpyWnVJOHVaaEluNXpWTjhzX2kwc2RuN2VlNGtvWDEy?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHBTeHdDQWJELU5aQ1VCMV9yRmpGSS1YNDBwdG5uMnpKZW5WWWxxTjRIY2tUeGp4Qmd4NWY3Q0JjZUxsdHlIcE1yOU1qSmtVaUoyVXlsbVFxWkFwNUxjT0V6Nk1rS2J3bnpyWnVJOHVaaEluNXpWTjhzX2kwc2RuN2VlNGtvWDEy",
+  "snippet": "Fuel prices trigger coordinated trucker blockades across Chile, disrupting major north-south routes Latin Times",
+  "published": "2026-11-10T15:09:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T15:29:56.472742+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "57e48c4bf1",
   "slug": "north-charleston-port-truckers-halt-work-over-pay-safety-57e48c4bf1",
   "title": "North Charleston Port Truckers Halt Work Over Pay, Safety",

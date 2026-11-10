@@ -659,7 +659,15 @@
    "house": "promo",
    "reason": "HaulTimes update: promo",
    "last_attempt_at": "2026-11-10T15:21:27.051586+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122100349905544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122100349905544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122100349905544428",
+    "created": "2026-11-10T15:21:27+0000",
+    "at": "2026-11-10T15:30:07.959435+00:00"
+   }
   }
  },
  "paused": null,
@@ -1651,13 +1659,13 @@
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122099875881544428",
+  "post": "1476615495528085_122100349905544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122099875881544428",
-  "created": "2026-11-10T03:22:45+0000",
-  "at": "2026-11-10T14:21:29.823491+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122100349905544428",
+  "created": "2026-11-10T15:21:27+0000",
+  "at": "2026-11-10T15:30:07.959435+00:00"
  },
  "promo_i": 1
 }
