@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T01:33:59.637688+00:00",
- "hour_now": 20,
+ "updated": "2026-11-10T02:31:04.782478+00:00",
+ "hour_now": 21,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -10,17 +10,17 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
-    "lanes": "5",
-    "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "lanes": "7",
+    "status": "delay",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:15 EST"
+    "updated": "2026-11-09 21:15 EST"
    },
    "usual": {
     "south": [
@@ -45,7 +45,7 @@
      25,
      20,
      0,
-     null,
+     10,
      null,
      null
     ],
@@ -71,7 +71,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -87,15 +87,15 @@
    "south": {
     "wait": 35,
     "fast_wait": 0,
-    "lanes": "5",
+    "lanes": "4",
     "status": "delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:15 EST"
+    "updated": "2026-11-09 21:15 EST"
    },
    "usual": {
     "south": [
@@ -120,7 +120,7 @@
      35,
      35,
      35,
-     null,
+     35,
      null,
      null
     ],
@@ -146,7 +146,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 20:15 EST"
+    "updated": "2026-11-09 21:15 EST"
    },
    "usual": {
     "south": [
@@ -195,7 +195,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -221,7 +221,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 8:17 pm EST",
+    "updated": "At 9:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 2,
     "status": "2 minutes",
-    "updated": "2026-11-09 20:20 EST"
+    "updated": "2026-11-09 21:20 EST"
    },
    "usual": {
     "south": [
@@ -270,7 +270,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -296,7 +296,7 @@
      1,
      4,
      2,
-     null,
+     2,
      null,
      null
     ]
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:17 pm EST",
+    "updated": "At 9:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 1,
     "status": "1 minute",
-    "updated": "2026-11-09 20:20 EST"
+    "updated": "2026-11-09 21:20 EST"
    },
    "usual": {
     "south": [
@@ -345,7 +345,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -371,7 +371,7 @@
      4,
      2,
      1,
-     null,
+     1,
      null,
      null
     ]
@@ -420,7 +420,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -446,7 +446,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -464,13 +464,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:15 EST"
+    "updated": "2026-11-09 21:15 EST"
    },
    "usual": {
     "south": [
@@ -495,7 +495,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -521,7 +521,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 pm EST",
+    "updated": "At 10:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -570,7 +570,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -596,7 +596,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:15 CDT"
+    "updated": "2026-11-09 21:15 CDT"
    },
    "usual": {
     "south": [
@@ -645,7 +645,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -671,7 +671,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -687,15 +687,15 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:15 EST"
+    "updated": "2026-11-09 20:39 EST"
    },
    "usual": {
     "south": [
@@ -720,7 +720,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -746,7 +746,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:17 EST"
+    "updated": "2026-11-09 21:15 EST"
    },
    "usual": {
     "south": [
@@ -795,7 +795,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -821,7 +821,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:15 EST"
+    "updated": "2026-11-09 21:15 EST"
    },
    "usual": {
     "south": [
@@ -870,7 +870,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -896,7 +896,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -945,7 +945,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -971,7 +971,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:25:41",
+    "updated": "21:20:57",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,17 +1060,17 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 42,
+    "wait": 24,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "1",
     "status": "delay",
-    "updated": "At 7:00 pm CST",
+    "updated": "At 8:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:15 CDT"
+    "updated": "2026-11-09 21:15 CDT"
    },
    "usual": {
     "south": [
@@ -1095,7 +1095,7 @@
      11,
      0,
      42,
-     null,
+     24,
      null,
      null
     ],
@@ -1121,7 +1121,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 18:15 CST"
+    "updated": "2026-11-09 20:15 CST"
    },
    "usual": {
     "south": [
@@ -1189,7 +1189,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm MST",
+    "updated": "At 7:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1238,7 +1238,7 @@
      31,
      35,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -1264,7 +1264,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
@@ -1278,17 +1278,17 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 5:00 pm PST",
+    "status": "delay",
+    "updated": "At 6:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-09 18:20 PDT"
+    "updated": "2026-11-09 19:20 PDT"
    },
    "usual": {
     "south": [
@@ -1313,7 +1313,7 @@
      0,
      0,
      0,
-     null,
+     10,
      null,
      null
     ],
@@ -1339,7 +1339,7 @@
      14,
      5,
      5,
-     null,
+     5,
      null,
      null
     ]
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 18:20 PDT"
+    "updated": "2026-11-09 19:20 PDT"
    },
    "usual": {
     "south": [
@@ -1388,7 +1388,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -1414,7 +1414,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
