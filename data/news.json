@@ -78,6 +78,32 @@
   "kind": "rejected"
  },
  {
+  "id": "e8cf9f5f84",
+  "slug": "fuel-protest-convoys-announced-for-friday-e8cf9f5f84",
+  "title": "Fuel protest convoys announced for Friday",
+  "orig_title": "Fuel protest convoys announced for Friday",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Midwest Radio",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1BCT3ljaEUzQkcwMHBPZU40OEhuNGhpMGZIUGtLSFhQOUphempBcHVaSWpMMGlDZjlqSThQdUhoUVV0WUcyc2szR0lsZkwxS19iSjVSdzlFNzF1cG9JRXhSejBNWEllV24ycG9IVFV5VmJpNTJLRU1qME5HWmxMTw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1BCT3ljaEUzQkcwMHBPZU40OEhuNGhpMGZIUGtLSFhQOUphempBcHVaSWpMMGlDZjlqSThQdUhoUVV0WUcyc2szR0lsZkwxS19iSjVSdzlFNzF1cG9JRXhSejBNWEllV24ycG9IVFV5VmJpNTJLRU1qME5HWmxMTw",
+  "snippet": "Fuel protest convoys announced for Friday Midwest Radio",
+  "published": "2026-11-10T09:15:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T10:01:07.577525+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "8b643db7d4",
   "slug": "clean-tech-power-stock-jumps-22-on-first-definitive-heavy-duty-inverte-8b643db7d4",
   "title": "Clean-Tech Power Stock Jumps 22% on First Definitive Heavy-Duty Inverter License",
