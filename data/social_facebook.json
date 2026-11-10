@@ -788,7 +788,8 @@
   "fe70ebd4f2": "skipped|importance 45 is below this platform's threshold (65)",
   "ad056ee773": "skipped|importance 45 is below this platform's threshold (65)",
   "498f2cb139": "skipped|importance 45 is below this platform's threshold (65)",
-  "cf75ec0167": "skipped|importance 62 is below this platform's threshold (65)"
+  "cf75ec0167": "skipped|importance 62 is below this platform's threshold (65)",
+  "3942921a18": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -1574,6 +1575,13 @@
    "title": "Diesel prices begin to downshift",
    "action": "skipped",
    "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T14:44:38.732860+00:00",
+   "story_id": "3942921a18",
+   "title": "Trucker Path adds CB radio feature to connect drivers on the road",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
