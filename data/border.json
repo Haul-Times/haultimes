@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T06:51:02.456435+00:00",
- "hour_now": 1,
+ "updated": "2026-11-10T07:01:06.192767+00:00",
+ "hour_now": 2,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -26,7 +26,7 @@
     "south": [
      12,
      2,
-     null,
+     0,
      null,
      null,
      null,
@@ -52,7 +52,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -101,7 +101,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -127,7 +127,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:42:14",
+    "updated": "01:57:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -202,7 +202,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 12,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 1:37 am EST",
+    "status": "no delay",
+    "updated": "At 1:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -251,7 +251,7 @@
     "south": [
      0,
      10,
-     null,
+     0,
      null,
      null,
      null,
@@ -277,7 +277,7 @@
     "north": [
      7,
      9,
-     null,
+     9,
      null,
      null,
      null,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 1:37 am EST",
+    "status": "delay",
+    "updated": "At 1:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -326,7 +326,7 @@
     "south": [
      0,
      0,
-     null,
+     12,
      null,
      null,
      null,
@@ -352,7 +352,7 @@
     "north": [
      2,
      1,
-     null,
+     1,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:42:14",
+    "updated": "01:57:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -427,7 +427,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -476,7 +476,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -502,7 +502,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -551,7 +551,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -577,7 +577,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -626,7 +626,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -652,7 +652,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 am EST",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -701,7 +701,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -727,7 +727,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 am EST",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -776,7 +776,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -802,7 +802,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:42:14",
+    "updated": "01:57:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -877,7 +877,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -926,7 +926,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -952,7 +952,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:42:14",
+    "updated": "01:57:19",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-10 02:02 AST"
+    "updated": "2026-11-10 02:54 AST"
    },
    "usual": {
     "south": [
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:42:14",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 1:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1076,7 +1076,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1102,7 +1102,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1170,7 +1170,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1219,7 +1219,7 @@
     "south": [
      1,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1245,7 +1245,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1294,7 +1294,7 @@
     "south": [
      1,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1320,7 +1320,7 @@
     "north": [
      5,
      6,
-     null,
+     10,
      null,
      null,
      null,
@@ -1369,7 +1369,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
