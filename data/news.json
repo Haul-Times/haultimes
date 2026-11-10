@@ -28,6 +28,34 @@
   "kind": "announcement"
  },
  {
+  "id": "89ca20ac5e",
+  "slug": "jungheinrich-reports-higher-nine-month-orders-adjusts-medium-term-targ-89ca20ac5e",
+  "title": "Jungheinrich reports higher nine-month orders, adjusts medium-term targets",
+  "orig_title": "Jungheinrich reports higher nine-month orders, adjusts medium-term targets",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "American Journal of Transportation",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDY3UU8xa0VFVXlyVkdmZzYtTm9fX3VCQUhYZ3BkR0JBd1hyRFNIU19MNUMyZVh2c1hOTHJSNFAxbWg4aEY4LVVCdE5OT2xISFRxSGdsSkhaV1VBRDVlYmIxQVYzYl9sTTBETnp2NTJtYkF3OUhxcko3YVZlWnNGSjJacGE0bDJxRFNUN2pHY1MyWGtYWk11Qm1MWHhyeXFR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDY3UU8xa0VFVXlyVkdmZzYtTm9fX3VCQUhYZ3BkR0JBd1hyRFNIU19MNUMyZVh2c1hOTHJSNFAxbWg4aEY4LVVCdE5OT2xISFRxSGdsSkhaV1VBRDVlYmIxQVYzYl9sTTBETnp2NTJtYkF3OUhxcko3YVZlWnNGSjJacGE0bDJxRFNUN2pHY1MyWGtYWk11Qm1MWHhyeXFR",
+  "snippet": "Jungheinrich reports higher nine-month orders, adjusts medium-term targets American Journal of Transportation",
+  "published": "2026-11-10T14:41:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T14:51:06.744752+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "8543bbf9fc",
   "slug": "retailers-forecast-u-s-imports-to-stay-elevated-through-2026-after-bre-8543bbf9fc",
   "title": "Retailers forecast U.S. imports to stay elevated through 2026 after breakout peak season",
