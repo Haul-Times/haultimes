@@ -433,7 +433,7 @@ def story_row(s):
     return ('<article class="row" data-time="%s" data-score="%d">%s<div class="txt"><a class="kicker" href="%s">%s</a>'
             '<h2 class="h-md"><a href="%s">%s</a></h2>%s<span class="meta">%s · %s%s</span></div></article>') % (
         when(s).isoformat(), s["importance"], pic(s), cat_url(s["category"]), E(cat_label(s["category"])),
-        story_url(s), E(s["title"]), ("<p>%s</p>" % E(s["summary"])) if s.get("summary") else "", time_tag(s), src(s), share_icon(s))
+        story_url(s), E(s["title"]), "", time_tag(s), src(s), share_icon(s))  # lists stay headline-only
 
 
 def build_topic(key, stories, all_stories):

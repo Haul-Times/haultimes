@@ -29,7 +29,10 @@
     "https://news.google.com/rss/search?q=site:ttnews.com+when:2d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=site:ccjdigital.com+OR+site:overdriveonline.com+when:2d&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=site:thetrucker.com+OR+site:truckinginfo.com+when:2d+-%22driving+job%22+-%22truck+driving+jobs%22&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=site:trucknews.com+OR+site:todaystrucking.com+when:3d&hl=en-CA&gl=CA&ceid=CA:en"
+    "https://news.google.com/rss/search?q=site:trucknews.com+OR+site:todaystrucking.com+when:3d&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=trucking+OR+truckers+OR+%22truck+drivers%22+OR+%22trucking+company%22+OR+%22commercial+vehicles%22+site%3Acbc.ca+OR+site%3Actvnews.ca+when%3A3d+-%22food+truck%22+-%22monster+truck%22&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=trucking+OR+truckers+OR+%22truck+drivers%22+OR+%22trucking+company%22+OR+%22commercial+vehicles%22+site%3Aglobalnews.ca+OR+site%3Atheglobeandmail.com+OR+site%3Afinancialpost.com+OR+site%3Athecanadianpressnews.ca+when%3A3d+-%22food+truck%22+-%22monster+truck%22&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=site%3Aroadtoday.com+OR+site%3Acantruck.ca+OR+site%3Aontruck.org+OR+site%3Acanadianshipper.com+when%3A3d&hl=en-CA&gl=CA&ceid=CA:en"
   ],
   "keep_hidden_days": 4
 }
