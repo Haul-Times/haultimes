@@ -607,7 +607,8 @@
   "c99e6d2501": "skipped|importance 55 is below this platform's threshold (65)",
   "diesel-2026-11-02": "posted|HaulTimes update",
   "07209e2b45": "skipped|importance 55 is below this platform's threshold (65)",
-  "83eecc242b": "skipped|importance 45 is below this platform's threshold (65)"
+  "83eecc242b": "skipped|importance 45 is below this platform's threshold (65)",
+  "58925ac381": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1246,6 +1247,13 @@
    "title": "What trucking can still get from a lame-duck Congress before Jan. 3",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-10T07:21:17.189351+00:00",
+   "story_id": "58925ac381",
+   "title": "DPW training new plow truck drivers ahead of winter weather",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ]
 }
