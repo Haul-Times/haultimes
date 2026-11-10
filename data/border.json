@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:01:05.389557+00:00",
+ "updated": "2026-11-10T23:11:03.803341+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:47 pm EST",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 8,
-    "status": "8 minutes",
-    "updated": "2026-11-10 17:40 EST"
+    "wait": 6,
+    "status": "6 minutes",
+    "updated": "2026-11-10 18:00 EST"
    },
    "usual": {
     "south": [
@@ -293,7 +293,7 @@
      9,
      14,
      11,
-     8,
+     7,
      null,
      null,
      null,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:47 pm EST",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 2,
     "status": "2 minutes",
-    "updated": "2026-11-10 17:40 EST"
+    "updated": "2026-11-10 18:00 EST"
    },
    "usual": {
     "south": [
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "18:00:34",
+    "updated": "18:10:36",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm CST",
+    "updated": "At 7:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:00:34",
+    "updated": "18:10:36",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-10 18:47 AST"
+    "updated": "2026-11-10 18:56 AST"
    },
    "usual": {
     "south": [
@@ -1203,11 +1203,11 @@
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
    "south": {
-    "wait": 20,
+    "wait": 45,
     "fast_wait": null,
     "lanes": "1",
     "status": "delay",
-    "updated": "At 7:00 am MST",
+    "updated": "At 4:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1235,7 +1235,7 @@
      20,
      20,
      20,
-     20,
+     33,
      null,
      null,
      null,
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-10 15:40 PDT"
+    "updated": "2026-11-10 16:00 PDT"
    },
    "usual": {
     "south": [
@@ -1357,13 +1357,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "15:00:34",
+    "updated": "15:10:36",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 15:40 PDT"
+    "updated": "2026-11-10 16:00 PDT"
    },
    "usual": {
     "south": [
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 5,
-    "status": "5 minutes"
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Aldergrove",

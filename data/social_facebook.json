@@ -1226,7 +1226,8 @@
   "8b2c38e46d": "skipped|importance 57 is below this platform's threshold (65)",
   "8352a42eef": "skipped|importance 45 is below this platform's threshold (65)",
   "d839f6bd80": "skipped|importance 50 is below this platform's threshold (65)",
-  "233acdc2b0": "skipped|importance 45 is below this platform's threshold (65)"
+  "233acdc2b0": "skipped|importance 45 is below this platform's threshold (65)",
+  "fc1e6e4046": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -2362,6 +2363,13 @@
    "title": "Ohio DOT bridge inspector fatally struck by semi truck in I-70 construction zone",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T23:11:23.631157+00:00",
+   "story_id": "fc1e6e4046",
+   "title": "Trucking Market: Why Is It Flat Despite 12.8% Rejection?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
