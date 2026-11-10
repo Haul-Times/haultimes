@@ -885,6 +885,32 @@
   "kind": "news"
  },
  {
+  "id": "160209addc",
+  "slug": "forward-air-q3-earnings-call-highlights-160209addc",
+  "title": "Forward Air Q3 Earnings Call Highlights",
+  "orig_title": "Forward Air Q3 Earnings Call Highlights",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHFncjV4RHJtaVplekRGcGZfbE8zbzVRYXVwaXUtdm41NmpqMVVrM3N1dXRyYlhBXzRJWGlQRVFCQlY2N2N1bGN6Q3pVSS1vNDR5SXNoWVh3YzdtYVlUMGcwNkthdmxJUkRRLXZYZVFmakxfTWo1a1pCaklhN0dXVlA4X2FwUjUxbFhpbjhkS21fMDFSZjZJRlBkei10VDRyLWc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHFncjV4RHJtaVplekRGcGZfbE8zbzVRYXVwaXUtdm41NmpqMVVrM3N1dXRyYlhBXzRJWGlQRVFCQlY2N2N1bGN6Q3pVSS1vNDR5SXNoWVh3YzdtYVlUMGcwNkthdmxJUkRRLXZYZVFmakxfTWo1a1pCaklhN0dXVlA4X2FwUjUxbFhpbjhkS21fMDFSZjZJRlBkei10VDRyLWc",
+  "snippet": "Forward Air Q3 Earnings Call Highlights TradingView",
+  "published": "2026-11-09T23:14:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T13:49:47.595299+00:00",
+  "image": "",
+  "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "e9962f774a",
   "slug": "does-your-trucking-fleet-need-a-new-tms-e9962f774a",
   "title": "Does Your Trucking Fleet Need a New TMS?",
