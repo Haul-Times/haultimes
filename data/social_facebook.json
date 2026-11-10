@@ -495,14 +495,14 @@
    "source": "Commercial Carrier Journal",
    "dest": "https://haultimes.com/story/electric-mack-md-trucks-recalled-for-improper-hill-start-assist-messag-de46b78765/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=de46b78765",
    "caption": "Electric Mack MD trucks recalled for improper hill start assist message.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T12:11:21.611657+00:00",
    "published": "2026-11-10T10:17:53+00:00",
    "score": 75,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122100215613544428",
+   "posted_at": "2026-11-10T12:31:16.682465+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Electric Mack MD trucks recalled for improper hill start assist message | HaulTimes",
@@ -512,7 +512,9 @@
    },
    "reason": "importance 75 (threshold 65), Equipment, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T12:31:16.682465+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122100215613544428"
   }
  },
  "paused": null,
@@ -557,6 +559,10 @@
   {
    "at": "2026-11-10T05:41:12.985883+00:00",
    "msg": "posted 598d07d769"
+  },
+  {
+   "at": "2026-11-10T12:31:16.682465+00:00",
+   "msg": "posted de46b78765"
   }
  ],
  "decided": {
@@ -637,7 +643,7 @@
   "83eecc242b": "skipped|importance 45 is below this platform's threshold (65)",
   "58925ac381": "skipped|importance 45 is below this platform's threshold (65)",
   "e462d0d40e": "skipped|importance 57 is below this platform's threshold (65)",
-  "de46b78765": "queued|importance 75 (threshold 65), Equipment, trade publication",
+  "de46b78765": "posted|importance 75 (threshold 65), Equipment, trade publication; waited 19 min in queue",
   "ab01b31cb0": "skipped|importance 55 is below this platform's threshold (65)",
   "f636d43c1f": "skipped|importance 45 is below this platform's threshold (65)",
   "33c96b704c": "skipped|importance 45 is below this platform's threshold (65)",
@@ -1329,6 +1335,13 @@
    "title": "Ryder CEO John Diez to Address Stephens Annual Investment Conference",
    "action": "skipped",
    "reason": "minor item (event) or low-quality source"
+  },
+  {
+   "at": "2026-11-10T12:31:16.682465+00:00",
+   "story_id": "de46b78765",
+   "title": "Electric Mack MD trucks recalled for improper hill start assist message",
+   "action": "posted",
+   "reason": "importance 75 (threshold 65), Equipment, trade publication; waited 19 min in queue"
   }
  ]
 }
