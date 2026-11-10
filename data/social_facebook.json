@@ -1221,7 +1221,8 @@
   "fcbb818ef0": "skipped|importance 55 is below this platform's threshold (65)",
   "9b09ae420c": "skipped|importance 55 is below this platform's threshold (65)",
   "1d6b16d398": "skipped|importance 55 is below this platform's threshold (65)",
-  "3cce4b6a98": "skipped|importance 61 is below this platform's threshold (65)"
+  "3cce4b6a98": "skipped|importance 61 is below this platform's threshold (65)",
+  "52b3f0cc5a": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2322,6 +2323,13 @@
    "title": "1 in 6 supply chain professionals report AI-related data exposure, survey finds",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T22:41:20.422709+00:00",
+   "story_id": "52b3f0cc5a",
+   "title": "Tech Transformation: ShipStation Global’s AI Overhauls Freight Operations",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
