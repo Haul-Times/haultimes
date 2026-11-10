@@ -1291,6 +1291,34 @@
   "kind": "rejected"
  },
  {
+  "id": "e50a82377b",
+  "slug": "jungheinrich-stock-rises-as-orders-gain-6-and-2030-targets-reset-e50a82377b",
+  "title": "Jungheinrich stock rises as orders gain 6% and 2030 targets reset",
+  "orig_title": "Jungheinrich stock rises as orders gain 6% and 2030 targets reset",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ad-hoc-news.de",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS29PQkJ5UHZYRmNlYU1TaGI1elBJLXFhZU9IQ2lfamhRaEtaSWNGc09WMkJxN05xRTRwV1pWaTREcE5BNDNFQ2wyNjkyX2JyTkFxOHlxNU8tQlFjYmJwOXhFSmZxbDNnb2Jnd3QxN3pQSEEzUXhZeVFBeXZLNWI5NjE1QXdHUXRNVmVJYVZHalJHTV8xZzVOM3lYcDJ4bnZlT25MUTFkTnVIYl9POTRJcEdWZTY3Qm5JbS12clNIVnMxaGpuU2c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS29PQkJ5UHZYRmNlYU1TaGI1elBJLXFhZU9IQ2lfamhRaEtaSWNGc09WMkJxN05xRTRwV1pWaTREcE5BNDNFQ2wyNjkyX2JyTkFxOHlxNU8tQlFjYmJwOXhFSmZxbDNnb2Jnd3QxN3pQSEEzUXhZeVFBeXZLNWI5NjE1QXdHUXRNVmVJYVZHalJHTV8xZzVOM3lYcDJ4bnZlT25MUTFkTnVIYl9POTRJcEdWZTY3Qm5JbS12clNIVnMxaGpuU2c",
+  "snippet": "Jungheinrich stock rises as orders gain 6% and 2030 targets reset ad-hoc-news.de",
+  "published": "2026-11-10T11:12:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T17:21:03.255119+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "213cfebe89",
   "slug": "events-for-november-10-2026-213cfebe89",
   "title": "Events for November 10, 2026",
