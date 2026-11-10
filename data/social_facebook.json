@@ -930,14 +930,14 @@
    "source": "FleetOwner",
    "dest": "https://haultimes.com/story/shaver-driver-pay-changes-hit-a-four-year-high-a47ed62eec/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=a47ed62eec",
    "caption": "Shaver: Driver pay changes hit a four-year high.\n\nReported by FleetOwner. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T19:41:22.192204+00:00",
    "published": "2026-11-10T13:32:16+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122100533541544428",
+   "posted_at": "2026-11-10T19:58:36.792920+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Shaver: Driver pay changes hit a four-year high | HaulTimes",
@@ -947,7 +947,9 @@
    },
    "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T19:58:36.792920+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122100533541544428"
   }
  },
  "paused": null,
@@ -1036,6 +1038,10 @@
   {
    "at": "2026-11-10T19:21:26.459815+00:00",
    "msg": "posted c35e0010a1"
+  },
+  {
+   "at": "2026-11-10T19:58:36.792920+00:00",
+   "msg": "posted a47ed62eec"
   }
  ],
  "decided": {
@@ -1155,7 +1161,7 @@
   "4189f03da5": "skipped|importance 45 is below this platform's threshold (65)",
   "c35e0010a1": "posted|importance 65 (threshold 65), Rates & Market, local/other outlet; waited 10 min in queue",
   "4b917c17f1": "skipped|importance 61 is below this platform's threshold (65)",
-  "a47ed62eec": "queued|importance 67 (threshold 65), Drivers & Jobs, trade publication"
+  "a47ed62eec": "posted|importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue"
  },
  "decisions": [
   {
@@ -2165,6 +2171,13 @@
    "title": "Shaver: Driver pay changes hit a four-year high",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication"
+  },
+  {
+   "at": "2026-11-10T19:58:36.792920+00:00",
+   "story_id": "a47ed62eec",
+   "title": "Shaver: Driver pay changes hit a four-year high",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue"
   }
  ],
  "visibility": {

@@ -250,6 +250,34 @@
   "kind": "rejected"
  },
  {
+  "id": "9c2774918b",
+  "slug": "elana-quast-9c2774918b",
+  "title": "Elana Quast",
+  "orig_title": "Elana Quast",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14QzFTWnRLNTdFdDRoSnRlVFlfMnhIQ3RDTVNXZm5GeHl6anpIaHJQMXVnblFhOU1nblBfa1YyclFhWUVITHkxa0ZwZ25xMGtXbkl2cHVPOXdIeVBfSUozc1ItaTVESDg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14QzFTWnRLNTdFdDRoSnRlVFlfMnhIQ3RDTVNXZm5GeHl6anpIaHJQMXVnblFhOU1nblBfa1YyclFhWUVITHkxa0ZwZ25xMGtXbkl2cHVPOXdIeVBfSUozc1ItaTVESDg",
+  "snippet": "Elana Quast FreightWaves",
+  "published": "2026-11-10T18:40:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T19:58:24.578888+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "c35e0010a1",
   "slug": "dat-van-spot-rate-rises-to-3-05-a-mile-highest-since-early-2022-c35e0010a1",
   "title": "DAT: Van spot rate rises to $3.05 a mile, highest since early 2022",
