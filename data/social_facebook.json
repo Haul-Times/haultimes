@@ -787,7 +787,8 @@
   "b7de8ed881": "skipped|importance 45 is below this platform's threshold (65)",
   "fe70ebd4f2": "skipped|importance 45 is below this platform's threshold (65)",
   "ad056ee773": "skipped|importance 45 is below this platform's threshold (65)",
-  "498f2cb139": "skipped|importance 45 is below this platform's threshold (65)"
+  "498f2cb139": "skipped|importance 45 is below this platform's threshold (65)",
+  "cf75ec0167": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1566,6 +1567,13 @@
    "title": "COP31 : l’électrification du transport routier au cœur des ambitions climatiques",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T14:41:14.724069+00:00",
+   "story_id": "cf75ec0167",
+   "title": "Diesel prices begin to downshift",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
