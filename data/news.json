@@ -7851,28 +7851,6 @@
   "kind": "rejected"
  },
  {
-  "id": "81a5fb4e3b",
-  "slug": "illegal-trucking-archives-81a5fb4e3b",
-  "title": "illegal trucking Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPekJpME5JTC03VjRrUVhYU2hLck93MmMzd1lNRm10STZ1M29UOG5MYnB2WmNjeGFHZzNaUmo2RjVpTlB5YS04Z0lSVVhoMF9td1pWeERBUGh6T0NPb0tuVA?oc=5",
-  "published": "2026-11-06T05:55:42+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "illegal trucking Archives",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected"
- },
- {
   "id": "1bf8e7eaa6",
   "slug": "operation-highway-shield-removes-nearly-400-truckers-vehicles-from-us-1bf8e7eaa6",
   "title": "Operation Highway Shield Removes Nearly 400 Truckers, Vehicles From US Roads",
