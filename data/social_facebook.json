@@ -383,14 +383,14 @@
    "source": "Journal of Commerce",
    "dest": "https://haultimes.com/story/falling-us-truck-orders-cast-doubt-on-truckload-capacity-recovery-1b9eaa0792/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=1b9eaa0792",
    "caption": "Falling US truck orders cast doubt on truckload capacity recovery.\n\nReported by Journal of Commerce. The link has the details and the original article.\n\n#Trucking #Freight",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-09T21:19:02.916521+00:00",
    "published": "2026-11-09T20:32:00+00:00",
    "score": 78,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122099904327544428",
+   "posted_at": "2026-11-10T04:32:59.862132+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Falling US truck orders cast doubt on truckload capacity recovery | HaulTimes",
@@ -400,7 +400,9 @@
    },
    "reason": "importance 78 (threshold 65), Rates & Market, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T04:32:59.862132+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122099904327544428"
   },
   "f22cb7ef8f": {
    "story_id": "f22cb7ef8f",
@@ -506,6 +508,10 @@
   {
    "at": "2026-11-10T03:22:44.965792+00:00",
    "msg": "posted diesel-2026-11-02"
+  },
+  {
+   "at": "2026-11-10T04:32:59.862132+00:00",
+   "msg": "posted 1b9eaa0792"
   }
  ],
  "decided": {
@@ -563,7 +569,7 @@
   "2d4116ae72": "skipped|importance 55 is below this platform's threshold (65)",
   "eb6db6c5c6": "skipped|importance 50 is below this platform's threshold (65)",
   "64402e19b8": "skipped|importance 50 is below this platform's threshold (65)",
-  "1b9eaa0792": "queued|importance 78 (threshold 65), Rates & Market, trade publication",
+  "1b9eaa0792": "posted|importance 78 (threshold 65), Rates & Market, trade publication; waited 433 min in queue",
   "7bdf0749e5": "skipped|importance 62 is below this platform's threshold (65)",
   "7119a7ae85": "skipped|minor item (feature) or low-quality source",
   "f22cb7ef8f": "queued|importance 73 (threshold 65), Rates & Market, trade publication",
@@ -1179,6 +1185,13 @@
    "title": "NHTSA funding could help truck owners catch safety recalls sooner",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-10T04:32:59.862132+00:00",
+   "story_id": "1b9eaa0792",
+   "title": "Falling US truck orders cast doubt on truckload capacity recovery",
+   "action": "posted",
+   "reason": "importance 78 (threshold 65), Rates & Market, trade publication; waited 433 min in queue"
   }
  ]
 }
