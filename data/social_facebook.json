@@ -608,7 +608,8 @@
   "diesel-2026-11-02": "posted|HaulTimes update",
   "07209e2b45": "skipped|importance 55 is below this platform's threshold (65)",
   "83eecc242b": "skipped|importance 45 is below this platform's threshold (65)",
-  "58925ac381": "skipped|importance 45 is below this platform's threshold (65)"
+  "58925ac381": "skipped|importance 45 is below this platform's threshold (65)",
+  "e462d0d40e": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1254,6 +1255,13 @@
    "title": "DPW training new plow truck drivers ahead of winter weather",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T09:31:14.372833+00:00",
+   "story_id": "e462d0d40e",
+   "title": "NAFTA & USMCA Trucking Regulations",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ]
 }
