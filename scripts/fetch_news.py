@@ -12,6 +12,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -19,6 +20,7 @@ from email.utils import parsedate_to_datetime
 
 import article_meta
 import editorial
+import summarize
 from common import CATEGORIES, IMAGES, load_config, load_json, save_json, slugify
 
 SYSTEM_PROMPT = """You write for HaulTimes, a trucking and road-freight news site for truck drivers,
@@ -93,6 +95,21 @@ def parse_date(text):
     return dt.astimezone(timezone.utc)
 
 
+def feed_label(feed):
+    if isinstance(feed, dict) and feed.get("source"):
+        return feed["source"]
+    url = feed["url"] if isinstance(feed, dict) else feed
+    q = urllib.parse.parse_qs(urllib.parse.urlsplit(url).query).get("q", [""])[0]
+    return ("Google News: " + q[:70]) if q else urllib.parse.urlsplit(url).netloc
+
+
+def feed_country(feed):
+    url = feed["url"] if isinstance(feed, dict) else feed
+    if isinstance(feed, dict) and feed.get("country"):
+        return feed["country"]
+    return "CA" if ("gl=CA" in url or ".ca" in urllib.parse.urlsplit(url).netloc or "site%3A" in url and ".ca" in url) else "US"
+
+
 def fetch_feed(feed):
     """Read one RSS or Atom feed. `feed` is a URL, or {"url": ..., "source": "Publisher name"}."""
     url = feed["url"] if isinstance(feed, dict) else feed
@@ -148,29 +165,6 @@ def pick_image(sid, category):
     return ""  # the site falls back to a topic graphic
 
 
-def summarize(client, model, item):
-    msg = client.messages.create(
-        model=model,
-        max_tokens=400,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content":
-                   "Headline: %s\nSource: %s\nPublisher description: %s\n\nReturn the JSON."
-                   % (item["headline"], item["source"], item["snippet"] or "(none)")}],
-    )
-    text = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
-    match = re.search(r"\{.*\}", text, re.S)
-    if not match:
-        return None
-    data = json.loads(match.group(0))
-    if data.get("category") not in CATEGORIES:
-        data["category"] = "other"
-    try:
-        data["importance"] = max(1, min(100, int(data.get("importance", 50))))
-    except (TypeError, ValueError):
-        data["importance"] = 50
-    return data
-
-
 def new_record(sid, item, now):
     """A stored story. Rejected ones are kept too (with the reason), so rule changes can re-check them."""
     return {
@@ -179,7 +173,8 @@ def new_record(sid, item, now):
         "importance": 50, "source": item["source"], "link": item["link"], "url_key": editorial.canonical_url(item["link"]),
         "snippet": item.get("snippet", "")[:300],
         "published": item["published"] or now.isoformat(), "date_known": bool(item["published"]),
-        "first_seen": now.isoformat(), "image": "", "ai": False,
+        "first_seen": now.isoformat(), "image": "", "ai": False, "lang": item.get("lang") or "en",
+        "source_type": item.get("source_type") or "reporting",
     }
 
 
@@ -200,78 +195,128 @@ def main():
     cutoff = now - timedelta(days=cfg.get("keep_days", 30))
 
     added = 0
+    # Per-source record: last attempt, last success, error. Feeds the public status badge and the admin page.
+    registry = load_json("sources.json", {})
+    feed_ok = feed_fail = 0
     for feed in cfg["news_feeds"]:
+        url = feed["url"] if isinstance(feed, dict) else feed
+        rec = registry.setdefault(url, {"name": feed_label(feed), "country": feed_country(feed)})
+        rec["last_attempt"] = now.isoformat()
         try:
             items = fetch_feed(feed)
         except Exception as e:
             print("Feed failed:", str(feed)[:90], "-", e)
+            rec["error"] = (type(e).__name__ + ": " + str(e))[:200]
+            rec["fails_in_row"] = rec.get("fails_in_row", 0) + 1
+            feed_fail += 1
             continue
+        rec.update(last_success=now.isoformat(), error=None, fails_in_row=0, items=len(items))
+        feed_ok += 1
         for item in items:
+            if isinstance(feed, dict):
+                item["lang"], item["source_type"] = feed.get("lang"), feed.get("type")
             sid = story_id(item["headline"])
             key = editorial.canonical_url(item["link"])
             if sid in stories or sid in seen or (key and key in by_url):
                 continue  # already known: keep its original publication time, never "refresh" it
             if item["published"] and datetime.fromisoformat(item["published"]) < cutoff:
                 continue
+            if cfg.get("pause_new_stories"):
+                continue  # master pause: keep checking sources, publish nothing new
             stories[sid] = new_record(sid, item, now)
             by_url[key] = sid
             added += 1
+
+    configured = {(f["url"] if isinstance(f, dict) else f) for f in cfg["news_feeds"]}
+    registry = {k: v for k, v in registry.items() if k in configured}
+    save_json("sources.json", registry)
+    total = feed_ok + feed_fail
+    ca_ok = any(v.get("country") == "CA" and v.get("last_success") == now.isoformat() for v in registry.values())
+    # Healthy = most sources answered, including at least one Canadian one. A quiet hour with no new stories is still a success.
+    healthy = total > 0 and feed_ok / total >= 0.6 and ca_ok
+    run = load_json("collect_status.json", {})
+    run.update(last_attempt=now.isoformat(), sources_ok=feed_ok, sources_failed=feed_fail,
+               interval_minutes=cfg.get("collect_interval_minutes", 15))
+    if healthy:
+        run["last_success"] = now.isoformat()
+    if added:
+        run["last_new_story"] = now.isoformat()
+    run["last_result"] = "ok" if healthy else ("partial" if feed_ok else "failed")
+    save_json("collect_status.json", run)
 
     # Apply the editorial rules to everything stored (new and old).
     all_stories = list(stories.values())
     editorial.reprocess(all_stories, now)
 
-    # AI summaries: only for stories that passed the rules, and only when the publisher's own
-    # preview text was found. Headline-only stories stay headline-only (nothing guessed).
-    summarized = rejected_by_ai = no_desc = 0
-    if use_ai:
+    # Summaries: only for deduplicated stories that passed the rules, only from text the publisher makes
+    # available, checked before use. Anything that fails keeps its headline, publisher and link.
+    summarized = withheld = no_text = 0
+    mode = "off" if cfg.get("pause_summaries") else cfg.get("summaries_mode", "trial")
+    sstat = {"state": "off" if (mode == "off" or not use_ai) else "ok", "mode": mode, "last_run": now.isoformat()}
+    if use_ai and mode != "off":
+        usage = load_json("ai_usage.json", {})
+        budget = summarize.Budget(usage, cfg, now)
         two_days = now - timedelta(days=2)
-        today = now.date().isoformat()
-        done_today = sum(1 for s in all_stories if (s.get("ai_at") or "").startswith(today))
-        budget = max(0, min(cfg.get("ai_per_run", 6), cfg.get("ai_per_day", 25) - done_today))
-        todo = [s for s in all_stories if s["status"] == "ok" and s.get("ai") is False
-                and not s.get("desc_done") and s.get("desc_tries", 0) < 3
-                and datetime.fromisoformat(s["published"]) >= two_days]
+        todo = [s for s in all_stories if s["status"] == "ok" and not s.get("sum_done") and s.get("sum_tries", 0) < 3
+                and not s.get("manual_summary") and datetime.fromisoformat(s["published"]) >= two_days]
         todo.sort(key=lambda s: s["importance"], reverse=True)
-        for s in todo[:budget]:
-            s["desc_tries"] = s.get("desc_tries", 0) + 1
+        for s in todo[: cfg.get("ai_per_run", 8)]:
+            s["sum_tries"] = s.get("sum_tries", 0) + 1
             try:
-                pub_url, desc, note = article_meta.describe(s["link"])
+                pub_url, text, scope, note = article_meta.source_text(s["link"], s.get("snippet", ""))
             except urllib.error.HTTPError as e:
-                pub_url, desc, note = None, None, "publisher refused (%s)" % e.code
+                pub_url, text, scope, note = None, None, None, "publisher refused (%s)" % e.code
             except Exception as e:
-                print("Preview text lookup failed (will retry):", s["orig_title"][:60], "-", e)
+                print("Source text lookup failed (will retry):", s["orig_title"][:60], "-", e)
                 continue
-            s["desc_done"], s["desc_note"] = True, note
             if pub_url:
                 s["pub_url"] = pub_url
-            if not desc:
-                no_desc += 1
+            s["source_note"] = note
+            if not text:
+                s["sum_done"], s["sum_status"] = True, "no source text (%s)" % note
+                no_text += 1
                 continue
-            s["pub_desc"] = desc
-            item = {"headline": s["orig_title"], "source": s["source"], "snippet": desc}
+            fp = summarize.fingerprint(text)
+            if fp == s.get("source_fp") and s.get("sum_status"):
+                s["sum_done"] = True
+                continue
             try:
-                ai = summarize(client, cfg["ai_model"], item)
+                status, data = summarize.summarize_story(client, cfg["ai_model"], CATEGORIES, s, text, scope, budget)
             except Exception as e:
-                print("AI failed:", s["orig_title"][:60], "-", e)
-                continue
-            if not ai:
-                continue
-            s["ai"] = True
-            s["ai_at"] = now.isoformat()
-            s["ai_relevant"] = bool(ai.get("relevant", True))
-            s["ai_category"] = ai["category"]
-            s["ai_importance"] = ai["importance"]
-            s["region"] = ai.get("region", "Other")
-            if s["ai_relevant"]:
-                title = (ai.get("title") or s["orig_title"]).strip()
-                # The page address (slug) never changes once created: links already shared on Facebook/X must keep working.
-                s.update(title=title, summary=(ai.get("summary") or "").strip(), why=(ai.get("why_it_matters") or "").strip())
-                summarized += 1
+                print("Summary service failed:", s["orig_title"][:60], "-", type(e).__name__)
+                sstat["state"] = "error"
+                break
+            if status == "limit":
+                sstat["state"] = "limit"
+                break
+            s.update(sum_done=True, sum_status=status, source_fp=fp, source_scope=scope, sum_at=now.isoformat(),
+                     sum_version=s.get("sum_version", 0) + 1, sum_model=cfg["ai_model"],
+                     sum_evidence=data.get("evidence") or [], sum_problems=data.get("problems") or data.get("review_reasons") or [])
+            if data.get("category") in CATEGORIES:
+                s["ai_category"] = data["category"]
+            try:
+                s["ai_importance"] = max(1, min(100, int(data.get("importance"))))
+            except (TypeError, ValueError):
+                s["ai_importance"] = s.get("importance", 50)
+            s["region"] = data.get("region") or s.get("region", "")
+            if status == "irrelevant":
+                s["ai_relevant"] = False
+            elif status in ("published", "review"):
+                text_out, why = data["summary_text"].strip(), (data.get("why_it_matters") or "").strip()
+                if mode == "publish" and status == "published":
+                    s.update(summary=text_out, why=why)
+                    summarized += 1
+                else:  # trial batch or flagged: kept for the owner's review, not shown
+                    s.update(pending_summary=text_out, pending_why=why)
             else:
-                rejected_by_ai += 1
+                withheld += 1
             time.sleep(0.2)
+        save_json("ai_usage.json", usage)
+        sstat["spent_today_usd"], sstat["spent_month_usd"] = budget.spent()
+        sstat["caps_usd"] = {"day": budget.cap_day, "month": budget.cap_month}
         editorial.reprocess(all_stories, now)
+    sstat.update(made=summarized, withheld=withheld, no_source_text=no_text)
+    save_json("summary_status.json", sstat)
 
     # Keep shown stories for keep_days. Hidden ones (rejected, duplicates) are kept a few days
     # for review and re-checking, then dropped; their ids go to seen.json so they don't return.
@@ -297,7 +342,7 @@ def main():
         counts[s["status"]] = counts.get(s["status"], 0) + 1
     print("News: %d new items, %d on site, %d duplicates, %d rejected, %d for review%s." % (
         added, counts.get("ok", 0), counts.get("duplicate", 0), counts.get("rejected", 0), counts.get("review", 0),
-        ", %d AI summaries, %d judged off-topic by AI, %d without publisher preview text" % (summarized, rejected_by_ai, no_desc) if use_ai else " (headlines only)"))
+        ", summaries: %d published, %d withheld, %d without source text (mode %s)" % (summarized, withheld, no_text, mode) if use_ai else " (headlines only)"))
     return 0
 
 

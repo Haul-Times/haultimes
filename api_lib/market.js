@@ -1,3 +1,4 @@
+import { statusResponse } from "./status.js";
 // Reader-reported freight market for haultimes.com/freight-market/.
 // Runs as a Cloudflare Pages Function with a D1 database bound as DB.
 //
@@ -279,6 +280,7 @@ export async function handle(request, env, now = new Date()) {
   const path = url.pathname.replace(/^\/api\/?/, "").replace(/\/$/, "");
   const cf = request.cf || {};
 
+  if (path === "status") return statusResponse(env, now);
   if (path === "where") {
     const c = cf.country, r = cf.regionCode;
     const ok = (c === "US" || c === "CA") && country(r);

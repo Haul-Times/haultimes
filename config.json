@@ -32,7 +32,71 @@
     "https://news.google.com/rss/search?q=site:trucknews.com+OR+site:todaystrucking.com+when:3d&hl=en-CA&gl=CA&ceid=CA:en",
     "https://news.google.com/rss/search?q=trucking+OR+truckers+OR+%22truck+drivers%22+OR+%22trucking+company%22+OR+%22commercial+vehicles%22+site%3Acbc.ca+OR+site%3Actvnews.ca+when%3A3d+-%22food+truck%22+-%22monster+truck%22&hl=en-CA&gl=CA&ceid=CA:en",
     "https://news.google.com/rss/search?q=trucking+OR+truckers+OR+%22truck+drivers%22+OR+%22trucking+company%22+OR+%22commercial+vehicles%22+site%3Aglobalnews.ca+OR+site%3Atheglobeandmail.com+OR+site%3Afinancialpost.com+OR+site%3Athecanadianpressnews.ca+when%3A3d+-%22food+truck%22+-%22monster+truck%22&hl=en-CA&gl=CA&ceid=CA:en",
-    "https://news.google.com/rss/search?q=site%3Aroadtoday.com+OR+site%3Acantruck.ca+OR+site%3Aontruck.org+OR+site%3Acanadianshipper.com+when%3A3d&hl=en-CA&gl=CA&ceid=CA:en"
+    "https://news.google.com/rss/search?q=site%3Aroadtoday.com+OR+site%3Acantruck.ca+OR+site%3Aontruck.org+OR+site%3Acanadianshipper.com+when%3A3d&hl=en-CA&gl=CA&ceid=CA:en",
+    {
+      "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=federal-motor-carrier-safety-administration&order=newest",
+      "source": "Federal Register (FMCSA)",
+      "country": "US",
+      "type": "official",
+      "topics": [
+        "regulations"
+      ],
+      "trial": true
+    },
+    {
+      "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=transportcanada&sort=publishedDate&orderBy=desc&pick=30&format=atom&atomtitle=Transport%20Canada",
+      "source": "Transport Canada",
+      "country": "CA",
+      "type": "official",
+      "topics": [
+        "regulations"
+      ],
+      "trial": true
+    },
+    {
+      "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadaborderservicesagency&sort=publishedDate&orderBy=desc&pick=30&format=atom&atomtitle=CBSA",
+      "source": "Canada Border Services Agency",
+      "country": "CA",
+      "type": "official",
+      "topics": [
+        "border"
+      ],
+      "trial": true
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=camionnage+OR+camionneurs+OR+%22transport+routier%22+when%3A3d&hl=fr-CA&gl=CA&ceid=CA:fr",
+      "country": "CA",
+      "lang": "fr",
+      "topics": [
+        "general"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=%22double+brokering%22+OR+%22cargo+theft%22+OR+%22freight+fraud%22+OR+%22carrier+fraud%22+when%3A3d&hl=en-US&gl=US&ceid=US:en",
+      "country": "US",
+      "topics": [
+        "brokerage"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=%22distribution+center%22+OR+%22distribution+centre%22+OR+%22warehouse%22+trucks+OR+trucking+when%3A2d&hl=en-CA&gl=CA&ceid=CA:en",
+      "country": "CA",
+      "topics": [
+        "shippers"
+      ]
+    }
   ],
-  "keep_hidden_days": 4
+  "keep_hidden_days": 4,
+  "collect_interval_minutes": 10,
+  "summaries_mode": "trial",
+  "_summaries_help": "trial = write and check summaries but keep them hidden for the owner's review; publish = show summaries that pass the checks; off = headlines only.",
+  "pause_summaries": false,
+  "pause_new_stories": false,
+  "ai_per_run": 8,
+  "ai_daily_usd": 1.0,
+  "ai_monthly_usd": 15.0,
+  "ai_usd_per_mtok_in": 1.0,
+  "ai_usd_per_mtok_out": 5.0,
+  "_ai_cost_help": "Estimated prices per million tokens for the model in ai_model; check the current price list. Caps stop summaries, never headlines.",
+  "_collect_help": "How often news is checked (the Cloudflare build timer). The masthead says UPDATES DELAYED after 25 minutes without a successful check (30 for a 15-minute schedule)."
 }

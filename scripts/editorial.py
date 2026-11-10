@@ -53,7 +53,11 @@ RESEARCH_SOURCES = ["indexbox", "openpr", "market research future", "marketsandm
 WIRE_SOURCES = ["pr newswire", "prnewswire", "business wire", "businesswire", "globenewswire", "globe newswire",
                 "accesswire", "einpresswire", "ein presswire", "newswire", "prweb", "newsfile", "cision", "openpr"]
 # Trucking outlets in other countries (their headlines rarely say which country).
-FOREIGN_SOURCES = ["telesur", "mercopress", "buenos aires times", "rio times", "bnamericas", "prensa latina",
+UK_WORDS = ["pence", "petrol", "motorists", "dvla", "mot test", "fuel duty", "a-road", "m25", "m6 ", "nhs",
+            "council tax", "sainsbury", "tesco", "asda", "rac ", "aa says", "quid"]
+FOREIGN_SOURCES = ["daily express", "express.co.uk", "daily mail", "the sun", "daily mirror", "mirror", "gb news",
+                   "the independent", "the telegraph", "telegraph", "the guardian", "bbc", "sky news", "metro.co.uk",
+                   "birmingham live", "manchester evening news", "wales online", "chronicle live", "telesur", "mercopress", "buenos aires times", "rio times", "bnamericas", "prensa latina",
                    "sa trucker", "australasian transport", "prime mover", "big rigs", "owner//driver", "owner driver",
                    "fullyloaded", "fully loaded", "trailer magazine", "deliver magazine", "motor transport",
                    "road transport", "commercial motor", "transport engineer", "logistics manager", "nri affairs",
@@ -65,6 +69,10 @@ FOREIGN_SOURCES = ["telesur", "mercopress", "buenos aires times", "rio times", "
                    "gcaptain", "splash247", "lloyd's list", "tradewinds", "seatrade", "hellenic shipping",
                    "the loadstar", "air cargo news", "aircargo week", "railway age", "trains magazine", "ship & bunker"]
 
+# Canada-US trade measures that change what crosses the border by truck.
+TRADE_NA = ["tariff relief", "counter-tariff", "counter-tariffs", "surtax", "cusma", "usmca", "cbsa", "eManifest",
+            "ace manifest", "fast card", "port of entry", "ports of entry", "customs broker", "remission"]
+OFFICIAL_SOURCES = ["federal register", "transport canada", "fmcsa", "cbp.gov", "cbsa"]
 TRUCKING_SOURCES = TIER1 + ["thetrucker", "the trucker", "truckers news", "cdllife", "cdl life", "etrucker",
                             "fleet equipment", "bulk transporter", "trailer/body builders", "trailer body builders"]
 
@@ -117,7 +125,8 @@ def is_trucking_source(source):
 
 # ------------------------------------------------------------------ word lists
 # Words that only make sense for US/Canadian commercial road freight.
-STRONG = ["trucking", "trucker", "truckers", "truckload", "less-than-truckload", "ltl ", " ltl", "fmcsa", "cdl",
+STRONG = ["camionnage", "camionneur", "camionneurs", "camionneuse", "transport routier", "poids lourds",
+          "véhicules lourds", "trucking", "trucker", "truckers", "truckload", "less-than-truckload", "ltl ", " ltl", "fmcsa", "cdl",
           "owner-operator", "owner operator", "freight broker", "freight brokerage", "semi truck", "semi-truck",
           "semitruck", "tractor-trailer", "tractor trailer", "big rig", "18-wheeler", "class 8", "cvsa",
           "out of service", "out-of-service", "electronic logging", " eld", "hours of service", "hours-of-service",
@@ -493,6 +502,8 @@ def assess(title, source="", snippet=""):
     # 5. Other countries
     if _has(s, FOREIGN_SOURCES) and not _has(t, NA_PLACES):
         return reject("non-North American source")
+    if ("£" in raw or "€" in raw or _has(t, UK_WORDS)) and not _has(t, ["u.s.", "canada", "canadian", "american", "usmca", "cusma"]):
+        return reject("story about another country (UK/Europe)")
     t_geo = re.sub(r"new england|new south wales|new brunswick|new mexico|new york|new jersey", " na-place ", t)
     if _has(t_geo, FOREIGN) and not _has(t, ["u.s.", "canada", "canadian", "american", "usmca", "cusma", "tariff"]):
         return reject("story about another country")
@@ -504,7 +515,7 @@ def assess(title, source="", snippet=""):
         return reject("freight rates for another transport mode")
 
     # 7. Does it actually concern US/Canadian road freight?
-    strong = _has(t, STRONG) or _has(t, CARRIERS)
+    strong = _has(t, STRONG) or _has(t, CARRIERS) or _has(t, TRADE_NA) or _has(s, OFFICIAL_SOURCES)
     weak = sum(1 for w in WEAK if _has(t, [w]))
     trade_src = is_trucking_source(src)
     if not strong:

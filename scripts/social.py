@@ -871,6 +871,17 @@ class FacebookClient:
                             "FB_PAGE_TOKEN secret on GitHub.")
         return body.get("name") or body.get("id")
 
+    def inspect(self, post_id):
+        """Read-only: how Facebook sees one of our posts."""
+        status, headers, body = self.http(
+            "GET", "%s/%s?fields=is_published,is_hidden,privacy,permalink_url,created_time,status_type" % (GRAPH, post_id),
+            headers={"Authorization": "OAuth " + self.token})
+        body = self._check(status, headers, body, sent=False)
+        priv = body.get("privacy") or {}
+        return {"is_published": body.get("is_published"), "is_hidden": body.get("is_hidden"),
+                "privacy": priv.get("value") or priv.get("description"), "permalink": body.get("permalink_url"),
+                "created": body.get("created_time")}
+
     def find(self, message, since):
         """Look for a post we may already have made (after a timeout or crash)."""
         try:
@@ -1038,6 +1049,18 @@ def run_platform(platform, stories, cfg, st, now, site_dir, client=None, secret_
             return "live: paused (%s)" % st["paused"]["reason"]
         except (Temporary, RateLimited, Uncertain, Permanent) as e:
             log(st, now, "credential check failed: " + scrub(str(e), secret_values))
+
+    # Visibility check: ask Facebook how it sees our most recent posts (published? public? hidden?).
+    # Read-only; results go to st["visibility"] for the admin page and for troubleshooting.
+    if hasattr(client, "inspect"):
+        recent = sorted((x for x in st["items"].values() if x.get("post_id") and not x.get("fb_check")),
+                        key=lambda x: x.get("posted_at") or "", reverse=True)[:2]
+        for r in recent:
+            try:
+                r["fb_check"] = dict(client.inspect(r["post_id"]), at=now.isoformat())
+                st["visibility"] = {"post": r["post_id"], **r["fb_check"]}
+            except Exception as e:
+                st["visibility"] = {"post": r["post_id"], "error": scrub(str(e), secret_values)[:200], "at": now.isoformat()}
 
     # Settle anything left uncertain by an earlier run before posting anything new.
     for r in [x for x in st["items"].values() if x["status"] in ("posting", "uncertain")]:

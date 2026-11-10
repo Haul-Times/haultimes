@@ -33,7 +33,7 @@ def _asset_version():
     """Short fingerprint of the CSS and JS, so phones load new designs right away."""
     import hashlib
     h = hashlib.sha1()
-    for name in ("style.css", "site.js", "logo.svg"):
+    for name in ("style.css", "site.js", "logo.svg", "favicon.svg"):
         try:
             with open(os.path.join(STATIC, name), "rb") as f:
                 h.update(f.read())
@@ -150,7 +150,8 @@ def label(s):
 
 
 def src(s):
-    return E(s["source"]) + label(s)
+    extra = ' <span class="lang">· En français</span>' if s.get("lang") == "fr" else ""
+    return E(s["source"]) + label(s) + extra
 
 
 def write(path, content):
@@ -194,7 +195,10 @@ def head(title, desc, path, image=None, extra=""):
 <meta property="og:type" content="website">
 <meta property="og:image" content="{img}">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.ico?v={ver}" sizes="48x48">
 <link rel="icon" href="/static/favicon.svg?v={ver}" type="image/svg+xml">
+<link rel="icon" href="/static/icon-192.png?v={ver}" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="/static/apple-touch-icon.png?v={ver}">
 <link rel="alternate" type="application/rss+xml" title="{n}" href="/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -221,14 +225,63 @@ def header(active, stories):
     if latest:
         ticker = ('<div class="ticker"><div class="wrap"><span class="label">Latest</span>'
                   '<div class="lane"><div class="track">%s%s</div></div></div></div>') % (items, items.replace("<a ", '<a tabindex="-1" aria-hidden="true" '))
-    return """<div class="topbar"><div class="wrap"><span>{today} · Updated every 15 minutes</span>
+    return """<div class="topbar"><div class="wrap"><span>{today}</span>
 <nav aria-label="Site"><a href="/about/">About</a><a href="/contact/">Contact</a></nav></div></div>
 <header class="masthead"><div class="wrap">
 <a class="logo" href="/" aria-label="{name} home"><img src="/static/logo.svg?v={av}" alt="{name}" width="1962" height="331"></a>
+<p class="mh-desc">U.S. &amp; Canadian trucking news, freight markets and border updates—in one place.</p>
+{status}
 </div></header>
 <nav class="sections" aria-label="Sections"><div class="wrap">{links}</div></nav>
 {ticker}
-""".format(today=E(today), name=E(CFG["site_name"]), mark=MARK, tag=E(CFG["tagline"]), links="".join(links), ticker=ticker, av=ASSET_VER)
+""".format(today=E(today), name=E(CFG["site_name"]), mark=MARK, tag=E(CFG["tagline"]), links="".join(links), ticker=ticker, av=ASSET_VER, status=status_badge())
+
+
+def et_time(iso, now=None):
+    """'9:52 AM ET', or 'Nov 9, 9:52 PM ET' when it was on an earlier day (America/New_York, DST-aware)."""
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo("America/New_York")
+    t = datetime.fromisoformat(iso).astimezone(tz)
+    n = (now or datetime.now(timezone.utc)).astimezone(tz)
+    clock_s = t.strftime("%-I:%M %p")
+    return ("%s ET" % clock_s) if t.date() == n.date() else ("%s, %s ET" % (t.strftime("%b %-d"), clock_s))
+
+
+def write_status(stories):
+    """Safe public status facts for /api/status (no errors, keys or logs). Ages are judged by the server clock."""
+    st = load_json("collect_status.json", {})
+    fb = load_json("social_facebook.json", {})
+    posted = [i.get("posted_at") for i in (fb.get("items") or {}).values() if i.get("posted_at")]
+    srcs = load_json("sources.json", {})
+    summ = [s for s in stories if s.get("summary")]
+    out = {
+        "built": NOW.isoformat(),
+        "interval_minutes": CFG.get("collect_interval_minutes", 15),
+        "news": {"last_attempt": st.get("last_attempt"), "last_success": st.get("last_success"),
+                 "last_new_story": st.get("last_new_story"), "result": st.get("last_result"),
+                 "sources_ok": st.get("sources_ok"), "sources_total": (st.get("sources_ok") or 0) + (st.get("sources_failed") or 0),
+                 "sources_failing": sorted(v.get("name", "")[:60] for v in srcs.values() if v.get("fails_in_row", 0) >= 3)[:10]},
+        "summaries": load_json("summary_status.json", {"state": "off"}),
+        "social": {"state": "paused" if fb.get("paused") else ("ok" if posted else "idle"),
+                   "last_post": max(posted) if posted else None},
+        "stories_published": len(stories), "stories_with_summary": len(summ),
+    }
+    with open(os.path.join(SITE, "status.json"), "w") as f:
+        json.dump(out, f)
+
+
+def status_badge():
+    """Masthead status. The page only shows the last successful check (a fact from the data); the
+    UPDATING / DELAYED wording comes from /api/status, which compares it with the server clock."""
+    st = load_json("collect_status.json", {})
+    every = CFG.get("collect_interval_minutes", 15)
+    last = st.get("last_success")
+    line = "Headlines checked every %d minutes" % every
+    if last:
+        line += ' · Last checked <time datetime="%s">%s</time>' % (E(last), E(et_time(last)))
+    return ('<div class="mh-status" id="htStatus" data-every="%d"><button type="button" class="st-row" aria-expanded="false" '
+            'aria-controls="htStatusPanel"><span class="st-dot" aria-hidden="true"></span><span class="st-label">Status</span></button>'
+            '<span class="st-line">%s</span><div class="st-panel" id="htStatusPanel" hidden></div></div>') % (every, line)
 
 
 def footer(scripts=""):
@@ -314,7 +367,7 @@ def build_home(stories, border):
     top_week = take(week, 5)
 
     out = [head(CFG["site_name"] + " | " + CFG["tagline"],
-                "Freight and trucking news for the US and Canada, updated every 15 minutes: rates, border crossings, regulations, fuel, equipment and drivers.", "/"),
+                "U.S. & Canadian trucking news, freight markets and border updates in one place: rates, border crossings, regulations, fuel, equipment and drivers.", "/"),
            header("home", stories), '<main class="wrap">']
 
     if not lead:
@@ -349,11 +402,11 @@ def build_home(stories, border):
         bw = [c for c in (border or {}).get("crossings", []) if c.get("south") and c["south"].get("wait") is not None]
         if bw:
             bw.sort(key=lambda c: c["south"]["wait"], reverse=True)
-            right.append('<section aria-label="Border waits"><h2 class="sec-title"><a href="/border-wait-times/">Truck border waits ›</a></h2>'
+            right.append('<section aria-label="Border waits"><h2 class="sec-title"><a href="/border-wait-times/">Truck Border Wait Times ›</a></h2>'
                          '<ul class="mini-border">%s</ul><p class="note">Into the US, commercial lanes.</p></section>' %
                          "".join('<li><a href="/border-wait-times/">%s</a><strong>%s</strong></li>' % (E(c["name"]), fmt_wait(c["south"]["wait"])) for c in bw[:5]))
         else:
-            right.append('<section><h2 class="sec-title"><a href="/border-wait-times/">Truck border waits ›</a></h2>'
+            right.append('<section><h2 class="sec-title"><a href="/border-wait-times/">Truck Border Wait Times ›</a></h2>'
                          '<p>Live commercial wait times at every major US–Canada crossing.</p></section>')
         right.append(ad(True))
         right.append(signup())
@@ -409,23 +462,22 @@ def share_icon(s):
 
 
 def share_bar(s):
-    """Row of share links on a story page. Plain links, so they work even without JavaScript."""
+    """Round share icons on a story page (Facebook, X, Email, Copy link). Phones also get their own share sheet
+    button (Messages, WhatsApp...). Plain links, so they work even without JavaScript."""
     from urllib.parse import quote
     url, title = BASE + story_url(s), s["title"]
-    text = "%s %s" % (title, url)
     links = [
-        ("text", "Text", "sms:?&body=" + quote(text)),
-        ("whatsapp", "WhatsApp", "https://wa.me/?text=" + quote(text)),
-        ("facebook", "Facebook", "https://www.facebook.com/sharer/sharer.php?u=" + quote(url, safe="")),
-        ("email", "Email", "mailto:?subject=%s&body=%s" % (quote(title), quote("Saw this on HaulTimes:\n\n%s\n%s" % (title, url)))),
-        ("x", "X", "https://x.com/intent/post?text=%s&url=%s" % (quote(title), quote(url, safe=""))),
+        ("facebook", "Share on Facebook", "https://www.facebook.com/sharer/sharer.php?u=" + quote(url, safe="")),
+        ("x", "Share on X", "https://x.com/intent/post?text=%s&url=%s" % (quote(title), quote(url, safe=""))),
+        ("email", "Share by email", "mailto:?subject=%s&body=%s" % (quote(title), quote("Saw this on HaulTimes:\n\n%s\n%s" % (title, url)))),
     ]
-    out = ['<div class="share" aria-label="Share this story"><span class="lbl">Share</span>']
-    out.append('<button type="button" class="sh-native" data-u="%s" data-t="%s" hidden>%s Share…</button>' % (E(url), E(title), SHARE_SVG))
+    out = ['<div class="share" aria-label="Share this story"><span class="lbl">Share</span>',
+           '<button type="button" class="sh-native" hidden data-u="%s" data-t="%s" aria-label="Share" title="Share">%s</button>'
+           % (E(url), E(title), SHARE_SVG)]
     for key, name, href in links:
-        ext = "" if key in ("text", "email") else ' target="_blank" rel="noopener"'
-        out.append('<a class="sh-%s" data-net="%s" href="%s"%s>%s<span>%s</span></a>' % (key, key, E(href), ext, SHARE_ICONS[key], name))
-    out.append('<button type="button" class="sh-copy" data-u="%s">%s<span>Copy link</span></button></div>' % (E(url), SHARE_ICONS["copy"]))
+        ext = "" if key == "email" else ' target="_blank" rel="noopener"'
+        out.append('<a class="sh-%s" data-net="%s" href="%s"%s aria-label="%s" title="%s">%s</a>' % (key, key, E(href), ext, name, name, SHARE_ICONS[key]))
+    out.append('<button type="button" class="sh-copy" data-u="%s" aria-label="Copy link" title="Copy link">%s</button></div>' % (E(url), SHARE_ICONS["copy"]))
     return "".join(out)
 
 
@@ -493,6 +545,11 @@ def build_shares():
             print("share page failed:", hid, e)
 
 
+def geo_tag(s):
+    r = {"US": "United States", "Canada": "Canada", "Cross-border": "Canada–US cross-border"}.get(s.get("region") or "")
+    return (' · <span class="geo">%s</span>' % r) if r else ""
+
+
 def build_story(s, stories):
     """The story's own HaulTimes page. Publisher and the link to the original article are
     right under the headline, so a reader arriving from Facebook, X or our homepage
@@ -508,7 +565,11 @@ def build_story(s, stories):
     pub = E(s["source"])
     if has_summary(s):
         why = '<p class="why"><strong>Why it matters:</strong> %s</p>' % E(s["why"]) if s.get("why") else ""
-        body_text = '<p class="note">HaulTimes summary</p><p class="dek">%s</p>%s' % (E(s["summary"]), why)
+        paras = "".join('<p class="dek">%s</p>' % E(p) for p in s["summary"].split("\n\n") if p.strip())
+        scope = ('<p class="note">Based on the publisher\u2019s available excerpt.</p>' if s.get("source_scope") == "excerpt" else "")
+        body_text = ('%s%s%s<p class="note">Summary of reporting by %s. HaulTimes did not report this story.</p>'
+                     '<p><a class="btn amber" href="%s" data-out="%s">Read the full article at %s ›</a></p>') % (
+            paras, why, scope, pub, out_url(s), E(s["link"]), pub)
     else:
         body_text = ('<p class="note">HaulTimes lists this headline and links to the original reporting. '
                      'The story was reported by %s, not by HaulTimes.</p>' % pub)
@@ -516,7 +577,7 @@ def build_story(s, stories):
     body = """<main class="wrap"><div class="story"><article id="story-{sid}">
 <a class="kicker" href="{cu}">{cl}</a>
 <h1 class="h-xl">{t}</h1>
-<span class="meta">{tm}</span>
+<span class="meta">{tm}{geo}</span>
 <div class="source-box"><span>Reported by <strong>{pub}</strong>{lab}</span>
 <a class="btn amber" href="{out}" data-out="{link}">Read the original article at {pub} ›</a></div>
 {share}
@@ -525,7 +586,7 @@ def build_story(s, stories):
 {comments}</article>
 <aside>{strip}{rel}{ad}{signup}</aside></div></main>""".format(strip=market_strip(),
         sid=E(s["id"]), cu=cat_url(s["category"]), cl=E(cat_label(s["category"])), t=E(s["title"]), tm=time_tag(s),
-        pub=pub, lab=label(s), out=out_url(s), link=E(s["link"]), pic=pic(s), body_text=body_text,
+        pub=pub, lab=label(s), out=out_url(s), geo=geo_tag(s), link=E(s["link"]), pic=pic(s), body_text=body_text,
         comments=comments, ad=ad(True), signup=signup(), share=share_bar(s),
         rel=('<section><h2 class="sec-title">More %s</h2><ol class="ranked">%s</ol></section>' % (
             E(cat_label(s["category"])), "".join('<li><a href="%s">%s</a></li>' % (story_url(x), E(x["title"])) for x in related))) if related else "")
@@ -569,7 +630,7 @@ def build_border(border, stories):
     blob = json.dumps({"crossings": crossings, "hour_now": data.get("hour_now", 0)}, ensure_ascii=False).replace("</", "<\\/")
     body = """<main class="wrap">
 <div class="page-head"><h1>Truck border wait times, US ↔ Canada</h1>
-<p>Commercial lane waits at major crossings, refreshed every 15 minutes from official US and Canadian border data. Tap a crossing to see its usual wait by hour.</p>
+<p>Commercial lane waits at major crossings from official US and Canadian border data. Each crossing shows when the agency last updated it. Tap a crossing to see its usual wait by hour.</p>
 <span class="meta">Last updated {upd}</span>{note}</div>
 <div class="filters"><div class="group"><span class="lbl">Direction</span>
 <button class="chip" data-dir="south" aria-pressed="true">Into the US (southbound)</button>
@@ -595,7 +656,7 @@ def build_border(border, stories):
 <script id="border-data" type="application/json">{blob}</script>""".format(
         upd=E(updated or "soon"), note=note, regions=regions, n=len(crossings), rows="".join(rows), ad=ad(True), blob=blob)
     write("/border-wait-times/", head("Truck Border Wait Times US–Canada",
-                                      "Live commercial truck wait times at US–Canada border crossings, updated every 15 minutes, with the usual fastest times to cross.",
+                                      "Commercial truck wait times at US–Canada border crossings from official CBP and CBSA data, with the usual fastest times to cross.",
                                       "/border-wait-times/") + header("border-waits", stories) + body +
           footer('<script src="/static/border.js" defer></script>'))
 
@@ -618,7 +679,7 @@ def build_market(stories):
 
 def build_static_pages(stories):
     about = """<main class="wrap prose"><h1>About {n}</h1>
-<p>{n} brings freight and trucking news from across the US and Canada into one place, updated every 15 minutes, with live truck border wait times.</p>
+<p>{n} brings freight and trucking news from across the US and Canada into one place, with truck border wait times and freight market data.</p>
 <p>Every story links to its original publisher.</p>
 <p>For advertising, corrections or anything else, use our <a href="/contact/">contact form</a>.</p></main>""".format(n=E(CFG["site_name"]))
     write("/about/", head("About", "About HaulTimes, freight and trucking news for the US and Canada.", "/about/") + header("", stories) + about + footer())
@@ -783,11 +844,13 @@ def main():
         shutil.rmtree(SITE)
     os.makedirs(SITE)
     shutil.copytree(STATIC, os.path.join(SITE, "static"))
+    shutil.copy(os.path.join(STATIC, "favicon.ico"), os.path.join(SITE, "favicon.ico"))  # browsers and Google look here
     if os.path.isdir(IMAGES):
         shutil.copytree(IMAGES, os.path.join(SITE, "images"))
 
     build_home(stories, border)
     build_shares()
+    write_status(stories)
     for key in CATEGORIES:
         build_topic(key, stories, stories)
     for s in stories:

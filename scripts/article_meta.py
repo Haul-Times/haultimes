@@ -132,6 +132,84 @@ def allowed(url, get=_get):
     return _robots[root].can_fetch(BOT, url)
 
 
+class _Body(HTMLParser):
+    """Paragraph text from the article (inside <article> or <main> when present). Skips nav, ads, comments."""
+    SKIP = {"nav", "aside", "footer", "header", "script", "style", "noscript", "form", "figure", "button"}
+    VOID = {"br", "img", "hr", "input", "meta", "link", "source", "wbr"}
+    JUNK = re.compile(r"comment|related|newsletter|promo|advert|share|social|subscribe|recommend", re.I)
+
+    def __init__(self):
+        super().__init__()
+        self.paras, self.cur, self.in_p, self.scope, self.scoped = [], [], 0, 0, False
+        self.skip_tag, self.skip_depth = None, 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.VOID:
+            return
+        if self.skip_tag:
+            if tag == self.skip_tag:
+                self.skip_depth += 1
+            return
+        a = dict(attrs)
+        if tag in self.SKIP or self.JUNK.search((a.get("class") or "") + " " + (a.get("id") or "")):
+            self.skip_tag, self.skip_depth = tag, 1
+            return
+        if tag in ("article", "main"):
+            if not self.scoped:
+                self.paras = []
+            self.scoped = True
+            self.scope += 1
+        if tag == "p":
+            self.in_p, self.cur = 1, []
+
+    def handle_endtag(self, tag):
+        if self.skip_tag:
+            if tag == self.skip_tag:
+                self.skip_depth -= 1
+                if not self.skip_depth:
+                    self.skip_tag = None
+            return
+        if tag in ("article", "main") and self.scope:
+            self.scope -= 1
+        if tag == "p" and self.in_p:
+            self.in_p = 0
+            txt = _clean(" ".join(self.cur))
+            if txt and (self.scope or not self.scoped) and len(txt.split()) >= 6:
+                self.paras.append(txt)
+
+    def handle_data(self, data):
+        if self.in_p and not self.skip_tag:
+            self.cur.append(data)
+
+
+def body_from_html(page):
+    p = _Body()
+    try:
+        p.feed(page)
+    except Exception:
+        pass
+    text = "\n\n".join(p.paras)
+    return text if len(text.split()) >= 150 else None
+
+
+def source_text(link, feed_snippet="", get=_get):
+    """(publisher_url, text, scope, note). scope: full_article | excerpt | None (nothing usable)."""
+    url = google_to_publisher(link, get)
+    if not url:
+        return None, None, None, "no publisher address"
+    if not allowed(url, get):
+        return url, None, None, "robots.txt disallows"
+    final, page = get(url)
+    if re.search(r'paywall|subscriber-only|"isAccessibleForFree"\s*:\s*"?false', page, re.I):
+        d = description_from_html(page)
+        return final or url, d, ("excerpt" if d else None), "paywalled: excerpt only"
+    body = body_from_html(page)
+    if body:
+        return final or url, body, "full_article", "ok"
+    d = description_from_html(page) or (feed_snippet if len((feed_snippet or "").split()) >= 15 else None)
+    return final or url, d, ("excerpt" if d else None), "excerpt only" if d else "no usable text"
+
+
 def describe(link, get=_get):
     """(publisher_url, description or None, note). Raises only on network trouble worth retrying."""
     url = google_to_publisher(link, get)

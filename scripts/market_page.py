@@ -444,6 +444,9 @@ def reader_sections():
 <label>Currency<select name="currency"><option value="USD">US$</option><option value="CAD">C$</option></select></label>""".format(r=regions, eq=EQ_OPTIONS)
     tiles = tile_map({}, {}, "r-", "Reader reports by state and province. Details are in the lane table and legend.")
     return """<div class="mk-off" id="mk-off" hidden>Reader reports are switching on soon. The rate checker, map and lane rates will fill in as drivers and brokers report.</div>
+<aside class="rep-cta" aria-label="Report your rate"><div><b>Hauled or booked a load this week?</b>
+<span>Report the rate: anonymous, about 30 seconds. Lanes need 5 reports before rates show.</span>
+<span class="rep-n" id="rep-cta-n"></span></div><a class="btn2" href="#rep">Report your rate</a></aside>
 <section class="mk-sec" aria-labelledby="chk-h"><h2 id="chk-h" class="sec-title">Is this rate fair?</h2>
 <p class="mk-lede">Enter a load you've been offered. We compare it with what other carriers reported on the same lane.</p>
 <form id="chk" class="mk-form" novalidate><div class="f">{fields}</div>

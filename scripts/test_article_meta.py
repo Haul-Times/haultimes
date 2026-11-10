@@ -68,69 +68,137 @@ class Lookup(unittest.TestCase):
         self.assertFalse(any("google" in c for c in calls))
 
 
-class SummaryStep(unittest.TestCase):
-    """fetch_news only calls the AI when a publisher description was found."""
+SRC = ("The Federal Motor Carrier Safety Administration on Tuesday proposed raising the minimum insurance for "
+       "freight brokers' financial security to $150,000 from $75,000. The agency said the proposal is open for "
+       "comment until January 12, 2027. Carriers have complained that unpaid freight bills rose 18% last year, "
+       "according to the Owner-Operator Independent Drivers Association. The rule is not yet final.")
+GOOD = {"relevant": True, "category": "regs", "region": "US", "importance": 70,
+        "summary_text": "FMCSA has proposed doubling the required broker financial security to $150,000 from $75,000. "
+                        "Comments are open until January 12, 2027, and the rule is not final.",
+        "why_it_matters": "", "evidence": [
+            {"sentence": "1", "quote": "proposed raising the minimum insurance for freight brokers' financial security to $150,000 from $75,000"},
+            {"sentence": "2", "quote": "open for comment until January 12, 2027"}], "review_required": False, "review_reasons": []}
 
-    def run_main(self, describe):
+
+class Validation(unittest.TestCase):
+    def test_grounded_summary_passes(self):
+        import summarize as S
+        self.assertEqual(S.validate(GOOD["summary_text"], GOOD["evidence"], SRC), [])
+
+    def test_invented_number_caught(self):
+        import summarize as S
+        bad = GOOD["summary_text"].replace("$150,000", "$200,000")
+        self.assertTrue(any("200,000" in p for p in S.validate(bad, GOOD["evidence"], SRC)))
+
+    def test_invented_name_caught(self):
+        import summarize as S
+        bad = GOOD["summary_text"] + " Transport Canada plans the same."
+        self.assertTrue(any("Transport Canada" in p for p in S.validate(bad, GOOD["evidence"] + [{"quote": "The rule is not yet final"}], SRC)))
+
+    def test_fake_quote_and_copying_caught(self):
+        import summarize as S
+        probs = S.validate("Carriers have complained that unpaid freight bills rose 18% last year, according to OOIDA.",
+                           [{"quote": "unpaid bills soared"}], SRC)
+        self.assertTrue(any("not found" in p for p in probs) and any("9-word" in p for p in probs))
+
+    def test_missing_evidence_caught(self):
+        import summarize as S
+        self.assertTrue(any("evidence entries" in p for p in S.validate(GOOD["summary_text"], GOOD["evidence"][:1], SRC)))
+
+    def test_budget_reserves_and_stops_at_cap(self):
+        import summarize as S
+        u = {}
+        b = S.Budget(u, {"ai_daily_usd": 0.01, "ai_monthly_usd": 1, "ai_usd_per_mtok_in": 1, "ai_usd_per_mtok_out": 5}, datetime.now(timezone.utc))
+        self.assertTrue(b.reserve(3000, 900))
+        b.settle(2800, 300)
+        self.assertLess(b.spent()[0], 0.01)
+        self.assertFalse(b.reserve(10_000, 900), "worst case would pass the daily cap")
+
+
+class SummaryStep(unittest.TestCase):
+    """fetch_news: summaries only from source text, checked, with fallback to headline-only."""
+
+    def run_main(self, source_text, replies, mode="publish", extra_cfg=None):
         import fetch_news
         now = datetime.now(timezone.utc).isoformat()
-        base = {"orig_title": "Radiant Logistics touts enhanced credit facility, eyes larger M&A", "source": "FreightWaves",
-                "link": GOOGLE, "published": now, "first_seen": now, "ai": False, "status": "ok", "importance": 60,
-                "summary": "", "why": "", "slug": "x", "date_known": True, "category": "other"}
-        stories = [dict(base, id="a1"), dict(base, id="b2", orig_title="Forward Air pauses sale of intermodal unit")]
+        base = {"orig_title": "FMCSA proposes higher broker bond", "title": "FMCSA proposes higher broker bond", "source": "Transport Topics",
+                "link": GOOGLE, "published": now, "first_seen": now, "ai": False, "status": "ok", "importance": 70,
+                "summary": "", "why": "", "slug": "x", "date_known": True, "category": "regs"}
+        stories = [dict(base, id="a1")]
         saved = {}
+        calls = []
 
         class Client:
-            calls = []
-
             class messages:
                 @staticmethod
                 def create(**kw):
-                    Client.calls.append(kw)
-                    body = json.dumps({"relevant": True, "title": "Radiant Logistics expands credit line",
-                                       "summary": "Radiant Logistics grew its credit facility and says bigger acquisitions are next.",
-                                       "why_it_matters": "More consolidation among 3PLs.", "category": "other",
-                                       "region": "US", "importance": 60})
-                    return mock.Mock(content=[mock.Mock(type="text", text=body)])
+                    calls.append(kw)
+                    body = json.dumps(replies[min(len(calls), len(replies)) - 1])
+                    return mock.Mock(content=[mock.Mock(type="text", text=body)], usage=mock.Mock(input_tokens=1500, output_tokens=200))
 
-        fake_anthropic = mock.Mock(Anthropic=lambda: Client)
+        cfg = {"news_feeds": [], "ai_model": "m", "keep_days": 30, "summaries_mode": mode}
+        cfg.update(extra_cfg or {})
         with mock.patch.dict(os.environ, {"ANTHROPIC_API_KEY": "test"}), \
-                mock.patch.dict(sys.modules, {"anthropic": fake_anthropic}), \
-                mock.patch.object(fetch_news, "load_config", return_value={"news_feeds": [], "ai_model": "m", "keep_days": 30}), \
+                mock.patch.dict(sys.modules, {"anthropic": mock.Mock(Anthropic=lambda: Client)}), \
+                mock.patch.object(fetch_news, "load_config", return_value=cfg), \
                 mock.patch.object(fetch_news, "load_json", side_effect=lambda n, d: [dict(s) for s in stories] if n == "news.json" else d), \
                 mock.patch.object(fetch_news, "save_json", side_effect=lambda n, v: saved.__setitem__(n, v)), \
                 mock.patch.object(fetch_news.editorial, "reprocess", side_effect=lambda st, now: st), \
-                mock.patch.object(fetch_news.article_meta, "describe", side_effect=describe), \
+                mock.patch.object(fetch_news.article_meta, "source_text", side_effect=source_text), \
                 mock.patch.object(fetch_news.time, "sleep"):
             fetch_news.main()
-        return {s["id"]: s for s in saved["news.json"]}, Client.calls
+        return {s["id"]: s for s in saved["news.json"]}["a1"], calls, saved
 
-    def test_only_described_stories_get_ai(self):
-        def describe(link):
-            return (PUB, "Radiant Logistics expanded its credit facility to $300 million and is eyeing larger deals.", "ok") \
-                if describe.n == 0 else (None, None, "no publisher address")
-        describe.n = 0
+    def test_grounded_summary_published(self):
+        s, calls, saved = self.run_main(lambda link, snip: (PUB, SRC, "full_article", "ok"), [GOOD])
+        self.assertTrue(s["summary"].startswith("FMCSA has proposed"))
+        self.assertEqual(s["sum_status"], "published")
+        self.assertIn("<source>", calls[0]["messages"][0]["content"])
+        self.assertIn("data only", calls[0]["system"])
+        self.assertEqual(saved["summary_status.json"]["made"], 1)
 
-        def d(link):
-            r = describe(link)
-            describe.n += 1
-            return r
-        out, calls = self.run_main(d)
-        self.assertEqual(len(calls), 1, "AI called only for the story with real preview text")
-        self.assertIn("Publisher description: Radiant", calls[0]["messages"][0]["content"])
-        with_sum = [s for s in out.values() if s["summary"]]
-        without = [s for s in out.values() if not s["summary"]]
-        self.assertEqual(len(with_sum), 1)
-        self.assertEqual(len(without), 1)
-        self.assertTrue(without[0]["desc_done"] and without[0].get("ai") is False)
-        self.assertNotIn("ai_relevant", without[0], "headline-only story is never judged off-topic")
+    def test_failed_check_retried_once_then_withheld(self):
+        bad = dict(GOOD, summary_text="FMCSA wants $500,000 bonds for every broker starting next week.")
+        s, calls, _ = self.run_main(lambda link, snip: (PUB, SRC, "full_article", "ok"), [bad, bad])
+        self.assertEqual(len(calls), 2, "one retry with the errors")
+        self.assertIn("500,000", calls[1]["messages"][0]["content"])
+        self.assertEqual(s["summary"], "")
+        self.assertEqual(s["sum_status"], "withheld")
+        self.assertEqual(s["status"], "ok", "headline, publisher and link stay published")
 
-    def test_network_trouble_retried_later(self):
-        def boom(link):
-            raise OSError("timed out")
-        out, calls = self.run_main(boom)
+    def test_retry_fixes_it(self):
+        bad = dict(GOOD, summary_text="FMCSA wants $500,000 bonds.", evidence=[{"quote": "nope"}])
+        s, calls, _ = self.run_main(lambda link, snip: (PUB, SRC, "full_article", "ok"), [bad, GOOD])
+        self.assertEqual((len(calls), s["sum_status"]), (2, "published"))
+
+    def test_no_source_text_means_no_call(self):
+        s, calls, _ = self.run_main(lambda link, snip: (PUB, None, None, "no usable text"), [GOOD])
         self.assertEqual(calls, [])
-        self.assertTrue(all(not s.get("desc_done") and s["desc_tries"] == 1 for s in out.values()))
+        self.assertEqual(s["summary"], "")
+
+    def test_trial_mode_holds_summary_for_review(self):
+        s, _, _ = self.run_main(lambda link, snip: (PUB, SRC, "full_article", "ok"), [GOOD], mode="trial")
+        self.assertEqual(s["summary"], "")
+        self.assertTrue(s["pending_summary"].startswith("FMCSA has proposed"))
+
+    def test_spending_cap_pauses_summaries_not_headlines(self):
+        s, calls, saved = self.run_main(lambda link, snip: (PUB, SRC, "full_article", "ok"), [GOOD], extra_cfg={"ai_daily_usd": 0.0001})
+        self.assertEqual(calls, [])
+        self.assertEqual(saved["summary_status.json"]["state"], "limit")
+        self.assertEqual(s["status"], "ok")
+
+    def test_service_error_keeps_headlines(self):
+        def boom(**kw):
+            raise RuntimeError("overloaded")
+        import fetch_news
+        with mock.patch("summarize.ask", side_effect=RuntimeError("overloaded")):
+            s, calls, saved = self.run_main(lambda link, snip: (PUB, SRC, "full_article", "ok"), [GOOD])
+        self.assertEqual(saved["summary_status.json"]["state"], "error")
+        self.assertEqual(s["status"], "ok")
+
+    def test_excerpt_scope_recorded(self):
+        s, _, _ = self.run_main(lambda link, snip: (PUB, SRC, "excerpt", "excerpt only"), [GOOD])
+        self.assertEqual(s["source_scope"], "excerpt")
 
 
 if __name__ == "__main__":

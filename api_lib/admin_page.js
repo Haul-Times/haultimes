@@ -32,6 +32,7 @@ code{font-size:12px;background:var(--wash);padding:1px 4px}
 .muted{color:var(--faint);font-size:13px}
 </style></head><body><main class="wrap adm">
 <h1>HaulTimes admin</h1><p class="sub">Private. Updated <span id="upd">…</span> · <a href="/freight-market/">Freight Market page ›</a> · <a href="/admin/logout">Sign out</a><br>Views are unique: one per person, per page, per day. Your own visits in this browser are not counted.</p>
+<section class="sys"><h2>System health</h2><div id="sys" class="muted">Loading…</div></section>
 <div class="kpis" id="kpis"></div>
 <div class="cols">
 <section><h2>Visitors, last 30 days</h2><div class="bars" id="ch-visits"></div><div class="bx" id="ch-visits-x"></div>
@@ -113,6 +114,15 @@ function load(o){
 $("#flt").addEventListener("submit",function(e){e.preventDefault();load(0)});
 $("#more").onclick=function(){load(off+100)};
 load(0);
+Promise.all([fetch("/api/status",{cache:"no-store"}).then(function(r){return r.json()}),fetch("/status.json",{cache:"no-store"}).then(function(r){return r.json()})]).then(function(a){
+  var s=a[0],f=a[1],d=s.detail||{},su=f.summaries||{};
+  $("#sys").innerHTML="<ul><li><b>"+esc(s.label)+"</b> · checked every "+esc(s.every)+" min · last successful check "+esc(s.last_checked_et||"never")+"</li>"+
+   "<li>"+esc(d.news)+(d.sources?" · "+esc(d.sources):"")+"</li>"+(d.failing&&d.failing.length?"<li>Not answering 3+ times: "+esc(d.failing.join("; "))+"</li>":"")+
+   "<li>Last new story: "+esc(d.last_new_story_et||"none recorded")+" · "+esc(f.stories_published)+" stories on the site, "+esc(f.stories_with_summary)+" with summaries</li>"+
+   "<li>"+esc(d.summaries)+(su.mode?" · mode <b>"+esc(su.mode)+"</b>":"")+(su.spent_today_usd!=null?" · est. spend today $"+esc(su.spent_today_usd)+" of $"+esc((su.caps_usd||{}).day)+", month $"+esc(su.spent_month_usd)+" of $"+esc((su.caps_usd||{}).month):"")+
+   (su.withheld?" · "+esc(su.withheld)+" withheld":"")+"</li><li>"+esc(d.social)+(f.social&&f.social.last_post?" · last post "+esc(new Date(f.social.last_post).toLocaleString()):"")+"</li></ul>"+
+   '<p class="muted">Switches live in config.json (pause_new_stories, pause_summaries, summaries_mode) and social.json (mode). Spend figures are estimates, not a bill.</p>';
+}).catch(function(){$("#sys").textContent="Status unavailable."});
 get("/admin/api/polls").then(function(p){
   table("polls",["Area","Equipment","Hot","Normal","Slow","Answers"],p.rows.map(function(r){return"<tr><td>"+esc(r.region)+"</td><td>"+EQ[r.equipment]+'</td><td class="num">'+r.hot+'</td><td class="num">'+r.normal+'</td><td class="num">'+r.slow+'</td><td class="num"><b>'+r.n+"</b></td></tr>"}));
 });
