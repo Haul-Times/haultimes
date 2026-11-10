@@ -1,5 +1,34 @@
 [
  {
+  "id": "4caca7ffb3",
+  "slug": "act-expo-2027-agenda-leads-with-diesel-and-fleet-costs-4caca7ffb3",
+  "title": "ACT Expo 2027 agenda leads with diesel and fleet costs",
+  "orig_title": "ACT Expo 2027 agenda leads with diesel and fleet costs",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 51,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FUEdMUWxWODVxS3FGc1BXd2x4RXpfcngtZjJQRExiZF9FdENqMnhUN2hDWFkzYWV0MjlFa1dseXgtV29XVW5rTW5TTHNnd1huX2p1NXY3aEllaEhYWmZ1bGhtRldwbElXVFBpSXBrb2twcE5RVVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FUEdMUWxWODVxS3FGc1BXd2x4RXpfcngtZjJQRExiZF9FdENqMnhUN2hDWFkzYWV0MjlFa1dseXgtV29XVW5rTW5TTHNnd1huX2p1NXY3aEllaEhYWmZ1bGhtRldwbElXVFBpSXBrb2twcE5RVVE",
+  "snippet": "ACT Expo 2027 agenda leads with diesel and fleet costs FreightWaves",
+  "published": "2026-11-10T15:59:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T16:11:03.755278+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Fleet Costs Shape ACT Expo 2027 Agenda"
+  ],
+  "labels": [],
+  "kind": "event",
+  "dup_of": "3568f5d719"
+ },
+ {
   "id": "603ad50895",
   "slug": "lineage-sees-cold-storage-inventories-stabilize-after-capacity-reducti-603ad50895",
   "title": "Lineage sees cold storage inventories stabilize after capacity reductions",
