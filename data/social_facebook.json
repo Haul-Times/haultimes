@@ -331,7 +331,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/what-trucking-can-still-get-from-a-lame-duck-congress-before-jan-3-4cecda89cb/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=4cecda89cb",
    "caption": "What trucking can still get from a lame-duck Congress before Jan. 3.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T19:29:56.752075+00:00",
    "published": "2026-11-09T17:48:45+00:00",
    "score": 67,
@@ -575,7 +575,7 @@
   "708c2ac4b9": "skipped|importance 50 is below this platform's threshold (65)",
   "1bfc38f0f3": "skipped|minor item (announcement) or low-quality source",
   "598d07d769": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 611 min in queue",
-  "4cecda89cb": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "4cecda89cb": "expired|stale before a slot opened (published 12h ago)",
   "0a7a212dcd": "skipped|minor item (news) or low-quality source",
   "de2dead35c": "skipped|importance 55 is below this platform's threshold (65)",
   "d259bc1a28": "skipped|importance 50 is below this platform's threshold (65)",
@@ -1239,6 +1239,13 @@
    "title": "FMCSA wants drivers to expose the bad in trucking",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 611 min in queue"
+  },
+  {
+   "at": "2026-11-10T05:51:16.506545+00:00",
+   "story_id": "4cecda89cb",
+   "title": "What trucking can still get from a lame-duck Congress before Jan. 3",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ]
 }
