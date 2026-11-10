@@ -874,7 +874,8 @@
   "9be6b8b349": "skipped|importance 60 is below this platform's threshold (65)",
   "766ae4fb2e": "skipped|importance 61 is below this platform's threshold (65)",
   "c002f2962a": "skipped|importance 55 is below this platform's threshold (65)",
-  "1aae7fdef8": "skipped|importance 60 is below this platform's threshold (65)"
+  "1aae7fdef8": "skipped|importance 60 is below this platform's threshold (65)",
+  "5e1a1119d4": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1744,6 +1745,13 @@
    "title": "Kearney, MIT put US driverless truck cost parity at 2028",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T16:31:16.776409+00:00",
+   "story_id": "5e1a1119d4",
+   "title": "KION stock faces weaker truck orders as outlook stays cut",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
