@@ -53,7 +53,8 @@ RESEARCH_SOURCES = ["indexbox", "openpr", "market research future", "marketsandm
 WIRE_SOURCES = ["pr newswire", "prnewswire", "business wire", "businesswire", "globenewswire", "globe newswire",
                 "accesswire", "einpresswire", "ein presswire", "newswire", "prweb", "newsfile", "cision", "openpr"]
 # Trucking outlets in other countries (their headlines rarely say which country).
-FOREIGN_SOURCES = ["sa trucker", "australasian transport", "prime mover", "big rigs", "owner//driver", "owner driver",
+FOREIGN_SOURCES = ["telesur", "mercopress", "buenos aires times", "rio times", "bnamericas", "prensa latina",
+                   "sa trucker", "australasian transport", "prime mover", "big rigs", "owner//driver", "owner driver",
                    "fullyloaded", "fully loaded", "trailer magazine", "deliver magazine", "motor transport",
                    "road transport", "commercial motor", "transport engineer", "logistics manager", "nri affairs",
                    "ghanaweb", "new indian express", "times of india", "hindustan times", "economic times", "et infra",
@@ -169,7 +170,20 @@ FOREIGN = ["india", "indian", "pakistan", "bangladesh", "sri lanka", "nepal", "p
            "madrid", "warsaw", "kyiv", "moscow", "istanbul", "riyadh", "tehran", "sao paulo",
            "nigerian", "kenyan", "pakistani", "bangladeshi", "filipino", "malaysian", "australian", "european",
            "german ", "french ", "polish ", "fenerbah", "galatasaray", "west asia", "middle east", " n3 ",
-           "natroad", "nhvr", "dvsa", "logistics uk", "road haulage association", "rha "]
+           "natroad", "nhvr", "dvsa", "logistics uk", "road haulage association", "rha ",
+           # Latin America (Mexico stays: cross-border trucking with the US)
+           "chilean", "santiago de chile", "peruvian", "colombian", "bogota", "brazilian", "argentine",
+           "argentinian", "buenos aires", "venezuela", "venezuelan", "ecuador", "ecuadorian", "bolivia", "bolivian",
+           "uruguay", "uruguayan", "paraguay", "paraguayan", "guatemala", "guatemalan", "honduras", "honduran",
+           "el salvador", "salvadoran", "nicaragua", "costa rica", "latin america", "south america", "caribbean",
+           "cuba", "cuban", "haiti", "dominican republic",
+           # more countries and demonyms
+           "japanese", "korean", "thai", "vietnamese", "indonesian", "philippines", "italian", "dutch truck",
+           "belgium", "belgian", "sweden", "swedish", "norway", "norwegian", "denmark", "danish", "finland",
+           "finnish", "austria", "austrian", "switzerland", "swiss", "irish", "scottish", "ukrainian", "russian",
+           "romania", "romanian", "hungary", "hungarian", "greece", "czech", "slovak", "lithuania", "latvia",
+           "estonia", "israeli", "egyptian", "south african", "ghanaian", "ethiopia", "zimbabwe", "zambia",
+           "morocco", "algeria", "tunisia", "qatar", "kuwait", "oman", "bahrain", "lebanon", "iraq"]
 MUSIC = ["drive-by truckers", "drive by truckers", "driveby truckers", "concert", "tour dates", " album",
          "homecoming show", "setlist", "band ", "live music", "songwriter", "music hall", "revolution hall",
          "ryman", "festival lineup", "tickets on sale", "on tour"]
