@@ -412,7 +412,15 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-10T04:32:59.862132+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122099904327544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122099904327544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122099904327544428",
+    "created": "2026-11-10T04:32:59+0000",
+    "at": "2026-11-10T14:21:29.823491+00:00"
+   }
   },
   "f22cb7ef8f": {
    "story_id": "f22cb7ef8f",
@@ -509,7 +517,15 @@
    "house": "diesel",
    "reason": "HaulTimes update: diesel",
    "last_attempt_at": "2026-11-10T03:22:44.965792+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122099875881544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122099875881544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122099875881544428",
+    "created": "2026-11-10T03:22:45+0000",
+    "at": "2026-11-10T14:21:29.823491+00:00"
+   }
   },
   "de46b78765": {
    "story_id": "de46b78765",
@@ -1553,12 +1569,12 @@
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122099921043544428",
+  "post": "1476615495528085_122099875881544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122099921043544428",
-  "created": "2026-11-10T05:01:10+0000",
-  "at": "2026-11-10T14:17:29.375750+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122099875881544428",
+  "created": "2026-11-10T03:22:45+0000",
+  "at": "2026-11-10T14:21:29.823491+00:00"
  }
 }
