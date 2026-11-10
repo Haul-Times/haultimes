@@ -875,7 +875,42 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-10T19:00:44.567769+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122100502563544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122100502563544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122100502563544428",
+    "created": "2026-11-10T19:00:44+0000",
+    "at": "2026-11-10T19:11:19.285258+00:00"
+   }
+  },
+  "c35e0010a1": {
+   "story_id": "c35e0010a1",
+   "title": "DAT: Van spot rate rises to $3.05 a mile, highest since early 2022",
+   "url_key": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbXVWUHFLTV95LTVsdjNtN2RickliOTRweFdPX1RTVEo0Zk5vSXNpQ1ZyQlNHN1R3OHRzX0ZuZWZYd1JGMUpJOG9vZ3kwZVhoNDZzLTVrQzQ0WGtaLWJrcTQwVlRNRUNLc1BhTlAxeThBNzQxN0d6Q3pLcXNwcTY3cHBMYktaajlHR2t2M19BX2M5dHVFS0VDdEhOcjctRC0wZktSV3lpV09BT3g1Ukx2SVlnNUNMMlYwU1JPQ2hoRVBfMHpULVVvSm4tbjlOQ3VvRDJobDhBR1NSbWJGWGlVNVJNNm5iRGhaNU15ZXd3Q3FteGdRN2tVR3FrWQ",
+   "category": "rates",
+   "source": "mykxlg.com",
+   "dest": "https://haultimes.com/story/dat-van-spot-rate-rises-to-3-05-a-mile-highest-since-early-2022-c35e0010a1/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=c35e0010a1",
+   "caption": "DAT: Van spot rate rises to $3.05 a mile, highest since early 2022.\n\nReported by mykxlg. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-10T19:11:19.285258+00:00",
+   "published": "2026-11-10T18:30:00+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "DAT: Van spot rate rises to $3.05 a mile, highest since early 2022 | HaulTimes",
+    "og:description": "Reported by mykxlg.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/1ae1581bb9.png",
+    "og:url": "https://haultimes.com/story/dat-van-spot-rate-rises-to-3-05-a-mile-highest-since-early-2022-c35e0010a1/"
+   },
+   "reason": "importance 65 (threshold 65), Rates & Market, local/other outlet",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": null,
@@ -1076,7 +1111,8 @@
   "diesel-2026-11-09": "posted|HaulTimes update",
   "094bf8c5ce": "posted|importance 78 (threshold 65), Fuel, trade publication; waited 10 min in queue",
   "c272484a07": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 29 min in queue",
-  "4189f03da5": "skipped|importance 45 is below this platform's threshold (65)"
+  "4189f03da5": "skipped|importance 45 is below this platform's threshold (65)",
+  "c35e0010a1": "queued|importance 65 (threshold 65), Rates & Market, local/other outlet"
  },
  "decisions": [
   {
@@ -2058,16 +2094,23 @@
    "title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication; waited 29 min in queue"
+  },
+  {
+   "at": "2026-11-10T19:11:19.285258+00:00",
+   "story_id": "c35e0010a1",
+   "title": "DAT: Van spot rate rises to $3.05 a mile, highest since early 2022",
+   "action": "queued",
+   "reason": "importance 65 (threshold 65), Rates & Market, local/other outlet"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122100493803544428",
+  "post": "1476615495528085_122100502563544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122100493803544428",
-  "created": "2026-11-10T18:41:36+0000",
-  "at": "2026-11-10T18:51:17.388474+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122100502563544428",
+  "created": "2026-11-10T19:00:44+0000",
+  "at": "2026-11-10T19:11:19.285258+00:00"
  },
  "promo_i": 1
 }
