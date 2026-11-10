@@ -1169,7 +1169,9 @@
   "4189f03da5": "skipped|importance 45 is below this platform's threshold (65)",
   "c35e0010a1": "posted|importance 65 (threshold 65), Rates & Market, local/other outlet; waited 10 min in queue",
   "4b917c17f1": "skipped|importance 61 is below this platform's threshold (65)",
-  "a47ed62eec": "posted|importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue"
+  "a47ed62eec": "posted|importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue",
+  "02eb18d7fd": "skipped|importance 55 is below this platform's threshold (65)",
+  "f788ed9e88": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2186,6 +2188,20 @@
    "title": "Shaver: Driver pay changes hit a four-year high",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue"
+  },
+  {
+   "at": "2026-11-10T20:21:23.363900+00:00",
+   "story_id": "02eb18d7fd",
+   "title": "Uber Freight cuts 80 jobs while hiring nearly 300 in growth push",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T20:21:23.363900+00:00",
+   "story_id": "f788ed9e88",
+   "title": "Warehouse Congestion Calls for Clearer Logistics Contracts",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
