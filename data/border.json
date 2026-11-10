@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:31:07.295896+00:00",
+ "updated": "2026-11-10T07:41:06.478144+00:00",
  "hour_now": 2,
  "have_us": true,
  "have_ca": true,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:27:27",
+    "updated": "02:37:36",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 2:17 am EST",
+    "status": "delay",
+    "updated": "At 2:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -251,7 +251,7 @@
     "south": [
      0,
      10,
-     0,
+     3,
      null,
      null,
      null,
@@ -277,7 +277,7 @@
     "north": [
      7,
      9,
-     8,
+     7,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:17 am EST",
+    "updated": "At 2:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -326,7 +326,7 @@
     "south": [
      0,
      0,
-     3,
+     2,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:27:26",
+    "updated": "02:37:36",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:27:27",
+    "updated": "02:37:36",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:27:26",
+    "updated": "02:37:36",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:27:27",
+    "updated": "00:37:36",
     "hours": "24 hrs/day"
    },
    "north": {
