@@ -356,7 +356,7 @@
    "source": "Eye Radio",
    "dest": "https://haultimes.com/story/truck-drivers-to-end-strike-after-govt-agrees-to-remove-roadblocks-imp-b80fc7fa5e/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=b80fc7fa5e",
    "caption": "Truck drivers to end strike after govt agrees to remove roadblocks, improve security.\n\nReported by Eye Radio. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T20:24:38.271319+00:00",
    "published": "2026-11-09T13:15:17+00:00",
    "score": 65,
@@ -526,7 +526,7 @@
   "d259bc1a28": "skipped|importance 50 is below this platform's threshold (65)",
   "d6d5fa686f": "skipped|importance 50 is below this platform's threshold (65)",
   "f357d4102e": "skipped|importance 50 is below this platform's threshold (65)",
-  "b80fc7fa5e": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+  "b80fc7fa5e": "expired|stale before a slot opened (published 12h ago)",
   "75fb78c6f6": "skipped|importance 55 is below this platform's threshold (65)",
   "534289d9e0": "skipped|importance 55 is below this platform's threshold (65)",
   "2d4116ae72": "skipped|importance 55 is below this platform's threshold (65)",
@@ -1089,6 +1089,13 @@
    "title": "Forward Air pauses sale of intermodal unit",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T01:34:04.361731+00:00",
+   "story_id": "b80fc7fa5e",
+   "title": "Truck drivers to end strike after govt agrees to remove roadblocks, improve security",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ]
 }

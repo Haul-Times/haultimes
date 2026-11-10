@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T00:15:24.888057+00:00",
- "hour_now": 19,
+ "updated": "2026-11-10T01:33:59.637688+00:00",
+ "hour_now": 20,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -10,17 +10,17 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 15,
-    "fast_wait": 15,
-    "lanes": "7",
-    "status": "delay",
-    "updated": "At 7:00 pm EST",
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "5",
+    "status": "no delay",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 17:28 EST"
+    "updated": "2026-11-09 19:15 EST"
    },
    "usual": {
     "south": [
@@ -44,7 +44,7 @@
      35,
      25,
      20,
-     null,
+     0,
      null,
      null,
      null
@@ -70,7 +70,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 17:15 EST"
+    "updated": "2026-11-09 19:15 EST"
    },
    "usual": {
     "south": [
@@ -119,7 +119,7 @@
      33,
      35,
      35,
-     null,
+     35,
      null,
      null,
      null
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -164,13 +164,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 18:15 EST"
+    "updated": "2026-11-09 20:15 EST"
    },
    "usual": {
     "south": [
@@ -194,7 +194,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -220,7 +220,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:57 pm EST",
+    "updated": "At 8:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 4,
-    "status": "4 minutes",
-    "updated": "2026-11-09 19:00 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-09 20:20 EST"
    },
    "usual": {
     "south": [
@@ -269,7 +269,7 @@
      7,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -295,7 +295,7 @@
      3,
      1,
      4,
-     null,
+     2,
      null,
      null,
      null
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:57 pm EST",
+    "updated": "At 8:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-09 19:00 EST"
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-09 20:20 EST"
    },
    "usual": {
     "south": [
@@ -344,7 +344,7 @@
      6,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -370,7 +370,7 @@
      3,
      4,
      2,
-     null,
+     1,
      null,
      null,
      null
@@ -419,7 +419,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -445,7 +445,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -464,13 +464,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 pm EST",
+    "updated": "At 10:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 17:15 EST"
+    "updated": "2026-11-09 19:15 EST"
    },
    "usual": {
     "south": [
@@ -494,7 +494,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -520,7 +520,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -539,13 +539,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 18:15 EST"
+    "updated": "2026-11-09 20:15 EST"
    },
    "usual": {
     "south": [
@@ -569,7 +569,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -595,7 +595,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -614,13 +614,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm CST",
+    "updated": "At 8:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 17:15 CDT"
+    "updated": "2026-11-09 19:15 CDT"
    },
    "usual": {
     "south": [
@@ -644,7 +644,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -670,7 +670,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -686,16 +686,16 @@
    "region": "qc",
    "south": {
     "wait": 0,
-    "fast_wait": 0,
+    "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 18:15 EST"
+    "updated": "2026-11-09 19:15 EST"
    },
    "usual": {
     "south": [
@@ -719,7 +719,7 @@
      5,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -745,7 +745,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -764,13 +764,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 18:15 EST"
+    "updated": "2026-11-09 19:17 EST"
    },
    "usual": {
     "south": [
@@ -794,7 +794,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -820,7 +820,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 17:49 EST"
+    "updated": "2026-11-09 19:15 EST"
    },
    "usual": {
     "south": [
@@ -869,7 +869,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -895,7 +895,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 19:15 AST"
+    "updated": "2026-11-09 21:15 AST"
    },
    "usual": {
     "south": [
@@ -944,7 +944,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -970,7 +970,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:05:31",
+    "updated": "20:25:41",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,17 +1060,17 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 0,
+    "wait": 42,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 5:00 pm CST",
+    "status": "delay",
+    "updated": "At 7:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 17:15 CDT"
+    "updated": "2026-11-09 19:15 CDT"
    },
    "usual": {
     "south": [
@@ -1094,7 +1094,7 @@
      56,
      11,
      0,
-     null,
+     42,
      null,
      null,
      null
@@ -1120,7 +1120,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 18:07 CST"
+    "updated": "2026-11-09 18:15 CST"
    },
    "usual": {
     "south": [
@@ -1188,7 +1188,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1203,17 +1203,17 @@
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
    "south": {
-    "wait": 35,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "1",
-    "status": "delay",
-    "updated": "At 5:00 pm MST",
+    "status": "no delay",
+    "updated": "At 6:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 17:15 MDT"
+    "updated": "2026-11-09 19:15 MDT"
    },
    "usual": {
     "south": [
@@ -1237,7 +1237,7 @@
      15,
      31,
      35,
-     null,
+     0,
      null,
      null,
      null
@@ -1263,7 +1263,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1280,15 +1280,15 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "3",
+    "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:00 pm PST",
+    "updated": "At 5:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-09 17:00 PDT"
+    "updated": "2026-11-09 18:20 PDT"
    },
    "usual": {
     "south": [
@@ -1312,7 +1312,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1338,7 +1338,7 @@
      18,
      14,
      5,
-     null,
+     5,
      null,
      null,
      null
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 17:00 PDT"
+    "updated": "2026-11-09 18:20 PDT"
    },
    "usual": {
     "south": [
@@ -1387,7 +1387,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1413,7 +1413,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1494,11 +1494,6 @@
    },
    {
     "name": "Edmundston",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
