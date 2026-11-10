@@ -506,3 +506,7 @@ table.mk-tight .src-in { font-size: 12px; color: var(--faint); }
   #poll .pollseg .pollbtn { padding: 8px 8px; column-gap: 6px; }
   #poll .pollseg .pollbtn span { white-space: normal; overflow: visible; }
 }
+
+/* Logo image (vector) */
+.logo { display: inline-block; line-height: 0; }
+.logo img { display: block; height: clamp(40px, 6.4vw, 70px); width: auto; }
