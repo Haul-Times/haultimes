@@ -733,7 +733,42 @@
    "breaking": null,
    "edited": false,
    "last_attempt_at": "2026-11-10T17:31:18.584191+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122100447525544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122100447525544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122100447525544428",
+    "created": "2026-11-10T17:31:18+0000",
+    "at": "2026-11-10T17:41:34.097531+00:00"
+   }
+  },
+  "fbd702a75b": {
+   "story_id": "fbd702a75b",
+   "title": "PS Logistics unit buys Tennessee-based flatbed carrier Roane",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40dkdsQkxBNlV6MXNFU1pJQ1BkcVgtOUR3Znl5d1Z3MzJiU1YzcGo1WnU5RXM1TEwyenppbnotNk5DMFJ2dmxCb19PNEpFdXlpUE1QLXVWTllzMHplN3pjdFNOQzlneUI0M09tSg",
+   "category": "other",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/ps-logistics-unit-buys-tennessee-based-flatbed-carrier-roane-fbd702a75b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=fbd702a75b",
+   "caption": "PS Logistics unit buys Tennessee-based flatbed carrier Roane.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-10T17:41:34.097531+00:00",
+   "published": "2026-11-10T17:08:19+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "PS Logistics unit buys Tennessee-based flatbed carrier Roane | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/1896ba0e9c.png",
+    "og:url": "https://haultimes.com/story/ps-logistics-unit-buys-tennessee-based-flatbed-carrier-roane-fbd702a75b/"
+   },
+   "reason": "importance 67 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": null,
@@ -911,7 +946,9 @@
   "5e1a1119d4": "skipped|importance 51 is below this platform's threshold (65)",
   "b743753e5c": "posted|importance 78 (threshold 65), Rates & Market, trade publication; waited 19 min in queue",
   "db3b41cb73": "skipped|importance 55 is below this platform's threshold (65)",
-  "fd5221d945": "skipped|importance 55 is below this platform's threshold (65)"
+  "fd5221d945": "skipped|importance 55 is below this platform's threshold (65)",
+  "fbd702a75b": "queued|importance 67 (threshold 65), Industry, trade publication",
+  "c2f3d704e3": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1816,16 +1853,30 @@
    "title": "Additional trucks at large US carriers boost Truckload Capacity Index",
    "action": "posted",
    "reason": "importance 78 (threshold 65), Rates & Market, trade publication; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-10T17:41:34.097531+00:00",
+   "story_id": "fbd702a75b",
+   "title": "PS Logistics unit buys Tennessee-based flatbed carrier Roane",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-10T17:41:34.097531+00:00",
+   "story_id": "c2f3d704e3",
+   "title": "Port of Long Beach, coalition aims for electricity to power 35% of shipping by 2035",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122100379047544428",
+  "post": "1476615495528085_122100447525544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122100379047544428",
-  "created": "2026-11-10T16:01:25+0000",
-  "at": "2026-11-10T16:11:26.710087+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122100447525544428",
+  "created": "2026-11-10T17:31:18+0000",
+  "at": "2026-11-10T17:41:34.097531+00:00"
  },
  "promo_i": 1
 }
