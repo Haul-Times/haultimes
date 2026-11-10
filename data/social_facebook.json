@@ -248,7 +248,7 @@
    "source": "TheTrucker.com",
    "dest": "https://haultimes.com/story/nhtsa-funding-could-help-truck-owners-catch-safety-recalls-sooner-e18749db81/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=e18749db81",
    "caption": "NHTSA funding could help truck owners catch safety recalls sooner.\n\nReported by TheTrucker. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-09T16:44:47.249030+00:00",
    "published": "2026-11-09T16:13:06+00:00",
    "score": 70,
@@ -541,7 +541,7 @@
   "897d10264e": "skipped|importance 62 is below this platform's threshold (65)",
   "b2f265a4ca": "skipped|importance 55 is below this platform's threshold (65)",
   "afe721ad08": "expired|stale before a slot opened (published 12h ago)",
-  "e18749db81": "queued|importance 70 (threshold 65), Regulations, established outlet",
+  "e18749db81": "expired|stale before a slot opened (published 12h ago)",
   "9a23addb2c": "skipped|minor item (announcement) or low-quality source",
   "d9567602da": "skipped|importance 55 is below this platform's threshold (65)",
   "9ab542a2e8": "skipped|importance 45 is below this platform's threshold (65)",
@@ -1172,6 +1172,13 @@
    "title": "5K trucking authorities suspended in single day: Motus still messy",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T04:17:33.190679+00:00",
+   "story_id": "e18749db81",
+   "title": "NHTSA funding could help truck owners catch safety recalls sooner",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ]
 }
