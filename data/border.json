@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:11:07.032424+00:00",
+ "updated": "2026-11-10T17:17:53.450746+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -36,7 +36,7 @@
      0,
      0,
      9,
-     5,
+     3,
      null,
      null,
      null,
@@ -601,7 +601,7 @@
      null
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 1 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -1126,7 +1126,7 @@
      null
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 12 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -1269,7 +1269,7 @@
      null
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 1 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Usually fastest around 12 AM"
+   "best_north": "Usually fastest around 12 PM"
   },
   {
    "id": "sumas",
