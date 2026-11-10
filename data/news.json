@@ -1,5 +1,33 @@
 [
  {
+  "id": "eba50406e0",
+  "slug": "lineage-line-q3-2026-earnings-call-transcript-eba50406e0",
+  "title": "Lineage (LINE) Q3 2026 Earnings Call Transcript",
+  "orig_title": "Lineage (LINE) Q3 2026 Earnings Call Transcript",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcnJyZTctNjJqczE3eUdfOUVhWnRNc0JGb3p5ME1KdmJHMHdxTTBRZHNTck1RTjNKbmhCVlZzbGhLdjFGbWpfR09oRktWYTAyWGlhY3ZTY1lrelBUNjZIM2M0dk02b1BYcHFKS1p4VEpqbHFRd09lRnFTbGZXcWVDZFlJb0lTUWI4NzJIZmhMdUdhQnlVX1BOczdXTVhaWTBMbjlWZ2p1ZzJnMDZDMVBxaWhjX2haRGxWZl9oQVNrS0lzUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcnJyZTctNjJqczE3eUdfOUVhWnRNc0JGb3p5ME1KdmJHMHdxTTBRZHNTck1RTjNKbmhCVlZzbGhLdjFGbWpfR09oRktWYTAyWGlhY3ZTY1lrelBUNjZIM2M0dk02b1BYcHFKS1p4VEpqbHFRd09lRnFTbGZXcWVDZFlJb0lTUWI4NzJIZmhMdUdhQnlVX1BOczdXTVhaWTBMbjlWZ2p1ZzJnMDZDMVBxaWhjX2haRGxWZl9oQVNrS0lzUQ",
+  "snippet": "Lineage (LINE) Q3 2026 Earnings Call Transcript The Globe and Mail",
+  "published": "2026-11-10T18:56:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T19:00:32.675615+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "stock commentary, no trucking development"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
   "id": "c272484a07",
   "slug": "forward-air-bolsters-freight-demand-amid-capacity-crackdown-c272484a07",
   "title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown",
@@ -2701,6 +2729,34 @@
   "status": "rejected",
   "reasons": [
    "stock commentary, no trucking development"
+  ],
+  "labels": [],
+  "kind": "rejected"
+ },
+ {
+  "id": "c0533fa78f",
+  "slug": "u-logistique-deploys-a-240-kw-charging-station-in-carquefou-c0533fa78f",
+  "title": "U Logistique deploys a 240 kW charging station in Carquefou",
+  "orig_title": "U Logistique deploys a 240 kW charging station in Carquefou",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "energynews.pro",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWktRNDhiZjlPTk1neEk5YlpPeU13anU5eWpaaGlMb0Utcm5wRFg3RGJBSmFPcTRYdjc4QWF0eDZ4dm9INXlvUXpwT0RjNzA0c21pMWV6ZGZYeFFVek5PUm1WcVluOVdQMDdGbVBTY3FLRHZxY3VTWWtlQU1PS2k1WG1YTVVfRDNVSlAxTF9R?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWktRNDhiZjlPTk1neEk5YlpPeU13anU5eWpaaGlMb0Utcm5wRFg3RGJBSmFPcTRYdjc4QWF0eDZ4dm9INXlvUXpwT0RjNzA0c21pMWV6ZGZYeFFVek5PUm1WcVluOVdQMDdGbVBTY3FLRHZxY3VTWWtlQU1PS2k1WG1YTVVfRDNVSlAxTF9R",
+  "snippet": "U Logistique deploys a 240 kW charging station in Carquefou energynews.pro",
+  "published": "2026-11-09T22:32:21+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-10T19:00:32.675615+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected"
