@@ -581,7 +581,8 @@
   "f24df3ce85": "skipped|importance 45 is below this platform's threshold (65)",
   "0aa4a2dd3e": "skipped|importance 55 is below this platform's threshold (65)",
   "c99e6d2501": "skipped|importance 55 is below this platform's threshold (65)",
-  "diesel-2026-11-02": "posted|HaulTimes update"
+  "diesel-2026-11-02": "posted|HaulTimes update",
+  "07209e2b45": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1164,6 +1165,13 @@
    "title": "Diesel prices, week of 2026-11-02",
    "action": "posted",
    "reason": "HaulTimes update: diesel; waited 34 min in queue"
+  },
+  {
+   "at": "2026-11-10T03:53:01.098966+00:00",
+   "story_id": "07209e2b45",
+   "title": "5K trucking authorities suspended in single day: Motus still messy",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ]
 }
