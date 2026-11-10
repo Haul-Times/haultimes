@@ -524,14 +524,14 @@
    "source": "Commercial Carrier Journal",
    "dest": "https://haultimes.com/story/covenant-q3-expedited-unit-shifts-to-committed-capacity-81d1dd3fe9/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=81d1dd3fe9",
    "caption": "Covenant Q3: Expedited Unit Shifts to Committed Capacity.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking #Freight",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T13:01:10.331047+00:00",
    "published": "2026-11-10T12:41:43+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122100246609544428",
+   "posted_at": "2026-11-10T13:11:13.040276+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Covenant Q3: Expedited Unit Shifts to Committed Capacity | HaulTimes",
@@ -541,7 +541,9 @@
    },
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T13:11:13.040276+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122100246609544428"
   }
  },
  "paused": null,
@@ -590,6 +592,10 @@
   {
    "at": "2026-11-10T12:31:16.682465+00:00",
    "msg": "posted de46b78765"
+  },
+  {
+   "at": "2026-11-10T13:11:13.040276+00:00",
+   "msg": "posted 81d1dd3fe9"
   }
  ],
  "decided": {
@@ -675,7 +681,7 @@
   "f636d43c1f": "skipped|importance 45 is below this platform's threshold (65)",
   "33c96b704c": "skipped|importance 45 is below this platform's threshold (65)",
   "ab4bacf873": "skipped|minor item (event) or low-quality source",
-  "81d1dd3fe9": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
+  "81d1dd3fe9": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
  },
  "decisions": [
   {
@@ -1377,6 +1383,13 @@
    "title": "Covenant Q3: Expedited Unit Shifts to Committed Capacity",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-10T13:11:13.040276+00:00",
+   "story_id": "81d1dd3fe9",
+   "title": "Covenant Q3: Expedited Unit Shifts to Committed Capacity",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
   }
  ]
 }
