@@ -677,14 +677,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/where-trucking-capacity-sits-right-now-and-what-the-fleet-size-split-m-8fe1a28a86/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=8fe1a28a86",
    "caption": "Where Trucking Capacity Sits Right Now, And What The Fleet-Size Split Might Be Signaling.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T15:51:19.097477+00:00",
    "published": "2026-11-10T15:05:00+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122100379047544428",
+   "posted_at": "2026-11-10T16:01:25.086893+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Where Trucking Capacity Sits Right Now, And What The Fleet-Size Split Might Be Signaling | HaulTimes",
@@ -694,7 +694,9 @@
    },
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T16:01:25.086893+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122100379047544428"
   }
  },
  "paused": null,
@@ -755,6 +757,10 @@
   {
    "at": "2026-11-10T15:21:27.051586+00:00",
    "msg": "posted promo-20261110"
+  },
+  {
+   "at": "2026-11-10T16:01:25.086893+00:00",
+   "msg": "posted 8fe1a28a86"
   }
  ],
  "decided": {
@@ -856,8 +862,10 @@
   "promo-20261110": "posted|HaulTimes update",
   "57e48c4bf1": "skipped|minor item (news) or low-quality source",
   "ffccee5e0a": "skipped|importance 55 is below this platform's threshold (65)",
-  "8fe1a28a86": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
-  "9be6b8b349": "skipped|importance 60 is below this platform's threshold (65)"
+  "8fe1a28a86": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
+  "9be6b8b349": "skipped|importance 60 is below this platform's threshold (65)",
+  "766ae4fb2e": "skipped|importance 61 is below this platform's threshold (65)",
+  "c002f2962a": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1699,6 +1707,27 @@
    "title": "Former U.S. Rep. Matt Salmon to be new Arizona trucking leader",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T16:01:25.086893+00:00",
+   "story_id": "766ae4fb2e",
+   "title": "Marten reports fewer trucking miles but notches 14% TL rate gain",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T16:01:25.086893+00:00",
+   "story_id": "c002f2962a",
+   "title": "ASICS warehouse drones quickly find misplaced inventory",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T16:01:25.086893+00:00",
+   "story_id": "8fe1a28a86",
+   "title": "Where Trucking Capacity Sits Right Now, And What The Fleet-Size Split Might Be Signaling",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
