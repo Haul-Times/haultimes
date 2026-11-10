@@ -31,7 +31,7 @@ table.t td.num{text-align:right;font-variant-numeric:tabular-nums}
 code{font-size:12px;background:var(--wash);padding:1px 4px}
 .muted{color:var(--faint);font-size:13px}
 </style></head><body><main class="wrap adm">
-<h1>HaulTimes admin</h1><p class="sub">Private. Updated <span id="upd">…</span> · <a href="/freight-market/">Freight Market page ›</a></p>
+<h1>HaulTimes admin</h1><p class="sub">Private. Updated <span id="upd">…</span> · <a href="/freight-market/">Freight Market page ›</a><br>Views are unique: one per person, per page, per day. Your own visits in this browser are not counted.</p>
 <div class="kpis" id="kpis"></div>
 <div class="cols">
 <section><h2>Visitors, last 30 days</h2><div class="bars" id="ch-visits"></div><div class="bx" id="ch-visits-x"></div>
@@ -68,6 +68,7 @@ code{font-size:12px;background:var(--wash);padding:1px 4px}
 </main>
 <script>
 (function(){
+try{localStorage.setItem("ht_owner","1")}catch(e){}  // opening the admin panel stops this browser from being counted
 var EQ={van:"Dry van",reefer:"Reefer",flatbed:"Flatbed",stepdeck:"Step deck"},MK={US:"US",CA:"Canada",XB:"Cross-border"};
 var $=function(s){return document.querySelector(s)};
 var esc=function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};

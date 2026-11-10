@@ -26,6 +26,7 @@ const SCHEMA = [
   "CREATE TABLE IF NOT EXISTS views (day TEXT, path TEXT, n INTEGER, PRIMARY KEY (day, path))",
   "CREATE TABLE IF NOT EXISTS visitors (day TEXT, voter TEXT, PRIMARY KEY (day, voter))",
   "CREATE TABLE IF NOT EXISTS refs (day TEXT, host TEXT, n INTEGER, PRIMARY KEY (day, host))",
+  "CREATE TABLE IF NOT EXISTS seen (day TEXT, voter TEXT, path TEXT, PRIMARY KEY (day, voter, path))",
 ];
 export const CHECK_LIMIT = 30;   // rate checks per visitor per hour: plenty for a driver, useless for a scraper
 
@@ -119,8 +120,10 @@ export async function ensureSchema(db) {
 export async function bump(db, key, now) {
   const hour = now.toISOString().slice(0, 13);
   await db.prepare("INSERT INTO hits (k, hour, n) VALUES (?, ?, 1) ON CONFLICT(k, hour) DO UPDATE SET n = n + 1").bind(key, hour).run();
-  if (Math.random() < 0.02) // tidy up old counters now and then
+  if (Math.random() < 0.02) { // tidy up old counters now and then
     await db.prepare("DELETE FROM hits WHERE hour < ?").bind(new Date(now.getTime() - 2 * 864e5).toISOString().slice(0, 13)).run();
+    await db.prepare("DELETE FROM seen WHERE day < ?").bind(new Date(now.getTime() - 3 * 864e5).toISOString().slice(0, 10)).run();
+  }
   const r = await db.prepare("SELECT n FROM hits WHERE k = ? AND hour = ?").bind(key, hour).first();
   return r ? r.n : 1;
 }
@@ -136,9 +139,14 @@ export async function countView(db, body, voter, ua, now) {
   let host = "";
   try { host = body.r ? new URL(body.r).hostname.replace(/^www\./, "") : ""; } catch (e) { host = ""; }
   if (host === "haultimes.com") host = "";
+  // Unique views: each person counts once per page per day, so refreshing doesn't add views.
+  const first = await db.prepare("INSERT OR IGNORE INTO seen (day, voter, path) VALUES (?, ?, ?)").bind(day, voter, path).run();
+  const changes = first && first.meta ? first.meta.changes : 1;
+  if (!changes) return;
   await db.prepare("INSERT INTO views (day, path, n) VALUES (?, ?, 1) ON CONFLICT(day, path) DO UPDATE SET n = n + 1").bind(day, path).run();
-  await db.prepare("INSERT OR IGNORE INTO visitors (day, voter) VALUES (?, ?)").bind(day, voter).run();
-  await db.prepare("INSERT INTO refs (day, host, n) VALUES (?, ?, 1) ON CONFLICT(day, host) DO UPDATE SET n = n + 1").bind(day, host || "(direct or unknown)").run();
+  const isNew = await db.prepare("INSERT OR IGNORE INTO visitors (day, voter) VALUES (?, ?)").bind(day, voter).run();
+  if (isNew && isNew.meta && isNew.meta.changes)   // where people came from: once per person per day
+    await db.prepare("INSERT INTO refs (day, host, n) VALUES (?, ?, 1) ON CONFLICT(day, host) DO UPDATE SET n = n + 1").bind(day, host || "(direct or unknown)").run();
 }
 
 async function meta(db, k) {

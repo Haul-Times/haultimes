@@ -8,6 +8,7 @@ import shutil
 import sys
 import tempfile
 import unittest
+from unittest import mock
 from datetime import datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -28,7 +29,7 @@ def story(i, title, source="Truck News", hours=1, score=75, cat="regs", **kw):
 
 
 def cfg(**kw):
-    c = dict(so.DEFAULTS["facebook"], skip=[], publish_now=[], captions={}, min_score=60, topic_gap_hours=0)
+    c = dict(so.DEFAULTS["facebook"], skip=[], publish_now=[], captions={}, min_score=60, topic_gap_hours=0, house_posts=False)
     c.update(kw)
     return c
 
@@ -541,6 +542,52 @@ class Traffic(unittest.TestCase):
                        "b": {"status": "dry_run", "posted_at": NOW.isoformat()},
                        "c": {"status": "skipped", "posted_at": None}}
         self.assertEqual(so.frequency(st), {"2026-11-09": {"posted": 1, "dry_run": 1}})
+
+
+class HousePosts(unittest.TestCase):
+    """HaulTimes' own posts: weekly diesel, unusual border delays, Freight Market reminders."""
+    E = {"status": "ok", "parser": 3, "week": "2026-11-02", "prev_week": "2026-10-26",
+         "prices": {"US": 6.292, "1A": 6.42, "1C": 5.81, "2": 6.40, "3": 5.91, "4": 6.45, "5XCA": 6.58, "CA": 8.076},
+         "prev_prices": {"US": 6.25}}
+
+    def test_diesel_caption_is_factual(self):
+        t = so.diesel_caption(self.E, {"week": "2026-11-09", "prices": {"Ontario Average/Moyenne provinciale": 243.1}})
+        self.assertIn("US diesel averaged $6.29 a gallon for the week of November 2, up 4¢", t)
+        self.assertIn("Highest: California at $8.08. Lowest: Lower Atlantic at $5.81.", t)
+        self.assertIn("243.1¢ a litre", t)
+        self.assertTrue(t.rstrip().endswith("#Diesel #Trucking #FuelPrices"))
+
+    def test_border_alert_only_when_unusual(self):
+        usual = [20] * 24
+        b = {"hour_now": 15, "crossings": [
+            {"id": "amb", "name": "Ambassador Bridge", "ports": "Detroit, MI \u2194 Windsor, ON", "south": {"wait": 130}, "north": {"wait": 95},
+             "usual": {"south": usual, "north": [60] * 24}},
+            {"id": "pb", "name": "Peace Bridge", "south": {"wait": 40}, "north": {"wait": 0}, "usual": {}}]}
+        alerts = so.border_alerts(b, 90)
+        self.assertEqual([k for k, _ in alerts], ["amb-south"])   # 95 min north is under double its usual 60
+        self.assertIn("about 2 hr 10 min for commercial vehicles entering the US, per CBP, against a usual 20 min", alerts[0][1])
+
+    def test_promo_rotates_every_few_days_with_hashtags(self):
+        st = so.new_state()
+        c = cfg(house_posts=True, promo_every_days=3, hours=[0, 24])
+        t0 = datetime(2026, 11, 10, 16, tzinfo=timezone.utc)   # 11 a.m. Eastern
+        with mock.patch.object(so, "load_json", side_effect=lambda name, d=None: {} if name != "news.json" else []):
+            so.queue_house("facebook", c, st, t0)
+            so.queue_house("facebook", c, st, t0 + timedelta(days=1))
+            so.queue_house("facebook", c, st, t0 + timedelta(days=3))
+        promos = sorted((r for r in st["items"].values() if r.get("house") == "promo"), key=lambda r: r["created_at"])
+        self.assertEqual(len(promos), 2)
+        self.assertNotEqual(promos[0]["caption"], promos[1]["caption"])
+        self.assertIn("#Trucking", promos[0]["caption"])
+        self.assertIn("/freight-market/?utm_source=facebook", promos[0]["dest"])
+
+    def test_house_posts_survive_refresh_but_expire(self):
+        st = so.new_state()
+        so._house_item(st, NOW, "promo-x", "Freight Market reminder", "text", "https://haultimes.com/freight-market/", 60, "promo")
+        so.refresh_queue("facebook", [], cfg(), st, NOW + timedelta(hours=2))
+        self.assertEqual(st["items"]["promo-x"]["status"], "queued")      # not dropped for "no longer on the site"
+        so.refresh_queue("facebook", [], cfg(), st, NOW + timedelta(hours=25))
+        self.assertEqual(st["items"]["promo-x"]["status"], "expired")
 
 
 if __name__ == "__main__":

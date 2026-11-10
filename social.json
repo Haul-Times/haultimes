@@ -1,5 +1,5 @@
 {
-  "_help": "Social posting controls. mode: off = do nothing, dry_run = build the queue and preview captions on haultimes.com/editor/social/ but never post, live = post for real. There is no daily limit: every story that passes the checks is queued and posted one at a time. min_gap_minutes = minimum spacing between posts (test setting). hours = posting hours, Eastern (start, end); verified breaking news may post outside them. min_score = importance needed for this platform. max_age_hours = skip a story if it waited longer than this since publication. topic_gap_hours = don't post a second story on the same topic within this many hours unless it scores 15+ above min_score. Story ids are on haultimes.com/editor/.",
+  "_help": "Social posting controls. mode: off = do nothing, dry_run = build the queue and preview captions on haultimes.com/editor/social/ but never post, live = post for real. There is no daily limit: every story that passes the checks is queued and posted one at a time. min_gap_minutes = minimum spacing between posts (test setting). hours = posting hours, Eastern (start, end); verified breaking news may post outside them. min_score = importance needed for this platform. max_age_hours = skip a story if it waited longer than this since publication. topic_gap_hours = don't post a second story on the same topic within this many hours unless it scores 15+ above min_score. Story ids are on haultimes.com/editor/. house_posts = also post HaulTimes' own updates (weekly diesel prices, unusual border delays, a Freight Market reminder every promo_every_days days, with hashtags). border_alert_minutes = commercial wait that counts as a delay (it must also be at least double the usual wait).",
   "facebook": {
     "mode": "live",
     "min_gap_minutes": 90,
@@ -12,7 +12,10 @@
     "topic_gap_hours": 4,
     "breaking_score": 85,
     "breaking_max_age_hours": 3,
-    "breaking_min_gap_minutes": 10
+    "breaking_min_gap_minutes": 10,
+    "house_posts": true,
+    "promo_every_days": 3,
+    "border_alert_minutes": 90
   },
   "x": {
     "mode": "off",

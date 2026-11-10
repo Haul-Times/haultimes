@@ -5,7 +5,7 @@ export function fakeD1() {
   const db = new DatabaseSync(":memory:");
   const stmt = (sql, args = []) => ({
     bind: (...a) => stmt(sql, a),
-    run: async () => { db.prepare(sql).run(...args); return { success: true }; },
+    run: async () => { const r = db.prepare(sql).run(...args); return { success: true, meta: { changes: Number(r.changes) } }; },
     first: async () => db.prepare(sql).get(...args) ?? null,
     all: async () => ({ results: db.prepare(sql).all(...args) }),
   });

@@ -84,6 +84,7 @@ const hit = (p, ua, ip, ref = "") => M.handle(new Request("https://haultimes.com
 const UA = "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X)";
 await hit("/freight-market/", UA, "40.0.0.1", "https://www.facebook.com/");
 await hit("/freight-market/", UA, "40.0.0.1");
+await hit("/freight-market/", UA, "40.0.0.1");   // refreshes don't count
 await hit("/", UA, "40.0.0.2", "https://haultimes.com/");
 await hit("/", "Googlebot/2.1", "40.0.0.3");
 await hit("/admin/", UA, "40.0.0.4");
@@ -100,7 +101,7 @@ check("admin: right password opens, not indexed", okPage.status === 200 && okPag
 const stats = await (await handleAdmin(adminReq("api/stats", "correct horse battery"), envA, "PAGE", NOW)).json();
 check("admin stats: rate reports counted", stats.submissions.rates_all >= 6);
 check("admin stats: poll answers counted", stats.submissions.polls_this_week === 5);
-check("admin stats: views counted, bots and admin skipped", stats.visits.views_today === 3 && stats.visits.market_views_7d === 2);
+check("admin stats: unique views only (refresh not counted), bots and admin skipped", stats.visits.views_today === 2 && stats.visits.market_views_7d === 1);
 check("admin stats: unique visitors per day", stats.visits.visitors_today === 2);
 check("admin stats: referrers, own site not counted", stats.visits.top_refs.some((r) => r.host === "facebook.com") && !stats.visits.top_refs.some((r) => r.host === "haultimes.com"));
 const list = await (await handleAdmin(adminReq("api/rates?eq=flatbed&o=TX", "correct horse battery"), envA, "PAGE", NOW)).json();

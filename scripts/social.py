@@ -52,10 +52,12 @@ SETTINGS_FILE = os.path.join(ROOT, "social.json")
 DEFAULTS = {
     "facebook": {"mode": "dry_run", "min_gap_minutes": 90, "hours": [7, 21], "min_score": 70,
                  "max_age_hours": 12, "topic_gap_hours": 4, "breaking_score": 85, "breaking_max_age_hours": 3,
-                 "breaking_min_gap_minutes": 10},
+                 "breaking_min_gap_minutes": 10, "house_posts": True, "promo_every_days": 3,
+                 "border_alert_minutes": 90},
     "x": {"mode": "dry_run", "min_gap_minutes": 30, "hours": [6, 22], "min_score": 60,
           "max_age_hours": 8, "topic_gap_hours": 0, "breaking_score": 85, "breaking_max_age_hours": 3,
-                 "breaking_min_gap_minutes": 10},
+                 "breaking_min_gap_minutes": 10, "house_posts": False, "promo_every_days": 3,
+                 "border_alert_minutes": 90},
 }
 MAX_ATTEMPTS = 5
 
@@ -437,12 +439,164 @@ def queue_new(platform, stories, cfg, st, now, site_dir):
     return added
 
 
+# ------------------------------------------------------------------ HaulTimes' own posts
+# Besides news, the Page posts three kinds of useful updates from the site's own data, through the same
+# queue (same spacing, hours, duplicate and retry rules):
+#   * weekly diesel prices, once per new EIA week
+#   * border delays: a commercial wait of border_alert_minutes or more that is at least double the usual
+#     wait for that hour, once per crossing and direction every 12 hours
+#   * a Freight Market reminder every promo_every_days days, rotating through the texts below, with hashtags
+
+PROMOS = [
+    ("Is that load offer fair? Check any lane against what other carriers reported this week: dry van, reefer, "
+     "flatbed and step deck, across the US and Canada. Free and anonymous on HaulTimes Freight Market.",
+     "#Trucking #FreightRates #OwnerOperator #TruckDrivers", "#chk"),
+    ("How's your market this week? Tell us in one tap: Hot, Normal or Slow. Every answer adds to a live "
+     "load-market map for the US and Canada. No name, no email.",
+     "#Trucking #CanadianTrucking #Flatbed #Reefer", "#poll"),
+    ("Hauled a load this week? Share the rate, anonymously. The more carriers report, the clearer the picture "
+     "of what each lane really pays, for everyone.",
+     "#OwnerOperator #Freight #DryVan #TruckingLife", "#rep"),
+    ("Before you book, see what your lane is paying. Typical all-in rates from real reports by carriers and "
+     "brokers, for dry van, reefer, flatbed and step deck.",
+     "#FreightRates #Trucking #StepDeck #Flatbed", "#chk"),
+]
+
+
+def _site():
+    return load_config()["site_url"].rstrip("/")
+
+
+def _house_dest(platform, path, campaign):
+    q = urllib.parse.urlencode({"utm_source": platform, "utm_medium": "organic_social", "utm_campaign": campaign})
+    frag = ""
+    if "#" in path:
+        path, frag = path.split("#", 1)
+        frag = "#" + frag
+    return "%s%s?%s%s" % (_site(), path, q, frag)
+
+
+def _house_item(st, now, hid, title, caption, dest, score, kind):
+    st["items"][hid] = {"story_id": hid, "title": title, "url_key": hid, "category": "house:" + kind, "source": "HaulTimes",
+                        "dest": dest, "caption": caption, "status": "queued", "created_at": now.isoformat(),
+                        "published": now.isoformat(), "score": score, "attempts": 0, "errors": [], "post_id": None,
+                        "posted_at": None, "next_attempt_at": None, "preview": {}, "house": kind,
+                        "reason": "HaulTimes update: %s" % kind}
+    decide(st, now, hid, title, "queued", "HaulTimes update: %s" % kind)
+
+
+def _money(v):
+    return "$%.2f" % v
+
+
+def diesel_caption(e, o=None):
+    """Weekly diesel post from EIA's US regional prices (and Ontario's weekly survey when available)."""
+    from fetch_market import EIA_REGIONS
+    names = {k: label for k, label, _ in EIA_REGIONS}
+    p, prev = e["prices"], e.get("prev_prices") or {}
+    us = p["US"]
+    week = datetime.fromisoformat(e["week"]).strftime("%B %-d")
+    line = "US diesel averaged %s a gallon for the week of %s" % (_money(us), week)
+    if prev.get("US"):
+        d = round((us - prev["US"]) * 100)
+        line += ", %s" % ("unchanged from the week before" if d == 0 else "%s %d¢ from the week before" % ("up" if d > 0 else "down", abs(d)))
+    parts = [line + ", according to the US Energy Information Administration."]
+    regional = {k: v for k, v in p.items() if k in ("1A", "1B", "1C", "2", "3", "4", "5XCA", "CA")}
+    if len(regional) >= 3:
+        hi = max(regional, key=regional.get)
+        lo = min(regional, key=regional.get)
+        parts.append("Highest: %s at %s. Lowest: %s at %s." % (names[hi], _money(regional[hi]), names[lo], _money(regional[lo])))
+    if o and o.get("prices"):
+        k = next((k for k in o["prices"] if "average" in k.lower()), None)
+        if k:
+            parts.append("In Ontario, diesel averaged %.1f¢ a litre (week of %s)." % (
+                o["prices"][k], datetime.fromisoformat(o["week"]).strftime("%B %-d")))
+    parts.append("Every state and province on the HaulTimes diesel map.")
+    return "\n\n".join([" ".join(parts[:2]), " ".join(parts[2:]), "#Diesel #Trucking #FuelPrices"]).replace("\n\n\n\n", "\n\n")
+
+
+def border_alerts(border, minutes):
+    """Crossings where trucks wait unusually long right now: (key, text)."""
+    out = []
+    hour = border.get("hour_now")
+    for c in border.get("crossings") or []:
+        for side, into, agency in (("south", "the US", "CBP"), ("north", "Canada", "CBSA")):
+            w = (c.get(side) or {}).get("wait")
+            if not isinstance(w, (int, float)) or w < minutes:
+                continue
+            usual = None
+            try:
+                usual = (c.get("usual") or {}).get(side)[hour]
+            except (TypeError, IndexError, KeyError):
+                usual = None
+            if usual is not None and w < 2 * max(usual, 15):
+                continue
+            hrs, mins = divmod(int(w), 60)
+            wait = ("%d hr %d min" % (hrs, mins) if mins else "%d hr" % hrs) if hrs else "%d min" % mins
+            text = ("Long truck wait at the %s (%s): about %s for commercial vehicles entering %s, per %s%s."
+                    % (c["name"], c.get("ports", "").replace("↔", "-"), wait, into, agency,
+                       (", against a usual %d min at this hour" % usual) if usual is not None else ""))
+            out.append(("%s-%s" % (c["id"], side), text))
+    return out
+
+
+def queue_house(platform, cfg, st, now):
+    if not cfg.get("house_posts"):
+        return 0
+    added = 0
+    items = st["items"]
+    local = now.astimezone(EASTERN)
+    in_hours = cfg["hours"][0] <= local.hour < cfg["hours"][1]
+    market = load_json("market.json", {})
+    # weekly diesel
+    e, o = market.get("eia_diesel", {}), market.get("ontario_diesel", {})
+    if e.get("status") == "ok" and (e.get("prices") or {}).get("US") and e.get("parser") and in_hours and local.hour >= 10:
+        hid = "diesel-%s" % e["week"]
+        if hid not in items:
+            _house_item(st, now, hid, "Diesel prices, week of %s" % e["week"], diesel_caption(e, o),
+                        _house_dest(platform, "/freight-market/#fuel-h", "diesel"), cfg["min_score"] + 10, "diesel")
+            added += 1
+    # border delays (any hour: a 3 a.m. delay matters to drivers too)
+    border = load_json("border.json", {})
+    for key, text in border_alerts(border, cfg.get("border_alert_minutes", 90)):
+        recent = [r for r in items.values() if r.get("house") == "border" and r["story_id"].startswith("border-%s-" % key)
+                  and now - datetime.fromisoformat(r["created_at"]) < timedelta(hours=12)]
+        if recent:
+            continue
+        hid = "border-%s-%s" % (key, local.strftime("%Y%m%d%H"))
+        _house_item(st, now, hid, text[:90], text + "\n\nLive waits at every crossing on HaulTimes.\n\n#CrossBorder #Trucking",
+                    _house_dest(platform, "/border-wait-times/", "border"), cfg.get("breaking_score", 85), "border")
+        items[hid]["breaking"] = "unusual border delay"
+        added += 1
+    # Freight Market reminder
+    every = cfg.get("promo_every_days") or 0
+    if every and in_hours and 10 <= local.hour < 19:
+        last = max((datetime.fromisoformat(r["created_at"]) for r in items.values() if r.get("house") == "promo"), default=None)
+        if last is None or now - last >= timedelta(days=every):
+            i = st.get("promo_i", 0) % len(PROMOS)
+            text, tags, anchor = PROMOS[i]
+            st["promo_i"] = i + 1
+            hid = "promo-%s" % local.strftime("%Y%m%d")
+            _house_item(st, now, hid, "Freight Market reminder", text + "\n\n" + tags,
+                        _house_dest(platform, "/freight-market/" + anchor, "freight_market"), cfg["min_score"], "promo")
+            added += 1
+    return added
+
+
 def refresh_queue(platform, stories, cfg, st, now):
     """Recheck everything still waiting: skip list, stale, superseded, redundant; refresh captions and priority."""
     by_id = {s["id"]: s for s in stories}
     done = [r for r in st["items"].values() if _done(r) and r.get("posted_at")]
     for sid, r in st["items"].items():
         if r["status"] != "queued":
+            continue
+        if r.get("house"):   # HaulTimes' own updates: only skip-list and a 24-hour shelf life apply
+            if sid in cfg["skip"]:
+                r["status"] = "skipped"
+                decide(st, now, sid, r["title"], "skipped", "skipped by editor")
+            elif now - datetime.fromisoformat(r["created_at"]) > timedelta(hours=24 if r["house"] != "border" else 3):
+                r["status"] = "expired"
+                decide(st, now, sid, r["title"], "expired", "no slot opened in time")
             continue
         s = by_id.get(sid)
         if sid in cfg["skip"]:
@@ -762,6 +916,7 @@ def run_platform(platform, stories, cfg, st, now, site_dir, client=None, secret_
         return "off"
     refresh_queue(platform, stories, cfg, st, now)
     queue_new(platform, stories, cfg, st, now, site_dir)
+    queue_house(platform, cfg, st, now)
     refresh_queue(platform, stories, cfg, st, now)
 
     if cfg["mode"] == "dry_run":
