@@ -714,14 +714,14 @@
    "source": "Journal of Commerce",
    "dest": "https://haultimes.com/story/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-b743753e5c/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=b743753e5c",
    "caption": "Additional trucks at large US carriers boost Truckload Capacity Index.\n\nReported by Journal of Commerce. The link has the details and the original article.\n\n#Trucking #Freight",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T17:11:28.622173+00:00",
    "published": "2026-11-10T17:06:00+00:00",
    "score": 78,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122100447525544428",
+   "posted_at": "2026-11-10T17:31:18.584191+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Additional trucks at large US carriers boost Truckload Capacity Index | HaulTimes",
@@ -731,7 +731,9 @@
    },
    "reason": "importance 78 (threshold 65), Rates & Market, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T17:31:18.584191+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122100447525544428"
   }
  },
  "paused": null,
@@ -796,6 +798,10 @@
   {
    "at": "2026-11-10T16:01:25.086893+00:00",
    "msg": "posted 8fe1a28a86"
+  },
+  {
+   "at": "2026-11-10T17:31:18.584191+00:00",
+   "msg": "posted b743753e5c"
   }
  ],
  "decided": {
@@ -903,8 +909,9 @@
   "c002f2962a": "skipped|importance 55 is below this platform's threshold (65)",
   "1aae7fdef8": "skipped|importance 60 is below this platform's threshold (65)",
   "5e1a1119d4": "skipped|importance 51 is below this platform's threshold (65)",
-  "b743753e5c": "queued|importance 78 (threshold 65), Rates & Market, trade publication",
-  "db3b41cb73": "skipped|importance 55 is below this platform's threshold (65)"
+  "b743753e5c": "posted|importance 78 (threshold 65), Rates & Market, trade publication; waited 19 min in queue",
+  "db3b41cb73": "skipped|importance 55 is below this platform's threshold (65)",
+  "fd5221d945": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1795,6 +1802,20 @@
    "title": "$760K fuel-card fraud scheme tied to impersonated Michigan trucking company",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T17:31:18.584191+00:00",
+   "story_id": "fd5221d945",
+   "title": "Diesel market points down post-election; benchmark slides",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T17:31:18.584191+00:00",
+   "story_id": "b743753e5c",
+   "title": "Additional trucks at large US carriers boost Truckload Capacity Index",
+   "action": "posted",
+   "reason": "importance 78 (threshold 65), Rates & Market, trade publication; waited 19 min in queue"
   }
  ],
  "visibility": {
