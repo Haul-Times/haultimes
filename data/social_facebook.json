@@ -455,6 +455,27 @@
    "reason": "importance 67 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false
+  },
+  "diesel-2026-11-02": {
+   "story_id": "diesel-2026-11-02",
+   "title": "Diesel prices, week of 2026-11-02",
+   "url_key": "diesel-2026-11-02",
+   "category": "house:diesel",
+   "source": "HaulTimes",
+   "dest": "https://haultimes.com/freight-market/?utm_source=facebook&utm_medium=organic_social&utm_campaign=diesel#fuel-h",
+   "caption": "US diesel averaged $6.29 a gallon for the week of November 2, down 6¢ from the week before, according to the US Energy Information Administration. Highest: California at $8.08. Lowest: Lower Atlantic at $5.81.\n\nIn Ontario, diesel averaged 243.1¢ a litre (week of November 9). Every state and province on the HaulTimes diesel map.\n\n#Diesel #Trucking #FuelPrices",
+   "status": "queued",
+   "created_at": "2026-11-10T02:47:57.354375+00:00",
+   "published": "2026-11-10T02:47:57.354375+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {},
+   "house": "diesel",
+   "reason": "HaulTimes update: diesel"
   }
  },
  "paused": {
@@ -549,7 +570,8 @@
   "2b12ea5fa6": "skipped|importance 45 is below this platform's threshold (65)",
   "f24df3ce85": "skipped|importance 45 is below this platform's threshold (65)",
   "0aa4a2dd3e": "skipped|importance 55 is below this platform's threshold (65)",
-  "c99e6d2501": "skipped|importance 55 is below this platform's threshold (65)"
+  "c99e6d2501": "skipped|importance 55 is below this platform's threshold (65)",
+  "diesel-2026-11-02": "queued|HaulTimes update"
  },
  "decisions": [
   {
@@ -1111,6 +1133,13 @@
    "title": "Radiant Logistics touts enhanced credit facility, eyes larger M&A",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T02:47:57.354375+00:00",
+   "story_id": "diesel-2026-11-02",
+   "title": "Diesel prices, week of 2026-11-02",
+   "action": "queued",
+   "reason": "HaulTimes update: diesel"
   }
  ]
 }

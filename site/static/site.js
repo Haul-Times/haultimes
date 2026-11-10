@@ -60,6 +60,7 @@
 (function () {
   try {
     if (location.hostname !== "haultimes.com" && location.hostname !== "www.haultimes.com" && location.hostname !== "localhost") return;
+    try { if (localStorage.getItem("ht_owner") === "1") return; } catch (e) {}   // the site owner's own browser
     var body = JSON.stringify({ p: location.pathname, r: document.referrer || "" });
     if (navigator.sendBeacon) navigator.sendBeacon("/api/hit", body);
     else fetch("/api/hit", { method: "POST", body: body, keepalive: true });
@@ -87,6 +88,7 @@
 (function () {
   var canNative = !!navigator.share && /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent);
   function count(net) {
+    try { if (localStorage.getItem("ht_owner") === "1") return; } catch (e) {}
     try { navigator.sendBeacon && navigator.sendBeacon("/api/hit", JSON.stringify({ p: "/~share/" + net, r: "" })); } catch (e) {}
   }
   function links(u, t) {
