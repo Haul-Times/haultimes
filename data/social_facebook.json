@@ -819,14 +819,14 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/u-s-raises-forecasts-for-2027-gasoline-and-diesel-prices-094bf8c5ce/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=094bf8c5ce",
    "caption": "U.S. raises forecasts for 2027 gasoline and diesel prices.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #Diesel",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T18:31:18.494004+00:00",
    "published": "2026-11-10T18:02:54+00:00",
    "score": 78,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122100493803544428",
+   "posted_at": "2026-11-10T18:41:36.825517+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "U.S. raises forecasts for 2027 gasoline and diesel prices | HaulTimes",
@@ -836,7 +836,9 @@
    },
    "reason": "importance 78 (threshold 65), Fuel, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T18:41:36.825517+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122100493803544428"
   },
   "c272484a07": {
    "story_id": "c272484a07",
@@ -940,6 +942,10 @@
   {
    "at": "2026-11-10T18:21:34.962549+00:00",
    "msg": "posted diesel-2026-11-09"
+  },
+  {
+   "at": "2026-11-10T18:41:36.825517+00:00",
+   "msg": "posted 094bf8c5ce"
   }
  ],
  "decided": {
@@ -1054,7 +1060,7 @@
   "c2f3d704e3": "skipped|importance 61 is below this platform's threshold (65)",
   "715577ea7b": "skipped|importance 63 is below this platform's threshold (65)",
   "diesel-2026-11-09": "posted|HaulTimes update",
-  "094bf8c5ce": "queued|importance 78 (threshold 65), Fuel, trade publication",
+  "094bf8c5ce": "posted|importance 78 (threshold 65), Fuel, trade publication; waited 10 min in queue",
   "c272484a07": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
  },
  "decisions": [
@@ -2016,6 +2022,13 @@
    "title": "Forward Air Bolsters Freight Demand Amid Capacity Crackdown",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-10T18:41:36.825517+00:00",
+   "story_id": "094bf8c5ce",
+   "title": "U.S. raises forecasts for 2027 gasoline and diesel prices",
+   "action": "posted",
+   "reason": "importance 78 (threshold 65), Fuel, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
