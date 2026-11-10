@@ -302,14 +302,14 @@
    "source": "Land Line Media",
    "dest": "https://haultimes.com/story/fmcsa-wants-drivers-to-expose-the-bad-in-trucking-598d07d769/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=598d07d769",
    "caption": "FMCSA wants drivers to expose the bad in trucking.\n\nReported by Land Line Media. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-09T19:29:56.752075+00:00",
    "published": "2026-11-09T18:59:17+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122099947923544428",
+   "posted_at": "2026-11-10T05:41:12.985883+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "FMCSA wants drivers to expose the bad in trucking | HaulTimes",
@@ -319,7 +319,9 @@
    },
    "reason": "importance 67 (threshold 65), Regulations, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T05:41:12.985883+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122099947923544428"
   },
   "4cecda89cb": {
    "story_id": "4cecda89cb",
@@ -524,6 +526,10 @@
   {
    "at": "2026-11-10T05:21:14.796624+00:00",
    "msg": "posted d21eec4468"
+  },
+  {
+   "at": "2026-11-10T05:41:12.985883+00:00",
+   "msg": "posted 598d07d769"
   }
  ],
  "decided": {
@@ -568,7 +574,7 @@
   "a5ae074b94": "skipped|importance 63 is below this platform's threshold (65)",
   "708c2ac4b9": "skipped|importance 50 is below this platform's threshold (65)",
   "1bfc38f0f3": "skipped|minor item (announcement) or low-quality source",
-  "598d07d769": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "598d07d769": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 611 min in queue",
   "4cecda89cb": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "0a7a212dcd": "skipped|minor item (news) or low-quality source",
   "de2dead35c": "skipped|importance 55 is below this platform's threshold (65)",
@@ -1226,6 +1232,13 @@
    "title": "Truck enforcements widen to Maryland, DC as 128 drivers sidelined",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 383 min in queue"
+  },
+  {
+   "at": "2026-11-10T05:41:12.985883+00:00",
+   "story_id": "598d07d769",
+   "title": "FMCSA wants drivers to expose the bad in trucking",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 611 min in queue"
   }
  ]
 }
