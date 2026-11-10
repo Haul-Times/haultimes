@@ -812,7 +812,8 @@
   "cf75ec0167": "skipped|importance 62 is below this platform's threshold (65)",
   "3942921a18": "skipped|minor item (announcement) or low-quality source",
   "b05c790f3b": "skipped|importance 55 is below this platform's threshold (65)",
-  "promo-20261110": "queued|HaulTimes update"
+  "promo-20261110": "queued|HaulTimes update",
+  "57e48c4bf1": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -1619,6 +1620,13 @@
    "title": "Freight Market reminder",
    "action": "queued",
    "reason": "HaulTimes update: promo"
+  },
+  {
+   "at": "2026-11-10T15:11:15.398222+00:00",
+   "story_id": "57e48c4bf1",
+   "title": "North Charleston Port Truckers Halt Work Over Pay, Safety",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
