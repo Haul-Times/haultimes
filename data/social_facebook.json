@@ -553,14 +553,14 @@
    "source": "FleetOwner",
    "dest": "https://haultimes.com/story/fmcsa-enhances-complaint-center-to-improve-safety-reporting-573d91d7eb/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=573d91d7eb",
    "caption": "FMCSA enhances complaint center to improve safety reporting.\n\nReported by FleetOwner. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T13:21:12.744280+00:00",
    "published": "2026-11-10T13:17:16+00:00",
    "score": 73,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122100259947544428",
+   "posted_at": "2026-11-10T13:31:13.945409+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "FMCSA enhances complaint center to improve safety reporting | HaulTimes",
@@ -570,7 +570,9 @@
    },
    "reason": "importance 73 (threshold 65), Regulations, trade publication",
    "breaking": null,
-   "edited": false
+   "edited": false,
+   "last_attempt_at": "2026-11-10T13:31:13.945409+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122100259947544428"
   }
  },
  "paused": null,
@@ -623,6 +625,10 @@
   {
    "at": "2026-11-10T13:11:13.040276+00:00",
    "msg": "posted 81d1dd3fe9"
+  },
+  {
+   "at": "2026-11-10T13:31:13.945409+00:00",
+   "msg": "posted 573d91d7eb"
   }
  ],
  "decided": {
@@ -709,7 +715,7 @@
   "33c96b704c": "skipped|importance 45 is below this platform's threshold (65)",
   "ab4bacf873": "skipped|minor item (event) or low-quality source",
   "81d1dd3fe9": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
-  "573d91d7eb": "queued|importance 73 (threshold 65), Regulations, trade publication"
+  "573d91d7eb": "posted|importance 73 (threshold 65), Regulations, trade publication; waited 10 min in queue"
  },
  "decisions": [
   {
@@ -1425,6 +1431,13 @@
    "title": "FMCSA enhances complaint center to improve safety reporting",
    "action": "queued",
    "reason": "importance 73 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-10T13:31:13.945409+00:00",
+   "story_id": "573d91d7eb",
+   "title": "FMCSA enhances complaint center to improve safety reporting",
+   "action": "posted",
+   "reason": "importance 73 (threshold 65), Regulations, trade publication; waited 10 min in queue"
   }
  ]
 }
