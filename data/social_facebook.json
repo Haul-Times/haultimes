@@ -1218,7 +1218,9 @@
   "603bae12fe": "skipped|importance 55 is below this platform's threshold (65)",
   "0ef42f4242": "skipped|minor item (crime) or low-quality source",
   "8c735c702b": "skipped|importance 55 is below this platform's threshold (65)",
-  "fcbb818ef0": "skipped|importance 55 is below this platform's threshold (65)"
+  "fcbb818ef0": "skipped|importance 55 is below this platform's threshold (65)",
+  "9b09ae420c": "skipped|importance 55 is below this platform's threshold (65)",
+  "1d6b16d398": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2298,6 +2300,20 @@
    "title": "Diesel Price Drop: Why Oil Markets Are Tumbling",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Fuel, trade publication; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-10T22:01:21.132468+00:00",
+   "story_id": "9b09ae420c",
+   "title": "Trucks busted loaded with cocaine, liquid meth at borders",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T22:01:21.132468+00:00",
+   "story_id": "1d6b16d398",
+   "title": "ELD fraud: What it's like hauling 16, 18, 22 hours daily",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
