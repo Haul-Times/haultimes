@@ -486,6 +486,33 @@
    "reason": "HaulTimes update: diesel",
    "last_attempt_at": "2026-11-10T03:22:44.965792+00:00",
    "post_url": "https://www.facebook.com/1476615495528085_122099875881544428"
+  },
+  "de46b78765": {
+   "story_id": "de46b78765",
+   "title": "Electric Mack MD trucks recalled for improper hill start assist message",
+   "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEdZZ1JZZ0lHRzdnT3dWN05pczcxU0xqQ1ZFdHd5RGhDRmpiMlFVSWFhREVJZVgyc1VhUWFjSW5qUUE3UEhYVVMwcjFtczUzaFJWRzhkdUVjRWJaNG1LcVcyc1JUMm9fakJXbXRlbVFlRHp1Zk4yeXJGMjl5Y1dObjMwME42MmlwR2hXRHg2Z1Y5NEctUktLdERTSWV1NFNfWndGekhzRkYwbVE0Z2IzUXNnNHR2MHBqSjZjZDNjdU9NZXZBNEE",
+   "category": "equip",
+   "source": "Commercial Carrier Journal",
+   "dest": "https://haultimes.com/story/electric-mack-md-trucks-recalled-for-improper-hill-start-assist-messag-de46b78765/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=de46b78765",
+   "caption": "Electric Mack MD trucks recalled for improper hill start assist message.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-10T12:11:21.611657+00:00",
+   "published": "2026-11-10T10:17:53+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Electric Mack MD trucks recalled for improper hill start assist message | HaulTimes",
+    "og:description": "Reported by Commercial Carrier Journal. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/fa6bcb5843.png",
+    "og:url": "https://haultimes.com/story/electric-mack-md-trucks-recalled-for-improper-hill-start-assist-messag-de46b78765/"
+   },
+   "reason": "importance 75 (threshold 65), Equipment, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": null,
@@ -609,7 +636,12 @@
   "07209e2b45": "skipped|importance 55 is below this platform's threshold (65)",
   "83eecc242b": "skipped|importance 45 is below this platform's threshold (65)",
   "58925ac381": "skipped|importance 45 is below this platform's threshold (65)",
-  "e462d0d40e": "skipped|importance 57 is below this platform's threshold (65)"
+  "e462d0d40e": "skipped|importance 57 is below this platform's threshold (65)",
+  "de46b78765": "queued|importance 75 (threshold 65), Equipment, trade publication",
+  "ab01b31cb0": "skipped|importance 55 is below this platform's threshold (65)",
+  "f636d43c1f": "skipped|importance 45 is below this platform's threshold (65)",
+  "33c96b704c": "skipped|importance 45 is below this platform's threshold (65)",
+  "ab4bacf873": "skipped|minor item (event) or low-quality source"
  },
  "decisions": [
   {
@@ -1262,6 +1294,41 @@
    "title": "NAFTA & USMCA Trucking Regulations",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T12:11:21.611657+00:00",
+   "story_id": "de46b78765",
+   "title": "Electric Mack MD trucks recalled for improper hill start assist message",
+   "action": "queued",
+   "reason": "importance 75 (threshold 65), Equipment, trade publication"
+  },
+  {
+   "at": "2026-11-10T12:11:21.611657+00:00",
+   "story_id": "ab01b31cb0",
+   "title": "That RICO suit vs. Robinson/TQL? Jury selection starts in ’28",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T12:11:21.611657+00:00",
+   "story_id": "f636d43c1f",
+   "title": "Marten Transport stock faces mixed quarter after latest filing",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T12:11:21.611657+00:00",
+   "story_id": "33c96b704c",
+   "title": "Senior Auto: Delivering Reliable Autonomous Heavy-Duty Transport Services Worldwide",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T12:11:21.611657+00:00",
+   "story_id": "ab4bacf873",
+   "title": "Ryder CEO John Diez to Address Stephens Annual Investment Conference",
+   "action": "skipped",
+   "reason": "minor item (event) or low-quality source"
   }
  ]
 }
