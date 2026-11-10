@@ -37,7 +37,7 @@
     if (!last) return;
     var rows = last.lanes.filter(function (l) { return mFilter === "all" || l.market === mFilter; });
     if (!rows.length) {
-      body.innerHTML = '<tr><td colspan="5" class="note">No lane has enough reports yet' + (last.lanes_waiting ? " (" + last.lanes_waiting + " lanes are filling up)" : "") +
+      body.innerHTML = '<tr><td colspan="5" class="note">No lane has enough reports yet' + (last.lanes_waiting ? " (" + last.lanes_waiting + (last.lanes_waiting === 1 ? " lane is" : " lanes are") + " filling up)" : "") +
         '. <a href="#rep">Report a rate</a> to help.</td></tr>';
       return;
     }
@@ -63,10 +63,10 @@
       shown++; if (v.level === "hot") hot++;
       g.querySelector("rect").setAttribute("fill", COL[v.level]);
       if (v.level !== "normal") g.querySelector("text").setAttribute("fill", "#fff");
-      tip.textContent = (NAMES[k] || k) + ": " + ({ hot: "busy", normal: "normal", slow: "slow" })[v.level] + " (" + v.hot + " busy, " + v.normal + " normal, " + v.slow + " slow)";
+      tip.textContent = (NAMES[k] || k) + ": " + v.level + " (" + v.hot + " hot, " + v.normal + " normal, " + v.slow + " slow)";
     });
     $("#map-title").textContent = (eq === "all" ? "All loads" : EQ[eq] + " loads") + ", week of " + new Date(last.week + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric" });
-    $("#map-count").textContent = last.reports + " reports this week. " + (shown ? shown + " areas shown, " + hot + " busy." : "No area has 5 reports yet.");
+    $("#map-count").textContent = last.reports + " reports this week. " + (shown ? shown + " areas shown, " + hot + " hot." : "No area has 5 reports yet.");
   }
 
   function load() {
@@ -148,20 +148,28 @@
   var poll = $("#poll"), pick = $("#poll-pick"), pCity, pRegion, pEq;
   pCity = null; pRegion = store.get("ht_poll_region"); pEq = store.get("ht_poll_eq") || (eq !== "all" ? eq : "van");
   function showWhere() {
-    $("#poll-where").textContent = (EQ[pEq] || "Dry van") + " · " + (pRegion ? "near " + (pCity ? pCity + ", " : "") + (NAMES[pRegion] || pRegion) : "pick your area");
+    $("#poll-where").textContent = (EQ[pEq] || "Dry van") + " · " + (pRegion ? (NAMES[pRegion] || pRegion) : "choose your state or province");
     $("#poll-eq-line").hidden = true;
     pick.querySelector("[name=region]").value = pRegion || "";
     pick.querySelector("[name=equipment]").value = pEq;
   }
-  if (!pRegion) {
-    fetch(API + "where").then(function (r) { return r.json(); }).then(function (j) {
-      if (j.region) { pRegion = j.region; pCity = j.city; showWhere(); } else { pick.hidden = false; }
-    }).catch(function () { pick.hidden = false; });
-  }
+  // The reader picks their own state or province once; it's remembered on this device.
+  // (Guessing from the internet connection proved unreliable: phone networks and privacy relays
+  // often route through another province or state.)
+  if (!pRegion) pick.hidden = false;
   showWhere();
+  // Show this week's answer again after a reload
+  function weekKey() { var d = new Date(), day = (d.getUTCDay() + 6) % 7; d.setUTCDate(d.getUTCDate() - day); return d.toISOString().slice(0, 10); }
+  function markAnswer() {
+    var saved = (store.get("ht_poll_ans") || "").split("|");
+    $$(".pollbtn", poll).forEach(function (x) {
+      x.classList.toggle("on", saved[0] === weekKey() && saved[1] === pRegion && saved[2] === pEq && saved[3] === x.dataset.a);
+    });
+  }
+  markAnswer();
   $("#poll-change").addEventListener("click", function () { pick.hidden = !pick.hidden; });
-  pick.querySelector("[name=region]").addEventListener("change", function () { pRegion = this.value; pCity = null; store.set("ht_poll_region", pRegion); showWhere(); });
-  pick.querySelector("[name=equipment]").addEventListener("change", function () { pEq = this.value; store.set("ht_poll_eq", pEq); showWhere(); });
+  pick.querySelector("[name=region]").addEventListener("change", function () { pRegion = this.value; pCity = null; store.set("ht_poll_region", pRegion); showWhere(); markAnswer(); });
+  pick.querySelector("[name=equipment]").addEventListener("change", function () { pEq = this.value; store.set("ht_poll_eq", pEq); showWhere(); markAnswer(); });
   $$(".pollbtn", poll).forEach(function (b) {
     b.addEventListener("click", function () {
       var out = $("#poll-out");
@@ -170,6 +178,7 @@
       post("poll", { region: pRegion, equipment: pEq, answer: Number(b.dataset.a) }).then(function (j) {
         if (!j.ok) return say(out, "err", esc(j.error || "Couldn't save. Try again."));
         store.set("ht_poll_region", pRegion); store.set("ht_poll_eq", pEq);
+        store.set("ht_poll_ans", [weekKey(), pRegion, pEq, b.dataset.a].join("|"));
         say(out, "ok", "Recorded for " + esc(NAMES[pRegion] || pRegion) + ", " + EQ[pEq] + ", this week.");
         load();
       }).catch(function () { say(out, "err", "Couldn't save right now. Try again in a minute."); });

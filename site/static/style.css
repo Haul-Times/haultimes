@@ -462,7 +462,47 @@ table.mk-tight .src-in { font-size: 12px; color: var(--faint); }
 }
 /* Poll: same size before and after an answer; no stretched empty box */
 .two { align-items: flex-start; }
-.pollbtn { display: flex; align-items: center; justify-content: space-between; gap: 10px; border: 1px solid #B9C0C8; box-shadow: none; }
-.pollbtn.on { border-color: var(--navy); background: #fff; box-shadow: inset 0 0 0 1px var(--navy); }
-.pollbtn.on::after { content: "Your answer ✓"; font-size: 12px; font-weight: 700; color: var(--ok); white-space: nowrap; }
-.pollbtn:not(.on):hover { border-color: var(--navy); }
+
+/* Freight Market: finished look for the lower sections */
+.mk-more > summary, .mk-about > summary {
+  list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  min-height: 44px; padding: 0 14px; margin-top: 10px; border: 1px solid var(--rule); border-left: 4px solid var(--navy);
+  background: var(--wash); color: var(--ink); font-family: var(--display); font-weight: 800; font-stretch: 85%;
+  font-size: 13px; text-transform: uppercase; letter-spacing: .06em; cursor: pointer;
+}
+.mk-more > summary::-webkit-details-marker, .mk-about > summary::-webkit-details-marker { display: none; }
+.mk-more > summary::after, .mk-about > summary::after { content: "+"; font-size: 20px; font-weight: 700; color: var(--amber-ink); line-height: 1; }
+.mk-more[open] > summary::after, .mk-about[open] > summary::after { content: "–"; }
+.mk-more[open] > summary, .mk-about[open] > summary { border-bottom-color: transparent; }
+.mk-more > :not(summary), .mk-about > :not(summary) { border: 1px solid var(--rule); border-top: 0; padding: 4px 14px 12px; }
+.mk-xb { margin: 16px 0 4px; border: 1px solid var(--rule); border-top: 3px solid var(--navy); padding: 10px 14px 6px; }
+.mk-xb .kicker { color: var(--muted); }
+.mk-xb ul { list-style: none; margin: 6px 0 0; padding: 0; }
+.mk-xb li { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 7px 0; border-top: 1px solid var(--rule-soft); font-size: 14px; }
+.mk-xb li:first-child { border-top: 0; }
+.mk-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; margin-top: 12px; }
+.mk-link { position: relative; display: flex; flex-direction: column; gap: 4px; padding: 14px 40px 14px 16px; border: 1px solid var(--rule); border-top: 3px solid var(--amber); background: #fff; color: var(--ink); text-decoration: none; }
+.mk-link:hover { border-color: var(--navy); border-top-color: var(--amber); }
+.mk-link .kicker { color: var(--muted); }
+.mk-link strong { font-family: var(--display); font-weight: 800; font-stretch: 85%; font-size: 18px; line-height: 1.2; }
+.mk-link span:not(.kicker) { font-size: 14px; color: var(--muted); }
+.mk-link i { position: absolute; top: 12px; right: 14px; font-style: normal; font-weight: 700; color: var(--amber-ink); }
+
+
+/* Poll answers: one compact segmented row */
+.pollseg { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border: 1px solid #B9C0C8; margin: 4px 0 2px; }
+#poll .pollseg .pollbtn { all: unset; box-sizing: border-box; display: grid; grid-template-columns: auto 1fr; column-gap: 7px; align-items: center;
+  padding: 8px 10px; border-left: 1px solid #D5D9DE; cursor: pointer; background: #fff; color: var(--ink); min-width: 0; }
+#poll .pollseg .pollbtn:first-child { border-left: 0; }
+#poll .pollseg .pollbtn i { width: 9px; height: 9px; border-radius: 50%; grid-row: 1 / span 2; }
+#poll .pollseg .pollbtn b { font: 700 14px var(--body); line-height: 1.2; }
+#poll .pollseg .pollbtn span { grid-column: 2; font-size: 11.5px; color: var(--muted); line-height: 1.25; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#poll .pollseg .pollbtn:hover { background: var(--wash); }
+#poll .pollseg .pollbtn:focus-visible { outline: 2px solid var(--amber); outline-offset: -2px; }
+#poll .pollseg .pollbtn.on { background: var(--navy); color: #fff; }
+#poll .pollseg .pollbtn.on span { color: #C9D1DC; }
+#poll .pollseg .pollbtn:disabled { opacity: .45; cursor: not-allowed; }
+@media (max-width: 640px) {
+  #poll .pollseg .pollbtn { padding: 8px 8px; column-gap: 6px; }
+  #poll .pollseg .pollbtn span { white-space: normal; overflow: visible; }
+}

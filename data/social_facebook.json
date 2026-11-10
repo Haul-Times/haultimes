@@ -547,7 +547,8 @@
   "34aa44588e": "skipped|importance 61 is below this platform's threshold (65)",
   "c217e43d6d": "skipped|importance 56 is below this platform's threshold (65)",
   "2b12ea5fa6": "skipped|importance 45 is below this platform's threshold (65)",
-  "f24df3ce85": "skipped|importance 45 is below this platform's threshold (65)"
+  "f24df3ce85": "skipped|importance 45 is below this platform's threshold (65)",
+  "0aa4a2dd3e": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1081,6 +1082,13 @@
    "title": "Diesel drivers handed £40 fuel boost after October change",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T00:04:12.731857+00:00",
+   "story_id": "0aa4a2dd3e",
+   "title": "Forward Air pauses sale of intermodal unit",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ]
 }
