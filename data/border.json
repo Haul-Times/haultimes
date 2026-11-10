@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:21:03.420411+00:00",
+ "updated": "2026-11-10T11:30:53.541133+00:00",
  "hour_now": 6,
  "have_us": true,
  "have_ca": true,
@@ -30,7 +30,7 @@
      1,
      0,
      7,
-     3,
+     2,
      null,
      null,
      null,
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 04:15 EST"
+    "updated": "2026-11-10 06:15 EST"
    },
    "usual": {
     "south": [
@@ -243,9 +243,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-10 06:00 EST"
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-10 06:20 EST"
    },
    "usual": {
     "south": [
@@ -281,7 +281,7 @@
      4,
      3,
      4,
-     3,
+     2,
      null,
      null,
      null,
@@ -318,9 +318,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-10 06:00 EST"
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-10 06:20 EST"
    },
    "usual": {
     "south": [
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 04:15 EST"
+    "updated": "2026-11-10 06:15 EST"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 06:01 EST"
+    "updated": "2026-11-10 06:15 EST"
    },
    "usual": {
     "south": [
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 05:15 AST"
+    "updated": "2026-11-10 07:22 AST"
    },
    "usual": {
     "south": [
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-10 04:00 PDT"
+    "updated": "2026-11-10 04:20 PDT"
    },
    "usual": {
     "south": [
@@ -1324,7 +1324,7 @@
      5,
      6,
      6,
-     7,
+     6,
      null,
      null,
      null,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": null,
     "status": "Closed",
-    "updated": "2026-11-10 04:00 PDT"
+    "updated": "2026-11-10 04:20 PDT"
    },
    "usual": {
     "south": [
