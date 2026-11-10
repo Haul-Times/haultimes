@@ -705,6 +705,33 @@
     "created": "2026-11-10T16:01:25+0000",
     "at": "2026-11-10T16:11:26.710087+00:00"
    }
+  },
+  "b743753e5c": {
+   "story_id": "b743753e5c",
+   "title": "Additional trucks at large US carriers boost Truckload Capacity Index",
+   "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQm1Vd1B3VmhGZGRxeEpPWWU5bndZX2tGOUZuT09uMUJuUmxHTllMU1JDNVo3dDNqTzVGU2V5SVNuUTRqRE5PczZ3YWs4eGlxTkVWcTZXZHpuXzhHMFJ0Tm5KTlRLMlFQZ1FocUkwZGt3NktELUY3MTRSQWxIZmFDUUtTQnhaTHFTOWhYM09vdktuS19ueldVbnhGX2Z2TkJubTZ5ejJZUlo",
+   "category": "rates",
+   "source": "Journal of Commerce",
+   "dest": "https://haultimes.com/story/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-b743753e5c/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=b743753e5c",
+   "caption": "Additional trucks at large US carriers boost Truckload Capacity Index.\n\nReported by Journal of Commerce. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-10T17:11:28.622173+00:00",
+   "published": "2026-11-10T17:06:00+00:00",
+   "score": 78,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Additional trucks at large US carriers boost Truckload Capacity Index | HaulTimes",
+    "og:description": "Reported by Journal of Commerce. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/0ea76826fe.png",
+    "og:url": "https://haultimes.com/story/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-b743753e5c/"
+   },
+   "reason": "importance 78 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false
   }
  },
  "paused": null,
@@ -875,7 +902,9 @@
   "766ae4fb2e": "skipped|importance 61 is below this platform's threshold (65)",
   "c002f2962a": "skipped|importance 55 is below this platform's threshold (65)",
   "1aae7fdef8": "skipped|importance 60 is below this platform's threshold (65)",
-  "5e1a1119d4": "skipped|importance 51 is below this platform's threshold (65)"
+  "5e1a1119d4": "skipped|importance 51 is below this platform's threshold (65)",
+  "b743753e5c": "queued|importance 78 (threshold 65), Rates & Market, trade publication",
+  "db3b41cb73": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -1752,6 +1781,20 @@
    "title": "KION stock faces weaker truck orders as outlook stays cut",
    "action": "skipped",
    "reason": "importance 51 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-10T17:11:28.622173+00:00",
+   "story_id": "b743753e5c",
+   "title": "Additional trucks at large US carriers boost Truckload Capacity Index",
+   "action": "queued",
+   "reason": "importance 78 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-10T17:11:28.622173+00:00",
+   "story_id": "db3b41cb73",
+   "title": "$760K fuel-card fraud scheme tied to impersonated Michigan trucking company",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
