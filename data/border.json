@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:17:22.766445+00:00",
+ "updated": "2026-11-10T04:26:00.307971+00:00",
  "hour_now": 23,
  "have_us": true,
  "have_ca": true,
@@ -20,7 +20,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 21:15 EST"
+    "updated": "2026-11-09 23:15 EST"
    },
    "usual": {
     "south": [
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 21:15 EST"
+    "updated": "2026-11-09 23:15 EST"
    },
    "usual": {
     "south": [
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 21:15 EST"
+    "updated": "2026-11-09 23:15 EST"
    },
    "usual": {
     "south": [
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 21:15 EST"
+    "updated": "2026-11-09 23:18 EST"
    },
    "usual": {
     "south": [
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 21:45 CDT"
+    "updated": "2026-11-09 23:15 CDT"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 23:00 EST"
+    "updated": "2026-11-09 23:15 EST"
    },
    "usual": {
     "south": [
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 21:15 EST"
+    "updated": "2026-11-09 23:15 EST"
    },
    "usual": {
     "south": [
@@ -1070,7 +1070,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 23:00 CDT"
+    "updated": "2026-11-09 23:15 CDT"
    },
    "usual": {
     "south": [
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-09 20:15 CST"
+    "updated": "2026-11-09 22:15 CST"
    },
    "usual": {
     "south": [
