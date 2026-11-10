@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:11:06.899134+00:00",
+ "updated": "2026-11-10T08:21:02.569814+00:00",
  "hour_now": 3,
  "have_us": true,
  "have_ca": true,
@@ -27,7 +27,7 @@
      12,
      2,
      8,
-     5,
+     3,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -252,7 +252,7 @@
      0,
      10,
      5,
-     7,
+     5,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:07:38",
+    "updated": "03:17:38",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:07:38",
+    "updated": "03:17:38",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:07:38",
+    "updated": "03:17:38",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1203,11 +1203,11 @@
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:07:38",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 1:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1220,7 +1220,7 @@
      1,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:07:38",
+    "updated": "00:17:39",
     "hours": "24 hrs/day"
    },
    "north": {
