@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:08:43.835005+00:00",
+ "updated": "2026-11-10T22:11:04.527615+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 40,
-    "fast_wait": 30,
+    "wait": 15,
+    "fast_wait": 10,
     "lanes": "7",
     "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -41,7 +41,7 @@
      11,
      21,
      38,
-     40,
+     31,
      null,
      null,
      null,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 34,
+    "wait": 0,
     "fast_wait": 0,
-    "lanes": "7",
-    "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "lanes": "5",
+    "status": "no delay",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -116,7 +116,7 @@
      57,
      60,
      37,
-     34,
+     22,
      null,
      null,
      null,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:47 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 14,
     "status": "14 minutes",
-    "updated": "2026-11-10 16:40 EST"
+    "updated": "2026-11-10 17:00 EST"
    },
    "usual": {
     "south": [
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 4:47 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-10 16:40 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-10 17:00 EST"
    },
    "usual": {
     "south": [
@@ -367,7 +367,7 @@
      2,
      4,
      8,
-     5,
+     4,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "17:00:26",
+    "updated": "17:10:27",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:00:26",
+    "updated": "17:10:27",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-10 14:40 PDT"
+    "updated": "2026-11-10 15:00 PDT"
    },
    "usual": {
     "south": [
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 1 AM",
-   "best_north": "Usually fastest around 12 AM"
+   "best_north": "Usually fastest around 5 PM"
   },
   {
    "id": "sumas",
@@ -1357,13 +1357,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "14:00:27",
+    "updated": "14:10:27",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 14:40 PDT"
+    "updated": "2026-11-10 15:00 PDT"
    },
    "usual": {
     "south": [
@@ -1457,8 +1457,8 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 15,
+    "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Gordie Howe International Bridge",
