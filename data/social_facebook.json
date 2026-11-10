@@ -788,18 +788,20 @@
    "source": "HaulTimes",
    "dest": "https://haultimes.com/s/diesel-2026-11-09/?utm_source=facebook&utm_medium=organic_social&utm_campaign=diesel",
    "caption": "US diesel averaged $6.13 a gallon for the week of November 9, down 17¢ from the week before, according to the US Energy Information Administration. Highest: California at $7.90. Lowest: Lower Atlantic at $5.69.\n\nIn Ontario, diesel averaged 243.1¢ a litre (week of November 9). Every state and province on the HaulTimes diesel map.\n\n#Diesel #Trucking #FuelPrices",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-10T18:01:20.585765+00:00",
    "published": "2026-11-10T18:01:20.585765+00:00",
    "score": 75,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122100478965544428",
+   "posted_at": "2026-11-10T18:21:34.962549+00:00",
    "next_attempt_at": null,
    "preview": {},
    "house": "diesel",
-   "reason": "HaulTimes update: diesel"
+   "reason": "HaulTimes update: diesel",
+   "last_attempt_at": "2026-11-10T18:21:34.962549+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122100478965544428"
   }
  },
  "paused": null,
@@ -872,6 +874,10 @@
   {
    "at": "2026-11-10T17:51:42.287672+00:00",
    "msg": "posted fbd702a75b"
+  },
+  {
+   "at": "2026-11-10T18:21:34.962549+00:00",
+   "msg": "posted diesel-2026-11-09"
   }
  ],
  "decided": {
@@ -985,7 +991,7 @@
   "fbd702a75b": "posted|importance 67 (threshold 65), Industry, trade publication; waited 10 min in queue",
   "c2f3d704e3": "skipped|importance 61 is below this platform's threshold (65)",
   "715577ea7b": "skipped|importance 63 is below this platform's threshold (65)",
-  "diesel-2026-11-09": "queued|HaulTimes update"
+  "diesel-2026-11-09": "posted|HaulTimes update"
  },
  "decisions": [
   {
@@ -1925,6 +1931,13 @@
    "title": "Diesel prices, week of 2026-11-09",
    "action": "queued",
    "reason": "HaulTimes update: diesel"
+  },
+  {
+   "at": "2026-11-10T18:21:34.962549+00:00",
+   "story_id": "diesel-2026-11-09",
+   "title": "Diesel prices, week of 2026-11-09",
+   "action": "posted",
+   "reason": "HaulTimes update: diesel; waited 20 min in queue"
   }
  ],
  "visibility": {
