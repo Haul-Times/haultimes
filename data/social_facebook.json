@@ -1041,14 +1041,14 @@
    "source": "Commercial Carrier Journal",
    "dest": "https://haultimes.com/story/brake-safety-week-2-300-trucks-put-out-of-service-e00cf96993/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=e00cf96993",
    "caption": "Brake Safety Week: 2,300 trucks put out-of-service.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-11T10:50:44.649228+00:00",
    "published": "2026-11-11T09:35:23+00:00",
    "score": 75,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122101129695544428",
+   "posted_at": "2026-11-11T11:01:26.038332+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Brake Safety Week: 2,300 trucks put out-of-service | HaulTimes",
@@ -1059,7 +1059,9 @@
    "reason": "importance 75 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-11T11:01:26.038332+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122101129695544428"
   }
  },
  "paused": null,
@@ -1164,6 +1166,10 @@
   {
    "at": "2026-11-11T03:31:21.282600+00:00",
    "msg": "credentials OK: connected to HaulTimes"
+  },
+  {
+   "at": "2026-11-11T11:01:26.038332+00:00",
+   "msg": "posted e00cf96993"
   }
  ],
  "decided": {
@@ -1308,7 +1314,7 @@
   "fa3e383ac3": "skipped|importance 50 is below this platform's threshold (65)",
   "7dc42ef19b": "skipped|importance 57 is below this platform's threshold (65)",
   "01f10c3dc5": "skipped|importance 50 is below this platform's threshold (65)",
-  "e00cf96993": "queued|importance 75 (threshold 65), Regulations, trade publication"
+  "e00cf96993": "posted|importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue"
  },
  "decisions": [
   {
@@ -2514,6 +2520,13 @@
    "title": "Brake Safety Week: 2,300 trucks put out-of-service",
    "action": "queued",
    "reason": "importance 75 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-11T11:01:26.038332+00:00",
+   "story_id": "e00cf96993",
+   "title": "Brake Safety Week: 2,300 trucks put out-of-service",
+   "action": "posted",
+   "reason": "importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
