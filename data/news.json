@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "1a11630d30",
+  "slug": "from-activist-to-academic-bessie-borwein-never-stopped-connecting-peop-1a11630d30",
+  "title": "From activist to academic, Bessie Borwein never stopped connecting people",
+  "orig_title": "From activist to academic, Bessie Borwein never stopped connecting people",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUi1HUjRDVG16SjZGMElkeFp4MGtIMXBrWVBab3RhMnJmV29YWjk5Tmo4emQtbnU3eElKRXd4OUswaktpdEd1OE5xTFZZeVprVy1LdnExMTFkeXRiOTVQeTV1a21pSGhVOVA2RDhUWmJOU2lJSG1nSlpmZE5Rd3AzOXZRbGxidWFHVWxiUTEwX1FnN254Y2ZOX3J4SzV0Z2tPNGpoM2k4NU9TMFVyaXg0ag?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUi1HUjRDVG16SjZGMElkeFp4MGtIMXBrWVBab3RhMnJmV29YWjk5Tmo4emQtbnU3eElKRXd4OUswaktpdEd1OE5xTFZZeVprVy1LdnExMTFkeXRiOTVQeTV1a21pSGhVOVA2RDhUWmJOU2lJSG1nSlpmZE5Rd3AzOXZRbGxidWFHVWxiUTEwX1FnN254Y2ZOX3J4SzV0Z2tPNGpoM2k4NU9TMFVyaXg0ag",
+  "snippet": "From activist to academic, Bessie Borwein never stopped connecting people The Globe and Mail",
+  "published": "2026-11-11T09:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T09:49:19.149121+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "aed32c5021",
   "slug": "chilean-salmon-exports-threatened-by-nationwide-truckers-strike-aed32c5021",
   "title": "Chilean salmon exports threatened by nationwide truckers’ strike",
@@ -517,7 +546,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://academy.freightwaves.com/certified-freight-pricing-analyst",
   "source_note": "ok · 930 words"
  },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:41:06.953528+00:00",
+ "updated": "2026-11-11T09:49:18.999901+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -28,7 +28,7 @@
      1,
      0,
      0,
-     20,
+     21,
      null,
      null,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:27 am EST",
+    "updated": "At 4:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -279,7 +279,7 @@
      16,
      3,
      6,
-     10,
+     8,
      null,
      null,
      null,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 4:27 am EST",
+    "status": "delay",
+    "updated": "At 4:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -328,7 +328,7 @@
      3,
      0,
      2,
-     0,
+     2,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:38:34",
+    "updated": "04:48:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:38:34",
+    "updated": "04:48:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:38:34",
+    "updated": "02:48:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1322,7 +1322,7 @@
      20,
      16,
      15,
-     15,
+     13,
      null,
      null,
      null,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:38:34",
+    "updated": "01:48:35",
     "hours": "24 hrs/day"
    },
    "north": {
