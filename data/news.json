@@ -114,7 +114,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/articles/could-your-trucks-connected-devices-be-a-cybersecurity-risk",
   "source_note": "ok · 1956 words"
@@ -1081,7 +1081,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.act-news.com/news/three-truck-platforms-five-trucks-one-lane-inside-kodiaks-launch-plan/",
   "source_note": "ok · 1021 words"
  },
