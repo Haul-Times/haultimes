@@ -1079,14 +1079,14 @@
    "source": "elciudadano.com",
    "dest": "https://haultimes.com/story/kast-struggles-to-address-fuel-crisis-ongoing-truckers-strike-and-prot-3ca753f2e7/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=3ca753f2e7",
    "caption": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago.\n\nReported by elciudadano. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-11T12:11:19.909384+00:00",
    "published": "2026-11-11T11:34:39+00:00",
    "score": 65,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122101197351544428",
+   "posted_at": "2026-11-11T12:41:24.135821+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago | HaulTimes",
@@ -1097,7 +1097,9 @@
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
    "breaking": null,
    "edited": false,
-   "wait_summary": true
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-11T12:41:24.135821+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122101197351544428"
   }
  },
  "paused": null,
@@ -1206,6 +1208,10 @@
   {
    "at": "2026-11-11T11:01:26.038332+00:00",
    "msg": "posted e00cf96993"
+  },
+  {
+   "at": "2026-11-11T12:41:24.135821+00:00",
+   "msg": "posted 3ca753f2e7"
   }
  ],
  "decided": {
@@ -1352,7 +1358,7 @@
   "01f10c3dc5": "skipped|importance 50 is below this platform's threshold (65)",
   "e00cf96993": "posted|importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue",
   "f4c89849ff": "skipped|importance 45 is below this platform's threshold (65)",
-  "3ca753f2e7": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  "3ca753f2e7": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 30 min in queue"
  },
  "decisions": [
   {
@@ -2579,6 +2585,13 @@
    "title": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago",
    "action": "queued",
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  },
+  {
+   "at": "2026-11-11T12:41:24.135821+00:00",
+   "story_id": "3ca753f2e7",
+   "title": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago",
+   "action": "posted",
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 30 min in queue"
   }
  ],
  "visibility": {
