@@ -1536,6 +1536,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "19636aa3f9",
+  "slug": "coreweave-beats-quarterly-revenue-estimates-as-ai-infrastructure-deman-19636aa3f9",
+  "title": "CoreWeave beats quarterly revenue estimates as AI infrastructure demands ease concerns",
+  "orig_title": "CoreWeave beats quarterly revenue estimates as AI infrastructure demands ease concerns",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2JNdjVpLUpvUlBkbF9sUUJnU1Nta3lLMkV3ODNiTF92NzZfNkJPVFotdHBPd01aYUpSNGF1dDdxS3hrQUYtbjNzalVaaXprcDBuWklRY0c0ZU9ZLXB3MEJ5TUItc0c0YXpzTk5BM1BWTTlmXzY4S2J1MFRWRDhpNnlqNzBxdUUtelFETlpVTTkwbGpISEg1UUNGeS10YWFSVTNiendLRnpsaXNGcU5YWg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2JNdjVpLUpvUlBkbF9sUUJnU1Nta3lLMkV3ODNiTF92NzZfNkJPVFotdHBPd01aYUpSNGF1dDdxS3hrQUYtbjNzalVaaXprcDBuWklRY0c0ZU9ZLXB3MEJ5TUItc0c0YXpzTk5BM1BWTTlmXzY4S2J1MFRWRDhpNnlqNzBxdUUtelFETlpVTTkwbGpISEg1UUNGeS10YWFSVTNiendLRnpsaXNGcU5YWg",
+  "snippet": "CoreWeave beats quarterly revenue estimates as AI infrastructure demands ease concerns The Globe and Mail",
+  "published": "2026-11-10T22:06:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T11:45:44.757652+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9b09ae420c",
   "slug": "trucks-busted-loaded-with-cocaine-liquid-meth-at-borders-9b09ae420c",
   "title": "Trucks busted loaded with cocaine, liquid meth at borders",
@@ -2533,6 +2562,35 @@
   "published": "2026-11-10T18:54:55+00:00",
   "date_known": true,
   "first_seen": "2026-11-11T11:31:03.371513+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "1ea518f78f",
+  "slug": "four-bears-involved-in-fatal-b-c-attack-that-left-mother-and-daughter-1ea518f78f",
+  "title": "Four bears involved in fatal B.C. attack that left mother and daughter dead",
+  "orig_title": "Four bears involved in fatal B.C. attack that left mother and daughter dead",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2VFJvZE94Skg1d2dRX1dneHZlZE04Z1BHSU9UcUx6b19kUWViR3pXLXVtc0FJVmlTcjZEOWFUY24zQWl3QXFuZmdCeTRKYVJ1c1AxUUZURk9ha3dBTmdwOFlkQ2hFYi1ZOFg2Rl8zSi1LclFOemJiODVMNjhIQ0k?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2VFJvZE94Skg1d2dRX1dneHZlZE04Z1BHSU9UcUx6b19kUWViR3pXLXVtc0FJVmlTcjZEOWFUY24zQWl3QXFuZmdCeTRKYVJ1c1AxUUZURk9ha3dBTmdwOFlkQ2hFYi1ZOFg2Rl8zSi1LclFOemJiODVMNjhIQ0k",
+  "snippet": "Four bears involved in fatal B.C. attack that left mother and daughter dead The Globe and Mail",
+  "published": "2026-11-10T18:54:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T11:45:44.757652+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -6018,7 +6076,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/epa-2027-uncertainty-slows-truck-orders",
   "source_note": "ok · 1065 words"
@@ -6456,7 +6514,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "fff86dfb1c",
@@ -6506,7 +6568,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "39c787ba37",
@@ -6994,7 +7060,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://landline.media/months-long-closure-will-affect-truck-traffic/",
+  "source_note": "excerpt only · 17 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "7bdf0749e5",
@@ -7131,7 +7202,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "b98823d938",
