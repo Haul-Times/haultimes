@@ -545,7 +545,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://academy.freightwaves.com/certified-freight-pricing-analyst",
   "source_note": "ok · 930 words"
@@ -605,7 +605,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.truckinginfo.com/news/holiday-freight-meets-a-tight-trucking-market",
+  "source_note": "ok · 956 words"
  },
  {
   "id": "ccd9006234",
