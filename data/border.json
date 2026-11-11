@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:01:01.864963+00:00",
+ "updated": "2026-11-11T11:11:06.577609+00:00",
  "hour_now": 6,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": 0,
-    "lanes": "4",
-    "status": "delay",
-    "updated": "At 5:00 am EST",
+    "lanes": "6",
+    "status": "no delay",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -30,7 +30,7 @@
      0,
      22,
      15,
-     10,
+     5,
      null,
      null,
      null,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "5",
     "status": "no delay",
-    "updated": "At 5:00 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:47 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-11 05:40 EST"
+    "wait": 6,
+    "status": "6 minutes",
+    "updated": "2026-11-11 06:00 EST"
    },
    "usual": {
     "south": [
@@ -281,7 +281,7 @@
      6,
      8,
      3,
-     3,
+     5,
      null,
      null,
      null,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:47 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-11 05:40 EST"
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-11 06:00 EST"
    },
    "usual": {
     "south": [
@@ -356,7 +356,7 @@
      1,
      1,
      1,
-     3,
+     2,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:58:47",
+    "updated": "06:08:50",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "05:58:47",
+    "updated": "06:08:50",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:58:47",
+    "updated": "04:08:50",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-11 03:40 PDT"
+    "updated": "2026-11-11 04:00 PDT"
    },
    "usual": {
     "south": [
@@ -1357,13 +1357,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:58:47",
+    "updated": "03:08:50",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-11 03:40 PDT"
+    "updated": "2026-11-11 04:00 PDT"
    },
    "usual": {
     "south": [
