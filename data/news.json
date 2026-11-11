@@ -1411,7 +1411,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.ajot.com/news/traffix-data-spot-rates-hold-at-3.47-a-mile-but-peak-freight-is-meeting-tight-capacity",
+  "source_note": "ok · 336 words"
  },
  {
   "id": "c2f3d704e3",
@@ -8356,7 +8359,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.freshfruitportal.com/news/2026/11/09/san-antonio-strike-end/",
   "source_note": "ok · 439 words"
