@@ -1232,7 +1232,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/articles/forward-air-earnings-q3-2026",
+  "source_note": "excerpt only · 18 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "094bf8c5ce",
@@ -1504,7 +1509,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/articles/ps-logistics-unit-buys-roane",
+  "source_note": "excerpt only · 23 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "b743753e5c",
@@ -2178,7 +2188,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/where-trucking-capacity-sits-right-now-and-what-the-fleet-size-split-might-be-signaling",
+  "source_note": "paywalled: excerpt only · 25 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "3942921a18",
@@ -2631,7 +2646,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/perspectives/ideaxchange/blog/55417202/truck-driver-pay-trends-reshape-fleet-recruiting-and-retention-strategies-for-2027",
+  "source_note": "ok · 1098 words"
  },
  {
   "id": "4686be3482",
