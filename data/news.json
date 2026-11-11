@@ -1,5 +1,34 @@
 [
  {
+  "id": "aed32c5021",
+  "slug": "chilean-salmon-exports-threatened-by-nationwide-truckers-strike-aed32c5021",
+  "title": "Chilean salmon exports threatened by nationwide truckers’ strike",
+  "orig_title": "Chilean salmon exports threatened by nationwide truckers’ strike",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Salmon Business",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXJ3aDViZUx1UDcyWDJRYjNMdGhmbXFVTkUxTkVrVm13MUN5Q25nZjRFMGYzWWpJbXg1WkJmMW5hcmpxRUVnSmcxYjl5QmdkZ0J4VElTVFp2LWxyWW1PU1pzbFBrQ2NidGstNEJOcmpQcUZZWUtDa0JUOGRfS3BObFhWakxxUnlCWlNOcDd4bkdkN2pIaHJkZ3NlVQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXJ3aDViZUx1UDcyWDJRYjNMdGhmbXFVTkUxTkVrVm13MUN5Q25nZjRFMGYzWWpJbXg1WkJmMW5hcmpxRUVnSmcxYjl5QmdkZ0J4VElTVFp2LWxyWW1PU1pzbFBrQ2NidGstNEJOcmpQcUZZWUtDa0JUOGRfS3BObFhWakxxUnlCWlNOcDd4bkdkN2pIaHJkZ3NlVQ",
+  "snippet": "Chilean salmon exports threatened by nationwide truckers’ strike Salmon Business",
+  "published": "2026-11-11T07:22:19+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T07:31:04.655445+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "1bbfc89d3c",
   "slug": "chile-truckers-strike-over-fuel-prices-as-talks-fail-1bbfc89d3c",
   "title": "Chile truckers strike over fuel prices as talks fail",
@@ -7918,7 +7947,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.fleetowner.com/perspectives/lane-shift-ahead/blog/55405902/trucking-by-the-numbers-2026-costs-margins-data",
   "source_note": "ok · 813 words"
  },
