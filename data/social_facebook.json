@@ -1557,7 +1557,9 @@
   "6c591e95be": "skipped|importance 60 is below this platform's threshold (65)",
   "458c1f0030": "skipped|importance 50 is below this platform's threshold (65)",
   "50032ebffb": "skipped|minor item (feature) or low-quality source",
-  "00f143f330": "skipped|importance 50 is below this platform's threshold (65)"
+  "00f143f330": "skipped|importance 50 is below this platform's threshold (65)",
+  "d6d3ac5099": "skipped|importance 57 is below this platform's threshold (65)",
+  "1e8fb67eda": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2980,6 +2982,20 @@
    "title": "Van, reefer rates rebound, fuel prices fall to $6.13/gal average",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T16:24:51.489353+00:00",
+   "story_id": "d6d3ac5099",
+   "title": "Soaring Diesel Prices Are Pushing Vermont Loggers To The Brink",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T16:24:51.489353+00:00",
+   "story_id": "1e8fb67eda",
+   "title": "\"God Sent You Angels\": Sick Pregnant Woman Stranded on a Highway at Night Rescued by 2 Truck Drivers",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:11:06.223436+00:00",
+ "updated": "2026-11-11T16:24:31.431717+00:00",
  "hour_now": 11,
  "have_us": true,
  "have_ca": true,
@@ -76,8 +76,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 2 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "blue-water",
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "5",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -151,8 +151,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "sault",
@@ -227,7 +227,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "peace",
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At 11:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -301,8 +301,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 5 AM"
   },
   {
    "id": "lewiston",
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At 11:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -361,7 +361,7 @@
      1,
      3,
      2,
-     6,
+     7,
      null,
      null,
      null,
@@ -376,8 +376,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 2 AM",
+   "best_north": "Usually fastest around 3 AM"
   },
   {
    "id": "thousand-islands",
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:09:26",
+    "updated": "11:19:29",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -452,7 +452,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "ogdensburg",
@@ -526,8 +526,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "massena",
@@ -602,7 +602,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "fort-frances",
@@ -676,8 +676,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "champlain",
@@ -689,7 +689,7 @@
     "fast_wait": 0,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -752,7 +752,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "highgate",
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "11:09:26",
+    "updated": "11:19:29",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -827,7 +827,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "derby-line",
@@ -901,8 +901,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "houlton",
@@ -910,11 +910,11 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "1",
-    "status": "delay",
-    "updated": "At 10:00 am EST",
+    "status": "no delay",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -935,7 +935,7 @@
      0,
      0,
      3,
-     10,
+     7,
      null,
      null,
      null,
@@ -976,8 +976,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "calais",
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "11:09:26",
+    "updated": "11:19:29",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1126,8 +1126,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 1 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "portal",
@@ -1179,7 +1179,7 @@
      0,
      0,
      9,
-     5,
+     3,
      null,
      null,
      null,
@@ -1195,7 +1195,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "sweetgrass",
@@ -1228,7 +1228,7 @@
      null,
      null,
      50,
-     32,
+     26,
      null,
      null,
      null,
@@ -1270,7 +1270,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "pacific-highway",
@@ -1344,8 +1344,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 5 AM"
   },
   {
    "id": "sumas",
@@ -1420,7 +1420,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   }
  ],
  "others": {
@@ -1472,8 +1472,8 @@
    },
    {
     "name": "Lynden",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Madawaska",
