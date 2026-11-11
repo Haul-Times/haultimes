@@ -1549,7 +1549,9 @@
   "8626e29029": "posted|importance 72 (threshold 65), Fuel, trade publication; waited 26 min in queue",
   "354bac58b9": "skipped|importance 60 is below this platform's threshold (65)",
   "dce8683f46": "skipped|importance 55 is below this platform's threshold (65)",
-  "131cd4219e": "skipped|importance 55 is below this platform's threshold (65)"
+  "131cd4219e": "skipped|importance 55 is below this platform's threshold (65)",
+  "63ac6a45f0": "skipped|importance 50 is below this platform's threshold (65)",
+  "058aeb271b": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2916,6 +2918,20 @@
    "title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T15:33:09.059664+00:00",
+   "story_id": "63ac6a45f0",
+   "title": "Petro-Canada and Maverik partner to expand cross-border fleet fuelling",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T15:33:09.059664+00:00",
+   "story_id": "058aeb271b",
+   "title": "New fuel stop aims to bring truckers, oversized loads back to Torrington",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
