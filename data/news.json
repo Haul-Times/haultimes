@@ -1,5 +1,37 @@
 [
  {
+  "id": "131cd4219e",
+  "slug": "texas-trucking-owner-indicted-in-scheme-involving-57-unauthorized-driv-131cd4219e",
+  "title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
+  "orig_title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlp6VlZfRi1jdURrY1JyZTJLZGlHZXV2enJoV294LTlleWsybm5KZlJYZHEzbUJOcjkzeC1McEtlZUVlM0MzV2Z6ckVtSjMwcks5SGdqZDJvWkp0X05TNnp6SUJ1a3hmZGhoSmNOZ1d3azN6RTI5cS1pT3BoWmE0Ql94VWVoUHJHQVFYX2ZGZEpvdkt2Zm1yUDJnYk93c2JfOTR2Qm50bjVXQVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlp6VlZfRi1jdURrY1JyZTJLZGlHZXV2enJoV294LTlleWsybm5KZlJYZHEzbUJOcjkzeC1McEtlZUVlM0MzV2Z6ckVtSjMwcks5SGdqZDJvWkp0X05TNnp6SUJ1a3hmZGhoSmNOZ1d3azN6RTI5cS1pT3BoWmE0Ql94VWVoUHJHQVFYX2ZGZEpvdkt2Zm1yUDJnYk93c2JfOTR2Qm50bjVXQVE",
+  "snippet": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers FreightWaves",
+  "published": "2026-11-11T15:04:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:11:13.853909+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/texas-trucking-owner-indicted-in-scheme-involving-57-unauthorized-drivers",
+  "source_note": "paywalled: excerpt only · 23 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "dce8683f46",
   "slug": "electrovaya-to-ramp-up-battery-production-for-diesel-conversions-dce8683f46",
   "title": "Electrovaya to ramp up battery production for diesel conversions",
@@ -54,6 +86,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "6e00813a60",
+  "slug": "baird-downgrades-nvidia-on-china-curbs-ai-demand-worries-6e00813a60",
+  "title": "Baird downgrades Nvidia on China curbs, AI demand worries",
+  "orig_title": "Baird downgrades Nvidia on China curbs, AI demand worries",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUNnRzNLVDJlc0RNSlkzcjkzSkhTVkdZQU9CSG5obHNiME1rV3NaSS1zMTFPdnBtVUZzaVpjVlZ5UzhTUmdxd3RHX3NSdnZ4VUNSRGZSelFqZF96XzNLclY2Y3Fsc0ZCbEdibDR2NjF3QzRqb1EzVFBHeVlKejRMSDhZc3dFV3ZUY1JiZVd0OEVaZnU4c280Ty1YbWNMMkRBMEQ1NTRLczNvSW8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUNnRzNLVDJlc0RNSlkzcjkzSkhTVkdZQU9CSG5obHNiME1rV3NaSS1zMTFPdnBtVUZzaVpjVlZ5UzhTUmdxd3RHX3NSdnZ4VUNSRGZSelFqZF96XzNLclY2Y3Fsc0ZCbEdibDR2NjF3QzRqb1EzVFBHeVlKejRMSDhZc3dFV3ZUY1JiZVd0OEVaZnU4c280Ty1YbWNMMkRBMEQ1NTRLczNvSW8",
+  "snippet": "Baird downgrades Nvidia on China curbs, AI demand worries The Globe and Mail",
+  "published": "2026-11-11T14:44:46+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:11:13.853909+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "stock commentary, no trucking development"
   ],
   "labels": [],
   "kind": "rejected",
@@ -3067,11 +3128,14 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Texas trucking owner indicted in scheme involving 57 unauthorized drivers"
+  ],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "dup_of": "131cd4219e"
  },
  {
   "id": "6614c018d6",
@@ -4434,7 +4498,7 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/truck-driver-arrested-and-banned-from-pilot-after-seriously-threatening-driver-parked-in-the-fuel-island-while-eating-dinner/?amp",
   "source_note": "ok · 229 words"
@@ -7929,7 +7993,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/small-oversights-big-consequences-managing-risk-in-trucking",
+  "source_note": "ok · 1353 words"
  },
  {
   "id": "e4b131dc74",

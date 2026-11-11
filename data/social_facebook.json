@@ -1548,7 +1548,8 @@
   "176ef31b00": "skipped|importance 55 is below this platform's threshold (65)",
   "8626e29029": "posted|importance 72 (threshold 65), Fuel, trade publication; waited 26 min in queue",
   "354bac58b9": "skipped|importance 60 is below this platform's threshold (65)",
-  "dce8683f46": "skipped|importance 55 is below this platform's threshold (65)"
+  "dce8683f46": "skipped|importance 55 is below this platform's threshold (65)",
+  "131cd4219e": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2908,6 +2909,13 @@
    "title": "Diesel prices retreat across all U.S. regions as gasoline slips below $4",
    "action": "posted",
    "reason": "importance 72 (threshold 65), Fuel, trade publication; waited 26 min in queue"
+  },
+  {
+   "at": "2026-11-11T15:11:36.010213+00:00",
+   "story_id": "131cd4219e",
+   "title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
