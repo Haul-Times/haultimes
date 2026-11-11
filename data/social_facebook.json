@@ -1367,7 +1367,8 @@
   "e00cf96993": "posted|importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue",
   "f4c89849ff": "skipped|importance 45 is below this platform's threshold (65)",
   "3ca753f2e7": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 30 min in queue",
-  "860f89bba0": "skipped|minor item (news) or low-quality source"
+  "860f89bba0": "skipped|minor item (news) or low-quality source",
+  "96de9df821": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2608,6 +2609,13 @@
    "title": "How much do truck drivers earn in Botswana compared with SA?",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-11T13:11:36.023132+00:00",
+   "story_id": "96de9df821",
+   "title": "Shippers running 2022-era bid playbooks face a tighter peak",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
