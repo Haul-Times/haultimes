@@ -1272,7 +1272,8 @@
   "742e6216bc": "skipped|importance 55 is below this platform's threshold (65)",
   "f688f41b6a": "skipped|importance 45 is below this platform's threshold (65)",
   "f7b36d4d3d": "posted|importance 65 (threshold 65), Regulations, local/other outlet; waited 10 min in queue",
-  "7380656bf6": "skipped|importance 55 is below this platform's threshold (65)"
+  "7380656bf6": "skipped|importance 55 is below this platform's threshold (65)",
+  "fa3e383ac3": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2450,6 +2451,13 @@
    "title": "Bill would ban marijuana from off-the-clock police, first responders, truck drivers, and heavy equipment operators",
    "action": "posted",
    "reason": "importance 65 (threshold 65), Regulations, local/other outlet; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-11T01:50:48.192931+00:00",
+   "story_id": "fa3e383ac3",
+   "title": "Ontario court sides with tow-truck drivers ousted by Ford government’s rules",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
