@@ -145,6 +145,33 @@
   "sum_pending": false
  },
  {
+  "id": "7dc42ef19b",
+  "slug": "afa-urges-congress-to-pass-cargo-theft-bill-7dc42ef19b",
+  "title": "AfA urges Congress to pass cargo theft bill",
+  "orig_title": "AfA urges Congress to pass cargo theft bill",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 57,
+  "source": "STAT Times",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTRkYVJib1hIUm16cm5Oa19CV0tHOTJ6M3lnQ0ZUTmY0X3hXd2p6dnN2ZlRFNXNZTjlxMUkyLVVobEtrMV9CWm5QTE5ES290dXRIdWQtTy1rQjNzeEN6eTJLUnNzQlRxdGNIQ2dVOTcyWDhabDFJbzlzT1RHSFZYRW92LTAySld4NHhLcEtNMTVES3VJM1hzWUlB0gGaAUFVX3lxTFB1NGRhUmJvWEhSbXpybk5rX0JXS0c5MnozeWdDRlROZjRfeFd3anp2c3ZmVEU1c1lOOXExSTItVWhsS2sxX0JablBMTkRLb3R1dEh1ZC1PLWtCM3N4Q3p5MktSc3NCVHF0Y0hDZ1U5NzJYOFpsMUlvOXNPVEdIVlhFb3YtMDJKV3g0eEtwS00xNURLdUkzWHNZSUE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTRkYVJib1hIUm16cm5Oa19CV0tHOTJ6M3lnQ0ZUTmY0X3hXd2p6dnN2ZlRFNXNZTjlxMUkyLVVobEtrMV9CWm5QTE5ES290dXRIdWQtTy1rQjNzeEN6eTJLUnNzQlRxdGNIQ2dVOTcyWDhabDFJbzlzT1RHSFZYRW92LTAySld4NHhLcEtNMTVES3VJM1hzWUlB0gGaAUFVX3lxTFB1NGRhUmJvWEhSbXpybk5rX0JXS0c5MnozeWdDRlROZjRfeFd3anp2c3ZmVEU1c1lOOXExSTItVWhsS2sxX0JablBMTkRLb3R1dEh1ZC1PLWtCM3N4Q3p5MktSc3NCVHF0Y0hDZ1U5NzJYOFpsMUlvOXNPVEdIVlhFb3YtMDJKV3g0eEtwS00xNURLdUkzWHNZSUE",
+  "snippet": "AfA urges Congress to pass cargo theft bill STAT Times",
+  "published": "2026-11-11T05:00:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T06:39:15.426388+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
+ },
+ {
   "id": "13fdfb3917",
   "slug": "ubc-was-facing-growing-pressure-on-sexual-assault-complaints-process-a-13fdfb3917",
   "title": "UBC was facing growing pressure on sexual assault complaints process as Galloway allegations surfaced",
@@ -6664,7 +6691,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/dat-reefer-spot-rates-climbs-as-holiday-freight-starts-moving",
   "source_note": "ok · 986 words"
@@ -6800,7 +6827,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.dcvelocity.com/transportation/cargo-theft-drives-need-for-cybershields",
+  "source_note": "excerpt only · 18 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "1bfc38f0f3",
@@ -7378,7 +7410,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/truck-driving-jobs-news/safety-concerns-fraud-or-misconduct-fmcsa-gives-truckers-more-ways-to-speak-up",
+  "source_note": "ok · 546 words"
  },
  {
   "id": "9f313ae4f7",
