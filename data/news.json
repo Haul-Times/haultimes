@@ -1,5 +1,34 @@
 [
  {
+  "id": "c2d51cb33b",
+  "slug": "linde-helps-penguin-random-house-turn-a-new-page-c2d51cb33b",
+  "title": "Linde helps Penguin Random House turn a new page",
+  "orig_title": "Linde helps Penguin Random House turn a new page",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Logistics Magazine - Australia",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNay01dFJOZVVxV1ZXUlhBVlVWSTRYOVBIMmdPcHlLckFWdUNVd0xveTlWaXRjNmJzTkdsYnA3YUJsQnM5Vk9JR1lBcFZsQUxxNFl5OWx6bHJHZHdPOUREOUp6SklQX1ZxNEFlckJ0OUNMTE9aZGxKZHFnZXp2aENjd1ljc25ybmt0VEFMQkIzQ3RIeWYt?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNay01dFJOZVVxV1ZXUlhBVlVWSTRYOVBIMmdPcHlLckFWdUNVd0xveTlWaXRjNmJzTkdsYnA3YUJsQnM5Vk9JR1lBcFZsQUxxNFl5OWx6bHJHZHdPOUREOUp6SklQX1ZxNEFlckJ0OUNMTE9aZGxKZHFnZXp2aENjd1ljc25ybmt0VEFMQkIzQ3RIeWYt",
+  "snippet": "Linde helps Penguin Random House turn a new page Logistics Magazine - Australia",
+  "published": "2026-11-11T23:12:49+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T23:21:42.013369+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d85550d64e",
   "slug": "spain-seizes-2-6-tonnes-of-cocaine-in-shipping-containers-from-ghana-d85550d64e",
   "title": "Spain seizes 2.6 tonnes of cocaine in shipping containers from Ghana",
@@ -1081,7 +1110,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.act-news.com/news/three-truck-platforms-five-trucks-one-lane-inside-kodiaks-launch-plan/",
   "source_note": "ok · 1021 words"
  },

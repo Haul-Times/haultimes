@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:11:12.801590+00:00",
+ "updated": "2026-11-11T23:21:41.858853+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 12,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 5:00 pm EST",
+    "status": "no delay",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -117,7 +117,7 @@
      12,
      16,
      12,
-     12,
+     9,
      null,
      null,
      null,
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-11 16:15 EST"
+    "updated": "2026-11-11 18:07 EST"
    },
    "usual": {
     "south": [
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 6:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -293,7 +293,7 @@
      13,
      7,
      4,
-     4,
+     5,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 6:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -368,7 +368,7 @@
      3,
      4,
      2,
-     3,
+     2,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "18:10:09",
+    "updated": "18:20:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "18:10:09",
+    "updated": "18:20:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:10:09",
+    "updated": "18:20:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "1",
-    "status": "no delay",
-    "updated": "At 4:00 pm CST",
+    "status": "delay",
+    "updated": "At 5:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1092,7 +1092,7 @@
      8,
      0,
      0,
-     0,
+     3,
      null,
      null,
      null,
@@ -1235,7 +1235,7 @@
      15,
      15,
      15,
-     20,
+     23,
      null,
      null,
      null,
@@ -1336,7 +1336,7 @@
      10,
      13,
      7,
-     8,
+     10,
      null,
      null,
      null,
