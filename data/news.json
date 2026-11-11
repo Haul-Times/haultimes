@@ -9408,7 +9408,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/articles/does-modernizing-your-fleet-mean-replacing-your-tms",
   "source_note": "ok · 2501 words"
@@ -9721,7 +9721,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/the-nation/idaho-to-upgrade-commercial-truck-screening-systems-at-six-ports-of-entry",
+  "source_note": "ok · 361 words"
  },
  {
   "id": "890b1308e1",
