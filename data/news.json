@@ -107,7 +107,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://newjersey.news12.com/bill-would-ban-marijuana-from-off-the-clock-police-first-responders-truck-drivers-and-heavy-equipment-operators",
   "source_note": "ok · 359 words"
@@ -1208,7 +1208,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.mykxlg.com/online_features/press_releases/dat-van-spot-rate-rises-to-3-05-a-mile-highest-since-early-2022/article_298a1523-d8a0-50a3-b527-d2c7351afc81.html",
+  "source_note": "excerpt only · 19 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "c272484a07",
@@ -7846,7 +7851,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://eyeradio.org/truck-drivers-to-end-strike-after-govt-agrees-to-remove-roadblocks-improve-security/",
+  "source_note": "ok · 285 words"
  },
  {
   "id": "d15adb25fe",
