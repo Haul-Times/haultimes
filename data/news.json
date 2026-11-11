@@ -383,7 +383,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ajot.com/news/j-j-keller-urges-motor-carriers-to-strengthencargo-security-ahead-of-thanksgiving",
   "source_note": "ok · 581 words"
@@ -795,7 +795,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://ccentral.ca/petro-canada-and-maverik-partner-expand-cross-border-fleet-fuelling",
   "source_note": "ok · 420 words"
  },
@@ -17223,29 +17223,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "b2fff2c582",
-  "slug": "crazy-offer-for-arda-g-ler-fenerbah-e-will-make-a-truckload-of-money-b2fff2c582",
-  "title": "Crazy offer for Arda Güler! Fenerbahçe will make a truckload of money",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Haberler.com",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjVuaFJiZHJzcV9BTHJXWkd1TG9HRHd0SjJobWxwWEI4UHVjbmNHVjBkb0hyd2dnMHZnSzd4V0c1NnktcDBlS0JPMVUtOUhzZEFKMkRRNlppTjR0eEtqT2tvLS1kYlRYb1VYMUVSNXZKU1M3YllPVFVjMTNFRmJvbkh0ZXlLZ2Z1R3c?oc=5",
-  "published": "2026-11-07T17:09:50+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Crazy offer for Arda Güler! Fenerbahçe will make a truckload of money",
-  "status": "rejected",
-  "reasons": [
-   "'truckload' used as an expression, not freight news"
   ],
   "labels": [],
   "kind": "rejected",
