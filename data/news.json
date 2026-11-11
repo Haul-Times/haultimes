@@ -2663,7 +2663,7 @@
   "summary": "",
   "why": "",
   "category": "regs",
-  "region": "",
+  "region": "US",
   "importance": 73,
   "source": "FleetOwner",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVYxbVNoaGIzendzZXYyand2cDBQcC14WDdkS0F0ZHZfZkJUTmRTSnpaVXRuUjJtaWJyOHBvdlZxd0EzWmNlTm93dTE2aTlIVFpPaC1xNjEwV19Zb1B1WmUyT1dRcWx1UDJiMmlkOTRoRmNaVmhPem5GWE0xVm40cEllOV9kUzhHVk1FY3N2N0JaQWZLcGJrZGJDMy1IWU81VWJUTkNOdkNBS0FZcHVLMDNvNDZLTWxqMXhJdTJGdjdPR0lfWHcwbkJObHo?oc=5",
@@ -2679,22 +2679,41 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 0,
+  "sum_tries": 1,
   "pub_url": "https://www.fleetowner.com/news/news/55417528/fmcsa-updates-complaint-center-for-reporting-trucking-safety-and-compliance-violations",
-  "source_note": "retry after fixes",
-  "sum_done": false,
+  "source_note": "ok · 263 words",
+  "sum_done": true,
   "sum_status": "withheld",
   "source_fp": "43438d5216dbe9ff",
   "source_scope": "full_article",
-  "sum_at": "2026-11-11T02:03:26.935343+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-11T02:11:04.942124+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "source did not support a summary"
+  "sum_evidence": [
+   {
+    "sentence": "The Federal Motor Carrier Safety Administration has upgraded its Complaint Center, formerly the National Consumer Complaint Database, to make it easier to report possible violations of federal motor carrier safety and hazardous materials rules.",
+    "quote": "enhanced its Complaint Center to make it easier to report potential violations"
+   },
+   {
+    "sentence": "New categories cover property brokers, Entry-Level Driver Training and Training Provider Registry issues, intermodal equipment providers, and registration-related fraud and identity theft.",
+    "quote": "New complaint categories cover property brokers"
+   },
+   {
+    "sentence": "Complaints can be filed online or by phone at 888-DOT-SAFT (888-368-7238), from 8 a.m. to 8 p.m. ET, Monday through Friday.",
+    "quote": "from 8 a.m. to 8 p.m. ET, Monday through Friday"
+   },
+   {
+    "sentence": "The agency said submitting a complaint does not automatically trigger an investigation or result in a violation or penalty.",
+    "quote": "Submitting a complaint does not automatically trigger an investigation"
+   }
   ],
-  "ai_importance": 73,
-  "sum_v2": true
+  "sum_problems": [
+   "7 sentences but only 4 evidence entries",
+   "copies a 9-word run from the source: 'violations of federal motor carrier safety and hazardous materials'"
+  ],
+  "ai_importance": 55,
+  "sum_v2": true,
+  "ai_category": "regs"
  },
  {
   "id": "d856c3453a",
@@ -5670,7 +5689,7 @@
   "summary": "",
   "why": "",
   "category": "rates",
-  "region": "",
+  "region": "US",
   "importance": 73,
   "source": "FreightWaves",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDgxZVg5dW0zSkNSamxhOTVzVEZzNGNCcWhSU0l1U3RoUThycUlhbUtpeW1ZbXE2Ri1PS0VhR29hbjcwaUZQazBxZWtYVzBzUE1UVWJXWHVzQVlUVlprV0NGbkdicEplNnBzNG55aHh5Q2VvQVJGWFBQUDlWa21iSWdB?oc=5",
@@ -5685,7 +5704,32 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/freight-demand-jumps-5-as-spot-rates-climb",
+  "source_note": "paywalled: excerpt only · 27 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "28ea2e4a5b0bc168",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-11T02:11:04.942124+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "Freight demand rose nearly 5% week over week, and spot rates kept climbing, according to FreightWaves.",
+    "quote": "Freight demand is up nearly 5% week over week, and spot rates are still climbing."
+   },
+   {
+    "sentence": "The excerpt cuts off, but it says tender rejections were near 13% and rising.",
+    "quote": "tender rejections near 13%, rising"
+   }
+  ],
+  "sum_problems": [
+   "name 'FreightWaves' is not in the source"
+  ],
+  "ai_category": "rates",
+  "ai_importance": 60
  },
  {
   "id": "598d07d769",
@@ -7028,7 +7072,7 @@
   "summary": "",
   "why": "",
   "category": "border",
-  "region": "",
+  "region": "Cross-border",
   "importance": 78,
   "source": "Transport Topics",
   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vSXVSWTJFV0ZWcTI0cmhTcjVXdEJHTDZjTlozanNsTlFUY3RqZ2I0c1RPQ3VJbDZQeWZEVkNlNGNnTmg2UWNoU042RVlqdjJaNVpuTnR1QXp3Uy12cU9aVU1iQzlaWWp2TVE4?oc=5",
@@ -7044,22 +7088,28 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 0,
+  "sum_tries": 1,
   "pub_url": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
-  "source_note": "retry after fixes",
-  "sum_done": false,
+  "source_note": "excerpt only · 21 words",
+  "sum_done": true,
   "sum_status": "withheld",
   "source_fp": "314922db79beac86",
   "source_scope": "excerpt",
-  "sum_at": "2026-11-11T02:03:26.935343+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-11T02:11:04.942124+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "source did not support a summary"
+  "sum_evidence": [
+   {
+    "sentence": "A U.S.-China trade truce now runs until Jan. 10 under the extension, which also suspends charges Chinese ports levy on American vessels.",
+    "quote": "The extension prolongs a U.S.-China trade truce until Jan. 10 and includes suspended special fees on American ships at Chinese ports."
+   }
   ],
-  "ai_importance": 78,
-  "sum_v2": true
+  "sum_problems": [
+   "2 sentences but only 1 evidence entries"
+  ],
+  "ai_importance": 45,
+  "sum_v2": true,
+  "ai_category": "border"
  },
  {
   "id": "37dff601e2",
@@ -8304,22 +8354,22 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 0,
+  "sum_tries": 1,
   "pub_url": "https://www.post-gazette.com/business/career-workplace/2026/11/09/diesel-prices-truckers-costs-breezewood/stories/202610310054",
-  "source_note": "retry after fixes",
-  "sum_done": false,
+  "source_note": "paywalled: excerpt only · 24 words",
+  "sum_done": true,
   "sum_status": "withheld",
   "source_fp": "d0ef31ed2e2ac8b5",
   "source_scope": "excerpt",
-  "sum_at": "2026-11-11T02:03:26.935343+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-11T02:11:04.942124+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [],
   "sum_problems": [
    "source did not support a summary"
   ],
   "ai_category": "fuel",
-  "ai_importance": 55,
+  "ai_importance": 45,
   "sum_v2": true
  },
  {
