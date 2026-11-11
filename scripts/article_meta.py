@@ -206,6 +206,29 @@ class _Body(HTMLParser):
             self.cur.append(data)
 
 
+def jsonld_body(page):
+    """Article text from the page's structured data (schema.org articleBody), which many news sites publish
+    for search engines. Used only as source text for the summary; never republished."""
+    for block in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', page, re.S | re.I):
+        try:
+            data = json.loads(block.strip())
+        except ValueError:
+            continue
+        stack = data if isinstance(data, list) else [data]
+        while stack:
+            d = stack.pop()
+            if isinstance(d, list):
+                stack.extend(d)
+            elif isinstance(d, dict):
+                if d.get("isAccessibleForFree") in (False, "False", "false"):
+                    return None  # the publisher marks it as paid content: excerpt only
+                body = d.get("articleBody")
+                if isinstance(body, str) and len(body.split()) >= 150:
+                    return _clean(body)[:20000]
+                stack.extend(v for v in d.values() if isinstance(v, (dict, list)))
+    return None
+
+
 def body_from_html(page):
     p = _Body()
     try:
@@ -228,7 +251,7 @@ def source_text(link, feed_snippet="", get=_get):
     if re.search(r'paywall|subscriber-only|"isAccessibleForFree"\s*:\s*"?false', page, re.I):
         d = description_from_html(page)
         return final or url, d, ("excerpt" if d else None), "paywalled: excerpt only"
-    body = body_from_html(page)
+    body = jsonld_body(page) or body_from_html(page)
     if body:
         return final or url, body, "full_article", "ok"
     d = description_from_html(page) or (feed_snippet if len((feed_snippet or "").split()) >= 15 else None)

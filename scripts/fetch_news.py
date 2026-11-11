@@ -287,6 +287,11 @@ def main():
                 s["sum_done"], s["sum_pending"], s["sum_status"] = True, False, "no source text (%s)" % note
                 no_text += 1
                 continue
+            if scope == "excerpt" and len(text.split()) < cfg.get("min_excerpt_words", 45):
+                # A teaser this short can only be restated, not summarized: headline + link, no API cost.
+                s["sum_done"], s["sum_pending"], s["sum_status"] = True, False, "excerpt too short to summarize"
+                no_text += 1
+                continue
             fp = summarize.fingerprint(text)
             if fp == s.get("source_fp") and s.get("sum_status") in ("published", "review"):
                 s["sum_done"] = True
