@@ -1,5 +1,35 @@
 [
  {
+  "id": "ef5ab1dcbb",
+  "slug": "fleet-costs-and-uptime-lead-act-expo-2027-agenda-ef5ab1dcbb",
+  "title": "Fleet Costs and Uptime Lead ACT Expo 2027 Agenda",
+  "orig_title": "Fleet Costs and Uptime Lead ACT Expo 2027 Agenda",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 46,
+  "source": "Fleet Equipment Magazine",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzTmdHSGtiSG9pU0tzaU9ENVZMNUExVzJyQVFELXBKSU1ublQtdUtoc1pTRlJMQ1RiYWphVG5IU0ljX2V4V2hsMTFZQzJpbERnWTZybDg4bTFxdTBoa1ZNU0VLbUQtckMwb25nLVd3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzTmdHSGtiSG9pU0tzaU9ENVZMNUExVzJyQVFELXBKSU1ublQtdUtoc1pTRlJMQ1RiYWphVG5IU0ljX2V4V2hsMTFZQzJpbERnWTZybDg4bTFxdTBoa1ZNU0VLbUQtckMwb25nLVd3",
+  "snippet": "Fleet Costs and Uptime Lead ACT Expo 2027 Agenda Fleet Equipment Magazine",
+  "published": "2026-11-11T12:51:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T13:01:05.236918+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Fleet Costs Shape ACT Expo 2027 Agenda"
+  ],
+  "labels": [],
+  "kind": "event",
+  "sum_pending": false,
+  "dup_of": "3568f5d719"
+ },
+ {
   "id": "b9cec343cd",
   "slug": "legal-warning-sent-to-pensions-over-climate-related-risks-of-lng-stake-b9cec343cd",
   "title": "Legal warning sent to pensions over climate-related risks of LNG stakes",
@@ -479,6 +509,35 @@
   "published": "2026-11-11T11:22:55+00:00",
   "date_known": true,
   "first_seen": "2026-11-11T11:31:03.371513+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "726f5f5a8c",
+  "slug": "business-brief-faux-canada-726f5f5a8c",
+  "title": "Business Brief: Faux Canada",
+  "orig_title": "Business Brief: Faux Canada",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZzFLX0lQd0FJX1NEYmJ0eElmOVd5cWhtejNUOFFiZUd6T2UxR1JxNTRoSEMxZTV5NTQxanRfR01rRVpKYXBPSFZ4Zk9IbUthTlFuN1drbWZYaWEzY1JXemtWc05MNE5zcVA3N2JGVDVFQS14R1A2TXhJSmcyOW9lNHhB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZzFLX0lQd0FJX1NEYmJ0eElmOVd5cWhtejNUOFFiZUd6T2UxR1JxNTRoSEMxZTV5NTQxanRfR01rRVpKYXBPSFZ4Zk9IbUthTlFuN1drbWZYaWEzY1JXemtWc05MNE5zcVA3N2JGVDVFQS14R1A2TXhJSmcyOW9lNHhB",
+  "snippet": "Business Brief: Faux Canada The Globe and Mail",
+  "published": "2026-11-11T11:19:52+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T13:01:05.236918+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -10136,7 +10195,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.fleetowner.com/perspectives/ideaxchange/blog/55417193/how-autonomous-trucks-could-reshape-fleet-operations-costs-and-regulations",
   "source_note": "ok · 657 words"
  },
@@ -10764,7 +10823,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "f09c31e013",
@@ -10816,7 +10875,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "c8dc5c87cb",
