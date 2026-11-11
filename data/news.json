@@ -1,5 +1,34 @@
 [
  {
+  "id": "f8ab4cdf25",
+  "slug": "costco-developers-present-warehouse-application-in-plainfield-f8ab4cdf25",
+  "title": "Costco developers present warehouse application in Plainfield",
+  "orig_title": "Costco developers present warehouse application in Plainfield",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Day",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlQtZXF1cFVsSXRlS3I0bTFyc2w5M01SVWliZVdTU196cEFsby1zT1RTdVdYOE1RT0dPYkpIc0xsc2Q3VHpVTW9KWkVYRWFVTmZ5WWlrNDQ5d290TDA0dWJtaE1HLWpwQ0ZZWGlrVzB5SXZIZXRxdFR4VHV4NjMzdDY1bHJlZTd0OHUzM3ljWnR3TnhTSkc3aA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlQtZXF1cFVsSXRlS3I0bTFyc2w5M01SVWliZVdTU196cEFsby1zT1RTdVdYOE1RT0dPYkpIc0xsc2Q3VHpVTW9KWkVYRWFVTmZ5WWlrNDQ5d290TDA0dWJtaE1HLWpwQ0ZZWGlrVzB5SXZIZXRxdFR4VHV4NjMzdDY1bHJlZTd0OHUzM3ljWnR3TnhTSkc3aA",
+  "snippet": "Costco developers present warehouse application in Plainfield The Day",
+  "published": "2026-11-11T01:59:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T01:59:54.823566+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fa3e383ac3",
   "slug": "ontario-court-sides-with-tow-truck-drivers-ousted-by-ford-government-s-fa3e383ac3",
   "title": "Ontario court sides with tow-truck drivers ousted by Ford government’s rules",
@@ -1226,10 +1255,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 1,
-  "source_note": "no publisher address",
-  "sum_done": true,
-  "sum_status": "no source text (no publisher address)"
+  "sum_tries": 2,
+  "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiZ0F, 400000 bytes)",
+  "sum_done": false,
+  "sum_status": "retrying (no publisher address: google page without signature (https://news.google.com/articles/CBMiZ0F, 400000 bytes))"
  },
  {
   "id": "5cc484cdbb",
@@ -1477,10 +1506,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 1,
-  "source_note": "no publisher address",
-  "sum_done": true,
-  "sum_status": "no source text (no publisher address)"
+  "sum_tries": 2,
+  "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiqAF, 400000 bytes)",
+  "sum_done": false,
+  "sum_status": "retrying (no publisher address: google page without signature (https://news.google.com/articles/CBMiqAF, 400000 bytes))"
  },
  {
   "id": "233acdc2b0",
@@ -4715,10 +4744,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 1,
-  "source_note": "no publisher address",
-  "sum_done": true,
-  "sum_status": "no source text (no publisher address)"
+  "sum_tries": 2,
+  "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiqwF, 400000 bytes)",
+  "sum_done": false,
+  "sum_status": "retrying (no publisher address: google page without signature (https://news.google.com/articles/CBMiqwF, 400000 bytes))"
  },
  {
   "id": "98e6f49b90",
@@ -4824,10 +4853,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 1,
-  "source_note": "no publisher address",
-  "sum_done": true,
-  "sum_status": "no source text (no publisher address)"
+  "sum_tries": 2,
+  "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiowF, 400000 bytes)",
+  "sum_done": false,
+  "sum_status": "retrying (no publisher address: google page without signature (https://news.google.com/articles/CBMiowF, 400000 bytes))"
  },
  {
   "id": "9faf2c2dd0",
