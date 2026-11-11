@@ -1,5 +1,34 @@
 [
  {
+  "id": "978f33d374",
+  "slug": "premarket-stocks-gain-as-coreweave-reignites-ai-trade-978f33d374",
+  "title": "Premarket: Stocks gain as CoreWeave reignites AI trade",
+  "orig_title": "Premarket: Stocks gain as CoreWeave reignites AI trade",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDJuTUxFODQ4WUw3OElkeGdqUFo3bDd3cEYwT0JXc3QtdTEzWDUwYVpubEVMUHEtRlhERjBBMUNQMVJPWFpYUXVVRVN2Q2hRWjBGNFUxMkZIR0w0XzdRc2E2UHRyZFJPSTJRVjd4T0NvY2V4bjhkZWZGaXF5S01HMkc1SURaZ3VRTGt3cTdSaVlqTVJ2OXowb2tYcXRUTDFPYms5UGIwa1BkSjM1eUVTQ2N0RFd2Nlo5WjNxWmFhb3UydlJUSmRabmRZdl9XZ3ZCWnhNRmZINGZpQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDJuTUxFODQ4WUw3OElkeGdqUFo3bDd3cEYwT0JXc3QtdTEzWDUwYVpubEVMUHEtRlhERjBBMUNQMVJPWFpYUXVVRVN2Q2hRWjBGNFUxMkZIR0w0XzdRc2E2UHRyZFJPSTJRVjd4T0NvY2V4bjhkZWZGaXF5S01HMkc1SURaZ3VRTGt3cTdSaVlqTVJ2OXowb2tYcXRUTDFPYms5UGIwa1BkSjM1eUVTQ2N0RFd2Nlo5WjNxWmFhb3UydlJUSmRabmRZdl9XZ3ZCWnhNRmZINGZpQQ",
+  "snippet": "Premarket: Stocks gain as CoreWeave reignites AI trade The Globe and Mail",
+  "published": "2026-11-11T10:26:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:31:07.115286+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "669db29208",
   "slug": "opinion-why-your-heating-bills-are-going-through-the-roof-669db29208",
   "title": "Opinion | Why Your Heating Bills Are Going Through the Roof",
@@ -1194,6 +1223,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "10bfa1a023",
+  "slug": "u-s-charges-three-with-planning-iran-backed-terror-attacks-including-o-10bfa1a023",
+  "title": "U.S. charges three with planning Iran-backed terror attacks, including on U.K. airbase",
+  "orig_title": "U.S. charges three with planning Iran-backed terror attacks, including on U.K. airbase",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanVFRHBrazVWY0hXaFl6YzB4YzkxSFlpMkRTRW0xQzYxTnJzSXJOaERlSTdMTEZqcGVuVHpXbm1Eb0NtNDM5MUtteDRlYUZPVExYeXRrei0xdmpPdTc5M0NfNzVhaEJYaDI5M0t6bXBneUQweWtueDNUbzZTQUwzVDBoUzlMeFAzYUU4?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanVFRHBrazVWY0hXaFl6YzB4YzkxSFlpMkRTRW0xQzYxTnJzSXJOaERlSTdMTEZqcGVuVHpXbm1Eb0NtNDM5MUtteDRlYUZPVExYeXRrei0xdmpPdTc5M0NfNzVhaEJYaDI5M0t6bXBneUQweWtueDNUbzZTQUwzVDBoUzlMeFAzYUU4",
+  "snippet": "U.S. charges three with planning Iran-backed terror attacks, including on U.K. airbase The Globe and Mail",
+  "published": "2026-11-10T20:56:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:31:07.115286+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fcbb818ef0",
   "slug": "inside-kuebix-ai-a-shipper-tms-rebuilt-around-executable-ai-fcbb818ef0",
   "title": "Inside Kuebix AI: A Shipper TMS Rebuilt Around Executable AI",
@@ -1250,7 +1308,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "cd01d58c65",
@@ -1337,7 +1399,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/uber-freight-cuts-80-jobs-while-hiring-nearly-300-in-growth-push",
+  "source_note": "paywalled: excerpt only · 20 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "f788ed9e88",
@@ -1626,7 +1693,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/tech-transformation-shipstation-globals-ai-overhauls-freight-operations",
+  "source_note": "paywalled: excerpt only · 20 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "fc1e6e4046",
@@ -1659,6 +1731,35 @@
   "source_note": "paywalled: excerpt only · 25 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "42bc1fc450",
+  "slug": "canadian-novelist-mary-lawson-returns-to-solace-in-new-book-solace-in-42bc1fc450",
+  "title": "Canadian novelist Mary Lawson returns to Solace in new book Solace in Winter",
+  "orig_title": "Canadian novelist Mary Lawson returns to Solace in new book Solace in Winter",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3RNY0F6TVV5NG1yeG5Gdk9KaEtZMDNPdWZvRDhtM0NFZ19OQi05T0tRcnMwTTFGVXJuUW04NXFUa2xQNXZiMjBLeXV6aEF4OWxSVTYwYkU5SHVBUWpkRzRMSXJVbDZZLWVobHVWcVpia0RTVDlhT2paMnBRNVVscmxsVkF5TEVoMW95dUhzRkNYZzA1ZFJoSW02aGdEOGRaY3pCcFJpVFNJam1SNTBseExTMnhQZkhITHVhQUhhYU9vZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3RNY0F6TVV5NG1yeG5Gdk9KaEtZMDNPdWZvRDhtM0NFZ19OQi05T0tRcnMwTTFGVXJuUW04NXFUa2xQNXZiMjBLeXV6aEF4OWxSVTYwYkU5SHVBUWpkRzRMSXJVbDZZLWVobHVWcVpia0RTVDlhT2paMnBRNVVscmxsVkF5TEVoMW95dUhzRkNYZzA1ZFJoSW02aGdEOGRaY3pCcFJpVFNJam1SNTBseExTMnhQZkhITHVhQUhhYU9vZw",
+  "snippet": "Canadian novelist Mary Lawson returns to Solace in new book Solace in Winter The Globe and Mail",
+  "published": "2026-11-10T19:23:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:31:07.115286+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d839f6bd80",
@@ -2182,6 +2283,35 @@
   "sum_pending": false
  },
  {
+  "id": "5162c1ec8b",
+  "slug": "principled-pragmatism-in-foreign-policy-still-requires-canada-to-be-cl-5162c1ec8b",
+  "title": "‘Principled pragmatism’ in foreign policy still requires Canada to be clear about its principles",
+  "orig_title": "‘Principled pragmatism’ in foreign policy still requires Canada to be clear about its principles",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRy1kVFVzcDlPR0p5TWdnN1RYUjB6RnM5U0c2NHVVOUpNbnRxZl9iYTNYVjY0alhzNUxKRUtnRy1RbEd4TXBKMU1IX09KNVowUnR0VERiMEZfZ1ZPNU1iWmJMcS1iUk50SVZES2FLSV9pMWRrbU52ek4tZjJYdlZUWFVpZmNMS1pPYnA5eGJmaFdiZU4td3hUVVFjbUp5THh0T2Z0OENtTXU0cy1lVDlWdmV4WVRleHRabFBN?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRy1kVFVzcDlPR0p5TWdnN1RYUjB6RnM5U0c2NHVVOUpNbnRxZl9iYTNYVjY0alhzNUxKRUtnRy1RbEd4TXBKMU1IX09KNVowUnR0VERiMEZfZ1ZPNU1iWmJMcS1iUk50SVZES2FLSV9pMWRrbU52ek4tZjJYdlZUWFVpZmNMS1pPYnA5eGJmaFdiZU4td3hUVVFjbUp5THh0T2Z0OENtTXU0cy1lVDlWdmV4WVRleHRabFBN",
+  "snippet": "‘Principled pragmatism’ in foreign policy still requires Canada to be clear about its principles The Globe and Mail",
+  "published": "2026-11-10T17:51:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:31:07.115286+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "715577ea7b",
   "slug": "traffix-data-spot-rates-hold-at-3-47-a-mile-but-peak-freight-is-meetin-715577ea7b",
   "title": "TRAFFIX data: Spot rates hold at $3.47 a mile, but peak freight is meeting tight capacity",
@@ -2325,7 +2455,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/diesel-market-points-down-post-election-benchmark-slides",
+  "source_note": "paywalled: excerpt only · 26 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "fbd702a75b",
@@ -3967,6 +4102,35 @@
   "labels": [],
   "kind": "event",
   "sum_pending": true
+ },
+ {
+  "id": "88b12197eb",
+  "slug": "u-s-republicans-elect-jim-jordan-john-thune-as-leaders-of-house-senate-88b12197eb",
+  "title": "U.S. Republicans elect Jim Jordan, John Thune as leaders of House, Senate",
+  "orig_title": "U.S. Republicans elect Jim Jordan, John Thune as leaders of House, Senate",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3l2VW9mZzFQWEtQZmVmX3A2a0hpMGlxNWJmeVhnZnkxNWxoUTF6eUxsRDVrenNnRThqUGJ1cHY0WmhZRjVISlFKeGM1bDJVc0ZxSEd2dEh0OHhhWUNwTm1UY244eDUtN3VTaXd2aGFOWUlfUjJLTHB6MWVhVTZseWx2c3JhWV9YN2YyOENhWlo2VGtRM0Y4QzFka2UyMkRucVR1bExB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3l2VW9mZzFQWEtQZmVmX3A2a0hpMGlxNWJmeVhnZnkxNWxoUTF6eUxsRDVrenNnRThqUGJ1cHY0WmhZRjVISlFKeGM1bDJVc0ZxSEd2dEh0OHhhWUNwTm1UY244eDUtN3VTaXd2aGFOWUlfUjJLTHB6MWVhVTZseWx2c3JhWV9YN2YyOENhWlo2VGtRM0Y4QzFka2UyMkRucVR1bExB",
+  "snippet": "U.S. Republicans elect Jim Jordan, John Thune as leaders of House, Senate The Globe and Mail",
+  "published": "2026-11-10T11:49:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:31:07.115286+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a8e0d193f8",
