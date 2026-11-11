@@ -1269,14 +1269,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/freight-distress-persists-as-logistics-layoffs-top-1-000-bankruptcies-a3c5c79236/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=a3c5c79236",
    "caption": "Freight distress persists as logistics layoffs top 1,000, bankruptcies mount.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-11T22:38:40.167246+00:00",
    "published": "2026-11-11T22:20:40+00:00",
    "score": 87,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122101664265544428",
+   "posted_at": "2026-11-11T22:57:48.469849+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Freight distress persists as logistics layoffs top 1,000, bankruptcies mount | HaulTimes",
@@ -1286,6 +1286,36 @@
    },
    "reason": "importance 87 (threshold 65), Industry, trade publication",
    "breaking": "breaking: importance 87, reported by a trade publication of record",
+   "edited": false,
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-11T22:57:48.469849+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122101664265544428"
+  },
+  "dc0f50efeb": {
+   "story_id": "dc0f50efeb",
+   "title": "Spot Rates Up 50%, Rail Volumes at Highs",
+   "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xTWZ4OXRUUmhpSzBjZG9VWmdCZmUtM0pPU2ZTQU9CejFxWHZnU2MyaFhfVGo4YlR1cUFLWlByaWM1U0tVTXEySlZra1RoQWRMaEIxaFNqQTVrV2dsTW5PdW5yaFJtVF9BR21uNGZILVJOc1lpcEF2WXBPZFg",
+   "category": "rates",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/spot-rates-up-50-rail-volumes-at-highs-dc0f50efeb/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=dc0f50efeb",
+   "caption": "Spot Rates Up 50%, Rail Volumes at Highs.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-11T22:57:48.469849+00:00",
+   "published": "2026-11-11T19:42:05+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Spot Rates Up 50%, Rail Volumes at Highs | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/50300e265c.png",
+    "og:url": "https://haultimes.com/story/spot-rates-up-50-rail-volumes-at-highs-dc0f50efeb/"
+   },
+   "reason": "importance 73 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
    "edited": false,
    "wait_summary": false
   }
@@ -1416,6 +1446,10 @@
   {
    "at": "2026-11-11T14:59:46.380956+00:00",
    "msg": "posted 8626e29029"
+  },
+  {
+   "at": "2026-11-11T22:57:48.469849+00:00",
+   "msg": "posted a3c5c79236"
   }
  ],
  "decided": {
@@ -1604,8 +1638,12 @@
   "319e4f0060": "skipped|importance 55 is below this platform's threshold (65)",
   "44643ddb63": "skipped|importance 45 is below this platform's threshold (65)",
   "1bdf803f81": "skipped|importance 61 is below this platform's threshold (65)",
-  "a3c5c79236": "queued|importance 87 (threshold 65), Industry, trade publication",
-  "6d3c1a081c": "skipped|importance 55 is below this platform's threshold (65)"
+  "a3c5c79236": "posted|breaking",
+  "6d3c1a081c": "skipped|importance 55 is below this platform's threshold (65)",
+  "dc0f50efeb": "queued|importance 73 (threshold 65), Rates & Market, trade publication",
+  "5a03fc8cd7": "skipped|importance 61 is below this platform's threshold (65)",
+  "7d97e7874f": "skipped|importance 55 is below this platform's threshold (65)",
+  "e1a8315ae7": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -3168,6 +3206,41 @@
    "title": "Intermodal Booms: Best 3 Months EVER for Rail Freight",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T22:57:48.469849+00:00",
+   "story_id": "dc0f50efeb",
+   "title": "Spot Rates Up 50%, Rail Volumes at Highs",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-11T22:57:48.469849+00:00",
+   "story_id": "5a03fc8cd7",
+   "title": "Fura Freight: Next Year, Our AI Agent Will Book 90% of Loads",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T22:57:48.469849+00:00",
+   "story_id": "7d97e7874f",
+   "title": "Why Owner-Operators Are Leaving The Small-Fleet Tier, And Where Their Trucks Go Next",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T22:57:48.469849+00:00",
+   "story_id": "e1a8315ae7",
+   "title": "Could Your Truck's Connected Devices Be a Cybersecurity Risk?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-11T22:57:48.469849+00:00",
+   "story_id": "a3c5c79236",
+   "title": "Freight distress persists as logistics layoffs top 1,000, bankruptcies mount",
+   "action": "posted",
+   "reason": "breaking: importance 87, reported by a trade publication of record; waited 19 min in queue"
   }
  ],
  "visibility": {
