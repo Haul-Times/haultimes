@@ -1,5 +1,63 @@
 [
  {
+  "id": "3fc383038e",
+  "slug": "market-factors-you-are-not-the-first-to-have-that-investment-idea-3fc383038e",
+  "title": "Market Factors: You are not the first to have that investment idea",
+  "orig_title": "Market Factors: You are not the first to have that investment idea",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmJZeS14cFFlVkEyMDJRVVBsRGZUZnppa2plZFVUazNuWmRhMnlobmRXa0RDRjF1SjFvbHFaRkRKU3VOdTJ1QXBubjdKR0duUXJ1aF9RT3FQdnNFa293dWpZYmppTEg5bnBmTHNGSGtMN0JjcjVFSTRzSHlXNWxicFVMZjA2clRrMGJKN1pjLU9XN1BwTHVVUkxDd2RZSWVBbHhUUlpIMVdWSkxsamFoaVVCdF9rZkR6Tm9Za0JSdUhxZEJXMjg4MUdHMU1Bdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmJZeS14cFFlVkEyMDJRVVBsRGZUZnppa2plZFVUazNuWmRhMnlobmRXa0RDRjF1SjFvbHFaRkRKU3VOdTJ1QXBubjdKR0duUXJ1aF9RT3FQdnNFa293dWpZYmppTEg5bnBmTHNGSGtMN0JjcjVFSTRzSHlXNWxicFVMZjA2clRrMGJKN1pjLU9XN1BwTHVVUkxDd2RZSWVBbHhUUlpIMVdWSkxsamFoaVVCdF9rZkR6Tm9Za0JSdUhxZEJXMjg4MUdHMU1Bdw",
+  "snippet": "Market Factors: You are not the first to have that investment idea The Globe and Mail",
+  "published": "2026-11-11T16:46:02+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T16:53:12.515375+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "c048d58336",
+  "slug": "chile-s-truckers-reject-fuel-price-cap-and-continue-nationwide-strike-c048d58336",
+  "title": "Chile's truckers reject fuel-price cap and continue nationwide strike, warning of wider blockades",
+  "orig_title": "Chile's truckers reject fuel-price cap and continue nationwide strike, warning of wider blockades",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Latin Times",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOclFEeHE4dkZnN05GUk9uVWF2UHBsRzdSdlUtNUhXaFl4ZXJvQkVWUjdkdzFMZ09mRlBHY1ZGVHdaNXdjZHlyY0NfeFBMM05HLUtBYmVhaUZGSnNKdmdtXzBvX2xpNTk5SWd5N0RBS3lVNmUwMGp1c0F6ZUhJUWdkb3dJd3NwYXVadzFlYXhVdXZrMXM?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOclFEeHE4dkZnN05GUk9uVWF2UHBsRzdSdlUtNUhXaFl4ZXJvQkVWUjdkdzFMZ09mRlBHY1ZGVHdaNXdjZHlyY0NfeFBMM05HLUtBYmVhaUZGSnNKdmdtXzBvX2xpNTk5SWd5N0RBS3lVNmUwMGp1c0F6ZUhJUWdkb3dJd3NwYXVadzFlYXhVdXZrMXM",
+  "snippet": "Chile's truckers reject fuel-price cap and continue nationwide strike, warning of wider blockades Latin Times",
+  "published": "2026-11-11T16:40:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T16:53:12.515375+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6e454e4f57",
   "slug": "us-postpones-million-dollar-china-ship-tax-until-january-6e454e4f57",
   "title": "US postpones ‘million-dollar’ China ship tax until January",
@@ -84,7 +142,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "114574dfef",
@@ -140,7 +202,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "b8e1b5f2e0",
@@ -286,7 +352,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.ajot.com/news/j-j-keller-urges-motor-carriers-to-strengthencargo-security-ahead-of-thanksgiving",
   "source_note": "ok · 581 words"
  },
@@ -1320,7 +1386,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://mountaintimes.info/2026/11/11/soaring-diesel-prices-are-pushing-vermont-loggers-to-the-brink/",
   "source_note": "ok · 576 words"
@@ -3566,6 +3632,35 @@
   "sum_tries": 3,
   "pub_url": "https://newjersey.news12.com/bill-would-ban-marijuana-from-off-the-clock-police-first-responders-truck-drivers-and-heavy-equipment-operators",
   "source_note": "ok · 359 words"
+ },
+ {
+  "id": "da4a5e0ee5",
+  "slug": "wanda-jo-thomas-obituary-2026-gloster-ms-brown-funeral-home-gloster-da4a5e0ee5",
+  "title": "Wanda Jo Thomas Obituary (2026) - Gloster, MS - Brown Funeral Home - Gloster",
+  "orig_title": "Wanda Jo Thomas Obituary (2026) - Gloster, MS - Brown Funeral Home - Gloster",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Legacy | Obituary",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoMHljSHAyVmtOcUF1WWRPcWNSdUt6MGxycGtSbnV6dXJSSGVuRE4zY3AtWjVtRmR5TmxGYlVLNTl3YVdVM213TGVmU0wxSWFyMVZUZnpoOA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoMHljSHAyVmtOcUF1WWRPcWNSdUt6MGxycGtSbnV6dXJSSGVuRE4zY3AtWjVtRmR5TmxGYlVLNTl3YVdVM213TGVmU0wxSWFyMVZUZnpoOA",
+  "snippet": "Wanda Jo Thomas Obituary (2026) - Gloster, MS - Brown Funeral Home - Gloster Legacy | Obituary",
+  "published": "2026-11-11T00:46:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T16:53:12.515375+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d51bcfeeaf",
