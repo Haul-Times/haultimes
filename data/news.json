@@ -2490,7 +2490,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/diesel-prices-begin-to-downshift",
+  "source_note": "ok · 171 words"
  },
  {
   "id": "c65fb3d290",
@@ -7445,7 +7448,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ajot.com/news/traffix-november-nax-index-signals-easing-cross-border-freight-conditions-amid-peak-season-capacity-and-fuel-pressures",
   "source_note": "ok · 520 words"

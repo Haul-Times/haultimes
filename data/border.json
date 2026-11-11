@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:11:06.072460+00:00",
+ "updated": "2026-11-11T05:21:05.287050+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 10,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:58",
+    "lanes": "4",
+    "status": "delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -24,7 +24,7 @@
    },
    "usual": {
     "south": [
-     0,
+     5,
      null,
      null,
      null,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:58",
+    "lanes": "3",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:58",
+    "updated": "00:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:58",
+    "lanes": "4",
+    "status": "no delay",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 12,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:58",
+    "lanes": "2",
+    "status": "delay",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -324,7 +324,7 @@
    },
    "usual": {
     "south": [
-     0,
+     6,
      null,
      null,
      null,
@@ -350,7 +350,7 @@
      null
     ],
     "north": [
-     17,
+     16,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:58",
+    "updated": "00:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:58",
+    "updated": "00:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:58",
+    "updated": "00:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:58",
+    "updated": "00:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:58",
+    "updated": "00:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:58",
+    "updated": "00:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:58",
+    "updated": "00:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1074,7 +1074,7 @@
    },
    "usual": {
     "south": [
-     22,
+     14,
      null,
      null,
      null,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:00 pm PST",
+    "updated": "At 9:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "21:01:58",
+    "updated": "21:12:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1438,7 +1438,7 @@
    {
     "name": "Buffalo/Niagara Falls Rainbow Bridge",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Buffalo/Niagara Falls Whirlpool Bridge",
@@ -1457,18 +1457,18 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
     "wait": null,
-    "status": "Update Pending"
+    "status": "Lanes Closed"
    },
    {
     "name": "Jackman",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Lynden",
