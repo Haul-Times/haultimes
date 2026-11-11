@@ -260,6 +260,8 @@ def main():
         for s in all_stories:  # earlier link-lookup failures get another chance
             if (s.get("sum_status") or "").startswith("no source text (no publisher address") and s.get("sum_tries", 0) < 3:
                 s["sum_done"] = False
+            if s.get("sum_status") == "withheld" and "max_tokens" in str(s.get("sum_problems")) and not s.get("sum_v4"):
+                s["sum_tries"], s["sum_done"], s["sum_v4"] = 0, False, True
             if s.get("sum_status") == "withheld" and not s.get("sum_v3") and any(
                     k in str(s.get("sum_problems")) for k in ("evidence entries", "9-word run", "is not in the source")):
                 s["sum_tries"], s["sum_done"], s["sum_v3"] = 0, False, True

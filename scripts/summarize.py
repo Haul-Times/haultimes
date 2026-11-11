@@ -35,7 +35,7 @@ Return JSON only:
   "importance": 1-100,
   "summary_text": "",              // see rules; "" if the source does not support a summary
   "why_it_matters": "",            // ONLY if the source itself states the impact; otherwise ""
-  "evidence": [{"sentence": "...", "quote": "exact words copied from the source that support it"}],
+  "evidence": [{"sentence": "1", "quote": "short exact phrase from the source"}],
   "review_required": false,
   "review_reasons": []
 }
@@ -58,7 +58,8 @@ Summary rules (concise, professional business journalism):
   "this comes as", "in a move", "marks a", "highlights the", "delve", "robust", "crucial", "pivotal".
 - why_it_matters: one sentence, only when the source itself states the effect on carriers, brokers or
   shippers. Otherwise "".
-- evidence: one entry per summary sentence; quote must be copied exactly from the source.
+- evidence: one entry per summary sentence; "quote" is the shortest exact phrase from the source that
+  supports it (at most 15 words, copied exactly); "sentence" is just the sentence number, e.g. "1".
 - If the source is ambiguous or contradictory, leave out the disputed detail or set review_required."""
 
 LENGTH = {"full_article": "80-140 words in one or two short paragraphs when the article supports it; fewer for short reports",
@@ -189,7 +190,7 @@ class Budget:
         return round(self.u["days"][self.day]["usd"], 4), round(self.u["months"][self.month]["usd"], 4)
 
 
-def ask(client, model, cats, item, source, scope, fix=None, max_out=2000):
+def ask(client, model, cats, item, source, scope, fix=None, max_out=3000):
     user = "Headline: %s\nPublisher: %s\nSource scope: %s\n<source>\n%s\n</source>\n" % (
         item["headline"], item["source"], scope, source[:12000])
     if fix:
@@ -215,7 +216,7 @@ def summarize_story(client, model, cats, s, source, scope, budget):
     item = {"headline": s["orig_title"], "source": s["source"]}
     fix, data = None, {}
     for attempt in (1, 2):
-        if not budget.reserve(len(source[:12000]) / 3.2 + 900, 2000):
+        if not budget.reserve(len(source[:12000]) / 3.2 + 900, 1500):  # typical answer; a rare longer one settles at its real cost
             return "limit", {}
         try:
             data, tin, tout = ask(client, model, cats, item, source, scope, fix)
