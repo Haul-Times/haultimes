@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:41:42.498452+00:00",
+ "updated": "2026-11-11T19:51:04.344854+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -113,7 +113,7 @@
      0,
      0,
      0,
-     5,
+     6,
      null,
      null,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:27 pm EST",
+    "updated": "At 2:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 4,
-    "status": "4 minutes",
-    "updated": "2026-11-11 14:20 EST"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-11 14:40 EST"
    },
    "usual": {
     "south": [
@@ -289,7 +289,7 @@
      8,
      4,
      7,
-     4,
+     5,
      null,
      null,
      null,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:27 pm EST",
+    "updated": "At 2:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-11 14:20 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-11 14:40 EST"
    },
    "usual": {
     "south": [
@@ -364,7 +364,7 @@
      7,
      5,
      2,
-     4,
+     3,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "14:35:01",
+    "updated": "14:45:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "14:35:01",
+    "updated": "14:45:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:35:01",
+    "updated": "14:45:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-11 12:20 PDT"
+    "wait": 20,
+    "status": "20 minutes",
+    "updated": "2026-11-11 12:40 PDT"
    },
    "usual": {
     "south": [
@@ -1332,7 +1332,7 @@
      5,
      5,
      7,
-     12,
+     14,
      null,
      null,
      null,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-11 12:20 PDT"
+    "updated": "2026-11-11 12:40 PDT"
    },
    "usual": {
     "south": [

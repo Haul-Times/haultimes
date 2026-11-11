@@ -1569,7 +1569,9 @@
   "a815170107": "skipped|importance 55 is below this platform's threshold (65)",
   "bdd11a4b84": "skipped|importance 50 is below this platform's threshold (65)",
   "1103063903": "skipped|importance 45 is below this platform's threshold (65)",
-  "b16a2e73f3": "skipped|importance 55 is below this platform's threshold (65)"
+  "b16a2e73f3": "skipped|importance 55 is below this platform's threshold (65)",
+  "e5156f1497": "skipped|minor item (announcement) or low-quality source",
+  "91fd0d9dc8": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3076,6 +3078,20 @@
    "title": "CVSA Sets 2027 International Roadcheck Dates",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T19:51:26.491918+00:00",
+   "story_id": "e5156f1497",
+   "title": "J.J. Keller expert offers tips on how to avoid Thankasgiving cargo theft",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-11T19:51:26.491918+00:00",
+   "story_id": "91fd0d9dc8",
+   "title": "WATCH LIVE: Transportation Secretary Duffy hosts Veterans Day trucking industry event",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
