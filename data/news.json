@@ -1109,7 +1109,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.act-news.com/news/three-truck-platforms-five-trucks-one-lane-inside-kodiaks-launch-plan/",
   "source_note": "ok · 1021 words"
@@ -1377,7 +1377,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.issuewire.com/the-beginning-of-a-legacy-the-trucking-company-that-helps-drivers-across-america-build-their-own-legacy-1881526651495935",
+  "source_note": "ok · 574 words"
  },
  {
   "id": "458c1f0030",
@@ -8783,6 +8786,37 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "174c4f6e69",
+  "slug": "briefly-886-pounds-of-meth-found-in-truck-s-fuel-tank-at-border-174c4f6e69",
+  "title": "Briefly: 886 pounds of meth found in truck's fuel tank at border",
+  "orig_title": "Briefly: 886 pounds of meth found in truck's fuel tank at border",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "Truckers News",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQk9jWm9WVjFDMDdBejdObTctR01GckxoazljdUpJNkREMXBycXJFU05XZ0lyWXdTUUZSVG1haE1uOVRBNkxSMnA2SndRXzgtME5KVDE5RFB6OFVfUk1tc1Z0bDlkQjBZemZadmpRYVBCXzI5V0NtRHU5aU5sU3BrQlFyWWhLTGRxQlhvZHdPVDBVQ3EyeVE5TmZreDJoUU9rVVFHYzlVTFNqbkJhSmtORVoycw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQk9jWm9WVjFDMDdBejdObTctR01GckxoazljdUpJNkREMXBycXJFU05XZ0lyWXdTUUZSVG1haE1uOVRBNkxSMnA2SndRXzgtME5KVDE5RFB6OFVfUk1tc1Z0bDlkQjBZemZadmpRYVBCXzI5V0NtRHU5aU5sU3BrQlFyWWhLTGRxQlhvZHdPVDBVQ3EyeVE5TmZreDJoUU9rVVFHYzlVTFNqbkJhSmtORVoycw",
+  "snippet": "Briefly: 886 pounds of meth found in truck's fuel tank at border Truckers News",
+  "published": "2026-11-10T12:14:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T23:31:04.132781+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "b7de8ed881",
