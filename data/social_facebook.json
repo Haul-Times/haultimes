@@ -1556,7 +1556,8 @@
   "9a723d413d": "skipped|importance 55 is below this platform's threshold (65)",
   "6c591e95be": "skipped|importance 60 is below this platform's threshold (65)",
   "458c1f0030": "skipped|importance 50 is below this platform's threshold (65)",
-  "50032ebffb": "skipped|minor item (feature) or low-quality source"
+  "50032ebffb": "skipped|minor item (feature) or low-quality source",
+  "00f143f330": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2972,6 +2973,13 @@
    "title": "DAT helps fuel Wreaths Across America’s 2026 mission to honor veterans at more than 6,000 locations",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-11T16:11:23.679163+00:00",
+   "story_id": "00f143f330",
+   "title": "Van, reefer rates rebound, fuel prices fall to $6.13/gal average",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

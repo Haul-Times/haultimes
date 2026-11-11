@@ -1,5 +1,34 @@
 [
  {
+  "id": "6e454e4f57",
+  "slug": "us-postpones-million-dollar-china-ship-tax-until-january-6e454e4f57",
+  "title": "US postpones ‘million-dollar’ China ship tax until January",
+  "orig_title": "US postpones ‘million-dollar’ China ship tax until January",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHI4MWhmM29VTUhPRjFKMUl4RlFOWjQ5RFlLNVYtUnlQdjFlY0Y0dlZ1RzVqOVFXOU9PT1BoR0gzcHFfSlFLTC10OTB5ajdxQTNJZUFxWmRfME9fNXptSWNFd1poMEd3aGFGTzJIdUdtTURaN0JkMElRc0NVU0pIaW81Xy1SdG9CRmZZR3N6TzR5Y0Iy?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHI4MWhmM29VTUhPRjFKMUl4RlFOWjQ5RFlLNVYtUnlQdjFlY0Y0dlZ1RzVqOVFXOU9PT1BoR0gzcHFfSlFLTC10OTB5ajdxQTNJZUFxWmRfME9fNXptSWNFd1poMEd3aGFGTzJIdUdtTURaN0JkMElRc0NVU0pIaW81Xy1SdG9CRmZZR3N6TzR5Y0Iy",
+  "snippet": "US postpones ‘million-dollar’ China ship tax until January FreightWaves",
+  "published": "2026-11-11T16:02:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T16:11:06.625429+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6c591e95be",
   "slug": "young-truck-driver-s-canadian-dream-ends-in-tragedy-6c591e95be",
   "title": "Young truck driver’s Canadian dream ends in tragedy",
@@ -87,6 +116,33 @@
   "sum_pending": false
  },
  {
+  "id": "00f143f330",
+  "slug": "van-reefer-rates-rebound-fuel-prices-fall-to-6-13-gal-average-00f143f330",
+  "title": "Van, reefer rates rebound, fuel prices fall to $6.13/gal average",
+  "orig_title": "Van, reefer rates rebound, fuel prices fall to $6.13/gal average",
+  "summary": "",
+  "why": "",
+  "category": "fuel",
+  "region": "",
+  "importance": 50,
+  "source": "eTrucker",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORnRYdW12dEhUcjh3dVBMbmhXWV90NmplU1o1dHdTQXpQNEVhZVh3WlJyMWd0RG94MU5aU3l4WXBYZnA4RHZ2YkNBaUdCLVNoR2hUVUJJQl82ZDFjaWplVkViMURPNTlnMGdydksydUlmdFlPbFhzZ1VGenE5ZXhlZkoyMmI4UFNSWDdxTUJVMFpHd1Bha3lhWGx4VVltWWVlSURRU0hYQWFQbWF4c0FIMlZVc2dfZWNZ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORnRYdW12dEhUcjh3dVBMbmhXWV90NmplU1o1dHdTQXpQNEVhZVh3WlJyMWd0RG94MU5aU3l4WXBYZnA4RHZ2YkNBaUdCLVNoR2hUVUJJQl82ZDFjaWplVkViMURPNTlnMGdydksydUlmdFlPbFhzZ1VGenE5ZXhlZkoyMmI4UFNSWDdxTUJVMFpHd1Bha3lhWGx4VVltWWVlSURRU0hYQWFQbWF4c0FIMlZVc2dfZWNZ",
+  "snippet": "Van, reefer rates rebound, fuel prices fall to $6.13/gal average eTrucker",
+  "published": "2026-11-11T15:55:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T16:11:06.625429+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
+ },
+ {
   "id": "9a723d413d",
   "slug": "paper-transport-puts-rng-to-work-for-shipper-9a723d413d",
   "title": "Paper Transport Puts RNG to Work for Shipper",
@@ -112,9 +168,38 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/paper-transport-puts-rng-to-work-for-shipper",
   "source_note": "ok · 884 words"
+ },
+ {
+  "id": "208d6c2ed9",
+  "slug": "epic-cure-rescues-and-distributes-food-in-ne-florida-see-it-at-work-208d6c2ed9",
+  "title": "Epic-Cure rescues and distributes food in NE Florida. See it at work",
+  "orig_title": "Epic-Cure rescues and distributes food in NE Florida. See it at work",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "St. Augustine Record",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0ZtUFJNaGpoNlhsYmlOaG5OQ0doUmg2Yi02c3pRdTdiZUdKYnV3R2h3aFF2MGFJbWd6dzdISmNMSW54QXVRZTNDY28teGp6dnFEZ1E4dWtvRGZOaXczXy1NUTJYd1JYMWRLZ28zZ1BxY2daTFl6andUU1ZSYUlSakFEY0FaUGFySnI3WVFmZVlZUVhjTGpFN0wycTFZTnBiYVZjWFd2SnVIVFhJYWN2bklNOHhNcFRWUVlKX29ydEFrYmNDaXp6eUVuZzNqUkhESURsUTJCNHFpVU55MFVCb3A5YVJKQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0ZtUFJNaGpoNlhsYmlOaG5OQ0doUmg2Yi02c3pRdTdiZUdKYnV3R2h3aFF2MGFJbWd6dzdISmNMSW54QXVRZTNDY28teGp6dnFEZ1E4dWtvRGZOaXczXy1NUTJYd1JYMWRLZ28zZ1BxY2daTFl6andUU1ZSYUlSakFEY0FaUGFySnI3WVFmZVlZUVhjTGpFN0wycTFZTnBiYVZjWFd2SnVIVFhJYWN2bklNOHhNcFRWUVlKX29ydEFrYmNDaXp6eUVuZzNqUkhESURsUTJCNHFpVU55MFVCb3A5YVJKQQ",
+  "snippet": "Epic-Cure rescues and distributes food in NE Florida. See it at work St. Augustine Record",
+  "published": "2026-11-11T15:50:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T16:11:06.625429+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "358dd7c86a",
@@ -11654,7 +11739,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "3c3dcba25f",
