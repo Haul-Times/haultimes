@@ -1,5 +1,34 @@
 [
  {
+  "id": "98edde441d",
+  "slug": "federal-truck-crash-reviews-and-what-they-mean-for-fault-98edde441d",
+  "title": "Federal Truck Crash Reviews and What They Mean for Fault",
+  "orig_title": "Federal Truck Crash Reviews and What They Mean for Fault",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Legal Examiner",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGVHM19HMm14VXNnYWN4NktPNnZ0bEd1TzI0YlpabmQ2UU9SZ0FCVnZPTUFSOGF1X1VJNHljYWpXQmVEcWNlbmpsQVMtMEZWSGdHTGZkb0NJemJtcjFDV1hKUWpna1FLSVJEb1pJODRFUGpJUFZtUEN5NUpVRUFYT3pKaFppSklScW4wWkQzZlRsbXRubGo0bEVvYlBodVl5bmlSbDB1aUVOaTBCMDh6MGVJMHg3Rlh4czhDSmdteDI3dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGVHM19HMm14VXNnYWN4NktPNnZ0bEd1TzI0YlpabmQ2UU9SZ0FCVnZPTUFSOGF1X1VJNHljYWpXQmVEcWNlbmpsQVMtMEZWSGdHTGZkb0NJemJtcjFDV1hKUWpna1FLSVJEb1pJODRFUGpJUFZtUEN5NUpVRUFYT3pKaFppSklScW4wWkQzZlRsbXRubGo0bEVvYlBodVl5bmlSbDB1aUVOaTBCMDh6MGVJMHg3Rlh4czhDSmdteDI3dw",
+  "snippet": "Federal Truck Crash Reviews and What They Mean for Fault The Legal Examiner",
+  "published": "2026-11-11T18:31:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T18:41:04.451782+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9f8428397a",
   "slug": "three-truck-platforms-five-trucks-one-lane-inside-kodiak-s-launch-plan-9f8428397a",
   "title": "Three Truck Platforms, Five Trucks, One Lane: Inside Kodiak’s Launch Plan",
@@ -9722,7 +9751,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.thetrucker.com/trucking-news/the-nation/idaho-to-upgrade-commercial-truck-screening-systems-at-six-ports-of-entry",
   "source_note": "ok · 361 words"
  },
