@@ -703,6 +703,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "31dd0543a6",
+  "slug": "chile-trucker-protest-over-fuel-prices-threatens-agricultural-exports-31dd0543a6",
+  "title": "Chile Trucker Protest Over Fuel Prices Threatens Agricultural Exports",
+  "orig_title": "Chile Trucker Protest Over Fuel Prices Threatens Agricultural Exports",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWxUbjlXMXo4eUpnM2hhbkZtTldZbW5zLTBzYzdydmxsSXc0MXpjMTVZeUdPbHNScTkwWDR0czdMaWlDWWVLU1BpNVlnNEJRQXF6amNTR3hXOWV3WWw5UEJvQ0twOGJ3SUxidFI3VWZPQzdYRGozbXA4RlJyRFpvMS1DYlFXemVwWDBmeFo2WW82REdxU01ITmdOSHFxODFtaVkwbUZWdDR1NUJFNnh3Rw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWxUbjlXMXo4eUpnM2hhbkZtTldZbW5zLTBzYzdydmxsSXc0MXpjMTVZeUdPbHNScTkwWDR0czdMaWlDWWVLU1BpNVlnNEJRQXF6amNTR3hXOWV3WWw5UEJvQ0twOGJ3SUxidFI3VWZPQzdYRGozbXA4RlJyRFpvMS1DYlFXemVwWDBmeFo2WW82REdxU01ITmdOSHFxODFtaVkwbUZWdDR1NUJFNnh3Rw",
+  "snippet": "Chile Trucker Protest Over Fuel Prices Threatens Agricultural Exports Bloomberg.com",
+  "published": "2026-11-11T14:16:11+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T16:32:23.226338+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "1e8fb67eda",
   "slug": "god-sent-you-angels-sick-pregnant-woman-stranded-on-a-highway-at-night-1e8fb67eda",
   "title": "\"God Sent You Angels\": Sick Pregnant Woman Stranded on a Highway at Night Rescued by 2 Truck Drivers",
@@ -1262,7 +1291,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://mountaintimes.info/2026/11/11/soaring-diesel-prices-are-pushing-vermont-loggers-to-the-brink/",
   "source_note": "ok · 576 words"
  },
@@ -17031,29 +17060,6 @@
   "status": "rejected",
   "reasons": [
    "'truckload' used as an expression, not freight news"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "cefa1a7f46",
-  "slug": "truck-licence-claims-5-critical-checks-on-the-evidence-cefa1a7f46",
-  "title": "Truck licence claims: 5 critical checks on the evidence",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "NRI Affairs",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IdjVIVm04c01WTmNTQkJaMVkxclVfSjB6Q1NSdnduSnR1TE8yeG1nYzMtZlh2cXpQZEQ5SVdMV3JtbkJhTmpPclhLOTJnSmpJV3BZNkZFVVdRWjdiUlVHbHRoSWNwcXV0c0NGUnRTNl8?oc=5",
-  "published": "2026-11-07T16:31:35+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Truck licence claims: 5 critical checks on the evidence",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
   ],
   "labels": [],
   "kind": "rejected",
