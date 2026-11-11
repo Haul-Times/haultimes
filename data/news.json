@@ -1,5 +1,36 @@
 [
  {
+  "id": "61593c8ab0",
+  "slug": "spot-rates-surge-year-over-year-as-truck-capacity-tightens-61593c8ab0",
+  "title": "Spot rates surge year over year as truck capacity tightens",
+  "orig_title": "Spot rates surge year over year as truck capacity tightens",
+  "summary": "",
+  "why": "",
+  "category": "rates",
+  "region": "",
+  "importance": 87,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTIyb0dXRVR4SC14Q254X2tEajlSNzdrMUx0ZHpsNkpZNXVlLUZ2WENoRjVaWlFCUzVreWhFTkhMV2Jwc2d3ZXlzN2RkTjhERTZGaDdNbW1FV3NWSVNCQWEyT21zeDIwbGVuM0E3ZFkwMG5MU05OM0E3QmQwNUd3UWhjZmZTUmg0MHVmdGJaYlUySkQ5bXg3eGtjZFRlOFdmaHBGY29wckJmUHpjUkZPZHhhLW03WFk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTIyb0dXRVR4SC14Q254X2tEajlSNzdrMUx0ZHpsNkpZNXVlLUZ2WENoRjVaWlFCUzVreWhFTkhMV2Jwc2d3ZXlzN2RkTjhERTZGaDdNbW1FV3NWSVNCQWEyT21zeDIwbGVuM0E3ZFkwMG5MU05OM0E3QmQwNUd3UWhjZmZTUmg0MHVmdGJaYlUySkQ5bXg3eGtjZFRlOFdmaHBGY29wckJmUHpjUkZPZHhhLW03WFk",
+  "snippet": "Spot rates surge year over year as truck capacity tightens Truck News",
+  "published": "2026-11-11T13:44:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T13:51:04.239078+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "3357c4e9bc",
   "slug": "thomson-reuters-unveils-500-million-share-buyback-plan-3357c4e9bc",
   "title": "Thomson Reuters unveils $500-million share buyback plan",
@@ -2152,7 +2183,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "f50e988a21",
@@ -4528,7 +4563,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kion-stock-faces-weaker-truck-orders-as-outlook-stays-cut/70487505",
   "source_note": "ok · 257 words"
@@ -7618,7 +7653,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "51137ca31c",
@@ -11109,7 +11148,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://voiceofoc.org/2026/11/orange-residents-speak-out-against-24-7-trucking-facility-proposal/",
+  "source_note": "paywalled: excerpt only · 17 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "c79bd4e96d",
