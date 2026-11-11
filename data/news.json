@@ -795,7 +795,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://ccentral.ca/petro-canada-and-maverik-partner-expand-cross-border-fleet-fuelling",
   "source_note": "ok · 420 words"
  },
@@ -11643,7 +11643,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "becec7e237",
