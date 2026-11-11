@@ -449,6 +449,35 @@
   "sum_pending": false
  },
  {
+  "id": "392f34b94d",
+  "slug": "ottawa-to-reimpose-sanctions-on-iran-after-lifting-them-a-decade-prior-392f34b94d",
+  "title": "Ottawa to reimpose sanctions on Iran after lifting them a decade prior",
+  "orig_title": "Ottawa to reimpose sanctions on Iran after lifting them a decade prior",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjdUTGZRcDVQMFFsSk5MVFNTWkVlSnFSXzZjdDJicXhITjlPT1RTZU56QXd4UjBoTE1Eb1dkLTFnUHByQzhmOFVaRnR2MS1BTGdCWXVkdUJhZUkzNWFvNHFGbWVrODYzc0JxTmU1MHJ0RXQtNy0yMFBWOTViUVJUYVVtSmVsbm5IT3FyOFdKQWUxOGNjTEdLYWJzVGJPZ0J5cWJGYXV0LWNiV0dPYlV3UkZWbmpST0hFRWc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjdUTGZRcDVQMFFsSk5MVFNTWkVlSnFSXzZjdDJicXhITjlPT1RTZU56QXd4UjBoTE1Eb1dkLTFnUHByQzhmOFVaRnR2MS1BTGdCWXVkdUJhZUkzNWFvNHFGbWVrODYzc0JxTmU1MHJ0RXQtNy0yMFBWOTViUVJUYVVtSmVsbm5IT3FyOFdKQWUxOGNjTEdLYWJzVGJPZ0J5cWJGYXV0LWNiV0dPYlV3UkZWbmpST0hFRWc",
+  "snippet": "Ottawa to reimpose sanctions on Iran after lifting them a decade prior The Globe and Mail",
+  "published": "2026-11-10T21:00:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T04:11:04.745120+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8c735c702b",
   "slug": "arcbest-q3-profit-climbs-on-selective-freight-strategy-8c735c702b",
   "title": "ArcBest Q3 Profit Climbs On Selective Freight Strategy",
@@ -1412,7 +1441,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.ajot.com/news/traffix-data-spot-rates-hold-at-3.47-a-mile-but-peak-freight-is-meeting-tight-capacity",
   "source_note": "ok · 336 words"
  },
