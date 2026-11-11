@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:41:03.286069+00:00",
+ "updated": "2026-11-11T14:51:08.865729+00:00",
  "hour_now": 9,
  "have_us": true,
  "have_ca": true,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 9:17 am EST",
+    "updated": "At 9:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 4,
-    "status": "4 minutes",
-    "updated": "2026-11-11 09:20 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-11 09:40 EST"
    },
    "usual": {
     "south": [
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:17 am EST",
+    "updated": "At 9:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-11 09:20 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-11 09:40 EST"
    },
    "usual": {
     "south": [
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "09:29:10",
+    "updated": "09:44:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "09:29:11",
+    "updated": "09:44:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "09:29:10",
+    "updated": "09:44:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "07:29:11",
+    "updated": "07:44:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-11 07:20 PDT"
+    "updated": "2026-11-11 07:40 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-11 07:20 PDT"
+    "updated": "2026-11-11 07:40 PDT"
    },
    "usual": {
     "south": [
