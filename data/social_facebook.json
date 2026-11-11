@@ -1184,6 +1184,34 @@
     "created": "2026-11-11T14:01:29+0000",
     "at": "2026-11-11T14:05:04.707403+00:00"
    }
+  },
+  "373e6a0d4a": {
+   "story_id": "373e6a0d4a",
+   "title": "High Diesel Prices Put Fleet Efficiency Under the Microscope",
+   "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU8xVDktNmc2MUViWjFGaVZheXd3NlFhTHJWYkV0cUI2NmlxNnlXMTJDVzBVM1pMSWRiUHhtZkhNMnZIOGpVaEZIVDVNdE8zMVFZVWtVSGUyaU5Xa0JsMlROLV9mSmwyZDcwOXQ2VzlxRHAzQ2Z6aERhenNkRVd1ZV92VjFxX1dLZjN6QVNvYTdHWWpuWFI5eW93",
+   "category": "fuel",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/high-diesel-prices-put-fleet-efficiency-under-the-microscope-373e6a0d4a/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=373e6a0d4a",
+   "caption": "High Diesel Prices Put Fleet Efficiency Under the Microscope.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Diesel",
+   "status": "queued",
+   "created_at": "2026-11-11T14:11:22.544943+00:00",
+   "published": "2026-11-11T14:00:00+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "High Diesel Prices Put Fleet Efficiency Under the Microscope | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/7924b615b9.png",
+    "og:url": "https://haultimes.com/story/high-diesel-prices-put-fleet-efficiency-under-the-microscope-373e6a0d4a/"
+   },
+   "reason": "importance 67 (threshold 65), Fuel, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -1458,7 +1486,8 @@
   "dbb5626d02": "skipped|importance 55 is below this platform's threshold (65)",
   "61593c8ab0": "posted|breaking",
   "af3e08c4cd": "skipped|importance 61 is below this platform's threshold (65)",
-  "87cef39a7f": "skipped|importance 45 is below this platform's threshold (65)"
+  "87cef39a7f": "skipped|importance 45 is below this platform's threshold (65)",
+  "373e6a0d4a": "queued|importance 67 (threshold 65), Fuel, trade publication"
  },
  "decisions": [
   {
@@ -2762,6 +2791,13 @@
    "title": "The Dump Truckers: Behind the Tramily Name",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T14:11:22.544943+00:00",
+   "story_id": "373e6a0d4a",
+   "title": "High Diesel Prices Put Fleet Efficiency Under the Microscope",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Fuel, trade publication"
   }
  ],
  "visibility": {
