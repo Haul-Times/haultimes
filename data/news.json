@@ -121,6 +121,33 @@
   "sum_pending": false
  },
  {
+  "id": "44643ddb63",
+  "slug": "garland-18-wheeler-accident-lawyer-44643ddb63",
+  "title": "Garland 18-Wheeler Accident Lawyer",
+  "orig_title": "Garland 18-Wheeler Accident Lawyer",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 45,
+  "source": "The Wooley Law Firm",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZFBzazItdVM1QXV6N2NDdTFCZ2NsMnVIbV9ScFIxcUpWVnRxSUFYdXllVUVqNUdlMGE0Q3hQcGVOM2NZZ3h6SEowU2ZYNVhjSUd1WXpnemhmWFJuNU0wYmpreWxtQ1J6TEtZdzJyVlNMemFEYXZYUUM3UGNwM0VDYWp4eXYzUDd0dGFrVmxBNGF5WFk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZFBzazItdVM1QXV6N2NDdTFCZ2NsMnVIbV9ScFIxcUpWVnRxSUFYdXllVUVqNUdlMGE0Q3hQcGVOM2NZZ3h6SEowU2ZYNVhjSUd1WXpnemhmWFJuNU0wYmpreWxtQ1J6TEtZdzJyVlNMemFEYXZYUUM3UGNwM0VDYWp4eXYzUDd0dGFrVmxBNGF5WFk",
+  "snippet": "Garland 18-Wheeler Accident Lawyer The Wooley Law Firm",
+  "published": "2026-11-11T19:54:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T21:11:11.541263+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
+ },
+ {
   "id": "f1d08f5102",
   "slug": "ai-equipment-theft-150m-stolen-in-2024-f1d08f5102",
   "title": "AI Equipment Theft: $150M Stolen in 2024",
@@ -566,7 +593,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://nilepost.co.ug/businesses/386618/truck-drivers-protest-as-cargo-clearance-delays-hit-mpondwe-border",
   "source_note": "ok · 634 words"
@@ -596,7 +623,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.act-news.com/news/three-truck-platforms-five-trucks-one-lane-inside-kodiaks-launch-plan/",
+  "source_note": "ok · 1021 words"
  },
  {
   "id": "3525c23e88",
@@ -4310,6 +4340,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "c7b5886eaf",
+  "slug": "forbes-road-tech-school-teachers-threaten-dec-1-strike-without-new-con-c7b5886eaf",
+  "title": "Forbes Road tech school teachers threaten Dec. 1 strike without new contract",
+  "orig_title": "Forbes Road tech school teachers threaten Dec. 1 strike without new contract",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "TribLIVE.com",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Wd2xISTZxWGh3U0wyLUExb1RVZ2JnYjltOEJaajI5cEN6RTNiRllaSTNmd2xkNHYzYW41Z0twbnBlUjI3RXhpRldYdmZhS05rNjZVMHdB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Wd2xISTZxWGh3U0wyLUExb1RVZ2JnYjltOEJaajI5cEN6RTNiRllaSTNmd2xkNHYzYW41Z0twbnBlUjI3RXhpRldYdmZhS05rNjZVMHdB",
+  "snippet": "Forbes Road tech school teachers threaten Dec. 1 strike without new contract TribLIVE.com",
+  "published": "2026-11-11T01:53:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T21:11:11.541263+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",

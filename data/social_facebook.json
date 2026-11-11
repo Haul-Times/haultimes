@@ -1573,7 +1573,8 @@
   "e5156f1497": "skipped|minor item (announcement) or low-quality source",
   "91fd0d9dc8": "skipped|importance 50 is below this platform's threshold (65)",
   "35dd63d16c": "skipped|importance 55 is below this platform's threshold (65)",
-  "319e4f0060": "skipped|importance 55 is below this platform's threshold (65)"
+  "319e4f0060": "skipped|importance 55 is below this platform's threshold (65)",
+  "44643ddb63": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3108,6 +3109,13 @@
    "title": "Truckers need every dollar. States just changed the rules",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T21:11:27.656259+00:00",
+   "story_id": "44643ddb63",
+   "title": "Garland 18-Wheeler Accident Lawyer",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
