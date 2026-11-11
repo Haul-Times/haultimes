@@ -1227,7 +1227,9 @@
   "8352a42eef": "skipped|importance 45 is below this platform's threshold (65)",
   "d839f6bd80": "skipped|importance 50 is below this platform's threshold (65)",
   "233acdc2b0": "skipped|importance 45 is below this platform's threshold (65)",
-  "fc1e6e4046": "skipped|minor item (news) or low-quality source"
+  "fc1e6e4046": "skipped|minor item (news) or low-quality source",
+  "742e6216bc": "skipped|importance 55 is below this platform's threshold (65)",
+  "f688f41b6a": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2370,6 +2372,20 @@
    "title": "Trucking Market: Why Is It Flat Despite 12.8% Rejection?",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-11T00:11:13.646815+00:00",
+   "story_id": "742e6216bc",
+   "title": "Holiday Freight Meets a Tight Trucking Market",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T00:11:13.646815+00:00",
+   "story_id": "f688f41b6a",
+   "title": "Trucking company owner charged in labor scheme involving unauthorized non-citizen drivers",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
