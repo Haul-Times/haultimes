@@ -329,6 +329,33 @@
   "sum_pending": false
  },
  {
+  "id": "e6c2eb5abf",
+  "slug": "lawsuit-targets-trucking-company-in-deadly-greenville-co-crash-e6c2eb5abf",
+  "title": "Lawsuit targets trucking company in deadly Greenville Co. crash",
+  "orig_title": "Lawsuit targets trucking company in deadly Greenville Co. crash",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 5,
+  "source": "Yahoo",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWtoMk1UTWJUTTdXcEZTUlYteHh0Nk9wc0FCX00zVHR1RG1PeF9VNW83eFdPaHhSckJ0bFlGaXQzTWlnSDVramp3czV2NGREaENDVzFFQTJPRC1Lb08zTXJNczF4WTlOQV90NTVTMEV6c1Z4VWZmQWxQU216cjBuTFlaUGxLT1gtUzVOaU92X3F0SWh1c09pQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWtoMk1UTWJUTTdXcEZTUlYteHh0Nk9wc0FCX00zVHR1RG1PeF9VNW83eFdPaHhSckJ0bFlGaXQzTWlnSDVramp3czV2NGREaENDVzFFQTJPRC1Lb08zTXJNczF4WTlOQV90NTVTMEV6c1Z4VWZmQWxQU216cjBuTFlaUGxLT1gtUzVOaU92X3F0SWh1c09pQQ",
+  "snippet": "Lawsuit targets trucking company in deadly Greenville Co. crash Yahoo",
+  "published": "2026-11-11T15:45:24+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T17:31:02.163197+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "incident",
+  "sum_pending": true
+ },
+ {
   "id": "41a44d7b89",
   "slug": "texas-trucking-co-owner-accused-of-using-unauthorized-non-citizen-truc-41a44d7b89",
   "title": "Texas trucking co. owner accused of using unauthorized non-citizen truck drivers to haul more than 1,000 domestic loads",
@@ -794,7 +821,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://ccentral.ca/petro-canada-and-maverik-partner-expand-cross-border-fleet-fuelling",
   "source_note": "ok · 420 words"
@@ -9236,7 +9263,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.truckinginfo.com/articles/does-modernizing-your-fleet-mean-replacing-your-tms",
+  "source_note": "ok · 2501 words"
  },
  {
   "id": "2e52a3b319",
@@ -11534,7 +11564,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "0cc68a5d0e",

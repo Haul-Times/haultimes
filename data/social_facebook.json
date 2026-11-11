@@ -1560,7 +1560,8 @@
   "00f143f330": "skipped|importance 50 is below this platform's threshold (65)",
   "d6d3ac5099": "skipped|importance 57 is below this platform's threshold (65)",
   "1e8fb67eda": "skipped|importance 45 is below this platform's threshold (65)",
-  "378d60a29c": "skipped|importance 57 is below this platform's threshold (65)"
+  "378d60a29c": "skipped|importance 57 is below this platform's threshold (65)",
+  "e6c2eb5abf": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -3004,6 +3005,13 @@
    "title": "Afram Plains Truck Drivers Appeal for Funds to Acquire New Ferry",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T17:31:18.500127+00:00",
+   "story_id": "e6c2eb5abf",
+   "title": "Lawsuit targets trucking company in deadly Greenville Co. crash",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
