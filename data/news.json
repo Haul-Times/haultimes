@@ -53,7 +53,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "7380656bf6",
@@ -80,7 +80,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "f7b36d4d3d",
@@ -107,7 +107,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "742e6216bc",
@@ -134,7 +134,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "ccd9006234",
@@ -190,7 +190,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "8352a42eef",
@@ -217,7 +217,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "19041fd78d",
@@ -302,7 +302,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "9b09ae420c",
@@ -329,7 +329,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "1d6b16d398",
@@ -356,7 +356,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "e9f617efe0",
@@ -441,7 +441,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "fcbb818ef0",
@@ -468,7 +468,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "603bae12fe",
@@ -495,7 +495,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "cd01d58c65",
@@ -551,7 +551,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "02eb18d7fd",
@@ -578,7 +578,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "f788ed9e88",
@@ -605,7 +605,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "1bd8a25f88",
@@ -748,7 +748,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "bb4e37791b",
@@ -862,7 +862,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "fc1e6e4046",
@@ -889,7 +889,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "d839f6bd80",
@@ -916,7 +916,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "4b917c17f1",
@@ -943,7 +943,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "5625967b56",
@@ -1115,7 +1115,7 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "ae3eea659d",
@@ -1200,7 +1200,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c272484a07",
@@ -1227,7 +1227,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "094bf8c5ce",
@@ -1364,7 +1364,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c2f3d704e3",
@@ -1391,7 +1391,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "4189f03da5",
@@ -1418,7 +1418,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "8b2c38e46d",
@@ -1445,7 +1445,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "fd5221d945",
@@ -1472,7 +1472,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "fbd702a75b",
@@ -1499,7 +1499,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "b743753e5c",
@@ -1581,7 +1581,7 @@
   "reasons": [],
   "labels": [],
   "kind": "disruption",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "6af1686cdb",
@@ -1637,7 +1637,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "8355182ee8",
@@ -1780,7 +1780,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "1aae7fdef8",
@@ -1807,7 +1807,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "280783f663",
@@ -1922,7 +1922,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "766ae4fb2e",
@@ -1949,7 +1949,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c8cd0f9d04",
@@ -2034,7 +2034,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "5553e2f561",
@@ -2090,7 +2090,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "3176cf5643",
@@ -2146,7 +2146,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "8fe1a28a86",
@@ -2173,7 +2173,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "3942921a18",
@@ -2202,7 +2202,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "89ca20ac5e",
@@ -2316,7 +2316,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "cf75ec0167",
@@ -2343,7 +2343,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c65fb3d290",
@@ -2485,7 +2485,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "02a8c38824",
@@ -2626,7 +2626,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "4686be3482",
@@ -2653,7 +2653,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "573d91d7eb",
@@ -2850,7 +2850,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "b7de8ed881",
@@ -2963,7 +2963,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c298f38497",
@@ -3015,7 +3015,7 @@
   "reasons": [],
   "labels": [],
   "kind": "event",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "a8e0d193f8",
@@ -3152,7 +3152,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "70b8c667b8",
@@ -3847,7 +3847,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "f636d43c1f",
@@ -3872,7 +3872,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "b7b8fb7da8",
@@ -3897,7 +3897,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "e4b131dc74",
@@ -3979,7 +3979,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "e462d0d40e",
@@ -4004,7 +4004,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "b0d2834bef",
@@ -4058,7 +4058,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "58925ac381",
@@ -4083,7 +4083,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "b6d7f09844",
@@ -4108,7 +4108,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "160209addc",
@@ -4160,7 +4160,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "2e52a3b319",
@@ -4212,7 +4212,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "d20abbe528",
@@ -4293,7 +4293,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "14cd98f02f",
@@ -4320,7 +4320,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "51137ca31c",
@@ -4401,7 +4401,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "9798f71b39",
@@ -4428,7 +4428,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "890b1308e1",
@@ -4480,7 +4480,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "fb14887a50",
@@ -4505,7 +4505,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "fff86dfb1c",
@@ -4530,7 +4530,7 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "07209e2b45",
@@ -4555,7 +4555,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "39c787ba37",
@@ -4665,7 +4665,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "1dc529255a",
@@ -4773,7 +4773,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "3ddcf6d675",
@@ -4932,7 +4932,7 @@
   "reasons": [],
   "labels": [],
   "kind": "feature",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "1b9eaa0792",
@@ -5033,7 +5033,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "7bdf0749e5",
@@ -5058,7 +5058,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "f81b2c4d43",
@@ -5085,7 +5085,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "a5d79c7378",
@@ -5139,7 +5139,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "534289d9e0",
@@ -5164,7 +5164,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "b98823d938",
@@ -5359,7 +5359,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "166b06a96f",
@@ -5575,7 +5575,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "cdc3c251fb",
@@ -5654,7 +5654,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c1b0dcb0b5",
@@ -5679,7 +5679,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "f22cb7ef8f",
@@ -5754,7 +5754,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "0a7a212dcd",
@@ -5779,7 +5779,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "480825101b",
@@ -5939,7 +5939,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "93de55188f",
@@ -5966,7 +5966,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "859dc4b947",
@@ -6099,7 +6099,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "d6d5fa686f",
@@ -6124,7 +6124,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "9c3fd6d54c",
@@ -6204,7 +6204,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "0cc68a5d0e",
@@ -6258,7 +6258,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "af6752d55c",
@@ -6310,7 +6310,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "becec7e237",
@@ -6391,7 +6391,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "1bfc38f0f3",
@@ -6418,7 +6418,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "1c67ca0104",
@@ -6526,7 +6526,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "33829c2510",
@@ -6632,7 +6632,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "e61b242e6f",
@@ -6659,7 +6659,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "3c3dcba25f",
@@ -6876,7 +6876,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "9295be5ff6",
@@ -6930,7 +6930,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "9f313ae4f7",
@@ -7037,7 +7037,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "b2f265a4ca",
@@ -7062,7 +7062,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "afe721ad08",
@@ -7188,7 +7188,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "2bb8b4c9da",
@@ -7294,7 +7294,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "34aa44588e",
@@ -7319,7 +7319,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "f24df3ce85",
@@ -7371,7 +7371,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "9b591a408d",
@@ -7423,7 +7423,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "9061dc93a4",
@@ -7475,7 +7475,22 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetequipmentmag.com/us-diesel-price-outlook-2027-fleets/",
+  "source_note": "ok · 625 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "6f22be4ead466232",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-11T02:16:55.470133+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [
+   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  ],
+  "ai_importance": 73
  },
  {
   "id": "13e318c450",
@@ -7529,7 +7544,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c79bd4e96d",
@@ -7585,7 +7600,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/safety/news/55417063/cargo-theft-losses-rise-39-as-fictitious-pickups-remain-a-threat-to-trucking",
+  "source_note": "ok · 434 words"
  },
  {
   "id": "5469b058bc",
@@ -7637,7 +7655,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c7612f9a64",
@@ -7689,7 +7707,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "d15adb25fe",
@@ -7824,7 +7842,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "f09c31e013",
@@ -7876,7 +7894,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c8dc5c87cb",
@@ -7901,7 +7919,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c217e43d6d",
@@ -7926,7 +7944,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "3b0436e4df",
@@ -7951,7 +7969,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "1f7f69eaa4",
@@ -7976,7 +7994,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "199d06650c",
@@ -8088,7 +8106,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "6178f00440",
@@ -8113,7 +8131,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "f295ec745c",
@@ -8138,7 +8156,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "e4b912a6ac",
@@ -8190,7 +8208,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "46e0cac928",
@@ -8395,7 +8413,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "c3587a91c0",
@@ -8420,7 +8438,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "bfde53aafc",
@@ -8447,7 +8465,7 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "d6a411b830",
@@ -8530,7 +8548,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "a64a20a29b",
@@ -8723,7 +8741,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": true
  },
  {
   "id": "94317a6854",

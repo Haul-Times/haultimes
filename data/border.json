@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:11:04.805172+00:00",
+ "updated": "2026-11-11T02:16:55.276154+00:00",
  "hour_now": 21,
  "have_us": true,
  "have_ca": true,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 9:00 pm EST",
+    "updated": "At 9:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -296,7 +296,7 @@
      8,
      15,
      25,
-     18,
+     19,
      null,
      null
     ]
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:00 pm EST",
+    "updated": "At 9:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -371,7 +371,7 @@
      10,
      9,
      31,
-     39,
+     40,
      null,
      null
     ]
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "21:06:02",
+    "updated": "21:16:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 19:58 CDT"
+    "updated": "2026-11-10 21:05 CDT"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "21:06:03",
+    "updated": "21:16:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1238,7 +1238,7 @@
      42,
      58,
      60,
-     29,
+     23,
      null,
      null
     ],
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "18:06:02",
+    "updated": "18:16:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1339,7 +1339,7 @@
      5,
      5,
      5,
-     6,
+     7,
      null,
      null
     ]
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "18:06:03",
+    "updated": "18:16:05",
     "hours": "24 hrs/day"
    },
    "north": {
