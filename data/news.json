@@ -1,5 +1,34 @@
 [
  {
+  "id": "9db73ad204",
+  "slug": "top-fleet-employer-bc-archives-9db73ad204",
+  "title": "Top Fleet Employer BC Archives",
+  "orig_title": "Top Fleet Employer BC Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHY0JHdHJkdUs2OUVxRWN4ODhNcXpPY1l3eDVERWxXeGpRNGRMWXRwNW91RWFoODV5NG5RNEwxMWlsVFBKS0ZTelVqMFlQTFdCbHUtX3RQcTR6S0JXVlZNb1BmQlFqdUE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHY0JHdHJkdUs2OUVxRWN4ODhNcXpPY1l3eDVERWxXeGpRNGRMWXRwNW91RWFoODV5NG5RNEwxMWlsVFBKS0ZTelVqMFlQTFdCbHUtX3RQcTR6S0JXVlZNb1BmQlFqdUE",
+  "snippet": "Top Fleet Employer BC Archives Truck News",
+  "published": "2026-11-11T06:57:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T07:01:03.165128+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8beeae62e9",
   "slug": "don-anderson-haulage-8beeae62e9",
   "title": "don anderson haulage",
@@ -564,7 +593,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/1-in-6-supply-chain-professionals-report-ai-related-data-exposure-survey-finds",
+  "source_note": "paywalled: excerpt only · 37 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "9b09ae420c",
@@ -1239,7 +1273,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/rising-q3-transportation-costs-squeeze-manufacturers-reward-railroads-and-reshape-trade",
+  "source_note": "paywalled: excerpt only · 14 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "5625967b56",
@@ -1729,7 +1768,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/port-of-long-beach-coalition-aims-for-electricity-to-power-35-of-shipping-by-2035",
+  "source_note": "paywalled: excerpt only · 19 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "4189f03da5",
@@ -2292,7 +2336,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "c8cd0f9d04",
@@ -7410,7 +7458,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/truck-driving-jobs-news/safety-concerns-fraud-or-misconduct-fmcsa-gives-truckers-more-ways-to-speak-up",
   "source_note": "ok · 546 words"
