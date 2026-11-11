@@ -84,7 +84,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.truckinginfo.com/news/bendix-upgrades-trailer-abs-with-smarter-diagnostics",
   "source_note": "ok · 805 words"
  },
@@ -11289,7 +11289,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "cdc3c251fb",
