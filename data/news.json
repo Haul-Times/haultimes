@@ -7446,7 +7446,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.ajot.com/news/traffix-november-nax-index-signals-easing-cross-border-freight-conditions-amid-peak-season-capacity-and-fuel-pressures",
   "source_note": "ok · 520 words"
  },
@@ -9099,7 +9099,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "94317a6854",
@@ -12550,29 +12550,6 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "9ea47cc0aa",
-  "slug": "cdl-truck-driving-job-near-glendale-az-truck-driver-cdl-class-a-penske-9ea47cc0aa",
-  "title": "CDL Truck Driving Job near Glendale, AZ | Truck Driver - CDL Class A - Penske Logistics",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "TheTrucker.com",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckF3RVh2Q3VBMng1cGVyXzB6Y3liSDhtMFZKOS1ranFyLWllWVpCQkFJb2NPa3JjbTN1TnNrMWp6XzloQnliMFhrc0Vpd3hBeGZZTzNNRWJ4czMwd0dwTUJiRXhaQmd5a28tSV9kWkpYODd2MVBqQU9adWRCYXhxV0dWOFNNMEdRaW85clZBdjR4SkY0cWZEYlJXcm1scVl0dFRvQ2lnOGsxU05iMVhhM19mU2h5b0l1aTliRVZUX0pBUQ?oc=5",
-  "published": "2026-11-07T04:52:22+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "CDL Truck Driving Job near Glendale, AZ | Truck Driver - CDL Class A - Penske Logistics",
-  "status": "rejected",
-  "reasons": [
-   "job listing / recruitment ad"
   ],
   "labels": [],
   "kind": "rejected",
