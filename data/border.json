@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T03:31:04.913233+00:00",
+ "updated": "2026-11-11T03:32:32.179955+00:00",
  "hour_now": 22,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:17 pm EST",
+    "updated": "At 10:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:17 pm EST",
+    "updated": "At 10:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -372,7 +372,7 @@
      9,
      31,
      49,
-     32,
+     34,
      null
     ]
    },
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "22:21:15",
+    "updated": "22:31:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 10:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "22:21:15",
+    "updated": "22:31:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1096,7 +1096,7 @@
      15,
      53,
      55,
-     47,
+     46,
      null
     ],
     "north": [
@@ -1239,7 +1239,7 @@
      58,
      60,
      7,
-     34,
+     37,
      null
     ],
     "north": [
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "19:21:15",
+    "updated": "19:31:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "19:21:15",
+    "updated": "19:31:17",
     "hours": "24 hrs/day"
    },
    "north": {

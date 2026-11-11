@@ -7851,7 +7851,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://eyeradio.org/truck-drivers-to-end-strike-after-govt-agrees-to-remove-roadblocks-improve-security/",
   "source_note": "ok · 285 words"
@@ -8327,7 +8327,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.freshfruitportal.com/news/2026/11/09/san-antonio-strike-end/",
+  "source_note": "ok · 439 words"
  },
  {
   "id": "f295ec745c",
