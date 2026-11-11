@@ -116,6 +116,35 @@
   "sum_pending": false
  },
  {
+  "id": "de962114dd",
+  "slug": "oil-up-1-after-iran-says-no-nuclear-material-will-leave-the-country-de962114dd",
+  "title": "Oil up 1% after Iran says no nuclear material will leave the country",
+  "orig_title": "Oil up 1% after Iran says no nuclear material will leave the country",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFpZMExCSVZXajFJR3BUTHJCVExaendocVhma0lHTlRxSmNqZXg1Y2FOVFViVkZXbGVzdmJ1cTRuVDJ6ZHNHRU11NHlnZXNLTTBUZEQtV3NFUGh1TmxZNUQwelJCYlRXdHFJRGVqbFZ4RVp2al9xSDc5c3AxVlp0QUlDa2dmTDAyU0hOeUlGMV84dS1OWEl4U3VfNkdEVHZnd2lrQjZuZjIxZ0ZHV3pVM1laU191UWxBakE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFpZMExCSVZXajFJR3BUTHJCVExaendocVhma0lHTlRxSmNqZXg1Y2FOVFViVkZXbGVzdmJ1cTRuVDJ6ZHNHRU11NHlnZXNLTTBUZEQtV3NFUGh1TmxZNUQwelJCYlRXdHFJRGVqbFZ4RVp2al9xSDc5c3AxVlp0QUlDa2dmTDAyU0hOeUlGMV84dS1OWEl4U3VfNkdEVHZnd2lrQjZuZjIxZ0ZHV3pVM1laU191UWxBakE",
+  "snippet": "Oil up 1% after Iran says no nuclear material will leave the country The Globe and Mail",
+  "published": "2026-11-11T09:58:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:21:02.751503+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "14ca08e3f7",
   "slug": "letters-to-the-editor-nov-11-canadians-are-becoming-complacent-because-14ca08e3f7",
   "title": "Letters to the editor, Nov. 11: ‘Canadians are becoming complacent because the messenger is Mark Carney … we’re practising blind faith’",
@@ -750,7 +779,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/holiday-freight-meets-a-tight-trucking-market",
   "source_note": "ok · 956 words"
@@ -1009,7 +1038,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "1d6b16d398",
@@ -1036,7 +1069,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "e9f617efe0",
@@ -1150,7 +1187,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "fcbb818ef0",
@@ -1177,7 +1218,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/inside-kuebix-ai-a-shipper-tms-rebuilt-around-executable-ai",
+  "source_note": "paywalled: excerpt only · 37 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "603bae12fe",
