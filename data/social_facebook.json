@@ -1193,14 +1193,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/high-diesel-prices-put-fleet-efficiency-under-the-microscope-373e6a0d4a/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=373e6a0d4a",
    "caption": "High Diesel Prices Put Fleet Efficiency Under the Microscope.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Diesel",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-11T14:11:22.544943+00:00",
    "published": "2026-11-11T14:00:00+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122101272999544428",
+   "posted_at": "2026-11-11T14:21:43.498413+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "High Diesel Prices Put Fleet Efficiency Under the Microscope | HaulTimes",
@@ -1211,7 +1211,9 @@
    "reason": "importance 67 (threshold 65), Fuel, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-11T14:21:43.498413+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122101272999544428"
   }
  },
  "paused": null,
@@ -1332,6 +1334,10 @@
   {
    "at": "2026-11-11T14:01:29.117685+00:00",
    "msg": "posted 61593c8ab0"
+  },
+  {
+   "at": "2026-11-11T14:21:43.498413+00:00",
+   "msg": "posted 373e6a0d4a"
   }
  ],
  "decided": {
@@ -1487,7 +1493,9 @@
   "61593c8ab0": "posted|breaking",
   "af3e08c4cd": "skipped|importance 61 is below this platform's threshold (65)",
   "87cef39a7f": "skipped|importance 45 is below this platform's threshold (65)",
-  "373e6a0d4a": "queued|importance 67 (threshold 65), Fuel, trade publication"
+  "373e6a0d4a": "posted|importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue",
+  "719364597d": "skipped|importance 55 is below this platform's threshold (65)",
+  "176ef31b00": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2798,6 +2806,27 @@
    "title": "High Diesel Prices Put Fleet Efficiency Under the Microscope",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Fuel, trade publication"
+  },
+  {
+   "at": "2026-11-11T14:21:43.498413+00:00",
+   "story_id": "719364597d",
+   "title": "Spot Truckload Rates Remain High Heading Into Peak Season",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T14:21:43.498413+00:00",
+   "story_id": "176ef31b00",
+   "title": "Trucking Technology Evolution: A Retrospective on Fleet Efficiency",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T14:21:43.498413+00:00",
+   "story_id": "373e6a0d4a",
+   "title": "High Diesel Prices Put Fleet Efficiency Under the Microscope",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
