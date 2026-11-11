@@ -1,5 +1,32 @@
 [
  {
+  "id": "358dd7c86a",
+  "slug": "j-j-keller-urges-motor-carriers-to-strengthen-cargo-security-ahead-of-358dd7c86a",
+  "title": "J. J. Keller urges motor carriers to strengthen cargo security ahead of Thanksgiving",
+  "orig_title": "J. J. Keller urges motor carriers to strengthen cargo security ahead of Thanksgiving",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "American Journal of Transportation",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclROT2xVVE5qN0pIcmltRmx2LUpkYkZzZjBsYjZpRUpmNkUwdVRsdTY3STc4dm9nc2tRMnpTZHVOSFBoWmdvZ2pVNVcwb2d6RTgyQlN2d2ZONGNDNHYtT2I4dzM0d3lmQXZnVGNDbGVJX3FUOHp0elQ4dE5FeWNta1Nad1JyY25xS3JMR29MYTlNSWhMYjExUERCYkc0T215enlKcERsUTBQSm8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclROT2xVVE5qN0pIcmltRmx2LUpkYkZzZjBsYjZpRUpmNkUwdVRsdTY3STc4dm9nc2tRMnpTZHVOSFBoWmdvZ2pVNVcwb2d6RTgyQlN2d2ZONGNDNHYtT2I4dzM0d3lmQXZnVGNDbGVJX3FUOHp0elQ4dE5FeWNta1Nad1JyY25xS3JMR29MYTlNSWhMYjExUERCYkc0T215enlKcERsUTBQSm8",
+  "snippet": "J. J. Keller urges motor carriers to strengthen cargo security ahead of Thanksgiving American Journal of Transportation",
+  "published": "2026-11-11T15:26:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:41:07.058209+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
+ },
+ {
   "id": "058aeb271b",
   "slug": "new-fuel-stop-aims-to-bring-truckers-oversized-loads-back-to-torringto-058aeb271b",
   "title": "New fuel stop aims to bring truckers, oversized loads back to Torrington",
@@ -25,6 +52,35 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true
+ },
+ {
+  "id": "7266267046",
+  "slug": "china-says-it-doesn-t-use-honey-traps-but-warns-citizens-against-seduc-7266267046",
+  "title": "China says it doesn’t use ‘honey traps’ – but warns citizens against seductive foreign spies",
+  "orig_title": "China says it doesn’t use ‘honey traps’ – but warns citizens against seductive foreign spies",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUktxa3ZUdmdfclpnV1FjRHJURXh6dms3aGt0a1ZYeFZENk1CblZ1ZE1jRTNMcjZIdjFmckZyT21pNEhOclFZNE1TdVI3aTRBUFlSTnZUbUQ5bkdnZnU4M3cwVVdma2VRLTM1c1Z6V1VyRzNfOWVESklXaUlyYXpJRHEzYlhUNmJxVHc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUktxa3ZUdmdfclpnV1FjRHJURXh6dms3aGt0a1ZYeFZENk1CblZ1ZE1jRTNMcjZIdjFmckZyT21pNEhOclFZNE1TdVI3aTRBUFlSTnZUbUQ5bkdnZnU4M3cwVVdma2VRLTM1c1Z6V1VyRzNfOWVESklXaUlyYXpJRHEzYlhUNmJxVHc",
+  "snippet": "China says it doesn’t use ‘honey traps’ – but warns citizens against seductive foreign spies The Globe and Mail",
+  "published": "2026-11-11T15:19:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:41:07.058209+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "131cd4219e",
@@ -349,7 +405,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://ccentral.ca/petro-canada-and-maverik-partner-expand-cross-border-fleet-fuelling",
+  "source_note": "ok · 420 words"
  },
  {
   "id": "719364597d",
@@ -6815,6 +6874,35 @@
   "sum_pending": false
  },
  {
+  "id": "a3718f3cea",
+  "slug": "glossy-and-safe-stallone-biopic-i-play-rocky-doesn-t-go-the-distance-a3718f3cea",
+  "title": "Glossy and safe Stallone biopic I Play Rocky doesn’t go the distance",
+  "orig_title": "Glossy and safe Stallone biopic I Play Rocky doesn’t go the distance",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzJRYjNaR3Z3YkdBMTNZSEdYUjhwLVA5YV9Nak52Y1ctNFVHTjQ3ZjZIeWQ5SFFGek5zZlE5M3RVdXR0WU1ZclhvQXk4RnVZeFYtTFJuaU05LW45UTVXQUh1QVNHRG4zX1VKNHFTQ05XRzBhZ3k2VEJOdDh1TDZYTGV5SHRfa3dJN29VaDhwZGkzWHFQU3l1c09oWTlvX3NFT1BiZDRDV2dIbGM1Q1lCUUxzNHBwQTZuV0I5VV9PYjdaWk0xVnF0ODAwUi1ZZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzJRYjNaR3Z3YkdBMTNZSEdYUjhwLVA5YV9Nak52Y1ctNFVHTjQ3ZjZIeWQ5SFFGek5zZlE5M3RVdXR0WU1ZclhvQXk4RnVZeFYtTFJuaU05LW45UTVXQUh1QVNHRG4zX1VKNHFTQ05XRzBhZ3k2VEJOdDh1TDZYTGV5SHRfa3dJN29VaDhwZGkzWHFQU3l1c09oWTlvX3NFT1BiZDRDV2dIbGM1Q1lCUUxzNHBwQTZuV0I5VV9PYjdaWk0xVnF0ODAwUi1ZZw",
+  "snippet": "Glossy and safe Stallone biopic I Play Rocky doesn’t go the distance The Globe and Mail",
+  "published": "2026-11-10T11:45:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:41:07.058209+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a8e0d193f8",
   "slug": "iveco-group-at-fenatran-2026-showcasing-products-technology-and-servic-a8e0d193f8",
   "title": "Iveco Group at Fenatran 2026: showcasing products, technology and services in Latin America",
@@ -8047,7 +8135,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/small-oversights-big-consequences-managing-risk-in-trucking",
   "source_note": "ok · 1353 words"
@@ -8381,6 +8469,35 @@
   "first_seen": "2026-11-10T13:49:47.595299+00:00",
   "image": "",
   "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "d211f23281",
+  "slug": "opinion-nvidia-s-board-signals-jensen-huang-is-too-big-to-fire-d211f23281",
+  "title": "Opinion: Nvidia’s board signals Jensen Huang is too big to fire",
+  "orig_title": "Opinion: Nvidia’s board signals Jensen Huang is too big to fire",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUxXZ1hVQlNPcGh4Q20xTmI4cjNBSjI4amh2NG5JclppLWsxdy1ZbEtHTmxCRW9iX1pCNllnbXh2c0puTU9iaEZ2eTk4Y1RrZ1I3dThkY0VtNDhjLURiamhNY2xLQlE0bVN5NjdiZlBybGVRMngzRFJZOXY2VGNneWtYbERXUkNWUmN3NUVmSEYzczl2TnktMXNLeVJiazc2dnFmemhGWjdCbXI2V0pNZ0NjNkw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUxXZ1hVQlNPcGh4Q20xTmI4cjNBSjI4amh2NG5JclppLWsxdy1ZbEtHTmxCRW9iX1pCNllnbXh2c0puTU9iaEZ2eTk4Y1RrZ1I3dThkY0VtNDhjLURiamhNY2xLQlE0bVN5NjdiZlBybGVRMngzRFJZOXY2VGNneWtYbERXUkNWUmN3NUVmSEYzczl2TnktMXNLeVJiazc2dnFmemhGWjdCbXI2V0pNZ0NjNkw",
+  "snippet": "Opinion: Nvidia’s board signals Jensen Huang is too big to fire The Globe and Mail",
+  "published": "2026-11-09T23:06:46+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:41:07.058209+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
@@ -16498,29 +16615,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
- },
- {
-  "id": "ce5cee2a43",
-  "slug": "freight-rates-scale-new-highs-despite-west-asia-lull-ce5cee2a43",
-  "title": "Freight rates scale new highs despite West Asia lull",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Financial Express",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWJqU2VIU2gtdE51SHJraENZSGVySU92YzZsMkFJVWJVYnYzQlllQ2NOSDFnNW9Id3NXZHdMM2JsOWVVSW9DUks3V1lpMjEwaEdFaW5IWkVmalJ4VU1KYlBhMVZLR2dobV9WeWdGWjlYSXEtRW90alF2cUdVSGdqbzcyeE9VdGlDRTYwUkVNVHZud0QycHRza3dlR2tJZ2FYWm93VWNiOFUydFXSAbIBQVVfeXFMUENVelFqVF9QcGtJbHJKSG9nNldjR1NxUURTd2pVdXNKT1FuejFJUWlybW1XUWFTdjZVa0FVLTl2V3RBdnBaazc0MW5iLVMyb3pmTG1yTmh3WkRiZmUwZHdKUGo5X3hrclVuQ0Y0ajAzUDQ3MmdKU0V1bmlwUDFVNmNuVXdJVG9rOUxBelR3R3BpTzNDMHlVbW1XXzlfekNvZDJfLWpXX2EzNlFtWkU5dHdpQQ?oc=5",
-  "published": "2026-11-07T15:39:38+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Freight rates scale new highs despite West Asia lull",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {

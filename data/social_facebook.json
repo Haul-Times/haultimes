@@ -1551,7 +1551,8 @@
   "dce8683f46": "skipped|importance 55 is below this platform's threshold (65)",
   "131cd4219e": "skipped|importance 55 is below this platform's threshold (65)",
   "63ac6a45f0": "skipped|importance 50 is below this platform's threshold (65)",
-  "058aeb271b": "skipped|importance 45 is below this platform's threshold (65)"
+  "058aeb271b": "skipped|importance 45 is below this platform's threshold (65)",
+  "358dd7c86a": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2932,6 +2933,13 @@
    "title": "New fuel stop aims to bring truckers, oversized loads back to Torrington",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T15:41:36.537196+00:00",
+   "story_id": "358dd7c86a",
+   "title": "J. J. Keller urges motor carriers to strengthen cargo security ahead of Thanksgiving",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
