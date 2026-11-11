@@ -556,3 +556,6 @@ table.mk-tight .src-in { font-size: 12px; color: var(--faint); }
 .mh-status { right: 16px; max-width: 270px; }
 @media (max-width: 1000px) { .mh-status { right: auto; } }
 .more-btn { display: block; width: 100%; margin: 18px 0 8px; justify-content: center; }
+
+/* Anything marked hidden stays hidden, whatever layout rule it has (topic filters, Show more) */
+[hidden] { display: none !important; }
