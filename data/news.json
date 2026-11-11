@@ -7852,7 +7852,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://eyeradio.org/truck-drivers-to-end-strike-after-govt-agrees-to-remove-roadblocks-improve-security/",
   "source_note": "ok · 285 words"
  },
@@ -12459,29 +12459,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "0c4a8fe0cc",
-  "slug": "ocean-freight-rates-will-come-down-eventually-we-have-seen-this-before-0c4a8fe0cc",
-  "title": "‘Ocean freight rates will come down eventually, we have seen this before’: DP World COO",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "ET Infra",
-  "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRTVsNGFnajM0N3ZyY19FVUdZc0w0dlUySVN3MjVXNHJvNHBXX2k1eWx3ZkFsRTNCdGc5NF9NaVJPY21PY2FHa3ptX1F0OUhtMk5RRXlSVUpvbFNkRGJ0N2VRT0I1Q0txUTlnOVZWY2pSb29FR0NFWFVqLXBhSmptbEdmcF9tOUNXNG1fQkhDM0ZVNXIzQUlGYlY0OVdsQVhKNlU5aHlvUTZkWWUwR3hTTlBYMzJkSS1FMlhBTW9RMmxFb0lidWdYN3JCYjNUaUlkQnBXT3poV21iMXJyYUl6UTF5ajN6NlNQbkYzc05naXZpc0Y3SzYtRFVxTjZlaEE5cE1KSENWUUF3dVkzdW9TVXNOUURQb05lUER5M3BpX2pySUZzd1FHYdIB8AFBVV95cUxNZ1U4cTFsYTVTVk5wbU90LVdWT0pHcWFZZ190MHFpQklscWg1OTIzS2FLRGhwSk1tU0l5VzF0a2oyZ0M0dmhxYlB5OXp5T3V0NGZJclNSMEFIdHFBYXYtYWdPT1dPcnFUUWpidnVWWDF6Ty1PY25pY1JlR1NuSVZaRk9maVVnd0std2tPZmh0cFFWTHdsU1Q1VGNKQlJ4bFU0YUQwNDFQZWZ3MDFreGdEY3h1V2NCbXdGUlFsU1UtdjlBUkFZX3dHTFJNUEQzZTVPbFZmdWJyQXlaUDVJeHRkX1hRaGpaendqYWpKbmNVTXk?oc=5",
-  "published": "2026-11-07T03:26:45+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "‘Ocean freight rates will come down eventually, we have seen this before’: DP World COO",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
   ],
   "labels": [],
   "kind": "rejected",
