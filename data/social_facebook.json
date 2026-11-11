@@ -1565,7 +1565,10 @@
   "9f8428397a": "skipped|importance 45 is below this platform's threshold (65)",
   "3525c23e88": "merged|same event already posted",
   "35b306dc98": "skipped|importance 45 is below this platform's threshold (65)",
-  "0ee4ca60b5": "skipped|importance 55 is below this platform's threshold (65)"
+  "0ee4ca60b5": "skipped|importance 55 is below this platform's threshold (65)",
+  "a815170107": "skipped|importance 55 is below this platform's threshold (65)",
+  "bdd11a4b84": "skipped|importance 50 is below this platform's threshold (65)",
+  "1103063903": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3044,6 +3047,27 @@
    "title": "Paul Brookhart's horse-transport 2000 Peterbilt 379's big strides",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T19:11:24.091844+00:00",
+   "story_id": "a815170107",
+   "title": "Bendix Upgrades Trailer ABS With Smarter Diagnostics",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T19:11:24.091844+00:00",
+   "story_id": "bdd11a4b84",
+   "title": "Big Oil Has More to Fear From Truckers Than EVs",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T19:11:24.091844+00:00",
+   "story_id": "1103063903",
+   "title": "Truck Drivers Protest as Cargo Clearance Delays Hit Mpondwe Border",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
