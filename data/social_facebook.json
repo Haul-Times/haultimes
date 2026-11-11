@@ -1108,6 +1108,34 @@
     "created": "2026-11-11T12:41:24+0000",
     "at": "2026-11-11T12:51:07.813985+00:00"
    }
+  },
+  "30c68c46d6": {
+   "story_id": "30c68c46d6",
+   "title": "Inszone acquires Pennsylvania insurance brokerage specializing in trucking",
+   "url_key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjhSbHJTcHJQMUFaN0JtNkVYTFIzZ21XdnhJTUFVcGY1cFIxM29GLWZLZGhpbS1xcDZ4RmRnZENZMEFzczBCY3IxOXNValB2UTJxdE15WElXMTVUd29kTXNRTkg0RUxvVUROUU50cm5pZGlvM1F0V3JZRUcwMFFyV0dqUm1IbDYyZ1QxWVRMazJFTUtXZHhYVUVMeWxjVm50aWxZazZQYnU1OU9JZy16YWppVXFuVXlyM0tRTlVFdUlKWVJ0",
+   "category": "other",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/inszone-acquires-pennsylvania-insurance-brokerage-specializing-in-truc-30c68c46d6/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=30c68c46d6",
+   "caption": "Inszone acquires Pennsylvania insurance brokerage specializing in trucking.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-11T13:31:26.374948+00:00",
+   "published": "2026-11-11T13:23:42+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Inszone acquires Pennsylvania insurance brokerage specializing in trucking | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/91e0eb3e94.png",
+    "og:url": "https://haultimes.com/story/inszone-acquires-pennsylvania-insurance-brokerage-specializing-in-truc-30c68c46d6/"
+   },
+   "reason": "importance 67 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -1369,7 +1397,9 @@
   "3ca753f2e7": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 30 min in queue",
   "860f89bba0": "skipped|minor item (news) or low-quality source",
   "96de9df821": "skipped|importance 55 is below this platform's threshold (65)",
-  "5a74479769": "skipped|importance 56 is below this platform's threshold (65)"
+  "5a74479769": "skipped|importance 56 is below this platform's threshold (65)",
+  "30c68c46d6": "queued|importance 67 (threshold 65), Industry, trade publication",
+  "dbb5626d02": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2624,6 +2654,20 @@
    "title": "Astic assures that 99% of its carriers continues working and only detects occasional delays",
    "action": "skipped",
    "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T13:31:26.374948+00:00",
+   "story_id": "30c68c46d6",
+   "title": "Inszone acquires Pennsylvania insurance brokerage specializing in trucking",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-11T13:31:26.374948+00:00",
+   "story_id": "dbb5626d02",
+   "title": "Certarus expands into California with new CNG hub, fleet fueling agreement",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
