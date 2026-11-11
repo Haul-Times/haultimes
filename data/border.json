@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:20:45.159134+00:00",
+ "updated": "2026-11-11T02:24:06.223482+00:00",
  "hour_now": 21,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 9:07 pm EST",
+    "status": "no delay",
+    "updated": "At 9:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -270,7 +270,7 @@
      0,
      0,
      9,
-     12,
+     10,
      null,
      null
     ],
@@ -296,7 +296,7 @@
      8,
      15,
      25,
-     19,
+     20,
      null,
      null
     ]
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:07 pm EST",
+    "updated": "At 9:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -371,7 +371,7 @@
      10,
      9,
      31,
-     41,
+     42,
      null,
      null
     ]
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "21:16:05",
+    "updated": "21:21:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "21:16:05",
+    "updated": "21:21:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1238,7 +1238,7 @@
      42,
      58,
      60,
-     16,
+     14,
      null,
      null
     ],
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "18:16:05",
+    "updated": "18:21:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "18:16:05",
+    "updated": "18:21:07",
     "hours": "24 hrs/day"
    },
    "north": {
