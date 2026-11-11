@@ -1255,8 +1255,8 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 3,
-  "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiZ0F, 400000 bytes)",
+  "sum_tries": 0,
+  "source_note": "retry after read-limit fix",
   "sum_done": true,
   "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiZ0F, 400000 bytes))"
  },
@@ -1506,8 +1506,8 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 3,
-  "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiqAF, 400000 bytes)",
+  "sum_tries": 0,
+  "source_note": "retry after read-limit fix",
   "sum_done": true,
   "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiqAF, 400000 bytes))"
  },
@@ -2633,7 +2633,22 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/news/news/55417528/fmcsa-updates-complaint-center-for-reporting-trucking-safety-and-compliance-violations",
+  "source_note": "ok",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "43438d5216dbe9ff",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-11T02:03:26.935343+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [
+   "source did not support a summary"
+  ],
+  "ai_importance": 73
  },
  {
   "id": "d856c3453a",
@@ -3154,7 +3169,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "5e1a33f0b1",
@@ -4744,8 +4763,8 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 3,
-  "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiqwF, 400000 bytes)",
+  "sum_tries": 0,
+  "source_note": "retry after read-limit fix",
   "sum_done": true,
   "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiqwF, 400000 bytes))"
  },
@@ -4853,8 +4872,8 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 3,
-  "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiowF, 400000 bytes)",
+  "sum_tries": 0,
+  "source_note": "retry after read-limit fix",
   "sum_done": true,
   "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiowF, 400000 bytes))"
  },
@@ -6937,7 +6956,22 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
+  "source_note": "excerpt only",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "314922db79beac86",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-11T02:03:26.935343+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [
+   "source did not support a summary"
+  ],
+  "ai_importance": 78
  },
  {
   "id": "37dff601e2",
@@ -8166,7 +8200,7 @@
   "summary": "",
   "why": "",
   "category": "fuel",
-  "region": "",
+  "region": "US",
   "importance": 77,
   "source": "Pittsburgh Post-Gazette",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUJMUlRjaEJOY05FN05nTlFtWnVkcU1lN2YtVTJsSFMta3VPSW9nWlY2ZndiYXdOQ0E2VEJYWnJ4cmxfZy1rdVBvMURqdU1kRTZUVmJ3cVI2UXZmS2EyVzl1NDJWSlRYeE5NT0lMT2JHenZoWXVMV3k1d3hjWWZGeGNXTE95VDNQT1R2N2lXeEhUXzgybExHWjkxZnFvaTRfdE96ZEJobWZEdHBGd21qTU1FZmVMcm4yNFpvZm12bUl6Y3lu?oc=5",
@@ -8181,7 +8215,23 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.post-gazette.com/business/career-workplace/2026/11/09/diesel-prices-truckers-costs-breezewood/stories/202610310054",
+  "source_note": "paywalled: excerpt only",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "d0ef31ed2e2ac8b5",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-11T02:03:26.935343+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [
+   "source did not support a summary"
+  ],
+  "ai_category": "fuel",
+  "ai_importance": 55
  },
  {
   "id": "3cb951688a",
