@@ -85,7 +85,7 @@
   "pause_summaries": false,
   "pause_new_stories": false,
   "ai_per_run": 4,
-  "ai_daily_usd": 0.16,
+  "ai_daily_usd": 0.30,
   "ai_monthly_usd": 4.75,
   "ai_usd_per_mtok_in": 1.0,
   "ai_usd_per_mtok_out": 5.0,
