@@ -2678,11 +2678,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false,
+  "sum_pending": true,
   "sum_tries": 1,
   "pub_url": "https://www.fleetowner.com/news/news/55417528/fmcsa-updates-complaint-center-for-reporting-trucking-safety-and-compliance-violations",
   "source_note": "ok · 263 words",
-  "sum_done": true,
+  "sum_done": false,
   "sum_status": "withheld",
   "source_fp": "43438d5216dbe9ff",
   "source_scope": "full_article",
@@ -2713,7 +2713,8 @@
   ],
   "ai_importance": 55,
   "sum_v2": true,
-  "ai_category": "regs"
+  "ai_category": "regs",
+  "sum_v3": true
  },
  {
   "id": "d856c3453a",
@@ -5704,11 +5705,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
+  "sum_pending": true,
+  "sum_tries": 0,
   "pub_url": "https://www.freightwaves.com/news/freight-demand-jumps-5-as-spot-rates-climb",
   "source_note": "paywalled: excerpt only · 27 words",
-  "sum_done": true,
+  "sum_done": false,
   "sum_status": "withheld",
   "source_fp": "28ea2e4a5b0bc168",
   "source_scope": "excerpt",
@@ -5729,7 +5730,8 @@
    "name 'FreightWaves' is not in the source"
   ],
   "ai_category": "rates",
-  "ai_importance": 60
+  "ai_importance": 60,
+  "sum_v3": true
  },
  {
   "id": "598d07d769",
@@ -7092,7 +7094,7 @@
   "pub_url": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
   "source_note": "excerpt only · 21 words",
   "sum_done": true,
-  "sum_status": "withheld",
+  "sum_status": "excerpt too short to summarize",
   "source_fp": "314922db79beac86",
   "source_scope": "excerpt",
   "sum_at": "2026-11-11T02:11:04.942124+00:00",
@@ -7109,7 +7111,8 @@
   ],
   "ai_importance": 45,
   "sum_v2": true,
-  "ai_category": "border"
+  "ai_category": "border",
+  "sum_v3": true
  },
  {
   "id": "37dff601e2",
