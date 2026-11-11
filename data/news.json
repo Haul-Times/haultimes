@@ -201,6 +201,35 @@
   "sum_pending": true
  },
  {
+  "id": "f50e988a21",
+  "slug": "b-c-storm-delays-search-for-missing-canoeist-f50e988a21",
+  "title": "B.C. storm delays search for missing canoeist",
+  "orig_title": "B.C. storm delays search for missing canoeist",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFlMVURXblV1eHFSYjF6QV9lNXEwbHFORFoxU1U2MklrRkc2SDVveWtIaTNWeEs0aVZ4TERkRm9pOEVGQnBsYWlnT0NZRTVGMExLYlg3akh5d2hVT2pvZkE4a2J6OENvaTVfY3gtTVNNNVJTNDkyY1ZVRDBjN01XTkhDM1ZUc0dv?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFlMVURXblV1eHFSYjF6QV9lNXEwbHFORFoxU1U2MklrRkc2SDVveWtIaTNWeEs0aVZ4TERkRm9pOEVGQnBsYWlnT0NZRTVGMExLYlg3akh5d2hVT2pvZkE4a2J6OENvaTVfY3gtTVNNNVJTNDkyY1ZVRDBjN01XTkhDM1ZUc0dv",
+  "snippet": "B.C. storm delays search for missing canoeist The Globe and Mail",
+  "published": "2026-11-11T01:42:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T05:51:15.082447+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "7380656bf6",
   "slug": "certified-freight-pricing-analyst-7380656bf6",
   "title": "Certified Freight Pricing Analyst",
@@ -5352,7 +5381,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/beyond-compliance-trucking-fleets-put-fmcsa-safety-priorities-into-practice",
   "source_note": "ok · 1205 words"
  },
