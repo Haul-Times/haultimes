@@ -188,7 +188,7 @@ class Budget:
         return round(self.u["days"][self.day]["usd"], 4), round(self.u["months"][self.month]["usd"], 4)
 
 
-def ask(client, model, cats, item, source, scope, fix=None, max_out=900):
+def ask(client, model, cats, item, source, scope, fix=None, max_out=2000):
     user = "Headline: %s\nPublisher: %s\nSource scope: %s\n<source>\n%s\n</source>\n" % (
         item["headline"], item["source"], scope, source[:12000])
     if fix:
@@ -198,7 +198,12 @@ def ask(client, model, cats, item, source, scope, fix=None, max_out=900):
                                  messages=[{"role": "user", "content": user + "\nReturn the JSON."}])
     text = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
     m = re.search(r"\{.*\}", text, re.S)
-    data = json.loads(m.group(0)) if m else {}
+    try:
+        data = json.loads(m.group(0)) if m else None
+    except ValueError:
+        data = None
+    if data is None:  # cut off or not JSON: report it as such, never as "source did not support a summary"
+        data = {"_unreadable": (getattr(msg, "stop_reason", "") or "") + ": " + text[:200]}
     u = getattr(msg, "usage", None)
     return data, (getattr(u, "input_tokens", 0) or 0), (getattr(u, "output_tokens", 0) or 0)
 
@@ -208,7 +213,7 @@ def summarize_story(client, model, cats, s, source, scope, budget):
     item = {"headline": s["orig_title"], "source": s["source"]}
     fix, data = None, {}
     for attempt in (1, 2):
-        if not budget.reserve(len(source[:12000]) / 3.2 + 900, 900):
+        if not budget.reserve(len(source[:12000]) / 3.2 + 900, 2000):
             return "limit", {}
         try:
             data, tin, tout = ask(client, model, cats, item, source, scope, fix)
@@ -216,6 +221,9 @@ def summarize_story(client, model, cats, s, source, scope, budget):
         except Exception:
             budget.release()
             raise
+        if data.get("_unreadable"):
+            fix = ["your answer could not be read as complete JSON (%s); answer with the JSON object only, keep evidence quotes short" % data["_unreadable"][:60]]
+            continue
         if data.get("relevant") is False:
             return "irrelevant", data
         summ = (data.get("summary_text") or "").strip()

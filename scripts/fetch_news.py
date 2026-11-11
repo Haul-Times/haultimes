@@ -260,8 +260,8 @@ def main():
         for s in all_stories:  # earlier link-lookup failures get another chance
             if (s.get("sum_status") or "").startswith("no source text (no publisher address") and s.get("sum_tries", 0) < 3:
                 s["sum_done"] = False
-            if "400000 bytes" in (s.get("source_note") or ""):  # failed only because of the old read limit
-                s["sum_tries"], s["source_note"] = 0, "retry after read-limit fix"
+            if "400000 bytes" in (s.get("source_note") or "") or (s.get("sum_status") == "withheld" and "source did not support" in str(s.get("sum_problems")) and not s.get("sum_v2")):  # failed only because of the old read limit
+                s["sum_tries"], s["source_note"], s["sum_done"], s["sum_v2"] = 0, "retry after fixes", False, True
         todo = [s for s in all_stories if s["status"] == "ok" and not s.get("sum_done") and s.get("sum_tries", 0) < 3
                 and not s.get("manual_summary") and datetime.fromisoformat(s["published"]) >= two_days]
         todo.sort(key=lambda s: s["importance"], reverse=True)
@@ -278,7 +278,7 @@ def main():
                 continue
             if pub_url:
                 s["pub_url"] = pub_url
-            s["source_note"] = note
+            s["source_note"] = note + (" · %d words" % len(text.split()) if text else "")
             if not text:
                 if note.startswith("no publisher address") and s["sum_tries"] < 3:
                     s["sum_status"] = "retrying (%s)" % note  # link lookup may work on a later run
@@ -288,7 +288,7 @@ def main():
                 no_text += 1
                 continue
             fp = summarize.fingerprint(text)
-            if fp == s.get("source_fp") and s.get("sum_status"):
+            if fp == s.get("source_fp") and s.get("sum_status") in ("published", "review"):
                 s["sum_done"] = True
                 continue
             try:
