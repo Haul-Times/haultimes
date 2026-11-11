@@ -174,6 +174,37 @@
   "sum_pending": false
  },
  {
+  "id": "e00cf96993",
+  "slug": "brake-safety-week-2-300-trucks-put-out-of-service-e00cf96993",
+  "title": "Brake Safety Week: 2,300 trucks put out-of-service",
+  "orig_title": "Brake Safety Week: 2,300 trucks put out-of-service",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 75,
+  "source": "Commercial Carrier Journal",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEp2dHFYVG5LNjV4QU9MNkhWNTFxOXR4bFc5R285VGtMRTc0MlR5eENoVGVwVjJPdEtITkNoRmtKakpLdUhUSnVuM0tEY3Z4Q3k2MHVLVlpMNDc5VUFMN044ODNnVk9RRzNKZGtWbk1jSTR6Z21adzMzVnlBZmxEZHRkOUxYTDBXOTB3OC1JdGNDdWVMTThFRWgwSGxfR2dZSzlDNw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEp2dHFYVG5LNjV4QU9MNkhWNTFxOXR4bFc5R285VGtMRTc0MlR5eENoVGVwVjJPdEtITkNoRmtKakpLdUhUSnVuM0tEY3Z4Q3k2MHVLVlpMNDc5VUFMN044ODNnVk9RRzNKZGtWbk1jSTR6Z21adzMzVnlBZmxEZHRkOUxYTDBXOTB3OC1JdGNDdWVMTThFRWgwSGxfR2dZSzlDNw",
+  "snippet": "Brake Safety Week: 2,300 trucks put out-of-service Commercial Carrier Journal",
+  "published": "2026-11-11T09:35:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:50:28.211747+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "14ca08e3f7",
   "slug": "letters-to-the-editor-nov-11-canadians-are-becoming-complacent-because-14ca08e3f7",
   "title": "Letters to the editor, Nov. 11: ‘Canadians are becoming complacent because the messenger is Mark Carney … we’re practising blind faith’",
@@ -3231,6 +3262,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "0b29a1b08e",
+  "slug": "ai-told-me-to-buy-this-stock-should-i-0b29a1b08e",
+  "title": "AI told me to buy this stock. Should I?",
+  "orig_title": "AI told me to buy this stock. Should I?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWYtMFJYZllvMk14WkE3emF3RHBfS1c5TGU3YzBvSFNGVEVRY05Ja29DQ2dBN0JxaDZMTW00cFZNSGJjWHQ1MUI1NDJmR3hrU1J6Ql9jTXVwNENxS1FRSFJPRTM1U0pnb1NMLVZSSFFhNEhpUlY4aUpGR3JnTU4yWnhnOS04cjlySldaYnZ5Q2JVUy05LU5fTExQWEhNU2QwbjZQM29hWDI?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWYtMFJYZllvMk14WkE3emF3RHBfS1c5TGU3YzBvSFNGVEVRY05Ja29DQ2dBN0JxaDZMTW00cFZNSGJjWHQ1MUI1NDJmR3hrU1J6Ql9jTXVwNENxS1FRSFJPRTM1U0pnb1NMLVZSSFFhNEhpUlY4aUpGR3JnTU4yWnhnOS04cjlySldaYnZ5Q2JVUy05LU5fTExQWEhNU2QwbjZQM29hWDI",
+  "snippet": "AI told me to buy this stock. Should I? The Globe and Mail",
+  "published": "2026-11-10T14:57:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:50:28.211747+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3942921a18",
   "slug": "trucker-path-adds-cb-radio-feature-to-connect-drivers-on-the-road-3942921a18",
   "title": "Trucker Path adds CB radio feature to connect drivers on the road",
@@ -3548,7 +3608,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/emissions-efficiency/article/55417694/trucking-by-the-numbers-2026-the-price-of-operating-a-fleet",
+  "source_note": "ok · 862 words"
  },
  {
   "id": "02a8c38824",
@@ -6435,12 +6498,12 @@
   "ai": false,
   "status": "duplicate",
   "reasons": [
-   "same story as: Nearly 85 percent of CMV brake inspections resulted in zero violations during CVSA Brake S"
+   "same story as: Brake Safety Week: 2,300 trucks put out-of-service"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "7c4f39840c"
+  "dup_of": "e00cf96993"
  },
  {
   "id": "837f57e07e",
@@ -9565,6 +9628,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "2c6ac62e5a",
+  "slug": "automated-insulin-delivery-systems-help-expectant-mothers-manage-type-2c6ac62e5a",
+  "title": "Automated insulin delivery systems help expectant mothers manage Type 1 diabetes",
+  "orig_title": "Automated insulin delivery systems help expectant mothers manage Type 1 diabetes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWNna3Qwd0huREdaNE5VcF9wQTNLUHJxd2JBZWN6T09XVEFRRDc2QVhtdGlwM0E3S1NqMnZoekFWanlVZWVpc0lmUEZESVppc3ZBemZjOGtqUmdPWTVjQjZqVkVVbjBVbjlwRHlORFNCYWUxVTZTWFl6TUFNRjlSSVRJNklwc2prRjZZLTl5WVQ2bzlOeGExcS13ZGtLZmJCcWVRMmh4WUNscU9taVZ0WHB5NGMwVlRR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWNna3Qwd0huREdaNE5VcF9wQTNLUHJxd2JBZWN6T09XVEFRRDc2QVhtdGlwM0E3S1NqMnZoekFWanlVZWVpc0lmUEZESVppc3ZBemZjOGtqUmdPWTVjQjZqVkVVbjBVbjlwRHlORFNCYWUxVTZTWFl6TUFNRjlSSVRJNklwc2prRjZZLTl5WVQ2bzlOeGExcS13ZGtLZmJCcWVRMmh4WUNscU9taVZ0WHB5NGMwVlRR",
+  "snippet": "Automated insulin delivery systems help expectant mothers manage Type 1 diabetes The Globe and Mail",
+  "published": "2026-11-09T11:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T10:50:28.211747+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
