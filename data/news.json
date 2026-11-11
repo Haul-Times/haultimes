@@ -1440,7 +1440,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ajot.com/news/traffix-data-spot-rates-hold-at-3.47-a-mile-but-peak-freight-is-meeting-tight-capacity",
   "source_note": "ok · 336 words"
@@ -4776,7 +4776,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3960029:0-line-occupancy-improved-but-fuel-trucking-and-tariff-headwinds-cut-q3-adjusted-ebitda-7/",
+  "source_note": "paywalled: excerpt only · 42 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "1dc529255a",
@@ -5196,7 +5201,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.worktruckonline.com/news/fewer-cargo-thefts-but-average-theft-value-jumps-72year-to-date",
+  "source_note": "ok · 888 words"
  },
  {
   "id": "a5d79c7378",
@@ -12475,29 +12483,6 @@
   "status": "rejected",
   "reasons": [
    "job listing / recruitment ad"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "0c7b9b163f",
-  "slug": "ex-bjd-mp-faces-eow-raids-over-fund-collection-from-truckers-to-pay-na-0c7b9b163f",
-  "title": "Ex-BJD MP faces EOW raids over fund collection from truckers to pay Naxals",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The New Indian Express",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDNFMjhzUk1uMWNkbmJFal85UEpBb1Q0NGw3aEY0bWt1bUU3ZkdNM1pBSzlFX21RNVNJM1hUNnltdW45ZXNHWFJOd0NmOUsySUJMdFBfZDlTOXlnZEFPQXpVR0tSdW9JQUlDOXJlZDNIelVRZEhTcDUzT3hTYzNVMU16MnVlc1JrQUF6TldnbU5YMmQ3SFRJaDVpeGI5azVKVk45RVNoak9UOGdUbWZEVmd0bjdWTnhmamx3VWlwMllUZEZ6dFBJTGl0R0lEZ9IB2wFBVV95cUxPcXIyNGRBa1l5UGNMZUlLcXZyd3NRdE0tSkRWbUs4NmY0OUNkSjRNRUtWYTV1ZWJWQzV4VFl3a0lDNURLcUxoZG9sYUU3elM3YTc0N19SNndfOVF1dTFNUDk0T3JROS1TeTBXcEJaQ2hDQm5WZ25jWXBILXdGZTlqdGxtazdwa3V1MHNnRG03ZnJGOGZhd1d0dDNUYXpOaExBbDZqOUo5cVRSR0JZZzhkVlIxVmluYWtidVdSTHQ4NF9UZXlIRk5yQkhqbUdQRDA5WUdLRy1nU1ZtTHM?oc=5",
-  "published": "2026-11-07T04:28:00+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Ex-BJD MP faces EOW raids over fund collection from truckers to pay Naxals",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
   ],
   "labels": [],
   "kind": "rejected",
