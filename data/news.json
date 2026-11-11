@@ -1,5 +1,37 @@
 [
  {
+  "id": "378d60a29c",
+  "slug": "afram-plains-truck-drivers-appeal-for-funds-to-acquire-new-ferry-378d60a29c",
+  "title": "Afram Plains Truck Drivers Appeal for Funds to Acquire New Ferry",
+  "orig_title": "Afram Plains Truck Drivers Appeal for Funds to Acquire New Ferry",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "",
+  "importance": 57,
+  "source": "Modern Ghana",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMZVdhLTdDREtLRkg4REdFcXQxSEJzaVdYNTY3VUxwbkJXWm9lNnRnMWZlNXppNi1ZRTZFX25TdFpMOUE2UVpCaWppX1hkWm4zYnFTdGNIRS04QXZCTHNJWkpuVdIBXEFVX3lxTFAwUXZGVmdpdkZRN0hDTlhMUVpBOW1NR1hQcmJfc3JyY2NQOU9TWWo5REphNFFXaGt0eWEydWNhSFZPYWljSGhNNDM3LVUwUWN3YUdPVFV4c1pwSmRU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMZVdhLTdDREtLRkg4REdFcXQxSEJzaVdYNTY3VUxwbkJXWm9lNnRnMWZlNXppNi1ZRTZFX25TdFpMOUE2UVpCaWppX1hkWm4zYnFTdGNIRS04QXZCTHNJWkpuVdIBXEFVX3lxTFAwUXZGVmdpdkZRN0hDTlhMUVpBOW1NR1hQcmJfc3JyY2NQOU9TWWo5REphNFFXaGt0eWEydWNhSFZPYWljSGhNNDM3LVUwUWN3YUdPVFV4c1pwSmRU",
+  "snippet": "Afram Plains Truck Drivers Appeal for Funds to Acquire New Ferry Modern Ghana",
+  "published": "2026-11-11T16:50:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T17:01:03.706780+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.modernghana.com/videonews/cititv/1/752019",
+  "source_note": "excerpt only · 11 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "3fc383038e",
   "slug": "market-factors-you-are-not-the-first-to-have-that-investment-idea-3fc383038e",
   "title": "Market Factors: You are not the first to have that investment idea",
@@ -352,7 +384,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.ajot.com/news/j-j-keller-urges-motor-carriers-to-strengthencargo-security-ahead-of-thanksgiving",
   "source_note": "ok · 581 words"
  },
@@ -3804,6 +3836,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "5c7f5b82b0",
+  "slug": "natroad-calls-to-protect-supply-chains-as-workforce-shortages-reach-bo-5c7f5b82b0",
+  "title": "NatRoad calls to protect supply chains as workforce shortages reach boiling point",
+  "orig_title": "NatRoad calls to protect supply chains as workforce shortages reach boiling point",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "NatRoad",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHU4Tm5oQVI3ZVFoVElBbE1reUlmV2hfQ0VhNGRYajQ0LWZOZ2xaeFBLalMxWWpMeGdwaWhsYjE5b29DTHp0SEFiXzFaRFNKQmdaRWtGejVvQTRTa0E1WjV5VDBMQUlzQ3plWl9GbzlSbkFwa1NGYk1nYTE0TXY5dlV5MFRCbE84cENVV1RyQWI5ZTlQblNMMmtLc3lQY1JUNnJOOVlPUlRKbVFINnc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHU4Tm5oQVI3ZVFoVElBbE1reUlmV2hfQ0VhNGRYajQ0LWZOZ2xaeFBLalMxWWpMeGdwaWhsYjE5b29DTHp0SEFiXzFaRFNKQmdaRWtGejVvQTRTa0E1WjV5VDBMQUlzQ3plWl9GbzlSbkFwa1NGYk1nYTE0TXY5dlV5MFRCbE84cENVV1RyQWI5ZTlQblNMMmtLc3lQY1JUNnJOOVlPUlRKbVFINnc",
+  "snippet": "NatRoad calls to protect supply chains as workforce shortages reach boiling point NatRoad",
+  "published": "2026-11-10T22:50:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T17:01:03.706780+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -11695,7 +11756,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "1c67ca0104",
