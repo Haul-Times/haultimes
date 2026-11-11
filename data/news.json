@@ -7994,7 +7994,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/small-oversights-big-consequences-managing-risk-in-trucking",
   "source_note": "ok · 1353 words"
  },
@@ -8053,6 +8053,35 @@
   "labels": [],
   "kind": "rejected",
   "dup_of": "62f1cde88b",
+  "sum_pending": false
+ },
+ {
+  "id": "7a489e6e6e",
+  "slug": "ukrainian-canadians-set-to-protest-ovechkin-in-ottawa-on-tuesday-7a489e6e6e",
+  "title": "Ukrainian Canadians set to protest Ovechkin in Ottawa on Tuesday",
+  "orig_title": "Ukrainian Canadians set to protest Ovechkin in Ottawa on Tuesday",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODhNZjBIa3FoRzNvY01JdTZ3dnRZbGdQd1FKQ29JV2RDTzRFRndOVEJFeTdOdUlfOHQ0V3pPb3pfZENQM290SV9Xc3lqMzkwY2VmQVIxczN4RGJ5cW1XWXlld1oycWhJdEJ6X2lhZmUzemd4NUsyWWNEQ3BRckdGTVc2TVdvQ2pVN3NmU2o5Rm9Sb3NCeEpERDFxb2lxUm1ZTWRic0pqMFNpNmhXekNySzYwWmZjOWtGajcw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODhNZjBIa3FoRzNvY01JdTZ3dnRZbGdQd1FKQ29JV2RDTzRFRndOVEJFeTdOdUlfOHQ0V3pPb3pfZENQM290SV9Xc3lqMzkwY2VmQVIxczN4RGJ5cW1XWXlld1oycWhJdEJ6X2lhZmUzemd4NUsyWWNEQ3BRckdGTVc2TVdvQ2pVN3NmU2o5Rm9Sb3NCeEpERDFxb2lxUm1ZTWRic0pqMFNpNmhXekNySzYwWmZjOWtGajcw",
+  "snippet": "Ukrainian Canadians set to protest Ovechkin in Ottawa on Tuesday The Globe and Mail",
+  "published": "2026-11-10T00:39:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:22:09.553369+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
