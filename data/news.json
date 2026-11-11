@@ -24,7 +24,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.ajot.com/news/j-j-keller-urges-motor-carriers-to-strengthencargo-security-ahead-of-thanksgiving",
+  "source_note": "ok · 581 words"
  },
  {
   "id": "058aeb271b",
@@ -2339,6 +2342,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "0f97e754b8",
+  "slug": "on-the-move-advisor-team-focused-on-longevity-moves-to-wellington-altu-0f97e754b8",
+  "title": "On the Move: Advisor team focused on longevity moves to Wellington-Altus",
+  "orig_title": "On the Move: Advisor team focused on longevity moves to Wellington-Altus",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUU84RDZIQmdQV1BVTUdkeE1zOUpJeDQtNUtkd3VNSWlRUjYyTFY3UDlZZC1TMElmNHprck5YQTl0QzRZVkE4c1lPNkV1WHNGdEltTlpoRWdPbGlyNXNUMUF0d2xPX2p4TVVab25VQTR0R3d3blF4ZVpvTkdTSXFpTU43ZUl2VDN4VVJJR3ZfMTNpeE5XZTVQVHdlajN3VUxZd2dZel9RUlZFUVBneVpkQUdNd2VDWWpXd0NLaFlfcE9hb0VQeHNFbUUwTjg4Q1lnTEwwY2lPSDRza1E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUU84RDZIQmdQV1BVTUdkeE1zOUpJeDQtNUtkd3VNSWlRUjYyTFY3UDlZZC1TMElmNHprck5YQTl0QzRZVkE4c1lPNkV1WHNGdEltTlpoRWdPbGlyNXNUMUF0d2xPX2p4TVVab25VQTR0R3d3blF4ZVpvTkdTSXFpTU43ZUl2VDN4VVJJR3ZfMTNpeE5XZTVQVHdlajN3VUxZd2dZel9RUlZFUVBneVpkQUdNd2VDWWpXd0NLaFlfcE9hb0VQeHNFbUUwTjg4Q1lnTEwwY2lPSDRza1E",
+  "snippet": "On the Move: Advisor team focused on longevity moves to Wellington-Altus The Globe and Mail",
+  "published": "2026-11-11T09:40:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:46:49.777134+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
@@ -6675,6 +6707,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "3b1531b9b1",
+  "slug": "un-body-agrees-to-postpone-review-of-u-s-human-rights-record-after-tru-3b1531b9b1",
+  "title": "UN body agrees to postpone review of U.S. human rights record after Trump administration snub",
+  "orig_title": "UN body agrees to postpone review of U.S. human rights record after Trump administration snub",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWpQMHdSQnk1Y1pBTG5lN1dPRldRNERSc3poendWcVBfR09JR1hRME1HR3h1TjNzeDZvQ1Z6aTd5MXdsTURVOGpTZmNzUkFwV2pMS0VHcmxUZnlrOXRhdmRvN0o4NGZld3RrTzg1X2lKS0JVd1RzSHYxMFI4RGwwUS1QdVBxV21iZGFjUjlTb2tDQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWpQMHdSQnk1Y1pBTG5lN1dPRldRNERSc3poendWcVBfR09JR1hRME1HR3h1TjNzeDZvQ1Z6aTd5MXdsTURVOGpTZmNzUkFwV2pMS0VHcmxUZnlrOXRhdmRvN0o4NGZld3RrTzg1X2lKS0JVd1RzSHYxMFI4RGwwUS1QdVBxV21iZGFjUjlTb2tDQQ",
+  "snippet": "UN body agrees to postpone review of U.S. human rights record after Trump administration snub The Globe and Mail",
+  "published": "2026-11-10T12:36:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:46:49.777134+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b7de8ed881",
   "slug": "rig-rest-une-app-gratuite-con-ue-sp-cialement-pour-les-camionneurs-b7de8ed881",
   "title": "Rig Rest : une app gratuite conçue spécialement pour les camionneurs!",
@@ -8020,6 +8081,35 @@
   "first_seen": "2026-11-10T04:17:22.921071+00:00",
   "image": "",
   "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "1bb25bba3c",
+  "slug": "cppib-to-lay-off-dozens-of-employees-at-struggling-active-equities-div-1bb25bba3c",
+  "title": "CPPIB to lay off dozens of employees at struggling active equities division",
+  "orig_title": "CPPIB to lay off dozens of employees at struggling active equities division",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVDhvdkJHVXNYSThrNXF1V0d5elh3TWl6LS1ON3phMlVScVotdUI4N1pPUmkzLXMxZkdaU0lBTnVGQXlQMENpUXhVN1Zjb1hrNGdvN1JHSjN3SERNcHlXWFkyb1pUQlQxN2VmY0dBTFlMazh1cFI1dmR1Zkwxa0ZpcHMwUS1WcGNwaVdtV01naU1XUE03dUhxQWNNN0R4ZlpMUVJ6VjdsTUlac09zdGdsd1Zlam1ybFE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVDhvdkJHVXNYSThrNXF1V0d5elh3TWl6LS1ON3phMlVScVotdUI4N1pPUmkzLXMxZkdaU0lBTnVGQXlQMENpUXhVN1Zjb1hrNGdvN1JHSjN3SERNcHlXWFkyb1pUQlQxN2VmY0dBTFlMazh1cFI1dmR1Zkwxa0ZpcHMwUS1WcGNwaVdtV01naU1XUE03dUhxQWNNN0R4ZlpMUVJ6VjdsTUlac09zdGdsd1Zlam1ybFE",
+  "snippet": "CPPIB to lay off dozens of employees at struggling active equities division The Globe and Mail",
+  "published": "2026-11-10T02:36:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T15:46:49.777134+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
