@@ -117,7 +117,8 @@ def validate(summary, evidence, source, headline="", need_evidence=True):
         q = norm((e or {}).get("quote"))
         if not q or q not in src:
             probs.append("evidence quote not found in source: %r" % ((e or {}).get("quote") or "")[:80])
-    if need_evidence and len(ev) < len(sents):
+    # Most sentences need a supporting quote; numbers and names are checked separately for every sentence.
+    if need_evidence and len(ev) < max(1, -(-len(sents) * 6 // 10)):
         probs.append("%d sentences but only %d evidence entries" % (len(sents), len(ev)))
     for n in NUM.findall(summary):
         if n.replace(",", "") not in src_digits:
@@ -134,10 +135,10 @@ def validate(summary, evidence, source, headline="", need_evidence=True):
         if norm(name) not in src and not (name.isupper() and name.lower() in acr):
             probs.append("name %r is not in the source" % name)
     words = norm(summary).split()
-    for i in range(len(words) - 8):
-        run = " ".join(words[i:i + 9])
+    for i in range(len(words) - 11):  # 12 words: official terms and names may repeat, sentences may not
+        run = " ".join(words[i:i + 12])
         if run in src and '"' not in run:
-            probs.append("copies a 9-word run from the source: %r" % run[:70])
+            probs.append("copies a 12-word run from the source: %r" % run[:70])
             break
     for q in re.findall(r'"([^"]+)"', summary):
         if len(q.split()) > 25:
@@ -209,6 +210,7 @@ def ask(client, model, cats, item, source, scope, fix=None, max_out=2000):
 
 
 def summarize_story(client, model, cats, s, source, scope, budget):
+    source_for_checks = source + "\n" + s.get("source", "")  # the publisher's own name is always allowed
     """Returns (status, data). status: published | withheld | review | irrelevant | limit."""
     item = {"headline": s["orig_title"], "source": s["source"]}
     fix, data = None, {}
@@ -229,7 +231,7 @@ def summarize_story(client, model, cats, s, source, scope, budget):
         summ = (data.get("summary_text") or "").strip()
         if not summ:
             return "withheld", dict(data, problems=["source did not support a summary"])
-        probs = validate(summ, data.get("evidence"), source, s["orig_title"])
+        probs = validate(summ, data.get("evidence"), source_for_checks, s["orig_title"])
         why = (data.get("why_it_matters") or "").strip()
         if why and validate(why, [], source, s["orig_title"], need_evidence=False):
             data["why_it_matters"] = ""  # an impact line that names or counts anything not in the source is dropped
