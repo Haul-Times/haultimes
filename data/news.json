@@ -1,5 +1,61 @@
 [
  {
+  "id": "b9cec343cd",
+  "slug": "legal-warning-sent-to-pensions-over-climate-related-risks-of-lng-stake-b9cec343cd",
+  "title": "Legal warning sent to pensions over climate-related risks of LNG stakes",
+  "orig_title": "Legal warning sent to pensions over climate-related risks of LNG stakes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnFPaXZsTi03MmxMMzNCUGg3Z19EcDF2WVlsdkFuemd6SEZKd2lWNDVLOUNFanJ2YnNaMThWelNRX3RDRXhzcU5qSFZRVUZ0RmFaREg5eEtZcVlXWDdFOXl1QjNRRXFmT3VoWE8tX0lUa3FoVXpwZWUxM3hiNDNDNmlVYmp0eFo1c2NxMHlmWmktVk8yQWtnQ2NRYTJtUVRvSE1BQXFBX1FYRDJaOHA0ck54RFM?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnFPaXZsTi03MmxMMzNCUGg3Z19EcDF2WVlsdkFuemd6SEZKd2lWNDVLOUNFanJ2YnNaMThWelNRX3RDRXhzcU5qSFZRVUZ0RmFaREg5eEtZcVlXWDdFOXl1QjNRRXFmT3VoWE8tX0lUa3FoVXpwZWUxM3hiNDNDNmlVYmp0eFo1c2NxMHlmWmktVk8yQWtnQ2NRYTJtUVRvSE1BQXFBX1FYRDJaOHA0ck54RFM",
+  "snippet": "Legal warning sent to pensions over climate-related risks of LNG stakes The Globe and Mail",
+  "published": "2026-11-11T12:44:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T12:50:53.320434+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "860f89bba0",
+  "slug": "how-much-do-truck-drivers-earn-in-botswana-compared-with-sa-860f89bba0",
+  "title": "How much do truck drivers earn in Botswana compared with SA?",
+  "orig_title": "How much do truck drivers earn in Botswana compared with SA?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 40,
+  "source": "The South African",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTR0bWpha0JGU1dkZjRkUW9hX25YMGNOU3lGekphUFR3Vzg0SzNkS2dTam1xRWxHVmJtNFFnNWs2Z2lzeDV1U1Y1QjF0OURZTnNZaW9zUnpxcFlXTTl6MF81NTlqeWlGRnN5ODZQVkZlU25ZSnpoeE9pXzBucUFyRE51VVdLYlJvS184MUdtc1J1cjF5c2owb2xHeUd5Z3Nva29qVWJkYw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTR0bWpha0JGU1dkZjRkUW9hX25YMGNOU3lGekphUFR3Vzg0SzNkS2dTam1xRWxHVmJtNFFnNWs2Z2lzeDV1U1Y1QjF0OURZTnNZaW9zUnpxcFlXTTl6MF81NTlqeWlGRnN5ODZQVkZlU25ZSnpoeE9pXzBucUFyRE51VVdLYlJvS184MUdtc1J1cjF5c2owb2xHeUd5Z3Nva29qVWJkYw",
+  "snippet": "How much do truck drivers earn in Botswana compared with SA? The South African",
+  "published": "2026-11-11T12:43:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T12:50:53.320434+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
+ },
+ {
   "id": "322b6e3dd0",
   "slug": "hydrogen-trucks-fuel-cell-is-ready-europe-s-pumps-aren-t-322b6e3dd0",
   "title": "Hydrogen trucks’ fuel cell is ready. Europe’s pumps aren’t",
@@ -2139,6 +2195,35 @@
   "published": "2026-11-10T20:56:37+00:00",
   "date_known": true,
   "first_seen": "2026-11-11T10:31:07.115286+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "af17da2424",
+  "slug": "arctic-gas-projects-more-viable-than-oil-development-nwt-premier-says-af17da2424",
+  "title": "Arctic gas projects more viable than oil development, NWT Premier says",
+  "orig_title": "Arctic gas projects more viable than oil development, NWT Premier says",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzU1SWtzRlpBMlQ4aUVPMzdGVkxpZHlPQmpPVVpOUzdMcEdZcjRNUzVEc3AtN0Z3UFpaWjNTYk5POEEzNE9tYzhKLTJOUzQ3X2IySGo2d3NwMmRpOW13dHdlVVZQX1dIbVN2ZU9UZHBqQWtQMHRjMVBZYWFMd285MFRXcVkwWnBXeFU2enA3VHZTSDFnQXRMUEpjM1BaeTU3OE1OM1hB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzU1SWtzRlpBMlQ4aUVPMzdGVkxpZHlPQmpPVVpOUzdMcEdZcjRNUzVEc3AtN0Z3UFpaWjNTYk5POEEzNE9tYzhKLTJOUzQ3X2IySGo2d3NwMmRpOW13dHdlVVZQX1dIbVN2ZU9UZHBqQWtQMHRjMVBZYWFMd285MFRXcVkwWnBXeFU2enA3VHZTSDFnQXRMUEpjM1BaeTU3OE1OM1hB",
+  "snippet": "Arctic gas projects more viable than oil development, NWT Premier says The Globe and Mail",
+  "published": "2026-11-10T20:54:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T12:50:53.320434+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -9782,7 +9867,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://ontruck.org/ota-calls-for-stronger-laws-to-prevent-roadway-obstructions-and-protect-provincial-supply-chains-and-businesses/",
   "source_note": "ok · 377 words"
@@ -9810,7 +9895,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "afe721ad08",
@@ -10046,7 +10135,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/perspectives/ideaxchange/blog/55417193/how-autonomous-trucks-could-reshape-fleet-operations-costs-and-regulations",
+  "source_note": "ok · 657 words"
  },
  {
   "id": "34aa44588e",
@@ -10749,7 +10841,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "c217e43d6d",

@@ -1099,7 +1099,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-11T12:41:24.135821+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122101197351544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122101197351544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122101197351544428",
+    "created": "2026-11-11T12:41:24+0000",
+    "at": "2026-11-11T12:51:07.813985+00:00"
+   }
   }
  },
  "paused": null,
@@ -1358,7 +1366,8 @@
   "01f10c3dc5": "skipped|importance 50 is below this platform's threshold (65)",
   "e00cf96993": "posted|importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue",
   "f4c89849ff": "skipped|importance 45 is below this platform's threshold (65)",
-  "3ca753f2e7": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 30 min in queue"
+  "3ca753f2e7": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 30 min in queue",
+  "860f89bba0": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -2592,16 +2601,23 @@
    "title": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago",
    "action": "posted",
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 30 min in queue"
+  },
+  {
+   "at": "2026-11-11T12:51:07.813985+00:00",
+   "story_id": "860f89bba0",
+   "title": "How much do truck drivers earn in Botswana compared with SA?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122101129695544428",
+  "post": "1476615495528085_122101197351544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122101129695544428",
-  "created": "2026-11-11T11:01:26+0000",
-  "at": "2026-11-11T11:11:27.970442+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122101197351544428",
+  "created": "2026-11-11T12:41:24+0000",
+  "at": "2026-11-11T12:51:07.813985+00:00"
  },
  "promo_i": 1
 }
