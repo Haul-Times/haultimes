@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:11:06.012801+00:00",
+ "updated": "2026-11-11T01:21:03.181926+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 8:07 pm EST",
+    "updated": "At 8:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -295,7 +295,7 @@
      11,
      8,
      15,
-     28,
+     27,
      null,
      null,
      null
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:07 pm EST",
+    "updated": "At 8:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -370,7 +370,7 @@
      3,
      10,
      9,
-     17,
+     21,
      null,
      null,
      null
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "20:11:00",
+    "updated": "20:21:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -901,7 +901,7 @@
      null
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 9 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -944,7 +944,7 @@
      0,
      0,
      9,
-     5,
+     3,
      null,
      null,
      null
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:11:00",
+    "updated": "20:21:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 1 AM",
-   "best_north": "Usually fastest around 12 AM"
+   "best_north": "Usually fastest around 8 PM"
   },
   {
    "id": "sumas",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "17:11:00",
+    "updated": "17:21:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1499,8 +1499,8 @@
    },
    {
     "name": "St-Bernard-de-Lacolle",
-    "wait": 25,
-    "status": "25 minutes"
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Hemmingford",
