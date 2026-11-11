@@ -1564,7 +1564,8 @@
   "e6c2eb5abf": "skipped|minor item (incident) or low-quality source",
   "9f8428397a": "skipped|importance 45 is below this platform's threshold (65)",
   "3525c23e88": "merged|same event already posted",
-  "35b306dc98": "skipped|importance 45 is below this platform's threshold (65)"
+  "35b306dc98": "skipped|importance 45 is below this platform's threshold (65)",
+  "0ee4ca60b5": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3036,6 +3037,13 @@
    "title": "The beginning of a LEGACY. The trucking company that helps drivers across America build their own legacy.",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T18:51:39.754595+00:00",
+   "story_id": "0ee4ca60b5",
+   "title": "Paul Brookhart's horse-transport 2000 Peterbilt 379's big strides",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
