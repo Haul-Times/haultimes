@@ -50,8 +50,12 @@ def _offline_decode(aid):
     return None if url.startswith("AU_yqL") else url.split("\xd2")[0]
 
 
+LAST_STEP = {"note": ""}
+
+
 def google_to_publisher(link, get=_get):
-    """Publisher URL for a news.google.com article link, or the link itself if it isn't one."""
+    """Publisher URL for a news.google.com article link, or the link itself if it isn't one.
+    LAST_STEP["note"] says which step failed, for diagnostics."""
     aid = _article_id(link)
     if not aid:
         return link
@@ -59,25 +63,41 @@ def google_to_publisher(link, get=_get):
     if url:
         return url
     # Newer ids: ask Google for the address, the same way its own page does.
-    _, page = get("https://news.google.com/articles/%s" % aid)
-    sig = re.search(r'data-n-a-sg="([^"]+)"', page)
-    ts = re.search(r'data-n-a-ts="([^"]+)"', page)
+    sig = ts = None
+    for page_url in ("https://news.google.com/rss/articles/%s" % aid, "https://news.google.com/articles/%s" % aid):
+        try:
+            final, page = get(page_url)
+        except Exception as e:
+            LAST_STEP["note"] = "google page %s" % type(e).__name__
+            continue
+        sig = re.search(r'data-n-a-sg="([^"]+)"', page)
+        ts = re.search(r'data-n-a-ts="([^"]+)"', page)
+        if sig and ts:
+            break
+        LAST_STEP["note"] = "google page without signature (%s, %d bytes)" % (final[:40], len(page))
     if not sig or not ts:
         return None
     inner = json.dumps(["garturlreq", [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None, None, None, 0, 1],
                                        "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
                         aid, int(ts.group(1)), sig.group(1)])
     body = "f.req=" + urllib.parse.quote(json.dumps([[["Fbv4je", inner, None, "generic"]]]))
-    _, resp = get("https://news.google.com/_/DotsSplashUi/data/batchexecute",
-                  data=body.encode(), headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"})
+    try:
+        _, resp = get("https://news.google.com/_/DotsSplashUi/data/batchexecute",
+                      data=body.encode(), headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+                                                   "Referer": "https://news.google.com/"})
+    except Exception as e:
+        LAST_STEP["note"] = "google decode request %s" % type(e).__name__
+        return None
     for chunk in resp.split("\n"):
-        if 'garturlres' in chunk:
+        if "garturlres" in chunk:
             try:
                 outer = json.loads(chunk)
                 return json.loads(outer[0][2])[1]
             except Exception:
                 m = re.search(r'garturlres\\",\\"(https?://[^\\"]+)', chunk)
-                return m.group(1) if m else None
+                if m:
+                    return m.group(1)
+    LAST_STEP["note"] = "google decode answer without address (%d bytes)" % len(resp)
     return None
 
 
@@ -194,9 +214,10 @@ def body_from_html(page):
 
 def source_text(link, feed_snippet="", get=_get):
     """(publisher_url, text, scope, note). scope: full_article | excerpt | None (nothing usable)."""
+    LAST_STEP["note"] = ""
     url = google_to_publisher(link, get)
     if not url:
-        return None, None, None, "no publisher address"
+        return None, None, None, "no publisher address: " + LAST_STEP["note"]
     if not allowed(url, get):
         return url, None, None, "robots.txt disallows"
     final, page = get(url)

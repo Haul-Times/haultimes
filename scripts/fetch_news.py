@@ -257,6 +257,9 @@ def main():
         usage = load_json("ai_usage.json", {})
         budget = summarize.Budget(usage, cfg, now)
         two_days = now - timedelta(days=2)
+        for s in all_stories:  # earlier link-lookup failures get another chance
+            if (s.get("sum_status") or "").startswith("no source text (no publisher address") and s.get("sum_tries", 0) < 3:
+                s["sum_done"] = False
         todo = [s for s in all_stories if s["status"] == "ok" and not s.get("sum_done") and s.get("sum_tries", 0) < 3
                 and not s.get("manual_summary") and datetime.fromisoformat(s["published"]) >= two_days]
         todo.sort(key=lambda s: s["importance"], reverse=True)
@@ -275,6 +278,10 @@ def main():
                 s["pub_url"] = pub_url
             s["source_note"] = note
             if not text:
+                if note.startswith("no publisher address") and s["sum_tries"] < 3:
+                    s["sum_status"] = "retrying (%s)" % note  # link lookup may work on a later run
+                    no_text += 1
+                    continue
                 s["sum_done"], s["sum_pending"], s["sum_status"] = True, False, "no source text (%s)" % note
                 no_text += 1
                 continue
