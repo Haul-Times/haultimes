@@ -80,7 +80,7 @@
   ],
   "keep_hidden_days": 4,
   "collect_interval_minutes": 10,
-  "summaries_mode": "trial",
+  "summaries_mode": "publish",
   "_summaries_help": "trial = write and check summaries but keep them hidden for the owner's review; publish = show summaries that pass the checks; off = headlines only.",
   "pause_summaries": false,
   "pause_new_stories": false,
