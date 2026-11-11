@@ -1552,7 +1552,8 @@
   "131cd4219e": "skipped|importance 55 is below this platform's threshold (65)",
   "63ac6a45f0": "skipped|importance 50 is below this platform's threshold (65)",
   "058aeb271b": "skipped|importance 45 is below this platform's threshold (65)",
-  "358dd7c86a": "skipped|importance 50 is below this platform's threshold (65)"
+  "358dd7c86a": "skipped|importance 50 is below this platform's threshold (65)",
+  "9a723d413d": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2940,6 +2941,13 @@
    "title": "J. J. Keller urges motor carriers to strengthen cargo security ahead of Thanksgiving",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T15:52:13.466856+00:00",
+   "story_id": "9a723d413d",
+   "title": "Paper Transport Puts RNG to Work for Shipper",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
