@@ -1574,7 +1574,8 @@
   "91fd0d9dc8": "skipped|importance 50 is below this platform's threshold (65)",
   "35dd63d16c": "skipped|importance 55 is below this platform's threshold (65)",
   "319e4f0060": "skipped|importance 55 is below this platform's threshold (65)",
-  "44643ddb63": "skipped|importance 45 is below this platform's threshold (65)"
+  "44643ddb63": "skipped|importance 45 is below this platform's threshold (65)",
+  "1bdf803f81": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3116,6 +3117,13 @@
    "title": "Garland 18-Wheeler Accident Lawyer",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T22:10:43.286225+00:00",
+   "story_id": "1bdf803f81",
+   "title": "AI in Logistics: How Radar is Revolutionizing Fleet Data Analysis",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
