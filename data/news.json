@@ -1,5 +1,34 @@
 [
  {
+  "id": "1bbfc89d3c",
+  "slug": "chile-truckers-strike-over-fuel-prices-as-talks-fail-1bbfc89d3c",
+  "title": "Chile truckers strike over fuel prices as talks fail",
+  "orig_title": "Chile truckers strike over fuel prices as talks fail",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "streamlinefeed.co.ke",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWRqbC1BZUowLS1pVnE2Zjk0N0NYdndKVFBBcThVMXd6R01SM1k4Wk1NTFRLU3ZXYjFzYXo1VzBUc1FuYWhlQkdQVkxZXzU1WEhIWnJ2M3BDelh1d2NjQV9xN3Z1UWhxanM4bl9UV2JPVnZfWF9TSkVEcEtydDNaaFF1QVNoM2RnRjN4UkZUYw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWRqbC1BZUowLS1pVnE2Zjk0N0NYdndKVFBBcThVMXd6R01SM1k4Wk1NTFRLU3ZXYjFzYXo1VzBUc1FuYWhlQkdQVkxZXzU1WEhIWnJ2M3BDelh1d2NjQV9xN3Z1UWhxanM4bl9UV2JPVnZfWF9TSkVEcEtydDNaaFF1QVNoM2RnRjN4UkZUYw",
+  "snippet": "Chile truckers strike over fuel prices as talks fail streamlinefeed.co.ke",
+  "published": "2026-11-11T07:03:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T07:11:02.766366+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9db73ad204",
   "slug": "top-fleet-employer-bc-archives-9db73ad204",
   "title": "Top Fleet Employer BC Archives",
@@ -5228,7 +5257,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/articles/truck-driver-cost-hire-jumps-q3",
+  "source_note": "excerpt only · 25 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "3ddcf6d675",
@@ -7854,7 +7888,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/perspectives/lane-shift-ahead/blog/55405902/trucking-by-the-numbers-2026-costs-margins-data",
+  "source_note": "ok · 813 words"
  },
  {
   "id": "f24df3ce85",
@@ -9239,7 +9276,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "a64a20a29b",
