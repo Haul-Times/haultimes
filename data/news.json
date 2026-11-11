@@ -84,7 +84,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/bendix-upgrades-trailer-abs-with-smarter-diagnostics",
   "source_note": "ok · 805 words"
  },
@@ -14459,6 +14459,36 @@
   "sum_pending": false
  },
  {
+  "id": "59daacd335",
+  "slug": "cargo-thefts-are-down-but-losses-are-up-59daacd335",
+  "title": "Cargo thefts are down, but losses are up",
+  "orig_title": "Cargo thefts are down, but losses are up",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 57,
+  "source": "PropertyCasualty360",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOE9OeGZheW50WU5lbnRia0h5Yl9qdUZKUmRtUk1DZEd3NEstRU5xRGtKN1FSeW9zTWNSRkVIdkVjN1ZyUU02dk5veXdSVEE1aE5RUFM5amdYdWxtYTdmbE4yMHZNYzFGbjVWQ2xzTkR4VDhzb3BfM2tlRm1nbXY2d2dpVnZDZG05R2NqWXNZWjk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOE9OeGZheW50WU5lbnRia0h5Yl9qdUZKUmRtUk1DZEd3NEstRU5xRGtKN1FSeW9zTWNSRkVIdkVjN1ZyUU02dk5veXdSVEE1aE5RUFM5amdYdWxtYTdmbE4yMHZNYzFGbjVWQ2xzTkR4VDhzb3BfM2tlRm1nbXY2d2dpVnZDZG05R2NqWXNZWjk",
+  "snippet": "Cargo thefts are down, but losses are up PropertyCasualty360",
+  "published": "2026-11-09T09:30:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T19:31:30.709904+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Verisk CargoNet reports higher cargo theft losses despite fewer incidents"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "16c6f27b45"
+ },
+ {
   "id": "09353b98bc",
   "slug": "as-diesel-prices-soar-truckers-in-pennsylvania-struggle-while-keeping-09353b98bc",
   "title": "As diesel prices soar, truckers in Pennsylvania struggle while keeping America moving",
@@ -17526,29 +17556,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "78ff549561",
-  "slug": "a-truck-hit-his-sedan-in-parking-lot-insurance-claims-both-drivers-are-78ff549561",
-  "title": "A Truck Hit His Sedan in Parking Lot. Insurance Claims Both Drivers Are Both At Fault",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Yahoo",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEVoVFRLbzFncWxQRFZFNW1aLTQ3M1VQNGtkaFdpcXZyZm53QTlmTTNMRUZONHQ3a0VCOFg2bWRnU0dRX0RSQmNFVjFFQ0pRMkczcE5vNlNYYm1IVURQUmt6bktkc2NIanJrNzlsdDg0aDVNTlBVMklhb2F3amY4Y1pwYXVIUnNv?oc=5",
-  "published": "2026-11-07T19:30:29+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "A Truck Hit His Sedan in Parking Lot. Insurance Claims Both Drivers Are Both At Fault",
-  "status": "rejected",
-  "reasons": [
-   "consumer vehicle / lifestyle story"
   ],
   "labels": [],
   "kind": "rejected",
