@@ -1226,7 +1226,7 @@ def build_editor_page(settings, states, now, site_dir, traffic=None):
 
 def samples(n=10, now=None, site_dir=SITE):
     now = now or datetime.now(timezone.utc)
-    stories = load_json("news.json", [])
+    stories = [dict(x, why="") for x in load_json("news.json", [])]  # "Why it matters" is off site-wide
     if stories and "status" not in stories[0]:
         editorial.reprocess(stories, now)
     picked = []
@@ -1258,7 +1258,7 @@ def main(argv):
         return 0
     now = datetime.now(timezone.utc)
     settings = load_settings()
-    stories = load_json("news.json", [])
+    stories = [dict(x, why="") for x in load_json("news.json", [])]  # "Why it matters" is off site-wide
     if stories and "status" not in stories[0]:
         editorial.reprocess(stories, now)
     states = {}

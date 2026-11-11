@@ -571,7 +571,7 @@ def build_story(s, stories):
 </section>""".format(a=E(CFG["cusdis_app_id"]), i=E(s["id"]), u=E(BASE + story_url(s)), t=E(s["title"]))
     pub = E(s["source"])
     if has_summary(s):
-        why = '<p class="why"><strong>Why it matters:</strong> %s</p>' % E(s["why"]) if s.get("why") else ""
+        why = ('<p class="why"><strong>Why it matters:</strong> %s</p>' % E(s["why"])) if (s.get("why") and CFG.get("show_why", False)) else ""
         paras = "".join('<p class="dek">%s</p>' % E(p) for p in s["summary"].split("\n\n") if p.strip())
         scope = ('<p class="note">Based on the publisher\u2019s available excerpt.</p>' if s.get("source_scope") == "excerpt" else "")
         body_text = ('%s%s%s<p class="note">Summary of reporting by %s. HaulTimes did not report this story.</p>'
@@ -845,6 +845,9 @@ def main():
     if stored and "status" not in stored[0]:
         editorial.reprocess(stored, NOW)  # data saved by an older version of fetch_news.py
     stories = editorial.eligible(stored)  # homepage, topic pages, story pages and feeds all use this list
+    if not CFG.get("show_why", False):
+        for s in stories:
+            s["why"] = ""  # "Why it matters" switched off: summaries only
     border = load_json("border.json", None)
 
     if os.path.isdir(SITE):

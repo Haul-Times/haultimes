@@ -324,6 +324,8 @@ def main():
                 s["ai_relevant"] = False
             elif status in ("published", "review"):
                 text_out, why = data["summary_text"].strip(), (data.get("why_it_matters") or "").strip()
+                if not cfg.get("show_why", False):
+                    why = ""  # owner's choice: summaries only, no "Why it matters" line
                 if mode == "publish" and status == "published":
                     s.update(summary=text_out, why=why)
                     summarized += 1
