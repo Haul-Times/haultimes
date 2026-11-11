@@ -11576,50 +11576,6 @@
   "kind": "rejected"
  },
  {
-  "id": "201f2cf0f3",
-  "slug": "this-truck-was-headed-to-canada-with-205-pounds-of-cocaine-201f2cf0f3",
-  "title": "This Truck Was Headed to Canada With 205 Pounds of Cocaine",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "97.9 WGRD",
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jNFZVY2NjQ1J4Q1lGTWU0Vmw2WVdmSzdUSmQzTFBkbmFKSGdkZENyM3hHeDlMVk9JN2x1ZmpDRlp3VWJBRFFtMDdQSEVpSllzdzlKYmtBUGg?oc=5",
-  "published": "2026-11-07T00:44:03+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "This Truck Was Headed to Canada With 205 Pounds of Cocaine",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected"
- },
- {
-  "id": "29acad6b8e",
-  "slug": "ocean-freight-rates-rebound-as-indicative-prices-for-imported-bauxite-29acad6b8e",
-  "title": "Ocean freight rates rebound as indicative prices for imported bauxite fall; market trading stabilises",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "AL Circle",
-  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOTdacWhwMldFRGhQNjZzS205ZWlsUFZ6VkJSQmR6QndLSURaTE0wMHQ5bVhWbEtYeXNoV24tdGNYMkgwa3E4T1ZUOTNxa1pDQWV5Z2M1cWpHWTJTQThJdW51RFhHOGpHV0g3U1N3Uk1aYjlmUXE5akt1Z1JIU2lTZEQ2czdyOHI5VzV4WkdZbGRaWHlVTWRsQWwwRURxd1R4S1FvMmZiYWRybWtXQzRzczdKbUg1cG9ZRkc2YjBraGp5NENDV20xaWU2d1JOS0tMZ2xiSlF6Ui1XbWFUZDV4RFBGdXRvZw?oc=5",
-  "published": "2026-11-07T00:43:50+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Ocean freight rates rebound as indicative prices for imported bauxite fall; market trading stabilises",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
-  ],
-  "labels": [],
-  "kind": "rejected"
- },
- {
   "id": "c008ae45ee",
   "slug": "navistar-reports-worse-than-expected-results-makes-management-changes-c008ae45ee",
   "title": "Navistar Reports Worse-Than-Expected Results, Makes Management Changes",
