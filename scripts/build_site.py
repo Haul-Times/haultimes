@@ -512,7 +512,7 @@ def build_topic(key, stories, all_stories):
             '<li><a href="%s">%s</a></li>' % (story_url(s), E(s["title"])) for s in top)
     page = [head("%s News" % label, desc, "/topic/%s/" % slug), header(key, all_stories),
             '<main class="wrap"><div class="page-head"><h1>%s</h1><p>%s</p></div>%s' % (E(label), E(desc), filters),
-            '<div class="list"><div class="list-main"><div id="story-list">%s</div><p id="no-stories" class="empty" %s>No stories in this time range yet. Try “All”.</p></div>'
+            '<div class="list"><div class="list-main"><div id="story-list">%s</div><p id="no-stories" class="empty" %s>No stories in this time range yet. Try “All”.</p><button type="button" class="btn2 more-btn" id="more-stories" hidden>Show more stories</button></div>'
             % ("".join(story_row(s) for s in items), "hidden" if items else ""),
             '<aside class="list-side">%s%s%s%s</aside></div></main>' % (market_strip(), side, ad(True), signup()), footer()]
     write("/topic/%s/" % slug, "".join(page))
