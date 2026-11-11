@@ -256,7 +256,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.stattimes.com/amp/supply-chain/afa-urges-congress-to-pass-cargo-theft-bill-1361267",
   "source_note": "ok · 613 words"
@@ -572,6 +572,33 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "01f10c3dc5",
+  "slug": "trucking-industry-at-breaking-point-as-fuel-workforce-and-christmas-pr-01f10c3dc5",
+  "title": "Trucking industry at breaking point as fuel, workforce and Christmas pressures collide",
+  "orig_title": "Trucking industry at breaking point as fuel, workforce and Christmas pressures collide",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "NatRoad",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3o4bDBJdU80TUQ3T0RhMk1sdmRaa1owbVFNV2dsSjBWeVZjVm9hVGdGOExlZjBuSVZVcjN3d09LQ3RNYnplT1lqbHNwTXJCekJTMDUwQXFDTVlLQnBJNDExQjRrRUU2SEJIVzg0QXZjbWFRYzN2eTRFQkwxWTUwLVFkN05oNDhPb0wyZWpGdFFKaW1Gc25zblctR3ZXMHVmQmxMV1d6Q1RONFQweXJadGdrdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3o4bDBJdU80TUQ3T0RhMk1sdmRaa1owbVFNV2dsSjBWeVZjVm9hVGdGOExlZjBuSVZVcjN3d09LQ3RNYnplT1lqbHNwTXJCekJTMDUwQXFDTVlLQnBJNDExQjRrRUU2SEJIVzg0QXZjbWFRYzN2eTRFQkwxWTUwLVFkN05oNDhPb0wyZWpGdFFKaW1Gc25zblctR3ZXMHVmQmxMV1d6Q1RONFQweXJadGdrdw",
+  "snippet": "Trucking industry at breaking point as fuel, workforce and Christmas pressures collide NatRoad",
+  "published": "2026-11-10T22:43:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T08:11:04.359284+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
  },
  {
   "id": "8352a42eef",
@@ -1921,7 +1948,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.inboundlogistics.com/articles/nvidia-cargo-theft-oakland-fort-worth/",
+  "source_note": "ok · 906 words"
  },
  {
   "id": "fd5221d945",
@@ -12881,29 +12911,6 @@
   "reasons": [],
   "labels": [],
   "kind": "feature",
-  "sum_pending": false
- },
- {
-  "id": "9ef656ffdd",
-  "slug": "cdl-truck-driving-job-near-el-paso-tx-local-cdl-a-drivers-wanted-home-9ef656ffdd",
-  "title": "CDL Truck Driving Job near El Paso, TX | LOCAL CDL-A DRIVERS WANTED | HOME DAILY | FLEXIBLE SHIFTS",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "TheTrucker.com",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdHJia0o3M1BVT2hSNlFHQ3dpQnRPVzZiUkV4VWZoeG5peTg0VjROM3NfWWJiME9oZ1luUmNKdmhNS3V3S1RJQTgzZmE1OElDd0R5U2dhTUxJWkkwdl9FRlh1Y0hielRoNDRZS1dBMkxha2ZIbjYtRm1PODRwU0l4TVlzOGtVM0NtemhVbVhPSjdtMXFQclVacE5JNjlqU2M0NExhSktNQXJqQlo5aHB1d3ZGdHhNTVF6WGZvOEhPOEZiUjdpUmJON2QtTjA1WjRBOFp4djl2Z3c5YXM?oc=5",
-  "published": "2026-11-07T08:04:44+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "CDL Truck Driving Job near El Paso, TX | LOCAL CDL-A DRIVERS WANTED | HOME DAILY | FLEXIBLE SHIFTS",
-  "status": "rejected",
-  "reasons": [
-   "job listing / recruitment ad"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {

@@ -1278,7 +1278,8 @@
   "f7b36d4d3d": "posted|importance 65 (threshold 65), Regulations, local/other outlet; waited 10 min in queue",
   "7380656bf6": "skipped|importance 55 is below this platform's threshold (65)",
   "fa3e383ac3": "skipped|importance 50 is below this platform's threshold (65)",
-  "7dc42ef19b": "skipped|importance 57 is below this platform's threshold (65)"
+  "7dc42ef19b": "skipped|importance 57 is below this platform's threshold (65)",
+  "01f10c3dc5": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2470,6 +2471,13 @@
    "title": "AfA urges Congress to pass cargo theft bill",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T08:11:29.077156+00:00",
+   "story_id": "01f10c3dc5",
+   "title": "Trucking industry at breaking point as fuel, workforce and Christmas pressures collide",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
