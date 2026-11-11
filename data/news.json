@@ -1378,7 +1378,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.issuewire.com/the-beginning-of-a-legacy-the-trucking-company-that-helps-drivers-across-america-build-their-own-legacy-1881526651495935",
   "source_note": "ok · 574 words"
  },
@@ -10651,7 +10651,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "b6d7f09844",

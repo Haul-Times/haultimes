@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:41:04.856976+00:00",
+ "updated": "2026-11-11T23:51:03.256550+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -117,7 +117,7 @@
      12,
      16,
      12,
-     6,
+     5,
      null,
      null,
      null,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:27 pm EST",
+    "updated": "At 6:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 8,
-    "status": "8 minutes",
-    "updated": "2026-11-11 18:20 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-11 18:40 EST"
    },
    "usual": {
     "south": [
@@ -293,7 +293,7 @@
      13,
      7,
      4,
-     6,
+     5,
      null,
      null,
      null,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:27 pm EST",
+    "updated": "At 6:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-11 18:20 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-11 18:40 EST"
    },
    "usual": {
     "south": [
@@ -385,11 +385,11 @@
    "ports": "Alexandria Bay, NY ↔ Lansdowne, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "18:35:12",
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -417,7 +417,7 @@
      null,
      null,
      null,
-     null,
+     0,
      null,
      null,
      null,
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "18:35:13",
+    "updated": "18:45:13",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:35:12",
+    "updated": "18:45:13",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1092,7 +1092,7 @@
      8,
      0,
      0,
-     5,
+     6,
      null,
      null,
      null,
@@ -1235,7 +1235,7 @@
      15,
      15,
      15,
-     25,
+     26,
      null,
      null,
      null,
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-11 16:20 PDT"
+    "wait": 5,
+    "status": "5 minutes",
+    "updated": "2026-11-11 16:40 PDT"
    },
    "usual": {
     "south": [
@@ -1336,7 +1336,7 @@
      10,
      13,
      7,
-     10,
+     9,
      null,
      null,
      null,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-11 16:20 PDT"
+    "updated": "2026-11-11 16:40 PDT"
    },
    "usual": {
     "south": [
