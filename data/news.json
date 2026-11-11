@@ -231,6 +231,36 @@
   "sum_pending": false
  },
  {
+  "id": "41a44d7b89",
+  "slug": "texas-trucking-co-owner-accused-of-using-unauthorized-non-citizen-truc-41a44d7b89",
+  "title": "Texas trucking co. owner accused of using unauthorized non-citizen truck drivers to haul more than 1,000 domestic loads",
+  "orig_title": "Texas trucking co. owner accused of using unauthorized non-citizen truck drivers to haul more than 1,000 domestic loads",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "CDLLife",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV040ZzY3LW4yMEtnby1sRGc1aHdjSmpFZVZ0aGdwSmhOXzZoOGpScnV4cVV3QkVmR0YtYThRdVBncGpmbktzb2ZNa1ZYV2Vua3N4bjVUZDZLeGZ3VzhJeWtKOXRRQ0d3NWQ4cl9XS2VQQkUxZ0Z2VVB6Z2s1a1lrb2xaZ2N6YVJpRlpaRkItalloUm1yTnJwQmVTVVkzZGZtdW5hNEVsRGg1VW0tT0hKcnA5U2JKYWxkTVI4TWNWTUlHbEh5eHhsZ1BkWVhnVnVzcGFDSVpXU0l1ZlE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV040ZzY3LW4yMEtnby1sRGc1aHdjSmpFZVZ0aGdwSmhOXzZoOGpScnV4cVV3QkVmR0YtYThRdVBncGpmbktzb2ZNa1ZYV2Vua3N4bjVUZDZLeGZ3VzhJeWtKOXRRQ0d3NWQ4cl9XS2VQQkUxZ0Z2VVB6Z2s1a1lrb2xaZ2N6YVJpRlpaRkItalloUm1yTnJwQmVTVVkzZGZtdW5hNEVsRGg1VW0tT0hKcnA5U2JKYWxkTVI4TWNWTUlHbEh5eHhsZ1BkWVhnVnVzcGFDSVpXU0l1ZlE",
+  "snippet": "Texas trucking co. owner accused of using unauthorized non-citizen truck drivers to haul more than 1,000 domestic loads CDLLife",
+  "published": "2026-11-11T15:29:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T16:42:19.529846+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Texas trucking owner indicted in scheme involving 57 unauthorized drivers"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "131cd4219e"
+ },
+ {
   "id": "358dd7c86a",
   "slug": "j-j-keller-urges-motor-carriers-to-strengthen-cargo-security-ahead-of-358dd7c86a",
   "title": "J. J. Keller urges motor carriers to strengthen cargo security ahead of Thanksgiving",
@@ -1291,7 +1321,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://mountaintimes.info/2026/11/11/soaring-diesel-prices-are-pushing-vermont-loggers-to-the-brink/",
   "source_note": "ok · 576 words"
  },
