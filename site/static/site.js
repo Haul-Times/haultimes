@@ -23,30 +23,40 @@
   // Topic page filters
   var list = document.getElementById("story-list");
   if (!list) return;
-  var state = { range: "all", sort: "new" };
+  var state = { range: "all", sort: "new", show: 25 };
   var LIMIT = { today: 24, week: 168, month: 720, all: 1e9 };
+  var PAGE = 25;
+  var more = document.getElementById("more-stories");
 
   function apply() {
     var rows = Array.prototype.slice.call(list.querySelectorAll(".row"));
-    var now = Date.now(), shown = 0;
-    rows.forEach(function (r) {
-      var hrs = (now - Date.parse(r.getAttribute("data-time"))) / 3600000;
-      var ok = hrs <= LIMIT[state.range];
-      r.hidden = !ok;
-      if (ok) shown++;
-    });
+    var now = Date.now(), match = [];
     rows.sort(function (a, b) {
       if (state.sort === "top") return b.getAttribute("data-score") - a.getAttribute("data-score");
       return Date.parse(b.getAttribute("data-time")) - Date.parse(a.getAttribute("data-time"));
     }).forEach(function (r) { list.appendChild(r); });
+    rows.forEach(function (r) {
+      var hrs = (now - Date.parse(r.getAttribute("data-time"))) / 3600000;
+      var ok = hrs <= LIMIT[state.range];
+      if (ok) match.push(r);
+      r.hidden = !ok || match.length > state.show;  // 25 at a time; "Show more" reveals the next 25
+    });
     var empty = document.getElementById("no-stories");
-    if (empty) empty.hidden = shown > 0;
+    if (empty) empty.hidden = match.length > 0;
+    if (more) {
+      var left = match.length - state.show;
+      more.hidden = left <= 0;
+      more.textContent = "Show " + Math.min(PAGE, Math.max(left, 0)) + " more stories (" + Math.max(left, 0) + " left)";
+    }
   }
+
+  if (more) more.addEventListener("click", function () { state.show += PAGE; apply(); });
 
   document.querySelectorAll("[data-range],[data-sort]").forEach(function (btn) {
     btn.addEventListener("click", function () {
       var key = btn.hasAttribute("data-range") ? "range" : "sort";
       state[key] = btn.getAttribute(key === "range" ? "data-range" : "data-sort");
+      state.show = PAGE;
       document.querySelectorAll(key === "range" ? "[data-range]" : "[data-sort]").forEach(function (b) {
         b.setAttribute("aria-pressed", b === btn ? "true" : "false");
       });
@@ -155,28 +165,18 @@
   var box = document.getElementById("htStatus");
   if (!box) return;
   var label = box.querySelector(".st-label"), line = box.querySelector(".st-line"),
-      btn = box.querySelector(".st-row"), panel = box.querySelector(".st-panel"), misses = 0;
+      misses = 0;
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
   function show(d) {
     box.dataset.state = d.state;
     label.textContent = d.label;
     if (d.every) line.textContent = "Headlines checked every " + d.every + " minutes" + (d.last_checked_et ? " · Last checked " + d.last_checked_et : "");
-    var x = d.detail || {};
-    panel.innerHTML = d.state === "unavailable" ? "<p>Status information can't be reached right now. This doesn't mean news has stopped.</p>" :
-      "<ul><li>" + esc(x.news) + "</li>" + (x.sources ? "<li>" + esc(x.sources) + "</li>" : "") +
-      (x.last_new_story_et ? "<li>Last new story: " + esc(x.last_new_story_et) + "</li>" : "") +
-      (x.failing && x.failing.length ? "<li>Not answering: " + esc(x.failing.join(", ")) + "</li>" : "") +
-      "<li>" + esc(x.summaries) + "</li><li>" + esc(x.social) + "</li></ul>" +
-      "<p>Fuel, market and border data keep their own update times on their pages.</p>";
   }
   function poll() {
     fetch("/api/status?t=" + Date.now(), { cache: "no-store" }).then(function (r) { if (!r.ok) throw 0; return r.json(); })
       .then(function (d) { misses = 0; show(d); })
       .catch(function () { if (++misses >= 2) show({ state: "unavailable", label: "STATUS UNAVAILABLE" }); });
   }
-  btn.addEventListener("click", function () {
-    var open = panel.hidden; panel.hidden = !open; btn.setAttribute("aria-expanded", String(open));
-  });
   poll(); setInterval(poll, 60000);
   setTimeout(function () { if (!box.dataset.state) { misses = 2; show({ state: "unavailable", label: "STATUS UNAVAILABLE" }); } }, 12000);
 })();
