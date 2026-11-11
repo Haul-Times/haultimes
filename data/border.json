@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:11:05.385273+00:00",
+ "updated": "2026-11-11T18:21:02.789692+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 15,
+    "wait": 0,
     "fast_wait": 0,
-    "lanes": "2",
-    "status": "delay",
-    "updated": "At Noon EST",
+    "lanes": "5",
+    "status": "no delay",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -37,7 +37,7 @@
      0,
      0,
      13,
-     15,
+     10,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "13:09:51",
+    "updated": "13:19:52",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "13:09:51",
+    "updated": "13:19:52",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:09:51",
+    "updated": "13:19:52",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1457,8 +1457,8 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 10,
+    "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
@@ -1472,8 +1472,8 @@
    },
    {
     "name": "Lynden",
-    "wait": 10,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Madawaska",

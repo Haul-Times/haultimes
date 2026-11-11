@@ -51,7 +51,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/dat-van-spot-rates-rises-to-3-05-a-mile-in-october-highest-since-early-2022",
   "source_note": "ok · 575 words"
@@ -9409,7 +9409,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/articles/does-modernizing-your-fleet-mean-replacing-your-tms",
   "source_note": "ok · 2501 words"
  },
@@ -11437,7 +11437,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "859dc4b947",
@@ -17250,29 +17250,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "88bbfe1879",
-  "slug": "why-old-dominion-and-j-b-hunt-stock-could-gain-from-trucking-rule-chan-88bbfe1879",
-  "title": "Why Old Dominion and J.B. Hunt Stock Could Gain From Trucking Rule Changes",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenBRZjljM3hqYklXRmJQYTZtMnBkNm45T092b0RPYjRocmJZeGlDMk5RTzREeThsUjBFMTRsZnN4bVlndEZ3NGh0SzRaTG54aVJOZ1ZMOFZQRGZ1SzVZdnNqRHdYdDlrUnJBOTVsR19MNzIyWTJXVk9PNHNkUHVYbkUwem1lUENtX241NDh3?oc=5",
-  "published": "2026-11-07T18:14:01+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Why Old Dominion and J.B. Hunt Stock Could Gain From Trucking Rule Changes",
-  "status": "rejected",
-  "reasons": [
-   "stock commentary, no trucking development"
   ],
   "labels": [],
   "kind": "rejected",
