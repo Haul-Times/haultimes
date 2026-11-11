@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:50:35.326073+00:00",
+ "updated": "2026-11-11T01:55:07.984791+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 15,
+    "wait": 16,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -269,7 +269,7 @@
      0,
      0,
      0,
-     5,
+     7,
      null,
      null,
      null
@@ -295,7 +295,7 @@
      11,
      8,
      15,
-     30,
+     28,
      null,
      null,
      null
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -370,7 +370,7 @@
      3,
      10,
      9,
-     28,
+     29,
      null,
      null,
      null
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "20:41:01",
+    "updated": "20:51:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -944,7 +944,7 @@
      0,
      0,
      9,
-     2,
+     1,
      null,
      null,
      null
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:41:01",
+    "updated": "20:51:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 18:15 CST"
+    "updated": "2026-11-10 19:47 CST"
    },
    "usual": {
     "south": [
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 1 AM",
-   "best_north": "Usually fastest around 8 PM"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "sumas",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "17:41:01",
+    "updated": "17:51:01",
     "hours": "24 hrs/day"
    },
    "north": {
