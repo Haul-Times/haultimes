@@ -748,7 +748,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/diesel-price-drop-why-oil-markets-are-tumbling",
+  "source_note": "paywalled: excerpt only · 24 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "bb4e37791b",
@@ -6621,10 +6626,10 @@
   "slug": "nhtsa-funding-could-help-truck-owners-catch-safety-recalls-sooner-e18749db81",
   "title": "NHTSA funding could help truck owners catch safety recalls sooner",
   "orig_title": "NHTSA funding could help truck owners catch safety recalls sooner",
-  "summary": "",
+  "summary": "The National Highway Traffic Safety Administration said on Nov. 5 it will provide $1.5 million to help states improve how they notify vehicle owners about open safety recalls. Funded state programs would develop reliable notification methods tied to vehicle registration and renewal, measure how many recalled vehicles get repaired, and document results so other states can adopt successful practices. NHTSA also wants applicants to study how owners respond to different notification methods and track whether repairs follow. The program is not specifically aimed at commercial trucks, but the article notes that better alerts could help carriers and owner-operators plan repairs. States have until Feb. 4, 2027 to apply, and NHTSA has not said which states will receive grants or when new systems might start. The initiative does not set new commercial maintenance requirements.",
   "why": "",
   "category": "regs",
-  "region": "",
+  "region": "US",
   "importance": 70,
   "source": "TheTrucker.com",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE5XZ3V1dkpwaW0tTWlRazczZW9iUENtVndHWjhZU0ltQWhBcldkRFN3TWNmY3FYNVdxQXZaNDVTRThzdG5VS0p0emZUWHc5dGtIb2ZkU3lMeVVKTURnQTlrMkdRTEs5ODFyNXNmOTlXOGVWUTFWZ0NVclZ4LVdtX1NfQ3BMa2NBNjJWU0gwbTFHRjVUSVF0ZW5YWkpka1dwZDlTTVJ4MnhTSmx5djBBSHF6NzJSX2g4VUtlMHlB?oc=5",
@@ -6639,7 +6644,46 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/equipment-tech/nhtsa-funding-could-help-truck-owners-catch-safety-recalls-sooner",
+  "source_note": "ok · 697 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "e9a381709c8bae18",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-11T02:28:16.611532+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "announced Nov. 5 that it will make $1.5 million available"
+   },
+   {
+    "sentence": "2",
+    "quote": "Develop reliable methods to notify vehicle owners about outstanding safety recalls"
+   },
+   {
+    "sentence": "3",
+    "quote": "NHTSA is also encouraging applicants to evaluate how vehicle owners respond"
+   },
+   {
+    "sentence": "4",
+    "quote": "Although the initiative is not specifically directed at commercial trucks"
+   },
+   {
+    "sentence": "5",
+    "quote": "States interested in receiving funding must apply by Feb. 4, 2027."
+   },
+   {
+    "sentence": "6",
+    "quote": "The initiative does not establish new commercial vehicle maintenance requirements"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "equip",
+  "ai_importance": 50
  },
  {
   "id": "e61b242e6f",
@@ -7491,34 +7535,17 @@
   "sum_status": "withheld",
   "source_fp": "6f22be4ead466232",
   "source_scope": "full_article",
-  "sum_at": "2026-11-11T02:24:06.380746+00:00",
-  "sum_version": 2,
+  "sum_at": "2026-11-11T02:28:16.611532+00:00",
+  "sum_version": 3,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "national average for on-highway diesel was $6.29 per gallon on Nov. 2"
-   },
-   {
-    "sentence": "2",
-    "quote": "The Gulf Coast averaged $5.91, while California averaged $8.08"
-   },
-   {
-    "sentence": "3",
-    "quote": "projected national retail diesel would average $4.49 per gallon in 2027"
-   },
-   {
-    "sentence": "4",
-    "quote": "disruptions to crude oil flows could make near-term prices more volatile"
-   }
-  ],
+  "sum_evidence": [],
   "sum_problems": [
-   "7 sentences but only 4 evidence entries",
-   "copies a 12-word run from the source: '$6.29 per gallon on nov. 2, down 6 cents from the previous'"
+   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
   ],
-  "ai_importance": 70,
+  "ai_importance": 73,
   "sum_v4": true,
-  "ai_category": "fuel"
+  "ai_category": "fuel",
+  "sum_v3": true
  },
  {
   "id": "13e318c450",
@@ -8157,7 +8184,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "Cross-border",
   "importance": 68,
   "source": "TOKENPOST",
   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uMnJnbnRnWGJrLVZxT1FuWnJiRklrOGhKclZlYzFnZHBWLWhtdC1fTjNEUUZxT0paUGY3RURnd3ZkS2g3LTY0UlBqV3h3RkRNNVZydV92N1o?oc=5",
@@ -8174,7 +8201,56 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.tokenpost.com/news/business/52255",
+  "source_note": "ok · 343 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "bb8cc890f1e1e462",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-11T02:28:16.611532+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "rose 12% to an estimated $230 million"
+   },
+   {
+    "sentence": "2",
+    "quote": "estimated losses climbed 39% to about $720 million"
+   },
+   {
+    "sentence": "3",
+    "quote": "averaged about $450,000 in losses, up from $260,000"
+   },
+   {
+    "sentence": "4",
+    "quote": "valued above $1 million totaled 19, compared with nine"
+   },
+   {
+    "sentence": "5",
+    "quote": "Fictitious pickups — cargo handoffs secured through deception"
+   },
+   {
+    "sentence": "6",
+    "quote": "six pallets of NVIDIA equipment collected in East Oakland on Aug. 29"
+   },
+   {
+    "sentence": "7",
+    "quote": "lost track of it in San Bernardino County"
+   },
+   {
+    "sentence": "8",
+    "quote": "a fictitious pickup has not been confirmed"
+   }
+  ],
+  "sum_problems": [
+   "summary longer than 160 words"
+  ],
+  "ai_category": "other",
+  "ai_importance": 70
  },
  {
   "id": "6178f00440",
