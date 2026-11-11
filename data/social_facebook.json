@@ -1562,7 +1562,9 @@
   "1e8fb67eda": "skipped|importance 45 is below this platform's threshold (65)",
   "378d60a29c": "skipped|importance 57 is below this platform's threshold (65)",
   "e6c2eb5abf": "skipped|minor item (incident) or low-quality source",
-  "9f8428397a": "skipped|importance 45 is below this platform's threshold (65)"
+  "9f8428397a": "skipped|importance 45 is below this platform's threshold (65)",
+  "3525c23e88": "merged|same event already posted",
+  "35b306dc98": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3018,6 +3020,20 @@
    "at": "2026-11-11T17:41:22.989237+00:00",
    "story_id": "9f8428397a",
    "title": "Three Truck Platforms, Five Trucks, One Lane: Inside Kodiak’s Launch Plan",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T17:51:31.486988+00:00",
+   "story_id": "3525c23e88",
+   "title": "DAT: Van spot rates rises to $3.05 a mile in October, highest since early 2022",
+   "action": "merged",
+   "reason": "same event already posted: DAT: Van spot rate rises to $3.05 a mile, highest since early 2022"
+  },
+  {
+   "at": "2026-11-11T17:51:31.486988+00:00",
+   "story_id": "35b306dc98",
+   "title": "The beginning of a LEGACY. The trucking company that helps drivers across America build their own legacy.",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
