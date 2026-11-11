@@ -1441,7 +1441,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.ajot.com/news/traffix-data-spot-rates-hold-at-3.47-a-mile-but-peak-freight-is-meeting-tight-capacity",
   "source_note": "ok · 336 words"
  },
@@ -10489,6 +10489,35 @@
   "first_seen": "2026-11-09T00:47:54.174006+00:00",
   "image": "",
   "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "cf595578bc",
+  "slug": "six-pallets-of-nvidia-gpus-worth-11-4-million-stolen-in-california-car-cf595578bc",
+  "title": "Six Pallets of Nvidia GPUs Worth $11.4 Million Stolen in California Cargo Heist",
+  "orig_title": "Six Pallets of Nvidia GPUs Worth $11.4 Million Stolen in California Cargo Heist",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "TechStory",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG45eVdjTjd1c0hyd3lRZFVvaF9BVnFOcmVTZUc5NFZyUnZpWWs2bEFaUDBnVmN2emRMODhKWF9WS09ncGRfSzBILUlDbTZrSlZ6Q3JfRF9RZ29rMmFMZFZxZGRLYUNpM04tZWZRLU5OUElTR3NPSDI1V3BrN2pfdlUyNGZ4RUdVS1FGYndhOURxcFdCUnB0Xzg4UXRfMFJKSkE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG45eVdjTjd1c0hyd3lRZFVvaF9BVnFOcmVTZUc5NFZyUnZpWWs2bEFaUDBnVmN2emRMODhKWF9WS09ncGRfSzBILUlDbTZrSlZ6Q3JfRF9RZ29rMmFMZFZxZGRLYUNpM04tZWZRLU5OUElTR3NPSDI1V3BrN2pfdlUyNGZ4RUdVS1FGYndhOURxcFdCUnB0Xzg4UXRfMFJKSkE",
+  "snippet": "Six Pallets of Nvidia GPUs Worth $11.4 Million Stolen in California Cargo Heist TechStory",
+  "published": "2026-11-08T09:14:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T04:21:04.087932+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"

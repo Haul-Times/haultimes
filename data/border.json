@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:11:04.579339+00:00",
+ "updated": "2026-11-11T04:21:03.941685+00:00",
  "hour_now": 23,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:57 pm EST",
+    "updated": "At 11:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:57 pm EST",
+    "updated": "At 11:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -373,7 +373,7 @@
      31,
      49,
      33,
-     30
+     31
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "23:01:31",
+    "updated": "23:11:31",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 21:15 EST"
+    "updated": "2026-11-10 23:14 EST"
    },
    "usual": {
     "south": [
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "23:01:31",
+    "updated": "23:11:31",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1097,7 +1097,7 @@
      53,
      55,
      44,
-     42
+     43
     ],
     "north": [
      0,
@@ -1240,7 +1240,7 @@
      60,
      7,
      39,
-     22
+     15
     ],
     "north": [
      0,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 pm PST",
+    "updated": "At 8:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 1 AM",
-   "best_north": "Usually fastest around 12 AM"
+   "best_north": "Usually fastest around 11 PM"
   },
   {
    "id": "sumas",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "20:01:31",
+    "updated": "20:11:31",
     "hours": "24 hrs/day"
    },
    "north": {
