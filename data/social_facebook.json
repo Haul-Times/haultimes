@@ -1070,6 +1070,34 @@
     "created": "2026-11-11T11:01:26+0000",
     "at": "2026-11-11T11:11:27.970442+00:00"
    }
+  },
+  "3ca753f2e7": {
+   "story_id": "3ca753f2e7",
+   "title": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago",
+   "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOE9wb1pLRUlyMEwwV1lMNHAySFdsR1lkZDY1cEpmSzh0c2xqdUhWeUkzSG1tQkw1Z3lva2YyWVRlTW1zenVuSHZUNVBQYmdKbUcxd21veHVOUlNhTFNaTjhLV1duWk9VRFpiMWMwanBjM0RYbXVMdFJYQ0VYaUJKbjdzczFUZS1pTmZDX0djUjU4aUxFZ0tXZkY1RnpwZjk5OXVuZGpIaUR0QWpxcTBNTFozNE5ONTZnYktaRzMtYUlfOVNUTlRTb2RB",
+   "category": "drivers",
+   "source": "elciudadano.com",
+   "dest": "https://haultimes.com/story/kast-struggles-to-address-fuel-crisis-ongoing-truckers-strike-and-prot-3ca753f2e7/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=3ca753f2e7",
+   "caption": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago.\n\nReported by elciudadano. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
+   "status": "queued",
+   "created_at": "2026-11-11T12:11:19.909384+00:00",
+   "published": "2026-11-11T11:34:39+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago | HaulTimes",
+    "og:description": "Reported by elciudadano.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/217102e862.png",
+    "og:url": "https://haultimes.com/story/kast-struggles-to-address-fuel-crisis-ongoing-truckers-strike-and-prot-3ca753f2e7/"
+   },
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": true
   }
  },
  "paused": null,
@@ -1323,7 +1351,8 @@
   "7dc42ef19b": "skipped|importance 57 is below this platform's threshold (65)",
   "01f10c3dc5": "skipped|importance 50 is below this platform's threshold (65)",
   "e00cf96993": "posted|importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue",
-  "f4c89849ff": "skipped|importance 45 is below this platform's threshold (65)"
+  "f4c89849ff": "skipped|importance 45 is below this platform's threshold (65)",
+  "3ca753f2e7": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
  },
  "decisions": [
   {
@@ -2543,6 +2572,13 @@
    "title": "C.H. Robinson's DeSpir earns TAPA cargo security certification",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-11T12:11:19.909384+00:00",
+   "story_id": "3ca753f2e7",
+   "title": "Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Santiago",
+   "action": "queued",
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
   }
  ],
  "visibility": {
