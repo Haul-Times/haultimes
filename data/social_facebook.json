@@ -1561,7 +1561,8 @@
   "d6d3ac5099": "skipped|importance 57 is below this platform's threshold (65)",
   "1e8fb67eda": "skipped|importance 45 is below this platform's threshold (65)",
   "378d60a29c": "skipped|importance 57 is below this platform's threshold (65)",
-  "e6c2eb5abf": "skipped|minor item (incident) or low-quality source"
+  "e6c2eb5abf": "skipped|minor item (incident) or low-quality source",
+  "9f8428397a": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3012,6 +3013,13 @@
    "title": "Lawsuit targets trucking company in deadly Greenville Co. crash",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-11T17:41:22.989237+00:00",
+   "story_id": "9f8428397a",
+   "title": "Three Truck Platforms, Five Trucks, One Lane: Inside Kodiak’s Launch Plan",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
