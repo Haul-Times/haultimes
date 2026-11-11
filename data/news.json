@@ -1255,10 +1255,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiZ0F, 400000 bytes)",
-  "sum_done": false,
-  "sum_status": "retrying (no publisher address: google page without signature (https://news.google.com/articles/CBMiZ0F, 400000 bytes))"
+  "sum_done": true,
+  "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiZ0F, 400000 bytes))"
  },
  {
   "id": "5cc484cdbb",
@@ -1506,10 +1506,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiqAF, 400000 bytes)",
-  "sum_done": false,
-  "sum_status": "retrying (no publisher address: google page without signature (https://news.google.com/articles/CBMiqAF, 400000 bytes))"
+  "sum_done": true,
+  "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiqAF, 400000 bytes))"
  },
  {
   "id": "233acdc2b0",
@@ -4744,10 +4744,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiqwF, 400000 bytes)",
-  "sum_done": false,
-  "sum_status": "retrying (no publisher address: google page without signature (https://news.google.com/articles/CBMiqwF, 400000 bytes))"
+  "sum_done": true,
+  "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiqwF, 400000 bytes))"
  },
  {
   "id": "98e6f49b90",
@@ -4853,10 +4853,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "source_note": "no publisher address: google page without signature (https://news.google.com/articles/CBMiowF, 400000 bytes)",
-  "sum_done": false,
-  "sum_status": "retrying (no publisher address: google page without signature (https://news.google.com/articles/CBMiowF, 400000 bytes))"
+  "sum_done": true,
+  "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiowF, 400000 bytes))"
  },
  {
   "id": "9faf2c2dd0",
