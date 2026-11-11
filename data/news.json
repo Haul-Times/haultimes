@@ -5670,6 +5670,35 @@
   "sum_pending": false
  },
  {
+  "id": "6c5f2971a5",
+  "slug": "philadelphia-flyers-outlast-vancouver-canucks-for-3-1-victory-6c5f2971a5",
+  "title": "Philadelphia Flyers outlast Vancouver Canucks for 3-1 victory",
+  "orig_title": "Philadelphia Flyers outlast Vancouver Canucks for 3-1 victory",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXU3bENNVU81ZXhwcjV3SHo1MTVhRDlZVEM3X0xYMVlVcGxmd0VjdGlPeEQxVFFiNkcyMDhpMXhCYk5oSEVDc1FvR2w4eWJ5QTRSQ1dTekg5MHZBclR1UEVZR3ZDWjhMU3l6TG9JY1UzdG1MdFlrMnhKTGZrSUZhbTRVeUJOaWZOdmVSYXVoY1U2SklVMjh1MHJaN2ZhR2JsaHlRZDBkZGE3ZGZQTXQ5U3RmQmxNUWc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXU3bENNVU81ZXhwcjV3SHo1MTVhRDlZVEM3X0xYMVlVcGxmd0VjdGlPeEQxVFFiNkcyMDhpMXhCYk5oSEVDc1FvR2w4eWJ5QTRSQ1dTekg5MHZBclR1UEVZR3ZDWjhMU3l6TG9JY1UzdG1MdFlrMnhKTGZrSUZhbTRVeUJOaWZOdmVSYXVoY1U2SklVMjh1MHJaN2ZhR2JsaHlRZDBkZGE3ZGZQTXQ5U3RmQmxNUWc",
+  "snippet": "Philadelphia Flyers outlast Vancouver Canucks for 3-1 victory The Globe and Mail",
+  "published": "2026-11-10T06:05:52+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T12:01:04.762399+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8b643db7d4",
   "slug": "clean-tech-power-stock-jumps-22-on-first-definitive-heavy-duty-inverte-8b643db7d4",
   "title": "Clean-Tech Power Stock Jumps 22% on First Definitive Heavy-Duty Inverter License",
@@ -9231,7 +9260,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://ontruck.org/ota-calls-for-stronger-laws-to-prevent-roadway-obstructions-and-protect-provincial-supply-chains-and-businesses/",
   "source_note": "ok · 377 words"
  },
@@ -9931,6 +9960,35 @@
   "sum_pending": false
  },
  {
+  "id": "cce9ad0eea",
+  "slug": "devils-announce-connor-hellebuyck-won-t-play-tuesday-in-return-to-winn-cce9ad0eea",
+  "title": "Devils announce Connor Hellebuyck won’t play Tuesday in return to Winnipeg",
+  "orig_title": "Devils announce Connor Hellebuyck won’t play Tuesday in return to Winnipeg",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORG5UbU9HUi1DdFdHR1dtMHlBSjBRa1pNQkQzenprb3hUOTVrczIySnRPZERTNjZFNzlFanBlS1liTFkwRWdCekdOYUtnUG92QUNzSVBlX0h5eXZfNFRLRnU3UGFMSVJYbXRvRVN1MnZpeHRzcDlWNk4zbTc5cjV2aTZnQk5BcElLOXlkdXBfTTNIOWlGcE5nS043aVFGNHJyUFc5bA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORG5UbU9HUi1DdFdHR1dtMHlBSjBRa1pNQkQzenprb3hUOTVrczIySnRPZERTNjZFNzlFanBlS1liTFkwRWdCekdOYUtnUG92QUNzSVBlX0h5eXZfNFRLRnU3UGFMSVJYbXRvRVN1MnZpeHRzcDlWNk4zbTc5cjV2aTZnQk5BcElLOXlkdXBfTTNIOWlGcE5nS043aVFGNHJyUFc5bA",
+  "snippet": "Devils announce Connor Hellebuyck won’t play Tuesday in return to Winnipeg The Globe and Mail",
+  "published": "2026-11-09T13:18:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T12:01:04.762399+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b80fc7fa5e",
   "slug": "truck-drivers-to-end-strike-after-govt-agrees-to-remove-roadblocks-imp-b80fc7fa5e",
   "title": "Truck drivers to end strike after govt agrees to remove roadblocks, improve security",
@@ -10251,7 +10309,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "199d06650c",
@@ -12210,6 +12268,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "428e53bc18"
+ },
+ {
+  "id": "8b4c5835ea",
+  "slug": "employers-are-willing-to-pay-more-but-only-for-the-right-skills-8b4c5835ea",
+  "title": "Employers are willing to pay more, but only for the right skills",
+  "orig_title": "Employers are willing to pay more, but only for the right skills",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUFodTBXeS1TQmtCd0tyYmV3bmNvZktrYm5zY0tqYlpGZS1ITzJzSGVBZEw3UGhoR254Vl95QWhKVHRULVhCWnc0Y2h5a2dlMEd2NUtsOUp0c2RFRXJfZ2pYc2ZiM3BEelB5M05pdXJYY1NYS0liVG9sbWJFN1NvWjhCOTJ6V1JLc29IS20tNXpnREtzR1pXa25BYkgwMklGZVRJeklhMGVOWGpGY0Y2N2VXRGE4bTQ2WGFCNzJn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUFodTBXeS1TQmtCd0tyYmV3bmNvZktrYm5zY0tqYlpGZS1ITzJzSGVBZEw3UGhoR254Vl95QWhKVHRULVhCWnc0Y2h5a2dlMEd2NUtsOUp0c2RFRXJfZ2pYc2ZiM3BEelB5M05pdXJYY1NYS0liVG9sbWJFN1NvWjhCOTJ6V1JLc29IS20tNXpnREtzR1pXa25BYkgwMklGZVRJeklhMGVOWGpGY0Y2N2VXRGE4bTQ2WGFCNzJn",
+  "snippet": "Employers are willing to pay more, but only for the right skills The Globe and Mail",
+  "published": "2026-11-08T14:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T12:01:04.762399+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0f89923a3c",
