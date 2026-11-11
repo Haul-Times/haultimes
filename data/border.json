@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:31:07.598280+00:00",
+ "updated": "2026-11-11T01:41:01.958792+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 8:27 pm EST",
+    "status": "delay",
+    "updated": "At 8:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -269,7 +269,7 @@
      0,
      0,
      0,
-     0,
+     3,
      null,
      null,
      null
@@ -295,7 +295,7 @@
      11,
      8,
      15,
-     31,
+     33,
      null,
      null,
      null
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:27 pm EST",
+    "updated": "At 8:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -370,7 +370,7 @@
      3,
      10,
      9,
-     24,
+     26,
      null,
      null,
      null
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "20:31:00",
+    "updated": "20:41:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:31:00",
+    "updated": "20:41:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,17 +1060,17 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 50,
+    "wait": 55,
     "fast_wait": null,
     "lanes": "1",
     "status": "delay",
-    "updated": "At 6:00 pm CST",
+    "updated": "At 7:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-10 19:15 CDT"
+    "updated": "2026-11-10 20:29 CDT"
    },
    "usual": {
     "south": [
@@ -1094,7 +1094,7 @@
      0,
      0,
      15,
-     50,
+     51,
      null,
      null,
      null
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "17:31:01",
+    "updated": "17:41:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 15,
-    "status": "15 minutes"
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Aldergrove",
