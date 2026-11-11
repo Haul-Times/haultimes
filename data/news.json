@@ -1377,7 +1377,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.issuewire.com/the-beginning-of-a-legacy-the-trucking-company-that-helps-drivers-across-america-build-their-own-legacy-1881526651495935",
   "source_note": "ok · 574 words"
@@ -1702,7 +1702,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "7266267046",
@@ -2173,7 +2177,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.tuko.co.ke/world/africa/646451-god-angels-sick-pregnant-woman-stranded-a-highway-night-rescued-by-2-truck-drivers/",
+  "source_note": "ok · 531 words"
  },
  {
   "id": "d91886d91e",
