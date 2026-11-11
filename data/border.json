@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T00:57:47.396205+00:00",
- "hour_now": 19,
+ "updated": "2026-11-11T01:01:01.265872+00:00",
+ "hour_now": 20,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -44,7 +44,7 @@
      22,
      10,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -70,7 +70,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -119,7 +119,7 @@
      9,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -145,7 +145,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -194,7 +194,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -220,7 +220,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -269,7 +269,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -295,7 +295,7 @@
      11,
      8,
      15,
-     null,
+     30,
      null,
      null,
      null
@@ -344,7 +344,7 @@
      10,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -370,7 +370,7 @@
      3,
      10,
      9,
-     null,
+     7,
      null,
      null,
      null
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "19:55:54",
+    "updated": "20:00:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -445,7 +445,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -494,7 +494,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -520,7 +520,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -569,7 +569,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -595,7 +595,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -644,7 +644,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -670,7 +670,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -719,7 +719,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -745,7 +745,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -794,7 +794,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -820,7 +820,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -869,7 +869,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -895,7 +895,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -944,7 +944,7 @@
      0,
      0,
      9,
-     null,
+     10,
      null,
      null,
      null
@@ -970,7 +970,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:55:54",
+    "updated": "20:00:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1094,7 +1094,7 @@
      0,
      0,
      15,
-     null,
+     50,
      null,
      null,
      null
@@ -1120,7 +1120,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1188,7 +1188,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1237,7 +1237,7 @@
      20,
      42,
      58,
-     null,
+     60,
      null,
      null,
      null
@@ -1263,7 +1263,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1312,7 +1312,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
@@ -1338,7 +1338,7 @@
      5,
      5,
      5,
-     null,
+     5,
      null,
      null,
      null
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "16:55:55",
+    "updated": "17:00:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1413,7 +1413,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null
