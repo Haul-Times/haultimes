@@ -23,7 +23,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "7380656bf6",
@@ -49,7 +50,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f7b36d4d3d",
@@ -75,7 +77,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "742e6216bc",
@@ -101,7 +104,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "ccd9006234",
@@ -129,7 +133,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f688f41b6a",
@@ -155,7 +160,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "8352a42eef",
@@ -181,7 +187,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "19041fd78d",
@@ -209,7 +216,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a3df1e5254",
@@ -237,7 +245,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3cce4b6a98",
@@ -263,7 +272,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "9b09ae420c",
@@ -289,7 +299,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "1d6b16d398",
@@ -315,7 +326,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "e9f617efe0",
@@ -343,7 +355,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "4f87474b94",
@@ -371,7 +384,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "8c735c702b",
@@ -397,7 +411,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "fcbb818ef0",
@@ -423,7 +438,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "603bae12fe",
@@ -449,7 +465,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "cd01d58c65",
@@ -477,7 +494,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0eda08e248",
@@ -503,7 +521,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "02eb18d7fd",
@@ -529,7 +548,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f788ed9e88",
@@ -555,7 +575,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "1bd8a25f88",
@@ -583,7 +604,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "06e4d2b188",
@@ -611,7 +633,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8198337280",
@@ -639,7 +662,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f4b921b727",
@@ -667,7 +691,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "ab5dbdd692",
@@ -693,7 +718,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "bb4e37791b",
@@ -721,7 +747,8 @@
    "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "7b86eea09f",
@@ -749,7 +776,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "023fd6057f",
@@ -777,7 +805,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "52b3f0cc5a",
@@ -803,7 +832,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "fc1e6e4046",
@@ -829,7 +859,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "d839f6bd80",
@@ -855,7 +886,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "4b917c17f1",
@@ -881,7 +913,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "5625967b56",
@@ -909,7 +942,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "d7087b3027",
@@ -937,7 +971,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "cb6baa3c01",
@@ -965,7 +1000,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "56e345cc09",
@@ -993,7 +1029,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "eba50406e0",
@@ -1021,7 +1058,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0ef42f4242",
@@ -1047,7 +1085,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "crime"
+  "kind": "crime",
+  "sum_pending": false
  },
  {
   "id": "ae3eea659d",
@@ -1075,7 +1114,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9c2774918b",
@@ -1103,7 +1143,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c35e0010a1",
@@ -1129,7 +1170,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c272484a07",
@@ -1155,7 +1197,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "094bf8c5ce",
@@ -1181,7 +1224,12 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "no publisher address",
+  "sum_done": true,
+  "sum_status": "no source text (no publisher address)"
  },
  {
   "id": "5cc484cdbb",
@@ -1209,7 +1257,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "cbf4f992db",
@@ -1237,7 +1286,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "715577ea7b",
@@ -1263,7 +1313,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c2f3d704e3",
@@ -1289,7 +1340,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "4189f03da5",
@@ -1315,7 +1367,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "8b2c38e46d",
@@ -1341,7 +1394,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "fd5221d945",
@@ -1367,7 +1421,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "fbd702a75b",
@@ -1393,7 +1448,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "b743753e5c",
@@ -1419,7 +1475,12 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "no publisher address",
+  "sum_done": true,
+  "sum_status": "no source text (no publisher address)"
  },
  {
   "id": "233acdc2b0",
@@ -1445,7 +1506,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "disruption"
+  "kind": "disruption",
+  "sum_pending": false
  },
  {
   "id": "6af1686cdb",
@@ -1473,7 +1535,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "db3b41cb73",
@@ -1499,7 +1562,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "8355182ee8",
@@ -1527,7 +1591,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "8adf7496eb",
@@ -1555,7 +1620,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b4faaf0908",
@@ -1583,7 +1649,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "66e6a65877",
@@ -1611,7 +1678,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "5e1a1119d4",
@@ -1637,7 +1705,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "1aae7fdef8",
@@ -1663,7 +1732,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "280783f663",
@@ -1691,7 +1761,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4caca7ffb3",
@@ -1720,6 +1791,7 @@
   ],
   "labels": [],
   "kind": "event",
+  "sum_pending": false,
   "dup_of": "3568f5d719"
  },
  {
@@ -1748,7 +1820,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "c002f2962a",
@@ -1774,7 +1847,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "766ae4fb2e",
@@ -1800,7 +1874,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c8cd0f9d04",
@@ -1828,7 +1903,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "e8d28f9393",
@@ -1856,7 +1932,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9be6b8b349",
@@ -1882,7 +1959,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "5553e2f561",
@@ -1910,7 +1988,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ffccee5e0a",
@@ -1936,7 +2015,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "3176cf5643",
@@ -1964,7 +2044,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "57e48c4bf1",
@@ -1990,7 +2071,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "8fe1a28a86",
@@ -2016,7 +2098,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "3942921a18",
@@ -2044,7 +2127,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "89ca20ac5e",
@@ -2072,7 +2156,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f37e0bf7a8",
@@ -2100,7 +2185,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "8543bbf9fc",
@@ -2128,7 +2214,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "b05c790f3b",
@@ -2154,7 +2241,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "cf75ec0167",
@@ -2180,7 +2268,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c65fb3d290",
@@ -2208,7 +2297,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "390a54f4b4",
@@ -2236,7 +2326,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "386cf0ba2f",
@@ -2264,7 +2355,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "728b211887",
@@ -2293,6 +2385,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "16c6f27b45"
  },
  {
@@ -2317,7 +2410,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "02a8c38824",
@@ -2345,7 +2439,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e592010abe",
@@ -2373,7 +2468,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "7a77ebc56e",
@@ -2401,7 +2497,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "5b9fa5f680",
@@ -2427,7 +2524,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a47ed62eec",
@@ -2453,7 +2551,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "4686be3482",
@@ -2479,7 +2578,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "573d91d7eb",
@@ -2503,7 +2603,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "d856c3453a",
@@ -2529,7 +2630,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "2a86c81fcf",
@@ -2557,7 +2659,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "bc9ed7a65e",
@@ -2585,7 +2688,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "7fca7057c6",
@@ -2611,7 +2715,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "81d1dd3fe9",
@@ -2635,7 +2740,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "b7de8ed881",
@@ -2663,7 +2769,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "bf4bb9ae24",
@@ -2692,7 +2799,8 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "dup_of": "5e1a33f0b1"
+  "dup_of": "5e1a33f0b1",
+  "sum_pending": false
  },
  {
   "id": "aae60bce1a",
@@ -2720,7 +2828,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ab01b31cb0",
@@ -2744,7 +2853,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c298f38497",
@@ -2770,7 +2880,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ab4bacf873",
@@ -2794,7 +2905,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "event"
+  "kind": "event",
+  "sum_pending": false
  },
  {
   "id": "a8e0d193f8",
@@ -2820,7 +2932,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e50a82377b",
@@ -2848,7 +2961,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "213cfebe89",
@@ -2874,7 +2988,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "2104cc5b6c",
@@ -2900,7 +3015,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "fe70ebd4f2",
@@ -2926,7 +3042,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "70b8c667b8",
@@ -2952,7 +3069,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "533b724140",
@@ -2981,7 +3099,8 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "dup_of": "62f1cde88b"
+  "dup_of": "62f1cde88b",
+  "sum_pending": false
  },
  {
   "id": "de46b78765",
@@ -3005,7 +3124,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "5e1a33f0b1",
@@ -3033,7 +3153,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b5fdd895bc",
@@ -3059,7 +3180,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "feb0cb8dc0",
@@ -3085,7 +3207,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "1ca2503925",
@@ -3113,7 +3236,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2581d36e44",
@@ -3139,7 +3263,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0ef0171465",
@@ -3165,7 +3290,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "af5018cae6",
@@ -3193,7 +3319,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e8cf9f5f84",
@@ -3219,7 +3346,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8ebcb9ecf0",
@@ -3247,7 +3375,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4aa5424283",
@@ -3273,7 +3402,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "530b9af392",
@@ -3299,7 +3429,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ad056ee773",
@@ -3327,7 +3458,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "de7e9739f8",
@@ -3353,7 +3485,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "229d811a47",
@@ -3381,7 +3514,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "23874fd4fa",
@@ -3409,7 +3543,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "76dc82dc3b",
@@ -3435,7 +3570,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8b643db7d4",
@@ -3462,6 +3598,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "1f7f69eaa4"
  },
  {
@@ -3488,7 +3625,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "83eecc242b",
@@ -3514,7 +3652,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "498f2cb139",
@@ -3542,7 +3681,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "76d1c6bff2",
@@ -3568,7 +3708,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c99e6d2501",
@@ -3592,7 +3733,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f636d43c1f",
@@ -3616,7 +3758,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "b7b8fb7da8",
@@ -3640,7 +3783,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "e4b131dc74",
@@ -3666,7 +3810,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d3bcdd6a20",
@@ -3695,7 +3840,8 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "dup_of": "62f1cde88b"
+  "dup_of": "62f1cde88b",
+  "sum_pending": false
  },
  {
   "id": "33c96b704c",
@@ -3719,7 +3865,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "e462d0d40e",
@@ -3743,7 +3890,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "b0d2834bef",
@@ -3771,7 +3919,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0aa4a2dd3e",
@@ -3795,7 +3944,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "58925ac381",
@@ -3819,7 +3969,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "b6d7f09844",
@@ -3843,7 +3994,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "160209addc",
@@ -3869,7 +4021,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e9962f774a",
@@ -3893,7 +4046,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "2e52a3b319",
@@ -3919,7 +4073,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d21eec4468",
@@ -3943,7 +4098,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "d20abbe528",
@@ -3969,7 +4125,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c0533fa78f",
@@ -3997,7 +4154,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "bf1e6fe508",
@@ -4021,7 +4179,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "14cd98f02f",
@@ -4047,7 +4206,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "51137ca31c",
@@ -4075,7 +4235,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "6b77086f28",
@@ -4101,7 +4262,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b007adf0af",
@@ -4125,7 +4287,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "9798f71b39",
@@ -4151,7 +4314,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "890b1308e1",
@@ -4177,7 +4341,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "2b12ea5fa6",
@@ -4201,7 +4366,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "fb14887a50",
@@ -4225,7 +4391,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "fff86dfb1c",
@@ -4249,7 +4416,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "crime"
+  "kind": "crime",
+  "sum_pending": false
  },
  {
   "id": "07209e2b45",
@@ -4273,7 +4441,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "39c787ba37",
@@ -4299,7 +4468,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "dda361131a",
@@ -4327,7 +4497,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "375255810d",
@@ -4353,7 +4524,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "02597cb321",
@@ -4379,7 +4551,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "1dc529255a",
@@ -4407,7 +4580,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d31557a167",
@@ -4433,7 +4607,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2c77af1c4f",
@@ -4459,7 +4634,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "6f93a4c45c",
@@ -4483,7 +4659,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "3ddcf6d675",
@@ -4509,7 +4686,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8d6f3d8ba7",
@@ -4535,7 +4713,12 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "no publisher address",
+  "sum_done": true,
+  "sum_status": "no source text (no publisher address)"
  },
  {
   "id": "98e6f49b90",
@@ -4561,7 +4744,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "8c55fe13eb",
@@ -4588,6 +4772,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "09353b98bc"
  },
  {
@@ -4612,7 +4797,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "feature"
+  "kind": "feature",
+  "sum_pending": false
  },
  {
   "id": "1b9eaa0792",
@@ -4636,7 +4822,12 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "no publisher address",
+  "sum_done": true,
+  "sum_status": "no source text (no publisher address)"
  },
  {
   "id": "9faf2c2dd0",
@@ -4662,7 +4853,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "75fb78c6f6",
@@ -4686,7 +4878,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "7bdf0749e5",
@@ -4710,7 +4903,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f81b2c4d43",
@@ -4736,7 +4930,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "a5d79c7378",
@@ -4764,7 +4959,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "eb6db6c5c6",
@@ -4788,7 +4984,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "534289d9e0",
@@ -4812,7 +5009,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "b98823d938",
@@ -4838,7 +5036,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "62f1cde88b",
@@ -4866,7 +5065,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "64402e19b8",
@@ -4893,6 +5093,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "7c4f39840c"
  },
  {
@@ -4920,6 +5121,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "09353b98bc"
  },
  {
@@ -4946,7 +5148,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "679d6f3b2f",
@@ -4974,7 +5177,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ae3d22b527",
@@ -5000,7 +5204,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "166b06a96f",
@@ -5026,7 +5231,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "c76fb2e8a7",
@@ -5052,7 +5258,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e386227328",
@@ -5080,7 +5287,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d456d8df87",
@@ -5106,7 +5314,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "9d7d771940",
@@ -5132,7 +5341,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "0c75131c4d",
@@ -5158,7 +5368,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "650951df26",
@@ -5184,7 +5395,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d259bc1a28",
@@ -5208,7 +5420,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "cdc3c251fb",
@@ -5234,7 +5447,8 @@
    "story about another country (UK/Europe)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "781fab2475",
@@ -5260,7 +5474,8 @@
    "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2d4116ae72",
@@ -5284,7 +5499,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c1b0dcb0b5",
@@ -5308,7 +5524,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f22cb7ef8f",
@@ -5332,7 +5549,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "598d07d769",
@@ -5356,7 +5574,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "0a7a212dcd",
@@ -5380,7 +5599,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "480825101b",
@@ -5406,7 +5626,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "e3ce903fa3",
@@ -5432,7 +5653,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "08c740ad2d",
@@ -5458,7 +5680,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "a899c170d6",
@@ -5484,7 +5707,8 @@
    "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2121a0a8e8",
@@ -5510,7 +5734,8 @@
    "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "de2dead35c",
@@ -5534,7 +5759,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "93de55188f",
@@ -5560,7 +5786,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "859dc4b947",
@@ -5586,7 +5813,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "4eeb305e01",
@@ -5612,7 +5840,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "072065901a",
@@ -5638,7 +5867,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "addf6fbe95",
@@ -5664,7 +5894,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4cecda89cb",
@@ -5688,7 +5919,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "d6d5fa686f",
@@ -5712,7 +5944,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "9c3fd6d54c",
@@ -5738,7 +5971,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "81a339c7b2",
@@ -5765,6 +5999,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "d259bc1a28"
  },
  {
@@ -5789,7 +6024,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "0cc68a5d0e",
@@ -5817,7 +6053,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4648ff7e05",
@@ -5841,7 +6078,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "af6752d55c",
@@ -5867,7 +6105,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "708c2ac4b9",
@@ -5891,7 +6130,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "becec7e237",
@@ -5917,7 +6157,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "fe070d29c6",
@@ -5943,7 +6184,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "367623c644",
@@ -5969,7 +6211,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "1bfc38f0f3",
@@ -5995,7 +6238,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "1c67ca0104",
@@ -6023,7 +6267,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ab55c44bbc",
@@ -6049,7 +6294,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "863880f5c4",
@@ -6075,7 +6321,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "d9567602da",
@@ -6099,7 +6346,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "33829c2510",
@@ -6125,7 +6373,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "96630a44a8",
@@ -6151,7 +6400,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "685e77122c",
@@ -6177,7 +6427,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e18749db81",
@@ -6201,7 +6452,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "e61b242e6f",
@@ -6227,7 +6479,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "3c3dcba25f",
@@ -6253,7 +6506,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "55aa026e32",
@@ -6279,7 +6533,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "2b95c99aa3",
@@ -6305,7 +6560,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "b6118e4438",
@@ -6331,7 +6587,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "21e00e453e",
@@ -6358,6 +6615,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "b2f265a4ca"
  },
  {
@@ -6384,7 +6642,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "2580479896",
@@ -6410,7 +6669,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "9a23addb2c",
@@ -6436,7 +6696,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "9295be5ff6",
@@ -6464,7 +6725,8 @@
    "market-research sales page"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "897d10264e",
@@ -6488,7 +6750,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "9f313ae4f7",
@@ -6514,7 +6777,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "dbbd01e77b",
@@ -6541,6 +6805,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "27170d960a"
  },
  {
@@ -6567,7 +6832,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9d0a83bb8f",
@@ -6591,7 +6857,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "b2f265a4ca",
@@ -6615,7 +6882,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "afe721ad08",
@@ -6639,7 +6907,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "37dff601e2",
@@ -6665,7 +6934,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a0367399d4",
@@ -6691,7 +6961,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a5ae074b94",
@@ -6715,7 +6986,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "2bb8b4c9da",
@@ -6741,7 +7013,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "dffc4e67d4",
@@ -6767,7 +7040,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ee9dd50c76",
@@ -6793,7 +7067,8 @@
    "consumer vehicle / lifestyle story"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "47861765f0",
@@ -6817,7 +7092,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "34aa44588e",
@@ -6841,7 +7117,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f24df3ce85",
@@ -6867,7 +7144,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c973121cb6",
@@ -6891,7 +7169,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "9b591a408d",
@@ -6917,7 +7196,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8d8f5f6881",
@@ -6941,7 +7221,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "9061dc93a4",
@@ -6967,7 +7248,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "000192fcb1",
@@ -6991,7 +7273,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "13e318c450",
@@ -7017,7 +7300,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "9b8281f6bf",
@@ -7043,7 +7327,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c79bd4e96d",
@@ -7071,7 +7356,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "16c6f27b45",
@@ -7097,7 +7383,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "5469b058bc",
@@ -7123,7 +7410,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9ab542a2e8",
@@ -7147,7 +7435,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c7612f9a64",
@@ -7173,7 +7462,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "b80fc7fa5e",
@@ -7197,7 +7487,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "d15adb25fe",
@@ -7223,7 +7514,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "aeaab8e77b",
@@ -7249,7 +7541,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "5a47fe7656",
@@ -7275,7 +7568,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "1d59abed7d",
@@ -7303,7 +7597,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4cf0991dbf",
@@ -7327,7 +7622,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f09c31e013",
@@ -7353,7 +7649,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "231879e853",
@@ -7377,7 +7674,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c8dc5c87cb",
@@ -7401,7 +7699,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c217e43d6d",
@@ -7425,7 +7724,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "3b0436e4df",
@@ -7449,7 +7749,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "1f7f69eaa4",
@@ -7473,7 +7774,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "199d06650c",
@@ -7499,7 +7801,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8bc5f1844c",
@@ -7527,7 +7830,8 @@
    "story about another country (UK/Europe)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3f000cf7fc",
@@ -7555,7 +7859,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "271ee93944",
@@ -7581,7 +7886,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "6178f00440",
@@ -7605,7 +7911,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f295ec745c",
@@ -7629,7 +7936,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "e4b912a6ac",
@@ -7655,7 +7963,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9d5d413368",
@@ -7679,7 +7988,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "46e0cac928",
@@ -7705,7 +8015,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2608906072",
@@ -7731,7 +8042,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9a9f2ba85f",
@@ -7757,7 +8069,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2adba0b1a4",
@@ -7783,7 +8096,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a3208c6e6c",
@@ -7812,7 +8126,8 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "dup_of": "84a93361d9"
+  "dup_of": "84a93361d9",
+  "sum_pending": false
  },
  {
   "id": "09353b98bc",
@@ -7836,7 +8151,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "3cb951688a",
@@ -7860,7 +8176,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c3587a91c0",
@@ -7884,7 +8201,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "bfde53aafc",
@@ -7910,7 +8228,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "crime"
+  "kind": "crime",
+  "sum_pending": false
  },
  {
   "id": "d6a411b830",
@@ -7938,7 +8257,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3a5752b2d3",
@@ -7964,7 +8284,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "31b42eeab7",
@@ -7990,7 +8311,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "a64a20a29b",
@@ -8018,7 +8340,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "82ef3a808a",
@@ -8044,7 +8367,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "1e5059c439",
@@ -8070,7 +8394,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "99e2d4e95c",
@@ -8096,7 +8421,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "558d530c46",
@@ -8124,7 +8450,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b7cf028a0e",
@@ -8150,7 +8477,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a927caf0f3",
@@ -8176,7 +8504,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "94317a6854",
@@ -8202,7 +8531,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "51b98cc746",
@@ -8228,7 +8558,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "37436ea238",
@@ -8252,7 +8583,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "32f7d34f38",
@@ -8280,7 +8612,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "415ae6e54b",
@@ -8306,7 +8639,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "5d783a915f",
@@ -8330,7 +8664,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "606350d506",
@@ -8356,7 +8691,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9427fe50ab",
@@ -8382,7 +8718,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "25da25e64e",
@@ -8406,7 +8743,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "6b7a47b5bf",
@@ -8432,7 +8770,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c2b1ed6dd1",
@@ -8458,7 +8797,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2f7718d073",
@@ -8482,7 +8822,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c6e51436b2",
@@ -8508,7 +8849,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "3568f5d719",
@@ -8528,7 +8870,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "event"
+  "kind": "event",
+  "sum_pending": false
  },
  {
   "id": "e876fe391c",
@@ -8550,7 +8893,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8a54d0cee8",
@@ -8578,7 +8922,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0758625ec3",
@@ -8604,7 +8949,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "566010e56d",
@@ -8630,7 +8976,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "711e4a2a6d",
@@ -8650,7 +8997,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "incident"
+  "kind": "incident",
+  "sum_pending": false
  },
  {
   "id": "c3283e8553",
@@ -8676,7 +9024,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "ea7a69c6c6",
@@ -8696,7 +9045,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "feature"
+  "kind": "feature",
+  "sum_pending": false
  },
  {
   "id": "87809632d1",
@@ -8716,7 +9066,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "629dd81c2c",
@@ -8738,7 +9089,8 @@
    "job listing / recruitment ad"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c1e09b3112",
@@ -8760,7 +9112,8 @@
    "job listing / recruitment ad"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "7c1428dcc0",
@@ -8782,7 +9135,8 @@
    "job listing / recruitment ad"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e681532d87",
@@ -8804,7 +9158,8 @@
    "job listing / recruitment ad"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c019dc1058",
@@ -8830,7 +9185,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "1057077922",
@@ -8856,7 +9212,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ea9185178a",
@@ -8882,7 +9239,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d3bee265c6",
@@ -8904,7 +9262,8 @@
    "market-research sales page"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "093e67fd51",
@@ -8930,7 +9289,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "1ad9837d5b",
@@ -8952,7 +9312,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "dc647385ec",
@@ -8976,7 +9337,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "2c5252c8e2",
@@ -8996,7 +9358,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "cd824c29d1",
@@ -9022,7 +9385,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9da9b41d19",
@@ -9042,7 +9406,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "89765cafdc",
@@ -9064,7 +9429,8 @@
    "music / entertainment"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4129d7b41c",
@@ -9090,7 +9456,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "7c31528407",
@@ -9119,6 +9486,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "428e53bc18"
  },
  {
@@ -9141,7 +9509,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "795aeafba7",
@@ -9167,7 +9536,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d0ec83a667",
@@ -9193,7 +9563,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "7c4f39840c",
@@ -9217,7 +9588,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "78f3f0f96c",
@@ -9243,7 +9615,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "7d3164bef7",
@@ -9269,7 +9642,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "bf75b7bd99",
@@ -9295,7 +9669,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2ab9a3ebf0",
@@ -9321,7 +9696,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "428e53bc18",
@@ -9347,7 +9723,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "2325e7173b",
@@ -9373,7 +9750,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f5faf34c5f",
@@ -9393,7 +9771,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "cd62090904",
@@ -9419,7 +9798,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3289135cf4",
@@ -9445,7 +9825,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a366560575",
@@ -9467,7 +9848,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ed2f2f068d",
@@ -9493,7 +9875,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "1fe1db1c93",
@@ -9519,7 +9902,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "50e6a52f36",
@@ -9539,7 +9923,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "07406f9980",
@@ -9565,7 +9950,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8428ab602b",
@@ -9585,7 +9971,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "54a3cd2e07",
@@ -9611,7 +9998,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ec932bcc3c",
@@ -9633,7 +10021,8 @@
    "weekly roundup of other outlets' stories; check before showing"
   ],
   "labels": [],
-  "kind": "roundup"
+  "kind": "roundup",
+  "sum_pending": false
  },
  {
   "id": "2f2072d5cb",
@@ -9655,7 +10044,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "78cc9507f7",
@@ -9681,7 +10071,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d52b3dc470",
@@ -9709,7 +10100,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "37c25f2fde",
@@ -9729,7 +10121,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "10add491f0",
@@ -9755,7 +10148,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "5bc4151dee",
@@ -9775,7 +10169,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "8e733010bb",
@@ -9801,7 +10196,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "01c6284644",
@@ -9827,7 +10223,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3ac6fa69ec",
@@ -9853,7 +10250,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "af74c0834d",
@@ -9879,7 +10277,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c8563bde08",
@@ -9905,7 +10304,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "398258cb51",
@@ -9927,7 +10327,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "703f45d2f4",
@@ -9949,7 +10350,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3ea029d7ab",
@@ -9975,7 +10377,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3246d478df",
@@ -9997,7 +10400,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4981f7a509",
@@ -10023,7 +10427,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "98e3e3b391",
@@ -10049,7 +10454,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "347b877241",
@@ -10075,7 +10481,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "587f081193",
@@ -10101,7 +10508,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b74b1609f2",
@@ -10127,7 +10535,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b860962fd7",
@@ -10147,7 +10556,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f942d834d4",
@@ -10167,7 +10577,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c64bf6d72f",
@@ -10191,7 +10602,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "4226e3b3e8",
@@ -10219,7 +10631,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "87556b2ad3",
@@ -10245,7 +10658,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a97cd50c24",
@@ -10265,7 +10679,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "65468715ce",
@@ -10291,7 +10706,8 @@
    "consumer vehicle / lifestyle story"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "84a93361d9",
@@ -10319,7 +10735,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "92dd40a47c",
@@ -10339,7 +10756,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "feature"
+  "kind": "feature",
+  "sum_pending": false
  },
  {
   "id": "931fb6c4df",
@@ -10361,7 +10779,8 @@
    "consumer vehicle / lifestyle story"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "548102eabd",
@@ -10389,7 +10808,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a72b3e9afd",
@@ -10415,7 +10835,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "21cb75acd3",
@@ -10441,7 +10862,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "040d32a939",
@@ -10469,7 +10891,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ec23479acc",
@@ -10495,7 +10918,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "78ff549561",
@@ -10517,7 +10941,8 @@
    "consumer vehicle / lifestyle story"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a66847307f",
@@ -10543,7 +10968,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "88bbfe1879",
@@ -10565,7 +10991,8 @@
    "stock commentary, no trucking development"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9d80ff2bf2",
@@ -10591,7 +11018,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0b0a8417cc",
@@ -10619,7 +11047,8 @@
    "French-language story (English only)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "65925a6ea0",
@@ -10639,7 +11068,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "09d46a4209",
@@ -10659,7 +11089,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "4f39cc63bc",
@@ -10685,7 +11116,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b2fff2c582",
@@ -10707,7 +11139,8 @@
    "'truckload' used as an expression, not freight news"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "cefa1a7f46",
@@ -10729,7 +11162,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "36d3269670",
@@ -10749,7 +11183,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "ce5cee2a43",
@@ -10771,7 +11206,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "7453f056f5",
@@ -10791,7 +11227,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "crime"
+  "kind": "crime",
+  "sum_pending": false
  },
  {
   "id": "6f483319c9",
@@ -10817,7 +11254,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "550f194fb3",
@@ -10843,7 +11281,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "93a6979ec2",
@@ -10869,7 +11308,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "f7416d95b8",
@@ -10895,7 +11335,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "a5a02f049e",
@@ -10921,7 +11362,8 @@
    "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4861eb9aba",
@@ -10943,7 +11385,8 @@
    "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c6078e59f7",
@@ -10969,7 +11412,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "bd6da97c47",
@@ -10989,7 +11433,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "0d4f5666e2",
@@ -11009,7 +11454,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "11e0fc405d",
@@ -11035,7 +11481,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "0419d9c9d7",
@@ -11055,7 +11502,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "907eae8e1a",
@@ -11075,7 +11523,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "490fcc5a0b",
@@ -11099,7 +11548,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "74091245d8",
@@ -11123,7 +11573,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "ebae9d6c14",
@@ -11143,7 +11594,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "fd389bb7bb",
@@ -11169,7 +11621,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "af772d2147",
@@ -11195,7 +11648,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "159d3e334b",
@@ -11221,7 +11675,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "1cb8106ce4",
@@ -11247,7 +11702,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "170bdfbe9f",
@@ -11273,7 +11729,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e38d17a027",
@@ -11295,7 +11752,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "b9c5c4c456",
@@ -11315,7 +11773,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "feature"
+  "kind": "feature",
+  "sum_pending": false
  },
  {
   "id": "9ef656ffdd",
@@ -11337,7 +11796,8 @@
    "job listing / recruitment ad"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "aee4d13ac2",
@@ -11363,7 +11823,8 @@
    "story about another country"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "fe68c09e7f",
@@ -11387,7 +11848,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c588fe9465",
@@ -11413,7 +11875,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "74e87b60e6",
@@ -11439,7 +11902,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d977941e68",
@@ -11465,7 +11929,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9ea47cc0aa",
@@ -11487,7 +11952,8 @@
    "job listing / recruitment ad"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0c7b9b163f",
@@ -11509,7 +11975,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "544855dfe9",
@@ -11535,7 +12002,8 @@
    "market-research sales page"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "70dcbcd8cb",
@@ -11561,7 +12029,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0c4a8fe0cc",
@@ -11583,7 +12052,8 @@
    "non-North American source"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "63e545dbbe",
@@ -11609,7 +12079,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "dc29746688",
@@ -11629,7 +12100,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c008ae45ee",
@@ -11649,7 +12121,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "6a474a4105",
@@ -11669,7 +12142,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "incident"
+  "kind": "incident",
+  "sum_pending": false
  },
  {
   "id": "b1c360cc05",
@@ -11689,7 +12163,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c7c696947b",
@@ -11715,7 +12190,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "00fbc81c72",
@@ -11735,7 +12211,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "049414a477",
@@ -11755,7 +12232,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "e3692fb584",
@@ -11775,7 +12253,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "0ea05f73e1",
@@ -11799,7 +12278,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "ac8ee3dd07",
@@ -11825,7 +12305,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "84ded022df",
@@ -11845,7 +12326,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "60a4d5b53f",
@@ -11865,7 +12347,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "2c5dbb286f",
@@ -11885,7 +12368,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "b001e5ecf4",
@@ -11907,7 +12391,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "24d5366197",
@@ -11929,7 +12414,8 @@
   "labels": [
    "Company announcement"
   ],
-  "kind": "announcement"
+  "kind": "announcement",
+  "sum_pending": false
  },
  {
   "id": "2361f4d358",
@@ -11955,7 +12441,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ad72a1fc66",
@@ -11975,7 +12462,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "dcb63a8b80",
@@ -11995,7 +12483,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "9fdd9d9b59",
@@ -12015,7 +12504,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "772ba14338",
@@ -12041,7 +12531,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c4f54cc1dc",
@@ -12067,7 +12558,8 @@
    "not about commercial trucking"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "863922c697",
@@ -12087,7 +12579,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c45d1daa38",
@@ -12107,7 +12600,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "feature"
+  "kind": "feature",
+  "sum_pending": false
  },
  {
   "id": "0a33d4cf31",
@@ -12127,7 +12621,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "27170d960a",
@@ -12147,7 +12642,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "25c3bdf02f",
@@ -12171,7 +12667,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "70ac9d83b1",
@@ -12191,7 +12688,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "eed8ddb73b",
@@ -12217,7 +12715,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "70a1634d65",
@@ -12237,7 +12736,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "6ca6153a3e",
@@ -12257,7 +12757,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "5b078b0953",
@@ -12283,7 +12784,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "edb45ea268",
@@ -12309,7 +12811,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "afb2979ece",
@@ -12335,7 +12838,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8d69834f81",
@@ -12361,7 +12865,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "fa7cfc6bb8",
@@ -12387,7 +12892,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "1bf8e7eaa6",
@@ -12407,7 +12913,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c6e0d61a1c",
@@ -12433,7 +12940,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3358818768",
@@ -12459,7 +12967,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4a28e17f3a",
@@ -12485,7 +12994,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "81f6bf13e9",
@@ -12511,7 +13021,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f08ce73225",
@@ -12537,7 +13048,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "02ba37ec53",
@@ -12563,7 +13075,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "56d3452a7f",
@@ -12589,7 +13102,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f81b6783ff",
@@ -12615,7 +13129,8 @@
    "broken or publisher-only headline"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "79305c125c",
@@ -12635,7 +13150,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "df7d1511f7",
@@ -12661,7 +13177,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f49f6e24fe",
@@ -12687,7 +13204,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "9ddd489b7c",
@@ -12713,7 +13231,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "8336a38d03",
@@ -12739,7 +13258,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "ab2a70b85a",
@@ -12765,7 +13285,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "1504f8e6f1",
@@ -12791,7 +13312,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "f8e3968157",
@@ -12817,7 +13339,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "bf46ee5710",
@@ -12845,7 +13368,8 @@
    "story about another country (UK/Europe)"
   ],
   "labels": [],
-  "kind": "rejected"
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d96c186eab",
@@ -12874,6 +13398,7 @@
   ],
   "labels": [],
   "kind": "news",
+  "sum_pending": false,
   "dup_of": "c45e4b6dd1"
  },
  {
@@ -12900,7 +13425,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c45e4b6dd1",
@@ -12926,7 +13452,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "7aebc0591f",
@@ -12952,7 +13479,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "651db3ee3b",
@@ -12978,7 +13506,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "c07be14ada",
@@ -13004,7 +13533,8 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  },
  {
   "id": "ff48ed952d",
@@ -13030,7 +13560,8 @@
    "trade-press story with no clear trucking keyword"
   ],
   "labels": [],
-  "kind": "review"
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "9c0db2fb37",
@@ -13056,6 +13587,7 @@
   "status": "ok",
   "reasons": [],
   "labels": [],
-  "kind": "news"
+  "kind": "news",
+  "sum_pending": false
  }
 ]
