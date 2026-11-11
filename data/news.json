@@ -5380,7 +5380,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/beyond-compliance-trucking-fleets-put-fmcsa-safety-priorities-into-practice",
   "source_note": "ok · 1205 words"
@@ -5687,7 +5687,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "166b06a96f",
@@ -6113,7 +6117,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://landline.media/spot-rates-up-trucking-jobs-flat-whats-going-on/",
+  "source_note": "excerpt only · 24 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "480825101b",
@@ -6597,7 +6606,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/dat-reefer-spot-rates-climbs-as-holiday-freight-starts-moving",
+  "source_note": "ok · 986 words"
  },
  {
   "id": "af6752d55c",
