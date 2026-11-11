@@ -94,6 +94,14 @@ def time_tag(s):
     return '<time datetime="%s" data-ago>%s</time>' % (dt.isoformat(), ago(dt))
 
 
+def pub_date(s):
+    """Original publication date on story pages ('Published Nov 10, 2026'); only when the publisher gave one."""
+    if not s.get("date_known", True):
+        return ""
+    d = when(s).astimezone(EASTERN)
+    return " · Published %s" % d.strftime("%b %-d, %Y") if os.name != "nt" else ""
+
+
 def clock(s):
     return when(s).astimezone(EASTERN).strftime("%-I:%M %p") if os.name != "nt" else when(s).astimezone(EASTERN).strftime("%I:%M %p")
 
@@ -279,9 +287,8 @@ def status_badge():
     line = "Headlines checked every %d minutes" % every
     if last:
         line += ' · Last checked <time datetime="%s">%s</time>' % (E(last), E(et_time(last)))
-    return ('<div class="mh-status" id="htStatus" data-every="%d"><button type="button" class="st-row" aria-expanded="false" '
-            'aria-controls="htStatusPanel"><span class="st-dot" aria-hidden="true"></span><span class="st-label">Status</span></button>'
-            '<span class="st-line">%s</span><div class="st-panel" id="htStatusPanel" hidden></div></div>') % (every, line)
+    return ('<div class="mh-status" id="htStatus" data-every="%d"><span class="st-row"><span class="st-dot" aria-hidden="true"></span>'
+            '<span class="st-label">Status</span></span><span class="st-line">%s</span></div>') % (every, line)
 
 
 def footer(scripts=""):
@@ -585,7 +592,7 @@ def build_story(s, stories):
 {body_text}
 {comments}</article>
 <aside>{strip}{rel}{ad}{signup}</aside></div></main>""".format(strip=market_strip(),
-        sid=E(s["id"]), cu=cat_url(s["category"]), cl=E(cat_label(s["category"])), t=E(s["title"]), tm=time_tag(s),
+        sid=E(s["id"]), cu=cat_url(s["category"]), cl=E(cat_label(s["category"])), t=E(s["title"]), tm=time_tag(s) + pub_date(s),
         pub=pub, lab=label(s), out=out_url(s), geo=geo_tag(s), link=E(s["link"]), pic=pic(s), body_text=body_text,
         comments=comments, ad=ad(True), signup=signup(), share=share_bar(s),
         rel=('<section><h2 class="sec-title">More %s</h2><ol class="ranked">%s</ol></section>' % (

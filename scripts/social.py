@@ -212,15 +212,17 @@ def facebook_caption(s, override=None):
     pub = publisher(s)
     paras = [headline(s)]
     body = []
-    if s.get("summary"):  # written from the source snippet; nothing added beyond it
-        body.append(s["summary"].strip())
-        if s.get("why"):
-            body.append(s["why"].strip())
+    if s.get("summary"):
+        # The opening sentences of the checked website summary, whole sentences only, about 45 words at most.
+        # Nothing new is written for Facebook, so the caption carries only facts already checked against the source.
+        for sent in re.split(r"(?<=[.!?])\s+", s["summary"].replace("\n\n", " ").strip()):
+            if body and words(" ".join(body + [sent])) > 45:
+                break
+            body.append(sent)
+        if words(" ".join(body)) > 60:
+            body = []
     attribution = "Reported by %s. The link has the details and the original article." % pub
     text_body = " ".join(body)
-    while body and words(" ".join([paras[0], " ".join(body), attribution, tags])) > 80:
-        body.pop()
-        text_body = " ".join(body)
     if text_body:
         paras.append(text_body)
     paras.append(attribution)
@@ -480,8 +482,8 @@ def diesel_card(e, o=None):
     from fetch_market import EIA_REGIONS
     names = {k: label for k, label, _ in EIA_REGIONS}
     p, prev = e["prices"], e.get("prev_prices") or {}
-    card = {"type": "stat", "kicker": "Diesel · week of %s" % datetime.fromisoformat(e["week"]).strftime("%b %-d"),
-            "big": _money(p["US"]), "label": "US average per gallon (US Energy Information Administration)",
+    card = {"type": "stat", "kicker": "Diesel",
+            "big": _money(p["US"]), "label": "US average per gallon, week of %s (US EIA)" % datetime.fromisoformat(e["week"]).strftime("%b %-d"),
             "footer": "Weekly diesel prices · US & Canada", "details": []}
     if prev.get("US"):
         d = round((p["US"] - prev["US"]) * 100)
@@ -708,6 +710,8 @@ def refresh_queue(platform, stories, cfg, st, now):
         r["breaking"] = breaking_reason(s, stories, cfg, now)
         r["caption"] = caption_for(platform, s, cfg["captions"].get(sid))
         r["edited"] = sid in cfg["captions"]
+        # A summary is being written for this story: hold the post (up to 40 minutes) so the caption includes it.
+        r["wait_summary"] = bool(s.get("sum_pending")) and not s.get("summary")
 
 
 def slot_open(cfg, st, now, breaking=False):
@@ -739,6 +743,8 @@ def next_item(cfg, st, now, open_routine=True, open_breaking=None, platform="x")
     # Give the site time to publish the page and its share image before Facebook reads it.
     settle = timedelta(minutes=cfg.get("settle_minutes") or 0)
     ready = [r for r in ready if now - datetime.fromisoformat(r["created_at"]) >= settle]
+    ready = [r for r in ready if not r.get("wait_summary") or r.get("breaking")
+             or now - datetime.fromisoformat(r["created_at"]) >= timedelta(minutes=40)]
     if forced:
         return forced[0]
     breaking = [r for r in ready if r.get("breaking")]

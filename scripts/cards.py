@@ -92,11 +92,19 @@ def _frame(kicker, footer_left):
     d = ImageDraw.Draw(img)
     logo = _logo("navy", 44)
     img.paste(logo, (PAD, 54), logo)
-    kf = font("sans", 22, 800, 100)
-    kw = sum(d.textlength(c, font=kf) + 2.5 for c in kicker.upper()) - 2.5
-    kx = W - PAD - kw
-    d.rectangle([kx - 18, 52, W - PAD + 18, 52 + 46], fill=AMBER)
-    _spaced(d, (kx, 63), kicker.upper(), kf, NAVY)
+    # The label sits next to the logo on the left: Facebook covers the top-right corner with its (i) button.
+    # Same size label on every card; long names shrink to fit the box instead of stretching it.
+    BOX_W, BOX_H = 220, 36  # fixed: every label the same size, same text size
+    bx, by = PAD + logo.width + 30, 58
+    text = kicker.upper()
+    for size in (16, 14, 13):  # 16 fits every HaulTimes category; smaller only for an unexpected long name
+        kf = font("sans", size, 800, 100)
+        kw = sum(d.textlength(c, font=kf) + 2 for c in text) - 2
+        if kw <= BOX_W - 24:
+            break
+    d.rectangle([bx, by, bx + BOX_W, by + BOX_H], fill=AMBER)
+    asc, desc = kf.getmetrics()
+    _spaced(d, (bx + (BOX_W - kw) / 2, by + (BOX_H - asc - desc) / 2 + 1), text, kf, NAVY, spacing=2)
     d.line([PAD, 128, W - PAD, 128], fill=RULE, width=2)
     d.rectangle([0, H - 64, W, H], fill=NAVY)
     d.rectangle([0, H - 68, W, H - 64], fill=AMBER)

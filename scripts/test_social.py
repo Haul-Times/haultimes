@@ -592,6 +592,20 @@ class HousePosts(unittest.TestCase):
         self.assertEqual(saved["share.json"]["promo-20261110"]["target"], "/freight-market/#chk")
         self.assertEqual(len([f for f in os.listdir(os.path.join(site, "s", "promo-20261110")) if f.endswith(".png")]), 1)
 
+    def test_post_waits_for_summary_then_includes_it(self):
+        st = so.new_state()
+        so._house_item(st, NOW, "s1", "Story", "text", "https://haultimes.com/x/", 90, "promo")
+        st["items"]["s1"]["wait_summary"] = True
+        c = cfg(settle_minutes=0)
+        self.assertIsNone(so.next_item(c, st, NOW + timedelta(minutes=10), True, True, "facebook"), "held while the summary is written")
+        self.assertIsNotNone(so.next_item(c, st, NOW + timedelta(minutes=41), True, True, "facebook"), "never held more than 40 minutes")
+        s = {"title": "FMCSA proposes higher broker bond", "orig_title": "FMCSA proposes higher broker bond", "source": "Transport Topics",
+             "category": "regs", "id": "x", "slug": "x", "why": "",
+             "summary": "FMCSA proposed raising broker financial security to $150,000 from $75,000. Comments close January 12, 2027. The rule is not final."}
+        cap = so.facebook_caption(s)
+        self.assertIn("FMCSA proposed raising broker financial security", cap)
+        self.assertIn("Reported by Transport Topics", cap)
+
     def test_new_items_wait_for_the_site_to_publish(self):
         st = so.new_state()
         so._house_item(st, NOW, "promo-y", "Freight Market reminder", "text", "https://haultimes.com/freight-market/", 90, "promo")

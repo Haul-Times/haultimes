@@ -84,12 +84,12 @@
   "_summaries_help": "trial = write and check summaries but keep them hidden for the owner's review; publish = show summaries that pass the checks; off = headlines only.",
   "pause_summaries": false,
   "pause_new_stories": false,
-  "ai_per_run": 8,
-  "ai_daily_usd": 1.0,
-  "ai_monthly_usd": 15.0,
+  "ai_per_run": 4,
+  "ai_daily_usd": 0.16,
+  "ai_monthly_usd": 4.75,
   "ai_usd_per_mtok_in": 1.0,
   "ai_usd_per_mtok_out": 5.0,
-  "_ai_cost_help": "Estimated prices per million tokens for the model in ai_model; check the current price list. Caps stop summaries, never headlines.",
+  "_ai_cost_help": "Sized for a $5 credit balance: about $0.16 a day, $4.75 a month (estimates from assumed per-million-token prices; the Claude Console shows real spending). Caps stop summaries, never headlines.",
   "_collect_help": "How often news is checked (the Cloudflare build timer). The masthead says UPDATES DELAYED after 25 minutes without a successful check (30 for a 15-minute schedule).",
   "include_french": false
 }

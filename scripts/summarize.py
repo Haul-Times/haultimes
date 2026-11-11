@@ -40,19 +40,28 @@ Return JSON only:
   "review_reasons": []
 }
 
-Summary rules:
-- %(length)s. Lead with the actual development, then supporting facts.
-- Every fact must come from the source text. No background knowledge, no guesses, no padding.
-- Your own wording. Never copy more than 6 words in a row except inside a short attributed quote.
+Summary rules (concise, professional business journalism):
+- %(length)s. Never add filler to reach a length; a short source gets a short summary.
+- First sentence: what happened, plainly (who did what, where, when). No introduction, no scene-setting.
+- Then the most useful facts from the source: names, places, dates, numbers, deadlines, effective dates.
+- Plain, natural North American English in your own words. Vary sentence structure; do not follow a template.
+- Every fact must come from the source text. No background knowledge, no guesses.
+- Never copy more than 6 words in a row except inside a short attributed quote.
 - Keep names, numbers, currencies, units, dates and deadlines exactly as in the source.
-- Keep attribution and uncertainty: company claims are claims ("X says"); allegations are allegations;
-  forecasts are forecasts; proposals, consultations, final rules and rules in effect are different things.
+- Keep attribution and uncertainty: company claims stay claims ("the company said"); allegations stay
+  allegations; forecasts stay forecasts; proposals, consultations, final rules and rules in effect differ.
+- Write as a summary of someone else's reporting: never "we", "our reporting", "told HaulTimes" or
+  "HaulTimes has learned". Attribute to the publisher or the people quoted in it.
 - Do not say a US rule applies in Canada or the reverse unless the source says so.
-- No clickbait, hype, promotional language, filler, or repeating the headline.
+- Banned: hype, promotional wording, clickbait, "in today's rapidly evolving landscape", "underscores",
+  "a significant development", "game-changer", "landmark", "navigate", "amid", "it remains to be seen",
+  "this comes as", "in a move", "marks a", "highlights the", "delve", "robust", "crucial", "pivotal".
+- why_it_matters: one sentence, only when the source itself states the effect on carriers, brokers or
+  shippers. Otherwise "".
 - evidence: one entry per summary sentence; quote must be copied exactly from the source.
 - If the source is ambiguous or contradictory, leave out the disputed detail or set review_required."""
 
-LENGTH = {"full_article": "About 80-140 words in one or two short paragraphs, shorter if the article is brief",
+LENGTH = {"full_article": "80-140 words in one or two short paragraphs when the article supports it; fewer for short reports",
           "excerpt": "At most 2 sentences (under 50 words), and only if the excerpt has real facts"}
 
 
@@ -82,9 +91,21 @@ def _acronyms(text):
     return out
 
 
+BANNED = ["rapidly evolving", "underscore", "significant development", "game-changer", "game changer", "landmark",
+          "navigat", "it remains to be seen", "this comes as", "in a move", "marks a", "highlights the", "delve",
+          "robust", "crucial", "pivotal", "landscape", "haultimes has learned", "told haultimes", "our reporting",
+          "we reported", "ai-generated", "ai generated"]
+
+
 def validate(summary, evidence, source, headline="", need_evidence=True):
     """List of problems (empty = passes). Deterministic, no model involved."""
     probs = []
+    low = norm(summary)
+    for b in BANNED:
+        if b in low and b not in norm(source):
+            probs.append("uses a banned phrase: %r" % b)
+    if norm(summary).startswith(norm(headline)[:60]) and len(headline) > 20:
+        probs.append("repeats the headline instead of summarizing")
     src = norm(source + " " + headline)
     src_digits = {n.replace(",", "") for n in NUM.findall(src)}
     acr = _acronyms(source + " " + headline)

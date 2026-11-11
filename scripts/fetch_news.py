@@ -260,6 +260,8 @@ def main():
         todo = [s for s in all_stories if s["status"] == "ok" and not s.get("sum_done") and s.get("sum_tries", 0) < 3
                 and not s.get("manual_summary") and datetime.fromisoformat(s["published"]) >= two_days]
         todo.sort(key=lambda s: s["importance"], reverse=True)
+        for s in all_stories:  # tells the Facebook queue to wait (briefly) for a summary that is on its way
+            s["sum_pending"] = mode == "publish" and s in todo
         for s in todo[: cfg.get("ai_per_run", 8)]:
             s["sum_tries"] = s.get("sum_tries", 0) + 1
             try:
@@ -273,7 +275,7 @@ def main():
                 s["pub_url"] = pub_url
             s["source_note"] = note
             if not text:
-                s["sum_done"], s["sum_status"] = True, "no source text (%s)" % note
+                s["sum_done"], s["sum_pending"], s["sum_status"] = True, False, "no source text (%s)" % note
                 no_text += 1
                 continue
             fp = summarize.fingerprint(text)
@@ -289,7 +291,7 @@ def main():
             if status == "limit":
                 sstat["state"] = "limit"
                 break
-            s.update(sum_done=True, sum_status=status, source_fp=fp, source_scope=scope, sum_at=now.isoformat(),
+            s.update(sum_done=True, sum_pending=False, sum_status=status, source_fp=fp, source_scope=scope, sum_at=now.isoformat(),
                      sum_version=s.get("sum_version", 0) + 1, sum_model=cfg["ai_model"],
                      sum_evidence=data.get("evidence") or [], sum_problems=data.get("problems") or data.get("review_reasons") or [])
             if data.get("category") in CATEGORIES:
