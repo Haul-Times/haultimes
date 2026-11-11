@@ -1237,7 +1237,7 @@
   "summary": "",
   "why": "",
   "category": "fuel",
-  "region": "",
+  "region": "US",
   "importance": 78,
   "source": "Transport Topics",
   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YTFpINGx0QndsbVFOZ2hwYzBhY19zWDduN0d3Vm00anF0TGg5OUtqMEYxRXBQS2tLVjhyOXVGS1ZLQlJjdzZxN2JBNFViNEd3TmVaRmF2RXhqaXRyWnIwNnRBZ1ZDWDg?oc=5",
@@ -1255,10 +1255,31 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 0,
-  "source_note": "retry after read-limit fix",
+  "sum_tries": 1,
+  "source_note": "excerpt only · 34 words",
   "sum_done": true,
-  "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiZ0F, 400000 bytes))"
+  "sum_status": "published",
+  "pub_url": "https://www.ttnews.com/articles/us-forecasts-2027-diesel",
+  "source_fp": "744178d6cb698bee",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-11T02:06:41.703306+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "The EIA raised its projected 2027 retail diesel price to $5.03 a gallon, up from $4.49.",
+    "quote": "The EIA increased its projected retail price of diesel next year to $5.03 a gallon, up from $4.49 a gallon"
+   },
+   {
+    "sentence": "It also raised its gasoline forecast to an average of $3.73 a gallon, from $3.56.",
+    "quote": "gasoline to an average of $3.73 a gallon, up from $3.56 a gallon"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "fuel",
+  "ai_importance": 70,
+  "pending_summary": "The EIA raised its projected 2027 retail diesel price to $5.03 a gallon, up from $4.49. It also raised its gasoline forecast to an average of $3.73 a gallon, from $3.56.",
+  "pending_why": ""
  },
  {
   "id": "5cc484cdbb",
@@ -1488,7 +1509,7 @@
   "summary": "",
   "why": "",
   "category": "rates",
-  "region": "",
+  "region": "US",
   "importance": 78,
   "source": "Journal of Commerce",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQm1Vd1B3VmhGZGRxeEpPWWU5bndZX2tGOUZuT09uMUJuUmxHTllMU1JDNVo3dDNqTzVGU2V5SVNuUTRqRE5PczZ3YWs4eGlxTkVWcTZXZHpuXzhHMFJ0Tm5KTlRLMlFQZ1FocUkwZGt3NktELUY3MTRSQWxIZmFDUUtTQnhaTHFTOWhYM09vdktuS19ueldVbnhGX2Z2TkJubTZ5ejJZUlo?oc=5",
@@ -1506,10 +1527,34 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 0,
-  "source_note": "retry after read-limit fix",
+  "sum_tries": 1,
+  "source_note": "paywalled: excerpt only · 31 words",
   "sum_done": true,
-  "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiqAF, 400000 bytes))"
+  "sum_status": "review",
+  "pub_url": "https://www.joc.com/article/additional-trucks-at-large-us-carriers-boost-truckload-capacity-index-6321140",
+  "source_fp": "d4fa709cf2ae7797",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-11T02:06:41.703306+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "A third-quarter TCI reading from the Journal of Commerce hit its highest level since the fourth quarter of 2023.",
+    "quote": "the Journal of Commerce TCI for the third quarter rose to its highest reading since the fourth quarter of 2023"
+   },
+   {
+    "sentence": "The publication said the rise does not signal a broader trend in truck capacity.",
+    "quote": "the increase doesn’t reflect a broader trend in truck capacity"
+   }
+  ],
+  "sum_problems": [
+   "The headline attributes the rise to additional trucks at large US carriers, but the excerpt does not say this, so that detail is left out of the summary.",
+   "The source is an excerpt; the full article may explain the cause of the increase."
+  ],
+  "ai_category": "other",
+  "ai_importance": 45,
+  "pending_summary": "A third-quarter TCI reading from the Journal of Commerce hit its highest level since the fourth quarter of 2023. The publication said the rise does not signal a broader trend in truck capacity.",
+  "pending_why": ""
  },
  {
   "id": "233acdc2b0",
@@ -2634,10 +2679,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 1,
+  "sum_tries": 0,
   "pub_url": "https://www.fleetowner.com/news/news/55417528/fmcsa-updates-complaint-center-for-reporting-trucking-safety-and-compliance-violations",
-  "source_note": "ok",
-  "sum_done": true,
+  "source_note": "retry after fixes",
+  "sum_done": false,
   "sum_status": "withheld",
   "source_fp": "43438d5216dbe9ff",
   "source_scope": "full_article",
@@ -2648,7 +2693,8 @@
   "sum_problems": [
    "source did not support a summary"
   ],
-  "ai_importance": 73
+  "ai_importance": 73,
+  "sum_v2": true
  },
  {
   "id": "d856c3453a",
@@ -4745,7 +4791,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "Other",
   "importance": 78,
   "source": "Land Line Media",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2x0d3NFRzJDdndZTkoyUGFwZ0tqVWtsTENRcGk5TjZZakEtX2pfTXlrb3FrSkY3d0ZmYm5EVGJXN0stRFFoNURiX0E5M3g1UENLUkV6aHE5T0ZXTjZoQkl2YWFBMzY0bVNjaGVmd0JMOTB6Z3NfeDc3VUdpaFlzTEQzOXRRNG9MWHlka3BVVXNLQW0wRkQxMUxnNndYS1F5N2ZjbWo5T2hJS1E?oc=5",
@@ -4763,10 +4809,31 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 0,
-  "source_note": "retry after read-limit fix",
+  "sum_tries": 1,
+  "source_note": "excerpt only · 22 words",
   "sum_done": true,
-  "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiqwF, 400000 bytes))"
+  "sum_status": "review",
+  "pub_url": "https://landline.media/uzbekistan-national-used-bogus-carriers-to-carry-out-over-12-million-in-cargo-theft/",
+  "source_fp": "27687963be602ba4",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-11T02:06:41.703306+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "A $12 million cargo theft scheme has led to conspiracy charges.",
+    "quote": "A $12 million cargo theft scheme leads to conspiracy charges."
+   }
+  ],
+  "sum_problems": [
+   "Source is a teaser excerpt; the headline's details (Uzbekistan national, bogus carriers) are not supported by the source text and were omitted.",
+   "Region is not stated in the source, so US or Canada connection is unconfirmed.",
+   "Source text does not explain how the thefts occurred or what happens next, so no further detail was summarized."
+  ],
+  "ai_category": "other",
+  "ai_importance": 55,
+  "pending_summary": "A $12 million cargo theft scheme has led to conspiracy charges.",
+  "pending_why": ""
  },
  {
   "id": "98e6f49b90",
@@ -4856,7 +4923,7 @@
   "summary": "",
   "why": "",
   "category": "rates",
-  "region": "",
+  "region": "US",
   "importance": 78,
   "source": "Journal of Commerce",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObVAzczE5TzNoNHFPajh6alF0MnI2T05wR3lldkVHa0ExYmJfbktWR256ZjJfYW5CeEdXMHNJOVhGeDVTVUtlVTZMWFgxUTRkX29VdnVKTVBMOG9TSnpxcmhWbEVXbnJucnRaN1VuUjVHNk5BS2VZT0k0YzQ0cHlmS2pYZUhUZWtWSXVVQnFhUG83LUthWC1oekpmaXpmRFFKUzB3?oc=5",
@@ -4872,10 +4939,30 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 0,
-  "source_note": "retry after read-limit fix",
+  "sum_tries": 1,
+  "source_note": "paywalled: excerpt only · 18 words",
   "sum_done": true,
-  "sum_status": "no source text (no publisher address: google page without signature (https://news.google.com/articles/CBMiowF, 400000 bytes))"
+  "sum_status": "review",
+  "pub_url": "https://www.joc.com/article/falling-us-truck-orders-cast-doubt-on-truckload-capacity-recovery-6320644",
+  "source_fp": "5e80099cd0ef9154",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-11T02:06:41.703306+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "Soft demand and upcoming truck emissions rules are weighing on carriers' buying choices, even though trucking rates have gone up.",
+    "quote": "Soft demand and upcoming truck emissions regulations are weighing on motor carrier purchasing decisions, despite higher trucking rates."
+   }
+  ],
+  "sum_problems": [
+   "The excerpt is a single sentence; the headline's claim about falling US truck orders is not supported by the excerpt and is left out of the summary.",
+   "The excerpt does not say whether the emissions rules are final or proposed, so the summary does not characterize their status."
+  ],
+  "ai_category": "equip",
+  "ai_importance": 55,
+  "pending_summary": "Soft demand and upcoming truck emissions rules are weighing on carriers' buying choices, even though trucking rates have gone up.",
+  "pending_why": ""
  },
  {
   "id": "9faf2c2dd0",
@@ -6957,10 +7044,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 1,
+  "sum_tries": 0,
   "pub_url": "https://www.ttnews.com/articles/china-extends-pause-tariffs",
-  "source_note": "excerpt only",
-  "sum_done": true,
+  "source_note": "retry after fixes",
+  "sum_done": false,
   "sum_status": "withheld",
   "source_fp": "314922db79beac86",
   "source_scope": "excerpt",
@@ -6971,7 +7058,8 @@
   "sum_problems": [
    "source did not support a summary"
   ],
-  "ai_importance": 78
+  "ai_importance": 78,
+  "sum_v2": true
  },
  {
   "id": "37dff601e2",
@@ -8216,10 +8304,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 1,
+  "sum_tries": 0,
   "pub_url": "https://www.post-gazette.com/business/career-workplace/2026/11/09/diesel-prices-truckers-costs-breezewood/stories/202610310054",
-  "source_note": "paywalled: excerpt only",
-  "sum_done": true,
+  "source_note": "retry after fixes",
+  "sum_done": false,
   "sum_status": "withheld",
   "source_fp": "d0ef31ed2e2ac8b5",
   "source_scope": "excerpt",
@@ -8231,7 +8319,8 @@
    "source did not support a summary"
   ],
   "ai_category": "fuel",
-  "ai_importance": 55
+  "ai_importance": 55,
+  "sum_v2": true
  },
  {
   "id": "3cb951688a",
