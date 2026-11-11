@@ -2577,7 +2577,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/diesel-prices-begin-to-downshift",
   "source_note": "ok · 171 words"
@@ -5351,7 +5351,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/beyond-compliance-trucking-fleets-put-fmcsa-safety-priorities-into-practice",
+  "source_note": "ok · 1205 words"
  },
  {
   "id": "f81b2c4d43",

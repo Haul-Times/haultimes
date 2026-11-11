@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:37:52.420487+00:00",
+ "updated": "2026-11-11T05:41:01.775936+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -275,7 +275,7 @@
      null
     ],
     "north": [
-     4,
+     5,
      null,
      null,
      null,
@@ -324,7 +324,7 @@
    },
    "usual": {
     "south": [
-     3,
+     2,
      null,
      null,
      null,
@@ -1074,7 +1074,7 @@
    },
    "usual": {
     "south": [
-     8,
+     7,
      null,
      null,
      null,
@@ -1318,7 +1318,7 @@
      null
     ],
     "north": [
-     10,
+     9,
      null,
      null,
      null,
