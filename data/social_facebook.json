@@ -1175,7 +1175,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-11T14:01:29.117685+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122101256217544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122101256217544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122101256217544428",
+    "created": "2026-11-11T14:01:29+0000",
+    "at": "2026-11-11T14:05:04.707403+00:00"
+   }
   }
  },
  "paused": null,
@@ -1449,7 +1457,8 @@
   "30c68c46d6": "posted|importance 67 (threshold 65), Industry, trade publication; waited 19 min in queue",
   "dbb5626d02": "skipped|importance 55 is below this platform's threshold (65)",
   "61593c8ab0": "posted|breaking",
-  "af3e08c4cd": "skipped|importance 61 is below this platform's threshold (65)"
+  "af3e08c4cd": "skipped|importance 61 is below this platform's threshold (65)",
+  "87cef39a7f": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2746,16 +2755,23 @@
    "title": "Spot rates surge year over year as truck capacity tightens",
    "action": "posted",
    "reason": "breaking: importance 87, reported by a trade publication of record; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-11T14:05:04.707403+00:00",
+   "story_id": "87cef39a7f",
+   "title": "The Dump Truckers: Behind the Tramily Name",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122101249383544428",
+  "post": "1476615495528085_122101256217544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122101249383544428",
-  "created": "2026-11-11T13:51:21+0000",
-  "at": "2026-11-11T14:01:29.117685+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122101256217544428",
+  "created": "2026-11-11T14:01:29+0000",
+  "at": "2026-11-11T14:05:04.707403+00:00"
  },
  "promo_i": 1
 }
