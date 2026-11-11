@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:11:03.123918+00:00",
+ "updated": "2026-11-11T06:21:04.918355+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -25,7 +25,7 @@
    "usual": {
     "south": [
      8,
-     5,
+     3,
      null,
      null,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:07",
+    "updated": "01:17:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 14,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 0:57 am EST",
+    "status": "delay",
+    "updated": "At 1:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -250,7 +250,7 @@
    "usual": {
     "south": [
      0,
-     0,
+     5,
      null,
      null,
      null,
@@ -276,7 +276,7 @@
     ],
     "north": [
      5,
-     7,
+     8,
      null,
      null,
      null,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 0:57 am EST",
+    "status": "delay",
+    "updated": "At 1:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -325,7 +325,7 @@
    "usual": {
     "south": [
      4,
-     0,
+     3,
      null,
      null,
      null,
@@ -351,7 +351,7 @@
     ],
     "north": [
      13,
-     7,
+     6,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:07",
+    "updated": "01:17:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:07",
+    "updated": "01:17:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:07:07",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -700,7 +700,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:07",
+    "updated": "01:17:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:07",
+    "updated": "01:17:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:00 pm PST",
+    "updated": "At 10:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "22:07:07",
+    "updated": "22:17:09",
     "hours": "24 hrs/day"
    },
    "north": {
