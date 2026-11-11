@@ -24,7 +24,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "4ff3f55fe8",
@@ -109,7 +113,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/us-rail-traffic-hits-intermodal-record-as-october-freight-gains-signal-economic-resilience-says-aar",
+  "source_note": "paywalled: excerpt only · 18 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "b73d73c55c",
@@ -642,7 +651,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.fleetowner.com/emissions-efficiency/news/55417900/us-diesel-prices-fall-nationwide-as-trucking-fuel-costs-remain-37-higher-year-over-year",
   "source_note": "ok · 335 words"
@@ -1959,6 +1968,35 @@
   "sum_pending": false
  },
  {
+  "id": "8783ef80d2",
+  "slug": "fuel-protests-set-to-occur-on-the-friday-of-the-eu-summits-8783ef80d2",
+  "title": "Fuel Protests Set to Occur on the Friday of the EU Summits",
+  "orig_title": "Fuel Protests Set to Occur on the Friday of the EU Summits",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The University Times",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSnJtS3Z6X3JkbG9keU9qS1FWZG9Mcy1NZFQyMUJOYkFxd3dzTDBaalIwQVpJNnZhdlRGMlNvRVlVdTBfTkhLVmExeFhra0g5YzJwWkcwV0lPaThMenA0MmdBZkZPV3c5WWQ1QzhBa1JickJOdC0tekNFM3p1OGhUSmh3MHF1WUg5QzZicGVJSXc3T2c0anNBVUh3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSnJtS3Z6X3JkbG9keU9qS1FWZG9Mcy1NZFQyMUJOYkFxd3dzTDBaalIwQVpJNnZhdlRGMlNvRVlVdTBfTkhLVmExeFhra0g5YzJwWkcwV0lPaThMenA0MmdBZkZPV3c5WWQ1QzhBa1JickJOdC0tekNFM3p1OGhUSmh3MHF1WUg5QzZicGVJSXc3T2c0anNBVUh3",
+  "snippet": "Fuel Protests Set to Occur on the Friday of the EU Summits The University Times",
+  "published": "2026-11-11T10:28:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T14:59:30.259438+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "978f33d374",
   "slug": "premarket-stocks-gain-as-coreweave-reignites-ai-trade-978f33d374",
   "title": "Premarket: Stocks gain as CoreWeave reignites AI trade",
@@ -2860,6 +2898,35 @@
   "sum_tries": 3,
   "pub_url": "https://academy.freightwaves.com/certified-freight-pricing-analyst",
   "source_note": "ok · 930 words"
+ },
+ {
+  "id": "c0b146413c",
+  "slug": "f1-ends-plans-for-backup-race-in-italy-as-season-finale-nears-in-qatar-c0b146413c",
+  "title": "F1 ends plans for backup race in Italy as season finale nears in Qatar and Abu Dhabi",
+  "orig_title": "F1 ends plans for backup race in Italy as season finale nears in Qatar and Abu Dhabi",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUl6YW4xRWFvYVM3S2pTdEJxYjJKa3Jpc0NSZTl3UG1jdXNzS0hNSTdpVG9weFhBRjY1S0lQQlVrQzgtSEg1OFR2YzZ1dzlKTWpicmdhcjRnbUpobDdkaTNpQ1V2Tm85T2g1a0ExQ2Y4d2hXOE82TXNra29NSkdRVzJTXzNKMTQ3VW53eWVvQjJ2azlTY190b012N1NDS0pPNFRzUG9SX0pDUHRjSmpBM0U1MTY0cXl5Q2c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUl6YW4xRWFvYVM3S2pTdEJxYjJKa3Jpc0NSZTl3UG1jdXNzS0hNSTdpVG9weFhBRjY1S0lQQlVrQzgtSEg1OFR2YzZ1dzlKTWpicmdhcjRnbUpobDdkaTNpQ1V2Tm85T2g1a0ExQ2Y4d2hXOE82TXNra29NSkdRVzJTXzNKMTQ3VW53eWVvQjJ2azlTY190b012N1NDS0pPNFRzUG9SX0pDUHRjSmpBM0U1MTY0cXl5Q2c",
+  "snippet": "F1 ends plans for backup race in Italy as season finale nears in Qatar and Abu Dhabi The Globe and Mail",
+  "published": "2026-11-11T01:23:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T14:59:30.259438+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f7b36d4d3d",
@@ -4368,7 +4435,7 @@
   "labels": [],
   "kind": "crime",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://cdllife.com/2026/truck-driver-arrested-and-banned-from-pilot-after-seriously-threatening-driver-parked-in-the-fuel-island-while-eating-dinner/?amp",
   "source_note": "ok · 229 words"
  },
@@ -8803,6 +8870,35 @@
   "published": "2026-11-09T21:17:39+00:00",
   "date_known": true,
   "first_seen": "2026-11-10T19:11:06.617497+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "edc4d9ee98",
+  "slug": "journalist-raymond-heard-asserted-himself-in-newsrooms-boardrooms-and-edc4d9ee98",
+  "title": "Journalist Raymond Heard asserted himself in newsrooms, boardrooms and political backrooms",
+  "orig_title": "Journalist Raymond Heard asserted himself in newsrooms, boardrooms and political backrooms",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGlUVGpDZVVSTjdTM0pCLW1EbkJrZUZ5LTlCTTBiRHppNGNqWDMxbXBTRnQxTzdiNnlMNkp1amVJV2JKcm9TV00ySzYwY0dpWlBhcDBwNk1iQmdUMjdjTzZnSlFXOHRxaWFfTTl3X21vVldhanRnU2FXeHlzYXd0aUp3YnZRN00xZHhfS25WckRTd1dYMzkxcVZiTTJ1Nzk4Q2o2SWRLUlkwN29KbHp4TFRBZ3VacWJr?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGlUVGpDZVVSTjdTM0pCLW1EbkJrZUZ5LTlCTTBiRHppNGNqWDMxbXBTRnQxTzdiNnlMNkp1amVJV2JKcm9TV00ySzYwY0dpWlBhcDBwNk1iQmdUMjdjTzZnSlFXOHRxaWFfTTl3X21vVldhanRnU2FXeHlzYXd0aUp3YnZRN00xZHhfS25WckRTd1dYMzkxcVZiTTJ1Nzk4Q2o2SWRLUlkwN29KbHp4TFRBZ3VacWJr",
+  "snippet": "Journalist Raymond Heard asserted himself in newsrooms, boardrooms and political backrooms The Globe and Mail",
+  "published": "2026-11-09T21:15:14+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T14:59:30.259438+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
