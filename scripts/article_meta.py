@@ -22,12 +22,16 @@ TIMEOUT = 15
 MAX_BYTES = 400_000
 
 
+GOOGLE_MAX_BYTES = 4_000_000  # Google's article page puts the address data late in a large page
+
+
 def _get(url, data=None, headers=None):
     h = {"User-Agent": UA, "Accept-Language": "en-US,en;q=0.8"}
     h.update(headers or {})
     req = urllib.request.Request(url, data=data, headers=h)
+    limit = GOOGLE_MAX_BYTES if "news.google.com" in url else MAX_BYTES
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        return r.geturl(), r.read(MAX_BYTES).decode(r.headers.get_content_charset() or "utf-8", "replace")
+        return r.geturl(), r.read(limit).decode(r.headers.get_content_charset() or "utf-8", "replace")
 
 
 # ------------------------------------------------------------------ Google News links
