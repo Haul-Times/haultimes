@@ -1045,6 +1045,35 @@
   "sum_pending": false
  },
  {
+  "id": "de01eb92e0",
+  "slug": "after-a-lifetime-of-waiting-these-seoul-women-are-getting-a-chance-at-de01eb92e0",
+  "title": "After a lifetime of waiting, these Seoul women are getting a chance at education",
+  "orig_title": "After a lifetime of waiting, these Seoul women are getting a chance at education",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSm9TRjJWVXpQeUloZVF3Tk5FZ2EyX3NvcnFjWUFHLVRJZXQzQXhrby1ueHZKSUc1UWJwb18xcmFjX3ExNFR0bEwxblRfVHJkWUo3Zm41VGNWUFRORGRBZTdFbTNIQmk3SGdNZFdtMDIzeGtDLUNqQlVzOThrd04wSFlRMFloa0c4enlDSEd3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSm9TRjJWVXpQeUloZVF3Tk5FZ2EyX3NvcnFjWUFHLVRJZXQzQXhrby1ueHZKSUc1UWJwb18xcmFjX3ExNFR0bEwxblRfVHJkWUo3Zm41VGNWUFRORGRBZTdFbTNIQmk3SGdNZFdtMDIzeGtDLUNqQlVzOThrd04wSFlRMFloa0c4enlDSEd3",
+  "snippet": "After a lifetime of waiting, these Seoul women are getting a chance at education The Globe and Mail",
+  "published": "2026-11-11T05:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T11:51:02.081258+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c9085cf288",
   "slug": "mercer-connor-each-score-twice-to-lift-jets-over-devils-4-2-c9085cf288",
   "title": "Mercer, Connor each score twice to lift Jets over Devils 4-2",
@@ -5024,6 +5053,35 @@
   "sum_pending": false
  },
  {
+  "id": "a01f49e003",
+  "slug": "opinion-putin-needs-to-understand-that-the-war-in-ukraine-is-untenable-a01f49e003",
+  "title": "Opinion: Putin needs to understand that the war in Ukraine is untenable",
+  "orig_title": "Opinion: Putin needs to understand that the war in Ukraine is untenable",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2kxWGx0XzF6UnlMUWhtSmR4cktxczE5Ymd3RC15VGxnNnRfamlQbHB2Z1QzNHpXMGlBNVZ0Rm9oU3NURDhzZnBVSjNtQ3N6a2VYNG5pdnlUZ3YwRHh1XzRBR1FGOWlPeG9tZlQwMVRJdDZiMllMakhZTVk2MWZoNDBreWlUMnZkX2JDMGxKY2FCR2xYSTQ2ZHFJajFwMUhsXzNKQ0hYdGptcW5iNVY4UQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2kxWGx0XzF6UnlMUWhtSmR4cktxczE5Ymd3RC15VGxnNnRfamlQbHB2Z1QzNHpXMGlBNVZ0Rm9oU3NURDhzZnBVSjNtQ3N6a2VYNG5pdnlUZ3YwRHh1XzRBR1FGOWlPeG9tZlQwMVRJdDZiMllMakhZTVk2MWZoNDBreWlUMnZkX2JDMGxKY2FCR2xYSTQ2ZHFJajFwMUhsXzNKQ0hYdGptcW5iNVY4UQ",
+  "snippet": "Opinion: Putin needs to understand that the war in Ukraine is untenable The Globe and Mail",
+  "published": "2026-11-10T11:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T11:51:02.081258+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fe70ebd4f2",
   "slug": "lowcountry-food-bank-gets-435-000-publix-grant-for-trucks-warehouse-up-fe70ebd4f2",
   "title": "Lowcountry Food Bank gets $435,000 Publix grant for trucks, warehouse upgrades",
@@ -7700,7 +7758,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/ai-in-logistics-how-to-get-real-roi-not-just-hype",
+  "source_note": "paywalled: excerpt only · 22 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "c1b0dcb0b5",
@@ -8001,7 +8064,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "93de55188f",
@@ -8601,7 +8668,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "33829c2510",
@@ -9159,7 +9230,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://ontruck.org/ota-calls-for-stronger-laws-to-prevent-roadway-obstructions-and-protect-provincial-supply-chains-and-businesses/",
+  "source_note": "ok · 377 words"
  },
  {
   "id": "b2f265a4ca",
@@ -10437,6 +10511,35 @@
   "published": "2026-11-09T11:00:00+00:00",
   "date_known": true,
   "first_seen": "2026-11-11T10:50:28.211747+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "2dd073e44d",
+  "slug": "they-signed-up-for-a-forever-cruise-their-dream-ran-aground-after-750-2dd073e44d",
+  "title": "They signed up for a ‘forever’ cruise. Their dream ran aground after 750 days",
+  "orig_title": "They signed up for a ‘forever’ cruise. Their dream ran aground after 750 days",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEhrZlFqWnJobF83NzNNWm9SUE5mUFFfUG02SVUwSUdRVTVzOE5tUzAydEswbTZEZFlmY2dLYml3WWZtbmlXY2wwR3ItLU0yMGswNlJpM1BQMEdXR3hYLVRTbkJ4WlZKb09KbzFVVGFUS1lzOFhtYTVTTmlGZlczUHFfLVFyYUItbmNkRkd3YkF2RWxaU1JLTzA5TGdRQS1kbGZyNQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEhrZlFqWnJobF83NzNNWm9SUE5mUFFfUG02SVUwSUdRVTVzOE5tUzAydEswbTZEZFlmY2dLYml3WWZtbmlXY2wwR3ItLU0yMGswNlJpM1BQMEdXR3hYLVRTbkJ4WlZKb09KbzFVVGFUS1lzOFhtYTVTTmlGZlczUHFfLVFyYUItbmNkRkd3YkF2RWxaU1JLTzA5TGdRQS1kbGZyNQ",
+  "snippet": "They signed up for a ‘forever’ cruise. Their dream ran aground after 750 days The Globe and Mail",
+  "published": "2026-11-09T11:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T11:51:02.081258+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
