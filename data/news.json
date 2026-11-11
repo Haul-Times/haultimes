@@ -256,7 +256,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.stattimes.com/amp/supply-chain/afa-urges-congress-to-pass-cargo-theft-bill-1361267",
+  "source_note": "ok · 613 words"
  },
  {
   "id": "13fdfb3917",
@@ -6250,7 +6253,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/self-driving-trucks-are-here-venti-ceo-reveals-us-fleet-operations",
+  "source_note": "paywalled: excerpt only · 22 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "f22cb7ef8f",
