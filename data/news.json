@@ -2646,7 +2646,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.fleetowner.com/perspectives/ideaxchange/blog/55417202/truck-driver-pay-trends-reshape-fleet-recruiting-and-retention-strategies-for-2027",
   "source_note": "ok · 1098 words"
@@ -2879,7 +2879,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "b7de8ed881",
@@ -4241,7 +4245,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/truck-enforcements-widen-to-maryland-dc-as-128-drivers-sidelined",
+  "source_note": "paywalled: excerpt only · 27 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "d20abbe528",
@@ -4322,7 +4331,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "14cd98f02f",
@@ -5784,7 +5797,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://landline.media/fmcsa-wants-drivers-to-expose-the-bad-in-trucking/",
+  "source_note": "excerpt only · 19 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "0a7a212dcd",
