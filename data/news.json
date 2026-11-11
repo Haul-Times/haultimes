@@ -1,5 +1,35 @@
 [
  {
+  "id": "491911ac80",
+  "slug": "nj-bill-would-ban-off-duty-cannabis-for-police-truckers-491911ac80",
+  "title": "NJ Bill Would Ban Off-Duty Cannabis for Police, Truckers",
+  "orig_title": "NJ Bill Would Ban Off-Duty Cannabis for Police, Truckers",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 50,
+  "source": "Hoodline",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0ZCZjFISWdYWnFJZUZBcFpVZ3FQS1czZzdRLVpLTy1fSEVGNkxodmZFNXg4SDdsNGI0VmlqSDZjMkhSZEZjQzA1Znh0Ykk3YTVraksyX0h6bHNsVXpnWU9hZXNrM2FIWUdDWFZ5V2RqbmlLdExNd0ZDbHRpd1lYakVzQTRjbGxuTHVLcUxqalJLMm95YjZSVzUxa25HYWhMMlI0U2lzdTU4SUo5?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0ZCZjFISWdYWnFJZUZBcFpVZ3FQS1czZzdRLVpLTy1fSEVGNkxodmZFNXg4SDdsNGI0VmlqSDZjMkhSZEZjQzA1Znh0Ykk3YTVraksyX0h6bHNsVXpnWU9hZXNrM2FIWUdDWFZ5V2RqbmlLdExNd0ZDbHRpd1lYakVzQTRjbGxuTHVLcUxqalJLMm95YjZSVzUxa25HYWhMMlI0U2lzdTU4SUo5",
+  "snippet": "NJ Bill Would Ban Off-Duty Cannabis for Police, Truckers Hoodline",
+  "published": "2026-11-11T18:59:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T19:01:05.576046+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Bill would ban marijuana from off-the-clock police, first responders, truck drivers, and h"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "f7b36d4d3d"
+ },
+ {
   "id": "0ee4ca60b5",
   "slug": "paul-brookhart-s-horse-transport-2000-peterbilt-379-s-big-strides-0ee4ca60b5",
   "title": "Paul Brookhart's horse-transport 2000 Peterbilt 379's big strides",
@@ -9810,7 +9840,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/the-nation/idaho-to-upgrade-commercial-truck-screening-systems-at-six-ports-of-entry",
   "source_note": "ok · 361 words"
@@ -10640,7 +10670,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.rfdtv.com/truckers-warn-higher-insurance-mandates-could-push-small-carriers-out-of-business",
+  "source_note": "ok · 602 words"
  },
  {
   "id": "534289d9e0",
