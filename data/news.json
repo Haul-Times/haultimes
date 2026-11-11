@@ -257,7 +257,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.stattimes.com/amp/supply-chain/afa-urges-congress-to-pass-cargo-theft-bill-1361267",
   "source_note": "ok · 613 words"
  },
@@ -543,6 +543,35 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true
+ },
+ {
+  "id": "6614c018d6",
+  "slug": "carney-awarded-satirical-fossil-of-the-day-title-by-activists-over-abs-6614c018d6",
+  "title": "Carney awarded satirical ‘fossil of the day’ title by activists over absence at UN Climate Conference",
+  "orig_title": "Carney awarded satirical ‘fossil of the day’ title by activists over absence at UN Climate Conference",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVh2RERGOUxtcFVXQ2oxSlM0X3ZmN2VBV2xxOXpPQnhoYWtWWkdPdllzbDFFaWo2NV93Vm1XWWx0R3oxWmF2YXQwZEhldG9Nd0ZLSTc3RnE1dTk4eWxfOU4wNHoxQUt6UUd5SkdvVDNjemJwV3gxTzhxUXVCN25tR1pZOEVIOXNuTEVKdEJ4bmZKN2MxR0NMbXdMdldIWC1kWnYtR1RNc1JreG9WSXFHS1JmNGg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVh2RERGOUxtcFVXQ2oxSlM0X3ZmN2VBV2xxOXpPQnhoYWtWWkdPdllzbDFFaWo2NV93Vm1XWWx0R3oxWmF2YXQwZEhldG9Nd0ZLSTc3RnE1dTk4eWxfOU4wNHoxQUt6UUd5SkdvVDNjemJwV3gxTzhxUXVCN25tR1pZOEVIOXNuTEVKdEJ4bmZKN2MxR0NMbXdMdldIWC1kWnYtR1RNc1JreG9WSXFHS1JmNGg",
+  "snippet": "Carney awarded satirical ‘fossil of the day’ title by activists over absence at UN Climate Conference The Globe and Mail",
+  "published": "2026-11-10T23:02:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T08:01:06.090473+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8352a42eef",
@@ -9193,7 +9222,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "bfde53aafc",
@@ -9220,7 +9249,7 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "d6a411b830",
