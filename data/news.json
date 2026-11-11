@@ -107,7 +107,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://newjersey.news12.com/bill-would-ban-marijuana-from-off-the-clock-police-first-responders-truck-drivers-and-heavy-equipment-operators",
+  "source_note": "ok · 359 words"
  },
  {
   "id": "742e6216bc",
@@ -6147,7 +6150,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/what-trucking-can-still-get-from-a-lame-duck-congress-before-jan-3",
+  "source_note": "paywalled: excerpt only · 26 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "d6d5fa686f",
