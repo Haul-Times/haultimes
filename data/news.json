@@ -2679,7 +2679,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.fleetowner.com/news/news/55417528/fmcsa-updates-complaint-center-for-reporting-trucking-safety-and-compliance-violations",
   "source_note": "ok · 263 words",
   "sum_done": false,
@@ -7478,11 +7478,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
+  "sum_pending": true,
+  "sum_tries": 0,
   "pub_url": "https://www.fleetequipmentmag.com/us-diesel-price-outlook-2027-fleets/",
   "source_note": "ok · 625 words",
-  "sum_done": true,
+  "sum_done": false,
   "sum_status": "withheld",
   "source_fp": "6f22be4ead466232",
   "source_scope": "full_article",
@@ -7493,7 +7493,8 @@
   "sum_problems": [
    "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
   ],
-  "ai_importance": 73
+  "ai_importance": 73,
+  "sum_v4": true
  },
  {
   "id": "13e318c450",
