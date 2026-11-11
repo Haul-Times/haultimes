@@ -1,5 +1,36 @@
 [
  {
+  "id": "af3e08c4cd",
+  "slug": "ftr-raises-trucking-outlook-despite-september-dip-in-conditions-index-af3e08c4cd",
+  "title": "FTR raises trucking outlook despite September dip in conditions index",
+  "orig_title": "FTR raises trucking outlook despite September dip in conditions index",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 61,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU9XMGwxVVZhcXJ1U0ZOQzVxNHpJME1nZm90QjhHb0hkYlhpQkdiNUlJYzlBMkNINWhuSGw5TDlIMDdQaHV6M1lOZmQ5eG4weTFtaVRrOWt2NXFrZ1c1X3NjbUIwUGQzLTF0NDJ6ZDREX2NSdHI1LU1XQzRqNElTMFl6WGxPUEgzSy1TQVBXSjl4YVN5RDFlWE9lZkF1UFpGOEllVTlZd19pbHJVQUZISVZRSmROWkdCVE1Pbw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaU9XMGwxVVZhcXJ1U0ZOQzVxNHpJME1nZm90QjhHb0hkYlhpQkdiNUlJYzlBMkNINWhuSGw5TDlIMDdQaHV6M1lOZmQ5eG4weTFtaVRrOWt2NXFrZ1c1X3NjbUIwUGQzLTF0NDJ6ZDREX2NSdHI1LU1XQzRqNElTMFl6WGxPUEgzSy1TQVBXSjl4YVN5RDFlWE9lZkF1UFpGOEllVTlZd19pbHJVQUZISVZRSmROWkdCVE1Pbw",
+  "snippet": "FTR raises trucking outlook despite September dip in conditions index Truck News",
+  "published": "2026-11-11T13:58:02+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T14:01:12.436711+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "61593c8ab0",
   "slug": "spot-rates-surge-year-over-year-as-truck-capacity-tightens-61593c8ab0",
   "title": "Spot rates surge year over year as truck capacity tightens",
@@ -358,6 +389,35 @@
   "kind": "event",
   "sum_pending": false,
   "dup_of": "3568f5d719"
+ },
+ {
+  "id": "81e2791403",
+  "slug": "jay-singh-81e2791403",
+  "title": "Jay Singh",
+  "orig_title": "Jay Singh",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4S185RXRFQ1JIVy1iYlIzTGp3YTEyOEVnX0FZdTRHQXBNWExCUGRkWElveEFXYlJBYWVnbWpJRVpYV2lfMUw0ZThIc3BBeGlWam5qcHE4LURfS19EM0NtaEtnMUU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4S185RXRFQ1JIVy1iYlIzTGp3YTEyOEVnX0FZdTRHQXBNWExCUGRkWElveEFXYlJBYWVnbWpJRVpYV2lfMUw0ZThIc3BBeGlWam5qcHE4LURfS19EM0NtaEtnMUU",
+  "snippet": "Jay Singh FreightWaves",
+  "published": "2026-11-11T12:45:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T14:01:12.436711+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "56babd26cd",
@@ -1101,6 +1161,35 @@
   "published": "2026-11-11T11:03:23+00:00",
   "date_known": true,
   "first_seen": "2026-11-11T11:11:06.793672+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "8ce21a97f1",
+  "slug": "column-fox-valley-veteran-finding-new-ways-to-make-life-sweeter-for-ho-8ce21a97f1",
+  "title": "Column: Fox Valley veteran finding new ways to make life sweeter for homeless vets",
+  "orig_title": "Column: Fox Valley veteran finding new ways to make life sweeter for homeless vets",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Chicago Tribune",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEhpQXY2U3RYeExFcEtITlRYZk41Z2d0WmljMk9jWXFobG1CX2JUN2RoOHplUUFWQVFBTTNFY1d4WGs2S0htOE5WNGhZRi1BWW85SWU2d01tazhrdUs3T3kzRUJEdUVqSE9rQUV6OHJMQmRJbDR3VWxGcUZfYUFfVkRqbWV6WHl1U2Y3dnRVLUZoNUd3bWtoY3o0QlJnNWplNVJsTXhLeHlIa2ZMTmpuMXZneEV6bzBsMnhieDJ5ZklqZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEhpQXY2U3RYeExFcEtITlRYZk41Z2d0WmljMk9jWXFobG1CX2JUN2RoOHplUUFWQVFBTTNFY1d4WGs2S0htOE5WNGhZRi1BWW85SWU2d01tazhrdUs3T3kzRUJEdUVqSE9rQUV6OHJMQmRJbDR3VWxGcUZfYUFfVkRqbWV6WHl1U2Y3dnRVLUZoNUd3bWtoY3o0QlJnNWplNVJsTXhLeHlIa2ZMTmpuMXZneEV6bzBsMnhieDJ5ZklqZw",
+  "snippet": "Column: Fox Valley veteran finding new ways to make life sweeter for homeless vets Chicago Tribune",
+  "published": "2026-11-11T11:00:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T14:01:12.436711+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -2418,7 +2507,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.natroad.com.au/trucking-industry-at-breaking-point-as-fuel-workforce-and-christmas-pressures-collide/",
+  "source_note": "excerpt only · 22 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "8352a42eef",
@@ -3397,7 +3491,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://globalnews.ca/news/12144780/burnaby-rcmp-officer-prevents-accident-inspecting-commercial-truck/",
+  "source_note": "ok · 208 words"
  },
  {
   "id": "4b917c17f1",
@@ -9694,12 +9791,12 @@
   "ai": false,
   "status": "duplicate",
   "reasons": [
-   "same story as: FTR: trucking market eased slightly in September, but future looks good"
+   "same story as: FTR raises trucking outlook despite September dip in conditions index"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "d259bc1a28"
+  "dup_of": "af3e08c4cd"
  },
  {
   "id": "f357d4102e",
@@ -13240,6 +13337,35 @@
   "published": "2026-11-08T19:00:00+00:00",
   "date_known": true,
   "first_seen": "2026-11-11T11:31:03.371513+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "8118bbf59b",
+  "slug": "david-warrick-overhaul-protecting-compute-hardware-in-transit-8118bbf59b",
+  "title": "David Warrick, Overhaul: Protecting compute hardware in transit",
+  "orig_title": "David Warrick, Overhaul: Protecting compute hardware in transit",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "IoT News",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHB3djZZRHVfdzZ1aFpDRHA2cWJVYjRobEpnVVo3T0ozRkpIbnBoYk9QRDdnZUhhVWJiam5TcDdnRHNqcXRLS245dEdhNUZyMFNOeFUtUGJ3VlRpMjlKcWU4dFN1UmNCTzQ4QWVZZlI0NU1RRWllY1VMbm1uSEp0Q05kV1h5czBEUkJwR0w4RzZleUIzSnc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHB3djZZRHVfdzZ1aFpDRHA2cWJVYjRobEpnVVo3T0ozRkpIbnBoYk9QRDdnZUhhVWJiam5TcDdnRHNqcXRLS245dEdhNUZyMFNOeFUtUGJ3VlRpMjlKcWU4dFN1UmNCTzQ4QWVZZlI0NU1RRWllY1VMbm1uSEp0Q05kV1h5czBEUkJwR0w4RzZleUIzSnc",
+  "snippet": "David Warrick, Overhaul: Protecting compute hardware in transit IoT News",
+  "published": "2026-11-08T18:50:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T14:01:12.436711+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
