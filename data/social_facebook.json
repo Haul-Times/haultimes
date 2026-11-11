@@ -1322,7 +1322,8 @@
   "fa3e383ac3": "skipped|importance 50 is below this platform's threshold (65)",
   "7dc42ef19b": "skipped|importance 57 is below this platform's threshold (65)",
   "01f10c3dc5": "skipped|importance 50 is below this platform's threshold (65)",
-  "e00cf96993": "posted|importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue"
+  "e00cf96993": "posted|importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue",
+  "f4c89849ff": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -2535,6 +2536,13 @@
    "title": "Brake Safety Week: 2,300 trucks put out-of-service",
    "action": "posted",
    "reason": "importance 75 (threshold 65), Regulations, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-11T11:41:15.741883+00:00",
+   "story_id": "f4c89849ff",
+   "title": "C.H. Robinson's DeSpir earns TAPA cargo security certification",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
