@@ -1369,7 +1369,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/trucking-market-why-is-it-flat-despite-12-8-rejection",
+  "source_note": "paywalled: excerpt only · 25 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "d839f6bd80",
@@ -7610,7 +7615,12 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/sonar-national-insights-expands-with-flatbed-and-ltl-data",
+  "source_note": "paywalled: excerpt only · 24 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "9295be5ff6",
@@ -8734,7 +8744,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetequipmentmag.com/q3-freight-spending-us-bank-index/",
+  "source_note": "ok · 327 words"
  },
  {
   "id": "3b0436e4df",
@@ -9260,7 +9273,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.eastmidlandsbusinesslink.co.uk/mag/finance/kb-event-acquires-bussing-and-trucking-company/",
   "source_note": "ok · 245 words"
