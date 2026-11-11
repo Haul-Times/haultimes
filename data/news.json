@@ -3209,6 +3209,35 @@
   "sum_pending": false
  },
  {
+  "id": "8981ecb180",
+  "slug": "ugandan-transit-truck-drivers-call-for-gov-t-intervention-over-insecur-8981ecb180",
+  "title": "Ugandan transit truck drivers call for Gov’t intervention over insecurity in South Sudan",
+  "orig_title": "Ugandan transit truck drivers call for Gov’t intervention over insecurity in South Sudan",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "NewVision.co.ug",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtLNFg5c0dQTzlJVjJSWUpMMjl6U1htbkRESTdIdi14Rk9wdHJyYU9qajl4TGZnNkZCZUVTdEphVlZEZGowTmlEZkhvLV81TURkTXBlQUJESDNGcVZFUTJWTVFRQ055VGRxNmVZTlNoYUtCZ2JWNFhpOVNzYkhtQ2drdXJxX1ZrNlRvV2l3bE1vV3RyODkwRUZVckFtLUFRT2FLaDlraw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtLNFg5c0dQTzlJVjJSWUpMMjl6U1htbkRESTdIdi14Rk9wdHJyYU9qajl4TGZnNkZCZUVTdEphVlZEZGowTmlEZkhvLV81TURkTXBlQUJESDNGcVZFUTJWTVFRQ055VGRxNmVZTlNoYUtCZ2JWNFhpOVNzYkhtQ2drdXJxX1ZrNlRvV2l3bE1vV3RyODkwRUZVckFtLUFRT2FLaDlraw",
+  "snippet": "Ugandan transit truck drivers call for Gov’t intervention over insecurity in South Sudan NewVision.co.ug",
+  "published": "2026-11-10T13:00:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T07:21:03.109586+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "bc9ed7a65e",
   "slug": "how-are-3-labour-disputes-affecting-the-port-of-prince-rupert-bc9ed7a65e",
   "title": "How are 3 labour disputes affecting the Port of Prince Rupert?",
@@ -7889,7 +7918,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.fleetowner.com/perspectives/lane-shift-ahead/blog/55405902/trucking-by-the-numbers-2026-costs-margins-data",
   "source_note": "ok · 813 words"
  },
