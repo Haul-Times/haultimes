@@ -1,5 +1,34 @@
 [
  {
+  "id": "1010fb38f7",
+  "slug": "wreaths-across-america-s-maine-to-d-c-convoy-dates-set-1010fb38f7",
+  "title": "Wreaths Across America's Maine-to-D.C. convoy dates set",
+  "orig_title": "Wreaths Across America's Maine-to-D.C. convoy dates set",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "eTrucker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblRQaEdIU2V5STloQVBPbEpPQWRDTENvRFdBUDJMcnVMY3lSc09XNmdxbnRlUnhER1BNemxJYThJRTNXdGdqX1hBSTFGQ0p4Ty05S0c1UmdTTVpSU2hyZjBxX1dnZVFVVW92Ukt3MFN4Y1lnS2Z6RmtFdmNQQk8zeTJENXlvaXJSWWpaWGRueWhkVEE2VHdDb1kwaGJMRGxwZE93a0xqTQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblRQaEdIU2V5STloQVBPbEpPQWRDTENvRFdBUDJMcnVMY3lSc09XNmdxbnRlUnhER1BNemxJYThJRTNXdGdqX1hBSTFGQ0p4Ty05S0c1UmdTTVpSU2hyZjBxX1dnZVFVVW92Ukt3MFN4Y1lnS2Z6RmtFdmNQQk8zeTJENXlvaXJSWWpaWGRueWhkVEE2VHdDb1kwaGJMRGxwZE93a0xqTQ",
+  "snippet": "Wreaths Across America's Maine-to-D.C. convoy dates set eTrucker",
+  "published": "2026-11-11T19:55:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T20:02:20.205218+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "f1d08f5102",
   "slug": "ai-equipment-theft-150m-stolen-in-2024-f1d08f5102",
   "title": "AI Equipment Theft: $150M Stolen in 2024",
@@ -53,7 +82,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.foxnews.com/video/6408247222112",
+  "source_note": "excerpt only · 32 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "49cc03c3df",
@@ -169,7 +203,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "491911ac80",
@@ -346,7 +384,11 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "b16a2e73f3",
@@ -373,7 +415,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/cvsa-sets-2027-international-roadcheck-dates",
   "source_note": "ok · 625 words"
@@ -2954,6 +2996,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "d510a4fa1b",
+  "slug": "formula-1-star-lewis-hamilton-visits-gaza-humanitarian-aid-facilities-d510a4fa1b",
+  "title": "Formula 1 Star Lewis Hamilton Visits Gaza Humanitarian Aid Facilities in Egypt",
+  "orig_title": "Formula 1 Star Lewis Hamilton Visits Gaza Humanitarian Aid Facilities in Egypt",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Haaretz",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb3FmbTRQTHBXeHNBUVRBTWNVRmo5dTZGM3o2TkFrQ3JVMElpanlScjhxWnJXSnc4eHQ5MmNuVWlhUUhLLWVzVGFvS0VFSHRmYTN5MjloN1pMbjhSSnBTLUlFa3lrTEYwNHpBSUphM0JycGFDVEt6YXplYmJMYUxCcm51ZF9lWWMwalBjdmdvQkZlVmFqVVI4MjcwSm8zVkcwTm9KNTdBdEpqSmgzdVlYcF9sTTRyb2R6WFFfazJvVjhWdlN3WHhaMTNPLUlZVzRRb1NSVkdHekVUdGZ5SUItMURfbXBIT2F4RG12WHBB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb3FmbTRQTHBXeHNBUVRBTWNVRmo5dTZGM3o2TkFrQ3JVMElpanlScjhxWnJXSnc4eHQ5MmNuVWlhUUhLLWVzVGFvS0VFSHRmYTN5MjloN1pMbjhSSnBTLUlFa3lrTEYwNHpBSUphM0JycGFDVEt6YXplYmJMYUxCcm51ZF9lWWMwalBjdmdvQkZlVmFqVVI4MjcwSm8zVkcwTm9KNTdBdEpqSmgzdVlYcF9sTTRyb2R6WFFfazJvVjhWdlN3WHhaMTNPLUlZVzRRb1NSVkdHekVUdGZ5SUItMURfbXBIT2F4RG12WHBB",
+  "snippet": "Formula 1 Star Lewis Hamilton Visits Gaza Humanitarian Aid Facilities in Egypt Haaretz",
+  "published": "2026-11-11T11:03:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T20:02:20.205218+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -10987,7 +11058,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.rfdtv.com/truckers-warn-higher-insurance-mandates-could-push-small-carriers-out-of-business",
   "source_note": "ok · 602 words"
  },
