@@ -232,6 +232,35 @@
   "sum_pending": false
  },
  {
+  "id": "bfd3e6b1a8",
+  "slug": "your-daily-horoscope-november-11-2026-bfd3e6b1a8",
+  "title": "Your daily horoscope: November 11, 2026",
+  "orig_title": "Your daily horoscope: November 11, 2026",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXFhcDFRTG5KY3FOWDVpZmtSLWdmTXhwRW13N2NOMUZUVFQtM1ZXSWJvUzRiM2FlSVRUMHBmQkJwaXQxMmN6UTN1S2Y3SEhSZWtpcmhDTUJWd0h1Y2pnYXY1V1NBd3E2Z2d2djFZMDRSdXo5Vm9EWm5hckx6c0k4cURtZ1FuTzczUmNuQ0loN2JXSFd1dUhNc2hn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXFhcDFRTG5KY3FOWDVpZmtSLWdmTXhwRW13N2NOMUZUVFQtM1ZXSWJvUzRiM2FlSVRUMHBmQkJwaXQxMmN6UTN1S2Y3SEhSZWtpcmhDTUJWd0h1Y2pnYXY1V1NBd3E2Z2d2djFZMDRSdXo5Vm9EWm5hckx6c0k4cURtZ1FuTzczUmNuQ0loN2JXSFd1dUhNc2hn",
+  "snippet": "Your daily horoscope: November 11, 2026 The Globe and Mail",
+  "published": "2026-11-11T05:01:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-11T08:31:06.375105+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "7dc42ef19b",
   "slug": "afa-urges-congress-to-pass-cargo-theft-bill-7dc42ef19b",
   "title": "AfA urges Congress to pass cargo theft bill",
@@ -1949,7 +1978,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.inboundlogistics.com/articles/nvidia-cargo-theft-oakland-fort-worth/",
   "source_note": "ok · 906 words"
  },
