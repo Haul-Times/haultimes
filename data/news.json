@@ -1,5 +1,95 @@
 [
  {
+  "id": "c0167660b4",
+  "slug": "second-truckers-strike-threatens-further-disruption-to-chilean-cherry-c0167660b4",
+  "title": "Second truckers’ strike threatens further disruption to Chilean cherry exports",
+  "orig_title": "Second truckers’ strike threatens further disruption to Chilean cherry exports",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Fruitnet",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1RzQWlQbXVWU19YWUQ0ejFDc2F5a3NESGFQZFgwaU4zSG1aWmRoYnUyd3dtTkd6TWpyNVpHOHFUNnlvcnQ5SlE0MVdMUkF4V0s1cjhhQzZaWmM3RDlzOWZ5YV9QMWY3RkZNRFdBU2haRzlTMFFUZmlobjBEUUkxVTZpcXE2dTRvS0R6Zkl6eE1qV0pVbFIyMUEtLU5pdHNLcXEzempJQXp3cGhtN0ZaQUk3TGFmb2hpaThZVHV4V1VJcWF2NlE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1RzQWlQbXVWU19YWUQ0ejFDc2F5a3NESGFQZFgwaU4zSG1aWmRoYnUyd3dtTkd6TWpyNVpHOHFUNnlvcnQ5SlE0MVdMUkF4V0s1cjhhQzZaWmM3RDlzOWZ5YV9QMWY3RkZNRFdBU2haRzlTMFFUZmlobjBEUUkxVTZpcXE2dTRvS0R6Zkl6eE1qV0pVbFIyMUEtLU5pdHNLcXEzempJQXp3cGhtN0ZaQUk3TGFmb2hpaThZVHV4V1VJcWF2NlE",
+  "snippet": "Second truckers’ strike threatens further disruption to Chilean cherry exports Fruitnet",
+  "published": "2026-11-12T00:22:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T00:31:05.700321+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "38a4bdc3e0",
+  "slug": "record-diesel-prices-squeeze-truckers-could-raise-costs-for-northwest-38a4bdc3e0",
+  "title": "Record diesel prices squeeze truckers, could raise costs for Northwest consumers",
+  "orig_title": "Record diesel prices squeeze truckers, could raise costs for Northwest consumers",
+  "summary": "",
+  "why": "",
+  "category": "fuel",
+  "region": "",
+  "importance": 63,
+  "source": "KATU",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQllyRlRyT2N6LWM1TXFEOEthMTJkbDNwUVVRN2xoSm90QzBCQjRBS05EZTlSSDh1MkRobjZYaVhDLVFxb1U5QTlWUUlLRVN2YkR0N21XbUs4djZaZGRZakF0Ni1abVYxY3RBa0loNUJDQXFkS2xPNEdCNEhsdHpoODBMNlhYQzlZZy1TbkwzdGZmamxKbVVFWDczaF9sWWx1X29zM0JQNmg4UGJzT0w5Rmhic3Z2VnFyWERDVnNoMTE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQllyRlRyT2N6LWM1TXFEOEthMTJkbDNwUVVRN2xoSm90QzBCQjRBS05EZTlSSDh1MkRobjZYaVhDLVFxb1U5QTlWUUlLRVN2YkR0N21XbUs4djZaZGRZakF0Ni1abVYxY3RBa0loNUJDQXFkS2xPNEdCNEhsdHpoODBMNlhYQzlZZy1TbkwzdGZmamxKbVVFWDczaF9sWWx1X29zM0JQNmg4UGJzT0w5Rmhic3Z2VnFyWERDVnNoMTE",
+  "snippet": "Record diesel prices squeeze truckers, could raise costs for Northwest consumers KATU",
+  "published": "2026-11-11T23:33:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T00:31:05.700321+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://katu.com/news/local/gallery/record-diesel-prices-squeeze-truckers-could-raise-costs-for-northwest-consumers?photo=2",
+  "source_note": "excerpt only · 39 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "2d78d39963",
+  "slug": "jordan-nemrow-2d78d39963",
+  "title": "Jordan Nemrow",
+  "orig_title": "Jordan Nemrow",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRDlRWEFwa3J0MWNzR0ktX0V6RGp0ZG5TVFJBSGt6MkF1X1VtS0paTzhSNVRCQ0hYNDNvUGRsR0VXSWJmYWxsS01ZTFF1a05sT3VMT2N6dlZJeUV6OGppQzkyRkRmY18zZVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRDlRWEFwa3J0MWNzR0ktX0V6RGp0ZG5TVFJBSGt6MkF1X1VtS0paTzhSNVRCQ0hYNDNvUGRsR0VXSWJmYWxsS01ZTFF1a05sT3VMT2N6dlZJeUV6OGppQzkyRkRmY18zZVE",
+  "snippet": "Jordan Nemrow FreightWaves",
+  "published": "2026-11-11T23:23:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T00:31:05.700321+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c2d51cb33b",
   "slug": "linde-helps-penguin-random-house-turn-a-new-page-c2d51cb33b",
   "title": "Linde helps Penguin Random House turn a new page",
@@ -3055,7 +3145,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "Other",
   "importance": 40,
   "source": "The South African",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTR0bWpha0JGU1dkZjRkUW9hX25YMGNOU3lGekphUFR3Vzg0SzNkS2dTam1xRWxHVmJtNFFnNWs2Z2lzeDV1U1Y1QjF0OURZTnNZaW9zUnpxcFlXTTl6MF81NTlqeWlGRnN5ODZQVkZlU25ZSnpoeE9pXzBucUFyRE51VVdLYlJvS184MUdtc1J1cjF5c2owb2xHeUd5Z3Nva29qVWJkYw?oc=5",
@@ -3068,11 +3158,41 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thesouthafrican.com/news/africa/how-much-do-truck-drivers-earn-in-botswana-compared-with-sa/",
+  "source_note": "ok · 417 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "e45a6bdadfc042fa",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:31:05.700321+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Paylab lists the annual gross salary range"
+   },
+   {
+    "sentence": "2",
+    "quote": "Indeed reported an average truck driver salary of R10 161 per month"
+   },
+   {
+    "sentence": "3",
+    "quote": "Paylab’s figures are based on its salary survey"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 8,
+  "ai_relevant": false
  },
  {
   "id": "adc4ee4942",
@@ -5457,7 +5577,7 @@
   "summary": "",
   "why": "",
   "category": "border",
-  "region": "",
+  "region": "Other",
   "importance": 40,
   "source": "Tribune Online",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNak0xYmVSSnpFd0lhMmZtUDM1TUYtSVRMVnl4anJDajd0RkNCMEd3NVFPV0F6QmdZNzM1cF92M2p0QWM5MjROMURJU0J2em1FYkgwQ3d6MTZiN2h3XzFVVzBod09FY01LTVVWWmJ1NHFOZnRydGJGdkphcmpERTlic1piWHNOTUZ1eGNQYU05VFB4bHBjeWI4TklrenFDRVg0Z3VDUGtGeHNsZm9vcHZaZk1tRUhZRmRQMFdIdWgyNWVselVaVGc?oc=5",
@@ -5470,11 +5590,28 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://tribuneonlineng.com/the-future-of-cross-border-logistics-payments-in-africa-can-stablecoins-improve-settlement-by-2027/",
+  "source_note": "excerpt only · 56 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "8c99201b41559360",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-12T00:31:05.700321+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 5,
+  "ai_relevant": false
  },
  {
   "id": "5c7f5b82b0",
@@ -10654,10 +10791,10 @@
   "slug": "marten-transport-stock-faces-mixed-quarter-after-latest-filing-f636d43c1f",
   "title": "Marten Transport stock faces mixed quarter after latest filing",
   "orig_title": "Marten Transport stock faces mixed quarter after latest filing",
-  "summary": "",
+  "summary": "Marten Transport reported mixed third-quarter results in a Form 10-Q filed November 6, covering the period ended September 30, 2026. Operating revenue rose 1.3 percent to 223.2 million US dollars, and net income climbed 30.7 percent to 2.9 million US dollars. Revenue excluding fuel surcharges, however, fell 5.0 percent to 184.2 million US dollars. For the nine months, operating revenue declined 3.5 percent to 650.3 million US dollars and net income fell 29.9 percent to 9.6 million US dollars. Nothing was drawn on its 50.0 million US dollar credit facility as of September 30. Management committed 40.1 million US dollars to new revenue equipment for the rest of 2026 and 53.2 million US dollars for 2027.",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 45,
   "source": "ad-hoc-news.de",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlBTUGhRRllDZHRvbUxLdHM2dml5U3dmRUpjQXFLY3Zqa2RhYzhFSXNSa0ZISW54ZXRKMVRud3U4bEI5XzktM3QtYlc2eDZUaEMxZkFQbkVFbTVhNGhZbV9HZThWRzl0SXN4UFg3VU44NENyME04WDFtV1lxYlI5Ym5OUDY0VFpvb1BHeEpybkhGR2RwMkczell6VHZoNUZiWXRyMHZYVkxOR2t2el9rb0EyTWR1aFdPU05pWDZn?oc=5",
@@ -10672,7 +10809,46 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/marten-transport-stock-faces-mixed-quarter-after-latest-filing/70483574",
+  "source_note": "ok · 351 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "8e74b9afb47ae269",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:31:05.700321+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "reported a mixed third quarter in a Form 10-Q filed on November 6"
+   },
+   {
+    "sentence": "2",
+    "quote": "operating revenue of 223.2 million US dollars, up 1.3 percent"
+   },
+   {
+    "sentence": "3",
+    "quote": "Revenue excluding fuel surcharges fell 5.0 percent"
+   },
+   {
+    "sentence": "4",
+    "quote": "Operating revenue declined 3.5 percent to 650.3 million US dollars"
+   },
+   {
+    "sentence": "5",
+    "quote": "no principal outstanding under its 50.0 million US dollar credit facility"
+   },
+   {
+    "sentence": "6",
+    "quote": "Management committed to 40.1 million US dollars of new revenue equipment purchases"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 35
  },
  {
   "id": "b7b8fb7da8",
@@ -10840,7 +11016,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false
  },
  {
   "id": "79ba3394b4",
