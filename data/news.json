@@ -1,5 +1,34 @@
 [
  {
+  "id": "f623cdc207",
+  "slug": "global-player-f623cdc207",
+  "title": "Global Player",
+  "orig_title": "Global Player",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdElGWlhSYm5VZFhWa1BBNHRTNDhzLWdydURTb1dscjZXc2p5UHRwaWx2MHR6ei1LTWJWZE1XTEtzcjJVbXRSMzZQOU4xeGZwSTk0Q3lpa2ZDVVp5Sld2bkpyYmhYYVJzbXZTVjNDVEtTak11WmxEUk5LZkpGMTNsVFpPZVl2RTMyWlhuWEcyMS0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdElGWlhSYm5VZFhWa1BBNHRTNDhzLWdydURTb1dscjZXc2p5UHRwaWx2MHR6ei1LTWJWZE1XTEtzcjJVbXRSMzZQOU4xeGZwSTk0Q3lpa2ZDVVp5Sld2bkpyYmhYYVJzbXZTVjNDVEtTak11WmxEUk5LZkpGMTNsVFpPZVl2RTMyWlhuWEcyMS0",
+  "snippet": "Global Player Global News",
+  "published": "2026-11-12T07:39:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T07:41:02.564730+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "342f1628f4",
   "slug": "major-fire-breaks-out-at-rams-trading-warehouse-in-st-kitts-342f1628f4",
   "title": "Major fire breaks out at RAMS Trading Warehouse in St. Kitts",
