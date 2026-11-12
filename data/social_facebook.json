@@ -1345,14 +1345,14 @@
    "source": "Commercial Carrier Journal",
    "dest": "https://haultimes.com/story/trucking-conditions-deteriorated-in-september-with-fuel-s-spike-d50a0bc2e2/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=d50a0bc2e2",
    "caption": "Trucking conditions deteriorated in September with fuel's spike.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-12T08:11:19.711159+00:00",
    "published": "2026-11-12T08:01:11+00:00",
    "score": 75,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122101996269544428",
+   "posted_at": "2026-11-12T08:21:26.937184+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Trucking conditions deteriorated in September with fuel's spike | HaulTimes",
@@ -1363,7 +1363,9 @@
    "reason": "importance 75 (threshold 65), Industry, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-12T08:21:26.937184+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122101996269544428"
   }
  },
  "paused": null,
@@ -1504,6 +1506,10 @@
   {
    "at": "2026-11-12T03:31:21.313704+00:00",
    "msg": "credentials OK: connected to HaulTimes"
+  },
+  {
+   "at": "2026-11-12T08:21:26.937184+00:00",
+   "msg": "posted d50a0bc2e2"
   }
  ],
  "decided": {
@@ -1708,7 +1714,7 @@
   "ef6febce0e": "skipped|importance 57 is below this platform's threshold (65)",
   "2775da0ac7": "skipped|importance 45 is below this platform's threshold (65)",
   "5a6126d440": "skipped|importance 45 is below this platform's threshold (65)",
-  "d50a0bc2e2": "queued|importance 75 (threshold 65), Industry, trade publication"
+  "d50a0bc2e2": "posted|importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue"
  },
  "decisions": [
   {
@@ -3390,6 +3396,13 @@
    "title": "Trucking conditions deteriorated in September with fuel's spike",
    "action": "queued",
    "reason": "importance 75 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-12T08:21:26.937184+00:00",
+   "story_id": "d50a0bc2e2",
+   "title": "Trucking conditions deteriorated in September with fuel's spike",
+   "action": "posted",
+   "reason": "importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
