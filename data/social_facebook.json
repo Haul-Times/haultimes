@@ -1955,7 +1955,8 @@
   "5288c784c2": "skipped|importance 51 is below this platform's threshold (65)",
   "49c84de767": "skipped|minor item (event) or low-quality source",
   "b28b70caed": "skipped|importance 55 is below this platform's threshold (65)",
-  "29dcb3a81d": "skipped|importance 55 is below this platform's threshold (65)"
+  "29dcb3a81d": "skipped|importance 55 is below this platform's threshold (65)",
+  "cc9b8ce0a5": "skipped|importance 63 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3840,6 +3841,13 @@
    "title": "American Shipper - News Provider in Global Trade",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T18:41:26.596918+00:00",
+   "story_id": "cc9b8ce0a5",
+   "title": "Diesel Prices Drive Up Trucking And Rail Costs",
+   "action": "skipped",
+   "reason": "importance 63 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
