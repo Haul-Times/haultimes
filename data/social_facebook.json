@@ -1441,7 +1441,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-12T14:41:30.186048+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122102255097544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122102255097544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122102255097544428",
+    "created": "2026-11-12T14:41:30+0000",
+    "at": "2026-11-12T14:51:25.254509+00:00"
+   }
   }
  },
  "paused": null,
@@ -1808,7 +1816,8 @@
   "d0d2594162": "skipped|importance 60 is below this platform's threshold (65)",
   "0ed3ac9dd9": "skipped|importance 55 is below this platform's threshold (65)",
   "0772a5c257": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 10 min in queue",
-  "dbf90b7478": "skipped|importance 55 is below this platform's threshold (65)"
+  "dbf90b7478": "skipped|importance 55 is below this platform's threshold (65)",
+  "cf973b5932": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3581,16 +3590,23 @@
    "title": "Trump threatens to double tariffs on Mexico over migrants",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-12T14:51:25.254509+00:00",
+   "story_id": "cf973b5932",
+   "title": "12 fleets pledge to hire 13,000 veterans through Freedom Haulers program",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122102149581544428",
+  "post": "1476615495528085_122102255097544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122102149581544428",
-  "created": "2026-11-12T12:31:27+0000",
-  "at": "2026-11-12T12:41:30.445583+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122102255097544428",
+  "created": "2026-11-12T14:41:30+0000",
+  "at": "2026-11-12T14:51:25.254509+00:00"
  },
  "promo_i": 1
 }
