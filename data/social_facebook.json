@@ -1535,14 +1535,14 @@
    "source": "TheTrucker.com",
    "dest": "https://haultimes.com/story/running-on-empty-diesel-price-volatility-puts-pressure-on-trucking-ind-ef81365aa2/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ef81365aa2",
    "caption": "Running on Empty: Diesel price volatility puts pressure on trucking industry.\n\nReported by TheTrucker. The link has the details and the original article.\n\n#Trucking #Diesel",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-12T16:01:20.748519+00:00",
    "published": "2026-11-12T15:52:34+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122102320785544428",
+   "posted_at": "2026-11-12T16:31:27.395939+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Running on Empty: Diesel price volatility puts pressure on trucking industry | HaulTimes",
@@ -1553,7 +1553,9 @@
    "reason": "importance 67 (threshold 65), Fuel, established outlet",
    "breaking": null,
    "edited": false,
-   "wait_summary": true
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-12T16:31:27.395939+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122102320785544428"
   }
  },
  "paused": null,
@@ -1714,6 +1716,10 @@
   {
    "at": "2026-11-12T16:11:37.906772+00:00",
    "msg": "posted bfb543a788"
+  },
+  {
+   "at": "2026-11-12T16:31:27.395939+00:00",
+   "msg": "posted ef81365aa2"
   }
  ],
  "decided": {
@@ -1935,7 +1941,8 @@
   "f585cc86d2": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 20 min in queue",
   "bfb543a788": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 33 min in queue",
   "9077a491b2": "skipped|importance 60 is below this platform's threshold (65)",
-  "ef81365aa2": "queued|importance 67 (threshold 65), Fuel, established outlet"
+  "ef81365aa2": "posted|importance 67 (threshold 65), Fuel, established outlet; waited 30 min in queue",
+  "6724e10bb3": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -3771,6 +3778,20 @@
    "title": "CBSA investigation into stowaway attempt at Manitoba border leads to prison sentence",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 33 min in queue"
+  },
+  {
+   "at": "2026-11-12T16:31:27.395939+00:00",
+   "story_id": "6724e10bb3",
+   "title": "Why 73.5% of stolen cargo goes unrecovered, and how to stop it",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-12T16:31:27.395939+00:00",
+   "story_id": "ef81365aa2",
+   "title": "Running on Empty: Diesel price volatility puts pressure on trucking industry",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Fuel, established outlet; waited 30 min in queue"
   }
  ],
  "visibility": {
