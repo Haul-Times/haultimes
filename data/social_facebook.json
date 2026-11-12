@@ -1954,7 +1954,8 @@
   "f2d9dae2c3": "skipped|importance 57 is below this platform's threshold (65)",
   "5288c784c2": "skipped|importance 51 is below this platform's threshold (65)",
   "49c84de767": "skipped|minor item (event) or low-quality source",
-  "b28b70caed": "skipped|importance 55 is below this platform's threshold (65)"
+  "b28b70caed": "skipped|importance 55 is below this platform's threshold (65)",
+  "29dcb3a81d": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3830,6 +3831,13 @@
    "at": "2026-11-12T17:51:35.230032+00:00",
    "story_id": "b28b70caed",
    "title": "Truckers leverage cost pressures to drive rate recovery",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T18:11:43.929053+00:00",
+   "story_id": "29dcb3a81d",
+   "title": "American Shipper - News Provider in Global Trade",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
