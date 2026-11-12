@@ -1479,7 +1479,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-12T15:51:27.263903+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122102296557544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122102296557544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122102296557544428",
+    "created": "2026-11-12T15:51:27+0000",
+    "at": "2026-11-12T16:01:20.748519+00:00"
+   }
   },
   "bfb543a788": {
    "story_id": "bfb543a788",
@@ -1505,6 +1513,34 @@
     "og:url": "https://haultimes.com/story/cbsa-investigation-into-stowaway-attempt-at-manitoba-border-leads-to-p-bfb543a788/"
    },
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
+  },
+  "ef81365aa2": {
+   "story_id": "ef81365aa2",
+   "title": "Running on Empty: Diesel price volatility puts pressure on trucking industry",
+   "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVTNaSE5sSUU3cF9aZVFyWFQ4TzVUX3EzZnZlV0dxS1NmclRmV1l2TUxzbHZ0VkpnT0Zac3FYZlM4bXNQVUh5TkRWV3JDRkJCTk1SUkxwQ0hQRmZTeGxTT3JaZ2tIcGM0d29yak52bXJraVEyNW9xYlZ2WGwzQVlRRUF1YmxwaFluT3hwTDA3akJfbHRtaGlxLWR4TVM1dXJMQWVPcGZ6ZUZuLVBjQ0l0VmZkMjh4dnY4VmhKaUhFRm1ub2c",
+   "category": "fuel",
+   "source": "TheTrucker.com",
+   "dest": "https://haultimes.com/story/running-on-empty-diesel-price-volatility-puts-pressure-on-trucking-ind-ef81365aa2/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ef81365aa2",
+   "caption": "Running on Empty: Diesel price volatility puts pressure on trucking industry.\n\nReported by TheTrucker. The link has the details and the original article.\n\n#Trucking #Diesel",
+   "status": "queued",
+   "created_at": "2026-11-12T16:01:20.748519+00:00",
+   "published": "2026-11-12T15:52:34+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Running on Empty: Diesel price volatility puts pressure on trucking industry | HaulTimes",
+    "og:description": "Reported by TheTrucker.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/c8d7d59138.png",
+    "og:url": "https://haultimes.com/story/running-on-empty-diesel-price-volatility-puts-pressure-on-trucking-ind-ef81365aa2/"
+   },
+   "reason": "importance 67 (threshold 65), Fuel, established outlet",
    "breaking": null,
    "edited": false,
    "wait_summary": true
@@ -1884,7 +1920,8 @@
   "f37770ad6e": "skipped|importance 55 is below this platform's threshold (65)",
   "f585cc86d2": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 20 min in queue",
   "bfb543a788": "queued|importance 67 (threshold 65), Cross-Border, trade publication",
-  "9077a491b2": "skipped|importance 60 is below this platform's threshold (65)"
+  "9077a491b2": "skipped|importance 60 is below this platform's threshold (65)",
+  "ef81365aa2": "queued|importance 67 (threshold 65), Fuel, established outlet"
  },
  "decisions": [
   {
@@ -3706,16 +3743,23 @@
    "title": "Schneider CEO sees prolonged trucking recovery as capacity tightens",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-12T16:01:20.748519+00:00",
+   "story_id": "ef81365aa2",
+   "title": "Running on Empty: Diesel price volatility puts pressure on trucking industry",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Fuel, established outlet"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122102255097544428",
+  "post": "1476615495528085_122102296557544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122102255097544428",
-  "created": "2026-11-12T14:41:30+0000",
-  "at": "2026-11-12T14:51:25.254509+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122102296557544428",
+  "created": "2026-11-12T15:51:27+0000",
+  "at": "2026-11-12T16:01:20.748519+00:00"
  },
  "promo_i": 1
 }
