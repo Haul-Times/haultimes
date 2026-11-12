@@ -1769,7 +1769,8 @@
   "73a7c2ae9d": "posted|importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development; waited 20 min in queue",
   "614b533ca4": "skipped|importance 45 is below this platform's threshold (65)",
   "a36e0f306a": "skipped|importance 61 is below this platform's threshold (65)",
-  "ca57cccf2a": "skipped|importance 45 is below this platform's threshold (65)"
+  "ca57cccf2a": "skipped|importance 45 is below this platform's threshold (65)",
+  "ad19bdd97b": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3500,6 +3501,13 @@
    "title": "Three Ryder Leaders Named Top Women in Supply Chain",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T13:31:32.168428+00:00",
+   "story_id": "ad19bdd97b",
+   "title": "One of 3 ratings agencies now has XPO as investment-grade",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
