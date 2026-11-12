@@ -1665,7 +1665,8 @@
   "dc0f50efeb": "posted|importance 73 (threshold 65), Rates & Market, trade publication; waited 24 min in queue",
   "5a03fc8cd7": "skipped|importance 61 is below this platform's threshold (65)",
   "7d97e7874f": "skipped|importance 55 is below this platform's threshold (65)",
-  "e1a8315ae7": "skipped|minor item (news) or low-quality source"
+  "e1a8315ae7": "skipped|minor item (news) or low-quality source",
+  "cd9692ff27": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3270,6 +3271,13 @@
    "title": "Spot Rates Up 50%, Rail Volumes at Highs",
    "action": "posted",
    "reason": "importance 73 (threshold 65), Rates & Market, trade publication; waited 24 min in queue"
+  },
+  {
+   "at": "2026-11-12T00:21:38.305826+00:00",
+   "story_id": "cd9692ff27",
+   "title": "Laredo trucking company owner indicted in driver visa case",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
