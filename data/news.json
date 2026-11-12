@@ -118,6 +118,35 @@
   "sum_pending": false
  },
  {
+  "id": "2cffc43464",
+  "slug": "toronto-lawyer-helps-win-lgbtq-rights-victory-in-trinidad-at-top-londo-2cffc43464",
+  "title": "Toronto lawyer helps win LGBTQ rights victory in Trinidad at top London court",
+  "orig_title": "Toronto lawyer helps win LGBTQ rights victory in Trinidad at top London court",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVdtUG9Tcnozc05NbEphVk8tOEFkMVc5UlBEeTlMQ3JWTHlXcmZFMjVTYjJuLTM1U0RVdTI5UkwxYV90UnFCMWxFYlI4MDVISDJWYVF5OEtZSVEyVUQ5dkFzUzE1NGdGWTY5RWMzWmNnWGNXVVIzWDRJbGxaWUpoMkJLMklCNDRYZUxwd3daVGp1R0pGNEpLUkZRYnNIVzN6ZFBla0VDbnBhaml4ZFdjc1pB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVdtUG9Tcnozc05NbEphVk8tOEFkMVc5UlBEeTlMQ3JWTHlXcmZFMjVTYjJuLTM1U0RVdTI5UkwxYV90UnFCMWxFYlI4MDVISDJWYVF5OEtZSVEyVUQ5dkFzUzE1NGdGWTY5RWMzWmNnWGNXVVIzWDRJbGxaWUpoMkJLMklCNDRYZUxwd3daVGp1R0pGNEpLUkZRYnNIVzN6ZFBla0VDbnBhaml4ZFdjc1pB",
+  "snippet": "Toronto lawyer helps win LGBTQ rights victory in Trinidad at top London court The Globe and Mail",
+  "published": "2026-11-12T11:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T12:41:10.411282+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b7eca5287c",
   "slug": "using-weather-forecasts-to-sharpen-regional-demand-planning-b7eca5287c",
   "title": "Using Weather Forecasts to Sharpen Regional Demand Planning",
