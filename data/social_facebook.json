@@ -1675,7 +1675,8 @@
   "9f6b55109f": "skipped|importance 45 is below this platform's threshold (65)",
   "1dd98f5f3d": "skipped|importance 51 is below this platform's threshold (65)",
   "4a02451d96": "skipped|minor item (news) or low-quality source",
-  "72f8f91834": "skipped|importance 55 is below this platform's threshold (65)"
+  "72f8f91834": "skipped|importance 55 is below this platform's threshold (65)",
+  "b33e719820": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3322,6 +3323,13 @@
    "title": "New cyber thief gang targets transports; Hunt, Ryder and Echo hit",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T04:31:22.615493+00:00",
+   "story_id": "b33e719820",
+   "title": "Black Women in Trucking Face Hidden Safety Risks and High Costs",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
