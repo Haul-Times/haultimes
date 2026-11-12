@@ -24,7 +24,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3
  },
  {
@@ -118,6 +118,36 @@
   "source_note": "excerpt only · 28 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "681be3915e",
+  "slug": "pot-banging-protests-return-to-santiago-as-fuel-prices-rise-and-trucke-681be3915e",
+  "title": "Pot-banging protests return to Santiago as fuel prices rise and truckers' strike negotiations fail to reach a deal",
+  "orig_title": "Pot-banging protests return to Santiago as fuel prices rise and truckers' strike negotiations fail to reach a deal",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "",
+  "importance": 65,
+  "source": "Latin Times",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEwteWtyZzJGSGJqODE0dTk1ZEo2aG40RmFvV3JuYW9Tb3Axc3BIUDM0YXlrZngtdWR1OHpIQjNZX2hBMFJuc1hHNk51UnFQcWJ1NEo4dGR3MHZjYlgwRWNmX28yN25Db09tVTcxdDBKZU12RDVTbWZweDdWQ3RJc3VPN295by1QWHRqUA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEwteWtyZzJGSGJqODE0dTk1ZEo2aG40RmFvV3JuYW9Tb3Axc3BIUDM0YXlrZngtdWR1OHpIQjNZX2hBMFJuc1hHNk51UnFQcWJ1NEo4dGR3MHZjYlgwRWNmX28yN25Db09tVTcxdDBKZU12RDVTbWZweDdWQ3RJc3VPN295by1QWHRqUA",
+  "snippet": "Pot-banging protests return to Santiago as fuel prices rise and truckers' strike negotiations fail to reach a deal Latin Times",
+  "published": "2026-11-12T19:11:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T20:31:02.844774+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Kast Struggles to Address Fuel Crisis: Ongoing Truckers' Strike and Protests Erupt in Sant"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "3ca753f2e7"
  },
  {
   "id": "0fd155ce42",
