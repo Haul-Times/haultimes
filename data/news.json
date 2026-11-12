@@ -1799,7 +1799,22 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.yahoo.com/news/us/articles/lawsuit-targets-trucking-company-deadly-154524256.html",
+  "source_note": "ok · 943 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "8a9e80cffcfc53bc",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:51:07.151008+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [
+   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  ],
+  "ai_importance": 5
  },
  {
   "id": "c0aa75d37a",
@@ -8421,14 +8436,15 @@
   "sum_status": "withheld",
   "source_fp": "5f673ab059bd373d",
   "source_scope": "full_article",
-  "sum_at": "2026-11-12T00:41:05.847892+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-12T00:51:07.151008+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [],
   "sum_problems": [
    "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
   ],
-  "ai_importance": 30
+  "ai_importance": 30,
+  "sum_v4": true
  },
  {
   "id": "8fe1a28a86",
