@@ -1478,6 +1478,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "bfb543a788": {
+   "story_id": "bfb543a788",
+   "title": "CBSA investigation into stowaway attempt at Manitoba border leads to prison sentence",
+   "url_key": "https://canada.ca/en/border-services-agency/news/2026/11/cbsa-investigation-into-stowaway-attempt-at-manitoba-border-leads-to-prison-sentence.html",
+   "category": "border",
+   "source": "Canada Border Services Agency",
+   "dest": "https://haultimes.com/story/cbsa-investigation-into-stowaway-attempt-at-manitoba-border-leads-to-p-bfb543a788/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=bfb543a788",
+   "caption": "CBSA investigation into stowaway attempt at Manitoba border leads to prison sentence.\n\nReported by Canada Border Services Agency. The link has the details and the original article.\n\n#CanadianTrucking #CrossBorder",
+   "status": "queued",
+   "created_at": "2026-11-12T15:38:31.760003+00:00",
+   "published": "2026-11-12T15:30:00+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "CBSA investigation into stowaway attempt at Manitoba border leads to prison sentence | HaulTimes",
+    "og:description": "Reported by Canada Border Services Agency. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/b02830e1f5.png",
+    "og:url": "https://haultimes.com/story/cbsa-investigation-into-stowaway-attempt-at-manitoba-border-leads-to-p-bfb543a788/"
+   },
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": true
   }
  },
  "paused": null,
@@ -1848,7 +1876,9 @@
   "cf973b5932": "skipped|importance 55 is below this platform's threshold (65)",
   "218224a33a": "skipped|importance 55 is below this platform's threshold (65)",
   "f37770ad6e": "skipped|importance 55 is below this platform's threshold (65)",
-  "f585cc86d2": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
+  "f585cc86d2": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
+  "bfb543a788": "queued|importance 67 (threshold 65), Cross-Border, trade publication",
+  "9077a491b2": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3649,6 +3679,20 @@
    "title": "Schneider CEO sees prolonged trucking recovery as capacity tightens",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-12T15:38:31.760003+00:00",
+   "story_id": "bfb543a788",
+   "title": "CBSA investigation into stowaway attempt at Manitoba border leads to prison sentence",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-12T15:38:31.760003+00:00",
+   "story_id": "9077a491b2",
+   "title": "US freight volumes rise for second consecutive month in September",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
