@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:31:06.929635+00:00",
+ "updated": "2026-11-12T22:41:08.859447+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -41,7 +41,7 @@
      0,
      9,
      10,
-     6,
+     5,
      null,
      null,
      null,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": 0,
-    "lanes": "4",
-    "status": "delay",
-    "updated": "At 3:00 pm EST",
+    "lanes": "3",
+    "status": "no delay",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -116,7 +116,7 @@
      15,
      12,
      10,
-     10,
+     8,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:17 pm EST",
+    "updated": "At 5:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:17 pm EST",
+    "updated": "At 5:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:24:16",
+    "updated": "17:41:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "14:24:16",
+    "updated": "14:41:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "14:24:16",
+    "updated": "14:41:01",
     "hours": "24 hrs/day"
    },
    "north": {
