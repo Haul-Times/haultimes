@@ -84,7 +84,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ctvnews.ca/northern-ontario/article/temiskaming-shores-truck-driving-school-warns-funding-freeze-will-lead-to-supply-chain-issues/",
   "source_note": "ok · 739 words"
@@ -346,7 +346,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "64cc7f2e3d",
@@ -1325,7 +1329,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://landline.media/its-a-lifeline-what-truckers-for-troops-means-to-those-serving/",
+  "source_note": "excerpt only · 22 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "71f2f51114",
@@ -2686,7 +2695,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttownmedia.com/patterson_irrigator/passing-the-torch-how-one-trucker-s-legacy-is-shaping-the-next-generation/article_a6c8229b-c9ce-4a97-a22c-558f6beeb3b9.html",
+  "source_note": "excerpt only · 23 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "9cb4979d86",
@@ -5606,6 +5620,35 @@
   "published": "2026-11-11T21:43:55+00:00",
   "date_known": true,
   "first_seen": "2026-11-11T22:10:25.297374+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "5c04e58567",
+  "slug": "kennedys-file-lawsuit-to-block-trump-s-arch-over-impact-on-family-s-gr-5c04e58567",
+  "title": "Kennedys file lawsuit to block Trump’s arch over impact on family’s graves",
+  "orig_title": "Kennedys file lawsuit to block Trump’s arch over impact on family’s graves",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVThzLWhIRjVSMzBJQlkwN3JYclM3ZHBFSVFjcEpMTi0zWVRqYzRHcl9nblowOHpPb0hVZEo4b0xVcmEwd25JSUsxTnpNb1owUHNGOGdXTEJuZzQ4c1E0a1BPQzhRc1M0WjhKVU45ZE5jb1k3bTZqanR1YnF0NjBCZlNzdG93RlhGcXpqOGZMd3FFLU5w?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVThzLWhIRjVSMzBJQlkwN3JYclM3ZHBFSVFjcEpMTi0zWVRqYzRHcl9nblowOHpPb0hVZEo4b0xVcmEwd25JSUsxTnpNb1owUHNGOGdXTEJuZzQ4c1E0a1BPQzhRc1M0WjhKVU45ZE5jb1k3bTZqanR1YnF0NjBCZlNzdG93RlhGcXpqOGZMd3FFLU5w",
+  "snippet": "Kennedys file lawsuit to block Trump’s arch over impact on family’s graves Global News",
+  "published": "2026-11-11T21:32:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T23:31:04.358375+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
