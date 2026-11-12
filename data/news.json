@@ -1344,6 +1344,35 @@
   "source_note": "ok · 953 words"
  },
  {
+  "id": "13a6338fda",
+  "slug": "hwy-11-near-smooth-rock-falls-reopens-following-crash-13a6338fda",
+  "title": "Hwy. 11 near Smooth Rock Falls reopens following crash",
+  "orig_title": "Hwy. 11 near Smooth Rock Falls reopens following crash",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORm5velYzcmFheDE2ZWZuUHFLdURaWDZaZDNVdDhpRzhLVFVxMHVRQ0FIR014TGVrSllVajdha3FjRHB2bk9heVlRR3YyZktCTnhfb1Z5Z0NlVFI1SnpqUE9sLXlkTmtwcTV1REJIZ2gxbGFNcWpfV0dFOUtJdklJWEZjWEFEYV9VUExWdzFDVWhMcW5XY1F6akNGd1E0X2R4VE44OQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORm5velYzcmFheDE2ZWZuUHFLdURaWDZaZDNVdDhpRzhLVFVxMHVRQ0FIR014TGVrSllVajdha3FjRHB2bk9heVlRR3YyZktCTnhfb1Z5Z0NlVFI1SnpqUE9sLXlkTmtwcTV1REJIZ2gxbGFNcWpfV0dFOUtJdklJWEZjWEFEYV9VUExWdzFDVWhMcW5XY1F6akNGd1E0X2R4VE44OQ",
+  "snippet": "Hwy. 11 near Smooth Rock Falls reopens following crash CTV News",
+  "published": "2026-11-12T15:42:20+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T21:41:04.149741+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "557c874ea2",
   "slug": "blet-ends-wheeling-lake-erie-strike-557c874ea2",
   "title": "BLET ends Wheeling & Lake Erie strike",
@@ -1370,6 +1399,35 @@
   ],
   "labels": [],
   "kind": "review",
+  "sum_pending": false
+ },
+ {
+  "id": "ffe9fe0e85",
+  "slug": "wgi-launches-tradespaces-industrial-and-ios-property-business-ffe9fe0e85",
+  "title": "WGI launches TradeSpaces industrial and IOS property business",
+  "orig_title": "WGI launches TradeSpaces industrial and IOS property business",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "BE News",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GR1ZnczZFTXY0RDdvSWtPS3JOX1BvaXlpdzNqNE9qMDhuMWZjVmx1UHIzQWFHRExYWjZuVnhReWpXc1AtcDdob19Pa3hwc0tPcDFDLXRraHEtYW1VUjJkWDVkeXlyazNDcUtCUkJROTdUTC1v?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GR1ZnczZFTXY0RDdvSWtPS3JOX1BvaXlpdzNqNE9qMDhuMWZjVmx1UHIzQWFHRExYWjZuVnhReWpXc1AtcDdob19Pa3hwc0tPcDFDLXRraHEtYW1VUjJkWDVkeXlyazNDcUtCUkJROTdUTC1v",
+  "snippet": "WGI launches TradeSpaces industrial and IOS property business BE News",
+  "published": "2026-11-12T15:37:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T21:41:04.149741+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
