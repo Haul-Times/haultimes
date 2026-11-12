@@ -1770,7 +1770,8 @@
   "614b533ca4": "skipped|importance 45 is below this platform's threshold (65)",
   "a36e0f306a": "skipped|importance 61 is below this platform's threshold (65)",
   "ca57cccf2a": "skipped|importance 45 is below this platform's threshold (65)",
-  "ad19bdd97b": "skipped|importance 55 is below this platform's threshold (65)"
+  "ad19bdd97b": "skipped|importance 55 is below this platform's threshold (65)",
+  "d0d2594162": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3508,6 +3509,13 @@
    "title": "One of 3 ratings agencies now has XPO as investment-grade",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T13:51:23.466223+00:00",
+   "story_id": "d0d2594162",
+   "title": "Trucking By the Numbers: Carriers keep getting safer",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
