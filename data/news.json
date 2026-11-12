@@ -1,5 +1,35 @@
 [
  {
+  "id": "d87ec0e10f",
+  "slug": "trucking-company-owner-in-laredo-indicted-over-alleged-b-1-driver-sche-d87ec0e10f",
+  "title": "Trucking company owner in Laredo indicted over alleged B-1 driver scheme",
+  "orig_title": "Trucking company owner in Laredo indicted over alleged B-1 driver scheme",
+  "summary": "",
+  "why": "",
+  "category": "border",
+  "region": "",
+  "importance": 57,
+  "source": "Laredo Morning Times",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2VOVVZ5TFFRQi1IYUw0RDdwVk9EbU40MGE0ckxlOHpsZ2gxZGFmN0NjZGVodEpVbThDQnBLeXJNNEdjb0xUUk15SnA2ZEtfZl9uNkR4VkxMa3Q1LUpsNmRueWFtYjZzTEdqZVNsdDIyYVlOZVZ3LUxwOXVORjhwU05tUzFvQkw4YWl2S19aZWI0RW5FSkdtZDdST2NZcWlpOVdR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2VOVVZ5TFFRQi1IYUw0RDdwVk9EbU40MGE0ckxlOHpsZ2gxZGFmN0NjZGVodEpVbThDQnBLeXJNNEdjb0xUUk15SnA2ZEtfZl9uNkR4VkxMa3Q1LUpsNmRueWFtYjZzTEdqZVNsdDIyYVlOZVZ3LUxwOXVORjhwU05tUzFvQkw4YWl2S19aZWI0RW5FSkdtZDdST2NZcWlpOVdR",
+  "snippet": "Trucking company owner in Laredo indicted over alleged B-1 driver scheme Laredo Morning Times",
+  "published": "2026-11-12T00:32:29+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T00:41:05.847892+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Texas trucking owner indicted in scheme involving 57 unauthorized drivers"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "131cd4219e"
+ },
+ {
   "id": "c0167660b4",
   "slug": "second-truckers-strike-threatens-further-disruption-to-chilean-cherry-c0167660b4",
   "title": "Second truckers’ strike threatens further disruption to Chilean cherry exports",
@@ -57,6 +87,38 @@
   "sum_tries": 1,
   "pub_url": "https://katu.com/news/local/gallery/record-diesel-prices-squeeze-truckers-could-raise-costs-for-northwest-consumers?photo=2",
   "source_note": "excerpt only · 39 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "9f6b55109f",
+  "slug": "veteran-truckers-find-civilian-careers-on-the-road-9f6b55109f",
+  "title": "Veteran truckers find civilian careers on the road",
+  "orig_title": "Veteran truckers find civilian careers on the road",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "",
+  "importance": 45,
+  "source": "FOX 10 Phoenix",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBZll3bjlhZkY0Y0stRnQxNERGV2dZd1BvRm1Na3pibXItcERJTGNFbllubW9sQ3pNSEV0UkRHNHBXSlI4RElENnNmQ3ZCa2lUcVNPbFk3ODZiZVg2MFBHVGlvMkdqd9IBa0FVX3lxTE9SV1RUSXI1dDA2UldpWGN6ckp6RHBJbHVKU0ZtZ3FCZmVSYTliMGh1VGVDNzNyUVpwTTBmT3ZieTFaVk1zd2RSYlNoMnBMb1RldmItdkVVdklOMTgtWkRydHI0MTF0RC1RRHhB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBZll3bjlhZkY0Y0stRnQxNERGV2dZd1BvRm1Na3pibXItcERJTGNFbllubW9sQ3pNSEV0UkRHNHBXSlI4RElENnNmQ3ZCa2lUcVNPbFk3ODZiZVg2MFBHVGlvMkdqd9IBa0FVX3lxTE9SV1RUSXI1dDA2UldpWGN6ckp6RHBJbHVKU0ZtZ3FCZmVSYTliMGh1VGVDNzNyUVpwTTBmT3ZieTFaVk1zd2RSYlNoMnBMb1RldmItdkVVdklOMTgtWkRydHI0MTF0RC1RRHhB",
+  "snippet": "Veteran truckers find civilian careers on the road FOX 10 Phoenix",
+  "published": "2026-11-11T23:33:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T00:41:05.847892+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fox10phoenix.com/video/fmc-9qo50q9lw3b7s6zj",
+  "source_note": "excerpt only · 25 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
  },
@@ -2182,7 +2244,12 @@
   "reasons": [],
   "labels": [],
   "kind": "feature",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/dat-helps-fuel-wreaths-across-americas-2026-mission-to-honor-veterans-at-more-than-6000-locations/2467691",
+  "source_note": "paywalled: excerpt only · 40 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "0710df4211",
@@ -8346,7 +8413,22 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://hoodline.com/2026/11/nearly-130-north-charleston-port-truckers-stop-work-over-pay-and-safety-fears/",
+  "source_note": "ok · 753 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "5f673ab059bd373d",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:41:05.847892+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [
+   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  ],
+  "ai_importance": 30
  },
  {
   "id": "8fe1a28a86",
@@ -9419,7 +9501,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 35,
   "source": "巴士的報",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkpoeG1kMVpleWllTUhmNk5ZaFFVRkpFNzdiS0dhMkcydXZRc09ZMjdiVnEySWY5anM2Q1RscVVCMi16WG9qaDcyd1pVNXVjMGZYbmswZjlsa2Zjc25BWkRkenFjXzRzSl8tT1AwT0RCaEVacG9jbGVLWlh0MmRNMmxFbll3ODQtMlFyaEN6R2tLSHZUcWcwRVNzbDBLVTZwdTZKamtqa0xOU2JTdmtaanBpajdZMEdHbTk3Tw?oc=5",
@@ -9430,11 +9512,41 @@
   "first_seen": "2026-11-10T12:11:06.453618+00:00",
   "image": "",
   "ai": false,
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
   "labels": [],
   "kind": "event",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.bastillepost.com/global/article/6344611-ryder-ceo-john-diez-to-address-stephens-annual-investment-conference",
+  "source_note": "ok · 921 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "99a3ade3afc26c43",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:41:05.847892+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "John Diez to address the 2026 Stephens Annual Investment Conference"
+   },
+   {
+    "sentence": "2",
+    "quote": "manages approximately 240,000 commercial vehicles"
+   }
+  ],
+  "sum_problems": [
+   "Source text contains an unrelated AP baseball article (Cy Young Award coverage) appended to the press release.",
+   "Publisher 巴士的報 does not match the Business Wire press release source.",
+   "Content is a corporate event announcement with no operational, regulatory or rate information for carriers or brokers."
+  ],
+  "ai_category": "other",
+  "ai_importance": 12,
+  "ai_relevant": false
  },
  {
   "id": "88b12197eb",
