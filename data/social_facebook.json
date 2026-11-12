@@ -1412,6 +1412,34 @@
     "created": "2026-11-12T12:31:27+0000",
     "at": "2026-11-12T12:41:30.445583+00:00"
    }
+  },
+  "0772a5c257": {
+   "story_id": "0772a5c257",
+   "title": "Trump threatens to double tariffs on Mexico over migrants",
+   "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTMjZGN3prbm8wNjBDT1BTMXp1OFV3VDFqQjBhcWJPTktWYWJiWWFZaDQ1bG9URUVBSTFCX0RCTk9SQUYzMFhQRnpTLXB1SGcyZnNQQzE0YWRuaUJCbFdFaTFHeFE4N2UySmpN",
+   "category": "border",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/trump-threatens-to-double-tariffs-on-mexico-over-migrants-0772a5c257/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=0772a5c257",
+   "caption": "Trump threatens to double tariffs on Mexico over migrants.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder",
+   "status": "queued",
+   "created_at": "2026-11-12T14:31:18.143424+00:00",
+   "published": "2026-11-12T13:52:33+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Trump threatens to double tariffs on Mexico over migrants | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/bf2dd321dc.png",
+    "og:url": "https://haultimes.com/story/trump-threatens-to-double-tariffs-on-mexico-over-migrants-0772a5c257/"
+   },
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -1772,7 +1800,8 @@
   "ca57cccf2a": "skipped|importance 45 is below this platform's threshold (65)",
   "ad19bdd97b": "skipped|importance 55 is below this platform's threshold (65)",
   "d0d2594162": "skipped|importance 60 is below this platform's threshold (65)",
-  "0ed3ac9dd9": "skipped|importance 55 is below this platform's threshold (65)"
+  "0ed3ac9dd9": "skipped|importance 55 is below this platform's threshold (65)",
+  "0772a5c257": "queued|importance 67 (threshold 65), Cross-Border, trade publication"
  },
  "decisions": [
   {
@@ -3524,6 +3553,13 @@
    "title": "PAM Transport Posts Third-Quarter Loss",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T14:31:18.143424+00:00",
+   "story_id": "0772a5c257",
+   "title": "Trump threatens to double tariffs on Mexico over migrants",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication"
   }
  ],
  "visibility": {
