@@ -1678,7 +1678,8 @@
   "72f8f91834": "skipped|importance 55 is below this platform's threshold (65)",
   "b33e719820": "skipped|importance 51 is below this platform's threshold (65)",
   "ef6febce0e": "skipped|importance 57 is below this platform's threshold (65)",
-  "2775da0ac7": "skipped|importance 45 is below this platform's threshold (65)"
+  "2775da0ac7": "skipped|importance 45 is below this platform's threshold (65)",
+  "5a6126d440": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3344,6 +3345,13 @@
    "at": "2026-11-12T06:11:33.676874+00:00",
    "story_id": "2775da0ac7",
    "title": "Oyo Assembly Demands Probe Of Karma Agric Feeds Over Assault On Truck Drivers -",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T06:31:51.070544+00:00",
+   "story_id": "5a6126d440",
+   "title": "Duffy: 42 States Have Joined Push for Veterans in Trucking",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
