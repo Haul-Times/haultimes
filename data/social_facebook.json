@@ -1722,7 +1722,8 @@
   "ef6febce0e": "skipped|importance 57 is below this platform's threshold (65)",
   "2775da0ac7": "skipped|importance 45 is below this platform's threshold (65)",
   "5a6126d440": "skipped|importance 45 is below this platform's threshold (65)",
-  "d50a0bc2e2": "posted|importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue"
+  "d50a0bc2e2": "posted|importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue",
+  "45b9cd93bb": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3411,6 +3412,13 @@
    "title": "Trucking conditions deteriorated in September with fuel's spike",
    "action": "posted",
    "reason": "importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-12T11:11:47.279559+00:00",
+   "story_id": "45b9cd93bb",
+   "title": "HANGCHA: A Global Forklift Manufacturer for Buyers Seeking Reliable Reach Trucks, Electric Forklifts and Material Handling Solutions",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
