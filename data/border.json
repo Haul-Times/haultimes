@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:11:08.373295+00:00",
+ "updated": "2026-11-12T05:21:04.729894+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:54",
+    "updated": "00:20:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -160,11 +160,11 @@
    "ports": "Sault Ste. Marie, MI ↔ Sault Ste. Marie, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:10:54",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -174,7 +174,7 @@
    },
    "usual": {
     "south": [
-     null,
+     0,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -275,7 +275,7 @@
      null
     ],
     "north": [
-     4,
+     5,
      null,
      null,
      null,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 15,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At Midnight EST",
+    "status": "no delay",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -324,7 +324,7 @@
    },
    "usual": {
     "south": [
-     15,
+     7,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:53",
+    "updated": "00:20:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:54",
+    "updated": "00:20:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -688,8 +688,8 @@
     "wait": null,
     "fast_wait": null,
     "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:10:54",
+    "status": "Lanes Closed",
+    "updated": "00:20:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:54",
+    "updated": "00:20:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1280,9 +1280,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm PST",
+    "updated": "At 9:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1467,8 +1467,8 @@
    },
    {
     "name": "Jackman",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Lynden",
