@@ -1,5 +1,35 @@
 [
  {
+  "id": "98fc255cf4",
+  "slug": "truckload-spot-rates-continue-climbing-as-tight-capacity-fuels-market-98fc255cf4",
+  "title": "Truckload spot rates continue climbing as tight capacity fuels market volatility, reports DAT Truckload Volume Index",
+  "orig_title": "Truckload spot rates continue climbing as tight capacity fuels market volatility, reports DAT Truckload Volume Index",
+  "summary": "",
+  "why": "",
+  "category": "rates",
+  "region": "",
+  "importance": 68,
+  "source": "Logistics Management",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdVJMd1M1WHo2TzhaU2pzWVhmVUJTdlRTcTlueEdqazRGMkkwNEhiRy1ubEp0VFhZQ2FZd05yN0tFbXdTVVlvczJ3WVlHSjJHOTBTd0RkMU1jT1FOZ3dpOUpGZnVhWG51MVVHYlh2Z0U4M1VqUVBlTEtQWEk2QTFrZmxEeFJVYmRRT2tYcnFxRzFfMjVXRVN1OV9mX20wY3dySXFiWnhMTXlwb2VFeWFIZzFaSS03MEVrNHRIZ2ljNlRpNS1mY0g0d0dyb0hVRHpkNEI1SUhQc3JLWTdvbFAtaTZrQmFDYV9h?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdVJMd1M1WHo2TzhaU2pzWVhmVUJTdlRTcTlueEdqazRGMkkwNEhiRy1ubEp0VFhZQ2FZd05yN0tFbXdTVVlvczJ3WVlHSjJHOTBTd0RkMU1jT1FOZ3dpOUpGZnVhWG51MVVHYlh2Z0U4M1VqUVBlTEtQWEk2QTFrZmxEeFJVYmRRT2tYcnFxRzFfMjVXRVN1OV9mX20wY3dySXFiWnhMTXlwb2VFeWFIZzFaSS03MEVrNHRIZ2ljNlRpNS1mY0g0d0dyb0hVRHpkNEI1SUhQc3JLWTdvbFAtaTZrQmFDYV9h",
+  "snippet": "Truckload spot rates continue climbing as tight capacity fuels market volatility, reports DAT Truckload Volume Index Logistics Management",
+  "published": "2026-11-12T16:50:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T17:01:10.048639+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Additional trucks at large US carriers boost Truckload Capacity Index"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "b743753e5c"
+ },
+ {
   "id": "f2d9dae2c3",
   "slug": "weighbridge-officers-attacked-as-truckers-mobilise-groups-to-resist-ov-f2d9dae2c3",
   "title": "Weighbridge Officers Attacked as Truckers Mobilise Groups to Resist Overloading Crackdown",
@@ -25,7 +55,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://uzalendonews.co.ke/weighbridge-officers-attacked-as-truckers-mobilise-groups-to-resist-overloading-crackdown",
   "source_note": "ok · 421 words"
  },
