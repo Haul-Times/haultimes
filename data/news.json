@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "02a6392475",
+  "slug": "new-details-in-watchdog-s-lawsuit-claim-cheap-perth-fuel-chain-sold-mo-02a6392475",
+  "title": "New details in watchdog’s lawsuit claim cheap Perth fuel chain sold more premium 98 than it bought",
+  "orig_title": "New details in watchdog’s lawsuit claim cheap Perth fuel chain sold more premium 98 than it bought",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "SMH.com.au",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOGdxaVpUOWJURmN6RVNDMGlSVms4WjNQVHdOdWRJdEJJaXVvOFZJUGl2V0tud2dHWnpNQzI4ZjJaWHhRQWtRN1VJcWFXT0Z3Z21CRnFvN29QMDlRbU9vY19SYUdqN2FQXzllT0NuTy1sWk1yYUZPS2pDUmNQZy1Cd0FNZjhoMWdzX2tVVEZsTjR5VzRCQjlHYVFhSUtKTEkxSUdRcWpPYjJicm5ibDE0c3dnbXNvR0l2TFJWMVlPVHB6YWhqM3k5d3JFQVhvVlZIUDhIVV9QVXAybTlXZ0pVeERLN0VVN0N6M01MVkxqaTRDc1Q3Qm1LVzFjakszdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOGdxaVpUOWJURmN6RVNDMGlSVms4WjNQVHdOdWRJdEJJaXVvOFZJUGl2V0tud2dHWnpNQzI4ZjJaWHhRQWtRN1VJcWFXT0Z3Z21CRnFvN29QMDlRbU9vY19SYUdqN2FQXzllT0NuTy1sWk1yYUZPS2pDUmNQZy1Cd0FNZjhoMWdzX2tVVEZsTjR5VzRCQjlHYVFhSUtKTEkxSUdRcWpPYjJicm5ibDE0c3dnbXNvR0l2TFJWMVlPVHB6YWhqM3k5d3JFQVhvVlZIUDhIVV9QVXAybTlXZ0pVeERLN0VVN0N6M01MVkxqaTRDc1Q3Qm1LVzFjakszdw",
+  "snippet": "New details in watchdog’s lawsuit claim cheap Perth fuel chain sold more premium 98 than it bought SMH.com.au",
+  "published": "2026-11-12T06:40:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T06:57:04.604362+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c6e523278d",
   "slug": "watch-video-of-how-spain-intercepted-2-6-tonnes-of-cocaine-shipment-fr-c6e523278d",
   "title": "Watch video of how Spain intercepted 2.6 tonnes of cocaine shipment from Ghana",
@@ -207,7 +236,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3
  },
  {
