@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:11:06.287644+00:00",
+ "updated": "2026-11-12T19:21:07.329575+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -451,7 +451,7 @@
      null
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 3 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:08:51",
+    "updated": "14:18:53",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 10:00 am PST",
+    "updated": "At 11:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:08:52",
+    "updated": "11:18:53",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1477,7 +1477,7 @@
    },
    {
     "name": "Madawaska",
-    "wait": 30,
+    "wait": 25,
     "status": "delay"
    },
    {

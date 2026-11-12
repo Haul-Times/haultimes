@@ -1987,7 +1987,8 @@
   "cc9b8ce0a5": "skipped|importance 63 is below this platform's threshold (65)",
   "23404c81b5": "skipped|importance 50 is below this platform's threshold (65)",
   "a6c5623a36": "skipped|importance 60 is below this platform's threshold (65)",
-  "297a89c866": "queued|importance 81 (threshold 65), Cross-Border, trade publication"
+  "297a89c866": "queued|importance 81 (threshold 65), Cross-Border, trade publication",
+  "98241ef994": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3900,6 +3901,13 @@
    "title": "Mexico truck exports soar 159% as production jumps 130% in October",
    "action": "queued",
    "reason": "importance 81 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-12T19:21:27.634719+00:00",
+   "story_id": "98241ef994",
+   "title": "Erb Truck Driver Recognized as Driver of the Year for Professionalism, Dedication and Commitment to Helping Others",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
