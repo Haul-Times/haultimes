@@ -2004,7 +2004,8 @@
   "297a89c866": "posted|importance 81 (threshold 65), Cross-Border, trade publication; waited 20 min in queue",
   "98241ef994": "skipped|importance 55 is below this platform's threshold (65)",
   "ec10d15f01": "skipped|importance 45 is below this platform's threshold (65)",
-  "28d86fce11": "skipped|importance 55 is below this platform's threshold (65)"
+  "28d86fce11": "skipped|importance 55 is below this platform's threshold (65)",
+  "f64f05e3fa": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -3945,6 +3946,13 @@
    "title": "7 trucking execs weigh in on 2027 market and business conditions",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T19:51:23.556053+00:00",
+   "story_id": "f64f05e3fa",
+   "title": "Trucking companies accused of keeping armed driver on road before Strongsville Costco shooting",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
