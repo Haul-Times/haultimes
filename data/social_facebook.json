@@ -2141,7 +2141,8 @@
   "3a5e2c6380": "skipped|importance 56 is below this platform's threshold (65)",
   "81784487df": "skipped|importance 55 is below this platform's threshold (65)",
   "edfbb375ba": "skipped|importance 45 is below this platform's threshold (65)",
-  "eaa1d6aafb": "skipped|importance 45 is below this platform's threshold (65)"
+  "eaa1d6aafb": "skipped|importance 45 is below this platform's threshold (65)",
+  "ca86f76a97": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -4180,6 +4181,13 @@
    "title": "FMCSA revokes 133 ELDs after Overdrive reported HOS fraud confrontation",
    "action": "posted",
    "reason": "importance 73 (threshold 65), Regulations, trade publication; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-12T23:51:36.499173+00:00",
+   "story_id": "ca86f76a97",
+   "title": "‘Crash for cash’: Drivers intentionally causing wrecks target tractor-trailers for insurance payouts",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
