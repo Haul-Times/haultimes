@@ -1801,7 +1801,8 @@
   "ad19bdd97b": "skipped|importance 55 is below this platform's threshold (65)",
   "d0d2594162": "skipped|importance 60 is below this platform's threshold (65)",
   "0ed3ac9dd9": "skipped|importance 55 is below this platform's threshold (65)",
-  "0772a5c257": "queued|importance 67 (threshold 65), Cross-Border, trade publication"
+  "0772a5c257": "queued|importance 67 (threshold 65), Cross-Border, trade publication",
+  "dbf90b7478": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3560,6 +3561,13 @@
    "title": "Trump threatens to double tariffs on Mexico over migrants",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-12T14:38:49.787158+00:00",
+   "story_id": "dbf90b7478",
+   "title": "Diesel 101: Why Truck Stop Diesel Is Still Above $6 a Gallon as Crude Falls",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

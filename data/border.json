@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:31:03.217816+00:00",
+ "updated": "2026-11-12T14:38:35.674373+00:00",
  "hour_now": 9,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 13,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 9:17 am EST",
+    "status": "no delay",
+    "updated": "At 9:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -258,7 +258,7 @@
      13,
      16,
      20,
-     20,
+     16,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:17 am EST",
+    "updated": "At 9:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "09:22:45",
+    "updated": "09:37:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "08:22:45",
+    "updated": "08:37:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:22:45",
+    "updated": "06:37:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 20,
+    "status": "delay"
    },
    {
     "name": "Norton",
