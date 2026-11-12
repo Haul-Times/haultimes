@@ -145,7 +145,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.elciudadano.com/en/port-workers-show-solidarity-with-truckers-conatraport-warns-of-job-risks-amid-government-inaction/11/12/",
   "source_note": "ok · 771 words"
  },
@@ -1261,6 +1261,35 @@
   "pub_url": "https://www.elciudadano.com/en/truckers-continue-strike-as-kasts-proposed-measures-fail-to-convince-santiago-resumes-protests/11/12/",
   "source_note": "ok · 871 words",
   "followup_of": "3ca753f2e7"
+ },
+ {
+  "id": "a0465dcebf",
+  "slug": "kion-stock-prepares-for-new-segment-and-ifrs-18-reporting-a0465dcebf",
+  "title": "KION stock prepares for new segment and IFRS 18 reporting",
+  "orig_title": "KION stock prepares for new segment and IFRS 18 reporting",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ad-hoc-news.de",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0g3MWIwVVRzSGVfREJ2STZxcnVud2FUOU9ST2hOOXkteU8tVDZ1Z3VEM29xc3ExeHAzUVd6UFRxWUhYbWhPeE1IcGV5WHZjME9LclFPbGFENDhSWVFxNHVBOW1CcjY3d2UxNnZUUmR2TEpISHAwaGJESXotMHJRMlBmVGhCVnc5WFhhQXNXVVNtZ01SSk1TYktBb1k2S1ZXdlZiS3RmakkzSzljTXVqdTBIU0JiTjJ0c2lDdA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0g3MWIwVVRzSGVfREJ2STZxcnVud2FUOU9ST2hOOXkteU8tVDZ1Z3VEM29xc3ExeHAzUVd6UFRxWUhYbWhPeE1IcGV5WHZjME9LclFPbGFENDhSWVFxNHVBOW1CcjY3d2UxNnZUUmR2TEpISHAwaGJESXotMHJRMlBmVGhCVnc5WFhhQXNXVVNtZ01SSk1TYktBb1k2S1ZXdlZiS3RmakkzSzljTXVqdTBIU0JiTjJ0c2lDdA",
+  "snippet": "KION stock prepares for new segment and IFRS 18 reporting ad-hoc-news.de",
+  "published": "2026-11-12T11:20:07+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T17:31:06.169633+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0337f1bd5f",
