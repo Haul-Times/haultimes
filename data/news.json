@@ -1,5 +1,34 @@
 [
  {
+  "id": "557c874ea2",
+  "slug": "blet-ends-wheeling-lake-erie-strike-557c874ea2",
+  "title": "BLET ends Wheeling & Lake Erie strike",
+  "orig_title": "BLET ends Wheeling & Lake Erie strike",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rSUVHenBudFQtb2hLX29kWS1mLWh4YjJCbENTVUxDMlFselRTc20xOXRIaTY0aE1Md2NnVk94OXp1SUtheG5wSTkxR1NrWHBBSUptMjhYVTZqaExibFBJaklBOVV2NzdDRXpEY1FES0k2aDhaeEd3Vw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rSUVHenBudFQtb2hLX29kWS1mLWh4YjJCbENTVUxDMlFselRTc20xOXRIaTY0aE1Md2NnVk94OXp1SUtheG5wSTkxR1NrWHBBSUptMjhYVTZqaExibFBJaklBOVV2NzdDRXpEY1FES0k2aDhaeEd3Vw",
+  "snippet": "BLET ends Wheeling & Lake Erie strike FreightWaves",
+  "published": "2026-11-12T15:39:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T15:51:04.754770+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "9077a491b2",
   "slug": "us-freight-volumes-rise-for-second-consecutive-month-in-september-9077a491b2",
   "title": "US freight volumes rise for second consecutive month in September",
@@ -52,7 +81,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.canada.ca/en/border-services-agency/news/2026/11/cbsa-investigation-into-stowaway-attempt-at-manitoba-border-leads-to-prison-sentence.html",
   "source_note": "ok · 593 words"
  },
