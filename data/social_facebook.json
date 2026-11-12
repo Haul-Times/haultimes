@@ -1555,7 +1555,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-12T16:31:27.395939+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122102320785544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122102320785544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122102320785544428",
+    "created": "2026-11-12T16:31:27+0000",
+    "at": "2026-11-12T16:41:45.189067+00:00"
+   }
   }
  },
  "paused": null,
@@ -1942,7 +1950,8 @@
   "bfb543a788": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 33 min in queue",
   "9077a491b2": "skipped|importance 60 is below this platform's threshold (65)",
   "ef81365aa2": "posted|importance 67 (threshold 65), Fuel, established outlet; waited 30 min in queue",
-  "6724e10bb3": "skipped|minor item (crime) or low-quality source"
+  "6724e10bb3": "skipped|minor item (crime) or low-quality source",
+  "f2d9dae2c3": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3792,16 +3801,23 @@
    "title": "Running on Empty: Diesel price volatility puts pressure on trucking industry",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Fuel, established outlet; waited 30 min in queue"
+  },
+  {
+   "at": "2026-11-12T16:41:45.189067+00:00",
+   "story_id": "f2d9dae2c3",
+   "title": "Weighbridge Officers Attacked as Truckers Mobilise Groups to Resist Overloading Crackdown",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122102311329544428",
+  "post": "1476615495528085_122102320785544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122102311329544428",
-  "created": "2026-11-12T16:11:38+0000",
-  "at": "2026-11-12T16:21:37.502271+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122102320785544428",
+  "created": "2026-11-12T16:31:27+0000",
+  "at": "2026-11-12T16:41:45.189067+00:00"
  },
  "promo_i": 1
 }

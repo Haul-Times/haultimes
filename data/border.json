@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:31:04.899259+00:00",
+ "updated": "2026-11-12T16:41:02.632123+00:00",
  "hour_now": 11,
  "have_us": true,
  "have_ca": true,
@@ -260,7 +260,7 @@
      20,
      11,
      0,
-     6,
+     5,
      null,
      null,
      null,
@@ -1085,7 +1085,7 @@
      null,
      null,
      0,
-     8,
+     10,
      null,
      null,
      null,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 11 AM"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "sumas",
