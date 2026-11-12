@@ -2160,7 +2160,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "Other",
   "importance": 45,
   "source": "Tuko News",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRUpOVHY4eFkzOFNDRDVGNU5obUUxS2djak9zTG9fWnZxU19vbVNUVUZtYjE2eEVQWW4zekVWVjhYY0ZybkhyRjNScGZtNEU5NHBZTkQ5cTZ4SlNkRTh6UmpiMnFqSXk1RTlGR0Jpa1VXY216M3MzeXdISEhHb1oxSTFleDJoRERpNHFxdWhsVlUtODdrSlR1eTRURU5MajVpd183amxVVUl6d2RnS2Jqb1k4UF9LeWR5bFhMeVJpVkEyMWlr?oc=5",
@@ -2173,14 +2173,28 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
-  "sum_tries": 1,
+  "sum_pending": false,
+  "sum_tries": 2,
   "pub_url": "https://www.tuko.co.ke/world/africa/646451-god-angels-sick-pregnant-woman-stranded-a-highway-night-rescued-by-2-truck-drivers/",
-  "source_note": "ok · 531 words"
+  "source_note": "ok · 531 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "b6428fcd66554409",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:01:06.193064+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 5,
+  "ai_relevant": false
  },
  {
   "id": "d91886d91e",
@@ -2250,7 +2264,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 45,
   "source": "The Trek",
   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMVNIaEhMNXFpNmhpOVF5TlNaeVRDMUpaR2RHWFJ6V0FIVTJCSmZhZS1RLVFOUkdnQ1NZdnV1V1pEVkpCWjBJckpXeDRQU2Y1dDhQMV85UnRNV2FpT2V3U21IY1d0X2pjTWNIT1JCSlExSFFFTFR6elBhbk1UMkRzdVlmaTJSdw?oc=5",
@@ -2263,11 +2277,28 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://thetrek.co/appalachian-trail/the-dump-truckers-behind-the-tramily-name/",
+  "source_note": "ok · 3973 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "10de7f803541889e",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:01:06.193064+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 1,
+  "ai_relevant": false
  },
  {
   "id": "a03bfe0e53",
@@ -4296,10 +4327,10 @@
   "slug": "c-h-robinson-s-despir-earns-tapa-cargo-security-certification-f4c89849ff",
   "title": "C.H. Robinson's DeSpir earns TAPA cargo security certification",
   "orig_title": "C.H. Robinson's DeSpir earns TAPA cargo security certification",
-  "summary": "",
+  "summary": "DeSpir Logistics, a C.H. Robinson company focused on high-value freight, has earned TAPA AMERICAS FBSR 2025 Tier 1 certification. The company describes DeSpir as among the first third-party logistics providers in North America to reach that top level for freight brokerage. TAPA, the Transported Asset Protection Association, sets cargo security and theft-prevention standards, and its Freight Broker Security Requirements certification is meant to reduce theft, fraud and loss on high-risk freight. According to the release, the certification covers DeSpir's shipment planning, monitoring, chain-of-custody controls and incident response. C.H. Robinson acquired DeSpir on June 22, 2026, and said the deal expanded its network of vetted, security-focused contract carriers. The article also cites Verisk CargoNet figures showing industrywide theft losses of nearly $725 million in 2025.",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 45,
   "source": "STAT Times",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2VLWVQ0WTVNWUVuZEpMQ1JiNElqYTlDNU1DT0RyR2Mwc1ktWVMwUmJSZ1AtVmlKekdLQVBWRVAtRUZDX3hUdE15QU42VEh6SWxUb1owZkl3NVd0bmFmUkprRlQ3YS1jNnE4VTYxQ2pKc1RTQk0xNTdYZ2NfU3h6dG1hcnpKTW9TTFZIMTlGM0JIbmV4b1FWbjgxcTY3a0M5QjJLeFY5bGxkZDJsYVlyVnFEREVhZ9IBuwFBVV95cUxQY3ktYzBfd0JhZnhYVUdkTkVoMnJZNkhQNEJ3eThTQjZDcjlwdkdzYl9EaDBjMDdGd1I0cTZXRWpVT0pNOWlOeXJkVklsampvdTc1TExmNTRUNjZRM1p1RlllWXM2ZE81RlpzTGRMTGRqdHhOYU5rVXBxZFVLZmZxUl9KVms4Q0tRVHVrZlZKNmRoOGNfZGszU0pVd3VxR196S0hlMkI4YjRHcTFiTHVvNWdRLWphRk1YeXpN?oc=5",
@@ -4316,7 +4347,50 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.stattimes.com/latest-news/ch-robinsons-despir-logistics-earns-tapa-cargo-security-certification-1361274",
+  "source_note": "ok · 287 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "80db192fc5e0ed86",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:01:06.193064+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "TAPA AMERICAS FBSR 2025 Tier 1 certification"
+   },
+   {
+    "sentence": "2",
+    "quote": "one of the first 3PLs in North America"
+   },
+   {
+    "sentence": "3",
+    "quote": "designed to help protect high-risk and high-value freight"
+   },
+   {
+    "sentence": "4",
+    "quote": "validates DeSpir’s practices for shipment planning, monitoring"
+   },
+   {
+    "sentence": "5",
+    "quote": "C.H. Robinson acquired DeSpir on June 22, 2026"
+   },
+   {
+    "sentence": "5",
+    "quote": "expanded the company’s network of highly vetted"
+   },
+   {
+    "sentence": "6",
+    "quote": "industrywide theft losses reaching nearly $725 million in 2025, according to Verisk CargoNet"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 40
  },
  {
   "id": "14ca08e3f7",
@@ -5378,7 +5452,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 45,
   "source": "KOCO",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWZCVzBLbzE5WlhheF82YTg5X1BxNkp4US1vbkxraExSYy1nS0U4bll1U1hoazNIRzVYZFRxd0h2ZWUzcmZvd3RTbk43VkRlRGpQeTBiVFoyWEwwNFdPNldYamw4aHNSRkZqNzlMLTIyM2ZCSlUzWTBPQ21OLVJOWVNOTnlCekRZZEh5bHVR?oc=5",
@@ -5395,7 +5469,48 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.koco.com/article/oklahoma-odot-freight-improvement-plan-feedback/74391684",
+  "source_note": "ok · 273 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "bfccf9aa570a7ed8",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:01:06.193064+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "asking residents, businesses and trucking companies to provide input on a draft plan"
+   },
+   {
+    "sentence": "2",
+    "quote": "Some of our biggest challenges include truck parking shortages"
+   },
+   {
+    "sentence": "3",
+    "quote": "helps ODOT plan future improvements to highways, railroads, ports, airports"
+   },
+   {
+    "sentence": "4",
+    "quote": "more than 773 million tons of goods"
+   },
+   {
+    "sentence": "5",
+    "quote": "could pinpoint areas for improvement, including better roads and bridges"
+   },
+   {
+    "sentence": "6",
+    "quote": "Public comments on the draft plan are open through Dec. 9"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'truck parking shortages, traffic congestion, roadway safety and delays'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 35
  },
  {
   "id": "19041fd78d",
