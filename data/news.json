@@ -54,7 +54,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://uzalendonews.co.ke/weighbridge-officers-attacked-as-truckers-mobilise-groups-to-resist-overloading-crackdown",
   "source_note": "ok · 421 words"
@@ -144,7 +144,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.elciudadano.com/en/port-workers-show-solidarity-with-truckers-conatraport-warns-of-job-risks-amid-government-inaction/11/12/",
+  "source_note": "ok · 771 words"
  },
  {
   "id": "a4976a7348",
@@ -1316,6 +1319,36 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "d969881130",
+  "slug": "intermodal-leads-u-s-rail-traffic-up-6-6-from-a-year-ago-d969881130",
+  "title": "Intermodal leads U.S. rail traffic up 6.6% from a year ago",
+  "orig_title": "Intermodal leads U.S. rail traffic up 6.6% from a year ago",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 66,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1JVNWI5NE5IbU5ISlQ3cExxREx5MEJ1Vi1JcXBwYTB0dVFvcnBoenRrczJqcDlNMHJRZGhhRW9uMjd0TllUNU13aHFZQ3lNSDJ0ci1OOXNReFBhNzZuRVlIT2x5LUYyclZLZjdIZUo3c1A4ZTNnMVJCMVdqQnJPQUlyLWRzeUNiLXE4MWNWaDBlZHE0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1JVNWI5NE5IbU5ISlQ3cExxREx5MEJ1Vi1JcXBwYTB0dVFvcnBoenRrczJqcDlNMHJRZGhhRW9uMjd0TllUNU13aHFZQ3lNSDJ0ci1OOXNReFBhNzZuRVlIT2x5LUYyclZLZjdIZUo3c1A4ZTNnMVJCMVdqQnJPQUlyLWRzeUNiLXE4MWNWaDBlZHE0",
+  "snippet": "Intermodal leads U.S. rail traffic up 6.6% from a year ago FreightWaves",
+  "published": "2026-11-12T11:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T17:11:03.532315+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: US rail traffic hits intermodal record as October freight gains signal economic resilience"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "354bac58b9"
  },
  {
   "id": "6de75aad4e",
@@ -20707,29 +20740,6 @@
   ],
   "labels": [],
   "kind": "review",
-  "sum_pending": false
- },
- {
-  "id": "1ad9837d5b",
-  "slug": "why-did-saia-nasdaq-saia-surge-despite-flat-revenue-growth-1ad9837d5b",
-  "title": "Why Did Saia (NASDAQ:SAIA) Surge Despite Flat Revenue Growth?",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Kalkine Media",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeDZtUVFoVU81dFNUTDNncTNvamExZU0zR2ttRjVFc1lzUDRDenlOX1lJOVNxZnNqaHo5Ym5RaHNTd0tOSHRRdmw3MVpqM09YYVZGU2NyN2xGNFZ2SkVySFA0ZklHNFF1LUs1YW5VXzlURGNWMzJ4LVpRWWVIVDVxNHFuYXpVYUIzd3QzX2N0cXVIRVA0eFEzR0NGRjllZm5G?oc=5",
-  "published": "2026-11-08T17:03:00+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Why Did Saia (NASDAQ:SAIA) Surge Despite Flat Revenue Growth?",
-  "status": "rejected",
-  "reasons": [
-   "stock commentary, no trucking development"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
