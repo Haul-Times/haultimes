@@ -32,6 +32,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "40ad8aac0f",
+  "slug": "capstone-copper-provides-update-on-operations-40ad8aac0f",
+  "title": "Capstone Copper Provides Update on Operations",
+  "orig_title": "Capstone Copper Provides Update on Operations",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMERhSDJOVjdmd2Z5ZGM3bVpQdjVHc2hDZVI1b1RCMGFzRjlHWXBubS1uTVBBaDZOWjVZS19RVUlZTVN3ZFVuSS1VQ1lGYlpVVmJiaFhVSHBwcHFVWVYxMmdmdW1KMHFIbHZSb2Z2d19yc2pYYjlrT09UcUlLeE0xUlBlMXFoS2xDNzNYUm9wTnkzRlR4QW1MTV9ObkJmLS0yaWtCdkFqRkdLMUdqRFdrX04wYmRmX3dVTkZOeWZPRjR4S2xvN01rTWtQZzBzUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMERhSDJOVjdmd2Z5ZGM3bVpQdjVHc2hDZVI1b1RCMGFzRjlHWXBubS1uTVBBaDZOWjVZS19RVUlZTVN3ZFVuSS1VQ1lGYlpVVmJiaFhVSHBwcHFVWVYxMmdmdW1KMHFIbHZSb2Z2d19yc2pYYjlrT09UcUlLeE0xUlBlMXFoS2xDNzNYUm9wTnkzRlR4QW1MTV9ObkJmLS0yaWtCdkFqRkdLMUdqRFdrX04wYmRmX3dVTkZOeWZPRjR4S2xvN01rTWtQZzBzUQ",
+  "snippet": "Capstone Copper Provides Update on Operations The Globe and Mail",
+  "published": "2026-11-12T13:00:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T13:41:10.162718+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a36e0f306a",
   "slug": "itf-report-ties-part-of-retail-s-850b-returns-to-freight-a36e0f306a",
   "title": "ITF report ties part of retail’s $850B returns to freight",
@@ -5898,6 +5927,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "039d418cb2",
+  "slug": "apple-employee-faces-murder-charge-in-fatal-cupertino-crash-039d418cb2",
+  "title": "Apple Employee Faces Murder Charge in Fatal Cupertino Crash",
+  "orig_title": "Apple Employee Faces Murder Charge in Fatal Cupertino Crash",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Demokratis.co.id",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KUU1qQUYwUHItcXpsWjc3RF9VZ2RndjJmOUZrRzVxZFJjdV91ZWpoNDZDamtSWjJBUFRtMGxSbU9OM1NiNTNrbWdPMlJtdEJmZi1FX0xnako5MFBIVVhfTEVTSXNBYTRGTjFIR2UwRDlYR00?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KUU1qQUYwUHItcXpsWjc3RF9VZ2RndjJmOUZrRzVxZFJjdV91ZWpoNDZDamtSWjJBUFRtMGxSbU9OM1NiNTNrbWdPMlJtdEJmZi1FX0xnako5MFBIVVhfTEVTSXNBYTRGTjFIR2UwRDlYR00",
+  "snippet": "Apple Employee Faces Murder Charge in Fatal Cupertino Crash Demokratis.co.id",
+  "published": "2026-11-11T09:47:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T13:41:10.162718+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
