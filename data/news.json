@@ -179,6 +179,35 @@
   "dup_of": "3ca753f2e7"
  },
  {
+  "id": "42a4f7873c",
+  "slug": "how-operation-give-birds-gives-families-2-750-thanksgiving-meals-42a4f7873c",
+  "title": "How Operation Give Birds gives families 2,750 Thanksgiving meals",
+  "orig_title": "How Operation Give Birds gives families 2,750 Thanksgiving meals",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KCRG",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3ppbUFUOVdmOXlkV0drRG1HVF9JYjA5dkU5U2VqUUk3S2pFT1JlT0l3V1lhWVRoRHVHX0ZJbkh4dTZCWkpLMjQyUzZsUmVwWHVJMEZ2NkpENFMwcGxldEJvdEtzSWlaYklzSXRZMnhhM2hjeHNyQm5ucGVyY3JuRS1NeGRSbWxfaXFhcUgycnJCVjZTdEtNcm9zY2lyTWRFazh4X09PRlBZUjN1YjBRa9IBsAFBVV95cUxNb3ppbUFUOVdmOXlkV0drRG1HVF9JYjA5dkU5U2VqUUk3S2pFT1JlT0l3V1lhWVRoRHVHX0ZJbkh4dTZCWkpLMjQyUzZsUmVwWHVJMEZ2NkpENFMwcGxldEJvdEtzSWlaYklzSXRZMnhhM2hjeHNyQm5ucGVyY3JuRS1NeGRSbWxfaXFhcUgycnJCVjZTdEtNcm9zY2lyTWRFazh4X09PRlBZUjN1YjBRaw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3ppbUFUOVdmOXlkV0drRG1HVF9JYjA5dkU5U2VqUUk3S2pFT1JlT0l3V1lhWVRoRHVHX0ZJbkh4dTZCWkpLMjQyUzZsUmVwWHVJMEZ2NkpENFMwcGxldEJvdEtzSWlaYklzSXRZMnhhM2hjeHNyQm5ucGVyY3JuRS1NeGRSbWxfaXFhcUgycnJCVjZTdEtNcm9zY2lyTWRFazh4X09PRlBZUjN1YjBRa9IBsAFBVV95cUxNb3ppbUFUOVdmOXlkV0drRG1HVF9JYjA5dkU5U2VqUUk3S2pFT1JlT0l3V1lhWVRoRHVHX0ZJbkh4dTZCWkpLMjQyUzZsUmVwWHVJMEZ2NkpENFMwcGxldEJvdEtzSWlaYklzSXRZMnhhM2hjeHNyQm5ucGVyY3JuRS1NeGRSbWxfaXFhcUgycnJCVjZTdEtNcm9zY2lyTWRFazh4X09PRlBZUjN1YjBRaw",
+  "snippet": "How Operation Give Birds gives families 2,750 Thanksgiving meals KCRG",
+  "published": "2026-11-12T18:46:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T19:41:03.620488+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ec10d15f01",
   "slug": "jb-hunt-to-pay-3-2m-to-end-tobacco-fee-suit-ec10d15f01",
   "title": "JB Hunt To Pay $3.2M To End Tobacco Fee Suit",
@@ -231,7 +260,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://legis1.com/news/highway-reauthorization-truckload-carriers",
   "source_note": "ok · 486 words"
  },
@@ -290,7 +319,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://ontruck.org/erb-truck-driver-recognized-as-driver-of-the-year-for-professionalism-dedication-and-commitment-to-helping-others/",
   "source_note": "ok · 640 words"
@@ -1371,7 +1400,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "161af883cc",

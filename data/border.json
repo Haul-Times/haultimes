@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:37:41.159099+00:00",
+ "updated": "2026-11-12T19:41:03.480083+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:33:56",
+    "updated": "14:38:57",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:33:56",
+    "updated": "11:38:57",
     "hours": "24 hrs/day"
    },
    "north": {
