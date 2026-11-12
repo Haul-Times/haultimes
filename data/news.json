@@ -1,5 +1,34 @@
 [
  {
+  "id": "b7c9a8169c",
+  "slug": "police-arrest-two-over-gh-20m-suspected-contraband-goods-in-accra-b7c9a8169c",
+  "title": "Police arrest two over GH¢20m suspected contraband goods in Accra",
+  "orig_title": "Police arrest two over GH¢20m suspected contraband goods in Accra",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "GBC Ghana Online",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkVmY3B2Rl9CV3V0RVNvV0R0T251UkdMel95M0J6RlJaelhoZkRnbUdjY2tQdUVtVC1fMGxRLVJHbUVVY2ZFZF9MNkdCZ25UWG1rODAtbGh2S3BzNXRudlJJdnlpc2NIdWFfd1lSakdscXVrUlozYW9NemdwZGh0QlpUWF9acjRYeUhMZ2NSSEp2dGZnc3g5NzlNeS1VLVhwcjY0TWVOVVE1eTk4VVhQUkxNNXZfdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkVmY3B2Rl9CV3V0RVNvV0R0T251UkdMel95M0J6RlJaelhoZkRnbUdjY2tQdUVtVC1fMGxRLVJHbUVVY2ZFZF9MNkdCZ25UWG1rODAtbGh2S3BzNXRudlJJdnlpc2NIdWFfd1lSakdscXVrUlozYW9NemdwZGh0QlpUWF9acjRYeUhMZ2NSSEp2dGZnc3g5NzlNeS1VLVhwcjY0TWVOVVE1eTk4VVhQUkxNNXZfdw",
+  "snippet": "Police arrest two over GH¢20m suspected contraband goods in Accra GBC Ghana Online",
+  "published": "2026-11-12T12:17:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T12:21:05.206577+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "278cec2252",
   "slug": "fareye-turns-profitable-in-q4-as-emea-revenue-jumps-51-278cec2252",
   "title": "FarEye turns profitable in Q4 as EMEA revenue jumps 51%",
@@ -54,7 +83,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.elciudadano.com/en/truckers-continue-strike-as-kasts-proposed-measures-fail-to-convince-santiago-resumes-protests/11/12/",
   "source_note": "ok · 871 words",
   "followup_of": "3ca753f2e7"
