@@ -1,5 +1,142 @@
 [
  {
+  "id": "94dbff0039",
+  "slug": "firefighters-dig-through-rubble-after-nyc-building-collapse-kills-2-an-94dbff0039",
+  "title": "Firefighters dig through rubble after NYC building collapse kills 2 and traps people in wreckage",
+  "orig_title": "Firefighters dig through rubble after NYC building collapse kills 2 and traps people in wreckage",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORHlpTS1IbEs5dk1ya1V3eDNpalB3RXlqenp3a0RBc0FtZm44Wk9jajVoNGZwT05ERWFIMWc4V2EweDJYQUZyVWIwOThMZUwyUDFCZGNUU04yUjhlRGFnYzlwcU80OFBPZEh2T2hWZFZtRzkzQlVkQWN4RGhPb3NUdmNNZjdCWm9uUmJzR2RIaEhxZjNFd013cDhnTkZUU1J4TDU2dTRqWFluSHAxdFNhUkw0UFdDa2NWbE85NzI0ci10NTg3U0xlR0psMVBfLW8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORHlpTS1IbEs5dk1ya1V3eDNpalB3RXlqenp3a0RBc0FtZm44Wk9jajVoNGZwT05ERWFIMWc4V2EweDJYQUZyVWIwOThMZUwyUDFCZGNUU04yUjhlRGFnYzlwcU80OFBPZEh2T2hWZFZtRzkzQlVkQWN4RGhPb3NUdmNNZjdCWm9uUmJzR2RIaEhxZjNFd013cDhnTkZUU1J4TDU2dTRqWFluSHAxdFNhUkw0UFdDa2NWbE85NzI0ci10NTg3U0xlR0psMVBfLW8",
+  "snippet": "Firefighters dig through rubble after NYC building collapse kills 2 and traps people in wreckage CTV News",
+  "published": "2026-11-12T01:48:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T01:51:06.003483+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "1dd98f5f3d",
+  "slug": "mainfreight-profit-up-66-to-155m-as-freight-volumes-rise-1dd98f5f3d",
+  "title": "Mainfreight profit up 66% to $155m as freight volumes rise",
+  "orig_title": "Mainfreight profit up 66% to $155m as freight volumes rise",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Other",
+  "importance": 51,
+  "source": "B2B News",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTBYM0ZiLXlBZnpFcFZrWHJOdVIzRFNJZTQwd2JDZWdIbUh2bGVpXzM2Y2RBeEdORExxa3JZb3k2VThVdFB3QWQ2dkJQOEtNem0zMl9nRlRnMVI3MjJpM3JMZ3FBWnVUWmJqRTBYMzM0RGsxWThlZ2RBU09leXVPMDNORExSaG1CRjVaRlFoTDVlNHpxb0lv?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTBYM0ZiLXlBZnpFcFZrWHJOdVIzRFNJZTQwd2JDZWdIbUh2bGVpXzM2Y2RBeEdORExxa3JZb3k2VThVdFB3QWQ2dkJQOEtNem0zMl9nRlRnMVI3MjJpM3JMZ3FBWnVUWmJqRTBYMzM0RGsxWThlZ2RBU09leXVPMDNORExSaG1CRjVaRlFoTDVlNHpxb0lv",
+  "snippet": "Mainfreight profit up 66% to $155m as freight volumes rise B2B News",
+  "published": "2026-11-12T01:41:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T01:51:06.003483+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://b2bnews.co.nz/news/mainfreight-profit-up-66-percent-to-155m-as-freight-volumes-rise/",
+  "source_note": "ok · 668 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "35ce1264be7413a4",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T01:51:06.003483+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Net profit for the six months to 30 September rose to $155.4 million"
+   },
+   {
+    "sentence": "2",
+    "quote": "freight volumes increased across all regions"
+   },
+   {
+    "sentence": "2",
+    "quote": "the Americas 15.2%"
+   },
+   {
+    "sentence": "3",
+    "quote": "Operating cashflow rose from $209.6 million to $327.8 million"
+   },
+   {
+    "sentence": "4",
+    "quote": "net profit falling 18.5% to $93.4 million"
+   },
+   {
+    "sentence": "5",
+    "quote": "Strip out foreign exchange effects and revenue grew 14.9% and pre-tax profit 58.6%"
+   },
+   {
+    "sentence": "6",
+    "quote": "Directors declared an interim dividend of 85 cents per share"
+   },
+   {
+    "sentence": "6",
+    "quote": "Shares rose on the result"
+   }
+  ],
+  "sum_problems": [
+   "Source is largely opinion and commentary on a New Zealand-listed company; North American relevance is limited to the Americas segment figure.",
+   "Source text ends with a stray reader prompt ('Do you agree or disagree with the following?') that is not article content."
+  ],
+  "ai_category": "other",
+  "ai_importance": 30,
+  "pending_summary": "Mainfreight reported net profit of $155.4 million for the six months ended 30 September, up 66.4%, on revenue of $3.12 billion, up 19.8%. Freight volumes rose across all regions, and revenue in the Americas grew 15.2%. Operating cashflow increased from $209.6 million to $327.8 million.\n\nThe article notes that the prior half was weak, with net profit down 18.5% to $93.4 million. Excluding foreign exchange effects, revenue grew 14.9% and pre-tax profit 58.6%. Directors declared an interim dividend of 85 cents per share, the same as a year earlier, and shares rose on the result.",
+  "pending_why": ""
+ },
+ {
+  "id": "941d5dd87e",
+  "slug": "wednesday-7-day-forecast-941d5dd87e",
+  "title": "Wednesday 7 Day Forecast",
+  "orig_title": "Wednesday 7 Day Forecast",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KGNS",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkxmME1fUFBrYU9fZTZHZmVTUi1Xay1ZWjR5bG9DeEYzZnpBS1Y4VHAzd3V1SkRWMHlySTAxNmN3c01LTkMzMlliUHVQeVlqVkh1OWhiUlhvN0dmNGNta0U0V3JBd29vdjYyVDduWXRpUkdUNmlVVC1HWXI1Nk9pTW1qcw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkxmME1fUFBrYU9fZTZHZmVTUi1Xay1ZWjR5bG9DeEYzZnpBS1Y4VHAzd3V1SkRWMHlySTAxNmN3c01LTkMzMlliUHVQeVlqVkh1OWhiUlhvN0dmNGNta0U0V3JBd29vdjYyVDduWXRpUkdUNmlVVC1HWXI1Nk9pTW1qcw",
+  "snippet": "Wednesday 7 Day Forecast KGNS",
+  "published": "2026-11-12T00:57:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T01:51:06.003483+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d87ec0e10f",
   "slug": "trucking-company-owner-in-laredo-indicted-over-alleged-b-1-driver-sche-d87ec0e10f",
   "title": "Trucking company owner in Laredo indicted over alleged B-1 driver scheme",

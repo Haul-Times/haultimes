@@ -1668,7 +1668,8 @@
   "e1a8315ae7": "skipped|minor item (news) or low-quality source",
   "cd9692ff27": "skipped|importance 57 is below this platform's threshold (65)",
   "38a4bdc3e0": "skipped|importance 63 is below this platform's threshold (65)",
-  "9f6b55109f": "skipped|importance 45 is below this platform's threshold (65)"
+  "9f6b55109f": "skipped|importance 45 is below this platform's threshold (65)",
+  "1dd98f5f3d": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3294,6 +3295,13 @@
    "title": "Veteran truckers find civilian careers on the road",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T01:51:35.772507+00:00",
+   "story_id": "1dd98f5f3d",
+   "title": "Mainfreight profit up 66% to $155m as freight volumes rise",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
