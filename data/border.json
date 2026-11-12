@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:11:02.553702+00:00",
+ "updated": "2026-11-12T22:13:32.951684+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -302,7 +302,7 @@
     ]
    },
    "best_south": "Usually fastest around 10 AM",
-   "best_north": "Usually fastest around 2 AM"
+   "best_north": "Usually fastest around 5 PM"
   },
   {
    "id": "lewiston",
