@@ -145,7 +145,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.elciudadano.com/en/port-workers-show-solidarity-with-truckers-conatraport-warns-of-job-risks-amid-government-inaction/11/12/",
   "source_note": "ok · 771 words"
  },
@@ -207,6 +207,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "0772a5c257"
+ },
+ {
+  "id": "3e0c46c97f",
+  "slug": "the-blame-game-the-us-blames-canada-for-failed-talks-the-reaction-from-3e0c46c97f",
+  "title": "THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next",
+  "orig_title": "THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "EnergyNow",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVc0OG9kYUY4WXJ0Y0xYODZtNHFkVWNBRUxYMF9XN0VyRFpnZmMzeFZ5UzZtVzB3SmlaS3dqb0dqR3FBZlRlZWRRcUd5QnlwQWFiX18tenM1TW9pcy1TWndBR3JvSXNWT2NrbDAzMm9USGd4LVFOM2kwd3FtQ0o1dlRRYXNGVENKOG1XMXJ1NGlyU2lpM3VqUVZQQzNHVmhzZWhxUzZod2tTc196N2gxejNyVUtCNy1YZTJZR2VmZ1paN3RDbDVv?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVc0OG9kYUY4WXJ0Y0xYODZtNHFkVWNBRUxYMF9XN0VyRFpnZmMzeFZ5UzZtVzB3SmlaS3dqb0dqR3FBZlRlZWRRcUd5QnlwQWFiX18tenM1TW9pcy1TWndBR3JvSXNWT2NrbDAzMm9USGd4LVFOM2kwd3FtQ0o1dlRRYXNGVENKOG1XMXJ1NGlyU2lpM3VqUVZQQzNHVmhzZWhxUzZod2tTc196N2gxejNyVUtCNy1YZTJZR2VmZ1paN3RDbDVv",
+  "snippet": "THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next EnergyNow",
+  "published": "2026-11-12T15:54:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T17:21:05.872495+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ef81365aa2",
