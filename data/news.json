@@ -1,5 +1,34 @@
 [
  {
+  "id": "3cfcf98321",
+  "slug": "u-s-extends-pause-on-china-related-shipping-fees-to-allow-for-further-3cfcf98321",
+  "title": "U.S. extends pause on China-related shipping fees to allow for further trade negotiations",
+  "orig_title": "U.S. extends pause on China-related shipping fees to allow for further trade negotiations",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Logistics Management",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYTlVLWxqSnFMN094Y3dLcTFHRmxwY19BUkotSjM4X1l2XzRZeEdCRHVXdHZhSkltV0UtNGZ3WEI1bHBSVnY5d1FMYXdmN0x2Ym0waXJiZml1V1k1Q3B4NDh3Yy0tYnBYenFXMWVGYl9hUnBJM1dRdFpNOXVzSjFfN2FlN0FGSG9sbXFwR2xlZW15U0tXZEt4TkJkN1hVLVFFYU4zM1NSM0tqeGgyU2FES0FPcE9tRDRzblRROGw0ZUtWdTdqNFE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYTlVLWxqSnFMN094Y3dLcTFHRmxwY19BUkotSjM4X1l2XzRZeEdCRHVXdHZhSkltV0UtNGZ3WEI1bHBSVnY5d1FMYXdmN0x2Ym0waXJiZml1V1k1Q3B4NDh3Yy0tYnBYenFXMWVGYl9hUnBJM1dRdFpNOXVzSjFfN2FlN0FGSG9sbXFwR2xlZW15U0tXZEt4TkJkN1hVLVFFYU4zM1NSM0tqeGgyU2FES0FPcE9tRDRzblRROGw0ZUtWdTdqNFE",
+  "snippet": "U.S. extends pause on China-related shipping fees to allow for further trade negotiations Logistics Management",
+  "published": "2026-11-12T19:52:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T20:01:03.801527+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f64f05e3fa",
   "slug": "trucking-companies-accused-of-keeping-armed-driver-on-road-before-stro-f64f05e3fa",
   "title": "Trucking companies accused of keeping armed driver on road before Strongsville Costco shooting",
@@ -24,7 +53,11 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "0fd155ce42",
@@ -259,7 +292,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.law360.com/amp/articles/2549326",
+  "source_note": "paywalled: excerpt only",
+  "sum_done": true,
+  "sum_status": "no source text (paywalled: excerpt only)"
  },
  {
   "id": "23404c81b5",
@@ -286,7 +324,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://legis1.com/news/highway-reauthorization-truckload-carriers",
   "source_note": "ok · 486 words"
