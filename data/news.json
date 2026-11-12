@@ -1,5 +1,34 @@
 [
  {
+  "id": "342f1628f4",
+  "slug": "major-fire-breaks-out-at-rams-trading-warehouse-in-st-kitts-342f1628f4",
+  "title": "Major fire breaks out at RAMS Trading Warehouse in St. Kitts",
+  "orig_title": "Major fire breaks out at RAMS Trading Warehouse in St. Kitts",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "WIC News",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmhSaHc0R3JMTW1KQ1FuUXJkUHZGNEI2UkRWX3JsN0w4a2k2YkFmUDJkOWJfaUM5dXZscmhNOFM4Y2FGOE9FU1ZKdC1NS1lfTld6SnlRSlhRSnlxWGRuRFV4UUZRZjVPQnJWY0NDY1ZPQjVLMkp3WHlEYlp4OUhwR3Y1bXBPd1FObXB6OGMzVjJmeUlYQUlpdWJBS1JCdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmhSaHc0R3JMTW1KQ1FuUXJkUHZGNEI2UkRWX3JsN0w4a2k2YkFmUDJkOWJfaUM5dXZscmhNOFM4Y2FGOE9FU1ZKdC1NS1lfTld6SnlRSlhRSnlxWGRuRFV4UUZRZjVPQnJWY0NDY1ZPQjVLMkp3WHlEYlp4OUhwR3Y1bXBPd1FObXB6OGMzVjJmeUlYQUlpdWJBS1JCdw",
+  "snippet": "Major fire breaks out at RAMS Trading Warehouse in St. Kitts WIC News",
+  "published": "2026-11-12T06:46:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T06:51:06.865524+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c6e523278d",
   "slug": "watch-video-of-how-spain-intercepted-2-6-tonnes-of-cocaine-shipment-fr-c6e523278d",
   "title": "Watch video of how Spain intercepted 2.6 tonnes of cocaine shipment from Ghana",
@@ -179,7 +208,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2
+  "sum_tries": 3
  },
  {
   "id": "e2342b5ea6",
