@@ -1956,7 +1956,8 @@
   "49c84de767": "skipped|minor item (event) or low-quality source",
   "b28b70caed": "skipped|importance 55 is below this platform's threshold (65)",
   "29dcb3a81d": "skipped|importance 55 is below this platform's threshold (65)",
-  "cc9b8ce0a5": "skipped|importance 63 is below this platform's threshold (65)"
+  "cc9b8ce0a5": "skipped|importance 63 is below this platform's threshold (65)",
+  "23404c81b5": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3848,6 +3849,13 @@
    "title": "Diesel Prices Drive Up Trucking And Rail Costs",
    "action": "skipped",
    "reason": "importance 63 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T18:51:35.618134+00:00",
+   "story_id": "23404c81b5",
+   "title": "Truckload Carriers Association Lobbies Highway Reauthorization",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
