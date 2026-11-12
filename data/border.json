@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:11:04.520231+00:00",
+ "updated": "2026-11-12T21:19:33.668351+00:00",
  "hour_now": 16,
  "have_us": true,
  "have_ca": true,
@@ -12,9 +12,9 @@
    "south": {
     "wait": 10,
     "fast_wait": 0,
-    "lanes": "4",
+    "lanes": "5",
     "status": "delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:57 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -302,7 +302,7 @@
     ]
    },
    "best_south": "Usually fastest around 10 AM",
-   "best_north": "Usually fastest around 2 AM"
+   "best_north": "Usually fastest around 4 PM"
   },
   {
    "id": "lewiston",
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:57 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:04:11",
+    "updated": "16:14:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1090,7 +1090,7 @@
      38,
      40,
      33,
-     8,
+     5,
      null,
      null,
      null,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At Noon PST",
+    "updated": "At 1:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "13:04:11",
+    "updated": "13:14:12",
     "hours": "24 hrs/day"
    },
    "north": {
