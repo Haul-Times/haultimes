@@ -1497,14 +1497,14 @@
    "source": "Canada Border Services Agency",
    "dest": "https://haultimes.com/story/cbsa-investigation-into-stowaway-attempt-at-manitoba-border-leads-to-p-bfb543a788/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=bfb543a788",
    "caption": "CBSA investigation into stowaway attempt at Manitoba border leads to prison sentence.\n\nReported by Canada Border Services Agency. The link has the details and the original article.\n\n#CanadianTrucking #CrossBorder",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-12T15:38:31.760003+00:00",
    "published": "2026-11-12T15:30:00+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122102311329544428",
+   "posted_at": "2026-11-12T16:11:37.906772+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "CBSA investigation into stowaway attempt at Manitoba border leads to prison sentence | HaulTimes",
@@ -1515,7 +1515,9 @@
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-12T16:11:37.906772+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122102311329544428"
   },
   "ef81365aa2": {
    "story_id": "ef81365aa2",
@@ -1700,6 +1702,10 @@
   {
    "at": "2026-11-12T15:51:27.263903+00:00",
    "msg": "posted f585cc86d2"
+  },
+  {
+   "at": "2026-11-12T16:11:37.906772+00:00",
+   "msg": "posted bfb543a788"
   }
  ],
  "decided": {
@@ -1919,7 +1925,7 @@
   "218224a33a": "skipped|importance 55 is below this platform's threshold (65)",
   "f37770ad6e": "skipped|importance 55 is below this platform's threshold (65)",
   "f585cc86d2": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 20 min in queue",
-  "bfb543a788": "queued|importance 67 (threshold 65), Cross-Border, trade publication",
+  "bfb543a788": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 33 min in queue",
   "9077a491b2": "skipped|importance 60 is below this platform's threshold (65)",
   "ef81365aa2": "queued|importance 67 (threshold 65), Fuel, established outlet"
  },
@@ -3750,6 +3756,13 @@
    "title": "Running on Empty: Diesel price volatility puts pressure on trucking industry",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Fuel, established outlet"
+  },
+  {
+   "at": "2026-11-12T16:11:37.906772+00:00",
+   "story_id": "bfb543a788",
+   "title": "CBSA investigation into stowaway attempt at Manitoba border leads to prison sentence",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 33 min in queue"
   }
  ],
  "visibility": {
