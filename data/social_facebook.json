@@ -1649,14 +1649,14 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/u-s-budget-deficit-up-42-in-october-tariff-revenue-dips-39-d329a92637/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=d329a92637",
    "caption": "U.S. budget deficit up 42% in October; tariff revenue dips 39%.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-12T22:11:19.948396+00:00",
    "published": "2026-11-12T21:40:12+00:00",
    "score": 78,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122102500791544428",
+   "posted_at": "2026-11-12T22:21:32.740364+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "U.S. budget deficit up 42% in October; tariff revenue dips 39% | HaulTimes",
@@ -1667,7 +1667,9 @@
    "reason": "importance 78 (threshold 65), Cross-Border, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-12T22:21:32.740364+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122102500791544428"
   }
  },
  "paused": null,
@@ -1840,6 +1842,10 @@
   {
    "at": "2026-11-12T20:31:27.252645+00:00",
    "msg": "posted b95c335539"
+  },
+  {
+   "at": "2026-11-12T22:21:32.740364+00:00",
+   "msg": "posted d329a92637"
   }
  ],
  "decided": {
@@ -2080,7 +2086,7 @@
   "4d59b61c06": "skipped|importance 55 is below this platform's threshold (65)",
   "501288785c": "skipped|importance 55 is below this platform's threshold (65)",
   "7ee7770f38": "skipped|importance 55 is below this platform's threshold (65)",
-  "d329a92637": "queued|importance 78 (threshold 65), Cross-Border, trade publication"
+  "d329a92637": "posted|importance 78 (threshold 65), Cross-Border, trade publication; waited 10 min in queue"
  },
  "decisions": [
   {
@@ -4070,6 +4076,13 @@
    "title": "U.S. budget deficit up 42% in October; tariff revenue dips 39%",
    "action": "queued",
    "reason": "importance 78 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-12T22:21:32.740364+00:00",
+   "story_id": "d329a92637",
+   "title": "U.S. budget deficit up 42% in October; tariff revenue dips 39%",
+   "action": "posted",
+   "reason": "importance 78 (threshold 65), Cross-Border, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
