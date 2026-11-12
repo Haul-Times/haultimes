@@ -659,6 +659,35 @@
   "sum_pending": false
  },
  {
+  "id": "43e0ea1e98",
+  "slug": "john-deere-to-close-pair-of-iowa-factories-43e0ea1e98",
+  "title": "John Deere to Close Pair of Iowa Factories",
+  "orig_title": "John Deere to Close Pair of Iowa Factories",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "SupplyChainBrain",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2FTRFkyTjZyOVFsSER0QkdUZkRSSWxkZjFPY1BHUEc0bl9sNkJib0RnbmNKSUJmTDR0VlJnMU0wMm40N05SdEJ0YnRWSjFRa05tWDFFckp4WXppRU1TMEtuWFJZMWJpcm9obUhMR1kxMGpzTDRieUl5YlhETHRDTjlWUUFQR205YWdmSXVmZHRkN0xDYUpJSG1EMkFQUzBiOVZYYnFEdTdHMk5vWllpNTVibWlPTDJ4OWUzU0tuekNvUHFlN2lpQ013TG8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2FTRFkyTjZyOVFsSER0QkdUZkRSSWxkZjFPY1BHUEc0bl9sNkJib0RnbmNKSUJmTDR0VlJnMU0wMm40N05SdEJ0YnRWSjFRa05tWDFFckp4WXppRU1TMEtuWFJZMWJpcm9obUhMR1kxMGpzTDRieUl5YlhETHRDTjlWUUFQR205YWdmSXVmZHRkN0xDYUpJSG1EMkFQUzBiOVZYYnFEdTdHMk5vWllpNTVibWlPTDJ4OWUzU0tuekNvUHFlN2lpQ013TG8",
+  "snippet": "John Deere to Close Pair of Iowa Factories SupplyChainBrain",
+  "published": "2026-11-12T08:55:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T14:41:05.205833+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fadbeef309",
   "slug": "iraq-launches-probe-into-alleged-oil-smuggling-route-to-afghanistan-fadbeef309",
   "title": "Iraq Launches Probe into Alleged Oil Smuggling Route to Afghanistan",

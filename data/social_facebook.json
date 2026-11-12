@@ -1421,14 +1421,14 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/trump-threatens-to-double-tariffs-on-mexico-over-migrants-0772a5c257/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=0772a5c257",
    "caption": "Trump threatens to double tariffs on Mexico over migrants.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-12T14:31:18.143424+00:00",
    "published": "2026-11-12T13:52:33+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122102255097544428",
+   "posted_at": "2026-11-12T14:41:30.186048+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Trump threatens to double tariffs on Mexico over migrants | HaulTimes",
@@ -1439,7 +1439,9 @@
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-12T14:41:30.186048+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122102255097544428"
   }
  },
  "paused": null,
@@ -1588,6 +1590,10 @@
   {
    "at": "2026-11-12T12:31:27.486133+00:00",
    "msg": "posted 73a7c2ae9d"
+  },
+  {
+   "at": "2026-11-12T14:41:30.186048+00:00",
+   "msg": "posted 0772a5c257"
   }
  ],
  "decided": {
@@ -1801,7 +1807,7 @@
   "ad19bdd97b": "skipped|importance 55 is below this platform's threshold (65)",
   "d0d2594162": "skipped|importance 60 is below this platform's threshold (65)",
   "0ed3ac9dd9": "skipped|importance 55 is below this platform's threshold (65)",
-  "0772a5c257": "queued|importance 67 (threshold 65), Cross-Border, trade publication",
+  "0772a5c257": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 10 min in queue",
   "dbf90b7478": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
@@ -3568,6 +3574,13 @@
    "title": "Diesel 101: Why Truck Stop Diesel Is Still Above $6 a Gallon as Crude Falls",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T14:41:30.186048+00:00",
+   "story_id": "0772a5c257",
+   "title": "Trump threatens to double tariffs on Mexico over migrants",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
