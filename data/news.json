@@ -1,5 +1,37 @@
 [
  {
+  "id": "297a89c866",
+  "slug": "mexico-truck-exports-soar-159-as-production-jumps-130-in-october-297a89c866",
+  "title": "Mexico truck exports soar 159% as production jumps 130% in October",
+  "orig_title": "Mexico truck exports soar 159% as production jumps 130% in October",
+  "summary": "",
+  "why": "",
+  "category": "border",
+  "region": "",
+  "importance": 81,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQk9ZMlEtdUNoQkdqX3kyUUpCTW50cmlBY3I0MTIzaWxCa3ZrX040Rm9JR190QVlsT2JRSmNrWkR3VGM4ZldILVZKZFlTbkVkcl91a1gwWFRvOFAxaVBYWVdMWk1Ea2VNSGxVaS0tMXFsTmt6elpMSmN5RTAyWFdNS1J1SnNZaGIwaFluRjlCODVzeWduQl9Ba2tsNkF6R1E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQk9ZMlEtdUNoQkdqX3kyUUpCTW50cmlBY3I0MTIzaWxCa3ZrX040Rm9JR190QVlsT2JRSmNrWkR3VGM4ZldILVZKZFlTbkVkcl91a1gwWFRvOFAxaVBYWVdMWk1Ea2VNSGxVaS0tMXFsTmt6elpMSmN5RTAyWFdNS1J1SnNZaGIwaFluRjlCODVzeWduQl9Ba2tsNkF6R1E",
+  "snippet": "Mexico truck exports soar 159% as production jumps 130% in October FreightWaves",
+  "published": "2026-11-12T19:03:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T19:11:06.484045+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/mexico-truck-exports-soar-159-as-production-jumps-130-in-october",
+  "source_note": "paywalled: excerpt only · 12 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "cedfc61a18",
   "slug": "oyo-assembly-demands-probe-justice-over-alleged-assault-of-truck-drive-cedfc61a18",
   "title": "Oyo Assembly demands probe, justice over alleged assault of truck drivers",
@@ -28,6 +60,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "2775da0ac7"
+ },
+ {
+  "id": "770203b620",
+  "slug": "hapag-lloyd-profit-jumps-as-stronger-freight-rates-drive-guidance-upgr-770203b620",
+  "title": "Hapag-Lloyd profit jumps as stronger freight rates drive guidance upgrade",
+  "orig_title": "Hapag-Lloyd profit jumps as stronger freight rates drive guidance upgrade",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRW91a2pRTnZ6VmhaQUdXcS1CWjdlNE1FNDdBZkdWb2dMcmxVYVE3RE9sVWFtOHFmaWsxQi1ySGVVV3VrVW9Eckl6N3ZjNUFMNjZ3NTRRWlA2NjlrMUtOWDEyZkd2aWFVOE1vbnU5eDdGbERYMXBQRllhN3RpQWw2S3lERXIyX19aMEkzWHBtV19xY01uUmc4OXNfNW8zdGthQ1FTdDVkWWhsSDA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRW91a2pRTnZ6VmhaQUdXcS1CWjdlNE1FNDdBZkdWb2dMcmxVYVE3RE9sVWFtOHFmaWsxQi1ySGVVV3VrVW9Eckl6N3ZjNUFMNjZ3NTRRWlA2NjlrMUtOWDEyZkd2aWFVOE1vbnU5eDdGbERYMXBQRllhN3RpQWw2S3lERXIyX19aMEkzWHBtV19xY01uUmc4OXNfNW8zdGthQ1FTdDVkWWhsSDA",
+  "snippet": "Hapag-Lloyd profit jumps as stronger freight rates drive guidance upgrade FreightWaves",
+  "published": "2026-11-12T18:47:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T19:11:06.484045+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "ocean/air freight with no North American trucking link"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "aa57b85ea5",
@@ -84,7 +145,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://legis1.com/news/highway-reauthorization-truckload-carriers",
+  "source_note": "ok · 486 words"
  },
  {
   "id": "cc9b8ce0a5",
@@ -111,7 +175,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.rfdtv.com/diesel-prices-drive-up-trucking-and-rail-costs",
   "source_note": "ok · 205 words"
@@ -141,7 +205,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/articles/no-us-buyer-russian-diesel",
+  "source_note": "excerpt only · 37 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "29dcb3a81d",

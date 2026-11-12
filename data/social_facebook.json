@@ -1564,6 +1564,34 @@
     "created": "2026-11-12T16:31:27+0000",
     "at": "2026-11-12T16:41:45.189067+00:00"
    }
+  },
+  "297a89c866": {
+   "story_id": "297a89c866",
+   "title": "Mexico truck exports soar 159% as production jumps 130% in October",
+   "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQk9ZMlEtdUNoQkdqX3kyUUpCTW50cmlBY3I0MTIzaWxCa3ZrX040Rm9JR190QVlsT2JRSmNrWkR3VGM4ZldILVZKZFlTbkVkcl91a1gwWFRvOFAxaVBYWVdMWk1Ea2VNSGxVaS0tMXFsTmt6elpMSmN5RTAyWFdNS1J1SnNZaGIwaFluRjlCODVzeWduQl9Ba2tsNkF6R1E",
+   "category": "border",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/mexico-truck-exports-soar-159-as-production-jumps-130-in-october-297a89c866/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=297a89c866",
+   "caption": "Mexico truck exports soar 159% as production jumps 130% in October.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #CrossBorder",
+   "status": "queued",
+   "created_at": "2026-11-12T19:11:29.087041+00:00",
+   "published": "2026-11-12T19:03:15+00:00",
+   "score": 81,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Mexico truck exports soar 159% as production jumps 130% in October | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/15e5438a73.png",
+    "og:url": "https://haultimes.com/story/mexico-truck-exports-soar-159-as-production-jumps-130-in-october-297a89c866/"
+   },
+   "reason": "importance 81 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -1958,7 +1986,8 @@
   "29dcb3a81d": "skipped|importance 55 is below this platform's threshold (65)",
   "cc9b8ce0a5": "skipped|importance 63 is below this platform's threshold (65)",
   "23404c81b5": "skipped|importance 50 is below this platform's threshold (65)",
-  "a6c5623a36": "skipped|importance 60 is below this platform's threshold (65)"
+  "a6c5623a36": "skipped|importance 60 is below this platform's threshold (65)",
+  "297a89c866": "queued|importance 81 (threshold 65), Cross-Border, trade publication"
  },
  "decisions": [
   {
@@ -3864,6 +3893,13 @@
    "title": "No U.S. buyer emerges after Trump's deal on Russian diesel",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T19:11:29.087041+00:00",
+   "story_id": "297a89c866",
+   "title": "Mexico truck exports soar 159% as production jumps 130% in October",
+   "action": "queued",
+   "reason": "importance 81 (threshold 65), Cross-Border, trade publication"
   }
  ],
  "visibility": {
