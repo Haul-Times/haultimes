@@ -1450,6 +1450,34 @@
     "created": "2026-11-12T14:41:30+0000",
     "at": "2026-11-12T14:51:25.254509+00:00"
    }
+  },
+  "f585cc86d2": {
+   "story_id": "f585cc86d2",
+   "title": "Schneider CEO sees prolonged trucking recovery as capacity tightens",
+   "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGJNc2U2YkhibFBENFJCMlh3UjBScmJmSzFtc3FfTEM0RzdqaXpEQWVDdGJ6MDljSjZvUWx5ZnJOaFJvYzRvRURZeU9IWGVfYjk0bktMQl81N0R5NTIxMW1YSUpRQnRoZ1RiMnNxSWxqTjhiSjIzQUw4Z3h1YldCa01COUsxZ3VoQktJMzVRazJOcUNUNW94X3RGQ3B0cjRrQm5UZlhDZ0tOZnpHZFJOUHRYSEN5bTRiTjE4Z0FDWmRDcVE",
+   "category": "rates",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/schneider-ceo-sees-prolonged-trucking-recovery-as-capacity-tightens-f585cc86d2/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=f585cc86d2",
+   "caption": "Schneider CEO sees prolonged trucking recovery as capacity tightens.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-12T15:31:26.958227+00:00",
+   "published": "2026-11-12T15:28:53+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Schneider CEO sees prolonged trucking recovery as capacity tightens | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/18cdff84e0.png",
+    "og:url": "https://haultimes.com/story/schneider-ceo-sees-prolonged-trucking-recovery-as-capacity-tightens-f585cc86d2/"
+   },
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -1819,7 +1847,8 @@
   "dbf90b7478": "skipped|importance 55 is below this platform's threshold (65)",
   "cf973b5932": "skipped|importance 55 is below this platform's threshold (65)",
   "218224a33a": "skipped|importance 55 is below this platform's threshold (65)",
-  "f37770ad6e": "skipped|importance 55 is below this platform's threshold (65)"
+  "f37770ad6e": "skipped|importance 55 is below this platform's threshold (65)",
+  "f585cc86d2": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
  },
  "decisions": [
   {
@@ -3613,6 +3642,13 @@
    "title": "Class 8 orders fall on cloudy regulatory picture",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T15:31:26.958227+00:00",
+   "story_id": "f585cc86d2",
+   "title": "Schneider CEO sees prolonged trucking recovery as capacity tightens",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
   }
  ],
  "visibility": {
