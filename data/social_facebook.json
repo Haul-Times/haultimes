@@ -1818,7 +1818,8 @@
   "0772a5c257": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 10 min in queue",
   "dbf90b7478": "skipped|importance 55 is below this platform's threshold (65)",
   "cf973b5932": "skipped|importance 55 is below this platform's threshold (65)",
-  "218224a33a": "skipped|importance 55 is below this platform's threshold (65)"
+  "218224a33a": "skipped|importance 55 is below this platform's threshold (65)",
+  "f37770ad6e": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3603,6 +3604,13 @@
    "at": "2026-11-12T15:11:32.530538+00:00",
    "story_id": "218224a33a",
    "title": "Nevoya & Meta Partner on 25 Electric Trucks Along I-10 Corridor",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T15:21:18.517106+00:00",
+   "story_id": "f37770ad6e",
+   "title": "Class 8 orders fall on cloudy regulatory picture",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
