@@ -1,5 +1,34 @@
 [
  {
+  "id": "f43ec632da",
+  "slug": "elks-kicker-blanchard-wrote-it-down-in-2026-f43ec632da",
+  "title": "Elks kicker Blanchard wrote it down in 2026",
+  "orig_title": "Elks kicker Blanchard wrote it down in 2026",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHNyUmFQQ3JKRG1IdWpfNUVUT3ZTc1d6dXJub3lSc01BMFN5WUJYcHZsQkFZQnB5UjUyUEZSbTc1aFBuRWlEeGZPX0ZHTllXZTlTSjhkbDBpYmJjUTRfaEViLVRtUVpyZEdYOHJRdDZvS2JMMzVjdnRIMC14dlh4bDlkZTNfRDQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHNyUmFQQ3JKRG1IdWpfNUVUT3ZTc1d6dXJub3lSc01BMFN5WUJYcHZsQkFZQnB5UjUyUEZSbTc1aFBuRWlEeGZPX0ZHTllXZTlTSjhkbDBpYmJjUTRfaEViLVRtUVpyZEdYOHJRdDZvS2JMMzVjdnRIMC14dlh4bDlkZTNfRDQ",
+  "snippet": "Elks kicker Blanchard wrote it down in 2026 Global News",
+  "published": "2026-11-12T23:32:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T23:38:13.087961+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "87532709a2",
   "slug": "teen-questions-police-response-after-head-on-collision-on-waterloo-reg-87532709a2",
   "title": "Teen questions police response after head-on collision on Waterloo Region road",
@@ -2227,6 +2256,35 @@
   "sum_pending": false
  },
  {
+  "id": "43d824ef65",
+  "slug": "csis-foreign-powers-could-help-canada-navigate-an-unreliable-u-s-exper-43d824ef65",
+  "title": "CSIS foreign powers could help Canada navigate an unreliable U.S.: experts",
+  "orig_title": "CSIS foreign powers could help Canada navigate an unreliable U.S.: experts",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnZkU0FITjcwcWRrVzVJSmtJNmVXZmdTbFhVckhKYmprZnk3SVRJWndVM0JxOUhENC14T3MxNnhNcmlFb01qQ1dFMjFBSkxiWVozRzltbWhSWHhKTzk2RElSOWVlM0ZCLWYwdTYyZHdHN0ZEbUw4NWF3bHBuMXpLek53dWtoaHhjclE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnZkU0FITjcwcWRrVzVJSmtJNmVXZmdTbFhVckhKYmprZnk3SVRJWndVM0JxOUhENC14T3MxNnhNcmlFb01qQ1dFMjFBSkxiWVozRzltbWhSWHhKTzk2RElSOWVlM0ZCLWYwdTYyZHdHN0ZEbUw4NWF3bHBuMXpLek53dWtoaHhjclE",
+  "snippet": "CSIS foreign powers could help Canada navigate an unreliable U.S.: experts Global News",
+  "published": "2026-11-12T15:56:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T23:38:13.087961+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3e0c46c97f",
   "slug": "the-blame-game-the-us-blames-canada-for-failed-talks-the-reaction-from-3e0c46c97f",
   "title": "THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next",
@@ -3094,6 +3152,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "35f7528588",
+  "slug": "tesla-driver-found-asleep-on-highway-417-during-ottawa-rush-hour-opp-35f7528588",
+  "title": "Tesla driver found asleep on Highway 417 during Ottawa rush hour: OPP",
+  "orig_title": "Tesla driver found asleep on Highway 417 during Ottawa rush hour: OPP",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXhmNTFZeGQ4amFtSHZUR1VDbjhVaEszOGNyb3VZNWFnZTlCWjhsRWR1UzhMOXhFNkRoeTZSVE9RYWNHVi1FVGtZR0pTZjRWbzlYOHlGTW1vcHg5WXUxNXFGQTg1eWpIcEF4V1p3UUZHdVpWN2hVdFBSSE1QZHlTNGlnQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXhmNTFZeGQ4amFtSHZUR1VDbjhVaEszOGNyb3VZNWFnZTlCWjhsRWR1UzhMOXhFNkRoeTZSVE9RYWNHVi1FVGtZR0pTZjRWbzlYOHlGTW1vcHg5WXUxNXFGQTg1eWpIcEF4V1p3UUZHdVpWN2hVdFBSSE1QZHlTNGlnQQ",
+  "snippet": "Tesla driver found asleep on Highway 417 during Ottawa rush hour: OPP Global News",
+  "published": "2026-11-12T13:54:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T23:38:13.087961+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "0772a5c257",
