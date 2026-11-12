@@ -183,6 +183,35 @@
   "sum_pending": false
  },
  {
+  "id": "c1f571d398",
+  "slug": "supply-chains-archives-c1f571d398",
+  "title": "Supply Chains Archives",
+  "orig_title": "Supply Chains Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVW1tV3BTTHNhRUpLTmJoV2p3dTN6SWcyR0U5d3dOSGRRelVPRmVhRVdUV05vak5EYnBLZGRNRWdmRGxmS0Y5Z2UycEFGd2pScHZOS0Z2b3cwTkRqYjVDYnhrMTVPZ2dqWmhWWg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVW1tV3BTTHNhRUpLTmJoV2p3dTN6SWcyR0U5d3dOSGRRelVPRmVhRVdUV05vak5EYnBLZGRNRWdmRGxmS0Y5Z2UycEFGd2pScHZOS0Z2b3cwTkRqYjVDYnhrMTVPZ2dqWmhWWg",
+  "snippet": "Supply Chains Archives FreightWaves",
+  "published": "2026-11-12T16:54:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T18:30:23.468474+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "98fc255cf4",
   "slug": "truckload-spot-rates-continue-climbing-as-tight-capacity-fuels-market-98fc255cf4",
   "title": "Truckload spot rates continue climbing as tight capacity fuels market volatility, reports DAT Truckload Volume Index",
@@ -390,6 +419,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "0772a5c257"
+ },
+ {
+  "id": "facfeeca2a",
+  "slug": "watch-as-driver-escapes-tanker-moments-before-freight-train-hits-it-facfeeca2a",
+  "title": "Watch as driver escapes tanker moments before freight train hits it",
+  "orig_title": "Watch as driver escapes tanker moments before freight train hits it",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truckers News",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0N4MV9pNTBfZzlNQmlNbXZiNGJYRlRzM3ZLOG1oOU52SkIyTDI2cjZScHNKZnNVVTIzN2xKck5CQWdUNjRlVUtFVUJNdVlBUVJvQmE4SEZZZzZxX3ZJdU5RZkl6eFFtZC1FR0lqSVIydTVBZ2pfc0U3QnBxUk9iMFljOXZsU2RKOG5ScW1Eb0lWNFpHNnBncTV0QlFtaDJHVTBfMkx0S2t0bEpFMU0waUdMRENmeHBjLUE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0N4MV9pNTBfZzlNQmlNbXZiNGJYRlRzM3ZLOG1oOU52SkIyTDI2cjZScHNKZnNVVTIzN2xKck5CQWdUNjRlVUtFVUJNdVlBUVJvQmE4SEZZZzZxX3ZJdU5RZkl6eFFtZC1FR0lqSVIydTVBZ2pfc0U3QnBxUk9iMFljOXZsU2RKOG5ScW1Eb0lWNFpHNnBncTV0QlFtaDJHVTBfMkx0S2t0bEpFMU0waUdMRENmeHBjLUE",
+  "snippet": "Watch as driver escapes tanker moments before freight train hits it Truckers News",
+  "published": "2026-11-12T16:03:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T18:30:23.468474+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "ocean/air freight with no North American trucking link"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3e0c46c97f",
@@ -1294,6 +1352,35 @@
   "sum_tries": 3,
   "pub_url": "https://www.tvmix.com/friday-itv4-detective-dilemmas-trucking-thrills-wrestling-showdowns-pick-your-po/123",
   "source_note": "ok · 519 words"
+ },
+ {
+  "id": "bd27349246",
+  "slug": "rankeilour-properties-raises-over-20m-for-uk-warehouse-fund-bd27349246",
+  "title": "Rankeilour Properties raises over £20m for UK warehouse fund",
+  "orig_title": "Rankeilour Properties raises over £20m for UK warehouse fund",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "BE News",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5laVRURzBuOWhDSTFoQXBIRVdHTlFyWWNfNGlQNlFVWnVaYWpVaVVpQWVEX2NtQnU2UVBrY1VyMmdUQUlqQzFUbkwwNENEa0JQSmE0ZVlOdU9IY0xGZk5jNUw2M2U1ZXNSZ1JrSFFXaFIyRzQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5laVRURzBuOWhDSTFoQXBIRVdHTlFyWWNfNGlQNlFVWnVaYWpVaVVpQWVEX2NtQnU2UVBrY1VyMmdUQUlqQzFUbkwwNENEa0JQSmE0ZVlOdU9IY0xGZk5jNUw2M2U1ZXNSZ1JrSFFXaFIyRzQ",
+  "snippet": "Rankeilour Properties raises over £20m for UK warehouse fund BE News",
+  "published": "2026-11-12T12:27:25+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T18:30:23.468474+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country (UK/Europe)"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b7c9a8169c",
