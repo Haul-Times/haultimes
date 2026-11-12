@@ -1676,7 +1676,8 @@
   "1dd98f5f3d": "skipped|importance 51 is below this platform's threshold (65)",
   "4a02451d96": "skipped|minor item (news) or low-quality source",
   "72f8f91834": "skipped|importance 55 is below this platform's threshold (65)",
-  "b33e719820": "skipped|importance 51 is below this platform's threshold (65)"
+  "b33e719820": "skipped|importance 51 is below this platform's threshold (65)",
+  "ef6febce0e": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3330,6 +3331,13 @@
    "title": "Black Women in Trucking Face Hidden Safety Risks and High Costs",
    "action": "skipped",
    "reason": "importance 51 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T05:41:18.949933+00:00",
+   "story_id": "ef6febce0e",
+   "title": "Cargo theft: why digital scams may rise in 2027",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
