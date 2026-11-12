@@ -144,7 +144,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.elciudadano.com/en/port-workers-show-solidarity-with-truckers-conatraport-warns-of-job-risks-amid-government-inaction/11/12/",
   "source_note": "ok · 771 words"
@@ -10161,7 +10161,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://starlocalmedia.com/online_features/prnewswire/inventhelp-inventor-develops-new-sun-visor-attachment-for-truck-drivers-dal-820/article_4797ea86-f290-5dcf-8681-84c22c619c2f.html",
+  "source_note": "paywalled: excerpt only · 30 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "ae3eea659d",
@@ -10314,7 +10319,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://logisticsviewpoints.com/2026/11/10/ups-and-pickle-robot-has-robotic-truck-unloading-finally-reached-its-scale-up-moment/",
   "source_note": "ok · 999 words"
  },
