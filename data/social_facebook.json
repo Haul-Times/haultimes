@@ -1374,6 +1374,34 @@
     "created": "2026-11-12T08:21:27+0000",
     "at": "2026-11-12T08:31:20.381825+00:00"
    }
+  },
+  "73a7c2ae9d": {
+   "story_id": "73a7c2ae9d",
+   "title": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests",
+   "url_key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQckR0TzFYSk5kajQ5bWFfUUl1ZjU5OUQ0SGxXTG9yYld1NXRjR2lMUGYtQXNNcUdMT1JrZGg0MFNVRWJETmhzYnlzMlRTUExybDlIVmV2UnQ1bEpDRloxRnFxa1hoSjhCOGtHczkyejIzNkJqTW13a3NfTmp3cjZPUmd6cDZOZDBiZHhEY19LNlZpQXVPcEpXQ0ZtbFlWZWcwTldzMk9sdGFWb2FmS1RJblJLX2pENXVTWXcxX1ZQa2JZYlBhVzc5UTRlVFA",
+   "category": "drivers",
+   "source": "elciudadano.com",
+   "dest": "https://haultimes.com/story/truckers-continue-strike-as-kast-s-proposed-measures-fail-to-convince-73a7c2ae9d/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=73a7c2ae9d",
+   "caption": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests.\n\nReported by elciudadano. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
+   "status": "queued",
+   "created_at": "2026-11-12T12:11:25.086596+00:00",
+   "published": "2026-11-12T11:42:05+00:00",
+   "score": 71,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests | HaulTimes",
+    "og:description": "Reported by elciudadano.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/4aecae4071.png",
+    "og:url": "https://haultimes.com/story/truckers-continue-strike-as-kast-s-proposed-measures-fail-to-convince-73a7c2ae9d/"
+   },
+   "reason": "importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": true
   }
  },
  "paused": null,
@@ -1723,7 +1751,8 @@
   "2775da0ac7": "skipped|importance 45 is below this platform's threshold (65)",
   "5a6126d440": "skipped|importance 45 is below this platform's threshold (65)",
   "d50a0bc2e2": "posted|importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue",
-  "45b9cd93bb": "skipped|importance 45 is below this platform's threshold (65)"
+  "45b9cd93bb": "skipped|importance 45 is below this platform's threshold (65)",
+  "73a7c2ae9d": "queued|importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development"
  },
  "decisions": [
   {
@@ -3419,6 +3448,13 @@
    "title": "HANGCHA: A Global Forklift Manufacturer for Buyers Seeking Reliable Reach Trucks, Electric Forklifts and Material Handling Solutions",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T12:11:25.086596+00:00",
+   "story_id": "73a7c2ae9d",
+   "title": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests",
+   "action": "queued",
+   "reason": "importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development"
   }
  ],
  "visibility": {
