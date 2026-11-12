@@ -1677,7 +1677,8 @@
   "4a02451d96": "skipped|minor item (news) or low-quality source",
   "72f8f91834": "skipped|importance 55 is below this platform's threshold (65)",
   "b33e719820": "skipped|importance 51 is below this platform's threshold (65)",
-  "ef6febce0e": "skipped|importance 57 is below this platform's threshold (65)"
+  "ef6febce0e": "skipped|importance 57 is below this platform's threshold (65)",
+  "2775da0ac7": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3338,6 +3339,13 @@
    "title": "Cargo theft: why digital scams may rise in 2027",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T06:11:33.676874+00:00",
+   "story_id": "2775da0ac7",
+   "title": "Oyo Assembly Demands Probe Of Karma Agric Feeds Over Assault On Truck Drivers -",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

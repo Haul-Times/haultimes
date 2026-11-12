@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T06:01:03.379324+00:00",
+ "updated": "2026-11-12T06:11:04.404323+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -14,7 +14,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 0:47 am EST",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 3,
     "status": "3 minutes",
-    "updated": "2026-11-12 00:40 EST"
+    "updated": "2026-11-12 01:00 EST"
    },
    "usual": {
     "south": [
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 0:47 am EST",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-12 00:40 EST"
+    "wait": 9,
+    "status": "9 minutes",
+    "updated": "2026-11-12 01:00 EST"
    },
    "usual": {
     "south": [
@@ -351,7 +351,7 @@
     ],
     "north": [
      4,
-     2,
+     6,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:56:08",
+    "updated": "01:06:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -610,11 +610,11 @@
    "ports": "International Falls, MN ↔ Fort Frances, ON",
    "region": "on-mn",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 11:00 pm CST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:06:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "00:56:08",
+    "updated": "01:06:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "00:56:08",
+    "updated": "01:06:12",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-12 00:15 AST"
+    "updated": "2026-11-12 02:02 AST"
    },
    "usual": {
     "south": [
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 7:00 pm CST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:06:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm MST",
+    "updated": "At 11:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,13 +1282,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 pm PST",
+    "updated": "At 10:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-11 22:40 PDT"
+    "updated": "2026-11-11 23:00 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-11 22:40 PDT"
+    "updated": "2026-11-11 23:00 PDT"
    },
    "usual": {
     "south": [
