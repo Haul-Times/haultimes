@@ -1767,7 +1767,9 @@
   "d50a0bc2e2": "posted|importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue",
   "45b9cd93bb": "skipped|importance 45 is below this platform's threshold (65)",
   "73a7c2ae9d": "posted|importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development; waited 20 min in queue",
-  "614b533ca4": "skipped|importance 45 is below this platform's threshold (65)"
+  "614b533ca4": "skipped|importance 45 is below this platform's threshold (65)",
+  "a36e0f306a": "skipped|importance 61 is below this platform's threshold (65)",
+  "ca57cccf2a": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3482,6 +3484,20 @@
    "at": "2026-11-12T13:01:23.839678+00:00",
    "story_id": "614b533ca4",
    "title": "Friday on ITV4: Detective Dilemmas, Trucking Thrills & Wrestling Showdowns – Pick Your Poison",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T13:11:23.100616+00:00",
+   "story_id": "a36e0f306a",
+   "title": "ITF report ties part of retail’s $850B returns to freight",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T13:11:23.100616+00:00",
+   "story_id": "ca57cccf2a",
+   "title": "Three Ryder Leaders Named Top Women in Supply Chain",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
