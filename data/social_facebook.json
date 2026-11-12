@@ -1640,6 +1640,34 @@
     "created": "2026-11-12T20:31:27+0000",
     "at": "2026-11-12T20:41:31.581977+00:00"
    }
+  },
+  "d329a92637": {
+   "story_id": "d329a92637",
+   "title": "U.S. budget deficit up 42% in October; tariff revenue dips 39%",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYNWc0Q3VqeGNHMjFMX19UMldnRU1Ta0o4dkNhcS1PcUtLQ0hhNFhOajZscTBoelZaOFQ2NzlFeWpfSDRfaGY4N0E0MEF1Slc1WWNHWGNIRWN2ejVxVlN1a3BzeWVkYThHTHpiVA",
+   "category": "border",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/u-s-budget-deficit-up-42-in-october-tariff-revenue-dips-39-d329a92637/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=d329a92637",
+   "caption": "U.S. budget deficit up 42% in October; tariff revenue dips 39%.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder",
+   "status": "queued",
+   "created_at": "2026-11-12T22:11:19.948396+00:00",
+   "published": "2026-11-12T21:40:12+00:00",
+   "score": 78,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "U.S. budget deficit up 42% in October; tariff revenue dips 39% | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/d62ea16bc1.png",
+    "og:url": "https://haultimes.com/story/u-s-budget-deficit-up-42-in-october-tariff-revenue-dips-39-d329a92637/"
+   },
+   "reason": "importance 78 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -2051,7 +2079,8 @@
   "b95c335539": "posted|importance 82 (threshold 65), Fuel, local/other outlet; waited 20 min in queue",
   "4d59b61c06": "skipped|importance 55 is below this platform's threshold (65)",
   "501288785c": "skipped|importance 55 is below this platform's threshold (65)",
-  "7ee7770f38": "skipped|importance 55 is below this platform's threshold (65)"
+  "7ee7770f38": "skipped|importance 55 is below this platform's threshold (65)",
+  "d329a92637": "queued|importance 78 (threshold 65), Cross-Border, trade publication"
  },
  "decisions": [
   {
@@ -4034,6 +4063,13 @@
    "title": "What The B-1 Visa Lets A Foreign Truck Driver Legally Do In The United States",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T22:11:19.948396+00:00",
+   "story_id": "d329a92637",
+   "title": "U.S. budget deficit up 42% in October; tariff revenue dips 39%",
+   "action": "queued",
+   "reason": "importance 78 (threshold 65), Cross-Border, trade publication"
   }
  ],
  "visibility": {
