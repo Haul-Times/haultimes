@@ -1953,7 +1953,8 @@
   "6724e10bb3": "skipped|minor item (crime) or low-quality source",
   "f2d9dae2c3": "skipped|importance 57 is below this platform's threshold (65)",
   "5288c784c2": "skipped|importance 51 is below this platform's threshold (65)",
-  "49c84de767": "skipped|minor item (event) or low-quality source"
+  "49c84de767": "skipped|minor item (event) or low-quality source",
+  "b28b70caed": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3824,6 +3825,13 @@
    "title": "Webinar to explore how smarter lubrication strategies can reduce fleet operating costs",
    "action": "skipped",
    "reason": "minor item (event) or low-quality source"
+  },
+  {
+   "at": "2026-11-12T17:51:35.230032+00:00",
+   "story_id": "b28b70caed",
+   "title": "Truckers leverage cost pressures to drive rate recovery",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
