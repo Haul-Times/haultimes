@@ -1669,7 +1669,9 @@
   "cd9692ff27": "skipped|importance 57 is below this platform's threshold (65)",
   "38a4bdc3e0": "skipped|importance 63 is below this platform's threshold (65)",
   "9f6b55109f": "skipped|importance 45 is below this platform's threshold (65)",
-  "1dd98f5f3d": "skipped|importance 51 is below this platform's threshold (65)"
+  "1dd98f5f3d": "skipped|importance 51 is below this platform's threshold (65)",
+  "4a02451d96": "skipped|minor item (news) or low-quality source",
+  "72f8f91834": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3302,6 +3304,20 @@
    "title": "Mainfreight profit up 66% to $155m as freight volumes rise",
    "action": "skipped",
    "reason": "importance 51 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T02:07:04.603591+00:00",
+   "story_id": "4a02451d96",
+   "title": "Diesel prices dip slightly, but is more relief on its way?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-12T02:07:04.603591+00:00",
+   "story_id": "72f8f91834",
+   "title": "New cyber thief gang targets transports; Hunt, Ryder and Echo hit",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
