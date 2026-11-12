@@ -1593,7 +1593,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-12T19:31:34.203497+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122102425305544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122102425305544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122102425305544428",
+    "created": "2026-11-12T19:31:34+0000",
+    "at": "2026-11-12T19:37:59.072325+00:00"
+   }
   }
  },
  "paused": null,
@@ -1995,7 +2003,8 @@
   "a6c5623a36": "skipped|importance 60 is below this platform's threshold (65)",
   "297a89c866": "posted|importance 81 (threshold 65), Cross-Border, trade publication; waited 20 min in queue",
   "98241ef994": "skipped|importance 55 is below this platform's threshold (65)",
-  "ec10d15f01": "skipped|importance 45 is below this platform's threshold (65)"
+  "ec10d15f01": "skipped|importance 45 is below this platform's threshold (65)",
+  "28d86fce11": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3929,16 +3938,23 @@
    "title": "Mexico truck exports soar 159% as production jumps 130% in October",
    "action": "posted",
    "reason": "importance 81 (threshold 65), Cross-Border, trade publication; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-12T19:37:59.072325+00:00",
+   "story_id": "28d86fce11",
+   "title": "7 trucking execs weigh in on 2027 market and business conditions",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122102320785544428",
+  "post": "1476615495528085_122102425305544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122102320785544428",
-  "created": "2026-11-12T16:31:27+0000",
-  "at": "2026-11-12T16:41:45.189067+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122102425305544428",
+  "created": "2026-11-12T19:31:34+0000",
+  "at": "2026-11-12T19:37:59.072325+00:00"
  },
  "promo_i": 1
 }
