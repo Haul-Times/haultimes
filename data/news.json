@@ -203,6 +203,35 @@
   "sum_pending": false
  },
  {
+  "id": "c65e1be3e8",
+  "slug": "truck-school-urges-ontario-to-restore-frozen-funding-streams-c65e1be3e8",
+  "title": "Truck school urges Ontario to restore frozen funding streams",
+  "orig_title": "Truck school urges Ontario to restore frozen funding streams",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa19zbWFtQnZuS2tPUTl5S0wxLXJBR1NmQi01YzFFUU51ejdpbjVMZUR6QWJfbmt5bXJSV3JDWks1R0pRNWJ1WTlvOHAtYWVtSWNZM011LXZwaklDM1Z3S2cyaVIteHE2V2xnLTFhLW4yZVJLV0xEN2lkSGhybXRSZVVfT3ZGckJfbFJpbmhZajdNenNEZTloV0FvVDBSZVFUQXNKTGxSMWZYQW5iYk5BZHh0bGtiV0dCS0E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa19zbWFtQnZuS2tPUTl5S0wxLXJBR1NmQi01YzFFUU51ejdpbjVMZUR6QWJfbmt5bXJSV3JDWks1R0pRNWJ1WTlvOHAtYWVtSWNZM011LXZwaklDM1Z3S2cyaVIteHE2V2xnLTFhLW4yZVJLV0xEN2lkSGhybXRSZVVfT3ZGckJfbFJpbmhZajdNenNEZTloV0FvVDBSZVFUQXNKTGxSMWZYQW5iYk5BZHh0bGtiV0dCS0E",
+  "snippet": "Truck school urges Ontario to restore frozen funding streams CTV News",
+  "published": "2026-11-12T22:03:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T22:58:12.529450+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "64cc7f2e3d",
   "slug": "program-that-supports-seniors-living-at-home-expands-in-rural-new-brun-64cc7f2e3d",
   "title": "Program that supports seniors living at home expands in rural New Brunswick",
@@ -1187,6 +1216,35 @@
   "source_note": "excerpt only · 37 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "959a901eef",
+  "slug": "canadian-travel-to-u-s-went-up-in-october-data-shows-959a901eef",
+  "title": "Canadian travel to U.S. went up in October, data shows",
+  "orig_title": "Canadian travel to U.S. went up in October, data shows",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRS0JTcXQwZWVGcGE3SVBCTklTY3FRQ3VlWHpOX184QW84QnBVenMwclFxYVEzcGhGWFJsQVNzQWZPN2tKUFlKdzlpdVZFdTJrUGlSaE1lem1QVFduSUtqWWJQVFB1cjQyZjhEWDRyOXhXT0Ro?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRS0JTcXQwZWVGcGE3SVBCTklTY3FRQ3VlWHpOX184QW84QnBVenMwclFxYVEzcGhGWFJsQVNzQWZPN2tKUFlKdzlpdVZFdTJrUGlSaE1lem1QVFduSUtqWWJQVFB1cjQyZjhEWDRyOXhXT0Ro",
+  "snippet": "Canadian travel to U.S. went up in October, data shows Global News",
+  "published": "2026-11-12T18:16:07+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T22:58:12.529450+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "29dcb3a81d",
@@ -4649,6 +4707,35 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "a5b8befe31",
+  "slug": "wainwright-honours-soldiers-killed-injured-in-fire-tragedy-befell-this-a5b8befe31",
+  "title": "Wainwright honours soldiers killed, injured in fire: ‘Tragedy befell this small town’",
+  "orig_title": "Wainwright honours soldiers killed, injured in fire: ‘Tragedy befell this small town’",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAweDJfeUxYbkhpT2xQemxTYWpSVi15V25NS1lXamdNWlJyeDJEMHdxbU5CZmdIaXhhc2pBakFHM01ac2RHakNtaUxhaHZSdjhYTmlfYVN4Z2VGVFdjSy1YOXdxZXNaeU9zQXpBYkxJRXJtRnhpaFZNYkh1Qjc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAweDJfeUxYbkhpT2xQemxTYWpSVi15V25NS1lXamdNWlJyeDJEMHdxbU5CZmdIaXhhc2pBakFHM01ac2RHakNtaUxhaHZSdjhYTmlfYVN4Z2VGVFdjSy1YOXdxZXNaeU9zQXpBYkxJRXJtRnhpaFZNYkh1Qjc",
+  "snippet": "Wainwright honours soldiers killed, injured in fire: ‘Tragedy befell this small town’ Global News",
+  "published": "2026-11-11T23:22:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T22:58:12.529450+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
@@ -14491,6 +14578,35 @@
   "sum_tries": 3,
   "pub_url": "https://www.fleetowner.com/perspectives/ideaxchange/blog/55417202/truck-driver-pay-trends-reshape-fleet-recruiting-and-retention-strategies-for-2027",
   "source_note": "ok · 1098 words"
+ },
+ {
+  "id": "690bf41f2f",
+  "slug": "ottawa-s-6-5-billion-forestry-plan-offers-hope-but-no-quick-fix-for-mi-690bf41f2f",
+  "title": "Ottawa’s $6.5-billion forestry plan offers hope but no quick fix for mills",
+  "orig_title": "Ottawa’s $6.5-billion forestry plan offers hope but no quick fix for mills",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3d1WTdiQVk4UnFQS1VIZHNhYmpXSXZuSmdGdWtWNmw0cEtQYUZXVnEwVDdiaUxweHg3dThON0RJdThOX0gteU9mYlREUUZWdU5zbl8ycW9wQXhSOWM5OHhsa0ViSnZJZjVoc2h0RTNmTFF2X2lyMFFyZG15R2JVbUZyUjFFOTN1Z3ZLazlWbTBGWHJuUUxacmFpOXRpeTNXWkJ5eDNR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3d1WTdiQVk4UnFQS1VIZHNhYmpXSXZuSmdGdWtWNmw0cEtQYUZXVnEwVDdiaUxweHg3dThON0RJdThOX0gteU9mYlREUUZWdU5zbl8ycW9wQXhSOWM5OHhsa0ViSnZJZjVoc2h0RTNmTFF2X2lyMFFyZG15R2JVbUZyUjFFOTN1Z3ZLazlWbTBGWHJuUUxacmFpOXRpeTNXWkJ5eDNR",
+  "snippet": "Ottawa’s $6.5-billion forestry plan offers hope but no quick fix for mills The Globe and Mail",
+  "published": "2026-11-10T13:31:30+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T22:58:12.529450+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4686be3482",
