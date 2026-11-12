@@ -2050,7 +2050,8 @@
   "f64f05e3fa": "skipped|minor item (crime) or low-quality source",
   "b95c335539": "posted|importance 82 (threshold 65), Fuel, local/other outlet; waited 20 min in queue",
   "4d59b61c06": "skipped|importance 55 is below this platform's threshold (65)",
-  "501288785c": "skipped|importance 55 is below this platform's threshold (65)"
+  "501288785c": "skipped|importance 55 is below this platform's threshold (65)",
+  "7ee7770f38": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4024,6 +4025,13 @@
    "at": "2026-11-12T21:31:24.411882+00:00",
    "story_id": "501288785c",
    "title": "USPS to increase prices, establish permanent fuel surcharge",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T21:51:26.319003+00:00",
+   "story_id": "7ee7770f38",
+   "title": "What The B-1 Visa Lets A Foreign Truck Driver Legally Do In The United States",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
