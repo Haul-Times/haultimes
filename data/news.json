@@ -1,5 +1,34 @@
 [
  {
+  "id": "8a90e81ac2",
+  "slug": "diesel-smuggling-gang-busted-7-5-million-seized-8a90e81ac2",
+  "title": "Diesel smuggling: Gang busted, €7.5 million seized",
+  "orig_title": "Diesel smuggling: Gang busted, €7.5 million seized",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "L'Unione Sarda",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmwtOTl4REFxZjUyazZoVk9QTjN0dFp5NGJQTmpKenlVX2FxazZzcWRDWGZaVGxhdnVLQ3Q3Rzh6X2I5S1dHWkZ6X253WTBwZTRNT2RUazZwV0R0dUwtdDdXS0FLTjI5TkJVMGpuSldSWjBnNHFYZHpYR2h4RWI5Rkl0VkpqbUUxVGtpa3J3X09DQ0hsZlE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmwtOTl4REFxZjUyazZoVk9QTjN0dFp5NGJQTmpKenlVX2FxazZzcWRDWGZaVGxhdnVLQ3Q3Rzh6X2I5S1dHWkZ6X253WTBwZTRNT2RUazZwV0R0dUwtdDdXS0FLTjI5TkJVMGpuSldSWjBnNHFYZHpYR2h4RWI5Rkl0VkpqbUUxVGtpa3J3X09DQ0hsZlE",
+  "snippet": "Diesel smuggling: Gang busted, €7.5 million seized L'Unione Sarda",
+  "published": "2026-11-12T08:41:21+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T08:51:04.160157+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country (UK/Europe)"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f42671bc6b",
   "slug": "police-seize-gh-20m-suspected-fake-gtp-fabrics-arrest-two-in-adabraka-f42671bc6b",
   "title": "Police seize GH¢20m suspected fake GTP fabrics, arrest two in Adabraka",
@@ -9307,8 +9336,8 @@
   "sum_status": "withheld",
   "source_fp": "eaa9547e11790e4e",
   "source_scope": "full_article",
-  "sum_at": "2026-11-12T08:41:04.483353+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-12T08:51:04.160157+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
@@ -9317,18 +9346,22 @@
    },
    {
     "sentence": "2",
-    "quote": "the endowed fund will award $1,000 scholarships each academic year to four eligible students"
+    "quote": "Beginning with the 2026-2027 academic year"
    },
    {
     "sentence": "3",
-    "quote": "with the remaining two scholarships open to all qualified students enrolled in the respective programs"
+    "quote": "Two of the annual scholarships are designated for women"
    },
    {
     "sentence": "4",
-    "quote": "such meaningful alignment between their commitment to the transportation industry"
+    "quote": "with a goal of eliminating financial barriers"
    },
    {
     "sentence": "5",
+    "quote": "meaningful alignment between their commitment to the transportation industry"
+   },
+   {
+    "sentence": "6",
     "quote": "Safe drivers and skilled diesel technicians are essential to our industry and our economy"
    }
   ],
@@ -9336,7 +9369,8 @@
    "name 'North Carolina' is not in the source"
   ],
   "ai_category": "drivers",
-  "ai_importance": 35
+  "ai_importance": 35,
+  "sum_v3": true
  },
  {
   "id": "5553e2f561",
@@ -19417,29 +19451,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "ec932bcc3c",
-  "slug": "5-biggest-trucking-industry-headlines-this-week-recalls-fuel-prices-an-ec932bcc3c",
-  "title": "5 Biggest Trucking Industry Headlines This Week: Recalls, Fuel Prices, and New Federal Rules",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "The Good Men Project",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR0xtTEFRTkR2OHkySFRraV9FLXR6OWxzSllSRUNmMUJYY2tIdmtvVU4xT1FpUGlCdkoydU9ES0pMa1NMVTBXU0ZhTVNRVVJhbFRlcjg5Nk5hNWROZHRwVVFmWmNPUDNremhiaXQ4T25qcXEwTGZZb0dRWlY0WmVfSG5uU2NTRHNzdEUtd3RhVW5ZWjhTckk5eGFaazZvOVd4blJpTUZ5enMyM1N0ZlVOX1d1Ymh2TWcxQXQ5Uy1sWkhmRmlCdUJFcU5TMWlfZw?oc=5",
-  "published": "2026-11-08T08:49:57+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "5 Biggest Trucking Industry Headlines This Week: Recalls, Fuel Prices, and New Federal Rules",
-  "status": "review",
-  "reasons": [
-   "weekly roundup of other outlets' stories; check before showing"
-  ],
-  "labels": [],
-  "kind": "roundup",
   "sum_pending": false
  },
  {
