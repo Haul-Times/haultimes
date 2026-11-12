@@ -1,5 +1,34 @@
 [
  {
+  "id": "f42671bc6b",
+  "slug": "police-seize-gh-20m-suspected-fake-gtp-fabrics-arrest-two-in-adabraka-f42671bc6b",
+  "title": "Police seize GH¢20m suspected fake GTP fabrics, arrest two in Adabraka",
+  "orig_title": "Police seize GH¢20m suspected fake GTP fabrics, arrest two in Adabraka",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Asaase Radio",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0hLVXktcmZuS3BpcTNBQUdHY25XN093LWJEUUJXalpOUzhZcFhxLUx6UWF0M21XYUd1VmRQZ1h6SmYzdk92TGJwRF9FYVliOVZidlVHdi0xN25faHB6SVlma1V6aHBKSkZPZTFFYXZRazB6YXlmWWd0Mm4yNFA5ZVc5MGpvaXVzeXJldTRvRHFVNnpWcVV5YVdyalVxYmZn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0hLVXktcmZuS3BpcTNBQUdHY25XN093LWJEUUJXalpOUzhZcFhxLUx6UWF0M21XYUd1VmRQZ1h6SmYzdk92TGJwRF9FYVliOVZidlVHdi0xN25faHB6SVlma1V6aHBKSkZPZTFFYXZRazB6YXlmWWd0Mm4yNFA5ZVc5MGpvaXVzeXJldTRvRHFVNnpWcVV5YVdyalVxYmZn",
+  "snippet": "Police seize GH¢20m suspected fake GTP fabrics, arrest two in Adabraka Asaase Radio",
+  "published": "2026-11-12T08:29:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T08:41:04.483353+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "91ef61c449",
   "slug": "police-arrest-two-seize-suspected-counterfeit-gtp-fabrics-worth-gh-20m-91ef61c449",
   "title": "Police arrest two, seize suspected counterfeit GTP fabrics worth GH¢20m in Adabraka",
@@ -4060,6 +4089,35 @@
   "ai_relevant": false
  },
  {
+  "id": "be4af1dcbc",
+  "slug": "transit-strike-over-high-fuel-prices-blocks-roads-in-chile-be4af1dcbc",
+  "title": "Transit strike over high fuel prices blocks roads in Chile",
+  "orig_title": "Transit strike over high fuel prices blocks roads in Chile",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Free Malaysia Today",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNanVKVVVRMWtSdkhvNHpZb083V3RRbzdKLWNCLWlMNEJCQWhGRndYbVRYZk5ua2FISzhWQ1FMemhZVzByQlkxZHhDZlBuRERlSUlkUWVxTmpzNks0djJxbzZ5R0FwMmJQUm5ZclFEbXAtVXBzWmd1QzRxT3pRVzgyTDZNaWxaZ0dhUG4xTlNyUW9RZ1ptcy1zS2poU1pUeXVQRGJoWFMydE02TmhVSWFOZnIwYnBzS2h4Z3c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNanVKVVVRMWtSdkhvNHpZb083V3RRbzdKLWNCLWlMNEJCQWhGRndYbVRYZk5ua2FISzhWQ1FMemhZVzByQlkxZHhDZlBuRERlSUlkUWVxTmpzNks0djJxbzZ5R0FwMmJQUm5ZclFEbXAtVXBzWmd1QzRxT3pRVzgyTDZNaWxaZ0dhUG4xTlNyUW9RZ1ptcy1zS2poU1pUeXVQRGJoWFMydE02TmhVSWFOZnIwYnBzS2h4Z3c",
+  "snippet": "Transit strike over high fuel prices blocks roads in Chile Free Malaysia Today",
+  "published": "2026-11-11T12:42:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T08:41:04.483353+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "adc4ee4942",
   "slug": "an-ocean-liner-that-was-once-the-fastest-on-the-seas-is-now-to-become-adc4ee4942",
   "title": "An ocean liner that was once the fastest on the seas is now to become the world’s largest artificial reef",
@@ -4494,6 +4552,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "57e48c4bf1"
+ },
+ {
+  "id": "e340dc808e",
+  "slug": "transport-workers-in-chile-block-highways-in-protest-over-surging-fuel-e340dc808e",
+  "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+  "orig_title": "Transport workers in Chile block highways in protest over surging fuel prices",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "BBC",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aQjJWeFZtcVEyNlNvYXVURGJLOGdlZjg2bTFyNng3VTYwUmFqaFlOSEphNXFfQk41VlRFM2pYTlJxeGtVV2V4QUJRNVg0XzFQdmZwMU9OSTNheVpQaEE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aQjJWeFZtcVEyNlNvYXVURGJLOGdlZjg2bTFyNng3VTYwUmFqaFlOSEphNXFfQk41VlRFM2pYTlJxeGtVV2V4QUJRNVg0XzFQdmZwMU9OSTNheVpQaEE",
+  "snippet": "Transport workers in Chile block highways in protest over surging fuel prices BBC",
+  "published": "2026-11-11T11:34:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T08:41:04.483353+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "non-North American source"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "3ca753f2e7",
@@ -6433,6 +6520,38 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "131cd4219e"
+ },
+ {
+  "id": "b1a58eb1b9",
+  "slug": "memphis-gas-prices-drop-32-cents-in-past-4-weeks-but-high-diesel-costs-b1a58eb1b9",
+  "title": "Memphis gas prices drop 32 cents in past 4 weeks, but high diesel costs threaten holiday shopping budgets",
+  "orig_title": "Memphis gas prices drop 32 cents in past 4 weeks, but high diesel costs threaten holiday shopping budgets",
+  "summary": "",
+  "why": "",
+  "category": "fuel",
+  "region": "",
+  "importance": 63,
+  "source": "FOX13 Memphis",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQem1mVE5vZEt1eldaN1JDVHMxa0gyWl9rREEwMU84My03X2R4QkZ6RlhTZVVVN2Q2RFVyeTNPLVFYbW9nV0QxQm15aW43Uy1vM2NRbTJzcFJRZUhua2tNRHduY2dnUWQwY3JJTkhib2JHRkFybVNnbkNFS3V0WS1WeFFWZXZ3NVJ0cm1weE56dGVWLU15a2pldUdKcU1qMU5JR2wyTHZWNGdDdnBsWXZ6TnFUX09iRUxBR2FMTXVVY0ZoUkU1OXQ1WTMydVhaOC1rbGpMeHpOLU1ORXNEMGtXZjNxMkFWaDdZY3lLeE4taw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQem1mVE5vZEt1eldaN1JDVHMxa0gyWl9rREEwMU84My03X2R4QkZ6RlhTZVVVN2Q2RFVyeTNPLVFYbW9nV0QxQm15aW43Uy1vM2NRbTJzcFJRZUhua2tNRHduY2dnUWQwY3JJTkhib2JHRkFybVNnbkNFS3V0WS1WeFFWZXZ3NVJ0cm1weE56dGVWLU15a2pldUdKcU1qMU5JR2wyTHZWNGdDdnBsWXZ6TnFUX09iRUxBR2FMTXVVY0ZoUkU1OXQ1WTMydVhaOC1rbGpMeHpOLU1ORXNEMGtXZjNxMkFWaDdZY3lLeE4taw",
+  "snippet": "Memphis gas prices drop 32 cents in past 4 weeks, but high diesel costs threaten holiday shopping budgets FOX13 Memphis",
+  "published": "2026-11-10T23:28:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T08:41:04.483353+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fox13memphis.com/memphis-gas-prices-drop-32-cents-in-past-4-weeks-but-high-diesel-costs-threaten/article_39975329-f405-40de-b9c1-af495bcc86a3.html",
+  "source_note": "paywalled: excerpt only · 30 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "6614c018d6",
@@ -9154,6 +9273,70 @@
   "source_note": "excerpt only · 19 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "ac63ac3a17",
+  "slug": "old-dominion-gtcc-partner-to-support-future-truck-drivers-diesel-techn-ac63ac3a17",
+  "title": "Old Dominion, GTCC partner to support future truck drivers, diesel technicians",
+  "orig_title": "Old Dominion, GTCC partner to support future truck drivers, diesel technicians",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 50,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVl9zMjBiRXd1eFhhQVB1Z2pkcFVpVmNzUXJ6ZE84YmZDcnlfSFdXNHdMYkVhOXROQ0dIOGRGZERzV3MySzd2SXBrUWJYcjFfRUpHNHNFRlc4MnVHOFNxREp0cEJCaUpSbXRRTzJNR3haUktsY0NPTzVpdVhyaE5CWGVmSnVBMWxEaWZBSWlBVnRzRTRGeVRsTDJZcmxDLXR6SG84c1RaMTZvSjNudmV4U243bFVhdXh5UWJpWmkxLVBTbFVYUnRTNlEzUGpfTVJvZV9aTnZveU4?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVl9zMjBiRXd1eFhhQVB1Z2pkcFVpVmNzUXJ6ZE84YmZDcnlfSFdXNHdMYkVhOXROQ0dIOGRGZERzV3MySzd2SXBrUWJYcjFfRUpHNHNFRlc4MnVHOFNxREp0cEJCaUpSbXRRTzJNR3haUktsY0NPTzVpdVhyaE5CWGVmSnVBMWxEaWZBSWlBVnRzRTRGeVRsTDJZcmxDLXR6SG84c1RaMTZvSjNudmV4U243bFVhdXh5UWJpWmkxLVBTbFVYUnRTNlEzUGpfTVJvZV9aTnZveU4",
+  "snippet": "Old Dominion, GTCC partner to support future truck drivers, diesel technicians TheTrucker.com",
+  "published": "2026-11-10T15:30:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T08:41:04.483353+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/truck-driving-jobs-news/old-dominion-gtcc-partner-to-support-future-truck-drivers-diesel-technicians",
+  "source_note": "ok · 359 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "eaa9547e11790e4e",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T08:41:04.483353+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Funded by Old Dominion Freight Line"
+   },
+   {
+    "sentence": "2",
+    "quote": "the endowed fund will award $1,000 scholarships each academic year to four eligible students"
+   },
+   {
+    "sentence": "3",
+    "quote": "with the remaining two scholarships open to all qualified students enrolled in the respective programs"
+   },
+   {
+    "sentence": "4",
+    "quote": "such meaningful alignment between their commitment to the transportation industry"
+   },
+   {
+    "sentence": "5",
+    "quote": "Safe drivers and skilled diesel technicians are essential to our industry and our economy"
+   }
+  ],
+  "sum_problems": [
+   "name 'North Carolina' is not in the source"
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 35
  },
  {
   "id": "5553e2f561",
@@ -19257,29 +19440,6 @@
   ],
   "labels": [],
   "kind": "roundup",
-  "sum_pending": false
- },
- {
-  "id": "2f2072d5cb",
-  "slug": "tesla-semi-gets-boost-from-6-diesel-morgan-stanley-says-earnings-poten-2f2072d5cb",
-  "title": "Tesla Semi Gets Boost From $6 Diesel; Morgan Stanley Says Earnings Potential 'Underappreciated'",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Investor's Business Daily",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2ZqUUpucmdCa0pRemNyMzRvWWc0UExTbklkbkpzN1dIRDI1bnh2OHI2dzNvVDJlWHVsN2hfeDBOZWQxdUtoV2N2STAxbWVEWHNZU1BtV2VrQWxXMTdaU0FKc29GOWNPdmhCOWl0bDU1WmZrNURiTEQ0WlVNX1ZxTDg1MlU2UEJMb2ZTMG5MYTMzNHNa?oc=5",
-  "published": "2026-11-08T08:35:17+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Tesla Semi Gets Boost From $6 Diesel; Morgan Stanley Says Earnings Potential 'Underappreciated'",
-  "status": "rejected",
-  "reasons": [
-   "stock commentary, no trucking development"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
