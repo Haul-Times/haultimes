@@ -1,5 +1,34 @@
 [
  {
+  "id": "58632c0c81",
+  "slug": "chile-s-kast-struggles-to-end-nationwide-truckers-strike-58632c0c81",
+  "title": "Chile's Kast struggles to end nationwide truckers' strike",
+  "orig_title": "Chile's Kast struggles to end nationwide truckers' strike",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "upi",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSDNyZWxsdXRwR1hxV3BtOTEtTENDbFJ5ekFYUVZ0Q1hHXzFoMkdrZHA4c2VEVmNmamlHSlVmaXJjb015cmRXZ1o2d21lcDVER2c2UnUwSXFwR0N3aTAxQ0JCdWstV2pqT0F3bnJuV3lfMzZkWVVWQ3Y1TVhyVXdCcHhyMVh1T0RURUtrZEljVy1SV2Y3X09mSWhYOUJMTGhPVU4xM3I1RF_SAa4BQVVfeXFMTVlsZ2ZDZG01T2t6LWR0UVFiM3VlZnYxQzJ0MjRoWmRqbGNwNEo3bms5N0xkRmVoeVF6bGs4LU5MZ05SRnpSM0FoMWZNdHhYZEcyU2Z2VHlWMWc1UFBwUUlVRFpWNkEwMDFmMDdUMlNDdkp0b1N5bmtVX2JsYTZPT0czdmZDZXNRNkRTczdkZFNmcDlpUTYtV2pTYVJSS2Jvc3lMd2NiVU5CbkFrRTNR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSDNyZWxsdXRwR1hxV3BtOTEtTENDbFJ5ekFYUVZ0Q1hHXzFoMkdrZHA4c2VEVmNmamlHSlVmaXJjb015cmRXZ1o2d21lcDVER2c2UnUwSXFwR0N3aTAxQ0JCdWstV2pqT0F3bnJuV3lfMzZkWVVWQ3Y1TVhyVXdCcHhyMVh1T0RURUtrZEljVy1SV2Y3X09mSWhYOUJMTGhPVU4xM3I1RF_SAa4BQVVfeXFMTVlsZ2ZDZG01T2t6LWR0UVFiM3VlZnYxQzJ0MjRoWmRqbGNwNEo3bms5N0xkRmVoeVF6bGs4LU5MZ05SRnpSM0FoMWZNdHhYZEcyU2Z2VHlWMWc1UFBwUUlVRFpWNkEwMDFmMDdUMlNDdkp0b1N5bmtVX2JsYTZPT0czdmZDZXNRNkRTczdkZFNmcDlpUTYtV2pTYVJSS2Jvc3lMd2NiVU5CbkFrRTNR",
+  "snippet": "Chile's Kast struggles to end nationwide truckers' strike upi",
+  "published": "2026-11-12T17:48:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T18:01:04.157928+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b28b70caed",
   "slug": "truckers-leverage-cost-pressures-to-drive-rate-recovery-b28b70caed",
   "title": "Truckers leverage cost pressures to drive rate recovery",
@@ -20875,29 +20904,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "d3bee265c6",
-  "slug": "retread-tires-market-forecast-to-expand-through-2035-driven-by-fleet-c-d3bee265c6",
-  "title": "Retread Tires Market Forecast to Expand Through 2035, Driven by Fleet Cost Pressures and Circular Economy Mandates",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUzNfYWx3YkM2VEpRX1VIay1MSHktdmZKWFZyLW81ZU9ROXpoSG10VVFHLUdsRGZFdEhuNmZfQ2JnT2tEMXR0S1dWdHBhaDZULVk2bTZ3b2F3TWJ2c0lOcGNnVC1hdXFBOFpPVlBGSlRuN2pFZ3U0NVQ4Q05UeEhDcEhCNFlPb2E5NHA4eUpQZVdrTTFzeHA0YWZvNnU0SWV5NjlPWDQ2U1VkNGc5TkJIdHJTeWxXeW9MdXhMcjNiam95SFlEeTREbjZ5SjF0bUY5cG9uaW1PN2ZZdHM?oc=5",
-  "published": "2026-11-08T18:01:04+00:00",
-  "image": "",
-  "ai": false,
-  "orig_title": "Retread Tires Market Forecast to Expand Through 2035, Driven by Fleet Cost Pressures and Circular Economy Mandates",
-  "status": "rejected",
-  "reasons": [
-   "market-research sales page"
   ],
   "labels": [],
   "kind": "rejected",

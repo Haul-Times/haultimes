@@ -1,64 +1,56 @@
 {
  "usda_reefer": {
-  "week_ending": "2026-11-03",
+  "week_ending": "2026-11-10",
   "origins": [
    {
-    "origin": "NORTH, CENTRAL AND SOUTH FLORIDA",
-    "commodity": "OKRA, TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES",
-    "region": "FLORIDA",
+    "origin": "GEORGIA",
+    "commodity": "TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES",
+    "region": "SOUTHEAST",
     "states": [
-     "FL"
+     "GA"
     ],
     "mexico": false,
     "availability": 4,
     "rates": [
      {
       "destination": "Atlanta",
-      "distance": 440.0,
+      "distance": 420.0,
       "low": 1000.0,
       "high": 1200.0,
       "mid": 1100.0,
-      "rpm": 2.5
-     },
-     {
-      "destination": "Baltimore",
-      "distance": 890.0,
-      "low": 2600.0,
-      "high": 2800.0,
-      "mid": 2700.0,
-      "rpm": 3.03
+      "rpm": 2.62
      },
      {
       "destination": "Boston",
-      "distance": 1280.0,
-      "low": 4300.0,
-      "high": 4500.0,
-      "mid": 4400.0,
-      "rpm": 3.44
+      "distance": 1300.0,
+      "low": 4150.0,
+      "high": 4350.0,
+      "mid": 4250.0,
+      "rpm": 3.27
      },
      {
       "destination": "Chicago",
-      "distance": 1160.0,
+      "distance": 1100.0,
       "low": 2150.0,
       "high": 2350.0,
       "mid": 2250.0,
-      "rpm": 1.94
+      "rpm": 2.05
      },
      {
       "destination": "New York",
-      "distance": 1070.0,
-      "low": 3450.0,
-      "high": 3650.0,
-      "mid": 3550.0,
-      "rpm": 3.32
+      "distance": 1090.0,
+      "low": 3250.0,
+      "high": 3450.0,
+      "mid": 3350.0,
+      "rpm": 3.07
      },
      {
       "destination": "Philadelphia",
-      "distance": 990.0,
-      "low": 2900.0,
-      "high": 3100.0,
-      "mid": 3000.0,
-      "rpm": 3.03
+      "distance": 1000.0,
+      "low": 2700.0,
+      "high": 2900.0,
+      "mid": 2800.0,
+      "rpm": 2.8
      }
     ]
    },
@@ -75,40 +67,40 @@
      {
       "destination": "Atlanta",
       "distance": 2100.0,
-      "low": 8300.0,
-      "high": 9800.0,
-      "mid": 9100.0,
-      "rpm": 4.33
+      "low": 8500.0,
+      "high": 9900.0,
+      "mid": 9300.0,
+      "rpm": 4.43
      },
      {
       "destination": "Boston",
       "distance": null,
       "low": 10400.0,
-      "high": 11800.0,
-      "mid": 11250.0
+      "high": 11700.0,
+      "mid": 11050.0
      },
      {
       "destination": "Dallas",
       "distance": 1300.0,
-      "low": 5300.0,
-      "high": 6600.0,
-      "mid": 6150.0,
-      "rpm": 4.73
+      "low": 5800.0,
+      "high": 6900.0,
+      "mid": 6500.0,
+      "rpm": 5.0
      },
      {
       "destination": "Miami",
       "distance": 2600.0,
-      "low": 9400.0,
-      "high": 10500.0,
-      "mid": 10000.0,
-      "rpm": 3.85
+      "low": 9700.0,
+      "high": 11100.0,
+      "mid": 10350.0,
+      "rpm": 3.98
      },
      {
       "destination": "Seattle",
       "distance": null,
-      "low": 3500.0,
-      "high": 4500.0,
-      "mid": 3950.0
+      "low": 3600.0,
+      "high": 4600.0,
+      "mid": 4050.0
      }
     ]
    },
@@ -127,48 +119,48 @@
       "distance": 2550.0,
       "low": 9500.0,
       "high": 10700.0,
-      "mid": 10200.0,
-      "rpm": 4.0
+      "mid": 10000.0,
+      "rpm": 3.92
      },
      {
       "destination": "Baltimore",
       "distance": 2650.0,
-      "low": 10600.0,
-      "high": 12000.0,
-      "mid": 11000.0,
-      "rpm": 4.15
+      "low": 10400.0,
+      "high": 11500.0,
+      "mid": 10800.0,
+      "rpm": 4.08
      },
      {
       "destination": "Boston",
       "distance": 2950.0,
       "low": 10700.0,
-      "high": 13500.0,
-      "mid": 12250.0,
-      "rpm": 4.15
+      "high": 12600.0,
+      "mid": 12150.0,
+      "rpm": 4.12
      },
      {
       "destination": "Chicago",
       "distance": 2000.0,
-      "low": 7200.0,
-      "high": 8400.0,
-      "mid": 7800.0,
-      "rpm": 3.9
+      "low": 7400.0,
+      "high": 8800.0,
+      "mid": 8000.0,
+      "rpm": 4.0
      },
      {
       "destination": "Dallas",
       "distance": 2050.0,
-      "low": 8000.0,
-      "high": 9300.0,
-      "mid": 8800.0,
-      "rpm": 4.29
+      "low": 7900.0,
+      "high": 9200.0,
+      "mid": 8650.0,
+      "rpm": 4.22
      },
      {
       "destination": "Los Angeles",
       "distance": 1250.0,
-      "low": 3600.0,
-      "high": 4500.0,
-      "mid": 4050.0,
-      "rpm": 3.24
+      "low": 3500.0,
+      "high": 4400.0,
+      "mid": 3950.0,
+      "rpm": 3.16
      },
      {
       "destination": "Miami",
@@ -181,18 +173,18 @@
      {
       "destination": "New York",
       "distance": 2750.0,
-      "low": 10900.0,
-      "high": 13000.0,
-      "mid": 11500.0,
-      "rpm": 4.18
+      "low": 10600.0,
+      "high": 12300.0,
+      "mid": 11300.0,
+      "rpm": 4.11
      },
      {
       "destination": "Philadelphia",
       "distance": 2700.0,
-      "low": 10500.0,
-      "high": 12500.0,
-      "mid": 11350.0,
-      "rpm": 4.2
+      "low": 10100.0,
+      "high": 13500.0,
+      "mid": 10900.0,
+      "rpm": 4.04
      },
      {
       "destination": "Seattle",
@@ -201,58 +193,6 @@
       "high": 1500.0,
       "mid": 1325.0,
       "rpm": 9.46
-     }
-    ]
-   },
-   {
-    "origin": "GEORGIA",
-    "commodity": "TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES",
-    "region": "SOUTHEAST",
-    "states": [
-     "GA"
-    ],
-    "mexico": false,
-    "availability": 3,
-    "rates": [
-     {
-      "destination": "Atlanta",
-      "distance": 420.0,
-      "low": 1200.0,
-      "high": 1400.0,
-      "mid": 1300.0,
-      "rpm": 3.1
-     },
-     {
-      "destination": "Boston",
-      "distance": 1300.0,
-      "low": 3750.0,
-      "high": 3950.0,
-      "mid": 3850.0,
-      "rpm": 2.96
-     },
-     {
-      "destination": "Chicago",
-      "distance": 1100.0,
-      "low": 2400.0,
-      "high": 2600.0,
-      "mid": 2500.0,
-      "rpm": 2.27
-     },
-     {
-      "destination": "New York",
-      "distance": 1090.0,
-      "low": 3200.0,
-      "high": 3400.0,
-      "mid": 3300.0,
-      "rpm": 3.03
-     },
-     {
-      "destination": "Philadelphia",
-      "distance": 1000.0,
-      "low": 2600.0,
-      "high": 2800.0,
-      "mid": 2700.0,
-      "rpm": 2.7
      }
     ]
    },
@@ -269,10 +209,10 @@
      {
       "destination": "Baltimore",
       "distance": 900.0,
-      "low": 2400.0,
-      "high": 2600.0,
-      "mid": 2500.0,
-      "rpm": 2.78
+      "low": 2550.0,
+      "high": 2750.0,
+      "mid": 2650.0,
+      "rpm": 2.94
      }
     ]
    },
@@ -290,146 +230,146 @@
      {
       "destination": "Atlanta",
       "distance": 2100.0,
-      "low": 8250.0,
-      "high": 8550.0,
-      "mid": 8400.0,
-      "rpm": 4.0
+      "low": 9375.0,
+      "high": 10025.0,
+      "mid": 9700.0,
+      "rpm": 4.62
      },
      {
       "destination": "Baltimore",
       "distance": 2600.0,
-      "low": 11500.0,
-      "high": 12175.0,
-      "mid": 11837.5,
-      "rpm": 4.55
+      "low": 11020.0,
+      "high": 11795.0,
+      "mid": 11407.5,
+      "rpm": 4.39
      },
      {
       "destination": "Boston",
       "distance": 2900.0,
-      "low": 11265.0,
-      "high": 11680.0,
-      "mid": 11472.5,
-      "rpm": 3.96
+      "low": 11780.0,
+      "high": 12600.0,
+      "mid": 12190.0,
+      "rpm": 4.2
      },
      {
       "destination": "Chicago",
       "distance": 2030.0,
-      "low": 7310.0,
-      "high": 7740.0,
-      "mid": 7525.0,
-      "rpm": 3.71
+      "low": 8155.0,
+      "high": 8725.0,
+      "mid": 8440.0,
+      "rpm": 4.16
      },
      {
       "destination": "Dallas",
       "distance": 1300.0,
-      "low": 5920.0,
-      "high": 6330.0,
-      "mid": 6125.0,
-      "rpm": 4.71
+      "low": 6230.0,
+      "high": 6600.0,
+      "mid": 6415.0,
+      "rpm": 4.93
      },
      {
       "destination": "Miami",
       "distance": 2600.0,
-      "low": 10560.0,
-      "high": 11185.0,
-      "mid": 10872.5,
-      "rpm": 4.18
+      "low": 11300.0,
+      "high": 12095.0,
+      "mid": 11697.5,
+      "rpm": 4.5
      },
      {
       "destination": "New York",
       "distance": 2700.0,
-      "low": 11725.0,
-      "high": 11835.0,
-      "mid": 11780.0,
-      "rpm": 4.36
+      "low": 12685.0,
+      "high": 13460.0,
+      "mid": 13072.5,
+      "rpm": 4.84
      },
      {
       "destination": "Philadelphia",
       "distance": 2650.0,
-      "low": 11300.0,
-      "high": 11835.0,
-      "mid": 11567.5,
-      "rpm": 4.37
+      "low": 11455.0,
+      "high": 11905.0,
+      "mid": 11680.0,
+      "rpm": 4.41
      },
      {
       "destination": "Seattle",
       "distance": 1300.0,
-      "low": 6915.0,
-      "high": 7245.0,
-      "mid": 7080.0,
-      "rpm": 5.45
+      "low": 6715.0,
+      "high": 6980.0,
+      "mid": 6847.5,
+      "rpm": 5.27
      },
      {
       "destination": "Atlanta",
       "distance": 2100.0,
-      "low": 8250.0,
-      "high": 8550.0,
-      "mid": 8400.0,
-      "rpm": 4.0
+      "low": 9375.0,
+      "high": 10025.0,
+      "mid": 9700.0,
+      "rpm": 4.62
      },
      {
       "destination": "Baltimore",
       "distance": 2600.0,
-      "low": 11500.0,
-      "high": 12175.0,
-      "mid": 11837.5,
-      "rpm": 4.55
+      "low": 11020.0,
+      "high": 11795.0,
+      "mid": 11407.5,
+      "rpm": 4.39
      },
      {
       "destination": "Boston",
       "distance": 2900.0,
-      "low": 11265.0,
-      "high": 11680.0,
-      "mid": 11472.5,
-      "rpm": 3.96
+      "low": 11780.0,
+      "high": 12600.0,
+      "mid": 12190.0,
+      "rpm": 4.2
      },
      {
       "destination": "Chicago",
       "distance": 2030.0,
-      "low": 7310.0,
-      "high": 7740.0,
-      "mid": 7525.0,
-      "rpm": 3.71
+      "low": 8155.0,
+      "high": 8725.0,
+      "mid": 8440.0,
+      "rpm": 4.16
      },
      {
       "destination": "Dallas",
       "distance": 1300.0,
-      "low": 5920.0,
-      "high": 6330.0,
-      "mid": 6125.0,
-      "rpm": 4.71
+      "low": 6230.0,
+      "high": 6600.0,
+      "mid": 6415.0,
+      "rpm": 4.93
      },
      {
       "destination": "Miami",
       "distance": 2600.0,
-      "low": 10560.0,
-      "high": 11185.0,
-      "mid": 10872.5,
-      "rpm": 4.18
+      "low": 11300.0,
+      "high": 12095.0,
+      "mid": 11697.5,
+      "rpm": 4.5
      },
      {
       "destination": "New York",
       "distance": 2700.0,
-      "low": 11725.0,
-      "high": 11835.0,
-      "mid": 11780.0,
-      "rpm": 4.36
+      "low": 12685.0,
+      "high": 13460.0,
+      "mid": 13072.5,
+      "rpm": 4.84
      },
      {
       "destination": "Philadelphia",
       "distance": 2650.0,
-      "low": 11300.0,
-      "high": 11835.0,
-      "mid": 11567.5,
-      "rpm": 4.37
+      "low": 11455.0,
+      "high": 11905.0,
+      "mid": 11680.0,
+      "rpm": 4.41
      },
      {
       "destination": "Seattle",
       "distance": 1300.0,
-      "low": 6915.0,
-      "high": 7245.0,
-      "mid": 7080.0,
-      "rpm": 5.45
+      "low": 6715.0,
+      "high": 6980.0,
+      "mid": 6847.5,
+      "rpm": 5.27
      }
     ]
    },
@@ -446,40 +386,40 @@
      {
       "destination": "Baltimore",
       "distance": 2660.0,
-      "low": 10365.0,
-      "high": 10745.0,
-      "mid": 10555.0,
-      "rpm": 3.97
+      "low": 10720.0,
+      "high": 11350.0,
+      "mid": 11035.0,
+      "rpm": 4.15
      },
      {
       "destination": "Chicago",
       "distance": 2030.0,
-      "low": 7380.0,
-      "high": 7900.0,
-      "mid": 7640.0,
-      "rpm": 3.76
+      "low": 8155.0,
+      "high": 8545.0,
+      "mid": 8350.0,
+      "rpm": 4.11
      },
      {
       "destination": "New York",
       "distance": 2800.0,
-      "low": 11770.0,
-      "high": 12455.0,
-      "mid": 12112.5,
-      "rpm": 4.33
+      "low": 12365.0,
+      "high": 12955.0,
+      "mid": 12660.0,
+      "rpm": 4.52
      },
      {
       "destination": "Philadelphia",
       "distance": 2700.0,
-      "low": 10300.0,
-      "high": 10900.0,
-      "mid": 10600.0,
-      "rpm": 3.93
+      "low": 11365.0,
+      "high": 11795.0,
+      "mid": 11580.0,
+      "rpm": 4.29
      }
     ]
    },
    {
     "origin": "MEXICO CROSSINGS THROUGH NOGALES, ARIZONA",
-    "commodity": "CANTALOUPES, CUCUMBERS, EGGPLANT, HONEYDEWS, GREY SQUASH, YELLOW SQUASH STRAIGHTNECK, ZUCCHINI SQUASH, WATERMELONS",
+    "commodity": "ROUND BEANS GREEN, CANTALOUPES, CUCUMBERS, EGGPLANT, HONEYDEWS, ACORN SQUASH, GREY SQUASH, KABOCHA SQUASH, YELLOW SQUASH STRAIGHTNECK, ZUCCHINI SQUASH, WATERMELONS",
     "region": "MEXICO-ARIZONA",
     "states": [
      "AZ"
@@ -490,66 +430,138 @@
      {
       "destination": "Atlanta",
       "distance": 1800.0,
-      "low": 6300.0,
-      "high": 6600.0,
-      "mid": 6450.0,
-      "rpm": 3.58
+      "low": 6400.0,
+      "high": 6700.0,
+      "mid": 6550.0,
+      "rpm": 3.64
      },
      {
       "destination": "Baltimore",
       "distance": 2350.0,
-      "low": 8100.0,
-      "high": 8400.0,
-      "mid": 8250.0,
-      "rpm": 3.51
+      "low": 8800.0,
+      "high": 9000.0,
+      "mid": 8900.0,
+      "rpm": 3.79
      },
      {
       "destination": "Boston",
       "distance": 2700.0,
-      "low": 9100.0,
-      "high": 9400.0,
-      "mid": 9250.0,
-      "rpm": 3.43
+      "low": 9400.0,
+      "high": 9600.0,
+      "mid": 9500.0,
+      "rpm": 3.52
      },
      {
       "destination": "Chicago",
       "distance": 1800.0,
       "low": 5000.0,
-      "high": 6000.0,
-      "mid": 5500.0,
-      "rpm": 3.06
+      "high": 6400.0,
+      "mid": 6100.0,
+      "rpm": 3.39
      },
      {
       "destination": "Dallas",
       "distance": 980.0,
-      "low": 3300.0,
-      "high": 3500.0,
-      "mid": 3400.0,
-      "rpm": 3.47
+      "low": 3800.0,
+      "high": 4000.0,
+      "mid": 3900.0,
+      "rpm": 3.98
      },
      {
       "destination": "Los Angeles",
       "distance": 560.0,
-      "low": 1600.0,
-      "high": 1800.0,
-      "mid": 1700.0,
-      "rpm": 3.04
+      "low": 1800.0,
+      "high": 2000.0,
+      "mid": 1900.0,
+      "rpm": 3.39
      },
      {
       "destination": "New York",
       "distance": 2500.0,
-      "low": 8600.0,
-      "high": 8900.0,
-      "mid": 8750.0,
-      "rpm": 3.5
+      "low": 9200.0,
+      "high": 9400.0,
+      "mid": 9300.0,
+      "rpm": 3.72
      },
      {
       "destination": "Philadelphia",
       "distance": 2400.0,
-      "low": 8300.0,
-      "high": 8600.0,
-      "mid": 8450.0,
-      "rpm": 3.52
+      "low": 8900.0,
+      "high": 9200.0,
+      "mid": 9050.0,
+      "rpm": 3.77
+     }
+    ]
+   },
+   {
+    "origin": "NORTH, CENTRAL AND SOUTH FLORIDA",
+    "commodity": "ROUND BEANS GREEN, CUCUMBERS, EGGPLANT, OKRA, BELL PEPPERS, OTHER PEPPERS, YELLOW SQUASH CROOKNECK/STRAIGHTNECK, ZUCCHINI SQUASH, TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES",
+    "region": "FLORIDA",
+    "states": [
+     "FL"
+    ],
+    "mexico": false,
+    "availability": 3,
+    "rates": [
+     {
+      "destination": "Atlanta",
+      "distance": 440.0,
+      "low": 1000.0,
+      "high": 1200.0,
+      "mid": 1100.0,
+      "rpm": 2.5
+     },
+     {
+      "destination": "Baltimore",
+      "distance": 890.0,
+      "low": 2200.0,
+      "high": 2400.0,
+      "mid": 2300.0,
+      "rpm": 2.58
+     },
+     {
+      "destination": "Boston",
+      "distance": 1280.0,
+      "low": 3750.0,
+      "high": 3950.0,
+      "mid": 3850.0,
+      "rpm": 3.01
+     },
+     {
+      "destination": "Chicago",
+      "distance": 1160.0,
+      "low": 2200.0,
+      "high": 2400.0,
+      "mid": 2300.0,
+      "rpm": 1.98
+     },
+     {
+      "destination": "New York",
+      "distance": 1070.0,
+      "low": 3100.0,
+      "high": 3350.0,
+      "mid": 3225.0,
+      "rpm": 3.01
+     }
+    ]
+   },
+   {
+    "origin": "NORTH, CENTRAL AND SOUTH FLORIDA",
+    "commodity": "ROUND BEANS GREEN, EGGPLANT, OKRA, BELL PEPPERS, OTHER PEPPERS, YELLOW SQUASH CROOKNECK/STRAIGHTNECK, ZUCCHINI SQUASH, TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES",
+    "region": "FLORIDA",
+    "states": [
+     "FL"
+    ],
+    "mexico": false,
+    "availability": 3,
+    "rates": [
+     {
+      "destination": "Philadelphia",
+      "distance": 990.0,
+      "low": 2400.0,
+      "high": 2600.0,
+      "mid": 2500.0,
+      "rpm": 2.53
      }
     ]
    },
@@ -566,18 +578,18 @@
      {
       "destination": "Baltimore",
       "distance": 2700.0,
-      "low": 11100.0,
-      "high": 11870.0,
-      "mid": 11485.0,
-      "rpm": 4.25
+      "low": 11300.0,
+      "high": 11960.0,
+      "mid": 11630.0,
+      "rpm": 4.31
      },
      {
       "destination": "Philadelphia",
       "distance": 2770.0,
-      "low": 10700.0,
-      "high": 11200.0,
-      "mid": 10950.0,
-      "rpm": 3.95
+      "low": 11975.0,
+      "high": 12680.0,
+      "mid": 12327.5,
+      "rpm": 4.45
      }
     ]
    },
@@ -594,18 +606,18 @@
      {
       "destination": "Baltimore",
       "distance": 2900.0,
-      "low": 10700.0,
-      "high": 11300.0,
-      "mid": 11000.0,
-      "rpm": 3.79
+      "low": 11150.0,
+      "high": 11800.0,
+      "mid": 11475.0,
+      "rpm": 3.96
      },
      {
       "destination": "Chicago",
       "distance": 2220.0,
-      "low": 6520.0,
-      "high": 6975.0,
-      "mid": 6747.5,
-      "rpm": 3.04
+      "low": 7385.0,
+      "high": 7900.0,
+      "mid": 7642.5,
+      "rpm": 3.44
      },
      {
       "destination": "New York",
@@ -619,9 +631,9 @@
       "destination": "Philadelphia",
       "distance": 2960.0,
       "low": 10800.0,
-      "high": 11400.0,
-      "mid": 11100.0,
-      "rpm": 3.75
+      "high": 11600.0,
+      "mid": 11200.0,
+      "rpm": 3.78
      }
     ]
    },
@@ -638,74 +650,74 @@
      {
       "destination": "Atlanta",
       "distance": 2350.0,
-      "low": 8735.0,
-      "high": 9345.0,
-      "mid": 9040.0,
-      "rpm": 3.85
+      "low": 9445.0,
+      "high": 10100.0,
+      "mid": 9772.5,
+      "rpm": 4.16
      },
      {
       "destination": "Baltimore",
       "distance": 2800.0,
-      "low": 10520.0,
-      "high": 11250.0,
-      "mid": 10885.0,
-      "rpm": 3.89
+      "low": 11185.0,
+      "high": 11965.0,
+      "mid": 11575.0,
+      "rpm": 4.13
      },
      {
       "destination": "Boston",
       "distance": 3150.0,
-      "low": 11870.0,
-      "high": 12305.0,
-      "mid": 12087.5,
-      "rpm": 3.84
+      "low": 11645.0,
+      "high": 12200.0,
+      "mid": 11922.5,
+      "rpm": 3.78
      },
      {
       "destination": "Chicago",
       "distance": 2170.0,
-      "low": 7740.0,
-      "high": 8195.0,
-      "mid": 7967.5,
-      "rpm": 3.67
+      "low": 8320.0,
+      "high": 8800.0,
+      "mid": 8560.0,
+      "rpm": 3.94
      },
      {
       "destination": "Dallas",
       "distance": 1600.0,
-      "low": 6510.0,
-      "high": 6890.0,
-      "mid": 6700.0,
-      "rpm": 4.19
+      "low": 7125.0,
+      "high": 7385.0,
+      "mid": 7255.0,
+      "rpm": 4.53
      },
      {
       "destination": "Miami",
       "distance": 2900.0,
-      "low": 11865.0,
-      "high": 12690.0,
-      "mid": 12277.5,
-      "rpm": 4.23
+      "low": 11710.0,
+      "high": 12525.0,
+      "mid": 12117.5,
+      "rpm": 4.18
      },
      {
       "destination": "New York",
       "distance": 2940.0,
-      "low": 12065.0,
-      "high": 12510.0,
-      "mid": 12287.5,
-      "rpm": 4.18
+      "low": 13000.0,
+      "high": 13625.0,
+      "mid": 13312.5,
+      "rpm": 4.53
      },
      {
       "destination": "Philadelphia",
       "distance": 2870.0,
-      "low": 11035.0,
-      "high": 11805.0,
-      "mid": 11420.0,
-      "rpm": 3.98
+      "low": 11605.0,
+      "high": 12410.0,
+      "mid": 12007.5,
+      "rpm": 4.18
      },
      {
       "destination": "Seattle",
       "distance": 1050.0,
-      "low": 5165.0,
-      "high": 5470.0,
-      "mid": 5317.5,
-      "rpm": 5.06
+      "low": 5010.0,
+      "high": 5305.0,
+      "mid": 5157.5,
+      "rpm": 4.91
      }
     ]
    },
@@ -722,32 +734,32 @@
      {
       "destination": "Baltimore",
       "distance": 2600.0,
-      "low": 10490.909091,
-      "high": 11330.227273,
-      "mid": 10937.840909,
-      "rpm": 4.21
+      "low": 10918.409091,
+      "high": 11657.045455,
+      "mid": 11287.727273,
+      "rpm": 4.34
      },
      {
       "destination": "Chicago",
       "distance": null,
-      "low": 8153.8636364,
-      "high": 8676.5909091,
-      "mid": 8435.6818182
+      "low": 8283.4090909,
+      "high": 8705.4545455,
+      "mid": 8494.4318182
      },
      {
       "destination": "New York",
       "distance": null,
-      "low": 10934.772727,
-      "high": 11845.227273,
-      "mid": 11437.727273
+      "low": 10907.5,
+      "high": 11736.136364,
+      "mid": 11328.636364
      },
      {
       "destination": "Philadelphia",
       "distance": 2650.0,
       "low": 10404.545455,
-      "high": 11013.636364,
-      "mid": 10722.727273,
-      "rpm": 4.05
+      "high": 11186.363636,
+      "mid": 10809.090909,
+      "rpm": 4.08
      }
     ]
    },
@@ -836,9 +848,153 @@
     ]
    }
   ],
-  "retrieved_at": "2026-11-12T12:01:21.684222+00:00",
-  "history": {},
-  "last_attempt_at": "2026-11-12T12:01:21.684222+00:00",
+  "retrieved_at": "2026-11-12T18:01:23.200403+00:00",
+  "history": {
+   "2026-11-03": {
+    "NORTH, CENTRAL AND SOUTH FLORIDA|OKRA, TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES": {
+     "availability": 4,
+     "mid": {
+      "Atlanta": 1100.0,
+      "Baltimore": 2700.0,
+      "Boston": 4400.0,
+      "Chicago": 2250.0,
+      "New York": 3550.0,
+      "Philadelphia": 3000.0
+     }
+    },
+    "SOUTH AND CENTRAL DISTRICT CALIFORNIA|GRAPEFRUIT, LEMONS, ORANGES": {
+     "availability": 4,
+     "mid": {
+      "Atlanta": 9100.0,
+      "Boston": 11250.0,
+      "Dallas": 6150.0,
+      "Miami": 10000.0,
+      "Seattle": 3950.0
+     }
+    },
+    "YAKIMA VALLEY AND WENATCHEE DISTRICT, WASHINGTON|APPLES, PEARS": {
+     "availability": 4,
+     "mid": {
+      "Atlanta": 10200.0,
+      "Baltimore": 11000.0,
+      "Boston": 12250.0,
+      "Chicago": 7800.0,
+      "Dallas": 8800.0,
+      "Los Angeles": 4050.0,
+      "Miami": 13350.0,
+      "New York": 11500.0,
+      "Philadelphia": 11350.0,
+      "Seattle": 1325.0
+     }
+    },
+    "GEORGIA|TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES": {
+     "availability": 3,
+     "mid": {
+      "Atlanta": 1300.0,
+      "Boston": 3850.0,
+      "Chicago": 2500.0,
+      "New York": 3300.0,
+      "Philadelphia": 2700.0
+     }
+    },
+    "GEORGIA|OKRA, TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES": {
+     "availability": 3,
+     "mid": {
+      "Baltimore": 2500.0
+     }
+    },
+    "IMPERIAL, COACHELLA VALLEYS CA, CENTRAL AND WESTERN AZ, MEXICO CROSSINGS THROUGH CALEXICO AND SAN LUIS|ANISE, ARTICHOKES, BEETS, BLACKBERRIES, BLUEBERRIES, BOK CHOY, BROCCOLI, BRUSSELS SPROUTS, CABBAGE, CAULIFLOWER, CELERY, CHINESE CABBAGE, CILANTRO, KALE GREENS, GREEN LETTUCE LEAF, ICEBERG LETTUCE, RED LETTUCE LEAF, ROMAINE LETTUCE, PARSLEY, RASPBERRIES, SPINACH": {
+     "availability": 3,
+     "mid": {
+      "Atlanta": 8400.0,
+      "Baltimore": 11837.5,
+      "Boston": 11472.5,
+      "Chicago": 7525.0,
+      "Dallas": 6125.0,
+      "Miami": 10872.5,
+      "New York": 11780.0,
+      "Philadelphia": 11567.5,
+      "Seattle": 7080.0
+     }
+    },
+    "KERN DISTRICT CALIFORNIA|CARROTS": {
+     "availability": 3,
+     "mid": {
+      "Baltimore": 10555.0,
+      "Chicago": 7640.0,
+      "New York": 12112.5,
+      "Philadelphia": 10600.0
+     }
+    },
+    "MEXICO CROSSINGS THROUGH NOGALES, ARIZONA|CANTALOUPES, CUCUMBERS, EGGPLANT, HONEYDEWS, GREY SQUASH, YELLOW SQUASH STRAIGHTNECK, ZUCCHINI SQUASH, WATERMELONS": {
+     "availability": 3,
+     "mid": {
+      "Atlanta": 6450.0,
+      "Baltimore": 8250.0,
+      "Boston": 9250.0,
+      "Chicago": 5500.0,
+      "Dallas": 3400.0,
+      "Los Angeles": 1700.0,
+      "New York": 8750.0,
+      "Philadelphia": 8450.0
+     }
+    },
+    "OXNARD DISTRICT CALIFORNIA|CELERY, CILANTRO, KALE GREENS, PARSLEY, STRAWBERRIES": {
+     "availability": 3,
+     "mid": {
+      "Baltimore": 11485.0,
+      "Philadelphia": 10950.0
+     }
+    },
+    "SALINAS-WATSONVILLE CALIFORNIA|BROCCOLI, CAULIFLOWER, BOSTON LETTUCE, GREEN LETTUCE LEAF, ICEBERG LETTUCE, RED LETTUCE LEAF, ROMAINE LETTUCE, STRAWBERRIES": {
+     "availability": 3,
+     "mid": {
+      "Baltimore": 11000.0,
+      "Chicago": 6747.5,
+      "New York": 12152.5,
+      "Philadelphia": 11100.0
+     }
+    },
+    "SANTA MARIA CALIFORNIA|BROCCOLI, CAULIFLOWER, CELERY, GREEN LETTUCE LEAF, ICEBERG LETTUCE, RED LETTUCE LEAF, ROMAINE LETTUCE, STRAWBERRIES": {
+     "availability": 3,
+     "mid": {
+      "Atlanta": 9040.0,
+      "Baltimore": 10885.0,
+      "Boston": 12087.5,
+      "Chicago": 7967.5,
+      "Dallas": 6700.0,
+      "Miami": 12277.5,
+      "New York": 12287.5,
+      "Philadelphia": 11420.0,
+      "Seattle": 5317.5
+     }
+    },
+    "SOUTH AND CENTRAL DISTRICT CALIFORNIA|ANISE, ARTICHOKES, AVOCADOS, BOK CHOY, BROCCOLI, BRUSSELS SPROUTS, CABBAGE, CAULIFLOWER, CELERY, CILANTRO, GRAPEFRUIT, KALE GREENS, LEMONS, GREEN LETTUCE LEAF, ICEBERG LETTUCE, RED LETTUCE LEAF, ROMAINE LETTUCE, ORANGES, RADISHES, SPINACH": {
+     "availability": 3,
+     "mid": {
+      "Baltimore": 10937.840909,
+      "Chicago": 8435.6818182,
+      "New York": 11437.727273,
+      "Philadelphia": 10722.727273
+     }
+    },
+    "MEXICO CROSSINGS THROUGH SOUTH TEXAS|ASPARAGUS, BROCCOLI, CARROTS, CHAYOTE, CILANTRO, CUCUMBERS, GRAPEFRUIT, LIMES, ORANGES, PAPAYA, ANAHEIM PEPPERS, BELL PEPPERS, HABANERO PEPPERS, JALAPENO PEPPERS, POBLANO PEPPERS, SERRANO PEPPERS, PINEAPPLES, TOMATILLOS, TOMATOES, GRAPE TOMATOES, PLUM TOMATOES, WATERMELONS": {
+     "availability": 2,
+     "mid": {
+      "Atlanta": 4400.0,
+      "Baltimore": 5600.0,
+      "Boston": 7100.0,
+      "Chicago": 4100.0,
+      "Dallas": 2100.0,
+      "Los Angeles": 4000.0,
+      "Miami": 5700.0,
+      "New York": 6500.0,
+      "Philadelphia": 6100.0
+     }
+    }
+   }
+  },
+  "last_attempt_at": "2026-11-12T18:01:23.200403+00:00",
   "last_error": null,
   "source_url": "https://agtransport.usda.gov/d/acar-e3r8"
  },
