@@ -1766,7 +1766,8 @@
   "5a6126d440": "skipped|importance 45 is below this platform's threshold (65)",
   "d50a0bc2e2": "posted|importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue",
   "45b9cd93bb": "skipped|importance 45 is below this platform's threshold (65)",
-  "73a7c2ae9d": "posted|importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development; waited 20 min in queue"
+  "73a7c2ae9d": "posted|importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development; waited 20 min in queue",
+  "614b533ca4": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3476,6 +3477,13 @@
    "title": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests",
    "action": "posted",
    "reason": "importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-12T13:01:23.839678+00:00",
+   "story_id": "614b533ca4",
+   "title": "Friday on ITV4: Detective Dilemmas, Trucking Thrills & Wrestling Showdowns – Pick Your Poison",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
