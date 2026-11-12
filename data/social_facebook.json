@@ -1771,7 +1771,8 @@
   "a36e0f306a": "skipped|importance 61 is below this platform's threshold (65)",
   "ca57cccf2a": "skipped|importance 45 is below this platform's threshold (65)",
   "ad19bdd97b": "skipped|importance 55 is below this platform's threshold (65)",
-  "d0d2594162": "skipped|importance 60 is below this platform's threshold (65)"
+  "d0d2594162": "skipped|importance 60 is below this platform's threshold (65)",
+  "0ed3ac9dd9": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -3516,6 +3517,13 @@
    "title": "Trucking By the Numbers: Carriers keep getting safer",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T14:01:22.714140+00:00",
+   "story_id": "0ed3ac9dd9",
+   "title": "PAM Transport Posts Third-Quarter Loss",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
