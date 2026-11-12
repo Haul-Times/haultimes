@@ -4858,6 +4858,33 @@
   "sum_pending": false
  },
  {
+  "id": "0eccb70e84",
+  "slug": "dat-truckload-freight-trends-from-dat-one-and-dat-iq-0eccb70e84",
+  "title": "DAT truckload freight trends from DAT One and DAT iQ",
+  "orig_title": "DAT truckload freight trends from DAT One and DAT iQ",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 45,
+  "source": "www.bluebookservices.com",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkx4YXRLXzBjd1hvNC1TZjVZUGlWYmpmbTRfXzZKckpGQkFxc2VlajRJNzhiOGh3bWcyNzNCZy13RUhGU3BFejdMQkJDNHVIVEJ2eUJUcmF2UVp3Q2tXeHJxV094eGFYT096ZENfbmFFdXpDNmdEbFM2M3BTalIyZFdWbTgySWFvbmdfeXFjZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkx4YXRLXzBjd1hvNC1TZjVZUGlWYmpmbTRfXzZKckpGQkFxc2VlajRJNzhiOGh3bWcyNzNCZy13RUhGU3BFejdMQkJDNHVIVEJ2eUJUcmF2UVp3Q2tXeHJxV094eGFYT096ZENfbmFFdXpDNmdEbFM2M3BTalIyZFdWbTgySWFvbmdfeXFjZw",
+  "snippet": "DAT truckload freight trends from DAT One and DAT iQ www.bluebookservices.com",
+  "published": "2026-11-11T04:01:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T00:11:06.072973+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
+ },
+ {
   "id": "13fdfb3917",
   "slug": "ubc-was-facing-growing-pressure-on-sexual-assault-complaints-process-a-13fdfb3917",
   "title": "UBC was facing growing pressure on sexual assault complaints process as Galloway allegations surfaced",
@@ -6061,7 +6088,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "Other",
   "importance": 45,
   "source": "Mexico Business News",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0t4emlnTEtGSUxzRWdaRGR6QWxsSlVObEFOeW80ZUtxUVZjQ0tNLThTYUU3ZVEweGNqQUwtWFFvcjRiZ1FIcDRxakx2cURRTGhUY2h2TGZycGoyMFRUTVNLYkJpVFBJMUFyTmRjS2pCdUxTNEtNeDlMdFFaSTZGX3cyM0o1M1hJRTYtdklSUnQ1SVdsU2dieENVRWdlUQ?oc=5",
@@ -6074,11 +6101,28 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://mexicobusiness.news/logistics/news/warehouse-congestion-calls-clearer-logistics-contracts",
+  "source_note": "ok · 998 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "f892ebff5dff6315",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:11:06.072973+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 15,
+  "ai_relevant": false
  },
  {
   "id": "1bd8a25f88",
@@ -7150,10 +7194,10 @@
   "slug": "effort-to-get-trucks-off-van-dam-in-saratoga-springs-continues-to-stal-4189f03da5",
   "title": "Effort to get trucks off Van Dam in Saratoga Springs continues to stall",
   "orig_title": "Effort to get trucks off Van Dam in Saratoga Springs continues to stall",
-  "summary": "",
+  "summary": "Saratoga Springs residents and city officials are again pushing to move tractor-trailer traffic off Van Dam Street. The push followed a late-night crash between a Skidmore College bus and a tractor-trailer that blocked traffic for hours at Van Dam and Clinton streets, though no major injuries occurred.\n\nA five-ton weight limit ordinance the City Council passed in December 2023 came down within days, because the state said city officials had no authority to pass local ordinances on the state-designated route. A city request for a traffic study outlined rerouting trucks via Route 9 from Northway exit 14 in Malta or via Route 50 through Ballston Spa. The state said de-designating a route requires documented operational deficiencies or a provable history of accidents. A neighborhood association study counted upward of 700 trucks a day, and the Trucking Association of New York warned that de-designation could push trucks onto other routes.",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 45,
   "source": "WAMC",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlVKRWlhOWNDa0pMVk85R2QzbWRSM3VIM3pYa1E2b2kzdjkwLVFyYU8zZWdBWVlhYmE0djgxZ2lSQ2V1NnROcW11S2E4VDF3MDdSeHdoRFFydXo1Sm5XTlNieW9MVm43cUFnYVhpaFlqT2pMa0ZBNUIzUHk2aUp3eUFEV2hQUVFhQlhLeGhLVmVCc0xncTZRbzNSeGhfM083VUZ0STdqWXFhZHgyOV9DS2hTZjhkSDlaSHc?oc=5",
@@ -7170,7 +7214,42 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.wamc.org/news/2026-11-10/effort-to-get-trucks-off-van-dam-in-saratoga-springs-continues-to-stall?_amp=true",
+  "source_note": "ok · 744 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "3ff09e791f45ca92",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:11:06.072973+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "renewing calls to re-route tractor trailer traffic"
+   },
+   {
+    "sentence": "2",
+    "quote": "blocked traffic for hours"
+   },
+   {
+    "sentence": "3",
+    "quote": "DOT said city officials had no authority to pass local ordinances"
+   },
+   {
+    "sentence": "4",
+    "quote": "there must be documented operational deficiencies or a provable history of accidents"
+   },
+   {
+    "sentence": "5",
+    "quote": "upward of 700 trucks use the road daily"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "regs",
+  "ai_importance": 40
  },
  {
   "id": "8b2c38e46d",
@@ -7355,10 +7434,10 @@
   "slug": "ohio-dot-bridge-inspector-fatally-struck-by-semi-truck-in-i-70-constru-233acdc2b0",
   "title": "Ohio DOT bridge inspector fatally struck by semi truck in I-70 construction zone",
   "orig_title": "Ohio DOT bridge inspector fatally struck by semi truck in I-70 construction zone",
-  "summary": "",
+  "summary": "An Ohio Department of Transportation bridge inspector died after a semi hit her in a construction zone in Zanesville. The Ohio State Highway Patrol responded to I-70 at mile marker 154 shortly after 8 a.m. on November 9. Troopers said a westbound Freightliner struck inspector Jennifer Donley, 45. The driver, Brian Carter, 54, of Indiana, was not hurt. ODOT Director Pamela Boratyn said Donley died Monday morning while working on the I-70 Reconstruction Project and had been hired as a bridge inspector in 2022. The patrol is investigating the crash.",
   "why": "",
   "category": "regs",
-  "region": "",
+  "region": "US",
   "importance": 45,
   "source": "CDLLife",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2pUTXoxekNSQnIwZV9WYk9QYlU5eVlEejlSYzZNNWlPeFhRaEdrYU0yLWNfWWozYmJ4LW95Ukd4WmIzRzRQWjhxd3FVQzU4SldTS1k2NF9vbUVKendveVN5TFpRdWJJTHhIY0pTallSMTAtZUVpOWpwSklpRzIzZllPb0xhLXBwcldST29vYTI1TWR0OEJMVTh4WXZKOHczYlY3NVVrY1VuUQ?oc=5",
@@ -7375,7 +7454,42 @@
   "reasons": [],
   "labels": [],
   "kind": "disruption",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://cdllife.com/2026/ohio-dot-bridge-inspector-fatally-struck-by-semi-truck-in-i-70-construction-zone/",
+  "source_note": "ok · 166 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "a7c317bd71d6daa8",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-12T00:11:06.072973+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "struck by a semi truck while on the job"
+   },
+   {
+    "sentence": "2",
+    "quote": "mile marker 154 in Zanesville shortly after 8 a.m. on November 9"
+   },
+   {
+    "sentence": "3",
+    "quote": "Carter was not injured"
+   },
+   {
+    "sentence": "4",
+    "quote": "Jennifer passed away Monday morning while working on the I-70 Reconstruction Project"
+   },
+   {
+    "sentence": "5",
+    "quote": "The crash is under investigation by OSHP"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 50
  },
  {
   "id": "6af1686cdb",
@@ -8119,7 +8233,11 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "89ca20ac5e",
