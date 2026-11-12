@@ -59,6 +59,35 @@
   "sum_pending": false
  },
  {
+  "id": "669ed2df86",
+  "slug": "laredo-veterans-parade-669ed2df86",
+  "title": "Laredo Veterans Parade",
+  "orig_title": "Laredo Veterans Parade",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KGNS",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3hJTzl4Zk1oSS1EUkd6UzlIVXhaREZmVEVZcTVBcmdQQzlzSnBtdE8wZG5jdUN0WWx0enJmYUJsUVdFYm0tLThBS01sRFVyeUxBWUJlM0QtOTlzaS1LYUUwOU9aQmR6VWhYNndONzhGWXZiOHl5NFQya3M1Z3J4QQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3hJTzl4Zk1oSS1EUkd6UzlIVXhaREZmVEVZcTVBcmdQQzlzSnBtdE8wZG5jdUN0WWx0enJmYUJsUVdFYm0tLThBS01sRFVyeUxBWUJlM0QtOTlzaS1LYUUwOU9aQmR6VWhYNndONzhGWXZiOHl5NFQya3M1Z3J4QQ",
+  "snippet": "Laredo Veterans Parade KGNS",
+  "published": "2026-11-11T23:56:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T01:01:06.497096+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "38a4bdc3e0",
   "slug": "record-diesel-prices-squeeze-truckers-could-raise-costs-for-northwest-38a4bdc3e0",
   "title": "Record diesel prices squeeze truckers, could raise costs for Northwest consumers",
@@ -1779,10 +1808,10 @@
   "slug": "lawsuit-targets-trucking-company-in-deadly-greenville-co-crash-e6c2eb5abf",
   "title": "Lawsuit targets trucking company in deadly Greenville Co. crash",
   "orig_title": "Lawsuit targets trucking company in deadly Greenville Co. crash",
-  "summary": "",
+  "summary": "A wrongful death lawsuit has been filed against Contract Transportation Systems Co. (CTS) and one of its truck drivers over a fatal crash on White Horse Road in Greenville, South Carolina. The complaint was filed Nov. 4 in federal court, on behalf of the estate of Leonard Harding McPeak Jr. The suit alleges that the CTS driver, heading northbound, pulled into a median turn lane and backed the tractor-trailer across southbound lanes while trying to reach a Sherwin-Williams store, so McPeak's pickup struck the trailer on Jan. 7. The plaintiff says McPeak suffered severe injuries and died, and accuses the driver of negligence and of violating South Carolina traffic laws and federal motor carrier safety rules. The suit also accuses CTS of negligent hiring, retention, training and supervision, seeks actual, consequential and punitive damages, and has requested a jury trial.",
   "why": "",
   "category": "regs",
-  "region": "",
+  "region": "US",
   "importance": 5,
   "source": "Yahoo",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWtoMk1UTWJUTTdXcEZTUlYteHh0Nk9wc0FCX00zVHR1RG1PeF9VNW83eFdPaHhSckJ0bFlGaXQzTWlnSDVramp3czV2NGREaENDVzFFQTJPRC1Lb08zTXJNczF4WTlOQV90NTVTMEV6c1Z4VWZmQWxQU216cjBuTFlaUGxLT1gtUzVOaU92X3F0SWh1c09pQQ?oc=5",
@@ -1802,19 +1831,40 @@
   "sum_pending": false,
   "sum_tries": 1,
   "pub_url": "https://www.yahoo.com/news/us/articles/lawsuit-targets-trucking-company-deadly-154524256.html",
-  "source_note": "ok · 943 words",
+  "source_note": "ok · 1046 words",
   "sum_done": true,
-  "sum_status": "withheld",
-  "source_fp": "8a9e80cffcfc53bc",
+  "sum_status": "published",
+  "source_fp": "57cbdfe56bfe8bdc",
   "source_scope": "full_article",
-  "sum_at": "2026-11-12T00:51:07.151008+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-12T01:01:06.497096+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "A wrongful death lawsuit has been filed"
+   },
+   {
+    "sentence": "2",
+    "quote": "filed Nov. 4 in the U.S. District Court"
+   },
+   {
+    "sentence": "3",
+    "quote": "pulled into the median turn lane"
+   },
+   {
+    "sentence": "4",
+    "quote": "The lawsuit claims McPeak suffered severe injuries and later died"
+   },
+   {
+    "sentence": "5",
+    "quote": "accuses CTS of negligent hiring, retention, training and supervision"
+   }
   ],
-  "ai_importance": 5
+  "sum_problems": [],
+  "ai_importance": 45,
+  "sum_v4": true,
+  "ai_category": "drivers"
  },
  {
   "id": "c0aa75d37a",
