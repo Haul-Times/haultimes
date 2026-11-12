@@ -5524,6 +5524,35 @@
   "sum_pending": false
  },
  {
+  "id": "7a518afbc9",
+  "slug": "michael-anderson-7a518afbc9",
+  "title": "Michael Anderson",
+  "orig_title": "Michael Anderson",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObVNLeHJXdWtSNkJJNW55OTl2UXp6SERSa1NNblFRMWJqUUFZemxvMzRaMWUyMjJiU0hEQ1hlRGxCLTVGcFUwa1RyU3FseVQzNmVHb0hGc0dWUUtKVXNWTzZQUUxtd3h0YzB5cTZvRTZIUlMyOEM4T1hxcDA4UWpWOGNxQjhCUEV3cFZDcEwtVnBfRTRxakxVLUdaV05BdnZidmdaVFk4d0FPenF4eE9FNFhxbG1KY3hqU2xvQnZ5WWhRLTAtRHA2NlBJQ21fcGFVT2c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObVNLeHJXdWtSNkJJNW55OTl2UXp6SERSa1NNblFRMWJqUUFZemxvMzRaMWUyMjJiU0hEQ1hlRGxCLTVGcFUwa1RyU3FseVQzNmVHb0hGc0dWUUtKVXNWTzZQUUxtd3h0YzB5cTZvRTZIUlMyOEM4T1hxcDA4UWpWOGNxQjhCUEV3cFZDcEwtVnBfRTRxakxVLUdaV05BdnZidmdaVFk4d0FPenF4eE9FNFhxbG1KY3hqU2xvQnZ5WWhRLTAtRHA2NlBJQ21fcGFVT2c",
+  "snippet": "Michael Anderson Truck News",
+  "published": "2026-11-11T06:16:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T08:01:03.697945+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8beeae62e9",
   "slug": "don-anderson-haulage-8beeae62e9",
   "title": "don anderson haulage",
