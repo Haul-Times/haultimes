@@ -443,6 +443,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "714b6e8e31",
+  "slug": "transport-fares-slashed-following-petrol-and-diesel-price-cuts-714b6e8e31",
+  "title": "Transport fares slashed following petrol and diesel price cuts",
+  "orig_title": "Transport fares slashed following petrol and diesel price cuts",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ARYnews.tv",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeTFMZ01CNWFZUFZaUEVfc2ZYalQ1aHRWOV9xSmdSTFFud3k0eWZWNl9aWXk0TU9Yb1dEYlZWTjVXcWN0MTVWWnRwV2pFdVZHQzNjbW83ajkydXZyaENBLVVlWk1aVzB5dVNlR1RGeDNLMDJqVWFMVENGSWxidWRzZ2ItSVNDRUZX?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeTFMZ01CNWFZUFZaUEVfc2ZYalQ1aHRWOV9xSmdSTFFud3k0eWZWNl9aWXk0TU9Yb1dEYlZWTjVXcWN0MTVWWnRwV2pFdVZHQzNjbW83ajkydXZyaENBLVVlWk1aVzB5dVNlR1RGeDNLMDJqVWFMVENGSWxidWRzZ2ItSVNDRUZX",
+  "snippet": "Transport fares slashed following petrol and diesel price cuts ARYnews.tv",
+  "published": "2026-11-12T05:04:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-12T11:27:22.202455+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country (UK/Europe)"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b33e719820",
   "slug": "black-women-in-trucking-face-hidden-safety-risks-and-high-costs-b33e719820",
   "title": "Black Women in Trucking Face Hidden Safety Risks and High Costs",
