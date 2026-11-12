@@ -1383,14 +1383,14 @@
    "source": "elciudadano.com",
    "dest": "https://haultimes.com/story/truckers-continue-strike-as-kast-s-proposed-measures-fail-to-convince-73a7c2ae9d/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=73a7c2ae9d",
    "caption": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests.\n\nReported by elciudadano. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-12T12:11:25.086596+00:00",
    "published": "2026-11-12T11:42:05+00:00",
    "score": 71,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122102149581544428",
+   "posted_at": "2026-11-12T12:31:27.486133+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests | HaulTimes",
@@ -1401,7 +1401,9 @@
    "reason": "importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development",
    "breaking": null,
    "edited": false,
-   "wait_summary": true
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-12T12:31:27.486133+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122102149581544428"
   }
  },
  "paused": null,
@@ -1546,6 +1548,10 @@
   {
    "at": "2026-11-12T08:21:26.937184+00:00",
    "msg": "posted d50a0bc2e2"
+  },
+  {
+   "at": "2026-11-12T12:31:27.486133+00:00",
+   "msg": "posted 73a7c2ae9d"
   }
  ],
  "decided": {
@@ -1752,7 +1758,7 @@
   "5a6126d440": "skipped|importance 45 is below this platform's threshold (65)",
   "d50a0bc2e2": "posted|importance 75 (threshold 65), Industry, trade publication; waited 10 min in queue",
   "45b9cd93bb": "skipped|importance 45 is below this platform's threshold (65)",
-  "73a7c2ae9d": "queued|importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development"
+  "73a7c2ae9d": "posted|importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development; waited 20 min in queue"
  },
  "decisions": [
   {
@@ -3455,6 +3461,13 @@
    "title": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests",
    "action": "queued",
    "reason": "importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development"
+  },
+  {
+   "at": "2026-11-12T12:31:27.486133+00:00",
+   "story_id": "73a7c2ae9d",
+   "title": "Truckers Continue Strike as Kast's Proposed Measures Fail to Convince; Santiago Resumes Protests",
+   "action": "posted",
+   "reason": "importance 71 (threshold 65), Drivers & Jobs, local/other outlet, follow-up with a new development; waited 20 min in queue"
   }
  ],
  "visibility": {
