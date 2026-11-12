@@ -2049,7 +2049,8 @@
   "28d86fce11": "skipped|importance 55 is below this platform's threshold (65)",
   "f64f05e3fa": "skipped|minor item (crime) or low-quality source",
   "b95c335539": "posted|importance 82 (threshold 65), Fuel, local/other outlet; waited 20 min in queue",
-  "4d59b61c06": "skipped|importance 55 is below this platform's threshold (65)"
+  "4d59b61c06": "skipped|importance 55 is below this platform's threshold (65)",
+  "501288785c": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4018,6 +4019,13 @@
    "title": "Featured Audio: Diesel Price Surge Creates Challenges for Farmers and Trucking Industry",
    "action": "posted",
    "reason": "importance 82 (threshold 65), Fuel, local/other outlet; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-12T21:31:24.411882+00:00",
+   "story_id": "501288785c",
+   "title": "USPS to increase prices, establish permanent fuel surcharge",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
