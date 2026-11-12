@@ -2124,7 +2124,9 @@
   "7ee7770f38": "skipped|importance 55 is below this platform's threshold (65)",
   "d329a92637": "posted|importance 78 (threshold 65), Cross-Border, trade publication; waited 10 min in queue",
   "c0c38348e3": "queued|importance 73 (threshold 65), Regulations, trade publication",
-  "3a5e2c6380": "skipped|importance 56 is below this platform's threshold (65)"
+  "3a5e2c6380": "skipped|importance 56 is below this platform's threshold (65)",
+  "81784487df": "skipped|importance 55 is below this platform's threshold (65)",
+  "edfbb375ba": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4135,6 +4137,20 @@
    "title": "Temiskaming Shores truck driving school warns funding freeze will lead to supply chain issues",
    "action": "skipped",
    "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T23:11:28.007480+00:00",
+   "story_id": "81784487df",
+   "title": "‘It’s a lifeline’: What Truckers For Troops means to those serving",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-12T23:11:28.007480+00:00",
+   "story_id": "edfbb375ba",
+   "title": "BLABBERMOUTH: Truck drivers are feasting on his wife!",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
