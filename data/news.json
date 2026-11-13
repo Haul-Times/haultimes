@@ -644,6 +644,35 @@
   "sum_pending": false
  },
  {
+  "id": "13522df7f4",
+  "slug": "how-to-stay-healthy-during-an-early-flu-season-according-to-our-expert-13522df7f4",
+  "title": "How to stay healthy during an early flu season, according to our experts",
+  "orig_title": "How to stay healthy during an early flu season, according to our experts",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHZTMG02VXRyRHRKb0RLWE5uQ1kxUk1zVlJkRFhzRUdLODFrVEdaMm1NbVptaWRpV1U0bkFqLUd4MDlPOGdFRFh6TFdOTGR2VThzWmd0aExaX0t6TGxqU2FieEI1NE8zRWFkd0xBcmdQdllKUnY3dmVhSXE1emlJdVk0VkpsQjdG?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHZTMG02VXRyRHRKb0RLWE5uQ1kxUk1zVlJkRFhzRUdLODFrVEdaMm1NbVptaWRpV1U0bkFqLUd4MDlPOGdFRFh6TFdOTGR2VThzWmd0aExaX0t6TGxqU2FieEI1NE8zRWFkd0xBcmdQdllKUnY3dmVhSXE1emlJdVk0VkpsQjdG",
+  "snippet": "How to stay healthy during an early flu season, according to our experts The Globe and Mail",
+  "published": "2026-11-12T22:29:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T07:47:53.845156+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "210311fb69",
   "slug": "n-s-municipal-politicians-weigh-in-on-whether-ai-can-speed-up-housing-210311fb69",
   "title": "N.S. municipal politicians weigh in on whether AI can speed up housing approvals",
@@ -7730,11 +7759,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false,
+  "sum_pending": true,
   "sum_tries": 1,
   "pub_url": "https://logisticsviewpoints.com/2026/11/11/the-economics-of-an-idle-trailer-where-logistics-profits-disappear/",
   "source_note": "ok · 1161 words",
-  "sum_done": true,
+  "sum_done": false,
   "sum_status": "withheld",
   "source_fp": "8c1697abfeeb35f0",
   "source_scope": "full_article",
@@ -7745,7 +7774,8 @@
   "sum_problems": [
    "your answer could not be read as complete JSON (max_tokens: ); answer with the JSON object only, keep evidence quotes short"
   ],
-  "ai_importance": 45
+  "ai_importance": 45,
+  "sum_v4": true
  },
  {
   "id": "2e20b11f3d",
