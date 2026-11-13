@@ -1,5 +1,34 @@
 [
  {
+  "id": "84bc5e6bcd",
+  "slug": "3-monthly-dividend-stocks-yielding-up-to-12-two-have-november-18-deadl-84bc5e6bcd",
+  "title": "3 Monthly Dividend Stocks Yielding Up to 12%. Two Have November 18 Deadlines",
+  "orig_title": "3 Monthly Dividend Stocks Yielding Up to 12%. Two Have November 18 Deadlines",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORFJzTVVKeFh0TkFwdUNrNEtsNGExaVhDdHItUWtoUHdZcFR2MWs0bk1Icld4SHY5azlfbmtrR25xcmczSmpOTEJOT1ZfYWo4Yk9lV3V1MHk5ZGtpcVI5MGl4N3Fsb2pidkhiaTNSLW9jNHlWcTNvejlGZGhhMFByclpqZVFlMGlGcGdyMW5UOUEtdFlFeTQxMzJqSFV0aUZ2UjV6VjMxN3VWVVRJSFRyTjI5UG5NU1ZSRHB2LUEzWURJWmFKZkRJWjBla3RGdU1Cd0tzcDNiZjRReHlGWEo4VzZ1dEZsbzhT?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORFJzTVVKeFh0TkFwdUNrNEtsNGExaVhDdHItUWtoUHdZcFR2MWs0bk1Icld4SHY5azlfbmtrR25xcmczSmpOTEJOT1ZfYWo4Yk9lV3V1MHk5ZGtpcVI5MGl4N3Fsb2pidkhiaTNSLW9jNHlWcTNvejlGZGhhMFByclpqZVFlMGlGcGdyMW5UOUEtdFlFeTQxMzJqSFV0aUZ2UjV6VjMxN3VWVVRJSFRyTjI5UG5NU1ZSRHB2LUEzWURJWmFKZkRJWjBla3RGdU1Cd0tzcDNiZjRReHlGWEo4VzZ1dEZsbzhT",
+  "snippet": "3 Monthly Dividend Stocks Yielding Up to 12%. Two Have November 18 Deadlines 24/7 Wall St.",
+  "published": "2026-11-13T17:47:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T17:51:02.925479+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "stock commentary, no trucking development"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "227aadbb4e",
   "slug": "suspect-in-100m-brink-s-jewelry-theft-agrees-to-plead-guilty-in-relate-227aadbb4e",
   "title": "Suspect in $100M Brink’s jewelry theft agrees to plead guilty in related cargo robbery case",
@@ -178,6 +207,36 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "f22e56fb88",
+  "slug": "fmcsa-eld-crackdown-enforcement-sweeps-target-unsafe-operators-f22e56fb88",
+  "title": "FMCSA ELD crackdown, enforcement sweeps target unsafe operators",
+  "orig_title": "FMCSA ELD crackdown, enforcement sweeps target unsafe operators",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 62,
+  "source": "Bulk Transporter",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdk41RHlhMEJULTF6VzROc1NqVkx4LUt4YVQzYU9QU1BONDBxcHJPNEJ2V3FHcUdpVG0tUEJWX2ozUjIzVlBmbmduRC1lZHZYUkNxM0pRUWVKaVRlVGhBb1ZTNS1tbGF2ZnZlbVJUMDlSZ0NjdVo5QXJrM0JnM2p3cFdDSlgyZGp4NzdmZ2RZVWNzNkpmV1RraFJEYUZ2dUVnQS1DaW9acmNPclJTQTBUSGZpdnFLNzB0aDZwUndEZDQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdk41RHlhMEJULTF6VzROc1NqVkx4LUt4YVQzYU9QU1BONDBxcHJPNEJ2V3FHcUdpVG0tUEJWX2ozUjIzVlBmbmduRC1lZHZYUkNxM0pRUWVKaVRlVGhBb1ZTNS1tbGF2ZnZlbVJUMDlSZ0NjdVo5QXJrM0JnM2p3cFdDSlgyZGp4NzdmZ2RZVWNzNkpmV1RraFJEYUZ2dUVnQS1DaW9acmNPclJTQTBUSGZpdnFLNzB0aDZwUndEZDQ",
+  "snippet": "FMCSA ELD crackdown, enforcement sweeps target unsafe operators Bulk Transporter",
+  "published": "2026-11-13T16:37:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T17:51:02.925479+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: FMCSA boots 133 ELD off registry in fruad crackdown"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "0d199a048a"
  },
  {
   "id": "96684eb73b",
@@ -709,6 +768,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "c0c38348e3"
+ },
+ {
+  "id": "0ae8343777",
+  "slug": "call-of-the-wilde-montreal-canadiens-win-convincingly-over-the-bruins-0ae8343777",
+  "title": "Call of the Wilde: Montreal Canadiens win convincingly over the Bruins in Boston",
+  "orig_title": "Call of the Wilde: Montreal Canadiens win convincingly over the Bruins in Boston",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2NUUm9rVXN4MThPUV9MUE9zc0dhdnhIUldxLWVmT0hlLWFlYk5tQTlydFdlaWd4aUhXTVdTZUxWemFXQ05jT1NkR0JtNXFPVWFFVEt1MzhnRzA3Z0FpbVFPM21ORS1sRWY5RGt6dGZiWGdHaFI0TWI4SDBJczNIb2tlZ3c3RmpFcGRGcHZHRHpHYnptRG9ZbW9qdV9TLTBiMW9sV0xaYmR6TkFSWHpRdmFzejkySVk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2NUUm9rVXN4MThPUV9MUE9zc0dhdnhIUldxLWVmT0hlLWFlYk5tQTlydFdlaWd4aUhXTVdTZUxWemFXQ05jT1NkR0JtNXFPVWFFVEt1MzhnRzA3Z0FpbVFPM21ORS1sRWY5RGt6dGZiWGdHaFI0TWI4SDBJczNIb2tlZ3c3RmpFcGRGcHZHRHpHYnptRG9ZbW9qdV9TLTBiMW9sV0xaYmR6TkFSWHpRdmFzejkySVk",
+  "snippet": "Call of the Wilde: Montreal Canadiens win convincingly over the Bruins in Boston Global News",
+  "published": "2026-11-13T14:55:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T17:51:02.925479+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "fdf29dbeae",
