@@ -863,6 +863,35 @@
   "sum_pending": false
  },
  {
+  "id": "606f5e7df0",
+  "slug": "ford-opens-new-79-000-square-foot-vault-showcasing-125-vehicles-and-mo-606f5e7df0",
+  "title": "Ford opens new 79,000-square-foot Vault showcasing 125 vehicles and more than a century of history",
+  "orig_title": "Ford opens new 79,000-square-foot Vault showcasing 125 vehicles and more than a century of history",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBS News",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGdRWFRqWVMwcV9jNFRLOXNyUDNTVFB2YV9WeE9tTEdIdHRSbEgwV2FSM01oWjJCZ2JPZXA3VmZkdjVCaTdUOGpLLWlPSVZOOWZXbTUwalZRX3JQb1o1ajkwX2V2d1dVRTNmTGJhZmRlclEyMU1FZkJqcnpoT1J6M2F6ZDJOaWlwQ2Q4VXdOMEN5RkZVQnc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGdRWFRqWVMwcV9jNFRLOXNyUDNTVFB2YV9WeE9tTEdIdHRSbEgwV2FSM01oWjJCZ2JPZXA3VmZkdjVCaTdUOGpLLWlPSVZOOWZXbTUwalZRX3JQb1o1ajkwX2V2d1dVRTNmTGJhZmRlclEyMU1FZkJqcnpoT1J6M2F6ZDJOaWlwQ2Q4VXdOMEN5RkZVQnc",
+  "snippet": "Ford opens new 79,000-square-foot Vault showcasing 125 vehicles and more than a century of history CBS News",
+  "published": "2026-11-13T04:22:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T14:01:51.256817+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c7132d2a33",
   "slug": "gombe-boils-as-truck-drivers-protest-shooting-by-nscdc-operative-c7132d2a33",
   "title": "Gombe boils as truck drivers protest shooting by NSCDC operative",
@@ -6660,6 +6689,35 @@
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 3
+ },
+ {
+  "id": "7f153869bd",
+  "slug": "montrealers-pay-tribute-to-war-veterans-at-annual-remembrance-day-cere-7f153869bd",
+  "title": "Montrealers pay tribute to war veterans at annual Remembrance Day ceremony",
+  "orig_title": "Montrealers pay tribute to war veterans at annual Remembrance Day ceremony",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWlkOVhMNVRnVmp1VU9OT0dXczlieHJEZWJ6M2lYbVFBdy1mWnJIVkZCSGM1MzJ0dmZJYlllMElRV0JCdnpBMzlLLWw3TDRBMTNYR1pKaHdnSXhiRzJEMkVJVjJ0UWZmRTRXWmlSTXJjaHhTN2c2eTJ2Z05GUTVHeXB3aE53aGYza0E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWlkOVhMNVRnVmp1VU9OT0dXczlieHJEZWJ6M2lYbVFBdy1mWnJIVkZCSGM1MzJ0dmZJYlllMElRV0JCdnpBMzlLLWw3TDRBMTNYR1pKaHdnSXhiRzJEMkVJVjJ0UWZmRTRXWmlSTXJjaHhTN2c2eTJ2Z05GUTVHeXB3aE53aGYza0E",
+  "snippet": "Montrealers pay tribute to war veterans at annual Remembrance Day ceremony Global News",
+  "published": "2026-11-12T02:23:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T14:01:51.256817+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e2342b5ea6",
