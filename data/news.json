@@ -88,6 +88,74 @@
   "dup_of": "f64f05e3fa"
  },
  {
+  "id": "a878a3cd60",
+  "slug": "mississauga-truck-hero-honoured-by-ota-after-saving-woman-from-burning-a878a3cd60",
+  "title": "Mississauga Truck Hero Honoured by OTA After Saving Woman from Burning Vehicle in Multi-Vehicle Highway Collision",
+  "orig_title": "Mississauga Truck Hero Honoured by OTA After Saving Woman from Burning Vehicle in Multi-Vehicle Highway Collision",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Canada",
+  "importance": 10,
+  "source": "Ontario Trucking Association",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUlOdXhGckZEWHgtUXExdVVnWEVWS21yRWZ1U3UtcGs4cnBrRW8tTFN0XzF3bzdjNkZDUHJXMnNzbmFaSEI1ekdva0ZRV1B1dHJ4QlJDbjVaVnZRdzhCNEg2WXRsVlhudG5raFh0dW5QdXVTSWZrMk10OG8zZFE0TGhkVHEyMy10eHp5cUI5Z2lPTE9fRkZhX1htNTdIbXRxTVkzbE5YbkI4ZXJWX0NveXRoNndqYXZ2Vks2dW5FbjRxSnZ6cl9hTDVCQXBCR0k?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUlOdXhGckZEWHgtUXExdVVnWEVWS21yRWZ1U3UtcGs4cnBrRW8tTFN0XzF3bzdjNkZDUHJXMnNzbmFaSEI1ekdva0ZRV1B1dHJ4QlJDbjVaVnZRdzhCNEg2WXRsVlhudG5raFh0dW5QdXVTSWZrMk10OG8zZFE0TGhkVHEyMy10eHp5cUI5Z2lPTE9fRkZhX1htNTdIbXRxTVkzbE5YbkI4ZXJWX0NveXRoNndqYXZ2Vks2dW5FbjRxSnZ6cl9hTDVCQXBCR0k",
+  "snippet": "Mississauga Truck Hero Honoured by OTA After Saving Woman from Burning Vehicle in Multi-Vehicle Highway Collision – Ontario Trucking Association Ontario Trucking Association",
+  "published": "2026-11-12T23:58:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T06:26:30.146159+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "feature",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://ontruck.org/mississauga-truck-hero-honoured-by-ota-after-saving-woman-from-burning-vehicle-in-multi-vehicle-highway-collision/",
+  "source_note": "ok · 627 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "481b0995a88f3646",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-13T06:26:30.146159+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "has been named this year’s OTA-Bridgestone Truck Hero"
+   },
+   {
+    "sentence": "2",
+    "quote": "came upon a fiery multi-vehicle collision near Trenton, Ont."
+   },
+   {
+    "sentence": "3",
+    "quote": "broke the rear window of Theresa’s vehicle with his bare hands"
+   },
+   {
+    "sentence": "4",
+    "quote": "For approximately five hours, he remained at the scene"
+   },
+   {
+    "sentence": "5",
+    "quote": "Theresa estimates he helped or gave comfort to about 50 people"
+   }
+  ],
+  "sum_problems": [
+   "Source uses both 'Isik' and 'Isaac' for the same driver; the summary uses 'Isik' from the first mention, so confirm the correct spelling.",
+   "Source gives no year for the collision ('last January') or the award, so no year is stated.",
+   "The article does not say Rozendaal was the driver of the SUV, so she is described only as the woman inside it."
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 35,
+  "pending_summary": "The Ontario Trucking Association has named Mississauga driver Isik Altinisik its latest OTA-Bridgestone Truck Hero for his actions at a multi-vehicle crash near Trenton, Ont., during a severe winter storm. He was delivering fresh food products to Ottawa when he reached the fiery collision. The article says he broke the rear window of an SUV with his bare hands, injuring himself, and pulled out the woman inside, Theresa Rozendaal, before the vehicle exploded seconds later. According to the article, he then stayed at the scene for about five hours, helping motorists and digging vehicles out of the snow. Rozendaal estimated he helped or comforted about 50 people, and said that without his help she likely would have been seriously injured or killed.",
+  "pending_why": ""
+ },
+ {
   "id": "69a15cfc1b",
   "slug": "chile-truckers-protest-69a15cfc1b",
   "title": "Chile Truckers Protest",

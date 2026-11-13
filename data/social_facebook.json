@@ -2189,7 +2189,8 @@
   "edfbb375ba": "skipped|importance 45 is below this platform's threshold (65)",
   "eaa1d6aafb": "skipped|importance 45 is below this platform's threshold (65)",
   "ca86f76a97": "skipped|minor item (incident) or low-quality source",
-  "0d199a048a": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 18 min in queue"
+  "0d199a048a": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 18 min in queue",
+  "a878a3cd60": "skipped|minor item (feature) or low-quality source"
  },
  "decisions": [
   {
@@ -4249,6 +4250,13 @@
    "title": "FMCSA boots 133 ELD off registry in fruad crackdown",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 18 min in queue"
+  },
+  {
+   "at": "2026-11-13T06:27:08.307260+00:00",
+   "story_id": "a878a3cd60",
+   "title": "Mississauga Truck Hero Honoured by OTA After Saving Woman from Burning Vehicle in Multi-Vehicle Highway Collision",
+   "action": "skipped",
+   "reason": "minor item (feature) or low-quality source"
   }
  ],
  "visibility": {
