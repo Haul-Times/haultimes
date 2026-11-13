@@ -1,5 +1,34 @@
 [
  {
+  "id": "5e8896f8f1",
+  "slug": "rains-ease-but-storm-surge-heads-for-southwest-b-c-posing-new-flood-ri-5e8896f8f1",
+  "title": "Rains ease but storm surge heads for southwest B.C., posing new flood risk",
+  "orig_title": "Rains ease but storm surge heads for southwest B.C., posing new flood risk",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0RqRk5IWkZwYkNwRXJ3WXpmU2pHcUprQVVDZWU0aVd3U09tUGtwRjhPYmlmX2lIWlp0UDhWLW1zNXlBd21aU2NmX1hFang0dU1lcGNtRlJpNzRqOWl5NlI2dGhNUzFhQVRpVEJSX0VyanBoaTdJc0xGWTJiUlNCTFAyZVlxbDFxWGFTQm9FMWdBYmdpdno1NXBSY3AxaFRfbzh2UFctMEZQM09janc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0RqRk5IWkZwYkNwRXJ3WXpmU2pHcUprQVVDZWU0aVd3U09tUGtwRjhPYmlmX2lIWlp0UDhWLW1zNXlBd21aU2NmX1hFang0dU1lcGNtRlJpNzRqOWl5NlI2dGhNUzFhQVRpVEJSX0VyanBoaTdJc0xGWTJiUlNCTFAyZVlxbDFxWGFTQm9FMWdBYmdpdno1NXBSY3AxaFRfbzh2UFctMEZQM09janc",
+  "snippet": "Rains ease but storm surge heads for southwest B.C., posing new flood risk Global News",
+  "published": "2026-11-13T13:01:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T13:11:01.461473+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "5fdc899a3d",
   "slug": "rising-fuel-prices-wipe-out-tax-relief-for-truckers-within-weeks-5fdc899a3d",
   "title": "Rising Fuel Prices Wipe Out Tax Relief for Truckers Within Weeks",
@@ -25,7 +54,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://hungarytoday.hu/rising-fuel-prices-wipe-out-tax-relief-for-truckers-within-weeks/",
   "source_note": "ok · 582 words"
  },
@@ -151,6 +180,35 @@
   "sum_tries": 2,
   "pub_url": "https://www.adomonline.com/naimos-engages-truck-drivers-sand-winning-associations-on-compliance-and-cooperation/",
   "source_note": "ok · 312 words"
+ },
+ {
+  "id": "13b7b12600",
+  "slug": "friday-s-analyst-upgrades-and-downgrades-13b7b12600",
+  "title": "Friday’s analyst upgrades and downgrades",
+  "orig_title": "Friday’s analyst upgrades and downgrades",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMm9xZHhYbHRFX1NpUGdpTlJnd3lyOVIzT05hSVZsMklwbGlUTEFYdWE3SWlMelprT1FjRDZYZGpCRHdpZHBxVk81LVlNQ29Ka3hLbEdFN05xWURsc0d6R2x2RGJHLXJ5dFJzWkY5VzZZSjNzR0dXdnJNWW5QOVhQQ0h6T3JOUTVqYnlpZU0yQ0JlekNPZzVaSlBRTExScm15UU1aeW51VnNtZFdSR1llU184NzduTTdLajJGRQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMm9xZHhYbHRFX1NpUGdpTlJnd3lyOVIzT05hSVZsMklwbGlUTEFYdWE3SWlMelprT1FjRDZYZGpCRHdpZHBxVk81LVlNQ29Ka3hLbEdFN05xWURsc0d6R2x2RGJHLXJ5dFJzWkY5VzZZSjNzR0dXdnJNWW5QOVhQQ0h6T3JOUTVqYnlpZU0yQ0JlekNPZzVaSlBRTExScm15UU1aeW51VnNtZFdSR1llU184NzduTTdLajJGRQ",
+  "snippet": "Friday’s analyst upgrades and downgrades The Globe and Mail",
+  "published": "2026-11-13T11:35:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T13:11:01.461473+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "stock commentary, no trucking development"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "11af470b4a",
@@ -650,6 +708,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "4a44e2ce2a",
+  "slug": "frozen-warehouses-surge-in-japan-s-aichi-pref-as-food-demand-logistics-4a44e2ce2a",
+  "title": "Frozen warehouses surge in Japan's Aichi Pref. as food demand, logistics needs grow",
+  "orig_title": "Frozen warehouses surge in Japan's Aichi Pref. as food demand, logistics needs grow",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "毎日新聞",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFaG80Y3RZN1ZJX0JHWFR1aVNabXVJM3hWM0RjenNweS1QcWJWZDFjajlIeEQ1WEIyNHBTNEx3MU93cWx3WjNwWlloRy1YTnRRZlFBUFd4YXhITkh1dzVqaWtlRjJySHh3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFaG80Y3RZN1ZJX0JHWFR1aVNabXVJM3hWM0RjenNweS1QcWJWZDFjajlIeEQ1WEIyNHBTNEx3MU93cWx3WjNwWlloRy1YTnRRZlFBUFd4YXhITkh1dzVqaWtlRjJySHh3",
+  "snippet": "Frozen warehouses surge in Japan's Aichi Pref. as food demand, logistics needs grow 毎日新聞",
+  "published": "2026-11-13T01:43:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T13:11:01.461473+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
