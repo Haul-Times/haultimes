@@ -25280,33 +25280,6 @@
   "sum_pending": false
  },
  {
-  "id": "cd824c29d1",
-  "slug": "man-tries-to-steal-over-115k-of-copper-wire-cd824c29d1",
-  "title": "Man tries to steal over $115K of copper wire",
-  "orig_title": "Man tries to steal over $115K of copper wire",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "WANE 15",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1Q3RW5OeGpHc3J4TzlNTHV2bmg0OE9zQVNfZkNkYWJCLWtZSkxPXzVhTFI4WmhDQ1BZUExlR1hteGhrbFUwRmdVVmRFSXdQVlNlajB2UUZxT1ZYQXhTNGc2RVVCVWtwU3haeE9oZXV3dFA0WW14dXlnUkRRSEdnRUdWS25xeEE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1Q3RW5OeGpHc3J4TzlNTHV2bmg0OE9zQVNfZkNkYWJCLWtZSkxPXzVhTFI4WmhDQ1BZUExlR1hteGhrbFUwRmdVVmRFSXdQVlNlajB2UUZxT1ZYQXhTNGc2RVVCVWtwU3haeE9oZXV3dFA0WW14dXlnUkRRSEdnRUdWS25xeEE",
-  "snippet": "Man tries to steal over $115K of copper wire WANE 15",
-  "published": "2026-11-08T15:02:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-09T08:15:43.105592+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "9da9b41d19",
   "slug": "union-pacific-norfolk-southern-merger-trucking-impacts-benefits-9da9b41d19",
   "title": "Union Pacific & Norfolk Southern Merger: Trucking Impacts & Benefits",
@@ -26386,33 +26359,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "170bdfbe9f",
-  "slug": "rivotto-archives-170bdfbe9f",
-  "title": "Rivotto Archives",
-  "orig_title": "Rivotto Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwNHR6MUNkNjJ5R2s5R3JNVkE1ZXRXb3p4em1lOXdLMEl1akZkaWExeHh1aVlfN2dlaDlEcDdRNF9EU2xaRkVNcUtNbFhkdmg5V1pOcA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwNHR6MUNkNjJ5R2s5R3JNVkE1ZXRXb3p4em1lOXdLMEl1akZkaWExeHh1aVlfN2dlaDlEcDdRNF9EU2xaRkVNcUtNbFhkdmg5V1pOcA",
-  "snippet": "Rivotto Archives Truck News",
-  "published": "2026-11-07T08:36:13+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-09T08:15:43.105592+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
   ],
   "labels": [],
   "kind": "rejected",
