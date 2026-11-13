@@ -2384,7 +2384,8 @@
   "f975b53290": "skipped|importance 45 is below this platform's threshold (65)",
   "de6c81c709": "skipped|importance 55 is below this platform's threshold (65)",
   "022a2efd80": "skipped|importance 45 is below this platform's threshold (65)",
-  "5114d78764": "skipped|importance 50 is below this platform's threshold (65)"
+  "5114d78764": "skipped|importance 50 is below this platform's threshold (65)",
+  "13d3e391a1": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4710,6 +4711,13 @@
    "title": "Driver who tried to shoot up Costco at center of lawsuit by family of employee who died stopping him",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T20:01:54.457516+00:00",
+   "story_id": "13d3e391a1",
+   "title": "Freightos' founder accuses company of ‘rigging’ proxy vote as company opposes his proposals",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
