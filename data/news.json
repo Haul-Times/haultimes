@@ -1,5 +1,34 @@
 [
  {
+  "id": "babca50407",
+  "slug": "november-14-the-knee-clinic-babca50407",
+  "title": "November 14 — The Knee Clinic",
+  "orig_title": "November 14 — The Knee Clinic",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zb0R3aUE4V2V2RTdPSzFvM1FPYXFKYVJiZTllYTFvcWRZVnE5MmdSWVFHSHNJWEhvN3V0WUNwSmNWaGRRS2NWNVFqTHpSdWR2QjV2VjVMMkdyWGxYaWVsNnlZTlM2ZVVXa2lPa1pCQmFtdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zb0R3aUE4V2V2RTdPSzFvM1FPYXFKYVJiZTllYTFvcWRZVnE5MmdSWVFHSHNJWEhvN3V0WUNwSmNWaGRRS2NWNVFqTHpSdWR2QjV2VjVMMkdyWGxYaWVsNnlZTlM2ZVVXa2lPa1pCQmFtdw",
+  "snippet": "November 14 — The Knee Clinic Global News",
+  "published": "2026-11-13T19:13:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T19:21:04.414040+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b56b869119",
   "slug": "usps-to-add-11-permanent-fuel-surcharge-along-with-parcel-rate-hike-b56b869119",
   "title": "USPS to add 11% permanent fuel surcharge along with parcel rate hike",
