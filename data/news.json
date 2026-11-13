@@ -13121,6 +13121,35 @@
   "sum_pending": false
  },
  {
+  "id": "937559915e",
+  "slug": "ottawa-restores-sanctions-on-iran-it-lifted-a-decade-ago-937559915e",
+  "title": "Ottawa restores sanctions on Iran it lifted a decade ago",
+  "orig_title": "Ottawa restores sanctions on Iran it lifted a decade ago",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSnNDeWxSelNzb3lZXzNpcUZXTDMySklsUGJZdDcwNWExNmlXWDNKalRNd2t6V1V1eW9zUzV4aDM1VWszdUwyVTNnTmVESThZRDZhVWN1RkZZQlYtRk02cGxUdFMweTdzT3NjT2xQcmtRZ2d0a1RKODdKUHhRa3BpZUZrZDNYSFFiU2tVeWF2dy1GUWVxcWVfRWktNA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSnNDeWxSelNzb3lZXzNpcUZXTDMySklsUGJZdDcwNWExNmlXWDNKalRNd2t6V1V1eW9zUzV4aDM1VWszdUwyVTNnTmVESThZRDZhVWN1RkZZQlYtRk02cGxUdFMweTdzT3NjT2xQcmtRZ2d0a1RKODdKUHhRa3BpZUZrZDNYSFFiU2tVeWF2dy1GUWVxcWVfRWktNA",
+  "snippet": "Ottawa restores sanctions on Iran it lifted a decade ago CTV News",
+  "published": "2026-11-10T21:03:24+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T04:01:04.068431+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "392f34b94d",
   "slug": "ottawa-to-reimpose-sanctions-on-iran-after-lifting-them-a-decade-prior-392f34b94d",
   "title": "Ottawa to reimpose sanctions on Iran after lifting them a decade prior",

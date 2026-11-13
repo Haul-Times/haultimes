@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T03:51:06.199878+00:00",
- "hour_now": 22,
+ "updated": "2026-11-13T04:01:03.951906+00:00",
+ "hour_now": 23,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -47,7 +47,7 @@
      0,
      0,
      9,
-     null
+     10
     ],
     "north": [
      0,
@@ -73,7 +73,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -122,7 +122,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -148,7 +148,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 1 AM",
@@ -197,7 +197,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -223,7 +223,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:37 pm EST",
+    "updated": "At 10:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -272,7 +272,7 @@
      4,
      23,
      10,
-     null
+     0
     ],
     "north": [
      5,
@@ -298,7 +298,7 @@
      14,
      10,
      1,
-     null
+     2
     ]
    },
    "best_south": "Usually fastest around 10 AM",
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:37 pm EST",
+    "updated": "At 10:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -347,7 +347,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      4,
@@ -373,7 +373,7 @@
      8,
      2,
      1,
-     null
+     1
     ]
    },
    "best_south": "Usually fastest around 1 AM",
@@ -422,7 +422,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -448,7 +448,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 3 AM",
@@ -497,7 +497,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -523,7 +523,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -572,7 +572,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -598,7 +598,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -647,7 +647,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -673,7 +673,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -722,7 +722,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -748,7 +748,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 8 AM",
@@ -797,7 +797,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -823,7 +823,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -872,7 +872,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -898,7 +898,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -947,7 +947,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -973,7 +973,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "22:42:12",
+    "updated": "23:00:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1097,7 +1097,7 @@
      0,
      0,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -1123,7 +1123,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -1191,7 +1191,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
@@ -1240,7 +1240,7 @@
      13,
      2,
      0,
-     null
+     0
     ],
     "north": [
      0,
@@ -1266,7 +1266,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -1315,7 +1315,7 @@
      3,
      10,
      4,
-     null
+     0
     ],
     "north": [
      5,
@@ -1341,7 +1341,7 @@
      5,
      11,
      5,
-     null
+     5
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "19:42:13",
+    "updated": "20:00:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1416,7 +1416,7 @@
      0,
      0,
      0,
-     null
+     0
     ]
    },
    "best_south": "Building history",
