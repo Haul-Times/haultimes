@@ -2431,7 +2431,8 @@
   "f86eed757a": "posted|breaking",
   "a03836d10b": "skipped|minor item (news) or low-quality source",
   "0455a718fb": "skipped|importance 55 is below this platform's threshold (65)",
-  "13dffc5108": "skipped|minor item (news) or low-quality source"
+  "13dffc5108": "skipped|minor item (news) or low-quality source",
+  "a14ff4abff": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4799,6 +4800,13 @@
    "title": "Trucking Recession Continues: Why Carriers Face Layoffs and Bankruptcies",
    "action": "posted",
    "reason": "breaking: importance 92, reported by a trade publication of record; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-13T20:31:32.066626+00:00",
+   "story_id": "a14ff4abff",
+   "title": "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
