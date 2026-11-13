@@ -1044,8 +1044,8 @@
    "Southern Average/Moyenne du sud de l'Ontario": 251.3,
    "Northern Average/Moyenne du nord de l'Ontario": 262.2
   },
-  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
-  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
+  "retrieved_at": "2026-11-13T23:21:28.473736+00:00",
+  "last_attempt_at": "2026-11-13T23:21:28.473736+00:00",
   "last_error": null,
   "source_url": "https://data.ontario.ca/dataset/fuels-price-survey-information"
  },
@@ -1129,10 +1129,6 @@
  "bls_truckload": {
   "points": [
    [
-    "2025-09",
-    186.058
-   ],
-   [
     "2025-10",
     184.899
    ],
@@ -1178,23 +1174,23 @@
    ],
    [
     "2026-09",
-    219.384
+    218.727
+   ],
+   [
+    "2026-10",
+    230.994
    ]
   ],
-  "period": "2026-09",
-  "value": 219.384,
-  "prev": 209.828,
-  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
-  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
+  "period": "2026-10",
+  "value": 230.994,
+  "prev": 218.727,
+  "retrieved_at": "2026-11-13T23:21:28.473736+00:00",
+  "last_attempt_at": "2026-11-13T23:21:28.473736+00:00",
   "last_error": null,
   "source_url": "https://fred.stlouisfed.org/series/PCU484121484121"
  },
  "bls_specialized": {
   "points": [
-   [
-    "2025-09",
-    153.779
-   ],
    [
     "2025-10",
     154.219
@@ -1229,26 +1225,30 @@
    ],
    [
     "2026-06",
-    170.231
+    170.874
    ],
    [
     "2026-07",
-    167.55
+    168.42
    ],
    [
     "2026-08",
-    168.4
+    170.251
    ],
    [
     "2026-09",
-    175.704
+    177.013
+   ],
+   [
+    "2026-10",
+    183.018
    ]
   ],
-  "period": "2026-09",
-  "value": 175.704,
-  "prev": 168.4,
-  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
-  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
+  "period": "2026-10",
+  "value": 183.018,
+  "prev": 177.013,
+  "retrieved_at": "2026-11-13T23:21:28.473736+00:00",
+  "last_attempt_at": "2026-11-13T23:21:28.473736+00:00",
   "last_error": null,
   "source_url": "https://fred.stlouisfed.org/series/PCU484230484230"
  },
@@ -1310,8 +1310,8 @@
   "period": "2026-06",
   "value": 131.9,
   "prev": 133.3,
-  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
-  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
+  "retrieved_at": "2026-11-13T23:21:28.473736+00:00",
+  "last_attempt_at": "2026-11-13T23:21:28.473736+00:00",
   "last_error": null,
   "source_url": "https://doi.org/10.25318/1810028101-eng",
   "label": "Truck transportation [484]"
@@ -1374,8 +1374,8 @@
   "period": "2026-09",
   "value": 449121.0,
   "prev": 456254.0,
-  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
-  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
+  "retrieved_at": "2026-11-13T23:21:28.473736+00:00",
+  "last_attempt_at": "2026-11-13T23:21:28.473736+00:00",
   "last_error": null,
   "source_url": "https://www.bts.gov/browse-statistical-products-and-data/border-crossing-data/border-crossingentry-data"
  },
