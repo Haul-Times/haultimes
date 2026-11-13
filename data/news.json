@@ -6584,6 +6584,35 @@
   "sum_pending": false
  },
  {
+  "id": "3a814b104f",
+  "slug": "thousands-of-hoax-bomb-threats-sent-to-schools-in-italy-u-k-police-say-3a814b104f",
+  "title": "Thousands of ‘hoax’ bomb threats sent to schools in Italy, U.K., police say",
+  "orig_title": "Thousands of ‘hoax’ bomb threats sent to schools in Italy, U.K., police say",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ05OMEhubDVjaUNEWTY1MDF2ckNxbnNwWWtpdXFfMmNZUUtJUVFLdVA3N3dOckYwU1FYMkJYS1RieDdEYmpKc3g1b3ZyM0hseWQ2S1VRUnZNeC1rVDBmS3RzQTUwX0JkTUY4cUVBVDNtVV9abDkwTEsyTVlVbEptVlc1UmlXMmMzRXZiV25uZ2JHQ2hmWHRYM0J2QlNrdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ05OMEhubDVjaUNEWTY1MDF2ckNxbnNwWWtpdXFfMmNZUUtJUVFLdVA3N3dOckYwU1FYMkJYS1RieDdEYmpKc3g1b3ZyM0hseWQ2S1VRUnZNeC1rVDBmS3RzQTUwX0JkTUY4cUVBVDNtVV9abDkwTEsyTVlVbEptVlc1UmlXMmMzRXZiV25uZ2JHQ2hmWHRYM0J2QlNrdw",
+  "snippet": "Thousands of ‘hoax’ bomb threats sent to schools in Italy, U.K., police say Global News",
+  "published": "2026-11-11T20:36:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T02:51:05.330596+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "35dd63d16c",
   "slug": "truck-hits-b-c-overpass-closing-highway-99-southbound-lanes-35dd63d16c",
   "title": "Truck hits B.C. overpass, closing Highway 99 southbound lanes",
