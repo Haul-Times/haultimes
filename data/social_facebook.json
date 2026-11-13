@@ -2328,7 +2328,8 @@
   "54407ab75a": "skipped|importance 55 is below this platform's threshold (65)",
   "006ee7ce4c": "skipped|importance 57 is below this platform's threshold (65)",
   "97016c823e": "skipped|importance 55 is below this platform's threshold (65)",
-  "59b5f8eb7d": "skipped|minor item (incident) or low-quality source"
+  "59b5f8eb7d": "skipped|minor item (incident) or low-quality source",
+  "28f0ae0575": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -4547,6 +4548,13 @@
    "at": "2026-11-13T16:31:27.158724+00:00",
    "story_id": "59b5f8eb7d",
    "title": "‘Chicago truck driver’ that killed mom and two young sons confirmed illegal alien",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T16:35:30.665631+00:00",
+   "story_id": "28f0ae0575",
+   "title": "18-Wheeler Rollover Shuts Down Southbound SH 130 in Travis County",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
   }
