@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:24:11.093898+00:00",
+ "updated": "2026-11-13T23:31:12.525465+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 16:15 EST"
+    "updated": "2026-11-13 18:15 EST"
    },
    "usual": {
     "south": [
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 16:52 EST"
+    "updated": "2026-11-13 18:15 EST"
    },
    "usual": {
     "south": [
@@ -243,9 +243,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 38,
-    "status": "38 minutes",
-    "updated": "2026-11-13 18:00 EST"
+    "wait": 13,
+    "status": "13 minutes",
+    "updated": "2026-11-13 18:20 EST"
    },
    "usual": {
     "south": [
@@ -293,7 +293,7 @@
      18,
      20,
      19,
-     36,
+     31,
      null,
      null,
      null,
@@ -318,9 +318,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 8,
-    "status": "8 minutes",
-    "updated": "2026-11-13 18:00 EST"
+    "wait": 16,
+    "status": "16 minutes",
+    "updated": "2026-11-13 18:20 EST"
    },
    "usual": {
     "south": [
@@ -368,7 +368,7 @@
      1,
      2,
      7,
-     9,
+     11,
      null,
      null,
      null,
@@ -395,7 +395,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 17:58 EST"
+    "updated": "2026-11-13 18:18 EST"
    },
    "usual": {
     "south": [
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 16:15 CDT"
+    "updated": "2026-11-13 18:15 CDT"
    },
    "usual": {
     "south": [
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 17:15 EST"
+    "updated": "2026-11-13 17:02 EST"
    },
    "usual": {
     "south": [
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 17:15 AST"
+    "updated": "2026-11-13 19:15 AST"
    },
    "usual": {
     "south": [
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 15:15 CST"
+    "updated": "2026-11-13 17:15 CST"
    },
    "usual": {
     "south": [
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 15,
-    "status": "15 minutes",
-    "updated": "2026-11-13 16:00 PDT"
+    "wait": 20,
+    "status": "20 minutes",
+    "updated": "2026-11-13 16:20 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 16:00 PDT"
+    "updated": "2026-11-13 16:20 PDT"
    },
    "usual": {
     "south": [
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 221",
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },

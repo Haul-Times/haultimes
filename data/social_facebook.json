@@ -2525,7 +2525,8 @@
   "18999a1b3f": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue",
   "b6b847bbf6": "posted|importance 73 (threshold 65), Industry, trade publication; waited 29 min in queue",
   "39ea0024c1": "skipped|importance 45 is below this platform's threshold (65)",
-  "58b9261ea1": "skipped|minor item (incident) or low-quality source"
+  "58b9261ea1": "skipped|minor item (incident) or low-quality source",
+  "abc8256242": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4977,6 +4978,13 @@
    "title": "AI cargo thefts top $150 million from June 2025 to June 2026",
    "action": "posted",
    "reason": "importance 73 (threshold 65), Industry, trade publication; waited 29 min in queue"
+  },
+  {
+   "at": "2026-11-13T23:31:27.551058+00:00",
+   "story_id": "abc8256242",
+   "title": "AI Props Up Economy as Trucking Faces Uncertain Road",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
