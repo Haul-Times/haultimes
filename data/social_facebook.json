@@ -2330,7 +2330,8 @@
   "97016c823e": "skipped|importance 55 is below this platform's threshold (65)",
   "59b5f8eb7d": "skipped|minor item (incident) or low-quality source",
   "28f0ae0575": "skipped|minor item (incident) or low-quality source",
-  "b75b8c105f": "skipped|importance 45 is below this platform's threshold (65)"
+  "b75b8c105f": "skipped|importance 45 is below this platform's threshold (65)",
+  "227aadbb4e": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4565,6 +4566,13 @@
    "title": "Apple Valley Council approves Lake Creek Logistics Warehouse | Exclusive",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T17:21:26.051893+00:00",
+   "story_id": "227aadbb4e",
+   "title": "Suspect in $100M Brink’s jewelry theft agrees to plead guilty in related cargo robbery case",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
