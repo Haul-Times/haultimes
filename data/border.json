@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:21:03.853513+00:00",
+ "updated": "2026-11-13T05:26:42.301949+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-12 22:15 EST"
+    "updated": "2026-11-13 00:15 EST"
    },
    "usual": {
     "south": [
@@ -164,13 +164,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:15:11",
+    "updated": "00:22:45",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-12 22:15 EST"
+    "updated": "2026-11-13 00:15 EST"
    },
    "usual": {
     "south": [
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 0:07 am EST",
+    "updated": "At 0:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -249,7 +249,7 @@
    },
    "usual": {
     "south": [
-     10,
+     7,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 0:07 am EST",
+    "updated": "At 0:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -350,7 +350,7 @@
      null
     ],
     "north": [
-     10,
+     9,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:15:11",
+    "updated": "00:22:45",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,13 +464,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:15:11",
+    "updated": "00:22:45",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-12 22:15 EST"
+    "updated": "2026-11-13 00:15 EST"
    },
    "usual": {
     "south": [
@@ -535,11 +535,11 @@
    "ports": "Massena, NY ↔ Cornwall, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:15:11",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,13 +689,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:15:11",
+    "updated": "00:22:45",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-12 22:15 EST"
+    "updated": "2026-11-13 00:15 EST"
    },
    "usual": {
     "south": [
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:15:11",
+    "updated": "00:22:45",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:15:11",
+    "updated": "00:22:45",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-12 23:15 AST"
+    "updated": "2026-11-13 01:15 AST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:15:11",
+    "updated": "00:22:45",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1070,7 +1070,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-12 22:15 CDT"
+    "updated": "2026-11-13 00:15 CDT"
    },
    "usual": {
     "south": [
@@ -1318,7 +1318,7 @@
      null
     ],
     "north": [
-     33,
+     34,
      null,
      null,
      null,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "21:15:11",
+    "updated": "21:22:45",
     "hours": "24 hrs/day"
    },
    "north": {
