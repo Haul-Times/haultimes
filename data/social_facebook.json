@@ -2286,7 +2286,9 @@
   "c72cac9a27": "skipped|importance 55 is below this platform's threshold (65)",
   "f4d810cf58": "skipped|minor item (feature) or low-quality source",
   "c016fd3619": "posted|importance 75 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue",
-  "1d1fda3259": "skipped|importance 55 is below this platform's threshold (65)"
+  "1d1fda3259": "skipped|importance 55 is below this platform's threshold (65)",
+  "d1086cf64c": "skipped|importance 55 is below this platform's threshold (65)",
+  "971f57cf9b": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4451,6 +4453,20 @@
    "title": "Cargojet fleet optimization boosts productivity, fuels record Q3 revenue",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T14:51:37.044057+00:00",
+   "story_id": "d1086cf64c",
+   "title": "Proficient Auto Logistics eyes margin recovery after challenging Q3",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T14:51:37.044057+00:00",
+   "story_id": "971f57cf9b",
+   "title": "Nebraska Trucking Company Accused of 401(k) Plan Self-Dealing",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
