@@ -1,5 +1,34 @@
 [
  {
+  "id": "8ed586fdb6",
+  "slug": "manitoban-charged-for-allegedly-forcing-foreign-workers-to-pay-up-to-3-8ed586fdb6",
+  "title": "Manitoban charged for allegedly forcing foreign workers to pay up to $30K for jobs",
+  "orig_title": "Manitoban charged for allegedly forcing foreign workers to pay up to $30K for jobs",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDhsOXh3UTRxU1dWRWhVMEs5RGo4SnhaNG5wdHMwV2tjOGZlSUxSYmhfRXFkNlFqMWpQTzNzdzY1aHJGV3JkcUNIalZqaVRJN19qOWxWM0NOa1pZdTZYclRrb1laVFB2ZHJ0OU5iTG5NeFFFMjNieDAyZXBTV25UbVUycHZNLXJPUkV5TU1tN1lSZFg4YWZqX2lRT0N1Y0E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDhsOXh3UTRxU1dWRWhVMEs5RGo4SnhaNG5wdHMwV2tjOGZlSUxSYmhfRXFkNlFqMWpQTzNzdzY1aHJGV3JkcUNIalZqaVRJN19qOWxWM0NOa1pZdTZYclRrb1laVFB2ZHJ0OU5iTG5NeFFFMjNieDAyZXBTV25UbVUycHZNLXJPUkV5TU1tN1lSZFg4YWZqX2lRT0N1Y0E",
+  "snippet": "Manitoban charged for allegedly forcing foreign workers to pay up to $30K for jobs CBC",
+  "published": "2026-11-13T15:49:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T16:03:02.196032+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a258e2848e",
   "slug": "port-of-los-angeles-sets-october-record-tops-1-million-teu-for-second-a258e2848e",
   "title": "Port of Los Angeles sets October record, tops 1 million TEU for second straight month",
@@ -81,7 +110,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.worktruckonline.com/news/thanksgiving-cargo-theft-risks-put-fleet-security-in-focus",
   "source_note": "ok · 689 words"
  },
