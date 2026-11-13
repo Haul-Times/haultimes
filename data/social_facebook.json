@@ -2329,7 +2329,8 @@
   "006ee7ce4c": "skipped|importance 57 is below this platform's threshold (65)",
   "97016c823e": "skipped|importance 55 is below this platform's threshold (65)",
   "59b5f8eb7d": "skipped|minor item (incident) or low-quality source",
-  "28f0ae0575": "skipped|minor item (incident) or low-quality source"
+  "28f0ae0575": "skipped|minor item (incident) or low-quality source",
+  "b75b8c105f": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4557,6 +4558,13 @@
    "title": "18-Wheeler Rollover Shuts Down Southbound SH 130 in Travis County",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T17:01:40.747711+00:00",
+   "story_id": "b75b8c105f",
+   "title": "Apple Valley Council approves Lake Creek Logistics Warehouse | Exclusive",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
