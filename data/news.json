@@ -11267,6 +11267,35 @@
   "sum_pending": false
  },
  {
+  "id": "c0e9af3b64",
+  "slug": "is-your-relative-honoured-with-a-geo-memorial-c0e9af3b64",
+  "title": "Is your relative honoured with a Geo-Memorial?",
+  "orig_title": "Is your relative honoured with a Geo-Memorial?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWRNOVEyZW1NUS10NWY3WTRNQkRweEJ5WTRGVDFQUTFXaVMwaXp3a2t0RURhRHZ6MVJvZF9xLW1BUktqUnVmQnlDTVFUN3RrNkNjNmk2RFBMLWF6Y0M2TGJPbV80RkhmTkR0OVhLZWRYVVh2bjc5VTR6bVhyN2VmYjUxNFBMd3UxRXRhZ2xudmwxNEEwR1BGNDFfLWw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWRNOVEyZW1NUS10NWY3WTRNQkRweEJ5WTRGVDFQUTFXaVMwaXp3a2t0RURhRHZ6MVJvZF9xLW1BUktqUnVmQnlDTVFUN3RrNkNjNmk2RFBMLWF6Y0M2TGJPbV80RkhmTkR0OVhLZWRYVVh2bjc5VTR6bVhyN2VmYjUxNFBMd3UxRXRhZ2xudmwxNEEwR1BGNDFfLWw",
+  "snippet": "Is your relative honoured with a Geo-Memorial? Global News",
+  "published": "2026-11-11T21:48:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T22:31:04.130878+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6c9666a74d",
   "slug": "overdriveonline-com-6c9666a74d",
   "title": "- overdriveonline.com",
