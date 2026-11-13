@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:32:08.308659+00:00",
+ "updated": "2026-11-13T09:41:35.273114+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:27 am EST",
+    "updated": "At 4:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:27 am EST",
+    "updated": "At 4:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:31:02",
+    "updated": "04:41:10",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:31:02",
+    "updated": "04:41:10",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:31:02",
+    "updated": "03:41:10",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1322,7 +1322,7 @@
      6,
      5,
      5,
-     6,
+     7,
      null,
      null,
      null,
@@ -1353,11 +1353,11 @@
    "ports": "Sumas, WA ↔ Abbotsford, BC",
    "region": "bc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:31:02",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 3:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1371,7 +1371,7 @@
      null,
      null,
      null,
-     null,
+     0,
      null,
      null,
      null,

@@ -6379,6 +6379,35 @@
   "sum_pending": false
  },
  {
+  "id": "0eaef93b25",
+  "slug": "balmy-november-across-alberta-triggers-wildfire-advisories-and-warning-0eaef93b25",
+  "title": "Balmy November across Alberta triggers wildfire advisories and warnings",
+  "orig_title": "Balmy November across Alberta triggers wildfire advisories and warnings",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sRkQ3OHVJNndoNWcySVBWTEtRVTkwZmc0SzNVUEJJelV3NmkySWo4b1VKQ0kwYjVVZzZvNW1VSXBDYWgtU0NqSHJ2RFFfUmgzYXk3OFlZSGttNVdNZ09OWlJhOFo2VExtMVNHOFJ4YXJiQW5HX0E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sRkQ3OHVJNndoNWcySVBWTEtRVTkwZmc0SzNVUEJJelV3NmkySWo4b1VKQ0kwYjVVZzZvNW1VSXBDYWgtU0NqSHJ2RFFfUmgzYXk3OFlZSGttNVdNZ09OWlJhOFo2VExtMVNHOFJ4YXJiQW5HX0E",
+  "snippet": "Balmy November across Alberta triggers wildfire advisories and warnings Global News",
+  "published": "2026-11-11T23:40:19+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T09:41:35.440774+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b94ac31c02",
   "slug": "b-c-cafe-goes-cashless-after-two-break-ins-in-two-months-b94ac31c02",
   "title": "B.C. cafe goes cashless after two break-ins in two months",
@@ -24629,33 +24658,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "1e5059c439",
-  "slug": "drivers-federation-demands-answers-after-killing-of-two-ugandans-in-so-1e5059c439",
-  "title": "Drivers federation demands answers after killing of Two Ugandans in South Sudan",
-  "orig_title": "Drivers federation demands answers after killing of Two Ugandans in South Sudan",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Independent Uganda",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzh2YVJZTTFrWDU3NG45S2Y4M0Z1WHZDVWRrVFo2ODQzbzU0LTQ2dEFPWVFTQUVYYnhmWWJ3dHFIbWtMblpHTDI2LUFXZXU0WlJrbkpHQU5sS1h4Mi1RdjhGSTAySGhnbEl3YlJzX2NFTmQ0VEVzc3o1enJfWnpfb2JVZTIzUjRiSERWYk5lbWxoNU5EbkZDR0xoSnh5U0NOMVlES1piWGtiOUV1bW00?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzh2YVJZTTFrWDU3NG45S2Y4M0Z1WHZDVWRrVFo2ODQzbzU0LTQ2dEFPWVFTQUVYYnhmWWJ3dHFIbWtMblpHTDI2LUFXZXU0WlJrbkpHQU5sS1h4Mi1RdjhGSTAySGhnbEl3YlJzX2NFTmQ0VEVzc3o1enJfWnpfb2JVZTIzUjRiSERWYk5lbWxoNU5EbkZDR0xoSnh5U0NOMVlES1piWGtiOUV1bW00",
-  "snippet": "Drivers federation demands answers after killing of Two Ugandans in South Sudan The Independent Uganda",
-  "published": "2026-11-09T06:00:31+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-09T09:36:20.132521+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
   ],
   "labels": [],
   "kind": "rejected",
