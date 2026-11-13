@@ -1,5 +1,34 @@
 [
  {
+  "id": "da773a9098",
+  "slug": "driver-conduct-why-uk-truckers-lose-their-licence-da773a9098",
+  "title": "Driver conduct: why UK truckers lose their licence",
+  "orig_title": "Driver conduct: why UK truckers lose their licence",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Trans.INFO",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXVYd1RFVEpWUzJCcllIVjlSUVhaMi1lblZGZ1FBWVdIdE5aLWFuRlMyZ1U5eUgtQ0oxenkwdy1XZll4QjZpbDBhcG1xTVo4eWpCcmpka3ZhYmVMdHZfTnBQdFp2T0tTc0ZXbzFnSVVxOVFpS3FRelB5SVpNUzVpWTJUSldpcE9ud0dJNlQ2NFRFYTd6?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXVYd1RFVEpWUzJCcllIVjlSUVhaMi1lblZGZ1FBWVdIdE5aLWFuRlMyZ1U5eUgtQ0oxenkwdy1XZll4QjZpbDBhcG1xTVo4eWpCcmpka3ZhYmVMdHZfTnBQdFp2T0tTc0ZXbzFnSVVxOVFpS3FRelB5SVpNUzVpWTJUSldpcE9ud0dJNlQ2NFRFYTd6",
+  "snippet": "Driver conduct: why UK truckers lose their licence Trans.INFO",
+  "published": "2026-11-13T11:28:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T11:31:05.133048+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "af8b7c0fb9",
   "slug": "ontario-career-college-forced-into-layoffs-as-student-funding-stalls-af8b7c0fb9",
   "title": "Ontario career college forced into layoffs as student funding stalls",
@@ -2626,6 +2655,35 @@
   "sum_tries": 3,
   "pub_url": "https://ontruck.org/erb-truck-driver-recognized-as-driver-of-the-year-for-professionalism-dedication-and-commitment-to-helping-others/",
   "source_note": "ok · 640 words"
+ },
+ {
+  "id": "ea0767b979",
+  "slug": "mighty-smallidays-holiday-campaign-bc-children-s-hospital-foundation-p-ea0767b979",
+  "title": "Mighty Smallidays Holiday Campaign – BC Children’s Hospital Foundation proudly supported by Global BC",
+  "orig_title": "Mighty Smallidays Holiday Campaign – BC Children’s Hospital Foundation proudly supported by Global BC",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZURUOGhBTUdrZFZ6YWJFQXhJVEJYcjVNMmZHNl9iV2J2UWhVRzFxeUptb2JxU2xGNUpCdmlFeFJwS1QzemZpcW9zVUYwbnVtWHZxYS00VjZpTTRwZDJzNWxhZHEySTR1aEFRMmRyc25uTEdVLXhCYzhwLW9qOVZkcFc1ODNzc2lzTTRTVEg1REtzY3JSR2hKS1pCc0VnVnVaRWFGa3p5YTdBd2tjZlRPUDNBSWJmR0NnUGdmZmV4Mmx6OTN3MlptbFlIVXNCWGhBM3c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZURUOGhBTUdrZFZ6YWJFQXhJVEJYcjVNMmZHNl9iV2J2UWhVRzFxeUptb2JxU2xGNUpCdmlFeFJwS1QzemZpcW9zVUYwbnVtWHZxYS00VjZpTTRwZDJzNWxhZHEySTR1aEFRMmRyc25uTEdVLXhCYzhwLW9qOVZkcFc1ODNzc2lzTTRTVEg1REtzY3JSR2hKS1pCc0VnVnVaRWFGa3p5YTdBd2tjZlRPUDNBSWJmR0NnUGdmZmV4Mmx6OTN3MlptbFlIVXNCWGhBM3c",
+  "snippet": "Mighty Smallidays Holiday Campaign – BC Children’s Hospital Foundation proudly supported by Global BC Global News",
+  "published": "2026-11-12T18:27:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T11:31:05.133048+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e8f3a97628",
@@ -24353,33 +24411,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
- },
- {
-  "id": "46e0cac928",
-  "slug": "south-sudan-releases-bodies-of-two-ugandan-truck-drivers-killed-in-amb-46e0cac928",
-  "title": "South Sudan Releases Bodies of Two Ugandan Truck Drivers Killed in Ambush",
-  "orig_title": "South Sudan Releases Bodies of Two Ugandan Truck Drivers Killed in Ambush",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Uganda Radionetwork",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDlfbWthbzRYalhuMUtqUjhUSWd0QUg5V3VFUjN5QTY0cnZ2Rm12ZnctSEhPb1JzcWY4YTlmYlFiODVORzc1RjRyam96NFdfNEx4N052c2ZjZVBVOEFqTW12aWV2UU9peC1jNXZWa1BWSTl0T3c5MHd4UElZNTNxNmpCYU5QR3FmMjJSbGJnMU1Rb2J5Z1ZZWGhFd3VUMFNBcUs4SWRyV2w1aUkxazZV?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDlfbWthbzRYalhuMUtqUjhUSWd0QUg5V3VFUjN5QTY0cnZ2Rm12ZnctSEhPb1JzcWY4YTlmYlFiODVORzc1RjRyam96NFdfNEx4N052c2ZjZVBVOEFqTW12aWV2UU9peC1jNXZWa1BWSTl0T3c5MHd4UElZNTNxNmpCYU5QR3FmMjJSbGJnMU1Rb2J5Z1ZZWGhFd3VUMFNBcUs4SWRyV2w1aUkxazZV",
-  "snippet": "South Sudan Releases Bodies of Two Ugandan Truck Drivers Killed in Ambush Uganda Radionetwork",
-  "published": "2026-11-09T10:36:45+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-09T11:27:10.700013+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
