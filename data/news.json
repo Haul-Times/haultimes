@@ -169,7 +169,11 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "b6b847bbf6",
@@ -374,7 +378,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.foxnews.com/video/6408345237112",
+  "source_note": "excerpt only · 29 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "007c4c1577",
@@ -774,7 +783,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/rcmp-arrests-man-who-allegedly-stole-trucks-hit-police-vehicle-in-southwest-nova-scotia/",
   "source_note": "ok · 283 words"
