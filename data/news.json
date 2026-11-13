@@ -1,5 +1,34 @@
 [
  {
+  "id": "69a15cfc1b",
+  "slug": "chile-truckers-protest-69a15cfc1b",
+  "title": "Chile Truckers Protest",
+  "orig_title": "Chile Truckers Protest",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Goshen News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbzdmZjFpUlFQUUNoUGY1eThIWlRVbUY1c2VHREVPVVJUZnJueDlKMjlxQVREYnJVRnh2MWZHNXVLb0Znd0M2Z1RrV0dJWllNbE1ZMTlpX0J4aGszcXBPeEtUQWtkbTN0QUMtYlRpanVqbGZrZG85dzI5QTFXMDdYX0xKWXNTNUp0RGdwMUtoaG03QUkyeWFyUGVibmxrdGJyQ2IxMUY2ay1Hd3pKblZKa0ZFZnFJUEU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbzdmZjFpUlFQUUNoUGY1eThIWlRVbUY1c2VHREVPVVJUZnJueDlKMjlxQVREYnJVRnh2MWZHNXVLb0Znd0M2Z1RrV0dJWllNbE1ZMTlpX0J4aGszcXBPeEtUQWtkbTN0QUMtYlRpanVqbGZrZG85dzI5QTFXMDdYX0xKWXNTNUp0RGdwMUtoaG03QUkyeWFyUGVibmxrdGJyQ2IxMUY2ay1Hd3pKblZKa0ZFZnFJUEU",
+  "snippet": "Chile Truckers Protest Goshen News",
+  "published": "2026-11-12T23:49:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T01:11:07.460395+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b6c3c87164",
   "slug": "heavy-duty-trucking-b6c3c87164",
   "title": "- Heavy Duty Trucking",
