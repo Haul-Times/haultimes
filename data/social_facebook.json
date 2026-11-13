@@ -2325,7 +2325,8 @@
   "d1086cf64c": "skipped|importance 55 is below this platform's threshold (65)",
   "971f57cf9b": "skipped|importance 50 is below this platform's threshold (65)",
   "promo-20261113": "posted|HaulTimes update",
-  "54407ab75a": "skipped|importance 55 is below this platform's threshold (65)"
+  "54407ab75a": "skipped|importance 55 is below this platform's threshold (65)",
+  "006ee7ce4c": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4525,6 +4526,13 @@
    "title": "3 trucking businesses go bankrupt in California, Illinois and Maryland",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T15:42:33.371032+00:00",
+   "story_id": "006ee7ce4c",
+   "title": "Thanksgiving Cargo Theft Risks Put Fleet Security in Focus",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
