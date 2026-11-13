@@ -1716,6 +1716,34 @@
     "created": "2026-11-12T23:21:25+0000",
     "at": "2026-11-12T23:31:24.234632+00:00"
    }
+  },
+  "0d199a048a": {
+   "story_id": "0d199a048a",
+   "title": "FMCSA boots 133 ELD off registry in fruad crackdown",
+   "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYzBxaHh4M2pHRHVZaTNiRkM0bi1MV2x5ZDlpdHF0Q0t6WjZDMmtFODBTWHJ4V2w1dlZoRnY0ZFJJQkNQSVQ3WVBIVGdRd2JMVlkxNWw3UXJhdGowM1RfVmMwQVVud2N1cEVUcWtUM1BBbFJZVGpfaTQ3NkVJdXFtVG5udjhKY0xDM18wY0pIZzFMMHhuTGhQbGtBalA3VUxQaDV1SGMzaVQyTDJNbllSSWdvM1Rwb1V0SURFSl9tQl9kd1E",
+   "category": "regs",
+   "source": "Commercial Carrier Journal",
+   "dest": "https://haultimes.com/story/fmcsa-boots-133-eld-off-registry-in-fruad-crackdown-0d199a048a/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=0d199a048a",
+   "caption": "FMCSA boots 133 ELD off registry in fruad crackdown.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-13T01:21:30.006851+00:00",
+   "published": "2026-11-12T23:31:32+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "FMCSA boots 133 ELD off registry in fruad crackdown | HaulTimes",
+    "og:description": "Reported by Commercial Carrier Journal. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/7c6585eb6c.png",
+    "og:url": "https://haultimes.com/story/fmcsa-boots-133-eld-off-registry-in-fruad-crackdown-0d199a048a/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -2142,7 +2170,8 @@
   "81784487df": "skipped|importance 55 is below this platform's threshold (65)",
   "edfbb375ba": "skipped|importance 45 is below this platform's threshold (65)",
   "eaa1d6aafb": "skipped|importance 45 is below this platform's threshold (65)",
-  "ca86f76a97": "skipped|minor item (incident) or low-quality source"
+  "ca86f76a97": "skipped|minor item (incident) or low-quality source",
+  "0d199a048a": "queued|importance 67 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -4188,6 +4217,13 @@
    "title": "‘Crash for cash’: Drivers intentionally causing wrecks target tractor-trailers for insurance payouts",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T01:21:30.006851+00:00",
+   "story_id": "0d199a048a",
+   "title": "FMCSA boots 133 ELD off registry in fruad crackdown",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {
