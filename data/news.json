@@ -8666,6 +8666,72 @@
   "sum_pending": false
  },
  {
+  "id": "90d82e9f37",
+  "slug": "trucking-by-the-numbers-driver-stats-for-hire-vs-private-90d82e9f37",
+  "title": "Trucking By the Numbers: Driver stats, for-hire vs private",
+  "orig_title": "Trucking By the Numbers: Driver stats, for-hire vs private",
+  "summary": "FleetOwner's annual Trucking By the Numbers feature looks at driver figures for for-hire and private fleets. Citing the U.S. Bureau of Labor Statistics, it puts the number of heavy- and tractor-trailer truck drivers at about 2.2 million in 2025. According to the American Transportation Research Institute, the ratio of drivers to trucks dropped to 0.9 that year, and for-hire annual turnover was about 44.2%, down from 48% in 2024. The article says turnover was highest at the largest truckload fleets, at 70.7%. A National Private Truck Council survey of 89 private fleet respondents reported a 17.1% turnover rate, with about 58% of private fleet drivers able to go home every night. Compared with the ATA annualized salary, the surveyed private fleets paid about 19% higher wages.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 55,
+  "source": "FleetOwner",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmhzU044RW9QX2NZZ1J0aFdOR09wOUdFYkdOWjVoTGpHZlZ3OXA2Mms0VXRXRkZLQmttbnk4Zm9FZ2lMZVZ1RnVnNEZEYTBvTVlycnFweGtaZ2FiU0ZUcEJDMzhBVEJIWk85YTB5eTVNcWs0RkRyc08wdmoxYzY4cDNhYTJaanZVY3B3cUgtQXR1cW84NS1JRG92ZzRCYUtEbUFZMEVZQThUOGlEejNNdlYwUlR4UGRK?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmhzU044RW9QX2NZZ1J0aFdOR09wOUdFYkdOWjVoTGpHZlZ3OXA2Mms0VXRXRkZLQmttbnk4Zm9FZ2lMZVZ1RnVnNEZEYTBvTVlycnFweGtaZ2FiU0ZUcEJDMzhBVEJIWk85YTB5eTVNcWs0RkRyc08wdmoxYzY4cDNhYTJaanZVY3B3cUgtQXR1cW84NS1JRG92ZzRCYUtEbUFZMEVZQThUOGlEejNNdlYwUlR4UGRK",
+  "snippet": "Trucking By the Numbers: Driver stats, for-hire vs private FleetOwner",
+  "published": "2026-11-11T15:03:49+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T04:11:11.531882+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/operations/article/55417849/trucking-by-the-numbers-2026-for-hire-private-and-driver-stats",
+  "source_note": "ok · 1044 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "7b863498d5bf97ad",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-13T04:11:11.531882+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "FleetOwner's annual feature on the industry's most important and interesting metrics"
+   },
+   {
+    "sentence": "2",
+    "quote": "the U.S. employed about 2.2 million heavy- and tractor-trailer truck drivers in 2025"
+   },
+   {
+    "sentence": "3",
+    "quote": "the ratio of truck drivers to trucks dropped to 0.9 in 2025"
+   },
+   {
+    "sentence": "4",
+    "quote": "ATRI found that turnover was highest among the largest truckload fleets (70.7% turnover)"
+   },
+   {
+    "sentence": "5",
+    "quote": "private fleets have a driver turnover rate of only 17.1%"
+   },
+   {
+    "sentence": "6",
+    "quote": "private fleets surveyed by NPTC paid about 19% higher wages"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 55
+ },
+ {
   "id": "dce8683f46",
   "slug": "electrovaya-to-ramp-up-battery-production-for-diesel-conversions-dce8683f46",
   "title": "Electrovaya to ramp up battery production for diesel conversions",
