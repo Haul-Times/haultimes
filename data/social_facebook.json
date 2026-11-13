@@ -2326,7 +2326,8 @@
   "971f57cf9b": "skipped|importance 50 is below this platform's threshold (65)",
   "promo-20261113": "posted|HaulTimes update",
   "54407ab75a": "skipped|importance 55 is below this platform's threshold (65)",
-  "006ee7ce4c": "skipped|importance 57 is below this platform's threshold (65)"
+  "006ee7ce4c": "skipped|importance 57 is below this platform's threshold (65)",
+  "97016c823e": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4533,6 +4534,13 @@
    "title": "Thanksgiving Cargo Theft Risks Put Fleet Security in Focus",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T15:51:30.587710+00:00",
+   "story_id": "97016c823e",
+   "title": "Driver Qualification: Getting the hiring process right",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
