@@ -2193,7 +2193,8 @@
   "a878a3cd60": "skipped|minor item (feature) or low-quality source",
   "f509b289e5": "skipped|importance 55 is below this platform's threshold (65)",
   "ddcdaee5ff": "skipped|importance 62 is below this platform's threshold (65)",
-  "b3633ecc40": "skipped|minor item (crime) or low-quality source"
+  "b3633ecc40": "skipped|minor item (crime) or low-quality source",
+  "4ec4ba5fe6": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4281,6 +4282,13 @@
    "title": "Gombe By-Pass At Standstill As Truck Drivers Protest Shooting Of Colleague",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T11:21:30.419535+00:00",
+   "story_id": "4ec4ba5fe6",
+   "title": "Seasonal changes also changes driving risks for truckers",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

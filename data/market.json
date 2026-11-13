@@ -1044,8 +1044,8 @@
    "Southern Average/Moyenne du sud de l'Ontario": 251.3,
    "Northern Average/Moyenne du nord de l'Ontario": 262.2
   },
-  "retrieved_at": "2026-11-12T23:21:23.990756+00:00",
-  "last_attempt_at": "2026-11-12T23:21:23.990756+00:00",
+  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
+  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
   "last_error": null,
   "source_url": "https://data.ontario.ca/dataset/fuels-price-survey-information"
  },
@@ -1184,8 +1184,8 @@
   "period": "2026-09",
   "value": 219.384,
   "prev": 209.828,
-  "retrieved_at": "2026-11-12T23:21:23.990756+00:00",
-  "last_attempt_at": "2026-11-12T23:21:23.990756+00:00",
+  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
+  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
   "last_error": null,
   "source_url": "https://fred.stlouisfed.org/series/PCU484121484121"
  },
@@ -1247,8 +1247,8 @@
   "period": "2026-09",
   "value": 175.704,
   "prev": 168.4,
-  "retrieved_at": "2026-11-12T23:21:23.990756+00:00",
-  "last_attempt_at": "2026-11-12T23:21:23.990756+00:00",
+  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
+  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
   "last_error": null,
   "source_url": "https://fred.stlouisfed.org/series/PCU484230484230"
  },
@@ -1310,8 +1310,8 @@
   "period": "2026-06",
   "value": 131.9,
   "prev": 133.3,
-  "retrieved_at": "2026-11-12T23:21:23.990756+00:00",
-  "last_attempt_at": "2026-11-12T23:21:23.990756+00:00",
+  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
+  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
   "last_error": null,
   "source_url": "https://doi.org/10.25318/1810028101-eng",
   "label": "Truck transportation [484]"
@@ -1374,8 +1374,8 @@
   "period": "2026-09",
   "value": 449121.0,
   "prev": 456254.0,
-  "retrieved_at": "2026-11-12T23:21:23.990756+00:00",
-  "last_attempt_at": "2026-11-12T23:21:23.990756+00:00",
+  "retrieved_at": "2026-11-13T11:21:27.483776+00:00",
+  "last_attempt_at": "2026-11-13T11:21:27.483776+00:00",
   "last_error": null,
   "source_url": "https://www.bts.gov/browse-statistical-products-and-data/border-crossing-data/border-crossingentry-data"
  },
