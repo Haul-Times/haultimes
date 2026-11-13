@@ -412,6 +412,35 @@
   "sum_pending": false
  },
  {
+  "id": "a85381957f",
+  "slug": "arresting-the-criminal-aspect-of-the-affordability-problem-a85381957f",
+  "title": "Arresting the Criminal Aspect of the Affordability Problem",
+  "orig_title": "Arresting the Criminal Aspect of the Affordability Problem",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "RealClearMarkets",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeG5Sb1VqUncxOVdETFRWWTN3S1VQdFVMTFg3cFY2TGRxd0ZhWlRGRHFRYUdqSU5JM3VqYmNVNmhEaDJXNFhSNlhRQjFJMnZwV3ZiaWJXRFZBNEE3UjREbnVpbmxORmFtMllpc1pGN0ZYNWYxMXYtbjVWX1lUZktyT0hqZUhLdWF0X0pIT3BPTEhaREl2LUVBQjhyWWFBMEJsYWdfdWN4OXBBN2ZJT3B5VEpLaF8xRDlyVEJaY1h4cmIyUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeG5Sb1VqUncxOVdETFRWWTN3S1VQdFVMTFg3cFY2TGRxd0ZhWlRGRHFRYUdqSU5JM3VqYmNVNmhEaDJXNFhSNlhRQjFJMnZwV3ZiaWJXRFZBNEE3UjREbnVpbmxORmFtMllpc1pGN0ZYNWYxMXYtbjVWX1lUZktyT0hqZUhLdWF0X0pIT3BPTEhaREl2LUVBQjhyWWFBMEJsYWdfdWN4OXBBN2ZJT3B5VEpLaF8xRDlyVEJaY1h4cmIyUQ",
+  "snippet": "Arresting the Criminal Aspect of the Affordability Problem RealClearMarkets",
+  "published": "2026-11-13T20:44:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T23:01:07.836846+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "39ea0024c1",
   "slug": "ohio-residents-say-uzbek-trucking-boom-has-turned-their-lives-upside-d-39ea0024c1",
   "title": "Ohio residents say Uzbek trucking boom has turned their lives upside down: ‘Somebody needs to take notice’",
@@ -24028,33 +24057,6 @@
   "source_note": "ok · 2501 words"
  },
  {
-  "id": "2e52a3b319",
-  "slug": "7star-archives-2e52a3b319",
-  "title": "7Star Archives",
-  "orig_title": "7Star Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TVml1T3BWZFc4QWR3dlpBZjY2R1VBeDBMaG5LemxoU3ZCeFdCTHJxS1ZKWTlwekNaNWRYS0FFZVRPeGJOLVJPLUVMcVVybVZXb1E?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TVml1T3BWZFc4QWR3dlpBZjY2R1VBeDBMaG5LemxoU3ZCeFdCTHJxS1ZKWTlwekNaNWRYS0FFZVRPeGJOLVJPLUVMcVVybVZXb1E",
-  "snippet": "7Star Archives Truck News",
-  "published": "2026-11-09T22:45:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-09T22:57:39.611500+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "d21eec4468",
   "slug": "truck-enforcements-widen-to-maryland-dc-as-128-drivers-sidelined-d21eec4468",
   "title": "Truck enforcements widen to Maryland, DC as 128 drivers sidelined",
@@ -24647,33 +24649,6 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "3ddcf6d675",
-  "slug": "breaking-tyler-robinson-trial-starts-june-2028-over-murder-of-charlie-3ddcf6d675",
-  "title": "BREAKING: Tyler Robinson trial starts June 2028 over murder of Charlie Kirk",
-  "orig_title": "BREAKING: Tyler Robinson trial starts June 2028 over murder of Charlie Kirk",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Post Millennial",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1ZxeEhuZlRxZS1TM2hCLTUzTWg3QlFPTnhKdkhVLUw1WHFCVzN6eFRrR0JlaE9sX0xGd3J0RmpCdmEyR3F5OW5GMFdNVHFHOXF4VkdBSUpFUTdXYWxBczZ5QjFKS3lRYllFZ3M0ZmtTa1gxTTJOZU9yWUIwdUI4VDZxbGpHX0YwOGxrTEt6UkF2Z2NOUGx4WjlOQl8yZkx2cDM0M3NqRUdfV2xXMGc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1ZxeEhuZlRxZS1TM2hCLTUzTWg3QlFPTnhKdkhVLUw1WHFCVzN6eFRrR0JlaE9sX0xGd3J0RmpCdmEyR3F5OW5GMFdNVHFHOXF4VkdBSUpFUTdXYWxBczZ5QjFKS3lRYllFZ3M0ZmtTa1gxTTJOZU9yWUIwdUI4VDZxbGpHX0YwOGxrTEt6UkF2Z2NOUGx4WjlOQl8yZkx2cDM0M3NqRUdfV2xXMGc",
-  "snippet": "BREAKING: Tyler Robinson trial starts June 2028 over murder of Charlie Kirk The Post Millennial",
-  "published": "2026-11-09T20:51:04+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-09T22:57:39.611500+00:00",
-  "image": "",
-  "ai": false,
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
@@ -25682,33 +25657,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/dat-reefer-spot-rates-climbs-as-holiday-freight-starts-moving",
   "source_note": "ok · 986 words"
- },
- {
-  "id": "af6752d55c",
-  "slug": "brevard-school-board-to-vote-on-superintendent-departure-payout-af6752d55c",
-  "title": "Brevard school board to vote on superintendent departure, payout",
-  "orig_title": "Brevard school board to vote on superintendent departure, payout",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Bradenton Herald",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oTmlMWTVEX1h6bzdLb3l3UXNZMG9hMXl1TWJnQWRGWU02UjRyQ2JMd013NF9fV2hpM1lQcVFacGZuLVVwSGN2Z2otT0JoVTgxYmQ2dFFIVFFMS09zSzA2OHRR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oTmlMWTVEX1h6bzdLb3l3UXNZMG9hMXl1TWJnQWRGWU02UjRyQ2JMd013NF9fV2hpM1lQcVFacGZuLVVwSGN2Z2otT0JoVTgxYmQ2dFFIVFFMS09zSzA2OHRR",
-  "snippet": "Brevard school board to vote on superintendent departure, payout Bradenton Herald",
-  "published": "2026-11-09T17:17:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-09T22:57:39.611500+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "708c2ac4b9",
