@@ -1890,7 +1890,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-13T18:41:34.904782+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122103253557544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122103253557544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122103253557544428",
+    "created": "2026-11-13T18:41:35+0000",
+    "at": "2026-11-13T18:51:32.957830+00:00"
+   }
   }
  },
  "paused": null,
@@ -2370,7 +2378,9 @@
   "3840e3af22": "skipped|importance 55 is below this platform's threshold (65)",
   "54aba85881": "skipped|minor item (news) or low-quality source",
   "5ab3224e2b": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 12 min in queue",
-  "3e0648bf16": "skipped|importance 55 is below this platform's threshold (65)"
+  "3e0648bf16": "skipped|importance 55 is below this platform's threshold (65)",
+  "a711c84c1d": "skipped|minor item (event) or low-quality source",
+  "2d5cc0fc8d": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4654,16 +4664,30 @@
    "title": "Senate bill aims to guarantee truck drivers restroom access at delivery sites",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 12 min in queue"
+  },
+  {
+   "at": "2026-11-13T18:51:32.957830+00:00",
+   "story_id": "a711c84c1d",
+   "title": "The High-Cost Reality of Trucking — And What to Do About It (webinar replay)",
+   "action": "skipped",
+   "reason": "minor item (event) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T18:51:32.957830+00:00",
+   "story_id": "2d5cc0fc8d",
+   "title": "Werner $18M Truck Driver Settlement: Checks Going Out",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122103140127544428",
+  "post": "1476615495528085_122103253557544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122103140127544428",
-  "created": "2026-11-13T15:22:22+0000",
-  "at": "2026-11-13T15:32:09.446557+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122103253557544428",
+  "created": "2026-11-13T18:41:35+0000",
+  "at": "2026-11-13T18:51:32.957830+00:00"
  },
  "promo_i": 2
 }
