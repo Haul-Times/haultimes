@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:11:05.085211+00:00",
+ "updated": "2026-11-13T05:21:03.853513+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:09",
+    "updated": "00:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 17,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At Midnight EST",
+    "status": "no delay",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -249,7 +249,7 @@
    },
    "usual": {
     "south": [
-     15,
+     10,
      null,
      null,
      null,
@@ -275,7 +275,7 @@
      null
     ],
     "north": [
-     6,
+     7,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -350,7 +350,7 @@
      null
     ],
     "north": [
-     11,
+     10,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:09",
+    "updated": "00:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:09",
+    "updated": "00:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:09",
+    "updated": "00:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:09",
+    "updated": "00:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:09",
+    "updated": "00:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:09",
+    "updated": "00:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:10:09",
+    "updated": "00:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "21:10:09",
+    "updated": "21:15:11",
     "hours": "24 hrs/day"
    },
    "north": {
