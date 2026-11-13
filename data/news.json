@@ -1136,6 +1136,35 @@
   "sum_pending": false
  },
  {
+  "id": "435d7f63b2",
+  "slug": "college-scholarships-offered-by-the-ohio-soybean-council-foundation-an-435d7f63b2",
+  "title": "College scholarships offered by the Ohio Soybean Council Foundation and Ohio Soybean Association",
+  "orig_title": "College scholarships offered by the Ohio Soybean Council Foundation and Ohio Soybean Association",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Ohio's Country Journal",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUENSOWJtZUVpUTdvVWE4ZkQ0RW1tWnc2VEVuX0JaRlFmTVFJTktoV2hHanAtdHE0bWU3alVLUElfTjFjVTF0Ymk1SXZ0QVMwRXZWblk1aTd3UHBlbkNfUUpKMnpXQ1Q1RjlUSjhQM1FZWVlibWNidnBlazhyTnRBUXp3U0xRaDJYNklyWkNQaGt6MVFnNjVuamxuM3hYRUxjc3pQNGNDZ0x2WXhqbHh2Y21zQW91RjV1RWlvYXpB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUENSOWJtZUVpUTdvVWE4ZkQ0RW1tWnc2VEVuX0JaRlFmTVFJTktoV2hHanAtdHE0bWU3alVLUElfTjFjVTF0Ymk1SXZ0QVMwRXZWblk1aTd3UHBlbkNfUUpKMnpXQ1Q1RjlUSjhQM1FZWVlibWNidnBlazhyTnRBUXp3U0xRaDJYNklyWkNQaGt6MVFnNjVuamxuM3hYRUxjc3pQNGNDZ0x2WXhqbHh2Y21zQW91RjV1RWlvYXpB",
+  "snippet": "College scholarships offered by the Ohio Soybean Council Foundation and Ohio Soybean Association Ohio's Country Journal",
+  "published": "2026-11-12T20:02:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T01:39:48.897064+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b95c335539",
   "slug": "featured-audio-diesel-price-surge-creates-challenges-for-farmers-and-t-b95c335539",
   "title": "Featured Audio: Diesel Price Surge Creates Challenges for Farmers and Trucking Industry",
@@ -6316,6 +6345,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "c87f2fa54d",
+  "slug": "saskatoon-police-officer-seriously-injured-after-being-hit-by-vehicle-c87f2fa54d",
+  "title": "Saskatoon police officer seriously injured after being hit by vehicle",
+  "orig_title": "Saskatoon police officer seriously injured after being hit by vehicle",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZTZCMF9iSWV5QTgzbkt3bWxDR01Tal9CYXM3cVB3dTJzSlM5ZTQtMVlqZ2FsSlo1OTduNThPZE8wVWRsTlJmVG1nbmMtbmVudmx1NmNpeVRPS1BCNWI3SmVpUUw1OEZWNXh5TmVkNC0tUzllck11anBRbEoxV2M?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZTZCMF9iSWV5QTgzbkt3bWxDR01Tal9CYXM3cVB3dTJzSlM5ZTQtMVlqZ2FsSlo1OTduNThPZE8wVWRsTlJmVG1nbmMtbmVudmx1NmNpeVRPS1BCNWI3SmVpUUw1OEZWNXh5TmVkNC0tUzllck11anBRbEoxV2M",
+  "snippet": "Saskatoon police officer seriously injured after being hit by vehicle Global News",
+  "published": "2026-11-11T20:47:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T01:39:48.897064+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
