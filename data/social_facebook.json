@@ -2333,7 +2333,8 @@
   "b75b8c105f": "skipped|importance 45 is below this platform's threshold (65)",
   "227aadbb4e": "skipped|importance 55 is below this platform's threshold (65)",
   "0717780d4e": "skipped|importance 55 is below this platform's threshold (65)",
-  "3840e3af22": "skipped|importance 55 is below this platform's threshold (65)"
+  "3840e3af22": "skipped|importance 55 is below this platform's threshold (65)",
+  "54aba85881": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -4589,6 +4590,13 @@
    "title": "C.H. Robinson details regional refrigerated freight market conditions for November",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T18:21:29.540595+00:00",
+   "story_id": "54aba85881",
+   "title": "Truckers Die at 61? The Health Crisis We Ignore",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
