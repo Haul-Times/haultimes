@@ -1852,7 +1852,15 @@
    "house": "promo",
    "reason": "HaulTimes update: promo",
    "last_attempt_at": "2026-11-13T15:22:22.612368+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122103140127544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122103140127544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122103140127544428",
+    "created": "2026-11-13T15:22:22+0000",
+    "at": "2026-11-13T15:32:09.446557+00:00"
+   }
   }
  },
  "paused": null,
@@ -2316,7 +2324,8 @@
   "1d1fda3259": "skipped|importance 55 is below this platform's threshold (65)",
   "d1086cf64c": "skipped|importance 55 is below this platform's threshold (65)",
   "971f57cf9b": "skipped|importance 50 is below this platform's threshold (65)",
-  "promo-20261113": "posted|HaulTimes update"
+  "promo-20261113": "posted|HaulTimes update",
+  "54407ab75a": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4509,16 +4518,23 @@
    "title": "Freight Market reminder",
    "action": "posted",
    "reason": "HaulTimes update: promo; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-13T15:32:09.446557+00:00",
+   "story_id": "54407ab75a",
+   "title": "3 trucking businesses go bankrupt in California, Illinois and Maryland",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122103106431544428",
+  "post": "1476615495528085_122103140127544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122103106431544428",
-  "created": "2026-11-13T14:21:24+0000",
-  "at": "2026-11-13T14:31:42.836704+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122103140127544428",
+  "created": "2026-11-13T15:22:22+0000",
+  "at": "2026-11-13T15:32:09.446557+00:00"
  },
  "promo_i": 2
 }
