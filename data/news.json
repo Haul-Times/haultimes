@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "dab4c87eb4",
+  "slug": "grey-cup-horse-walks-through-calgary-hotel-dab4c87eb4",
+  "title": "Grey Cup horse walks through Calgary hotel",
+  "orig_title": "Grey Cup horse walks through Calgary hotel",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkV6dkptRFJjMWNiVGppSlh3Y3VDRXlCRHB3TXd5ZHVpTDVGRG1IVVhlZTE2U3YzSjFnRzFLQ2NWUkNLNzJYR3gwN2tfUkpNMzhuZjlPVVZDQUFuekZCYkYxWWpjSUNkNktEdklkZS1BWktvOVRLYlpob0JTcTBodm9YUHRZQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkV6dkptRFJjMWNiVGppSlh3Y3VDRXlCRHB3TXd5ZHVpTDVGRG1IVVhlZTE2U3YzSjFnRzFLQ2NWUkNLNzJYR3gwN2tfUkpNMzhuZjlPVVZDQUFuekZCYkYxWWpjSUNkNktEdklkZS1BWktvOVRLYlpob0JTcTBodm9YUHRZQQ",
+  "snippet": "Grey Cup horse walks through Calgary hotel Global News",
+  "published": "2026-11-13T01:58:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T04:31:56.611192+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d14e60b5b2",
   "slug": "family-of-strongsville-costco-shooting-victim-sues-trucking-companies-d14e60b5b2",
   "title": "Family of Strongsville Costco shooting victim sues trucking companies, alleging missed warning signs",
