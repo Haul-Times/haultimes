@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "26dced9a56",
+  "slug": "microsoft-struggles-to-restore-email-and-other-services-in-a-global-ou-26dced9a56",
+  "title": "Microsoft struggles to restore email and other services in a global outage",
+  "orig_title": "Microsoft struggles to restore email and other services in a global outage",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzaFdRa1pUWEJaTlNqS3c0a1VPcVFwTVJJQUd1OGg4QV81WnQyRGNIUno1b0RXaFNlV1I5TG04endpNG41dHJoVktGOU5HbjJwd2JvTmtEZ2dkcy1qUldzY1ZSWFJtLThFaWlsVTZLY0QyQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzaFdRa1pUWEJaTlNqS3c0a1VPcVFwTVJJQUd1OGg4QV81WnQyRGNIUno1b0RXaFNlV1I5TG04endpNG41dHJoVktGOU5HbjJwd2JvTmtEZ2dkcy1qUldzY1ZSWFJtLThFaWlsVTZLY0QyQQ",
+  "snippet": "Microsoft struggles to restore email and other services in a global outage Global News",
+  "published": "2026-11-13T12:58:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T13:21:45.796759+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "5fdc899a3d",
   "slug": "rising-fuel-prices-wipe-out-tax-relief-for-truckers-within-weeks-5fdc899a3d",
   "title": "Rising Fuel Prices Wipe Out Tax Relief for Truckers Within Weeks",
@@ -53,7 +82,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://hungarytoday.hu/rising-fuel-prices-wipe-out-tax-relief-for-truckers-within-weeks/",
   "source_note": "ok · 582 words"
@@ -177,7 +206,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.adomonline.com/naimos-engages-truck-drivers-sand-winning-associations-on-compliance-and-cooperation/",
   "source_note": "ok · 312 words"
  },
