@@ -1,5 +1,34 @@
 [
  {
+  "id": "fdf29dbeae",
+  "slug": "wholesale-inflation-rose-in-october-to-highest-annual-rate-in-nearly-f-fdf29dbeae",
+  "title": "Wholesale inflation rose in October to highest annual rate in nearly four years",
+  "orig_title": "Wholesale inflation rose in October to highest annual rate in nearly four years",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KSL",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDJ0Z205S01zSFRzdlk1YTdPSU5QekJrWV9hZVF6bTZWRmFrT1lpaWxGR3V4emV2RUprY1VRZFpXYnNoWFlNLTBvUzg5R3d4X2RrQzhQZkJGNlZQWmNyclJ4NWdiQ1VLWGdCa2djVkNEVTJxa1JuZVo4NHFIM1RlYnAyYWZNRWtjdjl0OHVNRWV1dnJJazAxMXloaVFuZTBLZmhRVnh6MHlnMk9CVlViWjd5dHo1aUE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDJ0Z205S01zSFRzdlk1YTdPSU5QekJrWV9hZVF6bTZWRmFrT1lpaWxGR3V4emV2RUprY1VRZFpXYnNoWFlNLTBvUzg5R3d4X2RrQzhQZkJGNlZQWmNyclJ4NWdiQ1VLWGdCa2djVkNEVTJxa1JuZVo4NHFIM1RlYnAyYWZNRWtjdjl0OHVNRWV1dnJJazAxMXloaVFuZTBLZmhRVnh6MHlnMk9CVlViWjd5dHo1aUE",
+  "snippet": "Wholesale inflation rose in October to highest annual rate in nearly four years KSL",
+  "published": "2026-11-13T14:51:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T14:57:13.659501+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "971f57cf9b",
   "slug": "nebraska-trucking-company-accused-of-401-k-plan-self-dealing-971f57cf9b",
   "title": "Nebraska Trucking Company Accused of 401(k) Plan Self-Dealing",
