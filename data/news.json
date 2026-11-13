@@ -2568,6 +2568,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "33185e8fa9",
+  "slug": "faster-money-transfers-with-rtr-will-take-a-while-to-adopt-says-scotia-33185e8fa9",
+  "title": "Faster money transfers with RTR will take a while to adopt, says Scotiabank",
+  "orig_title": "Faster money transfers with RTR will take a while to adopt, says Scotiabank",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraTRVMzFJc2k3ME9WU1FrWWZ2MlNIRVlzYl9TTjE3cUl1VU1IODZUcmJ3WGttSGwzdlE4eUpwYVFhenVacVUtOFBURXBmMDNXYXN4OC1TaDB6TEJrR0xQUDZJajZ2akdxUHRxd3U4MTN6LTJZcGc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraTRVMzFJc2k3ME9WU1FrWWZ2MlNIRVlzYl9TTjE3cUl1VU1IODZUcmJ3WGttSGwzdlE4eUpwYVFhenVacVUtOFBURXBmMDNXYXN4OC1TaDB6TEJrR0xQUDZJajZ2akdxUHRxd3U4MTN6LTJZcGc",
+  "snippet": "Faster money transfers with RTR will take a while to adopt, says Scotiabank Global News",
+  "published": "2026-11-12T18:40:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T11:45:30.357801+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "71f2f51114",
   "slug": "missing-17-year-old-found-alive-after-6-days-lost-in-australian-woodla-71f2f51114",
   "title": "Missing 17-year-old found alive after 6 days lost in Australian woodlands",
