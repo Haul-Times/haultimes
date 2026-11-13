@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:11:11.082313+00:00",
+ "updated": "2026-11-13T22:21:09.442698+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 15,
+    "wait": 20,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -41,7 +41,7 @@
      0,
      3,
      14,
-     15,
+     17,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:57 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 20,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 4:57 pm EST",
+    "status": "no delay",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -341,7 +341,7 @@
      0,
      0,
      0,
-     10,
+     7,
      null,
      null,
      null,
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:03:58",
+    "updated": "17:13:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 pm CST",
+    "updated": "At 3:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Gordie Howe International Bridge",
