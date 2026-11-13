@@ -1,5 +1,34 @@
 [
  {
+  "id": "2565bb737a",
+  "slug": "leafs-undone-by-more-mistakes-in-5th-straight-loss-2565bb737a",
+  "title": "Leafs undone by more mistakes in 5th straight loss",
+  "orig_title": "Leafs undone by more mistakes in 5th straight loss",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2hzRk43OHJxUEd4a1dFdkstOTFaWlV2WWE1LVJPTVFEcWJDV3ZPbHFxUVJabDRuU3R5V3U2M01NRk9PYklzU2VDQmM5MmhMOUxCQ1VFaUVoUTZYU1hPUnVpelpWTDJCa08tVVBVZHozYXdFSEJ0VkRiT2I2Z3N2cks0eVFvc2R6d2xVazVKTnY?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2hzRk43OHJxUEd4a1dFdkstOTFaWlV2WWE1LVJPTVFEcWJDV3ZPbHFxUVJabDRuU3R5V3U2M01NRk9PYklzU2VDQmM5MmhMOUxCQ1VFaUVoUTZYU1hPUnVpelpWTDJCa08tVVBVZHozYXdFSEJ0VkRiT2I2Z3N2cks0eVFvc2R6d2xVazVKTnY",
+  "snippet": "Leafs undone by more mistakes in 5th straight loss Global News",
+  "published": "2026-11-13T10:01:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T10:11:06.736519+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3e3e848a65",
   "slug": "the-tps-new-products-for-the-week-of-nov-9-15-2026-3e3e848a65",
   "title": "The TPS new products for the week of Nov. 9-15, 2026",
@@ -23,6 +52,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "68881edcc4",
+  "slug": "ukraine-grain-trucking-costs-shift-across-routes-68881edcc4",
+  "title": "Ukraine grain trucking costs shift across routes",
+  "orig_title": "Ukraine grain trucking costs shift across routes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "finway.com.ua",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82aGVtWjFueU8wYVUxS1FzRUFUV3BKMUc1UjFHOElfSFVKdFFZLWRBYWZkOTBIV1JqVlh6Z1Njb2x2dUFJdkczYlNBYm5ZdWJVWER3WS1wVDI4Y181T3Fydld0c2pNMHNLT3c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82aGVtWjFueU8wYVUxS1FzRUFUV3BKMUc1UjFHOElfSFVKdFFZLWRBYWZkOTBIV1JqVlh6Z1Njb2x2dUFJdkczYlNBYm5ZdWJVWER3WS1wVDI4Y181T3Fydld0c2pNMHNLT3c",
+  "snippet": "Ukraine grain trucking costs shift across routes finway.com.ua",
+  "published": "2026-11-13T08:49:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T10:11:06.736519+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
