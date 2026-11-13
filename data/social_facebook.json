@@ -1839,18 +1839,20 @@
    "source": "HaulTimes",
    "dest": "https://haultimes.com/s/promo-20261113/?utm_source=facebook&utm_medium=organic_social&utm_campaign=freight_market",
    "caption": "How's your market this week? Tell us in one tap: Hot, Normal or Slow. Every answer adds to a live load-market map for the US and Canada. No name, no email.\n\n#Trucking #CanadianTrucking #Flatbed #Reefer",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-13T15:11:38.249000+00:00",
    "published": "2026-11-13T15:11:38.249000+00:00",
    "score": 65,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122103140127544428",
+   "posted_at": "2026-11-13T15:22:22.612368+00:00",
    "next_attempt_at": null,
    "preview": {},
    "house": "promo",
-   "reason": "HaulTimes update: promo"
+   "reason": "HaulTimes update: promo",
+   "last_attempt_at": "2026-11-13T15:22:22.612368+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122103140127544428"
   }
  },
  "paused": null,
@@ -2047,6 +2049,10 @@
   {
    "at": "2026-11-13T14:21:24.253291+00:00",
    "msg": "posted c016fd3619"
+  },
+  {
+   "at": "2026-11-13T15:22:22.612368+00:00",
+   "msg": "posted promo-20261113"
   }
  ],
  "decided": {
@@ -2310,7 +2316,7 @@
   "1d1fda3259": "skipped|importance 55 is below this platform's threshold (65)",
   "d1086cf64c": "skipped|importance 55 is below this platform's threshold (65)",
   "971f57cf9b": "skipped|importance 50 is below this platform's threshold (65)",
-  "promo-20261113": "queued|HaulTimes update"
+  "promo-20261113": "posted|HaulTimes update"
  },
  "decisions": [
   {
@@ -4496,6 +4502,13 @@
    "title": "Freight Market reminder",
    "action": "queued",
    "reason": "HaulTimes update: promo"
+  },
+  {
+   "at": "2026-11-13T15:22:22.612368+00:00",
+   "story_id": "promo-20261113",
+   "title": "Freight Market reminder",
+   "action": "posted",
+   "reason": "HaulTimes update: promo; waited 10 min in queue"
   }
  ],
  "visibility": {
