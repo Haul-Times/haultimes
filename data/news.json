@@ -208,6 +208,36 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "5114d78764",
+  "slug": "driver-who-tried-to-shoot-up-costco-at-center-of-lawsuit-by-family-of-5114d78764",
+  "title": "Driver who tried to shoot up Costco at center of lawsuit by family of employee who died stopping him",
+  "orig_title": "Driver who tried to shoot up Costco at center of lawsuit by family of employee who died stopping him",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 50,
+  "source": "CDLLife",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFA4Rm1NN1lLalFIXzlyZmxYUXRHc2dDSzk1NElubDI5dlhrM28wUWRLVFNxbEZ3Y183dzdHUDlXeVhIUDdzODZsRzItRFZJNnpJc1ZRNEdDaHFLaktrcnZoN0d1RFU2UHhZM083MjJ1VlgyNlhRZl8wU1NtT3V0VkVBaTFnRUplUGl4OVkyUWdKeEphMUhlWHV6MFRuLW5palU1WVlBOXJUSXB2czRYRWVRR1hBUzgzdHBOajBPN1hHOUtH?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFA4Rm1NN1lLalFIXzlyZmxYUXRHc2dDSzk1NElubDI5dlhrM28wUWRLVFNxbEZ3Y183dzdHUDlXeVhIUDdzODZsRzItRFZJNnpJc1ZRNEdDaHFLaktrcnZoN0d1RFU2UHhZM083MjJ1VlgyNlhRZl8wU1NtT3V0VkVBaTFnRUplUGl4OVkyUWdKeEphMUhlWHV6MFRuLW5palU1WVlBOXJUSXB2czRYRWVRR1hBUzgzdHBOajBPN1hHOUtH",
+  "snippet": "Driver who tried to shoot up Costco at center of lawsuit by family of employee who died stopping him CDLLife",
+  "published": "2026-11-13T19:05:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T19:51:07.783209+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://cdllife.com/2026/driver-who-tried-to-shoot-up-costco-at-center-of-lawsuit-by-family-of-employee-who-died-stopping-him/",
+  "source_note": "ok · 399 words"
+ },
+ {
   "id": "b56b869119",
   "slug": "usps-to-add-11-permanent-fuel-surcharge-along-with-parcel-rate-hike-b56b869119",
   "title": "USPS to add 11% permanent fuel surcharge along with parcel rate hike",
@@ -3289,12 +3319,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Trucking companies accused of keeping armed driver on road before Strongsville Costco shoo"
+   "same story as: Driver who tried to shoot up Costco at center of lawsuit by family of employee who died st"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "f64f05e3fa"
+  "dup_of": "5114d78764"
  },
  {
   "id": "a878a3cd60",
