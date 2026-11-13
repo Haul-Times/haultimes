@@ -2432,7 +2432,9 @@
   "a03836d10b": "skipped|minor item (news) or low-quality source",
   "0455a718fb": "skipped|importance 55 is below this platform's threshold (65)",
   "13dffc5108": "skipped|minor item (news) or low-quality source",
-  "a14ff4abff": "skipped|importance 60 is below this platform's threshold (65)"
+  "a14ff4abff": "skipped|importance 60 is below this platform's threshold (65)",
+  "007c4c1577": "skipped|importance 50 is below this platform's threshold (65)",
+  "2847e9a4a2": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -4807,6 +4809,20 @@
    "title": "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T20:41:28.537661+00:00",
+   "story_id": "007c4c1577",
+   "title": "Truck parts price inflation cooling -- in most places, anyway",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T20:41:28.537661+00:00",
+   "story_id": "2847e9a4a2",
+   "title": "Carrier411 CEO Darren Brewer arrested on felony assault charge in Chattanooga",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
