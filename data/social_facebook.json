@@ -2331,7 +2331,9 @@
   "59b5f8eb7d": "skipped|minor item (incident) or low-quality source",
   "28f0ae0575": "skipped|minor item (incident) or low-quality source",
   "b75b8c105f": "skipped|importance 45 is below this platform's threshold (65)",
-  "227aadbb4e": "skipped|importance 55 is below this platform's threshold (65)"
+  "227aadbb4e": "skipped|importance 55 is below this platform's threshold (65)",
+  "0717780d4e": "skipped|importance 55 is below this platform's threshold (65)",
+  "3840e3af22": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4571,6 +4573,20 @@
    "at": "2026-11-13T17:21:26.051893+00:00",
    "story_id": "227aadbb4e",
    "title": "Suspect in $100M Brink’s jewelry theft agrees to plead guilty in related cargo robbery case",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T18:01:25.483694+00:00",
+   "story_id": "0717780d4e",
+   "title": "The clock is ticking: Truckers For Troops enters final stretch",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T18:01:25.483694+00:00",
+   "story_id": "3840e3af22",
+   "title": "C.H. Robinson details regional refrigerated freight market conditions for November",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
