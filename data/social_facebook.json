@@ -1937,6 +1937,34 @@
     "created": "2026-11-13T20:21:33+0000",
     "at": "2026-11-13T20:22:36.824037+00:00"
    }
+  },
+  "18999a1b3f": {
+   "story_id": "18999a1b3f",
+   "title": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst",
+   "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjluM0NQeVZlcGJTTFlNbUNoalQteGxsdW1HeFN1NTl0ZGY0LTFCcWIta1B0blVyeE5xZ2VjQUJWcVYxQzBaMFRPUGpLZjVnaHBkeDZKYU8tY09ZcjBmbG5IYVFUb0lYeDBsVUR2MWYteDZlYi02UWg2eVB3NHFpYVRSenJaTzNkQm1ZVzVkQm1GcmVPNE5NWg",
+   "category": "regs",
+   "source": "Heavy Duty Trucking",
+   "dest": "https://haultimes.com/story/fmcsa-removes-100-plus-elds-from-its-certified-device-lisst-18999a1b3f/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=18999a1b3f",
+   "caption": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst.\n\nReported by Heavy Duty Trucking. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-13T21:11:36.746770+00:00",
+   "published": "2026-11-13T21:00:45+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst | HaulTimes",
+    "og:description": "Reported by Heavy Duty Trucking. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/86bf5cbdec.png",
+    "og:url": "https://haultimes.com/story/fmcsa-removes-100-plus-elds-from-its-certified-device-lisst-18999a1b3f/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": true
   }
  },
  "paused": null,
@@ -2437,7 +2465,8 @@
   "2847e9a4a2": "skipped|minor item (crime) or low-quality source",
   "db69053499": "skipped|importance 62 is below this platform's threshold (65)",
   "d442e43590": "skipped|importance 50 is below this platform's threshold (65)",
-  "268407e136": "skipped|importance 55 is below this platform's threshold (65)"
+  "268407e136": "skipped|importance 55 is below this platform's threshold (65)",
+  "18999a1b3f": "queued|importance 67 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -4847,6 +4876,13 @@
    "title": "Uninsured? What Mexican Border Freight Risks You’re Missing",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T21:11:36.746770+00:00",
+   "story_id": "18999a1b3f",
+   "title": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {
