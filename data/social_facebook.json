@@ -1946,14 +1946,14 @@
    "source": "Heavy Duty Trucking",
    "dest": "https://haultimes.com/story/fmcsa-removes-100-plus-elds-from-its-certified-device-lisst-18999a1b3f/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=18999a1b3f",
    "caption": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst.\n\nReported by Heavy Duty Trucking. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-13T21:11:36.746770+00:00",
    "published": "2026-11-13T21:00:45+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122103380325544428",
+   "posted_at": "2026-11-13T21:31:24.511172+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst | HaulTimes",
@@ -1964,7 +1964,9 @@
    "reason": "importance 67 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": true
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-13T21:31:24.511172+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122103380325544428"
   },
   "b6b847bbf6": {
    "story_id": "b6b847bbf6",
@@ -2201,6 +2203,10 @@
   {
    "at": "2026-11-13T20:21:33.057875+00:00",
    "msg": "posted f86eed757a"
+  },
+  {
+   "at": "2026-11-13T21:31:24.511172+00:00",
+   "msg": "posted 18999a1b3f"
   }
  ],
  "decided": {
@@ -2494,7 +2500,7 @@
   "db69053499": "skipped|importance 62 is below this platform's threshold (65)",
   "d442e43590": "skipped|importance 50 is below this platform's threshold (65)",
   "268407e136": "skipped|importance 55 is below this platform's threshold (65)",
-  "18999a1b3f": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "18999a1b3f": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue",
   "b6b847bbf6": "queued|importance 73 (threshold 65), Industry, trade publication",
   "39ea0024c1": "skipped|importance 45 is below this platform's threshold (65)",
   "58b9261ea1": "skipped|minor item (incident) or low-quality source"
@@ -4935,6 +4941,13 @@
    "title": "Frenkel & Frenkel Issues Holiday Truck Safety Advisory as Dallas County Reports 3,857 Commercial Vehicle Crashes",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T21:31:24.511172+00:00",
+   "story_id": "18999a1b3f",
+   "title": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue"
   }
  ],
  "visibility": {
