@@ -1,5 +1,34 @@
 [
  {
+  "id": "6f9065a11c",
+  "slug": "ex-durham-police-recruit-pleads-guilty-in-sex-assault-case-involving-2-6f9065a11c",
+  "title": "Ex-Durham police recruit pleads guilty in sex assault case involving 2 teen girls",
+  "orig_title": "Ex-Durham police recruit pleads guilty in sex assault case involving 2 teen girls",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCWlRfTko1a1VXUXpBTHo0MTRtaUdCQTJ0NXlBamhoZWpPYmtmWHliVVZfcUstb0dLWGItMWQwM2tIZE16SlZmRmNHNlp3cm9SX3JsOWxiUlNqN0JTUEVEYUFKdm5OZHdUYS1Bekg1ZkFvR0pYUXEya0hzTm1Pdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCWlRfTko1a1VXUXpBTHo0MTRtaUdCQTJ0NXlBamhoZWpPYmtmWHliVVZfcUstb0dLWGItMWQwM2tIZE16SlZmRmNHNlp3cm9SX3JsOWxiUlNqN0JTUEVEYUFKdm5OZHdUYS1Bekg1ZkFvR0pYUXEya0hzTm1Pdw",
+  "snippet": "Ex-Durham police recruit pleads guilty in sex assault case involving 2 teen girls Global News",
+  "published": "2026-11-13T18:57:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T19:02:03.927952+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a711c84c1d",
   "slug": "the-high-cost-reality-of-trucking-and-what-to-do-about-it-webinar-repl-a711c84c1d",
   "title": "The High-Cost Reality of Trucking — And What to Do About It (webinar replay)",
@@ -29422,6 +29451,35 @@
   "first_seen": "2026-11-10T01:33:59.822974+00:00",
   "image": "",
   "ai": false,
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "1888dcc96e",
+  "slug": "air-cargo-archives-1888dcc96e",
+  "title": "Air Cargo Archives",
+  "orig_title": "Air Cargo Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WcGh6ZUtYSXNqdE9DY3VlWGJfaEV6WWJUYXN0VjdwRW9uS24tS1VKb2UxaFFnNUl6YmNrZGdhXzVZc3RudmZiR3hZUm5HbU1UZll6cFdRVTJyMHNNbi0yYVNidnAwYk5FbmhubjVrNA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WcGh6ZUtYSXNqdE9DY3VlWGJfaEV6WWJUYXN0VjdwRW9uS24tS1VKb2UxaFFnNUl6YmNrZGdhXzVZc3RudmZiR3hZUm5HbU1UZll6cFdRVTJyMHNNbi0yYVNidnAwYk5FbmhubjVrNA",
+  "snippet": "Air Cargo Archives FreightWaves",
+  "published": "2026-11-05T23:22:08+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T19:02:03.927952+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
