@@ -1,5 +1,63 @@
 [
  {
+  "id": "15c1a5caa9",
+  "slug": "chile-truckers-reach-deal-to-end-strike-but-continued-roadblocks-threa-15c1a5caa9",
+  "title": "Chile truckers reach deal to end strike but continued roadblocks threaten salmon supply chain",
+  "orig_title": "Chile truckers reach deal to end strike but continued roadblocks threaten salmon supply chain",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Undercurrent News",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1k3SXc2cWc2TlkxR2JGY1AxOUFaeVdfTk81aXhpeHRxY0k5OVlFTzNOOGk1djR3LW96MHB4OTEzMWtEYTdaSTZYMTZIdFV2RFVITnFRTi1Pb205UXRRSjN6YkhFcUJWVmlkSGpnZGNzbHA1b3kwbk11bFJiVVUxR1RTbUtpQ1hDQm4yRVc2U2ltMS1XUGNIVk1JNmF0Z0x0RjF3S2U4MWVnRTQ4QUF6UE9ZVHVUVm1BcEhidzZaZzVmQk1QUFJDSTNoTmZwOHBZMlJKTw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1k3SXc2cWc2TlkxR2JGY1AxOUFaeVdfTk81aXhpeHRxY0k5OVlFTzNOOGk1djR3LW96MHB4OTEzMWtEYTdaSTZYMTZIdFV2RFVITnFRTi1Pb205UXRRSjN6YkhFcUJWVmlkSGpnZGNzbHA1b3kwbk11bFJiVVUxR1RTbUtpQ1hDQm4yRVc2U2ltMS1XUGNIVk1JNmF0Z0x0RjF3S2U4MWVnRTQ4QUF6UE9ZVHVUVm1BcEhidzZaZzVmQk1QUFJDSTNoTmZwOHBZMlJKTw",
+  "snippet": "Chile truckers reach deal to end strike but continued roadblocks threaten salmon supply chain Undercurrent News",
+  "published": "2026-11-13T18:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T18:11:06.378834+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "47302d45c4",
+  "slug": "more-electric-vehicles-exempt-from-luxury-tax-ottawa-says-47302d45c4",
+  "title": "More electric vehicles exempt from luxury tax, Ottawa says",
+  "orig_title": "More electric vehicles exempt from luxury tax, Ottawa says",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCNDlZZXZaeWRtNFR1Mk11endqQUhRdENJb2tYLTJnZG00dVNjbmhOUGw2ZnQtUnRGVUh4UWxJcENoWm5EazFMdXpGLThUaVZFRWE0N1VCLXkyWVZMblFUcE95MjVKN1BIX3RZVUw2ekpiT0k?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCNDlZZXZaeWRtNFR1Mk11endqQUhRdENJb2tYLTJnZG00dVNjbmhOUGw2ZnQtUnRGVUh4UWxJcENoWm5EazFMdXpGLThUaVZFRWE0N1VCLXkyWVZMblFUcE95MjVKN1BIX3RZVUw2ekpiT0k",
+  "snippet": "More electric vehicles exempt from luxury tax, Ottawa says Global News",
+  "published": "2026-11-13T17:59:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T18:11:06.378834+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e9cf7eb68b",
   "slug": "2-people-dead-one-missing-after-boating-incident-in-squamish-valley-e9cf7eb68b",
   "title": "2 people dead, one missing after boating incident in Squamish Valley",
@@ -82,7 +140,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://landline.media/the-clock-is-ticking-truckers-for-troops-enters-final-stretch/",
+  "source_note": "excerpt only · 19 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "b79b014e03",
@@ -821,7 +884,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.fleetowner.com/refrigerated-transporter/reefer-operations/news/55418723/ch-robinson-refrigerated-truckload-outlook-highlights-regional-capacity-and-rate-trends-for-november",
   "source_note": "ok · 400 words"
  },
