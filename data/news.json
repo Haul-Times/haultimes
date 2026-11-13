@@ -3720,6 +3720,35 @@
   "sum_pending": false
  },
  {
+  "id": "25fa85d841",
+  "slug": "canada-faces-gradual-and-bumpy-recovery-kpmg-economic-outlook-says-25fa85d841",
+  "title": "Canada faces ‘gradual and bumpy recovery,’ KPMG economic outlook says",
+  "orig_title": "Canada faces ‘gradual and bumpy recovery,’ KPMG economic outlook says",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0lCVTQ0VnNYRjhpYjFtUlB5YW1aemVWVzZtOXlPc3Y0VzhncENsZW9SV2d1aUZSSmcyQW9tcWtpcDdXeFc4eGhsb09MUlUwbjBOY1VSX2xyNGh2b3pyWE9XNlJsN210emhnS3pjWUFCdGpwMWdhS0I4RHRxM01Uc2JKcWVpdDBDRmxaM1gxVTVDNmppWmZoOENidEhmdTZMSzJuM3Rn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0lCVTQ0VnNYRjhpYjFtUlB5YW1aemVWVzZtOXlPc3Y0VzhncENsZW9SV2d1aUZSSmcyQW9tcWtpcDdXeFc4eGhsb09MUlUwbjBOY1VSX2xyNGh2b3pyWE9XNlJsN210emhnS3pjWUFCdGpwMWdhS0I4RHRxM01Uc2JKcWVpdDBDRmxaM1gxVTVDNmppWmZoOENidEhmdTZMSzJuM3Rn",
+  "snippet": "Canada faces ‘gradual and bumpy recovery,’ KPMG economic outlook says Global News",
+  "published": "2026-11-12T15:53:42+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T12:11:09.272731+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ef81365aa2",
   "slug": "running-on-empty-diesel-price-volatility-puts-pressure-on-trucking-ind-ef81365aa2",
   "title": "Running on Empty: Diesel price volatility puts pressure on trucking industry",
