@@ -1965,6 +1965,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": true
+  },
+  "b6b847bbf6": {
+   "story_id": "b6b847bbf6",
+   "title": "AI cargo thefts top $150 million from June 2025 to June 2026",
+   "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTdhd09nc1B6Ujl2NEFxWFFxZFUzQTZXMkh2Q3RvZmRNMFJtb1Zsd19WN0otMHQ0a243UmJOTzVYMGlMNURaQ2E1RndnZFRNelNWRmJkWkh6RV81STBwM3hFVjMyZG9ta0pRSHZOT3U0OEdsdTVUbHhmWWQ3Nlo2N2tENXZsY0hseXM3N3R5b3V4bXBUWlliOA",
+   "category": "other",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/ai-cargo-thefts-top-150-million-from-june-2025-to-june-2026-b6b847bbf6/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=b6b847bbf6",
+   "caption": "AI cargo thefts top $150 million from June 2025 to June 2026.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-13T21:21:28.800210+00:00",
+   "published": "2026-11-13T21:11:42+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "AI cargo thefts top $150 million from June 2025 to June 2026 | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/3340560e9e.png",
+    "og:url": "https://haultimes.com/story/ai-cargo-thefts-top-150-million-from-june-2025-to-june-2026-b6b847bbf6/"
+   },
+   "reason": "importance 73 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -2466,7 +2494,10 @@
   "db69053499": "skipped|importance 62 is below this platform's threshold (65)",
   "d442e43590": "skipped|importance 50 is below this platform's threshold (65)",
   "268407e136": "skipped|importance 55 is below this platform's threshold (65)",
-  "18999a1b3f": "queued|importance 67 (threshold 65), Regulations, trade publication"
+  "18999a1b3f": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "b6b847bbf6": "queued|importance 73 (threshold 65), Industry, trade publication",
+  "39ea0024c1": "skipped|importance 45 is below this platform's threshold (65)",
+  "58b9261ea1": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -4883,6 +4914,27 @@
    "title": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-13T21:21:28.800210+00:00",
+   "story_id": "b6b847bbf6",
+   "title": "AI cargo thefts top $150 million from June 2025 to June 2026",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-13T21:21:28.800210+00:00",
+   "story_id": "39ea0024c1",
+   "title": "Ohio residents say Uzbek trucking boom has turned their lives upside down: ‘Somebody needs to take notice’",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T21:21:28.800210+00:00",
+   "story_id": "58b9261ea1",
+   "title": "Frenkel & Frenkel Issues Holiday Truck Safety Advisory as Dallas County Reports 3,857 Commercial Vehicle Crashes",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
