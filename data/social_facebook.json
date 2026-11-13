@@ -1821,7 +1821,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-13T14:21:24.253291+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122103106431544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122103106431544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122103106431544428",
+    "created": "2026-11-13T14:21:24+0000",
+    "at": "2026-11-13T14:31:42.836704+00:00"
+   }
   }
  },
  "paused": null,
@@ -2277,7 +2285,8 @@
   "5fdc899a3d": "skipped|importance 51 is below this platform's threshold (65)",
   "c72cac9a27": "skipped|importance 55 is below this platform's threshold (65)",
   "f4d810cf58": "skipped|minor item (feature) or low-quality source",
-  "c016fd3619": "posted|importance 75 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue"
+  "c016fd3619": "posted|importance 75 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue",
+  "1d1fda3259": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4435,16 +4444,23 @@
    "title": "Cargo ship strikes bridge between New Jersey, Philadelphia",
    "action": "posted",
    "reason": "importance 75 (threshold 65), Drivers & Jobs, trade publication; waited 17 min in queue"
+  },
+  {
+   "at": "2026-11-13T14:31:42.836704+00:00",
+   "story_id": "1d1fda3259",
+   "title": "Cargojet fleet optimization boosts productivity, fuels record Q3 revenue",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122103039549544428",
+  "post": "1476615495528085_122103106431544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122103039549544428",
-  "created": "2026-11-13T12:51:42+0000",
-  "at": "2026-11-13T13:02:55.193163+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122103106431544428",
+  "created": "2026-11-13T14:21:24+0000",
+  "at": "2026-11-13T14:31:42.836704+00:00"
  },
  "promo_i": 1
 }
