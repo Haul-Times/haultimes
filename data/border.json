@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:21:04.161905+00:00",
+ "updated": "2026-11-13T23:24:11.093898+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -42,7 +42,7 @@
      3,
      14,
      19,
-     18,
+     17,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:07 pm EST",
+    "updated": "At 6:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -267,7 +267,7 @@
      1,
      0,
      0,
-     3,
+     2,
      null,
      null,
      null,
@@ -293,7 +293,7 @@
      18,
      20,
      19,
-     35,
+     36,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:07 pm EST",
+    "updated": "At 6:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -368,7 +368,7 @@
      1,
      2,
      7,
-     10,
+     9,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:14:01",
+    "updated": "18:24:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 pm CST",
+    "updated": "At 5:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1336,7 +1336,7 @@
      5,
      5,
      16,
-     23,
+     21,
      null,
      null,
      null,
@@ -1472,8 +1472,8 @@
    },
    {
     "name": "Lynden",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Madawaska",
