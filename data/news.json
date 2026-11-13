@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "bf301e9eb5",
+  "slug": "the-shipping-line-item-that-erases-cyber-monday-profit-bf301e9eb5",
+  "title": "The Shipping Line Item That Erases Cyber Monday Profit",
+  "orig_title": "The Shipping Line Item That Erases Cyber Monday Profit",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "SupplyChainBrain",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUU1GNnpqTXZpbUpQRHJiRHBRdG9WYmJVbVJxaVE4MnpwVm0tVC01UXUtTjhQS2dNZjdpUktMbnVzdzRNV2RDY3NBSGx2TkhQeW0wb0ZiYXNjbjNEOFcwc2xUNS1kT2ZRNTNjZHRMbHlBVmh0Z3MxU1ozc2Rrd0w3ZHlpeDdpajg5dXNVV3NWZmxScUtJY3g1cWxMRWNYTXh2eTZlQTNZTks3N2FjcDd4R1lNaTk1OFBXRmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUU1GNnpqTXZpbUpQRHJiRHBRdG9WYmJVbVJxaVE4MnpwVm0tVC01UXUtTjhQS2dNZjdpUktMbnVzdzRNV2RDY3NBSGx2TkhQeW0wb0ZiYXNjbjNEOFcwc2xUNS1kT2ZRNTNjZHRMbHlBVmh0Z3MxU1ozc2Rrd0w3ZHlpeDdpajg5dXNVV3NWZmxScUtJY3g1cWxMRWNYTXh2eTZlQTNZTks3N2FjcDd4R1lNaTk1OFBXRmc",
+  "snippet": "The Shipping Line Item That Erases Cyber Monday Profit SupplyChainBrain",
+  "published": "2026-11-13T08:18:07+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T09:13:22.293424+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "ocean/air freight with no North American trucking link"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ddcdaee5ff",
   "slug": "pain-at-the-pump-eases-slightly-as-diesel-prices-inch-downward-ddcdaee5ff",
   "title": "Pain at the pump eases slightly as diesel prices inch downward",
