@@ -31,6 +31,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "1499706cb0",
+  "slug": "help-me-ben-navigating-shipping-troubles-during-the-holiday-season-1499706cb0",
+  "title": "Help Me Ben: Navigating shipping troubles during the holiday season",
+  "orig_title": "Help Me Ben: Navigating shipping troubles during the holiday season",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "NonStop Local Billings",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS2hEZWEyUFFKMU44Vmt1cFVDclZZUHkyTEhHWktaU0gydmZTblFGREk0RFhCUjc2S0VQSmJZdG93R09kbEZtcEo3ZVA2YXlqRVhfaVJobUlGbG00WVBWTTF4RmdVU3NWT3QzS3lVeE5oUy1qRHc1b09zSy1YMW81RFBYZVpnN2k2eGdtUkhkNzB2UmxBS3o4UzFuT0lqMmZMRUstV19tRG5tNTBYUFN5ck1NNFo1VWNNclBtX0tvT21XTmxGQWNSZk5rSkxTYjhuQTRHNVpNaVJKUUJV?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS2hEZWEyUFFKMU44Vmt1cFVDclZZUHkyTEhHWktaU0gydmZTblFGREk0RFhCUjc2S0VQSmJZdG93R09kbEZtcEo3ZVA2YXlqRVhfaVJobUlGbG00WVBWTTF4RmdVU3NWT3QzS3lVeE5oUy1qRHc1b09zSy1YMW81RFBYZVpnN2k2eGdtUkhkNzB2UmxBS3o4UzFuT0lqMmZMRUstV19tRG5tNTBYUFN5ck1NNFo1VWNNclBtX0tvT21XTmxGQWNSZk5rSkxTYjhuQTRHNVpNaVJKUUJV",
+  "snippet": "Help Me Ben: Navigating shipping troubles during the holiday season NonStop Local Billings",
+  "published": "2026-11-13T07:36:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T08:31:33.908277+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f509b289e5",
   "slug": "trucking-company-faces-charges-for-alleged-cabotage-f509b289e5",
   "title": "Trucking company faces charges for alleged cabotage",
