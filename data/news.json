@@ -175,6 +175,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "fb2231149d",
+  "slug": "patrick-gomez-fb2231149d",
+  "title": "Patrick Gomez",
+  "orig_title": "Patrick Gomez",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OcXVFelJ5RWVVWVhIVE15dC1VaWV2Ml91YTRESDZPNDAwTUVXbVRRemRNNndSNnhtUklvNVdJYlJVWjNDaFRuZ1BnSTE0SlNPcTFjY3RtOWxHcVdHRFA4N2s3SnVqb0loOEE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OcXVFelJ5RWVVWVhIVE15dC1VaWV2Ml91YTRESDZPNDAwTUVXbVRRemRNNndSNnhtUklvNVdJYlJVWjNDaFRuZ1BnSTE0SlNPcTFjY3RtOWxHcVdHRFA4N2s3SnVqb0loOEE",
+  "snippet": "Patrick Gomez FreightWaves",
+  "published": "2026-11-13T21:09:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T21:51:07.178716+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "18999a1b3f",
   "slug": "fmcsa-removes-100-plus-elds-from-its-certified-device-lisst-18999a1b3f",
   "title": "FMCSA Removes 100-plus ELDs From its Certified Device Lisst",
@@ -717,7 +746,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/rcmp-arrests-man-who-allegedly-stole-trucks-hit-police-vehicle-in-southwest-nova-scotia/",
   "source_note": "ok · 283 words"
  },
@@ -2777,6 +2806,35 @@
   "source_note": "paywalled: excerpt only · 27 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "c78fd4b71c",
+  "slug": "firefighters-did-admirable-work-trying-to-save-man-in-fatal-toronto-bl-c78fd4b71c",
+  "title": "Firefighters did ‘admirable work’ trying to save man in fatal Toronto blaze: chief",
+  "orig_title": "Firefighters did ‘admirable work’ trying to save man in fatal Toronto blaze: chief",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyWW55Vkk2VHhtLUlKajJkRC1hUXdJNF8taGN4TlZDVUo2YS1xa1hVT1lkSF9hcVYwYXRRYS1ka3pVbHNVSDl3bkFhVk8tR2xOdEZhRW5EM3RCSnBIRkZnZ0F5U1VNLTBXMnRzUTF2NFZYNHZfQUQwaXNMdS1Qdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyWW55Vkk2VHhtLUlKajJkRC1hUXdJNF8taGN4TlZDVUo2YS1xa1hVT1lkSF9hcVYwYXRRYS1ka3pVbHNVSDl3bkFhVk8tR2xOdEZhRW5EM3RCSnBIRkZnZ0F5U1VNLTBXMnRzUTF2NFZYNHZfQUQwaXNMdS1Qdw",
+  "snippet": "Firefighters did ‘admirable work’ trying to save man in fatal Toronto blaze: chief Global News",
+  "published": "2026-11-13T14:17:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T21:51:07.178716+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4a1dc8f4a6",
