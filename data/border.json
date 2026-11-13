@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:31:03.949713+00:00",
+ "updated": "2026-11-13T22:41:15.955079+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -18,9 +18,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 20,
-    "status": "20 minutes",
-    "updated": "2026-11-13 16:55 EST"
+    "wait": 30,
+    "status": "30 minutes",
+    "updated": "2026-11-13 17:32 EST"
    },
    "usual": {
     "south": [
@@ -67,7 +67,7 @@
      18,
      20,
      20,
-     20,
+     22,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:17 pm EST",
+    "updated": "At 5:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -292,7 +292,7 @@
      9,
      18,
      20,
-     19,
+     18,
      null,
      null,
      null,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 5:17 pm EST",
+    "status": "delay",
+    "updated": "At 5:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -341,7 +341,7 @@
      0,
      0,
      0,
-     5,
+     7,
      null,
      null,
      null,
@@ -395,7 +395,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 17:01 EST"
+    "updated": "2026-11-13 17:32 EST"
    },
    "usual": {
     "south": [
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 17:15 EST"
+    "updated": "2026-11-13 17:02 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:23:59",
+    "updated": "17:34:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1335,7 +1335,7 @@
      5,
      5,
      5,
-     10,
+     11,
      null,
      null,
      null,
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 221",
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },
