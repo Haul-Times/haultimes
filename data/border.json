@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:31:44.223223+00:00",
+ "updated": "2026-11-13T12:41:05.091372+00:00",
  "hour_now": 7,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:17 am EST",
+    "updated": "At 7:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -282,7 +282,7 @@
      3,
      4,
      4,
-     4,
+     5,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:17 am EST",
+    "updated": "At 7:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": null,
-    "fast_wait": null,
-    "lanes": "",
-    "status": "Lanes Closed",
-    "updated": "07:22:03",
+    "wait": 0,
+    "fast_wait": 0,
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -706,7 +706,7 @@
      null,
      null,
      null,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "07:22:03",
+    "updated": "07:37:08",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:22:03",
+    "updated": "06:37:08",
     "hours": "24 hrs/day"
    },
    "north": {

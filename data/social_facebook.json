@@ -1754,6 +1754,34 @@
     "created": "2026-11-13T01:40:07+0000",
     "at": "2026-11-13T01:41:21.113440+00:00"
    }
+  },
+  "51dbe61157": {
+   "story_id": "51dbe61157",
+   "title": "After $604M verdict, fleets face AI camera blind spots",
+   "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOUlodm9xZ1hlMVk0TnROMFpCN3BXMzN5clBWb0FVZmpnaFNCb0pYckZKelFtdFhiRld1cUhIeGRlcDh6MzIwVUpDVHVCNFlHZU9oZEh1bXRULWtnc0NfSXVkbDdKY0ljdVR4QlhPcWdfMDZHTlhuSllnRkhYYlQ4eUdBbw",
+   "category": "regs",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/after-604m-verdict-fleets-face-ai-camera-blind-spots-51dbe61157/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=51dbe61157",
+   "caption": "After $604M verdict, fleets face AI camera blind spots.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-13T12:41:23.595606+00:00",
+   "published": "2026-11-13T12:30:00+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "After $604M verdict, fleets face AI camera blind spots | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/be1a170935.png",
+    "og:url": "https://haultimes.com/story/after-604m-verdict-fleets-face-ai-camera-blind-spots-51dbe61157/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -2196,7 +2224,8 @@
   "b3633ecc40": "skipped|minor item (crime) or low-quality source",
   "4ec4ba5fe6": "skipped|importance 55 is below this platform's threshold (65)",
   "238dbfc4db": "skipped|importance 55 is below this platform's threshold (65)",
-  "b344f131cb": "skipped|importance 45 is below this platform's threshold (65)"
+  "b344f131cb": "skipped|importance 45 is below this platform's threshold (65)",
+  "51dbe61157": "queued|importance 67 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -4305,6 +4334,13 @@
    "title": "NAIMOS engages truck drivers, sand-winning associations on compliance and cooperation",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T12:41:23.595606+00:00",
+   "story_id": "51dbe61157",
+   "title": "After $604M verdict, fleets face AI camera blind spots",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {
