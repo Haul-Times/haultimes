@@ -633,6 +633,35 @@
   "sum_pending": false
  },
  {
+  "id": "5869d65614",
+  "slug": "peru-truckers-stoppage-nov-16-to-18-could-delay-highway-travel-5869d65614",
+  "title": "Peru Truckers’ Stoppage Nov. 16 to 18 Could Delay Highway Travel",
+  "orig_title": "Peru Truckers’ Stoppage Nov. 16 to 18 Could Delay Highway Travel",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "deeparrival.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFFBSjBtTFNOeDZ6b2tOQ043MFJsN3ZGYUJkTHVyV3l0b245b2gzaGNBQjJqanM0VExhZlpOcTlMcDZYYjRqSFAtVDNITzF6ajMtUE8wZmJfUERhdldRWVVMNXNUcm1JWUZnWHFiNFdzdy1nNTZ6em54c2pFd1E5V0xNSWkteDQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFFBSjBtTFNOeDZ6b2tOQ043MFJsN3ZGYUJkTHVyV3l0b245b2gzaGNBQjJqanM0VExhZlpOcTlMcDZYYjRqSFAtVDNITzF6ajMtUE8wZmJfUERhdldRWVVMNXNUcm1JWUZnWHFiNFdzdy1nNTZ6em54c2pFd1E5V0xNSWkteDQ",
+  "snippet": "Peru Truckers’ Stoppage Nov. 16 to 18 Could Delay Highway Travel deeparrival.com",
+  "published": "2026-11-12T21:56:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T01:41:03.700181+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "657a5e7da7",
   "slug": "modern-shipper-657a5e7da7",
   "title": "Modern Shipper",
