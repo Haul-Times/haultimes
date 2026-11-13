@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:11:13.267396+00:00",
+ "updated": "2026-11-13T16:21:03.071140+00:00",
  "hour_now": 11,
  "have_us": true,
  "have_ca": true,
@@ -14,7 +14,7 @@
     "fast_wait": 0,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -76,8 +76,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "blue-water",
@@ -151,8 +151,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "sault",
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At Noon EST",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -226,8 +226,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "peace",
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At 11:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -286,7 +286,7 @@
      2,
      6,
      10,
-     17,
+     18,
      null,
      null,
      null,
@@ -301,8 +301,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 3 AM",
+   "best_north": "Usually fastest around 8 AM"
   },
   {
    "id": "lewiston",
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At 11:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -376,8 +376,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 4 AM"
   },
   {
    "id": "thousand-islands",
@@ -452,7 +452,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "ogdensburg",
@@ -527,7 +527,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "massena",
@@ -601,8 +601,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "fort-frances",
@@ -676,8 +676,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "champlain",
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:15 EST"
+    "updated": "2026-11-13 09:21 EST"
    },
    "usual": {
     "south": [
@@ -752,7 +752,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "highgate",
@@ -827,7 +827,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "derby-line",
@@ -902,7 +902,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "houlton",
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -976,8 +976,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "calais",
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "11:08:01",
+    "updated": "11:18:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1127,7 +1127,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "portal",
@@ -1195,7 +1195,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "sweetgrass",
@@ -1269,8 +1269,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 12 AM"
   },
   {
    "id": "pacific-highway",
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 7:00 am PST",
+    "updated": "At 8:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1344,8 +1344,8 @@
      null
     ]
    },
-   "best_south": "Building history",
-   "best_north": "Building history"
+   "best_south": "Usually fastest around 12 AM",
+   "best_north": "Usually fastest around 7 AM"
   },
   {
    "id": "sumas",
@@ -1420,7 +1420,7 @@
     ]
    },
    "best_south": "Building history",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 12 AM"
   }
  ],
  "others": {
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
