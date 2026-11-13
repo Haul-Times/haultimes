@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:11:11.377095+00:00",
+ "updated": "2026-11-13T04:21:12.665380+00:00",
  "hour_now": 23,
  "have_us": true,
  "have_ca": true,
@@ -47,7 +47,7 @@
      0,
      0,
      9,
-     5
+     3
     ],
     "north": [
      0,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 22,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 11:00 pm EST",
+    "status": "no delay",
+    "updated": "At 11:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -272,7 +272,7 @@
      4,
      23,
      10,
-     11
+     7
     ],
     "north": [
      5,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "updated": "At 11:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "23:10:05",
+    "updated": "23:20:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1280,9 +1280,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "1",
+    "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 pm PST",
+    "updated": "At 8:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "20:10:05",
+    "updated": "20:20:05",
     "hours": "24 hrs/day"
    },
    "north": {
