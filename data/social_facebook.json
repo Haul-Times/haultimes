@@ -2194,7 +2194,9 @@
   "f509b289e5": "skipped|importance 55 is below this platform's threshold (65)",
   "ddcdaee5ff": "skipped|importance 62 is below this platform's threshold (65)",
   "b3633ecc40": "skipped|minor item (crime) or low-quality source",
-  "4ec4ba5fe6": "skipped|importance 55 is below this platform's threshold (65)"
+  "4ec4ba5fe6": "skipped|importance 55 is below this platform's threshold (65)",
+  "238dbfc4db": "skipped|importance 55 is below this platform's threshold (65)",
+  "b344f131cb": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4289,6 +4291,20 @@
    "title": "Seasonal changes also changes driving risks for truckers",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T12:32:00.580459+00:00",
+   "story_id": "238dbfc4db",
+   "title": "Industry grapples with defining 'safe' carrier",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T12:32:00.580459+00:00",
+   "story_id": "b344f131cb",
+   "title": "NAIMOS engages truck drivers, sand-winning associations on compliance and cooperation",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
