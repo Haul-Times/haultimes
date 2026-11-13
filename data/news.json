@@ -7052,8 +7052,8 @@
   "sum_status": "withheld",
   "source_fp": "c45bbaa7b6854be2",
   "source_scope": "full_article",
-  "sum_at": "2026-11-13T00:21:09.184481+00:00",
-  "sum_version": 2,
+  "sum_at": "2026-11-13T00:24:13.142803+00:00",
+  "sum_version": 3,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [],
   "sum_problems": [
@@ -7061,7 +7061,8 @@
   ],
   "ai_category": "drivers",
   "ai_importance": 50,
-  "sum_v3": true
+  "sum_v3": true,
+  "sum_v4": true
  },
  {
   "id": "1103063903",
