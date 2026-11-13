@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:21:06.381918+00:00",
+ "updated": "2026-11-13T18:28:34.061740+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:07 pm EST",
+    "updated": "At 1:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:07 pm EST",
+    "updated": "At 1:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 11:15 EST"
+    "updated": "2026-11-13 13:15 EST"
    },
    "usual": {
     "south": [
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 11:15 EST"
+    "updated": "2026-11-13 13:15 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:18:25",
+    "updated": "13:23:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1070,7 +1070,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 11:15 CDT"
+    "updated": "2026-11-13 13:15 CDT"
    },
    "usual": {
     "south": [
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:15 MDT"
+    "updated": "2026-11-13 12:15 MDT"
    },
    "usual": {
     "south": [
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 7 AM"
+   "best_north": "Usually fastest around 1 PM"
   },
   {
    "id": "sumas",

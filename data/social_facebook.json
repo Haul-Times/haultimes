@@ -1861,6 +1861,34 @@
     "created": "2026-11-13T15:22:22+0000",
     "at": "2026-11-13T15:32:09.446557+00:00"
    }
+  },
+  "5ab3224e2b": {
+   "story_id": "5ab3224e2b",
+   "title": "Senate bill aims to guarantee truck drivers restroom access at delivery sites",
+   "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdURCWW5oS2UzLVRqUFFUQlM2ZDFZYllQZ0tjZHhSX090WW1LSW1aZTNNWWh0dVFNTTBMeTFFaGFoSG9YS3MxTzk5WXFpNmtKdm5BSkVxRUcyTENOamdWQ0tsbkwtSlcyY1drV3FUUFZVQmthUHZXY3Zac3MxM1cwcERadDRpanhYSGFGaE9QMERSRkY4elpHSm5PTC1FQUMtY21JVFJjc3RCd2FXU2xxaVZDWmlXWXg1aWFWNm1maC1LRnZHQXc",
+   "category": "regs",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/senate-bill-aims-to-guarantee-truck-drivers-restroom-access-at-deliver-5ab3224e2b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=5ab3224e2b",
+   "caption": "Senate bill aims to guarantee truck drivers restroom access at delivery sites.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking",
+   "status": "queued",
+   "created_at": "2026-11-13T18:28:54.826738+00:00",
+   "published": "2026-11-13T18:23:48+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Senate bill aims to guarantee truck drivers restroom access at delivery sites | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/14333031b8.png",
+    "og:url": "https://haultimes.com/story/senate-bill-aims-to-guarantee-truck-drivers-restroom-access-at-deliver-5ab3224e2b/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -2334,7 +2362,9 @@
   "227aadbb4e": "skipped|importance 55 is below this platform's threshold (65)",
   "0717780d4e": "skipped|importance 55 is below this platform's threshold (65)",
   "3840e3af22": "skipped|importance 55 is below this platform's threshold (65)",
-  "54aba85881": "skipped|minor item (news) or low-quality source"
+  "54aba85881": "skipped|minor item (news) or low-quality source",
+  "5ab3224e2b": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "3e0648bf16": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4597,6 +4627,20 @@
    "title": "Truckers Die at 61? The Health Crisis We Ignore",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T18:28:54.826738+00:00",
+   "story_id": "5ab3224e2b",
+   "title": "Senate bill aims to guarantee truck drivers restroom access at delivery sites",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-13T18:28:54.826738+00:00",
+   "story_id": "3e0648bf16",
+   "title": "Driver Qualification: The paperwork doesn’t stop at hiring",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
