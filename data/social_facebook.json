@@ -2190,7 +2190,8 @@
   "eaa1d6aafb": "skipped|importance 45 is below this platform's threshold (65)",
   "ca86f76a97": "skipped|minor item (incident) or low-quality source",
   "0d199a048a": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 18 min in queue",
-  "a878a3cd60": "skipped|minor item (feature) or low-quality source"
+  "a878a3cd60": "skipped|minor item (feature) or low-quality source",
+  "f509b289e5": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4257,6 +4258,13 @@
    "title": "Mississauga Truck Hero Honoured by OTA After Saving Woman from Burning Vehicle in Multi-Vehicle Highway Collision",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T07:42:11.858254+00:00",
+   "story_id": "f509b289e5",
+   "title": "Trucking company faces charges for alleged cabotage",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
