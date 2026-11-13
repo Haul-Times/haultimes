@@ -2434,7 +2434,9 @@
   "13dffc5108": "skipped|minor item (news) or low-quality source",
   "a14ff4abff": "skipped|importance 60 is below this platform's threshold (65)",
   "007c4c1577": "skipped|importance 50 is below this platform's threshold (65)",
-  "2847e9a4a2": "skipped|minor item (crime) or low-quality source"
+  "2847e9a4a2": "skipped|minor item (crime) or low-quality source",
+  "db69053499": "skipped|importance 62 is below this platform's threshold (65)",
+  "d442e43590": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -4823,6 +4825,20 @@
    "title": "Carrier411 CEO Darren Brewer arrested on felony assault charge in Chattanooga",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-13T20:51:22.026828+00:00",
+   "story_id": "db69053499",
+   "title": "ATA, OOIDA back FMCSA ELD removals",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T20:51:22.026828+00:00",
+   "story_id": "d442e43590",
+   "title": "RCMP arrests man who allegedly stole trucks, hit police vehicle in southwest Nova Scotia",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

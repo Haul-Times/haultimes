@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:41:06.712852+00:00",
+ "updated": "2026-11-13T20:51:04.430976+00:00",
  "hour_now": 15,
  "have_us": true,
  "have_ca": true,
@@ -39,7 +39,7 @@
      0,
      0,
      0,
-     2,
+     3,
      null,
      null,
      null,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:27 pm EST",
+    "updated": "At 3:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 17,
-    "status": "17 minutes",
-    "updated": "2026-11-13 15:20 EST"
+    "wait": 22,
+    "status": "22 minutes",
+    "updated": "2026-11-13 15:40 EST"
    },
    "usual": {
     "south": [
@@ -264,7 +264,7 @@
      0,
      2,
      3,
-     2,
+     1,
      null,
      null,
      null,
@@ -290,7 +290,7 @@
      32,
      34,
      9,
-     17,
+     18,
      null,
      null,
      null,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:27 pm EST",
+    "updated": "At 3:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 1,
     "status": "1 minute",
-    "updated": "2026-11-13 15:20 EST"
+    "updated": "2026-11-13 15:40 EST"
    },
    "usual": {
     "south": [
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 15:15 EST"
+    "updated": "2026-11-13 15:36 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "15:38:46",
+    "updated": "15:43:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1089,7 +1089,7 @@
      0,
      0,
      9,
-     2,
+     1,
      null,
      null,
      null,
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-13 13:20 PDT"
+    "updated": "2026-11-13 13:40 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 13:20 PDT"
+    "updated": "2026-11-13 13:40 PDT"
    },
    "usual": {
     "south": [
