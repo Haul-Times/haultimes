@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:11:04.677465+00:00",
+ "updated": "2026-11-13T20:21:05.134001+00:00",
  "hour_now": 15,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 3:00 pm EST",
+    "status": "no delay",
+    "updated": "At 3:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -264,7 +264,7 @@
      0,
      2,
      3,
-     6,
+     4,
      null,
      null,
      null,
@@ -290,7 +290,7 @@
      32,
      34,
      9,
-     15,
+     16,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 3:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": 0,
-    "lanes": "2",
-    "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "lanes": "1",
+    "status": "delay",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -714,7 +714,7 @@
      0,
      0,
      0,
-     0,
+     3,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "15:08:42",
+    "updated": "15:18:43",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1089,7 +1089,7 @@
      0,
      0,
      9,
-     5,
+     3,
      null,
      null,
      null,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At Noon PST",
+    "updated": "At 1:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1419,7 +1419,7 @@
      null
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 4 AM",
    "best_north": "Usually fastest around 12 AM"
   }
  ],
