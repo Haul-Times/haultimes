@@ -1,5 +1,34 @@
 [
  {
+  "id": "64438046d0",
+  "slug": "joseph-f-cinquegrano-obituary-2026-providence-ri-a-a-mariani-son-funer-64438046d0",
+  "title": "Joseph F. Cinquegrano Obituary (2026) - Providence, RI - A. A. Mariani & Son Funeral Home",
+  "orig_title": "Joseph F. Cinquegrano Obituary (2026) - Providence, RI - A. A. Mariani & Son Funeral Home",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Legacy | Obituary",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0hJa1pTTXlfaG1wcWJhUm52N2dZSm83Q2REbXdtbTJHVmlFYkxkM1R4WXpsbkJnNURyN09jckRVY2ZINmc5MG1xX0YwVHE4NmRfOFl0WldIZlpMRm1CSlNGOWNKTk92NGJ2cGhMRDR6NWRla1RmdzJOSG9IZ2ZjRE81U3dyaS1Y?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0hJa1pTTXlfaG1wcWJhUm52N2dZSm83Q2REbXdtbTJHVmlFYkxkM1R4WXpsbkJnNURyN09jckRVY2ZINmc5MG1xX0YwVHE4NmRfOFl0WldIZlpMRm1CSlNGOWNKTk92NGJ2cGhMRDR6NWRla1RmdzJOSG9IZ2ZjRE81U3dyaS1Y",
+  "snippet": "Joseph F. Cinquegrano Obituary (2026) - Providence, RI - A. A. Mariani & Son Funeral Home Legacy | Obituary",
+  "published": "2026-11-13T16:39:08+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T16:41:07.057394+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "96684eb73b",
   "slug": "foldable-ebikes-prices-cut-ahead-of-black-friday-96684eb73b",
   "title": "Foldable ebikes: Prices cut ahead of Black Friday",
@@ -826,7 +855,7 @@
   "labels": [],
   "kind": "incident",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.wooleylaw.com/news/18-wheeler-rollover-shuts-down-southbound-sh-130-in-travis",
   "source_note": "ok · 2378 words"
  },
