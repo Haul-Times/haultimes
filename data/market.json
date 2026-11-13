@@ -1080,8 +1080,8 @@
    "CA": 8.076
   },
   "units": "US$ per gallon",
-  "retrieved_at": "2026-11-12T19:01:21.258422+00:00",
-  "last_attempt_at": "2026-11-12T19:01:21.258422+00:00",
+  "retrieved_at": "2026-11-13T01:02:15.931258+00:00",
+  "last_attempt_at": "2026-11-13T01:02:15.931258+00:00",
   "last_error": null,
   "source_url": "https://www.eia.gov/petroleum/gasdiesel/",
   "parser": 3,
