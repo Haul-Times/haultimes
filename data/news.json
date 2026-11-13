@@ -32,16 +32,17 @@
   "sum_status": "withheld",
   "source_fp": "d510cf35a611cdfb",
   "source_scope": "full_article",
-  "sum_at": "2026-11-13T00:11:02.101803+00:00",
-  "sum_version": 2,
+  "sum_at": "2026-11-13T00:21:09.184481+00:00",
+  "sum_version": 3,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [],
   "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: ); answer with the JSON object only, keep evidence quotes short"
+   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
   ],
   "ai_category": "other",
   "ai_importance": 20,
-  "sum_v3": true
+  "sum_v3": true,
+  "sum_v4": true
  },
  {
   "id": "fbfbbe68d6",
@@ -1045,6 +1046,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "f2df09d54b",
+  "slug": "halifax-area-teacher-charged-in-child-luring-investigation-f2df09d54b",
+  "title": "Halifax-area teacher charged in child luring investigation",
+  "orig_title": "Halifax-area teacher charged in child luring investigation",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLU4tSFdPR2ZCSHpQSHlBZGU1ZjRPR0JtQzlMWGRXbHBsUjRRNkhxLVhJQktneTd2UWg1bkJmVkVjdEtWdEdyLXRTOWFtNWpOeUUwTmc1YllWNzlFREtTQVBGcTA0eVpBb1dSTEIySEU1bTFLRUp1emdCeV9uM2FDb040X0t0cTJaSkxyRkZBSjJwS090Mm80?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLU4tSFdPR2ZCSHpQSHlBZGU1ZjRPR0JtQzlMWGRXbHBsUjRRNkhxLVhJQktneTd2UWg1bkJmVkVjdEtWdEdyLXRTOWFtNWpOeUUwTmc1YllWNzlFREtTQVBGcTA0eVpBb1dSTEIySEU1bTFLRUp1emdCeV9uM2FDb040X0t0cTJaSkxyRkZBSjJwS090Mm80",
+  "snippet": "Halifax-area teacher charged in child luring investigation Global News",
+  "published": "2026-11-12T19:42:19+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T00:21:09.184481+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4d59b61c06",
@@ -4115,6 +4145,35 @@
   "sum_pending": false
  },
  {
+  "id": "2c8feafd9c",
+  "slug": "malcolm-in-the-middle-star-race-car-driver-frankie-muniz-involved-in-s-2c8feafd9c",
+  "title": "‘Malcolm in the Middle’ star, race car driver Frankie Muniz involved in speedway crash",
+  "orig_title": "‘Malcolm in the Middle’ star, race car driver Frankie Muniz involved in speedway crash",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM2trN216M3YzZEY2SWdhTlR2Y2RkRVhKbEl4VHkzZVdGbG53SHhvMHVPVkQ5aFdXSjMzbzFIM3NwQkd0US1iUlVLQkU0RFJLRjdiTVd2V1o5aVloNkZ2dkRXeVdwcnBWTTNmR29SSEQ2VU44M05vSl9pTFlBdl9wd1VtYmNFeDFudHg1dXN1MVVzMDhvR3k1cWhueE9uUkVlb2JrQjJMQ0E5UTE1aTg3eUN1aWdxWnZxQ1NHdllycw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM2trN216M3YzZEY2SWdhTlR2Y2RkRVhKbEl4VHkzZVdGbG53SHhvMHVPVkQ5aFdXSjMzbzFIM3NwQkd0US1iUlVLQkU0RFJLRjdiTVd2V1o5aVloNkZ2dkRXeVdwcnBWTTNmR29SSEQ2VU44M05vSl9pTFlBdl9wd1VtYmNFeDFudHg1dXN1MVVzMDhvR3k1cWhueE9uUkVlb2JrQjJMQ0E5UTE1aTg3eUN1aWdxWnZxQ1NHdllycw",
+  "snippet": "‘Malcolm in the Middle’ star, race car driver Frankie Muniz involved in speedway crash CTV News",
+  "published": "2026-11-12T10:42:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T00:21:09.184481+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "df15d338b7",
   "slug": "from-vhs-to-ipods-retro-tech-is-driving-this-year-s-holiday-shopping-s-df15d338b7",
   "title": "From VHS to iPods, retro tech is driving this year’s holiday shopping season - National",
@@ -6993,45 +7052,16 @@
   "sum_status": "withheld",
   "source_fp": "c45bbaa7b6854be2",
   "source_scope": "full_article",
-  "sum_at": "2026-11-13T00:11:02.101803+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-13T00:21:09.184481+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "Walker was among three professional drivers who shared their experiences"
-   },
-   {
-    "sentence": "2",
-    "quote": "Jo Lynn “JJ” Kelley of Walmart Transportation and Shawnta Wortham of Boyle Transportation"
-   },
-   {
-    "sentence": "3",
-    "quote": "A lot of my job is mental"
-   },
-   {
-    "sentence": "4",
-    "quote": "Trucking do not make people unhealthy. We make ourselves unhealthy"
-   },
-   {
-    "sentence": "5",
-    "quote": "arranged to spend time with dispatch, fuel and maintenance personnel at the company’s headquarters in Green Bay, Wisconsin"
-   },
-   {
-    "sentence": "6",
-    "quote": "increasing fuel prices and other expenses can make it difficult for independent operators to remain profitable"
-   },
-   {
-    "sentence": "7",
-    "quote": "For Walker, equal treatment and opportunities are essential. Wortham agreed, adding equal pay to the list of priorities"
-   }
-  ],
+  "sum_evidence": [],
   "sum_problems": [
-   "summary longer than 160 words",
-   "name \"Schneider's Green Bay\" is not in the source"
+   "your answer could not be read as complete JSON (max_tokens: ); answer with the JSON object only, keep evidence quotes short"
   ],
   "ai_category": "drivers",
-  "ai_importance": 40
+  "ai_importance": 50,
+  "sum_v3": true
  },
  {
   "id": "1103063903",
@@ -13372,6 +13402,35 @@
   "published": "2026-11-10T18:58:00+00:00",
   "date_known": true,
   "first_seen": "2026-11-10T19:11:06.617497+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "aaf16d25fa",
+  "slug": "fatal-b-c-attack-involved-4-bears-displaying-predatory-behaviour-offic-aaf16d25fa",
+  "title": "Fatal B.C. attack involved 4 bears displaying ‘predatory behaviour,’ officials say",
+  "orig_title": "Fatal B.C. attack involved 4 bears displaying ‘predatory behaviour,’ officials say",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTFhQ0tNWm9VMTJjc29NdjkyaVZPakZDOVlyRG9UaVp0QTM0dVV5Q1V3TVFOb2dEazk0SXZFV19fR0dEN0U0OUQxd2tKM09zRkhHN2FwTVAyLW10dnl6elJ0b1VaelBEeERCUFQtaUdoQXEwb3JEbEYzV1BYWVdUYXNpOFd4Y2ZiV05vQVRjQUlHd0hWSDlsZFJoUW8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTFhQ0tNWm9VMTJjc29NdjkyaVZPakZDOVlyRG9UaVp0QTM0dVV5Q1V3TVFOb2dEazk0SXZFV19fR0dEN0U0OUQxd2tKM09zRkhHN2FwTVAyLW10dnl6elJ0b1VaelBEeERCUFQtaUdoQXEwb3JEbEYzV1BYWVdUYXNpOFd4Y2ZiV05vQVRjQUlHd0hWSDlsZFJoUW8",
+  "snippet": "Fatal B.C. attack involved 4 bears displaying ‘predatory behaviour,’ officials say Global News",
+  "published": "2026-11-10T18:56:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-13T00:21:09.184481+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
