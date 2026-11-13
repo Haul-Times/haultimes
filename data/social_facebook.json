@@ -2327,7 +2327,8 @@
   "promo-20261113": "posted|HaulTimes update",
   "54407ab75a": "skipped|importance 55 is below this platform's threshold (65)",
   "006ee7ce4c": "skipped|importance 57 is below this platform's threshold (65)",
-  "97016c823e": "skipped|importance 55 is below this platform's threshold (65)"
+  "97016c823e": "skipped|importance 55 is below this platform's threshold (65)",
+  "59b5f8eb7d": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -4541,6 +4542,13 @@
    "title": "Driver Qualification: Getting the hiring process right",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-13T16:31:27.158724+00:00",
+   "story_id": "59b5f8eb7d",
+   "title": "‘Chicago truck driver’ that killed mom and two young sons confirmed illegal alien",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
