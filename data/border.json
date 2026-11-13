@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:02:52.743556+00:00",
+ "updated": "2026-11-13T11:11:09.715528+00:00",
  "hour_now": 6,
  "have_us": true,
  "have_ca": true,
@@ -12,9 +12,9 @@
    "south": {
     "wait": 0,
     "fast_wait": 0,
-    "lanes": "3",
+    "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:00 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:47 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 4,
-    "status": "4 minutes",
-    "updated": "2026-11-13 05:40 EST"
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-13 06:00 EST"
    },
    "usual": {
     "south": [
@@ -281,7 +281,7 @@
      3,
      3,
      4,
-     4,
+     2,
      null,
      null,
      null,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:47 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-13 05:40 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-13 06:00 EST"
    },
    "usual": {
     "south": [
@@ -356,7 +356,7 @@
      1,
      1,
      1,
-     2,
+     3,
      null,
      null,
      null,
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 am EST",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "05:56:36",
+    "updated": "06:06:37",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "05:56:36",
+    "updated": "06:06:37",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:56:37",
+    "updated": "05:06:38",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-13 03:40 PDT"
+    "updated": "2026-11-13 04:00 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 03:40 PDT"
+    "updated": "2026-11-13 04:00 PDT"
    },
    "usual": {
     "south": [
@@ -1462,8 +1462,8 @@
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": null,
-    "status": "Lanes Closed"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Jackman",
