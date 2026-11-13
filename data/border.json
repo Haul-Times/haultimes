@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:21:08.948506+00:00",
+ "updated": "2026-11-13T17:32:20.622539+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:15 EST"
+    "updated": "2026-11-13 12:15 EST"
    },
    "usual": {
     "south": [
@@ -164,13 +164,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:15 EST"
+    "updated": "2026-11-13 12:15 EST"
    },
    "usual": {
     "south": [
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 12:07 pm EST",
+    "updated": "At 12:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 16,
-    "status": "16 minutes",
-    "updated": "2026-11-13 12:00 EST"
+    "wait": 45,
+    "status": "45 minutes",
+    "updated": "2026-11-13 12:20 EST"
    },
    "usual": {
     "south": [
@@ -287,7 +287,7 @@
      6,
      10,
      22,
-     21,
+     28,
      null,
      null,
      null,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:07 pm EST",
+    "updated": "At 12:17 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 6,
-    "status": "6 minutes",
-    "updated": "2026-11-13 12:00 EST"
+    "wait": 11,
+    "status": "11 minutes",
+    "updated": "2026-11-13 12:20 EST"
    },
    "usual": {
     "south": [
@@ -362,7 +362,7 @@
      3,
      7,
      7,
-     6,
+     7,
      null,
      null,
      null,
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:15 EST"
+    "updated": "2026-11-13 12:17 EST"
    },
    "usual": {
     "south": [
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:15 CDT"
+    "updated": "2026-11-13 12:15 CDT"
    },
    "usual": {
     "south": [
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:15 EST"
+    "updated": "2026-11-13 11:15 EST"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:15 EST"
+    "updated": "2026-11-13 12:15 EST"
    },
    "usual": {
     "south": [
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 11:41 AST"
+    "updated": "2026-11-13 13:15 AST"
    },
    "usual": {
     "south": [
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:18:16",
+    "updated": "12:28:17",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-13 11:51 AST"
+    "updated": "2026-11-13 13:15 AST"
    },
    "usual": {
     "south": [
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 am CST",
+    "updated": "At 11:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 09:15 CST"
+    "updated": "2026-11-13 11:15 CST"
    },
    "usual": {
     "south": [
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-13 10:00 PDT"
+    "updated": "2026-11-13 10:20 PDT"
    },
    "usual": {
     "south": [
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 7 AM"
+   "best_north": "Usually fastest around 12 PM"
   },
   {
    "id": "sumas",
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 10:00 PDT"
+    "updated": "2026-11-13 10:20 PDT"
    },
    "usual": {
     "south": [
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
