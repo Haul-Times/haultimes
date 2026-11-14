@@ -2617,7 +2617,8 @@
   "abc8256242": "skipped|importance 55 is below this platform's threshold (65)",
   "d45d672cb0": "posted|importance 68 (threshold 65), Rates & Market, established outlet; waited 11 min in queue",
   "42c709b51b": "skipped|importance 45 is below this platform's threshold (65)",
-  "8fab2e414d": "posted|importance 77 (threshold 65), Fuel, local/other outlet; waited 10 min in queue"
+  "8fab2e414d": "posted|importance 77 (threshold 65), Fuel, local/other outlet; waited 10 min in queue",
+  "31173afe79": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5111,6 +5112,13 @@
    "title": "As diesel prices soar, truckers struggle while keeping Ameri...",
    "action": "posted",
    "reason": "importance 77 (threshold 65), Fuel, local/other outlet; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-14T08:51:29.852480+00:00",
+   "story_id": "31173afe79",
+   "title": "High diesel prices hit trucking industry hard",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
