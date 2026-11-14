@@ -2666,7 +2666,8 @@
   "1fd31cf7c5": "skipped|importance 45 is below this platform's threshold (65)",
   "e4305287dd": "skipped|importance 62 is below this platform's threshold (65)",
   "6569f00a45": "skipped|importance 51 is below this platform's threshold (65)",
-  "1829c5f30d": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 20 min in queue"
+  "1829c5f30d": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 20 min in queue",
+  "c783714194": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5216,6 +5217,13 @@
    "title": "Teamsters strike at Associated Grocers enters second week",
    "action": "posted",
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-14T20:21:15.998371+00:00",
+   "story_id": "c783714194",
+   "title": "DeKalb County Sheriff’s Office warns truckers after ticketing driver on new Peace Road bridge",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
