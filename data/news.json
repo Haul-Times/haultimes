@@ -5191,6 +5191,35 @@
   "sum_pending": false
  },
  {
+  "id": "441efea3ea",
+  "slug": "tesla-leases-more-than-29-000-square-feet-in-buda-as-semi-operations-e-441efea3ea",
+  "title": "Tesla leases more than 29,000 square feet in Buda as Semi operations expand in Texas",
+  "orig_title": "Tesla leases more than 29,000 square feet in Buda as Semi operations expand in Texas",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Austin American-Statesman",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZW1GMVdkYTNiVW9YV01VX0ZnalpiRE9tdFdPeWpiUmI2bHg3OFI4WlRWNDNxQUFZZHJNdFE2MzdNbGpWclNGZlBGRjdUREFmdGZiWW9NYkh3VVFDMUo0WTFnbUFQVjc2RG1qejA4M3IyS0NMWC1tNHhEZGFwUE5uUUdicHNXVkFidmN3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZW1GMVdkYTNiVW9YV01VX0ZnalpiRE9tdFdPeWpiUmI2bHg3OFI4WlRWNDNxQUFZZHJNdFE2MzdNbGpWclNGZlBGRjdUREFmdGZiWW9NYkh3VVFDMUo0WTFnbUFQVjc2RG1qejA4M3IyS0NMWC1tNHhEZGFwUE5uUUdicHNXVkFidmN3",
+  "snippet": "Tesla leases more than 29,000 square feet in Buda as Semi operations expand in Texas Austin American-Statesman",
+  "published": "2026-11-13T11:06:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T19:01:17.261775+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "af8b7c0fb9",
   "slug": "ontario-career-college-forced-into-layoffs-as-student-funding-stalls-af8b7c0fb9",
   "title": "Ontario career college forced into layoffs as student funding stalls",
@@ -21723,35 +21752,6 @@
   "sum_pending": false
  },
  {
-  "id": "eba50406e0",
-  "slug": "lineage-line-q3-2026-earnings-call-transcript-eba50406e0",
-  "title": "Lineage (LINE) Q3 2026 Earnings Call Transcript",
-  "orig_title": "Lineage (LINE) Q3 2026 Earnings Call Transcript",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcnJyZTctNjJqczE3eUdfOUVhWnRNc0JGb3p5ME1KdmJHMHdxTTBRZHNTck1RTjNKbmhCVlZzbGhLdjFGbWpfR09oRktWYTAyWGlhY3ZTY1lrelBUNjZIM2M0dk02b1BYcHFKS1p4VEpqbHFRd09lRnFTbGZXcWVDZFlJb0lTUWI4NzJIZmhMdUdhQnlVX1BOczdXTVhaWTBMbjlWZ2p1ZzJnMDZDMVBxaWhjX2haRGxWZl9oQVNrS0lzUQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcnJyZTctNjJqczE3eUdfOUVhWnRNc0JGb3p5ME1KdmJHMHdxTTBRZHNTck1RTjNKbmhCVlZzbGhLdjFGbWpfR09oRktWYTAyWGlhY3ZTY1lrelBUNjZIM2M0dk02b1BYcHFKS1p4VEpqbHFRd09lRnFTbGZXcWVDZFlJb0lTUWI4NzJIZmhMdUdhQnlVX1BOczdXTVhaWTBMbjlWZ2p1ZzJnMDZDMVBxaWhjX2haRGxWZl9oQVNrS0lzUQ",
-  "snippet": "Lineage (LINE) Q3 2026 Earnings Call Transcript The Globe and Mail",
-  "published": "2026-11-10T18:56:03+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T19:00:32.675615+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "stock commentary, no trucking development"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "bcc4b4e851",
   "slug": "good-news-there-s-a-simpler-brookfield-emerging-bcc4b4e851",
   "title": "Good news, there’s a simpler Brookfield emerging",
@@ -24594,35 +24594,6 @@
   "source_note": "paywalled: excerpt only · 27 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "c0533fa78f",
-  "slug": "u-logistique-deploys-a-240-kw-charging-station-in-carquefou-c0533fa78f",
-  "title": "U Logistique deploys a 240 kW charging station in Carquefou",
-  "orig_title": "U Logistique deploys a 240 kW charging station in Carquefou",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "energynews.pro",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWktRNDhiZjlPTk1neEk5YlpPeU13anU5eWpaaGlMb0Utcm5wRFg3RGJBSmFPcTRYdjc4QWF0eDZ4dm9INXlvUXpwT0RjNzA0c21pMWV6ZGZYeFFVek5PUm1WcVluOVdQMDdGbVBTY3FLRHZxY3VTWWtlQU1PS2k1WG1YTVVfRDNVSlAxTF9R?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWktRNDhiZjlPTk1neEk5YlpPeU13anU5eWpaaGlMb0Utcm5wRFg3RGJBSmFPcTRYdjc4QWF0eDZ4dm9INXlvUXpwT0RjNzA0c21pMWV6ZGZYeFFVek5PUm1WcVluOVdQMDdGbVBTY3FLRHZxY3VTWWtlQU1PS2k1WG1YTVVfRDNVSlAxTF9R",
-  "snippet": "U Logistique deploys a 240 kW charging station in Carquefou energynews.pro",
-  "published": "2026-11-09T22:32:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T19:00:32.675615+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "bf1e6fe508",
