@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:21:01.682559+00:00",
+ "updated": "2026-11-14T06:31:06.177560+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-14 01:01 EST"
+    "updated": "2026-11-14 01:15 EST"
    },
    "usual": {
     "south": [
@@ -160,22 +160,22 @@
    "ports": "Sault Ste. Marie, MI ↔ Sault Ste. Marie, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:15:05",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 23:20 EST"
+    "updated": "2026-11-14 01:15 EST"
    },
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:07 am EST",
+    "updated": "At 1:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-14 01:00 EST"
+    "wait": 7,
+    "status": "7 minutes",
+    "updated": "2026-11-14 01:20 EST"
    },
    "usual": {
     "south": [
@@ -276,7 +276,7 @@
     ],
     "north": [
      3,
-     1,
+     2,
      null,
      null,
      null,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:07 am EST",
+    "updated": "At 1:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-14 01:00 EST"
+    "wait": 9,
+    "status": "9 minutes",
+    "updated": "2026-11-14 01:20 EST"
    },
    "usual": {
     "south": [
@@ -351,7 +351,7 @@
     ],
     "north": [
      8,
-     2,
+     3,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:15:05",
+    "updated": "01:25:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 23:15 EST"
+    "updated": "2026-11-14 01:15 EST"
    },
    "usual": {
     "south": [
@@ -539,13 +539,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:15:05",
+    "updated": "01:25:05",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 23:15 EST"
+    "updated": "2026-11-14 01:15 EST"
    },
    "usual": {
     "south": [
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 23:15 CDT"
+    "updated": "2026-11-14 01:15 CDT"
    },
    "usual": {
     "south": [
@@ -689,13 +689,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:15:05",
+    "updated": "01:25:05",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 23:15 EST"
+    "updated": "2026-11-14 01:15 EST"
    },
    "usual": {
     "south": [
@@ -764,13 +764,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:15:05",
+    "updated": "01:25:05",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 23:15 EST"
+    "updated": "2026-11-14 01:15 EST"
    },
    "usual": {
     "south": [
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:15:05",
+    "updated": "01:25:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:15:05",
+    "updated": "01:25:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,13 +1064,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:15:05",
+    "updated": "00:25:05",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 23:15 CDT"
+    "updated": "2026-11-14 01:15 CDT"
    },
    "usual": {
     "south": [
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-13 23:00 PDT"
+    "updated": "2026-11-13 23:20 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 23:00 PDT"
+    "updated": "2026-11-13 23:20 PDT"
    },
    "usual": {
     "south": [
