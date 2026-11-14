@@ -103,6 +103,37 @@
   "sum_pending": false
  },
  {
+  "id": "1fd31cf7c5",
+  "slug": "ramstad-from-trucker-to-economist-morris-professor-tracked-an-industry-1fd31cf7c5",
+  "title": "Ramstad: From trucker to economist, Morris professor tracked an industry in transition",
+  "orig_title": "Ramstad: From trucker to economist, Morris professor tracked an industry in transition",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 45,
+  "source": "Star Tribune",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlc2dVBFZ0hMUkhCWjBtbVowcThkcVF0OWRRSHN3bjdaS2JEMmx3QXA1aXVaTE5scFFTRS1McFZ4LTEyS3lFcWFsM3VFcTkzc05FNTUyVDBIMzJUWW41RFp0VjNBMy1USS1ZcElndHQtbEd4a2tOTnZ0RDVzVUgydHVPVnh5eTJqZ1FyYXdSRVhWV0c5UWlIYmJneDJzWS16WThXUTh0Wml1dnk1bkYxSmtVa0RfeVNVSWFKT3NmeXlySzZ1cXg0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlc2dVBFZ0hMUkhCWjBtbVowcThkcVF0OWRRSHN3bjdaS2JEMmx3QXA1aXVaTE5scFFTRS1McFZ4LTEyS3lFcWFsM3VFcTkzc05FNTUyVDBIMzJUWW41RFp0VjNBMy1USS1ZcElndHQtbEd4a2tOTnZ0RDVzVUgydHVPVnh5eTJqZ1FyYXdSRVhWV0c5UWlIYmJneDJzWS16WThXUTh0Wml1dnk1bkYxSmtVa0RfeVNVSWFKT3NmeXlySzZ1cXg0",
+  "snippet": "Ramstad: From trucker to economist, Morris professor tracked an industry in transition Star Tribune",
+  "published": "2026-11-14T12:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T12:21:10.471103+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (429)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (429))"
+ },
+ {
   "id": "94de71c8bf",
   "slug": "logistics-and-supply-chain-leaders-nationwide-in-nationwide-for-penske-94de71c8bf",
   "title": "Logistics and Supply Chain Leaders - Nationwide in Nationwide, for Penske Truck Leasing",
@@ -23942,61 +23973,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "ab4bacf873",
-  "slug": "ryder-ceo-john-diez-to-address-stephens-annual-investment-conference-ab4bacf873",
-  "title": "Ryder CEO John Diez to Address Stephens Annual Investment Conference",
-  "orig_title": "Ryder CEO John Diez to Address Stephens Annual Investment Conference",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 35,
-  "source": "巴士的報",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkpoeG1kMVpleWllTUhmNk5ZaFFVRkpFNzdiS0dhMkcydXZRc09ZMjdiVnEySWY5anM2Q1RscVVCMi16WG9qaDcyd1pVNXVjMGZYbmswZjlsa2Zjc25BWkRkenFjXzRzSl8tT1AwT0RCaEVacG9jbGVLWlh0MmRNMmxFbll3ODQtMlFyaEN6R2tLSHZUcWcwRVNzbDBLVTZwdTZKamtqa0xOU2JTdmtaanBpajdZMEdHbTk3Tw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkpoeG1kMVpleWllTUhmNk5ZaFFVRkpFNzdiS0dhMkcydXZRc09ZMjdiVnEySWY5anM2Q1RscVVCMi16WG9qaDcyd1pVNXVjMGZYbmswZjlsa2Zjc25BWkRkenFjXzRzSl8tT1AwT0RCaEVacG9jbGVLWlh0MmRNMmxFbll3ODQtMlFyaEN6R2tLSHZUcWcwRVNzbDBLVTZwdTZKamtqa0xOU2JTdmtaanBpajdZMEdHbTk3Tw",
-  "snippet": "Ryder CEO John Diez to Address Stephens Annual Investment Conference 巴士的報",
-  "published": "2026-11-10T11:55:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "event",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://www.bastillepost.com/global/article/6344611-ryder-ceo-john-diez-to-address-stephens-annual-investment-conference",
-  "source_note": "ok · 921 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "99a3ade3afc26c43",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-12T00:41:05.847892+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "John Diez to address the 2026 Stephens Annual Investment Conference"
-   },
-   {
-    "sentence": "2",
-    "quote": "manages approximately 240,000 commercial vehicles"
-   }
-  ],
-  "sum_problems": [
-   "Source text contains an unrelated AP baseball article (Cy Young Award coverage) appended to the press release.",
-   "Publisher 巴士的報 does not match the Business Wire press release source.",
-   "Content is a corporate event announcement with no operational, regulatory or rate information for carriers or brokers."
-  ],
-  "ai_category": "other",
-  "ai_importance": 12,
-  "ai_relevant": false
- },
- {
   "id": "88b12197eb",
   "slug": "u-s-republicans-elect-jim-jordan-john-thune-as-leaders-of-house-senate-88b12197eb",
   "title": "U.S. Republicans elect Jim Jordan, John Thune as leaders of House, Senate",
@@ -24108,33 +24084,6 @@
   ],
   "labels": [],
   "kind": "review",
-  "sum_pending": false
- },
- {
-  "id": "2104cc5b6c",
-  "slug": "lebanon-syria-reopen-border-crossing-to-boost-trade-2104cc5b6c",
-  "title": "Lebanon, Syria Reopen Border Crossing to Boost Trade",
-  "orig_title": "Lebanon, Syria Reopen Border Crossing to Boost Trade",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Voice of Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16eXpWQ2xFRzlWTVJiNUxVYmFiTFBtdWpfOVByaDJIYlhkZGYyc0t2M3BPUTVOMHJ0Y1p4TUdPeW92R2tjRUxFaS1sMHNScXUzZm9LUFlKVUhLVHlhMHR2MEcyQUpKU0RvWF9hYVhFVnRIblF1Mm52WjVaWQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16eXpWQ2xFRzlWTVJiNUxVYmFiTFBtdWpfOVByaDJIYlhkZGYyc0t2M3BPUTVOMHJ0Y1p4TUdPeW92R2tjRUxFaS1sMHNScXUzZm9LUFlKVUhLVHlhMHR2MEcyQUpKU0RvWF9hYVhFVnRIblF1Mm52WjVaWQ",
-  "snippet": "Lebanon, Syria Reopen Border Crossing to Boost Trade Voice of Nigeria",
-  "published": "2026-11-10T11:04:55+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
@@ -24590,33 +24539,6 @@
   "sum_pending": false
  },
  {
-  "id": "de7e9739f8",
-  "slug": "slovenia-and-croatia-want-to-link-ljubljana-and-zagreb-via-a-cross-bor-de7e9739f8",
-  "title": "Slovenia and Croatia want to link Ljubljana and Zagreb via a cross-border railway line",
-  "orig_title": "Slovenia and Croatia want to link Ljubljana and Zagreb via a cross-border railway line",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Railway PRO",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWw3RUFPTU0zdjBIZmctT0UwMmNRUlo3QVNvZHFlTHVUbzBFY1lnQzZKY3FUOHZlY0pzVTk2aEp0b1pFOFdvcmdkcXFvbkVLUEQ3ZmphbG1NNGRWclpwdmRjbVJaeWFBNGZSQkVYSGRHaFZ5Z2doX3VfM1JISk1ycjV4UWpRNmI0MUNfaUxadHc3Z2JvLXM4aVhXVGY0ZVNyQ2hHdXRXQkg4bk5ZUEtvUVF3?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWw3RUFPTU0zdjBIZmctT0UwMmNRUlo3QVNvZHFlTHVUbzBFY1lnQzZKY3FUOHZlY0pzVTk2aEp0b1pFOFdvcmdkcXFvbkVLUEQ3ZmphbG1NNGRWclpwdmRjbVJaeWFBNGZSQkVYSGRHaFZ5Z2doX3VfM1JISk1ycjV4UWpRNmI0MUNfaUxadHc3Z2JvLXM4aVhXVGY0ZVNyQ2hHdXRXQkg4bk5ZUEtvUVF3",
-  "snippet": "Slovenia and Croatia want to link Ljubljana and Zagreb via a cross-border railway line Railway PRO",
-  "published": "2026-11-10T08:43:36+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "229d811a47",
   "slug": "when-ai-invents-facts-whose-fault-is-it-229d811a47",
   "title": "When AI Invents Facts, Whose Fault Is It?",
@@ -24785,33 +24707,6 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "76dc82dc3b",
-  "slug": "new-cross-border-u-s-pipeline-proposal-could-revive-idle-keystone-xl-a-76dc82dc3b",
-  "title": "New Cross-Border U.S. Pipeline Proposal Could Revive Idle Keystone XL Assets: Analysts",
-  "orig_title": "New Cross-Border U.S. Pipeline Proposal Could Revive Idle Keystone XL Assets: Analysts",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeURCRnR0eERyUWwxbndpZmNkT2NYZUZWOHl6MFdtUzd1WFNrUGxZX0ROYVh3VlZ0R3JIMThicXdtemoyb2NHQUZWalNxcE1naktDOHhQTTBBajFTdzVVUkxERWpLQlZkbEZDenlsU3ZjT2IyMTlVMFU3X3lUdm16OThqallRRzR0Qm40alpWeUY4M2Q4bWZFLUNvbEFzdW9ZbU5QMkZnNXR4WUZDZzhfSEtfTWJwQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeURCRnR0eERyUWwxbndpZmNkT2NYZUZWOHl6MFdtUzd1WFNrUGxZX0ROYVh3VlZ0R3JIMThicXdtemoyb2NHQUZWalNxcE1naktDOHhQTTBBajFTdzVVUkxERWpLQlZkbEZDenlsU3ZjT2IyMTlVMFU3X3lUdm16OThqallRRzR0Qm40alpWeUY4M2Q4bWZFLUNvbEFzdW9ZbU5QMkZnNXR4WUZDZzhfSEtfTWJwQQ",
-  "snippet": "New Cross-Border U.S. Pipeline Proposal Could Revive Idle Keystone XL Assets: Analysts EnergyNow.com",
-  "published": "2026-11-10T07:49:13+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
@@ -25596,33 +25491,6 @@
   "source_note": "paywalled: excerpt only · 27 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "d20abbe528",
-  "slug": "earnings-call-transcript-radiant-logistics-tops-q1-2026-forecasts-shar-d20abbe528",
-  "title": "Earnings call transcript: Radiant Logistics tops Q1 2026 forecasts, shares jump",
-  "orig_title": "Earnings call transcript: Radiant Logistics tops Q1 2026 forecasts, shares jump",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Investing.com Canada",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaE5IWlltX0RheDhNZ09KZWsycE9qYkFjcTNobEh3dGdRajNLTXh6R1UySG94N0VFRmpYSTZKcnpxcUFhTnBXM0g1RnJuanNKcW1FVU52azJIWXlwdzlfZlI3U25tZC10SGJxcEdHT2JyUTlGdjdHczhtSXhXWk9PYUR2WDU4MFJRZlM2UEdocHAyeGZkVkhpdGZmZkVTaDJndW94MU5vNVdUTzk3LTdqQlBnTHZ0cmtjbjVFZXNOVy1CN19lb0xELUVQZjBneVo3WkxDcw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaE5IWlltX0RheDhNZ09KZWsycE9qYkFjcTNobEh3dGdRajNLTXh6R1UySG94N0VFRmpYSTZKcnpxcUFhTnBXM0g1RnJuanNKcW1FVU52azJIWXlwdzlfZlI3U25tZC10SGJxcEdHT2JyUTlGdjdHczhtSXhXWk9PYUR2WDU4MFJRZlM2UEdocHAyeGZkVkhpdGZmZkVTaDJndW94MU5vNVdUTzk3LTdqQlBnTHZ0cmtjbjVFZXNOVy1CN19lb0xELUVQZjBneVo3WkxDcw",
-  "snippet": "Earnings call transcript: Radiant Logistics tops Q1 2026 forecasts, shares jump Investing.com Canada",
-  "published": "2026-11-09T22:37:47+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "stock commentary, no trucking development"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "c0533fa78f",
@@ -26560,33 +26428,6 @@
   "sum_pending": false
  },
  {
-  "id": "650951df26",
-  "slug": "beyond-the-border-disrupting-criminal-networks-laura-dawson-650951df26",
-  "title": "Beyond the border – Disrupting criminal networks: Laura Dawson",
-  "orig_title": "Beyond the border – Disrupting criminal networks: Laura Dawson",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Macdonald-Laurier Institute",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGpmeTBhQV9DLU9mb1BtZEJhaTVkeXg3OE1mNWQzYlZFU2hQRFhWMkhQakFpNkpwLWUwTnltRkZTWFczaVpRU3NDMUtOUEdqSEhSSEJYT2hZTk9YRXE0cjVXczJOZUg3bnpjYXp1Qy00RjQ0Y0kzRUlocmJnMnY3dXRwQ3BTRk5EbmJLTXlsems2Zw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGpmeTBhQV9DLU9mb1BtZEJhaTVkeXg3OE1mNWQzYlZFU2hQRFhWMkhQakFpNkpwLWUwTnltRkZTWFczaVpRU3NDMUtOUEdqSEhSSEJYT2hZTk9YRXE0cjVXczJOZUg3bnpjYXp1Qy00RjQ0Y0kzRUlocmJnMnY3dXRwQ3BTRk5EbmJLTXlsems2Zw",
-  "snippet": "Beyond the border – Disrupting criminal networks: Laura Dawson The Macdonald-Laurier Institute",
-  "published": "2026-11-09T19:27:25+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "d259bc1a28",
   "slug": "ftr-trucking-market-eased-slightly-in-september-but-future-looks-good-d259bc1a28",
   "title": "FTR: trucking market eased slightly in September, but future looks good",
@@ -27201,33 +27042,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "33829c2510",
-  "slug": "perspective-eastern-canada-s-u-s-gas-dependence-revives-the-case-for-a-33829c2510",
-  "title": "PERSPECTIVE: Eastern Canada’s U.S. Gas Dependence Revives the Case for a Stronger Alberta Connection",
-  "orig_title": "PERSPECTIVE: Eastern Canada’s U.S. Gas Dependence Revives the Case for a Stronger Alberta Connection",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "EnergyNow",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbVFfNlBJbDlCS3JmVFdmbGlPNmNPUmE4RXpkd3l5ZmUwN3I1ZXdlcVpobGxab0pkc1JScFhOM0tKY3U4LVA3Mzk1YWtYcmFjeG1DLVZfSW5MQzRoZlhEcnVwV2ZiUVdPRHQ3MXM5NkE1QlpEZ0VmVVltM0MycWlYMk1rMlVvaWpTWURYYkttb0xSRzFjQUJWR0xtZ2U5NUQ0OElta2ZOOHFyWW85V2lDQmpxREtaRDFWMzlNLW1RNDVIYVNISnc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbVFfNlBJbDlCS3JmVFdmbGlPNmNPUmE4RXpkd3l5ZmUwN3I1ZXdlcVpobGxab0pkc1JScFhOM0tKY3U4LVA3Mzk1YWtYcmFjeG1DLVZfSW5MQzRoZlhEcnVwV2ZiUVdPRHQ3MXM5NkE1QlpEZ0VmVVltM0MycWlYMk1rMlVvaWpTWURYYkttb0xSRzFjQUJWR0xtZ2U5NUQ0OElta2ZOOHFyWW85V2lDQmpxREtaRDFWMzlNLW1RNDVIYVNISnc",
-  "snippet": "PERSPECTIVE: Eastern Canada’s U.S. Gas Dependence Revives the Case for a Stronger Alberta Connection EnergyNow",
-  "published": "2026-11-09T16:31:11+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "e18749db81",
@@ -29811,33 +29625,6 @@
   "sum_pending": false
  },
  {
-  "id": "a72b3e9afd",
-  "slug": "america-can-hurt-canada-with-tariffs-it-can-t-escape-the-damage-a72b3e9afd",
-  "title": "America Can Hurt Canada With Tariffs. It Can’t Escape the Damage.",
-  "orig_title": "America Can Hurt Canada With Tariffs. It Can’t Escape the Damage.",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "International Policy Digest",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGZkSHJ6YjdFa2V6S2ZIb01hTVFzRjllOTk4a05uY0VOUFlhYWN0YTJNblM5cm53M3ZzX3k5Z1pNN2RLNG1tNnJSVDJJblBQZy04bU9rTU9YZFFZRFZ5anJCS1h3TUVSLXlBVTFJS0xuTnBQN1NkSUE5LWszdU9ESk15NU16NXJkeWZLYnBBbkVfMW8wbE1n?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGZkSHJ6YjdFa2V6S2ZIb01hTVFzRjllOTk4a05uY0VOUFlhYWN0YTJNblM5cm53M3ZzX3k5Z1pNN2RLNG1tNnJSVDJJblBQZy04bU9rTU9YZFFZRFZ5anJCS1h3TUVSLXlBVTFJS0xuTnBQN1NkSUE5LWszdU9ESk15NU16NXJkeWZLYnBBbkVfMW8wbE1n",
-  "snippet": "America Can Hurt Canada With Tariffs. It Can’t Escape the Damage. International Policy Digest",
-  "published": "2026-11-07T20:47:23+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "040d32a939",
   "slug": "vid-o-transport-routier-les-aides-de-l-etat-sont-elles-suffisantes-le-040d32a939",
   "title": "Vidéo : Transport routier : les aides de l’Etat sont-elles suffisantes ? Le point avec Amer Zghinou",
@@ -29861,33 +29648,6 @@
   "status": "rejected",
   "reasons": [
    "French-language story (English only)"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "9d80ff2bf2",
-  "slug": "former-windsor-cao-helga-reidel-dies-at-66-9d80ff2bf2",
-  "title": "Former Windsor CAO Helga Reidel dies at 66",
-  "orig_title": "Former Windsor CAO Helga Reidel dies at 66",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYW5jN044bHhGM3dNYnhXN0FKVFdQUEl2d3dyOXpWb2J6WS0tTGFxV3JtVnRWX3JGUXhEYzM2TkIwaEtCZURndDFrelhrUXI2cDdvWXRQX2FON2JKZGdvRGlWNzBsME80aHdMRHpFdlQ4YWNqQXlUOUo4RUZRMHBNTE5Ca0hMbS1UOEE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYW5jN044bHhGM3dNYnhXN0FKVFdQUEl2d3dyOXpWb2J6WS0tTGFxV3JtVnRWX3JGUXhEYzM2TkIwaEtCZURndDFrelhrUXI2cDdvWXRQX2FON2JKZGdvRGlWNzBsME80aHdMRHpFdlQ4YWNqQXlUOUo4RUZRMHBNTE5Ca0hMbS1UOEE",
-  "snippet": "Former Windsor CAO Helga Reidel dies at 66 CTV News",
-  "published": "2026-11-07T18:12:55+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T12:11:06.453618+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
