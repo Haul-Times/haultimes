@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:01:04.291569+00:00",
+ "updated": "2026-11-14T16:05:58.899392+00:00",
  "hour_now": 11,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:47 am EST",
+    "updated": "At 10:57 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 17,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 10:47 am EST",
+    "status": "no delay",
+    "updated": "At 10:57 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -335,7 +335,7 @@
      0,
      15,
      3,
-     17,
+     8,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "10:55:52",
+    "updated": "11:05:52",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "10:55:52",
+    "updated": "11:05:52",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 14,
+    "wait": 30,
     "fast_wait": null,
     "lanes": "1",
     "status": "delay",
-    "updated": "At 8:00 am CST",
+    "updated": "At 10:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1085,7 +1085,7 @@
      null,
      14,
      14,
-     14,
+     22,
      null,
      null,
      null,
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 am MST",
+    "updated": "At 9:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
