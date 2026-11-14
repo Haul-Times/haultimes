@@ -24314,33 +24314,6 @@
   "sum_pending": false
  },
  {
-  "id": "e8cf9f5f84",
-  "slug": "fuel-protest-convoys-announced-for-friday-e8cf9f5f84",
-  "title": "Fuel protest convoys announced for Friday",
-  "orig_title": "Fuel protest convoys announced for Friday",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Midwest Radio",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1BCT3ljaEUzQkcwMHBPZU40OEhuNGhpMGZIUGtLSFhQOUphempBcHVaSWpMMGlDZjlqSThQdUhoUVV0WUcyc2szR0lsZkwxS19iSjVSdzlFNzF1cG9JRXhSejBNWEllV24ycG9IVFV5VmJpNTJLRU1qME5HWmxMTw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1BCT3ljaEUzQkcwMHBPZU40OEhuNGhpMGZIUGtLSFhQOUphempBcHVaSWpMMGlDZjlqSThQdUhoUVV0WUcyc2szR0lsZkwxS19iSjVSdzlFNzF1cG9JRXhSejBNWEllV24ycG9IVFV5VmJpNTJLRU1qME5HWmxMTw",
-  "snippet": "Fuel protest convoys announced for Friday Midwest Radio",
-  "published": "2026-11-10T09:15:39+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T10:01:07.577525+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "8ebcb9ecf0",
   "slug": "wai-adds-two-new-trucks-to-uk-fleet-following-significant-growth-8ebcb9ecf0",
   "title": "WAI adds two new trucks to UK fleet following significant growth",
@@ -24364,33 +24337,6 @@
   "status": "rejected",
   "reasons": [
    "non-North American source"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "4aa5424283",
-  "slug": "us-based-kenyan-truck-driver-stirs-reactions-after-claiming-his-salary-4aa5424283",
-  "title": "US-Based Kenyan Truck Driver Stirs Reactions After Claiming His Salary Can Pay 2 Doctors",
-  "orig_title": "US-Based Kenyan Truck Driver Stirs Reactions After Claiming His Salary Can Pay 2 Doctors",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Tuko News",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamozd01iamVMV3ZPOUhBUk5vTzJnckFpUV9sdGpWWnpOa1V4M1FBdnJlN3FPd2hEMlY0Q0xXSXU1VDQwU1NNQ1psTEwwV3JTNmRYcXRZZG1GaEdJb0hNbkRqbkoxaGlhczJ5Y0lxRXVmamRmNmZzaHF0SF85S0NValRqcEJaV3VnQTZNNWtLUkxqR0diT3dlRVplSExHSjh2QXpobEU1WnNCYlZwaFQ2X2lPcDM?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamozd01iamVMV3ZPOUhBUk5vTzJnckFpUV9sdGpWWnpOa1V4M1FBdnJlN3FPd2hEMlY0Q0xXSXU1VDQwU1NNQ1psTEwwV3JTNmRYcXRZZG1GaEdJb0hNbkRqbkoxaGlhczJ5Y0lxRXVmamRmNmZzaHF0SF85S0NValRqcEJaV3VnQTZNNWtLUkxqR0diT3dlRVplSExHSjh2QXpobEU1WnNCYlZwaFQ2X2lPcDM",
-  "snippet": "US-Based Kenyan Truck Driver Stirs Reactions After Claiming His Salary Can Pay 2 Doctors Tuko News",
-  "published": "2026-11-10T09:01:59+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T10:11:05.695062+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
