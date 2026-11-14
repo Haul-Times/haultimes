@@ -1235,6 +1235,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "c4595d9a01",
+  "slug": "sam-hartman-c4595d9a01",
+  "title": "Sam Hartman",
+  "orig_title": "Sam Hartman",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kOURyNHh2cjlkdnBzNGhSazkzbVlVd2YtdWQzV2ZjRElBemJGeHlqOWItVFllVWpTYWJmSWszWHZOT0tnZUhXZGNZQzN5cGc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kOURyNHh2cjlkdnBzNGhSazkzbVlVd2YtdWQzV2ZjRElBemJGeHlqOWItVFllVWpTYWJmSWszWHZOT0tnZUhXZGNZQzN5cGc",
+  "snippet": "Sam Hartman Global News",
+  "published": "2026-11-13T19:39:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T03:01:08.193901+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "022a2efd80",
   "slug": "trump-admin-can-t-punish-new-york-over-immigrant-truckers-second-circu-022a2efd80",
   "title": "Trump admin can’t punish New York over immigrant truckers, Second Circuit rules",
