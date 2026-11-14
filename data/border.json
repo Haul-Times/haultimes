@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:11:14.125519+00:00",
+ "updated": "2026-11-14T00:21:14.067688+00:00",
  "hour_now": 19,
  "have_us": true,
  "have_ca": true,
@@ -20,7 +20,7 @@
    "north": {
     "wait": 30,
     "status": "30 minutes",
-    "updated": "2026-11-13 18:40 EST"
+    "updated": "2026-11-13 19:09 EST"
    },
    "usual": {
     "south": [
@@ -43,7 +43,7 @@
      14,
      19,
      16,
-     10,
+     7,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 7:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -294,7 +294,7 @@
      20,
      19,
      25,
-     20,
+     24,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 7:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -369,7 +369,7 @@
      2,
      7,
      13,
-     25,
+     26,
      null,
      null,
      null,
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 18:51 EST"
+    "updated": "2026-11-13 19:15 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:09:09",
+    "updated": "19:19:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1236,7 +1236,7 @@
      30,
      30,
      30,
-     40,
+     45,
      null,
      null,
      null,
@@ -1337,7 +1337,7 @@
      5,
      16,
      19,
-     8,
+     7,
      null,
      null,
      null,
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Gordie Howe International Bridge",

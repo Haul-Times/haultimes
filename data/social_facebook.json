@@ -2042,7 +2042,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-14T00:11:29.987525+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122103513081544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122103513081544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122103513081544428",
+    "created": "2026-11-14T00:11:30+0000",
+    "at": "2026-11-14T00:21:29.197807+00:00"
+   }
   }
  },
  "paused": null,
@@ -2561,7 +2569,8 @@
   "39ea0024c1": "skipped|importance 45 is below this platform's threshold (65)",
   "58b9261ea1": "skipped|minor item (incident) or low-quality source",
   "abc8256242": "skipped|importance 55 is below this platform's threshold (65)",
-  "d45d672cb0": "posted|importance 68 (threshold 65), Rates & Market, established outlet; waited 11 min in queue"
+  "d45d672cb0": "posted|importance 68 (threshold 65), Rates & Market, established outlet; waited 11 min in queue",
+  "42c709b51b": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5034,16 +5043,23 @@
    "title": "Meta buys zero-emission trucking capacity to offset data center construction",
    "action": "posted",
    "reason": "importance 68 (threshold 65), Rates & Market, established outlet; waited 11 min in queue"
+  },
+  {
+   "at": "2026-11-14T00:21:29.197807+00:00",
+   "story_id": "42c709b51b",
+   "title": "FANNIN COUNTY, Ga. - Channel 2 Action News was there as five trucks loaded with supplies you donated during our Convoy of Care campaign deli",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122103391161544428",
+  "post": "1476615495528085_122103513081544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122103391161544428",
-  "created": "2026-11-13T21:51:27+0000",
-  "at": "2026-11-13T21:59:56.065763+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122103513081544428",
+  "created": "2026-11-14T00:11:30+0000",
+  "at": "2026-11-14T00:21:29.197807+00:00"
  },
  "promo_i": 2
 }
