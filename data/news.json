@@ -16937,6 +16937,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "b4fb6cbc79",
+  "slug": "a-magic-haul-iday-proudly-supported-by-global-bc-b4fb6cbc79",
+  "title": "A Magic Haul-iday proudly supported by Global BC",
+  "orig_title": "A Magic Haul-iday proudly supported by Global BC",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FeXpkZzNFaVN4UHUyZXZGaWtiNnFwU25NbWF1M2k2VnZNTFVNSkYxaXFtUGZlRW1sdTVQUkFhM2M2SkZlVG1ldWtsUmhoQkdDTFhabUc4djVPY0RadllFa1R0QUJMQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FeXpkZzNFaVN4UHUyZXZGaWtiNnFwU25NbWF1M2k2VnZNTFVNSkYxaXFtUGZlRW1sdTVQUkFhM2M2SkZlVG1ldWtsUmhoQkdDTFhabUc4djVPY0RadllFa1R0QUJMQQ",
+  "snippet": "A Magic Haul-iday proudly supported by Global BC Global News",
+  "published": "2026-11-11T09:33:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T00:51:01.528920+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f4c89849ff",
   "slug": "c-h-robinson-s-despir-earns-tapa-cargo-security-certification-f4c89849ff",
   "title": "C.H. Robinson's DeSpir earns TAPA cargo security certification",
