@@ -7452,6 +7452,35 @@
   "sum_pending": false
  },
  {
+  "id": "571616cd89",
+  "slug": "freighwaves-ceo-ai-data-center-construction-keeping-freight-afloat-571616cd89",
+  "title": "FreighWaves CEO: AI Data Center Construction Keeping Freight Afloat",
+  "orig_title": "FreighWaves CEO: AI Data Center Construction Keeping Freight Afloat",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Trucks, Parts, Service",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0xGelN1UUx3MU9CMmtuX0o2YjhNNENyZUM1c0t5TG5Rb245NTliYkJFVFd5eUktSTBCQ3BEb3dfTUNyeXpZenNhMUFIM0E1RXc4X3p4TmVWY3ppRDZoQms0OHRHdzIwdTNvQjItaU5QVkdNQWh5enFFVWF2RXNWb1VWdW1zcEFkYzZLdGlmaHZQUGRpRlNnQzlJR2ZDWXJWaF82U1ZEYm5rcjR0LXVUVEZjcV9CbEc0dFdmd2hyaWVPUHR1dlU0MDZoSlMyc1k5TWEtNUJnVkJNbW5xMW9tZ2VB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0xGelN1UUx3MU9CMmtuX0o2YjhNNENyZUM1c0t5TG5Rb245NTliYkJFVFd5eUktSTBCQ3BEb3dfTUNyeXpZenNhMUFIM0E1RXc4X3p4TmVWY3ppRDZoQms0OHRHdzIwdTNvQjItaU5QVkdNQWh5enFFVWF2RXNWb1VWdW1zcEFkYzZLdGlmaHZQUGRpRlNnQzlJR2ZDWXJWaF82U1ZEYm5rcjR0LXVUVEZjcV9CbEc0dFdmd2hyaWVPUHR1dlU0MDZoSlMyc1k5TWEtNUJnVkJNbW5xMW9tZ2VB",
+  "snippet": "FreighWaves CEO: AI Data Center Construction Keeping Freight Afloat Trucks, Parts, Service",
+  "published": "2026-11-12T20:01:04+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T18:51:06.812168+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b95c335539",
   "slug": "featured-audio-diesel-price-surge-creates-challenges-for-farmers-and-t-b95c335539",
   "title": "Featured Audio: Diesel Price Surge Creates Challenges for Farmers and Trucking Industry",
