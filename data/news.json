@@ -998,6 +998,35 @@
   "sum_status": "no source text (robots.txt disallows)"
  },
  {
+  "id": "78d398d30e",
+  "slug": "firefighter-deaths-investigation-78d398d30e",
+  "title": "Firefighter Deaths Investigation",
+  "orig_title": "Firefighter Deaths Investigation",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "yoursun.com",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTFmS1hnMjhqZ2h3ZUdtUzBvYUIzUWJSSzB6cXZ1bkhmWmJLUlVJOGlBbUVfMzloZlN2NzRPNFRZVGZSdEZTTVZFcGR0T3BiZ1dhN0ZZVlNfVGgzRVcwdUk5S0VMVVpPVFAxWExYbU1TSGxZTEFBU3l1VzVjaUJRZF9paWRHTWo2YXZmbEt5VVFwcnR5NkVVdTFTcnNkR3pCVFlLQUlORDFqOVkzajR5UFl4bjB3UDg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTFmS1hnMjhqZ2h3ZUdtUzBvYUIzUWJSSzB6cXZ1bkhmWmJLUlVJOGlBbUVfMzloZlN2NzRPNFRZVGZSdEZTTVZFcGR0T3BiZ1dhN0ZZVlNfVGgzRVcwdUk5S0VMVVpPVFAxWExYbU1TSGxZTEFBU3l1VzVjaUJRZF9paWRHTWo2YXZmbEt5VVFwcnR5NkVVdTFTcnNkR3pCVFlLQUlORDFqOVkzajR5UFl4bjB3UDg",
+  "snippet": "Firefighter Deaths Investigation yoursun.com",
+  "published": "2026-11-13T23:53:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T18:01:03.547962+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d45d672cb0",
   "slug": "meta-buys-zero-emission-trucking-capacity-to-offset-data-center-constr-d45d672cb0",
   "title": "Meta buys zero-emission trucking capacity to offset data center construction",
