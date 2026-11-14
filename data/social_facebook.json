@@ -2622,7 +2622,8 @@
   "99219de393": "skipped|importance 55 is below this platform's threshold (65)",
   "603b7445cc": "skipped|importance 45 is below this platform's threshold (65)",
   "1fd31cf7c5": "skipped|importance 45 is below this platform's threshold (65)",
-  "e4305287dd": "skipped|importance 62 is below this platform's threshold (65)"
+  "e4305287dd": "skipped|importance 62 is below this platform's threshold (65)",
+  "6569f00a45": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5151,6 +5152,13 @@
    "title": "Diesel Prices Are Surging. This Electric Trucking Company Is Seeing More Interest",
    "action": "skipped",
    "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-14T16:21:26.271005+00:00",
+   "story_id": "6569f00a45",
+   "title": "298,988-squarefoot warehouse proposed in Orange, neighbors are raising concerns about truck traffic",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
