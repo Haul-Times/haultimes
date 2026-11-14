@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T05:51:05.568440+00:00",
- "hour_now": 0,
+ "updated": "2026-11-14T06:01:03.363097+00:00",
+ "hour_now": 1,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -25,7 +25,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -51,7 +51,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -100,7 +100,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -126,7 +126,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:45:03",
+    "updated": "00:55:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -201,7 +201,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 0:37 am EST",
+    "updated": "At 0:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -250,7 +250,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -276,7 +276,7 @@
     ],
     "north": [
      3,
-     null,
+     2,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 0:37 am EST",
+    "updated": "At 0:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -325,7 +325,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -351,7 +351,7 @@
     ],
     "north": [
      8,
-     null,
+     1,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:45:03",
+    "updated": "00:55:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -426,7 +426,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -460,11 +460,11 @@
    "ports": "Ogdensburg, NY ↔ Prescott, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:45:03",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -475,7 +475,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -501,7 +501,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:45:03",
+    "updated": "00:55:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -576,7 +576,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -625,7 +625,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -651,7 +651,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:45:03",
+    "updated": "00:55:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -726,7 +726,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:45:03",
+    "updated": "00:55:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -801,7 +801,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:45:03",
+    "updated": "00:55:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -876,7 +876,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -925,7 +925,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -951,7 +951,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:45:03",
+    "updated": "00:55:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1075,7 +1075,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1101,7 +1101,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1169,7 +1169,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1218,7 +1218,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1244,7 +1244,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1280,9 +1280,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 pm PST",
+    "updated": "At 10:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1293,7 +1293,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1319,7 +1319,7 @@
     ],
     "north": [
      6,
-     null,
+     5,
      null,
      null,
      null,
@@ -1368,7 +1368,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1394,7 +1394,7 @@
     ],
     "north": [
      0,
-     null,
+     0,
      null,
      null,
      null,
