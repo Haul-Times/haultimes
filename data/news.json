@@ -133,6 +133,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "0df52190fd",
+  "slug": "residents-say-noise-from-warehouse-site-could-be-harmful-to-health-0df52190fd",
+  "title": "Residents say noise from warehouse site could be ‘harmful to health’",
+  "orig_title": "Residents say noise from warehouse site could be ‘harmful to health’",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Bolton News",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFB5OG5IVUZwX1VTRG53bHgxUlZibHhqVWR1OG1GOTBzd2tySWZYaFdUdnFXYUc4TGRUZV9lZEVTcUVSc3hZaXFaV2ptZHZDZlFuNG9yWlNOY0p6WU5TVW9ZMWdseDktenhaVWV3elBXYm8tRGpkUjVLZjduSjFXWG1pbmF2SXNCYTJLamdxc091am9UOUlCSHQzUm1QUHc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFB5OG5IVUZwX1VTRG53bHgxUlZibHhqVWR1OG1GOTBzd2tySWZYaFdUdnFXYUc4TGRUZV9lZEVTcUVSc3hZaXFaV2ptZHZDZlFuNG9yWlNOY0p6WU5TVW9ZMWdseDktenhaVWV3elBXYm8tRGpkUjVLZjduSjFXWG1pbmF2SXNCYTJLamdxc091am9UOUlCSHQzUm1QUHc",
+  "snippet": "Residents say noise from warehouse site could be ‘harmful to health’ The Bolton News",
+  "published": "2026-11-14T05:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T06:51:07.145153+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "2c59b53b1e",
   "slug": "rankings-2c59b53b1e",
   "title": "Rankings",
