@@ -1141,6 +1141,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "8ac1790663",
+  "slug": "appeals-court-says-us-wrongly-withheld-highway-funds-to-ny-over-immigr-8ac1790663",
+  "title": "Appeals court says US wrongly withheld highway funds to NY over immigrant licenses",
+  "orig_title": "Appeals court says US wrongly withheld highway funds to NY over immigrant licenses",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "thecanadianpressnews.ca",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNzNEemczbmpPMjJfVkpUQ0Vhc0dwank0TXpCVUhKd3JJaldrdGYyUG8xZ0NvbFB5YzlaUEJBLTRiT1dHMDJkNVRDWjFfaThxSy0xbGptYW1LeHMwSWVFeDZCcGhwTHNZcXdocHc5SDgyQ2lxSTRHOGh0UUhGLWVrblNsZTlnaURUbm42OUhnN1M4UHBLSXE5NEVjUVF0V3htel9BbUtxUUR6UG0tTlZSZWlKY2lyLWhROEdMQkViYXdvTWw3ZXJEeHVNb0c2UnBxQWJ0X3l1cVdFWER1c1pVR0tIOXlXS3F1LVQxSk9wWDRENVdwT2ZfNVlsTUJzRzFqb2hMbkpYVno?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNzNEemczbmpPMjJfVkpUQ0Vhc0dwank0TXpCVUhKd3JJaldrdGYyUG8xZ0NvbFB5YzlaUEJBLTRiT1dHMDJkNVRDWjFfaThxSy0xbGptYW1LeHMwSWVFeDZCcGhwTHNZcXdocHc5SDgyQ2lxSTRHOGh0UUhGLWVrblNsZTlnaURUbm42OUhnN1M4UHBLSXE5NEVjUVF0V3htel9BbUtxUUR6UG0tTlZSZWlKY2lyLWhROEdMQkViYXdvTWw3ZXJEeHVNb0c2UnBxQWJ0X3l1cVdFWER1c1pVR0tIOXlXS3F1LVQxSk9wWDRENVdwT2ZfNVlsTUJzRzFqb2hMbkpYVno",
+  "snippet": "Appeals court says US wrongly withheld highway funds to NY over immigrant licenses thecanadianpressnews.ca",
+  "published": "2026-11-13T19:48:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T03:51:04.141754+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "268407e136",
   "slug": "uninsured-what-mexican-border-freight-risks-you-re-missing-268407e136",
   "title": "Uninsured? What Mexican Border Freight Risks You’re Missing",
