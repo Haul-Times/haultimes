@@ -1,5 +1,34 @@
 [
  {
+  "id": "f1a27cdd8e",
+  "slug": "storage-gaps-keep-fresh-food-from-rural-food-bank-hampers-f1a27cdd8e",
+  "title": "Storage gaps keep fresh food from rural food bank hampers",
+  "orig_title": "Storage gaps keep fresh food from rural food bank hampers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Yukon News",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNExKbmhMdDNkT3pnejFSMEp4cEU4MEdlMmlkdUZmZGw0b2ptdUxiY3FZMzkxcjRYVXNDQnVXb3BiemIyVUplUXJmRmFqanVldGFONVpJQXAyMjJtMEI3TlFvWDFkR2l1bTVyNkl1Q0lhYlR2ZG5ZTTZJcEFoOVNIbnp1V2kxLV9vQXZnY0N2ak42Wkp3U25v?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNExKbmhMdDNkT3pnejFSMEp4cEU4MEdlMmlkdUZmZGw0b2ptdUxiY3FZMzkxcjRYVXNDQnVXb3BiemIyVUplUXJmRmFqanVldGFONVpJQXAyMjJtMEI3TlFvWDFkR2l1bTVyNkl1Q0lhYlR2ZG5ZTTZJcEFoOVNIbnp1V2kxLV9vQXZnY0N2ak42Wkp3U25v",
+  "snippet": "Storage gaps keep fresh food from rural food bank hampers Yukon News",
+  "published": "2026-11-14T00:10:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T00:11:14.372914+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d45d672cb0",
   "slug": "meta-buys-zero-emission-trucking-capacity-to-offset-data-center-constr-d45d672cb0",
   "title": "Meta buys zero-emission trucking capacity to offset data center construction",
@@ -11701,6 +11730,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "7451dc933f",
+  "slug": "russia-ukraine-to-exchange-prisoners-but-talks-end-with-no-big-breakth-7451dc933f",
+  "title": "Russia, Ukraine to exchange prisoners but talks end with no big breakthrough",
+  "orig_title": "Russia, Ukraine to exchange prisoners but talks end with no big breakthrough",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEtONnRkcnlxRDRqb1lBdlc4MFVIUHc2V0VONnJfeHF5MEVJNWc0UFprMXhWeUt3ME5yaG5qdkFkZGZScEo4QW5uZTI3VmlHMW1URjN2d0JaNHRzOWxSeExxV3JWU2ZFUjRYNmVzb2FxMGtQdVoyQl9DSW9Ya2VpWjd3ZXZUUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEtONnRkcnlxRDRqb1lBdlc4MFVIUHc2V0VONnJfeHF5MEVJNWc0UFprMXhWeUt3ME5yaG5qdkFkZGZScEo4QW5uZTI3VmlHMW1URjN2d0JaNHRzOWxSeExxV3JWU2ZFUjRYNmVzb2FxMGtQdVoyQl9DSW9Ya2VpWjd3ZXZUUQ",
+  "snippet": "Russia, Ukraine to exchange prisoners but talks end with no big breakthrough Global News",
+  "published": "2026-11-11T20:39:36+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T00:11:14.372914+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
