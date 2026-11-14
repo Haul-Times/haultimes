@@ -1566,6 +1566,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "d3fe1399b3",
+  "slug": "buen-fin-tests-mexico-s-logistics-and-delivery-capacity-d3fe1399b3",
+  "title": "Buen Fin Tests Mexico's Logistics and Delivery Capacity",
+  "orig_title": "Buen Fin Tests Mexico's Logistics and Delivery Capacity",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Mexico Business News",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOS1oREpiM0RNcHdFcUVQUG1SdFBKdHhRMHhzODY0Q3lxbXlIdTVHcXlQTUljMElaWjh6Q0NKa2pYZF84RkpNSDZDcnRPRkpHRDRBSUtxc3hyalp5VjdYYlViX0xINVo4RDlncDJLenhTdWV4YzJRQmx5cFlyY1F3Q2tKOW9GeEFJRllldjBBNlVzRDZ1Nmlmc0JOTmZGdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOS1oREpiM0RNcHdFcUVQUG1SdFBKdHhRMHhzODY0Q3lxbXlIdTVHcXlQTUljMElaWjh6Q0NKa2pYZF84RkpNSDZDcnRPRkpHRDRBSUtxc3hyalp5VjdYYlViX0xINVo4RDlncDJLenhTdWV4YzJRQmx5cFlyY1F3Q2tKOW9GeEFJRllldjBBNlVzRDZ1Nmlmc0JOTmZGdw",
+  "snippet": "Buen Fin Tests Mexico's Logistics and Delivery Capacity Mexico Business News",
+  "published": "2026-11-13T18:40:08+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T01:21:02.644226+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "01d17bff9e",
   "slug": "canadian-government-investing-200m-in-b-c-s-woodfibre-lng-01d17bff9e",
   "title": "Canadian government investing $200M in B.C.’s Woodfibre LNG",
@@ -2006,6 +2035,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "2285687b2b",
+  "slug": "local-italian-american-food-truck-plans-first-brick-and-mortar-2285687b2b",
+  "title": "Local Italian-American food truck plans first brick-and-mortar",
+  "orig_title": "Local Italian-American food truck plans first brick-and-mortar",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Boise Dev",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGYxYXVoOFRfTlVWeGlaVkhCdEotRVVNRzUtUkNvZ1NXRmVWZTlMbFJkZHBTdGY5MjQ5T2N2a2RKV2pOOFNYQ0ZvTDE1X2lJdHdFMGpnbUl3aU5YZ1lZVFFkaFF0dGFQd0dmWVk3dno3aWpNTzFWR1R4ZHdqY1k2empnbmd6RTVvVEFSc2s0ZThQZmN2Q21uY2hVSHlWaDhBN1E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGYxYXVoOFRfTlVWeGlaVkhCdEotRVVNRzUtUkNvZ1NXRmVWZTlMbFJkZHBTdGY5MjQ5T2N2a2RKV2pOOFNYQ0ZvTDE1X2lJdHdFMGpnbUl3aU5YZ1lZVFFkaFF0dGFQd0dmWVk3dno3aWpNTzFWR1R4ZHdqY1k2empnbmd6RTVvVEFSc2s0ZThQZmN2Q21uY2hVSHlWaDhBN1E",
+  "snippet": "Local Italian-American food truck plans first brick-and-mortar Boise Dev",
+  "published": "2026-11-13T17:23:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T01:21:02.644226+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
   ],
   "labels": [],
   "kind": "rejected",
