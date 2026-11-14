@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:31:06.177560+00:00",
+ "updated": "2026-11-14T06:41:16.932922+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:17 am EST",
+    "updated": "At 1:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -276,7 +276,7 @@
     ],
     "north": [
      3,
-     2,
+     3,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:17 am EST",
+    "updated": "At 1:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -351,7 +351,7 @@
     ],
     "north": [
      8,
-     3,
+     4,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:25:05",
+    "updated": "01:35:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:25:05",
+    "updated": "01:35:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:25:05",
+    "updated": "01:35:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:25:05",
+    "updated": "01:35:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:25:05",
+    "updated": "01:35:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:25:05",
+    "updated": "01:35:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:25:05",
+    "updated": "00:35:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1467,8 +1467,8 @@
    },
    {
     "name": "Jackman",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Lynden",
