@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:11:06.382642+00:00",
+ "updated": "2026-11-14T09:15:09.123892+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -995,7 +995,7 @@
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-14 04:04 AST"
+    "updated": "2026-11-14 05:09 AST"
    },
    "usual": {
     "south": [
