@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-14T08:51:09.603132+00:00",
- "hour_now": 3,
+ "updated": "2026-11-14T09:01:33.211327+00:00",
+ "hour_now": 4,
  "have_us": true,
- "have_ca": true,
+ "have_ca": false,
  "crossings": [
   {
    "id": "ambassador",
@@ -17,18 +17,14 @@
     "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 02:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -92,18 +88,14 @@
     "updated": "At 4:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -167,18 +159,14 @@
     "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -235,25 +223,21 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 3:37 am EST",
+    "status": "no delay",
+    "updated": "At 3:47 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-14 03:40 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      2,
-     null,
+     0,
      null,
      null,
      null,
@@ -314,21 +298,17 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:37 am EST",
+    "updated": "At 3:47 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-14 03:40 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      4,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -389,14 +369,10 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:50:15",
+    "updated": "04:00:16",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 02:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
@@ -467,18 +443,14 @@
     "updated": "At 5:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -542,18 +514,14 @@
     "updated": "At 5:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      null,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -617,18 +585,14 @@
     "updated": "At 4:00 am CST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 CDT"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -689,14 +653,10 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "03:50:15",
+    "updated": "04:00:16",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
@@ -764,14 +724,10 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:50:15",
+    "updated": "04:00:16",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
@@ -842,18 +798,14 @@
     "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 02:15 EST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -917,18 +869,14 @@
     "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 AST"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,14 +937,10 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:50:15",
+    "updated": "04:00:16",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": null,
-    "status": "Not Applicable",
-    "updated": "2026-11-14 04:04 AST"
-   },
+   "north": null,
    "usual": {
     "south": [
      null,
@@ -1064,14 +1008,10 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:50:16",
+    "updated": "03:00:16",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 03:15 CDT"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
@@ -1135,11 +1075,7 @@
    "ports": "Portal, ND ↔ North Portal, SK",
    "region": "pra",
    "south": null,
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 01:15 CST"
-   },
+   "north": null,
    "usual": {
     "south": [
      null,
@@ -1207,21 +1143,17 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 am MST",
+    "updated": "At 2:00 am MST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 01:15 MDT"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1285,18 +1217,14 @@
     "updated": "At 2:00 am PST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-14 01:40 PDT"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1360,18 +1288,14 @@
     "updated": "At 2:00 am PST",
     "hours": "24 hrs/day"
    },
-   "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-14 01:40 PDT"
-   },
+   "north": null,
    "usual": {
     "south": [
      0,
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1486,52 +1410,6 @@
     "status": "no delay"
    }
   ],
-  "north": [
-   {
-    "name": "St. Stephen 3rd Bridge",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "Edmundston",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "St-Bernard-de-Lacolle",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "Hemmingford",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "Rainbow Bridge",
-    "wait": null,
-    "status": "Not Applicable"
-   },
-   {
-    "name": "Windsor and Detroit Tunnel",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "Douglas",
-    "wait": null,
-    "status": "Not Applicable"
-   },
-   {
-    "name": "Boundary Bay",
-    "wait": 0,
-    "status": "No Delay"
-   }
-  ]
+  "north": []
  }
 }
