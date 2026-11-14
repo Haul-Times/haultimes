@@ -2051,6 +2051,34 @@
     "created": "2026-11-14T00:11:30+0000",
     "at": "2026-11-14T00:21:29.197807+00:00"
    }
+  },
+  "8fab2e414d": {
+   "story_id": "8fab2e414d",
+   "title": "As diesel prices soar, truckers struggle while keeping Ameri...",
+   "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMW4ybFhaVk1DZFZ3V1lXLWV1dE5felR1enJwbHp6bVRMMG9sYmwwRmN3TVBPd0otUEtmR2NPOFVFcE1xYlVGSXh6VFhqZXM0MWlJUHZnM0NRVzdaZnBMODZ5SFZaak9wRXYwOHFmV2lrM0oxaThEVVppNkh6SlpXRjFkMU1QOUtaclZxU2cweHBjNG1ZZ0R3bkFkUWFVM3A5RWtRNGtBSzRjMmZnSDhLUHIyeGJ4RUZlcTAtT0ZDTnE5Zw",
+   "category": "fuel",
+   "source": "New Hampshire Union Leader",
+   "dest": "https://haultimes.com/story/as-diesel-prices-soar-truckers-struggle-while-keeping-ameri-8fab2e414d/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=8fab2e414d",
+   "caption": "As diesel prices soar, truckers struggle while keeping Ameri...\n\nReported by New Hampshire Union Leader. The link has the details and the original article.\n\n#Trucking #Diesel",
+   "status": "queued",
+   "created_at": "2026-11-14T05:11:25.248442+00:00",
+   "published": "2026-11-14T05:03:56+00:00",
+   "score": 77,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "As diesel prices soar, truckers struggle while keeping Ameri... | HaulTimes",
+    "og:description": "Reported by New Hampshire Union Leader. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/ad4e5e5573.png",
+    "og:url": "https://haultimes.com/story/as-diesel-prices-soar-truckers-struggle-while-keeping-ameri-8fab2e414d/"
+   },
+   "reason": "importance 77 (threshold 65), Fuel, local/other outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -2574,7 +2602,8 @@
   "58b9261ea1": "skipped|minor item (incident) or low-quality source",
   "abc8256242": "skipped|importance 55 is below this platform's threshold (65)",
   "d45d672cb0": "posted|importance 68 (threshold 65), Rates & Market, established outlet; waited 11 min in queue",
-  "42c709b51b": "skipped|importance 45 is below this platform's threshold (65)"
+  "42c709b51b": "skipped|importance 45 is below this platform's threshold (65)",
+  "8fab2e414d": "queued|importance 77 (threshold 65), Fuel, local/other outlet"
  },
  "decisions": [
   {
@@ -5054,6 +5083,13 @@
    "title": "FANNIN COUNTY, Ga. - Channel 2 Action News was there as five trucks loaded with supplies you donated during our Convoy of Care campaign deli",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-14T05:11:25.248442+00:00",
+   "story_id": "8fab2e414d",
+   "title": "As diesel prices soar, truckers struggle while keeping Ameri...",
+   "action": "queued",
+   "reason": "importance 77 (threshold 65), Fuel, local/other outlet"
   }
  ],
  "visibility": {
