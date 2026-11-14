@@ -26206,35 +26206,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "c79bd4e96d",
-  "slug": "recall-brakes-may-fail-on-thousands-of-vehicles-in-canada-c79bd4e96d",
-  "title": "Recall: Brakes may fail on thousands of vehicles in Canada",
-  "orig_title": "Recall: Brakes may fail on thousands of vehicles in Canada",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "insauga.com",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1pYb1lycDRkVkxWcXFLdEhGa2Izel90ZVVoaE9tZFB6aTl4T0FLc1dGLTluT3pIWGRYUDA4VUFDU2ZDdm1CY0ZpU21kckxsd0dnZl9oYVhZb1J6YWNNWGlJWGhGZlFQRDV3dkphQWd0SDJTSGc2dEMzNEk3TEwtc3VXcFYzV2V4UVE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1pYb1lycDRkVkxWcXFLdEhGa2Izel90ZVVoaE9tZFB6aTl4T0FLc1dGLTluT3pIWGRYUDA4VUFDU2ZDdm1CY0ZpU21kckxsd0dnZl9oYVhZb1J6YWNNWGlJWGhGZlFQRDV3dkphQWd0SDJTSGc2dEMzNEk3TEwtc3VXcFYzV2V4UVE",
-  "snippet": "Recall: Brakes may fail on thousands of vehicles in Canada insauga.com",
-  "published": "2026-11-09T13:53:55+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T23:01:05.544986+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "16c6f27b45",
   "slug": "verisk-cargonet-reports-higher-cargo-theft-losses-despite-fewer-incide-16c6f27b45",
   "title": "Verisk CargoNet reports higher cargo theft losses despite fewer incidents",
