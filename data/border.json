@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:11:06.265749+00:00",
+ "updated": "2026-11-14T05:20:25.636127+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:05:01",
+    "lanes": "3",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:05:01",
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:01",
+    "updated": "00:15:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:05:01",
+    "lanes": "4",
+    "status": "no delay",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:05:01",
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:01",
+    "updated": "00:15:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:01",
+    "updated": "00:15:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:01",
+    "updated": "00:15:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:01",
+    "updated": "00:15:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:01",
+    "updated": "00:15:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:01",
+    "updated": "00:15:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -910,11 +910,11 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:05:01",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:01",
+    "updated": "00:15:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:00 pm PST",
+    "updated": "At 9:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1438,7 +1438,7 @@
    {
     "name": "Buffalo/Niagara Falls Rainbow Bridge",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Buffalo/Niagara Falls Whirlpool Bridge",
@@ -1457,13 +1457,13 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
     "wait": null,
-    "status": "Update Pending"
+    "status": "Lanes Closed"
    },
    {
     "name": "Jackman",
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Norton",
