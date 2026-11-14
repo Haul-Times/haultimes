@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:51:08.320876+00:00",
+ "updated": "2026-11-14T12:58:26.088179+00:00",
  "hour_now": 7,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:37 am EST",
+    "updated": "At 7:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:37 am EST",
+    "updated": "At 7:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "07:45:39",
+    "updated": "07:55:40",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -686,10 +686,10 @@
    "region": "qc",
    "south": {
     "wait": 0,
-    "fast_wait": 0,
+    "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 am EST",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -760,11 +760,11 @@
    "ports": "Highgate Springs, VT ↔ Saint-Armand, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "07:45:40",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -781,7 +781,7 @@
      null,
      null,
      null,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "07:45:39",
+    "updated": "07:55:40",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:45:40",
+    "updated": "06:55:40",
     "hours": "24 hrs/day"
    },
    "north": {
