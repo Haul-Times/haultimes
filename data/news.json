@@ -1,5 +1,34 @@
 [
  {
+  "id": "42404ef70b",
+  "slug": "content-authored-by-ilena-peng-and-ben-westcott-42404ef70b",
+  "title": "Content Authored By Ilena Peng and Ben Westcott",
+  "orig_title": "Content Authored By Ilena Peng and Ben Westcott",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCY0pQdi1vb28yQWdMOE9LTW5OdWVHZ3VKTjdielNoSEJXYmxKRUpYdlYyYXFpZDVNdVA4OEpMdmM0WXlZQkttY1VPSkcxSkkwOVRjX0xNX3Y2VHZEM0dUNUNUV3Q0S2ZIVlE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCY0pQdi1vb28yQWdMOE9LTW5OdWVHZ3VKTjdielNoSEJXYmxKRUpYdlYyYXFpZDVNdVA4OEpMdmM0WXlZQkttY1VPSkcxSkkwOVRjX0xNX3Y2VHZEM0dUNUNUV3Q0S2ZIVlE",
+  "snippet": "Content Authored By Ilena Peng and Ben Westcott Transport Topics",
+  "published": "2026-11-14T17:02:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T17:51:02.795828+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "b218f50cda",
   "slug": "trump-admin-dealt-legal-blow-over-immigrant-truckers-b218f50cda",
   "title": "Trump Admin Dealt Legal Blow Over Immigrant Truckers",
