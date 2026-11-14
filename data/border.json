@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T06:51:06.939895+00:00",
- "hour_now": 1,
+ "updated": "2026-11-14T07:01:02.683261+00:00",
+ "hour_now": 2,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -26,7 +26,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -52,7 +52,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -101,7 +101,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -127,7 +127,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -176,7 +176,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -202,7 +202,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:37 am EST",
+    "updated": "At 1:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -251,7 +251,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -277,7 +277,7 @@
     "north": [
      3,
      4,
-     null,
+     6,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:37 am EST",
+    "updated": "At 1:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -326,7 +326,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -352,7 +352,7 @@
     "north": [
      8,
      4,
-     null,
+     1,
      null,
      null,
      null,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:45:06",
+    "updated": "01:55:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -427,7 +427,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -476,7 +476,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -502,7 +502,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:45:06",
+    "updated": "01:55:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -577,7 +577,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -626,7 +626,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -652,7 +652,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:45:06",
+    "updated": "01:55:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -727,7 +727,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:45:06",
+    "updated": "01:55:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -802,7 +802,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -851,7 +851,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -877,7 +877,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -926,7 +926,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -952,7 +952,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:45:06",
+    "updated": "01:55:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:45:06",
+    "updated": "00:55:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1102,7 +1102,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1170,7 +1170,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1219,7 +1219,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1245,7 +1245,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1294,7 +1294,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1320,7 +1320,7 @@
     "north": [
      6,
      6,
-     null,
+     10,
      null,
      null,
      null,
@@ -1369,7 +1369,7 @@
     "south": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1395,7 +1395,7 @@
     "north": [
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
