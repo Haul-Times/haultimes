@@ -30604,33 +30604,6 @@
   "sum_pending": false
  },
  {
-  "id": "3358818768",
-  "slug": "freightwaves-today-archives-3358818768",
-  "title": "FreightWaves Today Archives",
-  "orig_title": "FreightWaves Today Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TcXlOWTJWdWJRSnFFNFNXOWR2S2NhSE44U3I0NUFqTGtpSVBFeXJjeU5XOTRKWnB2RHRMSmt4WVpYWXN0MUExUnZ2THoySWVqOHF0MS1NRlpxV2RDVVVYRnRGemFwb0VtVDNLdHdMZHo5a3NvTlcwMQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TcXlOWTJWdWJRSnFFNFNXOWR2S2NhSE44U3I0NUFqTGtpSVBFeXJjeU5XOTRKWnB2RHRMSmt4WVpYWXN0MUExUnZ2THoySWVqOHF0MS1NRlpxV2RDVVVYRnRGemFwb0VtVDNLdHdMZHo5a3NvTlcwMQ",
-  "snippet": "FreightWaves Today Archives FreightWaves",
-  "published": "2026-11-05T23:44:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T02:31:04.932561+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "1888dcc96e",
   "slug": "air-cargo-archives-1888dcc96e",
   "title": "Air Cargo Archives",
