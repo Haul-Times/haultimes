@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:31:03.047034+00:00",
+ "updated": "2026-11-14T11:41:10.139787+00:00",
  "hour_now": 6,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 6:07 am EST",
+    "status": "delay",
+    "updated": "At 6:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -255,7 +255,7 @@
      2,
      0,
      0,
-     0,
+     2,
      null,
      null,
      null,
@@ -281,7 +281,7 @@
      6,
      3,
      2,
-     5,
+     7,
      null,
      null,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:07 am EST",
+    "updated": "At 6:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:20:31",
+    "updated": "06:40:33",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": null,
-    "fast_wait": null,
-    "lanes": "",
-    "status": "Lanes Closed",
-    "updated": "06:20:32",
+    "wait": 0,
+    "fast_wait": 0,
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 7:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -705,7 +705,7 @@
      null,
      null,
      null,
-     null,
+     0,
      null,
      null,
      null,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:20:32",
+    "updated": "06:40:34",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "06:20:32",
+    "updated": "06:40:33",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:20:32",
+    "updated": "05:40:34",
     "hours": "24 hrs/day"
    },
    "north": {

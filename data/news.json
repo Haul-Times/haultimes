@@ -284,6 +284,35 @@
   "sum_pending": false
  },
  {
+  "id": "3c8ef9f22c",
+  "slug": "global-news-hour-at-6-bc-3c8ef9f22c",
+  "title": "Global News Hour at 6 BC",
+  "orig_title": "Global News Hour at 6 BC",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVg4RWthY2RybDRoanpnUGNZX0RjaUx1alBDU0MzOXZycHFialR2VFAzd1V2aWFZbUtITXRHSmxDdUs2ZHhSUjFOaFJraVdpVnpxVDFwWXJ5ZEc1NHBHN0NzWlMtRHZheDBXdnNYMHVYdzQ3QmhuRlJFQU1zWEpyVzRiUW41cnVMenJiSlVNWU53SWlDRkE4WmNZc0F4S0JkWlkxTWRvdV9lQ216QXF2SnRxQ0NYVGFLbThGbVNHZ04ycGNmZDV2TmpMdFdIYTkzWWFud2NscEg1UQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVg4RWthY2RybDRoanpnUGNZX0RjaUx1alBDU0MzOXZycHFialR2VFAzd1V2aWFZbUtITXRHSmxDdUs2ZHhSUjFOaFJraVdpVnpxVDFwWXJ5ZEc1NHBHN0NzWlMtRHZheDBXdnNYMHVYdzQ3QmhuRlJFQU1zWEpyVzRiUW41cnVMenJiSlVNWU53SWlDRkE4WmNZc0F4S0JkWlkxTWRvdV9lQ216QXF2SnRxQ0NYVGFLbThGbVNHZ04ycGNmZDV2TmpMdFdIYTkzWWFud2NscEg1UQ",
+  "snippet": "Global News Hour at 6 BC Global News",
+  "published": "2026-11-14T05:28:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T11:41:10.388951+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8fab2e414d",
   "slug": "as-diesel-prices-soar-truckers-struggle-while-keeping-ameri-8fab2e414d",
   "title": "As diesel prices soar, truckers struggle while keeping Ameri...",
@@ -23831,33 +23860,6 @@
   "sum_pending": false
  },
  {
-  "id": "a8e0d193f8",
-  "slug": "iveco-group-at-fenatran-2026-showcasing-products-technology-and-servic-a8e0d193f8",
-  "title": "Iveco Group at Fenatran 2026: showcasing products, technology and services in Latin America",
-  "orig_title": "Iveco Group at Fenatran 2026: showcasing products, technology and services in Latin America",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU3FyU3E3aWVDQVREUmR1Z0JmQUdkTFRuNUoxZFRQWUh4QjJUZk4wTnhpblRtaGhjY0czU2JZVm5PNjBjbGNLRWxTbVUwZENzNm4yd3hGZm93LWd3eFk0blpxQkQ3OVNMVVNtRDBqQktqcHpjSzlEa00xUmFsQUlCXy1KR2JVY2lxaE43VnFJbFR3X2xDZEVRX2dFbHhhc3lNakN3TXRYZ2cwVWJvVUxnNmprWFlYLVVpSDFOVFZfWXB6ci10dzNZQXljcGhwZ25YQjJTS0RUeXBhTmx2YlhDZDFXYXNJajNhV1lRbURKRmo2bGhyREtQTzE3VThjZ0x2VzAteDBn?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU3FyU3E3aWVDQVREUmR1Z0JmQUdkTFRuNUoxZFRQWUh4QjJUZk4wTnhpblRtaGhjY0czU2JZVm5PNjBjbGNLRWxTbVUwZENzNm4yd3hGZm93LWd3eFk0blpxQkQ3OVNMVVNtRDBqQktqcHpjSzlEa00xUmFsQUlCXy1KR2JVY2lxaE43VnFJbFR3X2xDZEVRX2dFbHhhc3lNakN3TXRYZ2cwVWJvVUxnNmprWFlYLVVpSDFOVFZfWXB6ci10dzNZQXljcGhwZ25YQjJTS0RUeXBhTmx2YlhDZDFXYXNJajNhV1lRbURKRmo2bGhyREtQTzE3VThjZ0x2VzAteDBn",
-  "snippet": "Iveco Group at Fenatran 2026: showcasing products, technology and services in Latin America The Globe and Mail",
-  "published": "2026-11-10T11:21:52+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T11:41:04.795794+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "e50a82377b",
   "slug": "jungheinrich-stock-rises-as-orders-gain-6-and-2030-targets-reset-e50a82377b",
   "title": "Jungheinrich stock rises as orders gain 6% and 2030 targets reset",
@@ -24244,33 +24246,6 @@
   "status": "rejected",
   "reasons": [
    "French-language story (English only)"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "b5fdd895bc",
-  "slug": "state-of-logistics-in-consumer-products-and-retail-b5fdd895bc",
-  "title": "State of logistics in consumer products and retail",
-  "orig_title": "State of logistics in consumer products and retail",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Kearney",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmZvWVhLQUM3VGJGbWFRYllTZlloYTNaR2dTS1FlbVZ1SGhwd2NqN3RZZ2F2ai1LLTNFVnNVcGdfanlCUlprbXl5WmtmQVl0NDJYakI5WnhJd1hHcnBXNEhRbzJqNDE3STVpNUxFMngxdnE1aV96YnEtQ3AzS2xNanNOaE9ra3ZNTktEdXRUdFFEb3huaHFPNEVBMlRIMEh0ZHR6aERiLThxVkJWcVRia2hvVQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmZvWVhLQUM3VGJGbWFRYllTZlloYTNaR2dTS1FlbVZ1SGhwd2NqN3RZZ2F2ai1LLTNFVnNVcGdfanlCUlprbXl5WmtmQVl0NDJYakI5WnhJd1hHcnBXNEhRbzJqNDE3STVpNUxFMngxdnE1aV96YnEtQ3AzS2xNanNOaE9ra3ZNTktEdXRUdFFEb3huaHFPNEVBMlRIMEh0ZHR6aERiLThxVkJWcVRia2hvVQ",
-  "snippet": "State of logistics in consumer products and retail Kearney",
-  "published": "2026-11-10T09:50:02+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-10T11:41:04.795794+00:00",
-  "image": "",
-  "ai": false,
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
