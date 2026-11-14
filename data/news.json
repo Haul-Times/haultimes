@@ -1,5 +1,108 @@
 [
  {
+  "id": "603b7445cc",
+  "slug": "field-to-freight-john-deere-connects-farm-production-with-renewable-di-603b7445cc",
+  "title": "Field to Freight: John Deere Connects Farm Production With Renewable Diesel Alternatives",
+  "orig_title": "Field to Freight: John Deere Connects Farm Production With Renewable Diesel Alternatives",
+  "summary": "John Deere is testing 100% biodiesel (B100) in five semi-trucks for six months under its Field to Freight initiative, according to an RFD-TV interview with John Deere Biofuels Director Nate Green. The trucks deliver parts and equipment to dealers and farmers from the company's distribution center in Milan, Illinois, and were fitted with an upgrade kit installed by Optimus Technologies. Penske, CPC Logistics and Chevron are also involved, with Chevron supplying the biodiesel.\n\nThe trucks use a dual-tank system to start on diesel and switch to B100 once the engine warms, and they recirculate diesel at shutdown. Green said the demonstration will show whether the technology works within the company's logistics network, and John Deere would consider wider deployment if it does. He also said full life-cycle greenhouse gas emissions from biodiesel can be 50% to 85% lower than petroleum diesel, depending on feedstock.",
+  "why": "",
+  "category": "fuel",
+  "region": "US",
+  "importance": 45,
+  "source": "RFD-TV",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVFac2xSZGRWcmd5RXJELTJkM3VYbk51czllelZVa1BYNEhwREJUSzJVQk5FVEVMTXNQVy1BY01JWkN2MzF6bllNclZtbEdDV1JSS3c5cmZVUXlzTXRFa1k2dDExMlppVlVLRTVGVFNtRDJrN1ZDMjRjRlBMdXFOOVZsZDNfQUFhTzQ5YV9iMnBCX3dzSXVyb2F1MmhyMEJWaC0tYVhfWFJ4ZERPdUE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVFac2xSZGRWcmd5RXJELTJkM3VYbk51czllelZVa1BYNEhwREJUSzJVQk5FVEVMTXNQVy1BY01JWkN2MzF6bllNclZtbEdDV1JSS3c5cmZVUXlzTXRFa1k2dDExMlppVlVLRTVGVFNtRDJrN1ZDMjRjRlBMdXFOOVZsZDNfQUFhTzQ5YV9iMnBCX3dzSXVyb2F1MmhyMEJWaC0tYVhfWFJ4ZERPdUE",
+  "snippet": "Field to Freight: John Deere Connects Farm Production With Renewable Diesel Alternatives RFD-TV",
+  "published": "2026-11-14T12:03:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T12:07:50.812093+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.rfdtv.com/field-to-freight-john-deere-connects-farm-production-with-renewable-diesel-alternatives",
+  "source_note": "ok · 497 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "cd2c37b5ea404ce1",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-14T12:07:50.812093+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "putting 100% biodiesel , or B100, to the test in five semi-trucks"
+   },
+   {
+    "sentence": "2",
+    "quote": "The company worked with Optimus Technologies to install an upgrade kit"
+   },
+   {
+    "sentence": "3",
+    "quote": "Chevron, which is providing the biodiesel"
+   },
+   {
+    "sentence": "4",
+    "quote": "The trucks use a dual-tank system"
+   },
+   {
+    "sentence": "5",
+    "quote": "the system heats the biodiesel tank and switches the truck to B100"
+   },
+   {
+    "sentence": "6",
+    "quote": "the six-month demonstration will help determine whether the technology can work within John Deere’s logistics network"
+   },
+   {
+    "sentence": "7",
+    "quote": "If successful, the company will consider deploying the technology"
+   },
+   {
+    "sentence": "8",
+    "quote": "full life-cycle greenhouse gas emissions from biodiesel can be reduced by at least 50%"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "fuel",
+  "ai_importance": 40
+ },
+ {
+  "id": "f15a4b473b",
+  "slug": "highways-destroyed-livelihoods-in-jeopardy-and-lives-lost-the-toll-of-f15a4b473b",
+  "title": "Highways destroyed, livelihoods in jeopardy and lives lost: The toll of B.C.'s 2021 floods",
+  "orig_title": "Highways destroyed, livelihoods in jeopardy and lives lost: The toll of B.C.'s 2021 floods",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVZ1eW0yanNXN3dFNFdXbklMYVRZREF2ZklXaE1FMklTaV9UV2t5cldFUFFvWE0wZEh6Zkg2ZElrVDVTdFNhaWxzemtTSTFrcEhMTUlGRl9IV2tnbHRJOGQ0SVZOWWpSR0lEY3hEYUg3RHdqQU5kRVFFWk9yS1JRbGpyVzVCMEt0MUZvUTRyc19uY2NDZ0RGd1NPUDlZSFdKUnc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVZ1eW0yanNXN3dFNFdXbklMYVRZREF2ZklXaE1FMklTaV9UV2t5cldFUFFvWE0wZEh6Zkg2ZElrVDVTdFNhaWxzemtTSTFrcEhMTUlGRl9IV2tnbHRJOGQ0SVZOWWpSR0lEY3hEYUg3RHdqQU5kRVFFWk9yS1JRbGpyVzVCMEt0MUZvUTRyc19uY2NDZ0RGd1NPUDlZSFdKUnc",
+  "snippet": "Highways destroyed, livelihoods in jeopardy and lives lost: The toll of B.C.'s 2021 floods CBC",
+  "published": "2026-11-14T12:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T12:07:50.812093+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "94de71c8bf",
   "slug": "logistics-and-supply-chain-leaders-nationwide-in-nationwide-for-penske-94de71c8bf",
   "title": "Logistics and Supply Chain Leaders - Nationwide in Nationwide, for Penske Truck Leasing",

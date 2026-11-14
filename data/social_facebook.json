@@ -2619,7 +2619,8 @@
   "42c709b51b": "skipped|importance 45 is below this platform's threshold (65)",
   "8fab2e414d": "posted|importance 77 (threshold 65), Fuel, local/other outlet; waited 10 min in queue",
   "31173afe79": "skipped|importance 62 is below this platform's threshold (65)",
-  "99219de393": "skipped|importance 55 is below this platform's threshold (65)"
+  "99219de393": "skipped|importance 55 is below this platform's threshold (65)",
+  "603b7445cc": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5127,6 +5128,13 @@
    "title": "Load Planner (Supply Chain/Logistics) in Beachwood, OH for Penske Truck Leasing",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-14T12:08:17.455297+00:00",
+   "story_id": "603b7445cc",
+   "title": "Field to Freight: John Deere Connects Farm Production With Renewable Diesel Alternatives",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
