@@ -2621,7 +2621,8 @@
   "31173afe79": "skipped|importance 62 is below this platform's threshold (65)",
   "99219de393": "skipped|importance 55 is below this platform's threshold (65)",
   "603b7445cc": "skipped|importance 45 is below this platform's threshold (65)",
-  "1fd31cf7c5": "skipped|importance 45 is below this platform's threshold (65)"
+  "1fd31cf7c5": "skipped|importance 45 is below this platform's threshold (65)",
+  "e4305287dd": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5143,6 +5144,13 @@
    "title": "Ramstad: From trucker to economist, Morris professor tracked an industry in transition",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-14T14:01:20.888538+00:00",
+   "story_id": "e4305287dd",
+   "title": "Diesel Prices Are Surging. This Electric Trucking Company Is Seeing More Interest",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
