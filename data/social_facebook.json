@@ -2056,7 +2056,7 @@
  "paused": null,
  "account": {
   "name": "HaulTimes",
-  "checked_at": "2026-11-13T03:32:30.090583+00:00",
+  "checked_at": "2026-11-14T03:41:41.110669+00:00",
   "checked_fp": "45e47322b1f3"
  },
  "log": [
@@ -2271,6 +2271,10 @@
   {
    "at": "2026-11-14T00:11:29.987525+00:00",
    "msg": "posted d45d672cb0"
+  },
+  {
+   "at": "2026-11-14T03:41:41.110669+00:00",
+   "msg": "credentials OK: connected to HaulTimes"
   }
  ],
  "decided": {
