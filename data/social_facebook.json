@@ -2098,14 +2098,14 @@
    "source": "Concord Monitor",
    "dest": "https://haultimes.com/story/teamsters-strike-at-associated-grocers-enters-second-week-1829c5f30d/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=1829c5f30d",
    "caption": "Teamsters strike at Associated Grocers enters second week.\n\nReported by Concord Monitor. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-14T19:11:17.387313+00:00",
    "published": "2026-11-14T19:00:00+00:00",
    "score": 65,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122104213527544428",
+   "posted_at": "2026-11-14T19:31:21.329084+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Teamsters strike at Associated Grocers enters second week | HaulTimes",
@@ -2116,7 +2116,9 @@
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-14T19:31:21.329084+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122104213527544428"
   }
  },
  "paused": null,
@@ -2345,6 +2347,10 @@
   {
    "at": "2026-11-14T05:21:25.954923+00:00",
    "msg": "posted 8fab2e414d"
+  },
+  {
+   "at": "2026-11-14T19:31:21.329084+00:00",
+   "msg": "posted 1829c5f30d"
   }
  ],
  "decided": {
@@ -2652,7 +2658,7 @@
   "1fd31cf7c5": "skipped|importance 45 is below this platform's threshold (65)",
   "e4305287dd": "skipped|importance 62 is below this platform's threshold (65)",
   "6569f00a45": "skipped|importance 51 is below this platform's threshold (65)",
-  "1829c5f30d": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  "1829c5f30d": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 20 min in queue"
  },
  "decisions": [
   {
@@ -5195,6 +5201,13 @@
    "title": "Teamsters strike at Associated Grocers enters second week",
    "action": "queued",
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  },
+  {
+   "at": "2026-11-14T19:31:21.329084+00:00",
+   "story_id": "1829c5f30d",
+   "title": "Teamsters strike at Associated Grocers enters second week",
+   "action": "posted",
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 20 min in queue"
   }
  ],
  "visibility": {
