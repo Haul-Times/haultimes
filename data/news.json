@@ -1,5 +1,34 @@
 [
  {
+  "id": "77ffa87920",
+  "slug": "overnight-parking-restrictions-return-to-london-streets-sunday-77ffa87920",
+  "title": "Overnight parking restrictions return to London streets Sunday",
+  "orig_title": "Overnight parking restrictions return to London streets Sunday",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHRYdnMwcHY4VU1NeDZHeGpUaXlWVzl1STdKekdxdUlVREdFTEJuNjNyY1ExWmVwYWJFUVo4UzVKR2JxMk5Oc2dLQlZJeHl4bGNtekw1MGJ5UXpLWFdNc09aVnd5QkZvNXhRd2k3Wlo1NVJpelp5N2ozTU41d0lCQlFXU2RseDhFeHZwRjNhOUtsdTJ6ZjNXY2pTVHZLR24wczJkX2tYbUs2ZmFHUEdF?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHRYdnMwcHY4VU1NeDZHeGpUaXlWVzl1STdKekdxdUlVREdFTEJuNjNyY1ExWmVwYWJFUVo4UzVKR2JxMk5Oc2dLQlZJeHl4bGNtekw1MGJ5UXpLWFdNc09aVnd5QkZvNXhRd2k3Wlo1NVJpelp5N2ozTU41d0lCQlFXU2RseDhFeHZwRjNhOUtsdTJ6ZjNXY2pTVHZLR24wczJkX2tYbUs2ZmFHUEdF",
+  "snippet": "Overnight parking restrictions return to London streets Sunday CBC",
+  "published": "2026-11-14T22:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T22:19:52.428465+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c783714194",
   "slug": "dekalb-county-sheriff-s-office-warns-truckers-after-ticketing-driver-o-c783714194",
   "title": "DeKalb County Sheriff’s Office warns truckers after ticketing driver on new Peace Road bridge",
