@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:15:09.123892+00:00",
+ "updated": "2026-11-14T09:21:11.320167+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -14,7 +14,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 4:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 4:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 4:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:10:17",
+    "updated": "04:20:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:10:17",
+    "updated": "04:20:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:10:17",
+    "updated": "04:20:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -988,8 +988,8 @@
     "wait": null,
     "fast_wait": null,
     "lanes": "",
-    "status": "Update Pending",
-    "updated": "04:10:17",
+    "status": "N/A",
+    "updated": "04:20:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:10:17",
+    "updated": "03:20:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1447,13 +1447,13 @@
    },
    {
     "name": "Calais International Avenue",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Calais Milltown",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
