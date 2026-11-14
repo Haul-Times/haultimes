@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:29:45.082650+00:00",
+ "updated": "2026-11-14T03:31:03.968782+00:00",
  "hour_now": 22,
  "have_us": true,
  "have_ca": true,
@@ -72,7 +72,7 @@
      29,
      20,
      20,
-     5,
+     4,
      null
     ]
    },
@@ -243,9 +243,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-13 22:00 EST"
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-13 22:20 EST"
    },
    "usual": {
     "south": [
@@ -302,7 +302,7 @@
     ]
    },
    "best_south": "Usually fastest around 3 AM",
-   "best_north": "Usually fastest around 8 AM"
+   "best_north": "Usually fastest around 10 PM"
   },
   {
    "id": "lewiston",
@@ -318,9 +318,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 47,
-    "status": "47 minutes",
-    "updated": "2026-11-13 22:00 EST"
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-13 22:20 EST"
    },
    "usual": {
     "south": [
@@ -372,7 +372,7 @@
      35,
      44,
      41,
-     43,
+     34,
      null
     ]
    },
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 21:15 EST"
+    "updated": "2026-11-13 22:23 EST"
    },
    "usual": {
     "south": [
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-13 20:00 PDT"
+    "updated": "2026-11-13 20:20 PDT"
    },
    "usual": {
     "south": [
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 10 PM"
+   "best_north": "Usually fastest around 7 AM"
   },
   {
    "id": "sumas",
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-13 20:00 PDT"
+    "updated": "2026-11-13 20:20 PDT"
    },
    "usual": {
     "south": [
