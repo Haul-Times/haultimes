@@ -3128,6 +3128,68 @@
   "sum_status": "no source text (publisher refused (402))"
  },
  {
+  "id": "116845f8d3",
+  "slug": "u-s-rail-carload-and-intermodal-volume-continues-strong-momentum-in-oc-116845f8d3",
+  "title": "U.S. rail carload and intermodal volume continues strong momentum in October, reports AAR",
+  "orig_title": "U.S. rail carload and intermodal volume continues strong momentum in October, reports AAR",
+  "summary": "The Association of American Railroads said U.S. rail carload and intermodal volumes stayed strong in October, according to its latest Rail Industry Overview. The AAR said 15 of its 20 tracked carload commodity groups rose from a year earlier, and 16 were up on a year-to-date basis. Grain, petroleum and petroleum products, chemicals and metallic ores led the year-to-date gains. The report called October intermodal volume \"especially strong,\" citing the first, third and fifth-best intermodal weeks on record, and said 2026 is expected to set a new record. Cited drivers included high diesel prices, trucker insurance and maintenance costs, fewer available truck drivers and solid rail performance.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 61,
+  "source": "Logistics Management",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU1gtaGoteW5OZ3BhalJ5TzVSVDNEQ3JHcldxVExXcl92TTVqSmRqNTByaXlsblBOSnI3bklFSTVfRng3MEN3cloxUzFZVTZ0TENvZlVidEplbG1CcERvRXNjTGxaY2ktbURkN0IyZG9fVkR0T0lpN2dmN2U4eWg2X0F1RHkzMTRpZDVFTU5RQVhVLVNubkt6ZzRLVldDZ0xRTl85UFNmZFhLSjJFa1FCM2RicmYyMk1zVmQwVUNDdmhwV3c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU1gtaGoteW5OZ3BhalJ5TzVSVDNEQ3JHcldxVExXcl92TTVqSmRqNTByaXlsblBOSnI3bklFSTVfRng3MEN3cloxUzFZVTZ0TENvZlVidEplbG1CcERvRXNjTGxaY2ktbURkN0IyZG9fVkR0T0lpN2dmN2U4eWg2X0F1RHkzMTRpZDVFTU5RQVhVLVNubkt6ZzRLVldDZ0xRTl85UFNmZFhLSjJFa1FCM2RicmYyMk1zVmQwVUNDdmhwV3c",
+  "snippet": "U.S. rail carload and intermodal volume continues strong momentum in October, reports AAR Logistics Management",
+  "published": "2026-11-13T16:41:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T16:51:01.741453+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.logisticsmgmt.com/article/u.s_rail_carload_and_intermodal_volume_continues_strong_momentum_in_october_reports_aar",
+  "source_note": "ok · 616 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "d112cf37946589d7",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-14T16:51:01.741453+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "United States rail carload and intermodal volumes again posted very strong volumes"
+   },
+   {
+    "sentence": "2",
+    "quote": "15 of the 20 carload commodity groups it tracks saw annual gains"
+   },
+   {
+    "sentence": "3",
+    "quote": "Leading the way, in terms of year-to-date percentage gains"
+   },
+   {
+    "sentence": "4",
+    "quote": "especially strong"
+   },
+   {
+    "sentence": "5",
+    "quote": "high diesel prices, insurance and maintenance costs for truckers, fewer available truck drivers, and solid rail performance"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 45
+ },
+ {
   "id": "b0a2ed2114",
   "slug": "historic-fmcsa-crackdown-pulls-133-elds-for-largest-revocation-in-hist-b0a2ed2114",
   "title": "Historic FMCSA crackdown pulls 133 ELDs for largest revocation in history",
@@ -5478,6 +5540,35 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "cfd17e44b9",
+  "slug": "watch-what-s-the-best-use-of-ai-agents-in-supply-chain-planning-cfd17e44b9",
+  "title": "Watch: What’s the Best Use of AI Agents in Supply Chain Planning?",
+  "orig_title": "Watch: What’s the Best Use of AI Agents in Supply Chain Planning?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "SupplyChainBrain",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkJGamFyRGxoVWVDU2prTVdvSk8ySVF0Y0ttYmZiXzBMaTNZZWNycHkyNmN5T0lwQlB2czVjS1ZGR1lxX2ZTemxsOHFNSnN0dEZHWFU3RmVBcFJvRjBWM2VNR0NSZG16cG5XM3BMbWdkendVdHZzeUtzUGNzZHBQdWYwMVFRckdyM3FDNC1mT3FveGR0czlHNGJCM3RHblhCTmtNYS1aRkdoYjlSXzVMZGpHTFZrdFBkZFI3XzJ1NF8zeWlzZThJaVJGZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkJGamFyRGxoVWVDU2prTVdvSk8ySVF0Y0ttYmZiXzBMaTNZZWNycHkyNmN5T0lwQlB2czVjS1ZGR1lxX2ZTemxsOHFNSnN0dEZHWFU3RmVBcFJvRjBWM2VNR0NSZG16cG5XM3BMbWdkendVdHZzeUtzUGNzZHBQdWYwMVFRckdyM3FDNC1mT3FveGR0czlHNGJCM3RHblhCTmtNYS1aRkdoYjlSXzVMZGpHTFZrdFBkZFI3XzJ1NF8zeWlzZThJaVJGZw",
+  "snippet": "Watch: What’s the Best Use of AI Agents in Supply Chain Planning? SupplyChainBrain",
+  "published": "2026-11-13T05:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-14T16:51:01.741453+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
