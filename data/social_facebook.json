@@ -2667,7 +2667,8 @@
   "e4305287dd": "skipped|importance 62 is below this platform's threshold (65)",
   "6569f00a45": "skipped|importance 51 is below this platform's threshold (65)",
   "1829c5f30d": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 20 min in queue",
-  "c783714194": "skipped|importance 51 is below this platform's threshold (65)"
+  "c783714194": "skipped|importance 51 is below this platform's threshold (65)",
+  "2a8b38f223": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5224,6 +5225,13 @@
    "title": "DeKalb County Sheriff’s Office warns truckers after ticketing driver on new Peace Road bridge",
    "action": "skipped",
    "reason": "importance 51 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-14T22:31:15.044901+00:00",
+   "story_id": "2a8b38f223",
+   "title": "Truckers will also pay tolls on regional roads, Trajanovski announced",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
