@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:21:13.037832+00:00",
+ "updated": "2026-11-14T17:26:45.285342+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -18,9 +18,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 20,
-    "status": "20 minutes",
-    "updated": "2026-11-14 10:33 EST"
+    "wait": 45,
+    "status": "45 minutes",
+    "updated": "2026-11-14 12:19 EST"
    },
    "usual": {
     "south": [
@@ -62,7 +62,7 @@
      0,
      6,
      20,
-     20,
+     27,
      null,
      null,
      null,
@@ -261,7 +261,7 @@
      0,
      2,
      4,
-     4,
+     6,
      null,
      null,
      null,
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-14 10:15 EST"
+    "updated": "2026-11-14 12:15 EST"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-14 10:15 EST"
+    "updated": "2026-11-14 12:15 EST"
    },
    "usual": {
     "south": [
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-14 10:15 EST"
+    "updated": "2026-11-14 12:15 EST"
    },
    "usual": {
     "south": [
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-14 11:15 AST"
+    "updated": "2026-11-14 13:15 AST"
    },
    "usual": {
     "south": [
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-14 09:15 MDT"
+    "updated": "2026-11-14 11:15 MDT"
    },
    "usual": {
     "south": [
@@ -1330,7 +1330,7 @@
      5,
      5,
      5,
-     8,
+     9,
      null,
      null,
      null,
