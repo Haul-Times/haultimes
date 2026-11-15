@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:31:06.563279+00:00",
+ "updated": "2026-11-15T01:40:29.699578+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -370,7 +370,7 @@
      2,
      2,
      3,
-     4,
+     5,
      null,
      null,
      null
@@ -1237,7 +1237,7 @@
      0,
      0,
      26,
-     7,
+     6,
      null,
      null,
      null
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 8 PM"
+   "best_north": "Usually fastest around 9 AM"
   },
   {
    "id": "sumas",
@@ -1514,8 +1514,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 5,
-    "status": "5 minutes"
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Gordie Howe International Bridge",
