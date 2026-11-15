@@ -2711,7 +2711,8 @@
   "1829c5f30d": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 20 min in queue",
   "c783714194": "skipped|importance 51 is below this platform's threshold (65)",
   "2a8b38f223": "skipped|importance 45 is below this platform's threshold (65)",
-  "0ee7e73777": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
+  "0ee7e73777": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
+  "79a143e46d": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5289,6 +5290,13 @@
    "title": "Spot rates jump ahead of holidays",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-15T02:31:20.015672+00:00",
+   "story_id": "79a143e46d",
+   "title": "Melton Truck Lines News Updates",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
