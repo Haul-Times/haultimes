@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:11:06.273654+00:00",
+ "updated": "2026-11-15T16:21:04.456336+00:00",
  "hour_now": 11,
  "have_us": true,
  "have_ca": true,
@@ -87,9 +87,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "3",
+    "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At 11:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At 11:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -361,7 +361,7 @@
      0,
      0,
      0,
-     4,
+     5,
      null,
      null,
      2,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:08:01",
+    "updated": "11:18:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "11:08:01",
+    "updated": "11:18:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 22,
+    "wait": 10,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "1",
     "status": "delay",
-    "updated": "At 9:00 am CST",
+    "updated": "At 10:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1085,7 +1085,7 @@
      null,
      50,
      25,
-     22,
+     18,
      null,
      null,
      4,
@@ -1228,7 +1228,7 @@
      0,
      0,
      9,
-     5,
+     3,
      null,
      null,
      0,
@@ -1303,7 +1303,7 @@
      0,
      0,
      10,
-     23,
+     25,
      null,
      null,
      0,

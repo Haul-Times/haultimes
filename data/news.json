@@ -16764,35 +16764,6 @@
   "sum_pending": false
  },
  {
-  "id": "6e454e4f57",
-  "slug": "us-postpones-million-dollar-china-ship-tax-until-january-6e454e4f57",
-  "title": "US postpones ‘million-dollar’ China ship tax until January",
-  "orig_title": "US postpones ‘million-dollar’ China ship tax until January",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHI4MWhmM29VTUhPRjFKMUl4RlFOWjQ5RFlLNVYtUnlQdjFlY0Y0dlZ1RzVqOVFXOU9PT1BoR0gzcHFfSlFLTC10OTB5ajdxQTNJZUFxWmRfME9fNXptSWNFd1poMEd3aGFGTzJIdUdtTURaN0JkMElRc0NVU0pIaW81Xy1SdG9CRmZZR3N6TzR5Y0Iy?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHI4MWhmM29VTUhPRjFKMUl4RlFOWjQ5RFlLNVYtUnlQdjFlY0Y0dlZ1RzVqOVFXOU9PT1BoR0gzcHFfSlFLTC10OTB5ajdxQTNJZUFxWmRfME9fNXptSWNFd1poMEd3aGFGTzJIdUdtTURaN0JkMElRc0NVU0pIaW81Xy1SdG9CRmZZR3N6TzR5Y0Iy",
-  "snippet": "US postpones ‘million-dollar’ China ship tax until January FreightWaves",
-  "published": "2026-11-11T16:02:32+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T16:11:06.625429+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "6c591e95be",
   "slug": "young-truck-driver-s-canadian-dream-ends-in-tragedy-6c591e95be",
   "title": "Young truck driver’s Canadian dream ends in tragedy",
@@ -16976,35 +16947,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/paper-transport-puts-rng-to-work-for-shipper",
   "source_note": "ok · 884 words"
- },
- {
-  "id": "208d6c2ed9",
-  "slug": "epic-cure-rescues-and-distributes-food-in-ne-florida-see-it-at-work-208d6c2ed9",
-  "title": "Epic-Cure rescues and distributes food in NE Florida. See it at work",
-  "orig_title": "Epic-Cure rescues and distributes food in NE Florida. See it at work",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "St. Augustine Record",
-  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0ZtUFJNaGpoNlhsYmlOaG5OQ0doUmg2Yi02c3pRdTdiZUdKYnV3R2h3aFF2MGFJbWd6dzdISmNMSW54QXVRZTNDY28teGp6dnFEZ1E4dWtvRGZOaXczXy1NUTJYd1JYMWRLZ28zZ1BxY2daTFl6andUU1ZSYUlSakFEY0FaUGFySnI3WVFmZVlZUVhjTGpFN0wycTFZTnBiYVZjWFd2SnVIVFhJYWN2bklNOHhNcFRWUVlKX29ydEFrYmNDaXp6eUVuZzNqUkhESURsUTJCNHFpVU55MFVCb3A5YVJKQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0ZtUFJNaGpoNlhsYmlOaG5OQ0doUmg2Yi02c3pRdTdiZUdKYnV3R2h3aFF2MGFJbWd6dzdISmNMSW54QXVRZTNDY28teGp6dnFEZ1E4dWtvRGZOaXczXy1NUTJYd1JYMWRLZ28zZ1BxY2daTFl6andUU1ZSYUlSakFEY0FaUGFySnI3WVFmZVlZUVhjTGpFN0wycTFZTnBiYVZjWFd2SnVIVFhJYWN2bklNOHhNcFRWUVlKX29ydEFrYmNDaXp6eUVuZzNqUkhESURsUTJCNHFpVU55MFVCb3A5YVJKQQ",
-  "snippet": "Epic-Cure rescues and distributes food in NE Florida. See it at work St. Augustine Record",
-  "published": "2026-11-11T15:50:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T16:11:06.625429+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "e6c2eb5abf",
