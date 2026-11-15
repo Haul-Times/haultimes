@@ -7298,6 +7298,35 @@
   "sum_pending": false
  },
  {
+  "id": "9e66b1caa0",
+  "slug": "bathrooms-archives-9e66b1caa0",
+  "title": "bathrooms Archives",
+  "orig_title": "bathrooms Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vTmdLeGVBU3M0ODUzTk04Q3FzV2RhNm9rMjVoeWlBbUdJMXZweHdfenVvdEdFcy11dUg1OFI0VFBoaEpSazdOODJYRGVfRTU3YmZfeUVKSQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vTmdLeGVBU3M0ODUzTk04Q3FzV2RhNm9rMjVoeWlBbUdJMXZweHdfenVvdEdFcy11dUg1OFI0VFBoaEpSazdOODJYRGVfRTU3YmZfeUVKSQ",
+  "snippet": "bathrooms Archives Truck News",
+  "published": "2026-11-13T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-15T22:21:05.348812+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ddcdaee5ff",
   "slug": "pain-at-the-pump-eases-slightly-as-diesel-prices-inch-downward-ddcdaee5ff",
   "title": "Pain at the pump eases slightly as diesel prices inch downward",
