@@ -18601,92 +18601,6 @@
   "sum_pending": false
  },
  {
-  "id": "b9cec343cd",
-  "slug": "legal-warning-sent-to-pensions-over-climate-related-risks-of-lng-stake-b9cec343cd",
-  "title": "Legal warning sent to pensions over climate-related risks of LNG stakes",
-  "orig_title": "Legal warning sent to pensions over climate-related risks of LNG stakes",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnFPaXZsTi03MmxMMzNCUGg3Z19EcDF2WVlsdkFuemd6SEZKd2lWNDVLOUNFanJ2YnNaMThWelNRX3RDRXhzcU5qSFZRVUZ0RmFaREg5eEtZcVlXWDdFOXl1QjNRRXFmT3VoWE8tX0lUa3FoVXpwZWUxM3hiNDNDNmlVYmp0eFo1c2NxMHlmWmktVk8yQWtnQ2NRYTJtUVRvSE1BQXFBX1FYRDJaOHA0ck54RFM?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnFPaXZsTi03MmxMMzNCUGg3Z19EcDF2WVlsdkFuemd6SEZKd2lWNDVLOUNFanJ2YnNaMThWelNRX3RDRXhzcU5qSFZRVUZ0RmFaREg5eEtZcVlXWDdFOXl1QjNRRXFmT3VoWE8tX0lUa3FoVXpwZWUxM3hiNDNDNmlVYmp0eFo1c2NxMHlmWmktVk8yQWtnQ2NRYTJtUVRvSE1BQXFBX1FYRDJaOHA0ck54RFM",
-  "snippet": "Legal warning sent to pensions over climate-related risks of LNG stakes The Globe and Mail",
-  "published": "2026-11-11T12:44:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T12:50:53.320434+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "860f89bba0",
-  "slug": "how-much-do-truck-drivers-earn-in-botswana-compared-with-sa-860f89bba0",
-  "title": "How much do truck drivers earn in Botswana compared with SA?",
-  "orig_title": "How much do truck drivers earn in Botswana compared with SA?",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "Other",
-  "importance": 40,
-  "source": "The South African",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTR0bWpha0JGU1dkZjRkUW9hX25YMGNOU3lGekphUFR3Vzg0SzNkS2dTam1xRWxHVmJtNFFnNWs2Z2lzeDV1U1Y1QjF0OURZTnNZaW9zUnpxcFlXTTl6MF81NTlqeWlGRnN5ODZQVkZlU25ZSnpoeE9pXzBucUFyRE51VVdLYlJvS184MUdtc1J1cjF5c2owb2xHeUd5Z3Nva29qVWJkYw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTR0bWpha0JGU1dkZjRkUW9hX25YMGNOU3lGekphUFR3Vzg0SzNkS2dTam1xRWxHVmJtNFFnNWs2Z2lzeDV1U1Y1QjF0OURZTnNZaW9zUnpxcFlXTTl6MF81NTlqeWlGRnN5ODZQVkZlU25ZSnpoeE9pXzBucUFyRE51VVdLYlJvS184MUdtc1J1cjF5c2owb2xHeUd5Z3Nva29qVWJkYw",
-  "snippet": "How much do truck drivers earn in Botswana compared with SA? The South African",
-  "published": "2026-11-11T12:43:45+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T12:50:53.320434+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://www.thesouthafrican.com/news/africa/how-much-do-truck-drivers-earn-in-botswana-compared-with-sa/",
-  "source_note": "ok · 417 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "e45a6bdadfc042fa",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-12T00:31:05.700321+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "Paylab lists the annual gross salary range"
-   },
-   {
-    "sentence": "2",
-    "quote": "Indeed reported an average truck driver salary of R10 161 per month"
-   },
-   {
-    "sentence": "3",
-    "quote": "Paylab’s figures are based on its salary survey"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "drivers",
-  "ai_importance": 8,
-  "ai_relevant": false
- },
- {
   "id": "be4af1dcbc",
   "slug": "transit-strike-over-high-fuel-prices-blocks-roads-in-chile-be4af1dcbc",
   "title": "Transit strike over high fuel prices blocks roads in Chile",
@@ -20350,35 +20264,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "af17da2424",
-  "slug": "arctic-gas-projects-more-viable-than-oil-development-nwt-premier-says-af17da2424",
-  "title": "Arctic gas projects more viable than oil development, NWT Premier says",
-  "orig_title": "Arctic gas projects more viable than oil development, NWT Premier says",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzU1SWtzRlpBMlQ4aUVPMzdGVkxpZHlPQmpPVVpOUzdMcEdZcjRNUzVEc3AtN0Z3UFpaWjNTYk5POEEzNE9tYzhKLTJOUzQ3X2IySGo2d3NwMmRpOW13dHdlVVZQX1dIbVN2ZU9UZHBqQWtQMHRjMVBZYWFMd285MFRXcVkwWnBXeFU2enA3VHZTSDFnQXRMUEpjM1BaeTU3OE1OM1hB?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzU1SWtzRlpBMlQ4aUVPMzdGVkxpZHlPQmpPVVpOUzdMcEdZcjRNUzVEc3AtN0Z3UFpaWjNTYk5POEEzNE9tYzhKLTJOUzQ3X2IySGo2d3NwMmRpOW13dHdlVVZQX1dIbVN2ZU9UZHBqQWtQMHRjMVBZYWFMd285MFRXcVkwWnBXeFU2enA3VHZTSDFnQXRMUEpjM1BaeTU3OE1OM1hB",
-  "snippet": "Arctic gas projects more viable than oil development, NWT Premier says The Globe and Mail",
-  "published": "2026-11-10T20:54:28+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T12:50:53.320434+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "fcbb818ef0",
