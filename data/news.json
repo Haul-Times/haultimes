@@ -61,6 +61,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "30d4b16b13",
+  "slug": "chile-truckers-end-route-68-blockade-after-government-deploys-carabine-30d4b16b13",
+  "title": "Chile Truckers End Route 68 Blockade After Government Deploys Carabineros",
+  "orig_title": "Chile Truckers End Route 68 Blockade After Government Deploys Carabineros",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "inkl",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3gwc0NtUXNMcU45U1U2Wk5EeVdwZGZHZHNobmwyZXhOa1UwR3FuaGRjMG0wc3kzaWhhUXdDcU1KclpZak94Z2FTOHhYMXJaMkYtdnRGQWpfTy01b1g0UGFvQUtuRGZBM3JwTk1Ob2h1YzdwWWt5NkRtT3ppYjExMjlYUURlN1ZHVjg5ZGkxZUU2Zy1lSElTQVA0NmhIVllk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3gwc0NtUXNMcU45U1U2Wk5EeVdwZGZHZHNobmwyZXhOa1UwR3FuaGRjMG0wc3kzaWhhUXdDcU1KclpZak94Z2FTOHhYMXJaMkYtdnRGQWpfTy01b1g0UGFvQUtuRGZBM3JwTk1Ob2h1YzdwWWt5NkRtT3ppYjExMjlYUURlN1ZHVjg5ZGkxZUU2Zy1lSElTQVA0NmhIVllk",
+  "snippet": "Chile Truckers End Route 68 Blockade After Government Deploys Carabineros inkl",
+  "published": "2026-11-15T04:00:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-15T07:41:08.624106+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b9b7d4a531",
   "slug": "chile-truckers-lift-route-68-blockade-after-government-threatens-fines-b9b7d4a531",
   "title": "Chile truckers lift Route 68 blockade after government threatens fines and police clearances",
@@ -19994,35 +20023,6 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "aed32c5021",
-  "slug": "chilean-salmon-exports-threatened-by-nationwide-truckers-strike-aed32c5021",
-  "title": "Chilean salmon exports threatened by nationwide truckers’ strike",
-  "orig_title": "Chilean salmon exports threatened by nationwide truckers’ strike",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Salmon Business",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXJ3aDViZUx1UDcyWDJRYjNMdGhmbXFVTkUxTkVrVm13MUN5Q25nZjRFMGYzWWpJbXg1WkJmMW5hcmpxRUVnSmcxYjl5QmdkZ0J4VElTVFp2LWxyWW1PU1pzbFBrQ2NidGstNEJOcmpQcUZZWUtDa0JUOGRfS3BObFhWakxxUnlCWlNOcDd4bkdkN2pIaHJkZ3NlVQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXJ3aDViZUx1UDcyWDJRYjNMdGhmbXFVTkUxTkVrVm13MUN5Q25nZjRFMGYzWWpJbXg1WkJmMW5hcmpxRUVnSmcxYjl5QmdkZ0J4VElTVFp2LWxyWW1PU1pzbFBrQ2NidGstNEJOcmpQcUZZWUtDa0JUOGRfS3BObFhWakxxUnlCWlNOcDd4bkdkN2pIaHJkZ3NlVQ",
-  "snippet": "Chilean salmon exports threatened by nationwide truckers’ strike Salmon Business",
-  "published": "2026-11-11T07:22:19+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T07:31:04.655445+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
