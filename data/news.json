@@ -1505,6 +1505,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "9d31980f20",
+  "slug": "brs-protests-decision-to-auction-truck-park-land-9d31980f20",
+  "title": "BRS protests decision to auction Truck Park land",
+  "orig_title": "BRS protests decision to auction Truck Park land",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The New Indian Express",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT18tMnNqSXRxd1JUc1dveDFiMmZzMWp2WUxjbE5RNFhsd0dqMzlHN2psVUhYT0JsMTRHRy1GU0c1YVhTclZ4M3hIdVFCTUtMa0x4X3lrd2x1cndHcnlNWXJBNmtjSHZXUFk3SGt4aFE4enoweVN2RnVmN1dwaTRrRjc5VnF0dE8wSUdzNkQ5alZnTTBoZEhMMVRjd01wTmIxT2s4dXNOaU1EcEhTMkRFMi1R0gG_AUFVX3lxTE1IdGZYUjdsajBPZ1F3MFRaaHJOWHNHOFdRWS1XZlZYOXE0YzVmbVQ2VnlyMk0xdXBlOVFxMGdiM0pPWWxSeGJYaXFpS3ZLcDdYUnU1Sk5DeFJ2djQzUTM4X3RmSHVjelk5bGRGNmtTZlJYYzE0NS1YWlpSdkp5clVKNk5WazV3ZlNLVFlmSEZ5SDVEUmFSdjNDTzEwUzdrUnNicnVqWEJoZmx5ZUhOX3Y1QVVnRzNwWmJfV2hOWmQw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT18tMnNqSXRxd1JUc1dveDFiMmZzMWp2WUxjbE5RNFhsd0dqMzlHN2psVUhYT0JsMTRHRy1GU0c1YVhTclZ4M3hIdVFCTUtMa0x4X3lrd2x1cndHcnlNWXJBNmtjSHZXUFk3SGt4aFE4enoweVN2RnVmN1dwaTRrRjc5VnF0dE8wSUdzNkQ5alZnTTBoZEhMMVRjd01wTmIxT2s4dXNOaU1EcEhTMkRFMi1R0gG_AUFVX3lxTE1IdGZYUjdsajBPZ1F3MFRaaHJOWHNHOFdRWS1XZlZYOXE0YzVmbVQ2VnlyMk0xdXBlOVFxMGdiM0pPWWxSeGJYaXFpS3ZLcDdYUnU1Sk5DeFJ2djQzUTM4X3RmSHVjelk5bGRGNmtTZlJYYzE0NS1YWlpSdkp5clVKNk5WazV3ZlNLVFlmSEZ5SDVEUmFSdjNDTzEwUzdrUnNicnVqWEJoZmx5ZUhOX3Y1QVVnRzNwWmJfV2hOWmQw",
+  "snippet": "BRS protests decision to auction Truck Park land The New Indian Express",
+  "published": "2026-11-14T03:28:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-15T17:31:09.895204+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "non-North American source"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a8f4acdf40",
   "slug": "2023-top-freight-brokerage-firms-a8f4acdf40",
   "title": "2023 Top Freight Brokerage Firms",
