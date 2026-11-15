@@ -20728,36 +20728,6 @@
   "sum_pending": false
  },
  {
-  "id": "f688f41b6a",
-  "slug": "trucking-company-owner-charged-in-labor-scheme-involving-unauthorized-f688f41b6a",
-  "title": "Trucking company owner charged in labor scheme involving unauthorized non-citizen drivers",
-  "orig_title": "Trucking company owner charged in labor scheme involving unauthorized non-citizen drivers",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 45,
-  "source": "Department of Justice (.gov)",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdW5CWnozZ3RrT2phRW5oWmh6QUJOQXZ0ek5jMEtiMnJ5eVU0cGFlMHdqTmJwMW1fdExqWnBxRmRIWGxjVE13T2pBc0VPb2R0OW1VeUkzMk1RbGxfLVR6WkNxNW5EMEpyMVJrcGR2ci1Xb2J6cEVmcmJRY3FMQ0RsRzU4Z3dRX2FtRGlFSEtMaE0tMFphN0hIOHRwWG1XRlg1a2taRnhjTGJQcU9TSGhKVnhabkZ0d3ZJSThBYjhzbkM?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdW5CWnozZ3RrT2phRW5oWmh6QUJOQXZ0ek5jMEtiMnJ5eVU0cGFlMHdqTmJwMW1fdExqWnBxRmRIWGxjVE13T2pBc0VPb2R0OW1VeUkzMk1RbGxfLVR6WkNxNW5EMEpyMVJrcGR2ci1Xb2J6cEVmcmJRY3FMQ0RsRzU4Z3dRX2FtRGlFSEtMaE0tMFphN0hIOHRwWG1XRlg1a2taRnhjTGJQcU9TSGhKVnhabkZ0d3ZJSThBYjhzbkM",
-  "snippet": "Trucking company owner charged in labor scheme involving unauthorized non-citizen drivers Department of Justice (.gov)",
-  "published": "2026-11-10T23:41:16+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T00:11:02.025799+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Texas trucking owner indicted in scheme involving 57 unauthorized drivers"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "131cd4219e"
- },
- {
   "id": "b1a58eb1b9",
   "slug": "memphis-gas-prices-drop-32-cents-in-past-4-weeks-but-high-diesel-costs-b1a58eb1b9",
   "title": "Memphis gas prices drop 32 cents in past 4 weeks, but high diesel costs threaten holiday shopping budgets",
