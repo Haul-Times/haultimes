@@ -2721,7 +2721,8 @@
   "37a3645a43": "skipped|importance 50 is below this platform's threshold (65)",
   "03e5744700": "skipped|importance 55 is below this platform's threshold (65)",
   "697b6bd9d3": "skipped|importance 50 is below this platform's threshold (65)",
-  "43b518a5f1": "skipped|importance 61 is below this platform's threshold (65)"
+  "43b518a5f1": "skipped|importance 61 is below this platform's threshold (65)",
+  "23f1039fed": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5341,6 +5342,13 @@
    "title": "Data shows serial noncompliance behind majority of ELD revocations",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-15T21:21:45.635365+00:00",
+   "story_id": "23f1039fed",
+   "title": "Bipartisan bill to require truck driver bathroom access at shippers and receivers",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
