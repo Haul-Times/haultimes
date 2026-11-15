@@ -2720,7 +2720,8 @@
   "1fac8561c7": "skipped|minor item (event) or low-quality source",
   "37a3645a43": "skipped|importance 50 is below this platform's threshold (65)",
   "03e5744700": "skipped|importance 55 is below this platform's threshold (65)",
-  "697b6bd9d3": "skipped|importance 50 is below this platform's threshold (65)"
+  "697b6bd9d3": "skipped|importance 50 is below this platform's threshold (65)",
+  "43b518a5f1": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5333,6 +5334,13 @@
    "title": "CHP cites truck driver after spotting 20 MPH speed violation and 'numerous' tire defects on I-5",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-15T21:11:26.663573+00:00",
+   "story_id": "43b518a5f1",
+   "title": "Data shows serial noncompliance behind majority of ELD revocations",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
