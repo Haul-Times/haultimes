@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:11:14.456158+00:00",
+ "updated": "2026-11-15T19:21:05.378466+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -12,9 +12,9 @@
    "south": {
     "wait": 0,
     "fast_wait": 5,
-    "lanes": "6",
+    "lanes": "7",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -113,7 +113,7 @@
      0,
      7,
      18,
-     3,
+     4,
      12,
      19,
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:57 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -289,7 +289,7 @@
      5,
      8,
      9,
-     13,
+     14,
      2,
      1,
      7,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:57 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -364,7 +364,7 @@
      5,
      3,
      1,
-     2,
+     3,
      1,
      0,
      1,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "14:03:14",
+    "updated": "14:13:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": 0,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "status": "delay",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -713,7 +713,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:03:14",
+    "updated": "14:13:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1088,7 +1088,7 @@
      13,
      53,
      58,
-     20,
+     26,
      0,
      0,
      0,
@@ -1231,7 +1231,7 @@
      1,
      0,
      9,
-     3,
+     4,
      0,
      0,
      0,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 2 PM"
+   "best_north": "Usually fastest around 1 AM"
   },
   {
    "id": "sumas",
@@ -1457,13 +1457,13 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 10,
+    "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": 10,
-    "status": "delay"
+    "wait": null,
+    "status": "Lanes Closed"
    },
    {
     "name": "Jackman",
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": 10,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Norton",
