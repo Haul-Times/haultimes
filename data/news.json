@@ -1805,6 +1805,35 @@
   "sum_pending": false
  },
  {
+  "id": "dddd671c17",
+  "slug": "closed-route-11-rest-stop-to-see-new-life-dddd671c17",
+  "title": "Closed Route 11 rest stop to see new life",
+  "orig_title": "Closed Route 11 rest stop to see new life",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Tribune Chronicle",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXFxRFYtd3ZNUlU0d1dTbFFVNjBndXZpS3ZKVGk3YV9SXzdRWU4yMEtNZEl1M0xzMGtNMDlDTEpaRWhCaS1sVmdZSDh6ZDRKV0NsQTFNalFmMmZ4N2gwMnM3WnBxNl8zZllKODh6cS1weE0wTzdnY3hsdEhBZE5qN0VRUGlIUmUt?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXFxRFYtd3ZNUlU0d1dTbFFVNjBndXZpS3ZKVGk3YV9SXzdRWU4yMEtNZEl1M0xzMGtNMDlDTEpaRWhCaS1sVmdZSDh6ZDRKV0NsQTFNalFmMmZ4N2gwMnM3WnBxNl8zZllKODh6cS1weE0wTzdnY3hsdEhBZE5qN0VRUGlIUmUt",
+  "snippet": "Closed Route 11 rest stop to see new life Tribune Chronicle",
+  "published": "2026-11-14T05:10:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-15T22:46:56.668370+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8fab2e414d",
   "slug": "as-diesel-prices-soar-truckers-struggle-while-keeping-ameri-8fab2e414d",
   "title": "As diesel prices soar, truckers struggle while keeping Ameri...",
