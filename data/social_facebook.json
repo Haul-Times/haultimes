@@ -2136,14 +2136,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/spot-rates-jump-ahead-of-holidays-0ee7e73777/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=0ee7e73777",
    "caption": "Spot rates jump ahead of holidays.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-15T01:40:43.671485+00:00",
    "published": "2026-11-15T01:30:00+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122104432059544428",
+   "posted_at": "2026-11-15T01:51:28.872065+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Spot rates jump ahead of holidays | HaulTimes",
@@ -2154,7 +2154,9 @@
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-15T01:51:28.872065+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122104432059544428"
   }
  },
  "paused": null,
@@ -2387,6 +2389,10 @@
   {
    "at": "2026-11-14T19:31:21.329084+00:00",
    "msg": "posted 1829c5f30d"
+  },
+  {
+   "at": "2026-11-15T01:51:28.872065+00:00",
+   "msg": "posted 0ee7e73777"
   }
  ],
  "decided": {
@@ -2697,7 +2703,7 @@
   "1829c5f30d": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 20 min in queue",
   "c783714194": "skipped|importance 51 is below this platform's threshold (65)",
   "2a8b38f223": "skipped|importance 45 is below this platform's threshold (65)",
-  "0ee7e73777": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
+  "0ee7e73777": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
  },
  "decisions": [
   {
@@ -5268,6 +5274,13 @@
    "title": "Spot rates jump ahead of holidays",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-15T01:51:28.872065+00:00",
+   "story_id": "0ee7e73777",
+   "title": "Spot rates jump ahead of holidays",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
