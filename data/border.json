@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:11:05.660025+00:00",
+ "updated": "2026-11-15T17:13:24.236278+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -826,7 +826,7 @@
      0
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 6 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -1086,7 +1086,7 @@
      50,
      25,
      13,
-     34,
+     42,
      null,
      4,
      0,
