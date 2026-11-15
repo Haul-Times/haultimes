@@ -217,6 +217,35 @@
   "sum_v3": true
  },
  {
+  "id": "f1c29fadd9",
+  "slug": "berri-transport-operator-faces-36-driving-charges-f1c29fadd9",
+  "title": "Berri transport operator faces 36 driving charges",
+  "orig_title": "Berri transport operator faces 36 driving charges",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Murray Pioneer",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUU0RF9QejNuYlZHQ3hSTnJReGxZSE1QX0FoM2QzbTBKVWJXMmNzX0hibUNMVk9sZks2NVMtaEJkd0U2dVJDNTZJVWthd0s0cEJYTWVTY2lKZ0l1NkpGbFNTWmNxQUFKVU9ZODVjSXUzUFVaUW5WMFY2NUZJUGJrVm80YmlTN2MxSTlV?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUU0RF9QejNuYlZHQ3hSTnJReGxZSE1QX0FoM2QzbTBKVWJXMmNzX0hibUNMVk9sZks2NVMtaEJkd0U2dVJDNTZJVWthd0s0cEJYTWVTY2lKZ0l1NkpGbFNTWmNxQUFKVU9ZODVjSXUzUFVaUW5WMFY2NUZJUGJrVm80YmlTN2MxSTlV",
+  "snippet": "Berri transport operator faces 36 driving charges Murray Pioneer",
+  "published": "2026-11-15T08:18:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-15T16:41:01.584731+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "62b769d904",
   "slug": "corry-scalone-obituary-1945-2026-richmond-va-richmond-times-dispatch-62b769d904",
   "title": "Corry Scalone Obituary (1945 - 2026) - Richmond, VA - Richmond Times-Dispatch",
@@ -17471,35 +17500,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "31dd0543a6",
-  "slug": "chile-trucker-protest-over-fuel-prices-threatens-agricultural-exports-31dd0543a6",
-  "title": "Chile Trucker Protest Over Fuel Prices Threatens Agricultural Exports",
-  "orig_title": "Chile Trucker Protest Over Fuel Prices Threatens Agricultural Exports",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWxUbjlXMXo4eUpnM2hhbkZtTldZbW5zLTBzYzdydmxsSXc0MXpjMTVZeUdPbHNScTkwWDR0czdMaWlDWWVLU1BpNVlnNEJRQXF6amNTR3hXOWV3WWw5UEJvQ0twOGJ3SUxidFI3VWZPQzdYRGozbXA4RlJyRFpvMS1DYlFXemVwWDBmeFo2WW82REdxU01ITmdOSHFxODFtaVkwbUZWdDR1NUJFNnh3Rw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWxUbjlXMXo4eUpnM2hhbkZtTldZbW5zLTBzYzdydmxsSXc0MXpjMTVZeUdPbHNScTkwWDR0czdMaWlDWWVLU1BpNVlnNEJRQXF6amNTR3hXOWV3WWw5UEJvQ0twOGJ3SUxidFI3VWZPQzdYRGozbXA4RlJyRFpvMS1DYlFXemVwWDBmeFo2WW82REdxU01ITmdOSHFxODFtaVkwbUZWdDR1NUJFNnh3Rw",
-  "snippet": "Chile Trucker Protest Over Fuel Prices Threatens Agricultural Exports Bloomberg.com",
-  "published": "2026-11-11T14:16:11+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T16:32:23.226338+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "176ef31b00",
