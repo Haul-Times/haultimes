@@ -2717,7 +2717,8 @@
   "2a8b38f223": "skipped|importance 45 is below this platform's threshold (65)",
   "0ee7e73777": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
   "79a143e46d": "skipped|importance 55 is below this platform's threshold (65)",
-  "1fac8561c7": "skipped|minor item (event) or low-quality source"
+  "1fac8561c7": "skipped|minor item (event) or low-quality source",
+  "37a3645a43": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5309,6 +5310,13 @@
    "title": "HD Hyundai Oilbank Awards Scholarships to Truck Drivers' Children",
    "action": "skipped",
    "reason": "minor item (event) or low-quality source"
+  },
+  {
+   "at": "2026-11-15T11:21:46.669706+00:00",
+   "story_id": "37a3645a43",
+   "title": "Small town residents cry for help as immigrant influx fueled by trucking industry has unintended consequences",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
