@@ -188,6 +188,35 @@
   "sum_pending": false
  },
  {
+  "id": "7c71f1f2b4",
+  "slug": "masked-dirt-bike-riders-swarm-suv-in-brazen-nyc-street-attack-sparking-7c71f1f2b4",
+  "title": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
+  "orig_title": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Yahoo",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS1Z1MW9iLUZCU3VxOWFLdGZTU1E2MmxnUzFNa1ZhenpaQkpOM3NTQUhSWnd1cUo1V0ZQMGo5QW9FV09kSm5saG15cy10dGYwZXg2ZnlsMld6S2ZiOEY0bXJhYVVtQjRPQWZ6aEhNQ1hrWXZuSU4wcWd4Z3YzdEtBdEs1QVFaWU0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS1Z1MW9iLUZCU3VxOWFLdGZTU1E2MmxnUzFNa1ZhenpaQkpOM3NTQUhSWnd1cUo1V0ZQMGo5QW9FV09kSm5saG15cy10dGYwZXg2ZnlsMld6S2ZiOEY0bXJhYVVtQjRPQWZ6aEhNQ1hrWXZuSU4wcWd4Z3YzdEtBdEs1QVFaWU0",
+  "snippet": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown Yahoo",
+  "published": "2026-11-15T04:55:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-15T13:31:03.208832+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "1fac8561c7",
   "slug": "hd-hyundai-oilbank-awards-scholarships-to-truck-drivers-children-1fac8561c7",
   "title": "HD Hyundai Oilbank Awards Scholarships to Truck Drivers' Children",
@@ -18275,35 +18304,6 @@
   "sum_pending": false
  },
  {
-  "id": "6c46141ee5",
-  "slug": "barlow-s-research-roundup-it-s-too-early-to-increase-immigration-says-6c46141ee5",
-  "title": "Barlow’s Research Roundup: It’s too early to increase immigration, says BMO chief economist",
-  "orig_title": "Barlow’s Research Roundup: It’s too early to increase immigration, says BMO chief economist",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmVUUllBd1dsTV9hdHJQTDRtY2JYNzRiSTZLeHhVazVUSk1lZWZoOEFBcXJBdmdpS3FWQWZ4WWI5Z0tLQnI0VV83SUFvcmI5YUZ4di02Rmw4OHNsVDFPRGdwUXVaRHV1OFEyTTVKcVZKQ2tydG5sejIxSlJKUlVWMVQ5REhJYWQtcm1QcUgyVHhWMGRDeEhTOGxzQUxISTFWYVVfZDdydFU5NnNwTnItWTFIaHljOUhrYkJJWS1UUWxwMFdGVm5jUmw0T3MxMnhYaXQ3TVRvN2hUZkY2?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmVUUllBd1dsTV9hdHJQTDRtY2JYNzRiSTZLeHhVazVUSk1lZWZoOEFBcXJBdmdpS3FWQWZ4WWI5Z0tLQnI0VV83SUFvcmI5YUZ4di02Rmw4OHNsVDFPRGdwUXVaRHV1OFEyTTVKcVZKQ2tydG5sejIxSlJKUlVWMVQ5REhJYWQtcm1QcUgyVHhWMGRDeEhTOGxzQUxISTFWYVVfZDdydFU5NnNwTnItWTFIaHljOUhrYkJJWS1UUWxwMFdGVm5jUmw0T3MxMnhYaXQ3TVRvN2hUZkY2",
-  "snippet": "Barlow’s Research Roundup: It’s too early to increase immigration, says BMO chief economist The Globe and Mail",
-  "published": "2026-11-11T13:09:41+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T13:21:07.682701+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "5a74479769",
   "slug": "astic-assures-that-99-of-its-carriers-continues-working-and-only-detec-5a74479769",
   "title": "Astic assures that 99% of its carriers continues working and only detects occasional delays",
@@ -18536,35 +18536,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "f1a98ae019",
-  "slug": "paula-ochoa-f1a98ae019",
-  "title": "Paula Ochoa",
-  "orig_title": "Paula Ochoa",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Db3VBUWVuaHdTNm9aanhBd3lnMW90RzV5RkJwRV9fcVR3VjFURzNZemRDMG9nQVB3bW90cm9IRDd6T2JtUFcyRU5kcE9MWlVGVzZrMkx3enZJTnJlNUZYblZpUjlEeHc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Db3VBUWVuaHdTNm9aanhBd3lnMW90RzV5RkJwRV9fcVR3VjFURzNZemRDMG9nQVB3bW90cm9IRDd6T2JtUFcyRU5kcE9MWlVGVzZrMkx3enZJTnJlNUZYblZpUjlEeHc",
-  "snippet": "Paula Ochoa FreightWaves",
-  "published": "2026-11-11T11:51:03+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T13:21:07.682701+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
   ],
   "labels": [],
   "kind": "rejected",
