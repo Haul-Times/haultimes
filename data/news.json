@@ -15760,35 +15760,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "f1d08f5102",
-  "slug": "ai-equipment-theft-150m-stolen-in-2024-f1d08f5102",
-  "title": "AI Equipment Theft: $150M Stolen in 2024",
-  "orig_title": "AI Equipment Theft: $150M Stolen in 2024",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Supply & Demand Chain Executive",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXNCRG5CZlBLR0lmcnhEaFpKZEF2R1RzTGVBWC1sXzR5X3JHaEt3WklnNDI1a3FwM2twVld0cnpIbnJ1eFdFNHZ1T0tBTDZqblhJNVdEN2lia2Q0Q3VaMi1ydENHNVV5Qjl2RWUzQkZUaEJyWGNJcW4xOTc1YWZYdVVuYlRJc3E2WTVNNktBcVpKX1Z3U2Nwdm9feE9rVDJkb2NXN2FhTFoyVDZTNjItZnA1TQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXNCRG5CZlBLR0lmcnhEaFpKZEF2R1RzTGVBWC1sXzR5X3JHaEt3WklnNDI1a3FwM2twVld0cnpIbnJ1eFdFNHZ1T0tBTDZqblhJNVdEN2lia2Q0Q3VaMi1ydENHNVV5Qjl2RWUzQkZUaEJyWGNJcW4xOTc1YWZYdVVuYlRJc3E2WTVNNktBcVpKX1Z3U2Nwdm9feE9rVDJkb2NXN2FhTFoyVDZTNjItZnA1TQ",
-  "snippet": "AI Equipment Theft: $150M Stolen in 2024 Supply & Demand Chain Executive",
-  "published": "2026-11-11T19:31:19+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T19:41:05.653426+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "91fd0d9dc8",
   "slug": "watch-live-transportation-secretary-duffy-hosts-veterans-day-trucking-91fd0d9dc8",
   "title": "WATCH LIVE: Transportation Secretary Duffy hosts Veterans Day trucking industry event",
@@ -16128,35 +16099,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "171ea47f30",
-  "slug": "the-last-mile-is-hiring-freight-is-not-171ea47f30",
-  "title": "The Last Mile Is Hiring, Freight Is Not",
-  "orig_title": "The Last Mile Is Hiring, Freight Is Not",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "WWD",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnJFV0pFbklqeVZQN25CSzdfVE1Oc3Y3Qkx2LTQtc2dlWWg3OGpYTzFSVndiQ09ocENUSTctQlIxWmVHSW5WUGt4Mmd5QnpQT09JSkZCNlgzbl83ck85dEtpOGgxNEs1RVZHd3NCOGV5YTdSRVEwaU9nU0d6R1pXRDZNVFFSMmFsTVVxOWNPSGxNTlZLTXd3N3lvZEg0Zy1uMk1QdlAyTjkxcFdPbTNoT25pdHhkNTlpclo2ODdIdmtpMFV1M1Z2bjN3?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnJFV0pFbklqeVZQN25CSzdfVE1Oc3Y3Qkx2LTQtc2dlWWg3OGpYTzFSVndiQ09ocENUSTctQlIxWmVHSW5WUGt4Mmd5QnpQT09JSkZCNlgzbl83ck85dEtpOGgxNEs1RVZHd3NCOGV5YTdSRVEwaU9nU0d6R1pXRDZNVFFSMmFsTVVxOWNPSGxNTlZLTXd3N3lvZEg0Zy1uMk1QdlAyTjkxcFdPbTNoT25pdHhkNTlpclo2ODdIdmtpMFV1M1Z2bjN3",
-  "snippet": "The Last Mile Is Hiring, Freight Is Not WWD",
-  "published": "2026-11-11T18:43:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T19:41:05.653426+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "e5156f1497",
@@ -23056,36 +22998,6 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false
- },
- {
-  "id": "59daacd335",
-  "slug": "cargo-thefts-are-down-but-losses-are-up-59daacd335",
-  "title": "Cargo thefts are down, but losses are up",
-  "orig_title": "Cargo thefts are down, but losses are up",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 57,
-  "source": "PropertyCasualty360",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOE9OeGZheW50WU5lbnRia0h5Yl9qdUZKUmRtUk1DZEd3NEstRU5xRGtKN1FSeW9zTWNSRkVIdkVjN1ZyUU02dk5veXdSVEE1aE5RUFM5amdYdWxtYTdmbE4yMHZNYzFGbjVWQ2xzTkR4VDhzb3BfM2tlRm1nbXY2d2dpVnZDZG05R2NqWXNZWjk?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOE9OeGZheW50WU5lbnRia0h5Yl9qdUZKUmRtUk1DZEd3NEstRU5xRGtKN1FSeW9zTWNSRkVIdkVjN1ZyUU02dk5veXdSVEE1aE5RUFM5amdYdWxtYTdmbE4yMHZNYzFGbjVWQ2xzTkR4VDhzb3BfM2tlRm1nbXY2d2dpVnZDZG05R2NqWXNZWjk",
-  "snippet": "Cargo thefts are down, but losses are up PropertyCasualty360",
-  "published": "2026-11-09T09:30:23+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T19:31:30.709904+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Verisk CargoNet reports higher cargo theft losses despite fewer incidents"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "16c6f27b45"
  },
  {
   "id": "09353b98bc",

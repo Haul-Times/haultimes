@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:31:03.016976+00:00",
+ "updated": "2026-11-15T19:41:05.917853+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:17 pm EST",
+    "updated": "At 2:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:17 pm EST",
+    "updated": "At 2:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "14:23:15",
+    "updated": "14:38:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -713,7 +713,7 @@
      0,
      0,
      0,
-     2,
+     3,
      0,
      0,
      0,
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-15 13:23 EST"
+    "updated": "2026-11-15 14:27 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:23:15",
+    "updated": "14:38:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1088,7 +1088,7 @@
      13,
      53,
      58,
-     30,
+     33,
      0,
      0,
      0,
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 20,
+    "status": "delay"
    },
    {
     "name": "Norton",
