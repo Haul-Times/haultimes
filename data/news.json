@@ -4,10 +4,10 @@
   "slug": "bipartisan-bill-to-require-truck-driver-bathroom-access-at-shippers-an-23f1039fed",
   "title": "Bipartisan bill to require truck driver bathroom access at shippers and receivers",
   "orig_title": "Bipartisan bill to require truck driver bathroom access at shippers and receivers",
-  "summary": "",
+  "summary": "Two senators from opposite parties, Deb Fischer (R-Neb.) and Lisa Blunt Rochester (D-Del.), introduced the Trucker Bathroom Access Bill on November 12, 2026, and a companion version was introduced in the House. If passed, the measure would give drivers picking up or delivering freight the same restroom access as a business’s customers or employees, at shippers, receivers, manufacturers, warehouses and distribution centers. The bill would not require businesses to build new restroom facilities. Several trucking groups have endorsed it, including the Owner-Operator Independent Drivers Association, the American Trucking Association, Women in Trucking Association, She Trucking and Trinity Logistics.",
   "why": "",
   "category": "regs",
-  "region": "",
+  "region": "US",
   "importance": 50,
   "source": "CDLLife",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTI1V2JKYjNFaWU4aUpRMFJXY2xfTWctajRvRUdvS0twTERjTC1ib2FpRV9nc3gtYXdiaHlPUm1pNTQxVTVja1Q1Q0RSXzdORkhoSUtFWE1wWm5neFFWbXBiaC1aX2FtSjlyMTV1OW9JVTBuTjBCcDBoSHlOYVFJcF85RGFEYWExYXZGQXBSMXRyWWE4dHY2STgzeVc2UlJ6dDJJWnRxNFQyYWs?oc=5",
@@ -29,17 +29,34 @@
   "pub_url": "https://cdllife.com/2026/bipartisan-bill-to-require-truck-driver-bathroom-access-at-shippers-and-receivers/",
   "source_note": "ok · 532 words",
   "sum_done": true,
-  "sum_status": "withheld",
+  "sum_status": "published",
   "source_fp": "cd8bc4d4e4a15a12",
   "source_scope": "full_article",
-  "sum_at": "2026-11-15T21:21:13.152772+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-15T21:27:45.144844+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "introduced the Trucker Bathroom Access Bill"
+   },
+   {
+    "sentence": "2",
+    "quote": "the same restroom access as a business’s customers or employees"
+   },
+   {
+    "sentence": "3",
+    "quote": "would not require that businesses build new restroom facilities"
+   },
+   {
+    "sentence": "4",
+    "quote": "endorsed by several trucking groups, including"
+   }
   ],
-  "ai_importance": 50
+  "sum_problems": [],
+  "ai_importance": 45,
+  "sum_v4": true,
+  "ai_category": "drivers"
  },
  {
   "id": "9dc3cf1926",
