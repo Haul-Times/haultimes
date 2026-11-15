@@ -2718,7 +2718,8 @@
   "0ee7e73777": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
   "79a143e46d": "skipped|importance 55 is below this platform's threshold (65)",
   "1fac8561c7": "skipped|minor item (event) or low-quality source",
-  "37a3645a43": "skipped|importance 50 is below this platform's threshold (65)"
+  "37a3645a43": "skipped|importance 50 is below this platform's threshold (65)",
+  "03e5744700": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5317,6 +5318,13 @@
    "title": "Small town residents cry for help as immigrant influx fueled by trucking industry has unintended consequences",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-15T12:11:20.656488+00:00",
+   "story_id": "03e5744700",
+   "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
