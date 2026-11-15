@@ -17435,35 +17435,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "6e00813a60",
-  "slug": "baird-downgrades-nvidia-on-china-curbs-ai-demand-worries-6e00813a60",
-  "title": "Baird downgrades Nvidia on China curbs, AI demand worries",
-  "orig_title": "Baird downgrades Nvidia on China curbs, AI demand worries",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUNnRzNLVDJlc0RNSlkzcjkzSkhTVkdZQU9CSG5obHNiME1rV3NaSS1zMTFPdnBtVUZzaVpjVlZ5UzhTUmdxd3RHX3NSdnZ4VUNSRGZSelFqZF96XzNLclY2Y3Fsc0ZCbEdibDR2NjF3QzRqb1EzVFBHeVlKejRMSDhZc3dFV3ZUY1JiZVd0OEVaZnU4c280Ty1YbWNMMkRBMEQ1NTRLczNvSW8?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUNnRzNLVDJlc0RNSlkzcjkzSkhTVkdZQU9CSG5obHNiME1rV3NaSS1zMTFPdnBtVUZzaVpjVlZ5UzhTUmdxd3RHX3NSdnZ4VUNSRGZSelFqZF96XzNLclY2Y3Fsc0ZCbEdibDR2NjF3QzRqb1EzVFBHeVlKejRMSDhZc3dFV3ZUY1JiZVd0OEVaZnU4c280Ty1YbWNMMkRBMEQ1NTRLczNvSW8",
-  "snippet": "Baird downgrades Nvidia on China curbs, AI demand worries The Globe and Mail",
-  "published": "2026-11-11T14:44:46+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-11T15:11:13.853909+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "stock commentary, no trucking development"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "354bac58b9",
   "slug": "us-rail-traffic-hits-intermodal-record-as-october-freight-gains-signal-354bac58b9",
   "title": "US rail traffic hits intermodal record as October freight gains signal economic resilience, says AAR",
