@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:13:24.236278+00:00",
+ "updated": "2026-11-15T17:21:05.676654+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
-    "lanes": "4",
-    "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "lanes": "2",
+    "status": "delay",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -111,7 +111,7 @@
      0,
      0,
      0,
-     0,
+     3,
      null,
      0,
      12,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At Noon EST",
+    "updated": "At 12:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -287,7 +287,7 @@
      4,
      3,
      5,
-     6,
+     7,
      null,
      10,
      2,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At Noon EST",
+    "updated": "At 12:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "12:08:06",
+    "updated": "12:18:06",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -687,15 +687,15 @@
    "south": {
     "wait": 0,
     "fast_wait": 0,
-    "lanes": "1",
+    "lanes": "2",
     "status": "no delay",
-    "updated": "At Noon EST",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-15 10:15 EST"
+    "updated": "2026-11-15 11:15 EST"
    },
    "usual": {
     "south": [
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:08:06",
+    "updated": "12:18:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1086,7 +1086,7 @@
      50,
      25,
      13,
-     42,
+     47,
      null,
      4,
      0,
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-15 10:17 MDT"
+    "updated": "2026-11-15 11:06 MDT"
    },
    "usual": {
     "south": [
@@ -1278,11 +1278,11 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 30,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 8:00 am PST",
+    "status": "no delay",
+    "updated": "At 9:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1304,7 +1304,7 @@
      0,
      10,
      28,
-     30,
+     22,
      null,
      0,
      0,
@@ -1330,7 +1330,7 @@
      5,
      5,
      6,
-     7,
+     6,
      null,
      5,
      7,
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 221",
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },
