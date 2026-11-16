@@ -2594,6 +2594,34 @@
     "created": "2026-11-16T21:31:54+0000",
     "at": "2026-11-16T21:41:23.476840+00:00"
    }
+  },
+  "736ebd8ba5": {
+   "story_id": "736ebd8ba5",
+   "title": "New York defeats FMCSA in major legal battle over non-domiciled CDLs",
+   "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVFkc1hKeExHNW5UZlRWQktsck1hOVlfZllVOGpiSThpUVpWc1l5U1NWMkNuQWhGbUFkSGJhZTY5WUVaa2daaERCa1hFbnRvczh1bENVOE84T2IxSnlVM0JnQzlRT0o5aXNrcTJmd3BaSFdjR1JoSmdGMTRfMFhfdXIzaHpHS1ZnejNTbEFPZ0dNVFpBQ25JN2ozWWZhejNBVVN6UzFPekc0MHctRVFwOEw3RXBfVmNxb0hpY3BKRE5oWFZhQ0lj",
+   "category": "regs",
+   "source": "www.overdriveonline.com",
+   "dest": "https://haultimes.com/story/new-york-defeats-fmcsa-in-major-legal-battle-over-non-domiciled-cdls-736ebd8ba5/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=736ebd8ba5",
+   "caption": "New York defeats FMCSA in major legal battle over non-domiciled CDLs.\n\nReported by www.overdriveonline. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-16T22:11:27.376514+00:00",
+   "published": "2026-11-16T22:07:37+00:00",
+   "score": 87,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "New York defeats FMCSA in major legal battle over non-domiciled CDLs | HaulTimes",
+    "og:description": "Reported by www.overdriveonline.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/03fe2af0af.png",
+    "og:url": "https://haultimes.com/story/new-york-defeats-fmcsa-in-major-legal-battle-over-non-domiciled-cdls-736ebd8ba5/"
+   },
+   "reason": "importance 87 (threshold 65), Regulations, trade publication",
+   "breaking": "breaking: importance 87, reported by a trade publication of record",
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -3254,7 +3282,9 @@
   "5ae1ae5c75": "skipped|importance 62 is below this platform's threshold (65)",
   "ae54141f56": "skipped|importance 55 is below this platform's threshold (65)",
   "e7a707cad0": "skipped|importance 57 is below this platform's threshold (65)",
-  "815d03511b": "skipped|minor item (incident) or low-quality source"
+  "815d03511b": "skipped|minor item (incident) or low-quality source",
+  "736ebd8ba5": "queued|importance 87 (threshold 65), Regulations, trade publication",
+  "0db08617d2": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6378,6 +6408,20 @@
    "title": "Missouri governor calls on Illinois to weed out illegal truck drivers after mother, children killed in ‘devastating’ Kansas City crash",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-16T22:11:27.376514+00:00",
+   "story_id": "736ebd8ba5",
+   "title": "New York defeats FMCSA in major legal battle over non-domiciled CDLs",
+   "action": "queued",
+   "reason": "importance 87 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-16T22:11:27.376514+00:00",
+   "story_id": "0db08617d2",
+   "title": "Meta pays Nevoya to put 25 electric trucks on I-10",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
