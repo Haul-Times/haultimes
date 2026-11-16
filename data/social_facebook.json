@@ -2607,8 +2607,13 @@
    "created_at": "2026-11-16T22:11:27.376514+00:00",
    "published": "2026-11-16T22:07:37+00:00",
    "score": 87,
-   "attempts": 0,
-   "errors": [],
+   "attempts": 1,
+   "errors": [
+    {
+     "at": "2026-11-16T22:21:28.069212+00:00",
+     "msg": "Facebook error 368: We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More"
+    }
+   ],
    "post_id": null,
    "posted_at": null,
    "next_attempt_at": null,
@@ -2621,10 +2626,15 @@
    "reason": "importance 87 (threshold 65), Regulations, trade publication",
    "breaking": "breaking: importance 87, reported by a trade publication of record",
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-16T22:21:28.069212+00:00"
   }
  },
- "paused": null,
+ "paused": {
+  "reason": "Facebook error 368: We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More",
+  "at": "2026-11-16T22:21:28.069212+00:00",
+  "token": "45e47322b1f3"
+ },
  "account": {
   "name": "HaulTimes",
   "checked_at": "2026-11-16T03:51:24.705027+00:00",
