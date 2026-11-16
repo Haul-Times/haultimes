@@ -2854,7 +2854,9 @@
   "9fd2667383": "posted|importance 68 (threshold 65), Rates & Market, established outlet; waited 20 min in queue",
   "6d4a0ae575": "skipped|importance 56 is below this platform's threshold (65)",
   "8722617d12": "skipped|importance 56 is below this platform's threshold (65)",
-  "79bebecd88": "skipped|importance 55 is below this platform's threshold (65)"
+  "79bebecd88": "skipped|importance 55 is below this platform's threshold (65)",
+  "3e8d760ee0": "skipped|importance 45 is below this platform's threshold (65)",
+  "7cd9f00275": "skipped|minor item (feature) or low-quality source"
  },
  "decisions": [
   {
@@ -5663,6 +5665,20 @@
    "title": "UPS accident in Miami sidelines 767 freighter during busy shipping season",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T16:41:39.224842+00:00",
+   "story_id": "3e8d760ee0",
+   "title": "Detroit Free Press. . Ford Vault is full of rare concept and race cars as part of the company’s heritage fleet. 🎥 Justin Wan/DFP",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T16:41:39.224842+00:00",
+   "story_id": "7cd9f00275",
+   "title": "New York Wins Court Battle Over $73M Highway Funding Freeze Tied to Immigrant Truckers",
+   "action": "skipped",
+   "reason": "minor item (feature) or low-quality source"
   }
  ],
  "visibility": {

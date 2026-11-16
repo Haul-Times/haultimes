@@ -1,5 +1,69 @@
 [
  {
+  "id": "7cd9f00275",
+  "slug": "new-york-wins-court-battle-over-73m-highway-funding-freeze-tied-to-imm-7cd9f00275",
+  "title": "New York Wins Court Battle Over $73M Highway Funding Freeze Tied to Immigrant Truckers",
+  "orig_title": "New York Wins Court Battle Over $73M Highway Funding Freeze Tied to Immigrant Truckers",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "US",
+  "importance": 25,
+  "source": "Latin Times",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXYtV2Y5MnhBNjdIQlN5LXJyZWhWVUFkNEN6bEdYdXR6RldRbGVmOGhWenI5c2hCbnd0ZXFzRTFZbjZqQjVpUWZjLW4xY0N6VGtnMy12TXI5cWpjRkM5czEweHh6MVRGeU45cGtVajQzc3BzejhyUlZzQU8tMF9VSUdpVjRQUDg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXYtV2Y5MnhBNjdIQlN5LXJyZWhWVUFkNEN6bEdYdXR6RldRbGVmOGhWenI5c2hCbnd0ZXFzRTFZbjZqQjVpUWZjLW4xY0N6VGtnMy12TXI5cWpjRkM5czEweHh6MVRGeU45cGtVajQzc3BzejhyUlZzQU8tMF9VSUdpVjRQUDg",
+  "snippet": "New York Wins Court Battle Over $73M Highway Funding Freeze Tied to Immigrant Truckers Latin Times",
+  "published": "2026-11-16T16:30:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T16:41:03.100211+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "feature",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.latintimes.com/second-circuit-restores-new-york-highway-funds-601379",
+  "source_note": "ok · 1002 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "bbfacff8e8bb0cfe",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T16:41:03.100211+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "set aside the Trump administration's decision to withhold $73.5 million"
+   },
+   {
+    "sentence": "2",
+    "quote": "ruled on November 13 that the Federal Motor Carrier Safety Administration's April determination"
+   },
+   {
+    "sentence": "3",
+    "quote": "exceeded its statutory authority and failed to provide New York with adequate notice"
+   },
+   {
+    "sentence": "4",
+    "quote": "101 of 200 sampled New York commercial driver's licenses"
+   },
+   {
+    "sentence": "5",
+    "quote": "demanded that the state revoke nearly 33,000 non-domiciled CDLs"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'ruled on november 13 that the federal motor carrier safety administrat'"
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 70
+ },
+ {
   "id": "79bebecd88",
   "slug": "ups-accident-in-miami-sidelines-767-freighter-during-busy-shipping-sea-79bebecd88",
   "title": "UPS accident in Miami sidelines 767 freighter during busy shipping season",
@@ -295,6 +359,35 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "19c59f2a56",
+  "slug": "russian-strikes-on-ukrainian-businesses-kill-two-and-injure-at-least-t-19c59f2a56",
+  "title": "Russian Strikes on Ukrainian Businesses Kill Two and Injure at Least Ten - Oj",
+  "orig_title": "Russian Strikes on Ukrainian Businesses Kill Two and Injure at Least Ten - Oj",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Odessa Journal",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2ZJWHlMaXFkdnAtalUxU21ubEVxU0N6SmxCQWRVNHIwLUo5NS14dzJqbmNmaXlJeW1OZ1BmTmxaMjE2NDlXOXkxQ2VyX1JaNXVTSW5EcTdEVUJSUUlNdmpoTno5Q0UwaXlPQUpYZ3FoU2dnS2hSbnp0R3BDQWswbjNDVVFsVks5MVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2ZJWHlMaXFkdnAtalUxU21ubEVxU0N6SmxCQWRVNHIwLUo5NS14dzJqbmNmaXlJeW1OZ1BmTmxaMjE2NDlXOXkxQ2VyX1JaNXVTSW5EcTdEVUJSUUlNdmpoTno5Q0UwaXlPQUpYZ3FoU2dnS2hSbnp0R3BDQWswbjNDVVFsVks5MVE",
+  "snippet": "Russian Strikes on Ukrainian Businesses Kill Two and Injure at Least Ten - Oj Odessa Journal",
+  "published": "2026-11-16T15:50:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T16:41:03.100211+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -865,6 +958,38 @@
   "sum_pending": false
  },
  {
+  "id": "3e8d760ee0",
+  "slug": "detroit-free-press-ford-vault-is-full-of-rare-concept-and-race-cars-as-3e8d760ee0",
+  "title": "Detroit Free Press. . Ford Vault is full of rare concept and race cars as part of the company’s heritage fleet. 🎥 Justin Wan/DFP",
+  "orig_title": "Detroit Free Press. . Ford Vault is full of rare concept and race cars as part of the company’s heritage fleet. 🎥 Justin Wan/DFP",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 45,
+  "source": "Facebook",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZE15Mk9VVm1ldGw3V2ZoS0J6M2JTLVRjRDNoZVlLdmVKY0M5MkVMeDBCWC1ORk84N2RvSXd1eHRRRHQ3NE5BNG5lUVlCa25yN25UUjZNN2RkTVdhb1BSUGlZelRNa0JxbGE1TmlZU3lEaDNNa3VZMmN0SnNGci1BSnJmOWVTVUNLUUdnTWxFWnRrUEJfd3pOQk9fcmQ0ejBnZlVXQVBlYXVheDVUZndNXzF4Z1BwdTlqOC1VcUplcTFCcmlCaGtYekcycw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZE15Mk9VVm1ldGw3V2ZoS0J6M2JTLVRjRDNoZVlLdmVKY0M5MkVMeDBCWC1ORk84N2RvSXd1eHRRRHQ3NE5BNG5lUVlCa25yN25UUjZNN2RkTVdhb1BSUGlZelRNa0JxbGE1TmlZU3lEaDNNa3VZMmN0SnNGci1BSnJmOWVTVUNLUUdnTWxFWnRrUEJfd3pOQk9fcmQ0ejBnZlVXQVBlYXVheDVUZndNXzF4Z1BwdTlqOC1VcUplcTFCcmlCaGtYekcycw",
+  "snippet": "Detroit Free Press. . Ford Vault is full of rare concept and race cars as part of the company’s heritage fleet. 🎥 Justin Wan/DFP Facebook",
+  "published": "2026-11-16T14:17:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T16:41:03.100211+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.facebook.com/detroitfreepress/videos/fords-employee-only-warehouse-that-keeps-its-iconic-concept-cars/1853644759000171/",
+  "source_note": "robots.txt disallows",
+  "sum_done": true,
+  "sum_status": "no source text (robots.txt disallows)"
+ },
+ {
   "id": "bcd5502d2c",
   "slug": "owl-survives-65mph-collision-with-tractor-trailer-rescued-by-carlisle-bcd5502d2c",
   "title": "Owl survives 65mph collision with tractor-trailer, rescued by Carlisle trucking company",
@@ -932,6 +1057,35 @@
   "ai_category": "other",
   "ai_importance": 8,
   "ai_relevant": false
+ },
+ {
+  "id": "71bd7c1115",
+  "slug": "man-wounded-confectionery-factory-warehouse-and-trucks-damaged-in-russ-71bd7c1115",
+  "title": "Man wounded, confectionery factory warehouse and trucks damaged in Russian strike on Dnipro",
+  "orig_title": "Man wounded, confectionery factory warehouse and trucks damaged in Russian strike on Dnipro",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Interfax-Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGODdmQjVWWDhoX3N2TzV0YXY3WElmbWhlUV9VSGZOMXFNRVJ0N0RXSlN3X3ZkOFA5MTZ4TWlKV3FRVEdGY0ZqR1RvSU1sZW0teWRJcWFEX0RsM0VMMHFXN1lCTGoxSEHSAWdBVV95cUxQRjg3ZkI1Vlg4aF9zdk81dGF2N1hJZm1oZVFfVUhmTjFxTUVSdDdEV0pTd192ZDhQOTE2eE1pSldxUVRHRmNGakdUb0lNbGVtLXlkSXFhRF9EbDNFTDBxVzdZQkxqMUhB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGODdmQjVWWDhoX3N2TzV0YXY3WElmbWhlUV9VSGZOMXFNRVJ0N0RXSlN3X3ZkOFA5MTZ4TWlKV3FRVEdGY0ZqR1RvSU1sZW0teWRJcWFEX0RsM0VMMHFXN1lCTGoxSEHSAWdBVV95cUxQRjg3ZkI1Vlg4aF9zdk81dGF2N1hJZm1oZVFfVUhmTjFxTUVSdDdEV0pTd192ZDhQOTE2eE1pSldxUVRHRmNGakdUb0lNbGVtLXlkSXFhRF9EbDNFTDBxVzdZQkxqMUhB",
+  "snippet": "Man wounded, confectionery factory warehouse and trucks damaged in Russian strike on Dnipro Interfax-Ukraine",
+  "published": "2026-11-16T14:07:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T16:41:03.100211+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "eb512cde1b",
@@ -15241,35 +15395,6 @@
   "published": "2026-11-12T16:34:33+00:00",
   "date_known": true,
   "first_seen": "2026-11-12T22:41:09.074522+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "945e158852",
-  "slug": "death-toll-rises-to-8-in-brooklyn-building-collapse-as-rescuers-dig-th-945e158852",
-  "title": "Death toll rises to 8 in Brooklyn building collapse as rescuers dig through rubble",
-  "orig_title": "Death toll rises to 8 in Brooklyn building collapse as rescuers dig through rubble",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3J6Zm1pSUxUTG9oaTVvbmJfekstc3RERWRwb0JLdHBIMVRSTGU2dW9KRU80eEU5cVZWcXlnMDlEeFgzRE1KZVR4eWIzLW9HUTNOSVpOaDM5NGp4NmdPTU50RG9XQlp6VkFZSi1PRVZiM05xWm5iLWFZRWhLQ2ozSGdoMElmYzVtcE1IT2V1bEJxdGt2dGdkVHNvdzQ0QWVUZGtxeU40X05RZUY3c1lxbE1ldDVrMU1tOGlFSg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3J6Zm1pSUxUTG9oaTVvbmJfekstc3RERWRwb0JLdHBIMVRSTGU2dW9KRU80eEU5cVZWcXlnMDlEeFgzRE1KZVR4eWIzLW9HUTNOSVpOaDM5NGp4NmdPTU50RG9XQlp6VkFZSi1PRVZiM05xWm5iLWFZRWhLQ2ozSGdoMElmYzVtcE1IT2V1bEJxdGt2dGdkVHNvdzQ0QWVUZGtxeU40X05RZUY3c1lxbE1ldDVrMU1tOGlFSg",
-  "snippet": "Death toll rises to 8 in Brooklyn building collapse as rescuers dig through rubble CTV News",
-  "published": "2026-11-12T16:31:48+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T16:41:02.802396+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
