@@ -3253,7 +3253,8 @@
   "fc0b58075a": "posted|breaking",
   "5ae1ae5c75": "skipped|importance 62 is below this platform's threshold (65)",
   "ae54141f56": "skipped|importance 55 is below this platform's threshold (65)",
-  "e7a707cad0": "skipped|importance 57 is below this platform's threshold (65)"
+  "e7a707cad0": "skipped|importance 57 is below this platform's threshold (65)",
+  "815d03511b": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -6370,6 +6371,13 @@
    "title": "From bus routes to ball games, diesel prices are squeezing rural Montana school budgets",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T21:51:33.533437+00:00",
+   "story_id": "815d03511b",
+   "title": "Missouri governor calls on Illinois to weed out illegal truck drivers after mother, children killed in ‘devastating’ Kansas City crash",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
