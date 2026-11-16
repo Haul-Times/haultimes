@@ -149,7 +149,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "source_note": "no publisher address: google page HTTPError",
+  "sum_status": "retrying (no publisher address: google page HTTPError)"
  },
  {
   "id": "37742997b4",
@@ -300,9 +303,10 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/truckstop-ftr-spot-rate-changes-are-mixed-as-usual-in-latest-week",
-  "source_note": "ok · 533 words"
+  "source_note": "no publisher address: google page HTTPError",
+  "sum_status": "retrying (no publisher address: google page HTTPError)"
  },
  {
   "id": "c8c8535966",
@@ -422,7 +426,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "8c2c5b57b2",
@@ -15361,64 +15369,6 @@
   "published": "2026-11-12T19:01:04+00:00",
   "date_known": true,
   "first_seen": "2026-11-12T23:51:06.267143+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "79e786b3c7",
-  "slug": "southern-california-ports-see-continued-surge-of-imports-79e786b3c7",
-  "title": "Southern California ports see continued surge of imports",
-  "orig_title": "Southern California ports see continued surge of imports",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CNi1mQzVKQUItNDdrWHd5czZ6dmRacEZTV051WVVEOS1TM1psU24yWGJOeExuLUpla3hUV1lnZWpxQ09faHpfalN0N2tjZ3pneEdwNTJFWWZmN2RXTXlpUmlKLUY?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CNi1mQzVKQUItNDdrWHd5czZ6dmRacEZTV051WVVEOS1TM1psU24yWGJOeExuLUpla3hUV1lnZWpxQ09faHpfalN0N2tjZ3pneEdwNTJFWWZmN2RXTXlpUmlKLUY",
-  "snippet": "Southern California ports see continued surge of imports Transport Topics",
-  "published": "2026-11-12T18:59:13+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T19:37:41.308056+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
- },
- {
-  "id": "42a4f7873c",
-  "slug": "how-operation-give-birds-gives-families-2-750-thanksgiving-meals-42a4f7873c",
-  "title": "How Operation Give Birds gives families 2,750 Thanksgiving meals",
-  "orig_title": "How Operation Give Birds gives families 2,750 Thanksgiving meals",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "KCRG",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3ppbUFUOVdmOXlkV0drRG1HVF9JYjA5dkU5U2VqUUk3S2pFT1JlT0l3V1lhWVRoRHVHX0ZJbkh4dTZCWkpLMjQyUzZsUmVwWHVJMEZ2NkpENFMwcGxldEJvdEtzSWlaYklzSXRZMnhhM2hjeHNyQm5ucGVyY3JuRS1NeGRSbWxfaXFhcUgycnJCVjZTdEtNcm9zY2lyTWRFazh4X09PRlBZUjN1YjBRa9IBsAFBVV95cUxNb3ppbUFUOVdmOXlkV0drRG1HVF9JYjA5dkU5U2VqUUk3S2pFT1JlT0l3V1lhWVRoRHVHX0ZJbkh4dTZCWkpLMjQyUzZsUmVwWHVJMEZ2NkpENFMwcGxldEJvdEtzSWlaYklzSXRZMnhhM2hjeHNyQm5ucGVyY3JuRS1NeGRSbWxfaXFhcUgycnJCVjZTdEtNcm9zY2lyTWRFazh4X09PRlBZUjN1YjBRaw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3ppbUFUOVdmOXlkV0drRG1HVF9JYjA5dkU5U2VqUUk3S2pFT1JlT0l3V1lhWVRoRHVHX0ZJbkh4dTZCWkpLMjQyUzZsUmVwWHVJMEZ2NkpENFMwcGxldEJvdEtzSWlaYklzSXRZMnhhM2hjeHNyQm5ucGVyY3JuRS1NeGRSbWxfaXFhcUgycnJCVjZTdEtNcm9zY2lyTWRFazh4X09PRlBZUjN1YjBRa9IBsAFBVV95cUxNb3ppbUFUOVdmOXlkV0drRG1HVF9JYjA5dkU5U2VqUUk3S2pFT1JlT0l3V1lhWVRoRHVHX0ZJbkh4dTZCWkpLMjQyUzZsUmVwWHVJMEZ2NkpENFMwcGxldEJvdEtzSWlaYklzSXRZMnhhM2hjeHNyQm5ucGVyY3JuRS1NeGRSbWxfaXFhcUgycnJCVjZTdEtNcm9zY2lyTWRFazh4X09PRlBZUjN1YjBRaw",
-  "snippet": "How Operation Give Birds gives families 2,750 Thanksgiving meals KCRG",
-  "published": "2026-11-12T18:46:38+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T19:41:03.620488+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
