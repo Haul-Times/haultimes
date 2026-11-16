@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:17:16.551795+00:00",
+ "updated": "2026-11-16T10:21:14.965628+00:00",
  "hour_now": 5,
  "have_us": true,
  "have_ca": true,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 5:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:14:45",
+    "updated": "05:19:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 am EST",
+    "updated": "At 7:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "05:14:46",
+    "updated": "05:19:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:14:46",
+    "updated": "05:19:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:14:46",
+    "updated": "05:19:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 5:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "05:14:46",
+    "updated": "05:19:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:14:46",
+    "updated": "04:19:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1248,7 +1248,7 @@
      15,
      13,
      13,
-     7,
+     6,
      0,
      0,
      0,
