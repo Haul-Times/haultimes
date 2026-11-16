@@ -2329,7 +2329,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-16T17:41:33.331588+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122106026661544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122106026661544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122106026661544428",
+    "created": "2026-11-16T17:41:33+0000",
+    "at": "2026-11-16T17:51:22.374595+00:00"
+   }
   },
   "34b43b0666": {
    "story_id": "34b43b0666",
@@ -5848,13 +5856,13 @@
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122106017247544428",
+  "post": "1476615495528085_122106026661544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122106017247544428",
-  "created": "2026-11-16T17:24:29+0000",
-  "at": "2026-11-16T17:31:17.878132+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122106026661544428",
+  "created": "2026-11-16T17:41:33+0000",
+  "at": "2026-11-16T17:51:22.374595+00:00"
  },
  "promo_i": 3
 }

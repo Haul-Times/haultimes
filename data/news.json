@@ -17195,36 +17195,6 @@
   "sum_pending": false
  },
  {
-  "id": "2a602fc976",
-  "slug": "laredo-trucking-company-owner-indicted-over-alleged-b-1-driver-scheme-2a602fc976",
-  "title": "Laredo trucking company owner indicted over alleged B-1 driver scheme",
-  "orig_title": "Laredo trucking company owner indicted over alleged B-1 driver scheme",
-  "summary": "",
-  "why": "",
-  "category": "border",
-  "region": "",
-  "importance": 57,
-  "source": "Beaumont Enterprise",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQajlNUDJyZEdWeWdYc3JYVTgwcTNTeEpwYzFvTElLOTBuZUVpZkpWNXRxRktxZ01XLWxZTzFLazAyUDhRN1pQX1JoZnpCZ3JlblJfTzFVbjlfellrOGJQdGV5UTlUZWs1ZmtkVHp6MEdjMUUzcjdJNDd1NXhmVkU3SXNaaTBXZVdEdi05U05CN25XMlg0cVlqWlpvbXJhNnBzcHpvWHRVcEI0bW1hRWpZ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQajlNUDJyZEdWeWdYc3JYVTgwcTNTeEpwYzFvTElLOTBuZUVpZkpWNXRxRktxZ01XLWxZTzFLazAyUDhRN1pQX1JoZnpCZ3JlblJfTzFVbjlfellrOGJQdGV5UTlUZWs1ZmtkVHp6MEdjMUUzcjdJNDd1NXhmVkU3SXNaaTBXZVdEdi05U05CN25XMlg0cVlqWlpvbXJhNnBzcHpvWHRVcEI0bW1hRWpZ",
-  "snippet": "Laredo trucking company owner indicted over alleged B-1 driver scheme Beaumont Enterprise",
-  "published": "2026-11-12T08:22:58+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T17:51:08.651934+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Texas trucking owner indicted in scheme involving 57 unauthorized drivers"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "131cd4219e"
- },
- {
   "id": "d50a0bc2e2",
   "slug": "trucking-conditions-deteriorated-in-september-with-fuel-s-spike-d50a0bc2e2",
   "title": "Trucking conditions deteriorated in September with fuel's spike",
@@ -26903,6 +26873,35 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
+  "sum_pending": false
+ },
+ {
+  "id": "773f78e86f",
+  "slug": "modes-archives-773f78e86f",
+  "title": "Modes Archives",
+  "orig_title": "Modes Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kSlJvWGtBRFgybGNkV3IzVXZranFsN2tNRWZhQnRYcmxCdzZMYmlGaUxIZGcxMGpxZ2QxU2dsTmJ0b2dQalZ0SlR6SGNIejNTcnFkdU1CcXFvRXJ1SkpZZWZKTQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kSlJvWGtBRFgybGNkV3IzVXZranFsN2tNRWZhQnRYcmxCdzZMYmlGaUxIZGcxMGpxZ2QxU2dsTmJ0b2dQalZ0SlR6SGNIejNTcnFkdU1CcXFvRXJ1SkpZZWZKTQ",
+  "snippet": "Modes Archives FreightWaves",
+  "published": "2026-11-05T23:36:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T17:51:09.536023+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
