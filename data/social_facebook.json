@@ -2317,7 +2317,7 @@
    "reason": "importance 70 (threshold 65), Equipment, established outlet",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": true
   },
   "34b43b0666": {
    "story_id": "34b43b0666",
@@ -2943,7 +2943,8 @@
   "7cd9f00275": "skipped|minor item (feature) or low-quality source",
   "931b43c9f1": "queued|importance 75 (threshold 65), Equipment, trade publication",
   "2763ad3e0b": "queued|importance 70 (threshold 65), Equipment, established outlet",
-  "34b43b0666": "queued|importance 67 (threshold 65), Regulations, trade publication"
+  "34b43b0666": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "67b90836d2": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5787,6 +5788,13 @@
    "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-16T17:21:45.931708+00:00",
+   "story_id": "67b90836d2",
+   "title": "Small sellers rethink free shipping over USPS 11% fuel fee",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
