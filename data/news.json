@@ -595,7 +595,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://igrownews.com/optimus-technologies-latest-news/",
   "source_note": "ok · 667 words"
