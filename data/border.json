@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:11:11.646387+00:00",
+ "updated": "2026-11-16T23:21:05.991530+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": 0,
     "lanes": "7",
-    "status": "delay",
-    "updated": "At 5:00 pm EST",
+    "status": "no delay",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -42,7 +42,7 @@
      9,
      21,
      17,
-     19,
+     17,
      20,
      0,
      10,
@@ -117,7 +117,7 @@
      42,
      27,
      36,
-     39,
+     38,
      35,
      35,
      35,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:57 pm EST",
+    "updated": "At 6:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -293,7 +293,7 @@
      4,
      5,
      6,
-     4,
+     5,
      4,
      2,
      2,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:57 pm EST",
+    "updated": "At 6:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -417,7 +417,7 @@
      0,
      8,
      16,
-     8,
+     10,
      0,
      0,
      0,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "18:05:42",
+    "updated": "18:15:43",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:05:42",
+    "updated": "18:15:43",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 4:00 pm CST",
+    "updated": "At 5:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1092,7 +1092,7 @@
      57,
      56,
      57,
-     30,
+     33,
      0,
      42,
      24,
@@ -1235,7 +1235,7 @@
      15,
      15,
      15,
-     25,
+     23,
      35,
      0,
      0,
@@ -1336,7 +1336,7 @@
      13,
      10,
      10,
-     12,
+     13,
      5,
      5,
      5,
