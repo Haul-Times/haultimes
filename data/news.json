@@ -2214,6 +2214,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "3b61c61e9d",
+  "slug": "man-gets-huge-tear-in-vehicle-s-coolant-hose-then-he-just-keeps-drivin-3b61c61e9d",
+  "title": "Man Gets Huge Tear In Vehicle's Coolant Hose. Then He Just Keeps Driving",
+  "orig_title": "Man Gets Huge Tear In Vehicle's Coolant Hose. Then He Just Keeps Driving",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Motor1.com",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HTTRLZkd3U3JpTG9uSS1UR0R0dHN5NnFWb3JrbU0zRExHN1ZwSGZjZ29SdlFPcXpQQ2FDVXdQME9rcmYxcDVTdDRURUpMN1BFdjc5bUV6MFhKb3JOb1dmRUNHUHN2Zmd1VG5R?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HTTRLZkd3U3JpTG9uSS1UR0R0dHN5NnFWb3JrbU0zRExHN1ZwSGZjZ29SdlFPcXpQQ2FDVXdQME9rcmYxcDVTdDRURUpMN1BFdjc5bUV6MFhKb3JOb1dmRUNHUHN2Zmd1VG5R",
+  "snippet": "Man Gets Huge Tear In Vehicle's Coolant Hose. Then He Just Keeps Driving Motor1.com",
+  "published": "2026-11-15T08:33:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T12:01:11.875144+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f1c29fadd9",
   "slug": "berri-transport-operator-faces-36-driving-charges-f1c29fadd9",
   "title": "Berri transport operator faces 36 driving charges",
@@ -2697,6 +2726,35 @@
   "sum_problems": [],
   "ai_category": "regs",
   "ai_importance": 78
+ },
+ {
+  "id": "5ff0d5b02d",
+  "slug": "aid-for-road-haulage-agriculture-and-fishing-green-light-for-the-decre-5ff0d5b02d",
+  "title": "Aid for road haulage, agriculture, and fishing: green light for the decree",
+  "orig_title": "Aid for road haulage, agriculture, and fishing: green light for the decree",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "L'Unione Sarda",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTJFWGlRdGNYdU95ZVFjVXMtOXQ2TTU5RnZnZE5ZU1dlOFI4ckdfTy1HRm9mVlh2S1VlWUs3c05jc1FONzdkSHlxVWNWVXNjalZLdm9nc3g2Q1dWZEx6V09nbGl3REZ1YUI4MHczN2NpNHdrVVJQbndjTk5OcTJlTFRvYUZXaGVlYjMwM0NnOHBZaW5IbTJMaWk0T3VUSnltbFdvR2czNHhMUGNxanpXZzY0b9IBswFBVV95cUxPQTJFWGlRdGNYdU95ZVFjVXMtOXQ2TTU5RnZnZE5ZU1dlOFI4ckdfTy1HRm9mVlh2S1VlWUs3c05jc1FONzdkSHlxVWNWVXNjalZLdm9nc3g2Q1dWZEx6V09nbGl3REZ1YUI4MHczN2NpNHdrVVJQbndjTk5OcTJlTFRvYUZXaGVlYjMwM0NnOHBZaW5IbTJMaWk0T3VUSnltbFdvR2czNHhMUGNxanpXZzY0bw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTJFWGlRdGNYdU95ZVFjVXMtOXQ2TTU5RnZnZE5ZU1dlOFI4ckdfTy1HRm9mVlh2S1VlWUs3c05jc1FONzdkSHlxVWNWVXNjalZLdm9nc3g2Q1dWZEx6V09nbGl3REZ1YUI4MHczN2NpNHdrVVJQbndjTk5OcTJlTFRvYUZXaGVlYjMwM0NnOHBZaW5IbTJMaWk0T3VUSnltbFdvR2czNHhMUGNxanpXZzY0b9IBswFBVV95cUxPQTJFWGlRdGNYdU95ZVFjVXMtOXQ2TTU5RnZnZE5ZU1dlOFI4ckdfTy1HRm9mVlh2S1VlWUs3c05jc1FONzdkSHlxVWNWVXNjalZLdm9nc3g2Q1dWZEx6V09nbGl3REZ1YUI4MHczN2NpNHdrVVJQbndjTk5OcTJlTFRvYUZXaGVlYjMwM0NnOHBZaW5IbTJMaWk0T3VUSnltbFdvR2czNHhMUGNxanpXZzY0bw",
+  "snippet": "Aid for road haulage, agriculture, and fishing: green light for the decree L'Unione Sarda",
+  "published": "2026-11-14T23:13:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T12:01:11.875144+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a9b0173cf0",

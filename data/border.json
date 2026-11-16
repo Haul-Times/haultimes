@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:51:04.296964+00:00",
- "hour_now": 6,
+ "updated": "2026-11-16T12:01:11.691352+00:00",
+ "hour_now": 7,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:37 am EST",
+    "updated": "At 6:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:37 am EST",
+    "updated": "At 6:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -331,7 +331,7 @@
      0,
      0,
      0,
-     23,
+     11,
      0,
      0,
      0,
@@ -357,7 +357,7 @@
      2,
      1,
      2,
-     0,
+     1,
      7,
      1,
      1,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:44:56",
+    "updated": "06:54:57",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 05:15 EST"
+    "updated": "2026-11-16 06:52 EST"
    },
    "usual": {
     "south": [
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "06:44:56",
+    "updated": "06:54:57",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:44:56",
+    "updated": "06:54:57",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 05:15 EST"
+    "updated": "2026-11-16 06:50 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "06:44:56",
+    "updated": "06:54:57",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:44:57",
+    "updated": "05:54:57",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1299,7 +1299,7 @@
      0,
      0,
      16,
-     0,
+     15,
      20,
      20,
      20,
