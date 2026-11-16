@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:31:24.292307+00:00",
+ "updated": "2026-11-16T15:41:05.323850+00:00",
  "hour_now": 10,
  "have_us": true,
  "have_ca": true,
@@ -34,7 +34,7 @@
      7,
      0,
      1,
-     3,
+     2,
      15,
      20,
      null,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": 38,
     "fast_wait": 0,
-    "lanes": "3",
-    "status": "no delay",
-    "updated": "At 8:00 am EST",
+    "lanes": "4",
+    "status": "delay",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -109,7 +109,7 @@
      0,
      6,
      0,
-     0,
+     7,
      34,
      39,
      null,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:17 am EST",
+    "updated": "At 10:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -259,7 +259,7 @@
      0,
      14,
      4,
-     5,
+     4,
      15,
      30,
      null,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:17 am EST",
+    "updated": "At 10:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "10:25:05",
+    "updated": "10:35:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -910,10 +910,10 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "1",
-    "status": "no delay",
+    "status": "delay",
     "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
@@ -934,7 +934,7 @@
      0,
      0,
      0,
-     0,
+     3,
      0,
      0,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "10:25:05",
+    "updated": "10:35:06",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1227,7 +1227,7 @@
      0,
      0,
      11,
-     13,
+     12,
      15,
      15,
      null,
@@ -1253,7 +1253,7 @@
      0,
      0,
      1,
-     3,
+     2,
      0,
      0,
      null,
@@ -1302,7 +1302,7 @@
      23,
      29,
      31,
-     34,
+     35,
      20,
      20,
      null,
