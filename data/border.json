@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:01:03.793520+00:00",
+ "updated": "2026-11-16T08:09:07.648976+00:00",
  "hour_now": 3,
  "have_us": true,
  "have_ca": true,
@@ -278,7 +278,7 @@
      17,
      21,
      8,
-     3,
+     2,
      2,
      0,
      8,
@@ -1246,7 +1246,7 @@
      13,
      13,
      15,
-     8,
+     10,
      0,
      0,
      0,
@@ -1519,11 +1519,6 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "Aldergrove",
     "wait": 0,
     "status": "No Delay"
    },
