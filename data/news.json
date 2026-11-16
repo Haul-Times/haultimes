@@ -1,5 +1,34 @@
 [
  {
+  "id": "457fe77a20",
+  "slug": "4-injured-in-highway-7-crash-north-of-perth-457fe77a20",
+  "title": "4 injured in Highway 7 crash north of Perth",
+  "orig_title": "4 injured in Highway 7 crash north of Perth",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFB0MUVlUHVGLThyaVhEQkVuSnpibG83aG9NUm9JR3dmMXVqb3VsNDhaUXlsNFBid2k5WUhjcWxCaWtpNTdOS1lBX0dmUEZKU1pXbHMxMF8zRDRGTHpyRzVRUXk1Y0Njc2Jfb1A0aVdic2VqZ3dEREZyLUlYTVAwenkydVJIdk5haVpzdE1LbXRCQk5hdVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFB0MUVlUHVGLThyaVhEQkVuSnpibG83aG9NUm9JR3dmMXVqb3VsNDhaUXlsNFBid2k5WUhjcWxCaWtpNTdOS1lBX0dmUEZKU1pXbHMxMF8zRDRGTHpyRzVRUXk1Y0Njc2Jfb1A0aVdic2VqZ3dEREZyLUlYTVAwenkydVJIdk5haVpzdE1LbXRCQk5hdVE",
+  "snippet": "4 injured in Highway 7 crash north of Perth CBC",
+  "published": "2026-11-16T00:24:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T00:31:15.561523+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6065938f65",
   "slug": "4-injured-after-hwy-7-crash-between-perth-carleton-place-6065938f65",
   "title": "4 injured after Hwy. 7 crash between Perth, Carleton Place",
@@ -14562,35 +14591,6 @@
   "sum_pending": false
  },
  {
-  "id": "c0167660b4",
-  "slug": "second-truckers-strike-threatens-further-disruption-to-chilean-cherry-c0167660b4",
-  "title": "Second truckers’ strike threatens further disruption to Chilean cherry exports",
-  "orig_title": "Second truckers’ strike threatens further disruption to Chilean cherry exports",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Fruitnet",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1RzQWlQbXVWU19YWUQ0ejFDc2F5a3NESGFQZFgwaU4zSG1aWmRoYnUyd3dtTkd6TWpyNVpHOHFUNnlvcnQ5SlE0MVdMUkF4V0s1cjhhQzZaWmM3RDlzOWZ5YV9QMWY3RkZNRFdBU2haRzlTMFFUZmlobjBEUUkxVTZpcXE2dTRvS0R6Zkl6eE1qV0pVbFIyMUEtLU5pdHNLcXEzempJQXp3cGhtN0ZaQUk3TGFmb2hpaThZVHV4V1VJcWF2NlE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1RzQWlQbXVWU19YWUQ0ejFDc2F5a3NESGFQZFgwaU4zSG1aWmRoYnUyd3dtTkd6TWpyNVpHOHFUNnlvcnQ5SlE0MVdMUkF4V0s1cjhhQzZaWmM3RDlzOWZ5YV9QMWY3RkZNRFdBU2haRzlTMFFUZmlobjBEUUkxVTZpcXE2dTRvS0R6Zkl6eE1qV0pVbFIyMUEtLU5pdHNLcXEzempJQXp3cGhtN0ZaQUk3TGFmb2hpaThZVHV4V1VJcWF2NlE",
-  "snippet": "Second truckers’ strike threatens further disruption to Chilean cherry exports Fruitnet",
-  "published": "2026-11-12T00:22:23+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T00:31:05.700321+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "e8ac212082",
   "slug": "canada-says-russian-players-with-visas-will-still-be-barred-from-world-e8ac212082",
   "title": "Canada says Russian players with visas will still be barred from World Juniors",
@@ -14798,35 +14798,6 @@
   "source_note": "excerpt only · 25 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "2d78d39963",
-  "slug": "jordan-nemrow-2d78d39963",
-  "title": "Jordan Nemrow",
-  "orig_title": "Jordan Nemrow",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRDlRWEFwa3J0MWNzR0ktX0V6RGp0ZG5TVFJBSGt6MkF1X1VtS0paTzhSNVRCQ0hYNDNvUGRsR0VXSWJmYWxsS01ZTFF1a05sT3VMT2N6dlZJeUV6OGppQzkyRkRmY18zZVE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRDlRWEFwa3J0MWNzR0ktX0V6RGp0ZG5TVFJBSGt6MkF1X1VtS0paTzhSNVRCQ0hYNDNvUGRsR0VXSWJmYWxsS01ZTFF1a05sT3VMT2N6dlZJeUV6OGppQzkyRkRmY18zZVE",
-  "snippet": "Jordan Nemrow FreightWaves",
-  "published": "2026-11-11T23:23:51+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T00:31:05.700321+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "a5b8befe31",
