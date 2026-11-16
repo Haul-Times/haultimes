@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:19:33.323222+00:00",
+ "updated": "2026-11-16T18:21:09.323728+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At Noon EST",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 13,
+    "wait": 14,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -363,7 +363,7 @@
      1,
      2,
      2,
-     2,
+     3,
      2,
      2,
      15,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:10:17",
+    "updated": "13:20:18",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 56,
+    "wait": 58,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 11:00 am CST",
+    "updated": "At Noon CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1087,7 +1087,7 @@
      30,
      31,
      49,
-     56,
+     57,
      50,
      50,
      56,
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 10:16 MDT"
+    "updated": "2026-11-16 12:11 MDT"
    },
    "usual": {
     "south": [
