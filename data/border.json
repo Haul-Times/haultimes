@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:31:14.051503+00:00",
+ "updated": "2026-11-16T22:41:07.052027+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -41,7 +41,7 @@
      2,
      9,
      21,
-     19,
+     17,
      25,
      20,
      0,
@@ -116,7 +116,7 @@
      46,
      42,
      27,
-     31,
+     34,
      35,
      35,
      35,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:17 pm EST",
+    "updated": "At 5:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:17 pm EST",
+    "updated": "At 5:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -341,7 +341,7 @@
      1,
      0,
      3,
-     2,
+     1,
      0,
      0,
      0,
@@ -367,7 +367,7 @@
      3,
      3,
      3,
-     5,
+     7,
      4,
      2,
      1,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -910,11 +910,11 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "1",
-    "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "status": "delay",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -941,7 +941,7 @@
      0,
      0,
      0,
-     0,
+     2,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:25:39",
+    "updated": "17:35:40",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1211,9 +1211,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-16 15:48 MDT"
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-16 16:31 MDT"
    },
    "usual": {
     "south": [
@@ -1260,7 +1260,7 @@
      0,
      0,
      0,
-     4,
+     3,
      0,
      0,
      0,
@@ -1335,7 +1335,7 @@
      6,
      13,
      10,
-     10,
+     11,
      14,
      5,
      5,
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Aldergrove",
