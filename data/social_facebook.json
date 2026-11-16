@@ -2760,7 +2760,10 @@
   "c09dcdd12b": "skipped|importance 55 is below this platform's threshold (65)",
   "05c1526a05": "expired|stale before a slot opened (published 12h ago)",
   "d3a9eeefd5": "skipped|importance 45 is below this platform's threshold (65)",
-  "d21f2cfb12": "skipped|importance 57 is below this platform's threshold (65)"
+  "d21f2cfb12": "skipped|importance 57 is below this platform's threshold (65)",
+  "3a055f1c9e": "skipped|importance 56 is below this platform's threshold (65)",
+  "2e21e84e56": "skipped|importance 55 is below this platform's threshold (65)",
+  "d37a2a6a06": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5434,6 +5437,27 @@
    "at": "2026-11-16T10:51:19.036947+00:00",
    "story_id": "d21f2cfb12",
    "title": "Arkansas Trucking Companies Brace for Stagnant Diesel Prices",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T13:05:31.220150+00:00",
+   "story_id": "3a055f1c9e",
+   "title": "News Smaller US truckers buckling under as costs outpace rate gains",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T13:05:31.220150+00:00",
+   "story_id": "2e21e84e56",
+   "title": "Meta backs deployment of 25 electric trucks on California-Arizona freight corridor",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T13:05:31.220150+00:00",
+   "story_id": "d37a2a6a06",
+   "title": "Congressman Taylor Champions Legislation to Codify CDL Fraud Tipline",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
   }
