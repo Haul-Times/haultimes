@@ -1,5 +1,74 @@
 [
  {
+  "id": "bcd5502d2c",
+  "slug": "owl-survives-65mph-collision-with-tractor-trailer-rescued-by-carlisle-bcd5502d2c",
+  "title": "Owl survives 65mph collision with tractor-trailer, rescued by Carlisle trucking company",
+  "orig_title": "Owl survives 65mph collision with tractor-trailer, rescued by Carlisle trucking company",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "US",
+  "importance": 20,
+  "source": "local21news.com",
+  "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPakR1dU9RZEdIMVo0d1hLU1VrdmhsbEhYdkVkUjhBTnh0bk1KcU9EMF9aMENIeVltcTZ2c1dwYjdTdXdJck1wcC1sMXNlelpIenkzVmlaZXotbEFXbEdhWTJXLWJlOHF6SFNHQV9FUUtuUTcwVjBNbHFzOEdfMHB2b0hsVXMwelhOcVZibUFFVlZSaHVHWHBqX1NJVHpCMGtuX3BxRVJYN1BGakNBdXYwcTRUeUdobXZiRklzaVJOXy1mbF9JcUVwWF9DUV9PZEN3RmxaWlZEZkNNQ28tdGoyT2JobDA4MkNFamN3RkR5U2NnLWVPTHo0VFd2a0pjeXRNNWFPODlucXN3M0Z3UWpwTmNORlhPRTczVUE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPakR1dU9RZEdIMVo0d1hLU1VrdmhsbEhYdkVkUjhBTnh0bk1KcU9EMF9aMENIeVltcTZ2c1dwYjdTdXdJck1wcC1sMXNlelpIenkzVmlaZXotbEFXbEdhWTJXLWJlOHF6SFNHQV9FUUtuUTcwVjBNbHFzOEdfMHB2b0hsVXMwelhOcVZibUFFVlZSaHVHWHBqX1NJVHpCMGtuX3BxRVJYN1BGakNBdXYwcTRUeUdobXZiRklzaVJOXy1mbF9JcUVwWF9DUV9PZEN3RmxaWlZEZkNNQ28tdGoyT2JobDA4MkNFamN3RkR5U2NnLWVPTHo0VFd2a0pjeXRNNWFPODlucXN3M0Z3UWpwTmNORlhPRTczVUE",
+  "snippet": "Owl survives 65mph collision with tractor-trailer, rescued by Carlisle trucking company local21news.com",
+  "published": "2026-11-16T14:13:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T14:21:06.883363+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "incident",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://local21news.com/news/local/owl-survives-65mph-collision-with-tractor-trailer-rescued-by-carlisle-trucking-company-old-dominion-raven-ridge-bird-trucker-rescue-animal-lancaster-county",
+  "source_note": "ok · 313 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "d76980ecbb879b5e",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T14:21:06.883363+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "A Lancaster County wildlife center said"
+   },
+   {
+    "sentence": "2",
+    "quote": "after hours call from a worker with the Old Dominion Freight Line"
+   },
+   {
+    "sentence": "3",
+    "quote": "maintenance team with the company was reportedly able to free the owl"
+   },
+   {
+    "sentence": "4",
+    "quote": "only sustained damage to its left eye"
+   },
+   {
+    "sentence": "5",
+    "quote": "didn't realize the bird was stuck until she got back to the terminal"
+   },
+   {
+    "sentence": "6",
+    "quote": "release the bird where it was found"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 8,
+  "ai_relevant": false
+ },
+ {
   "id": "eb512cde1b",
   "slug": "best-way-trucking-inks-187-000-sq-ft-renewal-extension-in-east-hanover-eb512cde1b",
   "title": "Best Way Trucking inks 187,000 sq. ft. renewal, extension in East Hanover, RRNNJ says",
@@ -15418,35 +15487,6 @@
   "source_note": "paywalled: excerpt only · 28 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "9cab81bf31",
-  "slug": "content-authored-by-kate-sullivan-and-alicia-diaz-9cab81bf31",
-  "title": "Content Authored By Kate Sullivan and Alicia Diaz",
-  "orig_title": "Content Authored By Kate Sullivan and Alicia Diaz",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mam5LUFBkUWJTLW0wV2g2VmhFNG9UMDZpODBhUFBna2cyZ2l2Umc4WnBwSUU4NE9USko2T2lMcmNwMjdEa0xDMlg3bklPdVRpT0VCeVQxLXR5ZDZtSjhUQm1ySGhVa1M3X2pUUQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mam5LUFBkUWJTLW0wV2g2VmhFNG9UMDZpODBhUFBna2cyZ2l2Umc4WnBwSUU4NE9USko2T2lMcmNwMjdEa0xDMlg3bklPdVRpT0VCeVQxLXR5ZDZtSjhUQm1ySGhVa1M3X2pUUQ",
-  "snippet": "Content Authored By Kate Sullivan and Alicia Diaz Transport Topics",
-  "published": "2026-11-12T14:20:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T14:21:06.232696+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
  },
  {
   "id": "8e2448c03e",
