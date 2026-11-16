@@ -2507,7 +2507,7 @@
    "reason": "importance 75 (threshold 65), Equipment, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": true
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -3149,7 +3149,8 @@
   "4f95e104ca": "skipped|minor item (announcement) or low-quality source",
   "807d7939c7": "queued|importance 75 (threshold 65), Equipment, trade publication",
   "49edc21d99": "skipped|importance 55 is below this platform's threshold (65)",
-  "bf5fddcd57": "skipped|importance 45 is below this platform's threshold (65)"
+  "bf5fddcd57": "skipped|importance 45 is below this platform's threshold (65)",
+  "e4c3e40a28": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6201,6 +6202,13 @@
    "at": "2026-11-16T20:41:32.278599+00:00",
    "story_id": "bf5fddcd57",
    "title": "How much is a truck driver salary in the USA: Earnings and opportunities for foreigners",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T20:51:25.395235+00:00",
+   "story_id": "e4c3e40a28",
+   "title": "Screen Grabs: Hitching a ride with gay Mexican truckers ‘On the Road’",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
