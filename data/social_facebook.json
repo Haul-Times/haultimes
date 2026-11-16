@@ -3113,7 +3113,8 @@
   "a55b26d80e": "merged|superseded by a stronger report",
   "648d8b13ab": "posted|importance 70 (threshold 65), Regulations, local/other outlet; waited 19 min in queue",
   "b5f9f12efa": "skipped|importance 55 is below this platform's threshold (65)",
-  "19d239834c": "skipped|minor item (event) or low-quality source"
+  "19d239834c": "skipped|minor item (event) or low-quality source",
+  "79ebebff50": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6111,6 +6112,13 @@
    "title": "Federal Court Strikes Down Determination, Reaffirms NY Immigrant Truck Drivers’ Ability to Work",
    "action": "posted",
    "reason": "importance 70 (threshold 65), Regulations, local/other outlet; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-16T20:11:30.536119+00:00",
+   "story_id": "79ebebff50",
+   "title": "SEVOS Says Freight AI Starts With the Person in the Seat",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
