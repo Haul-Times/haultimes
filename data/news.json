@@ -1,5 +1,34 @@
 [
  {
+  "id": "e8c36d4c04",
+  "slug": "forward-air-earnings-call-highlights-record-growth-e8c36d4c04",
+  "title": "Forward Air Earnings Call Highlights Record Growth",
+  "orig_title": "Forward Air Earnings Call Highlights Record Growth",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3RUekZmN3VkNVQwc0RxQkJRM1VSZ3FNWFVpYjIzRkdPU3BNSUNHbGlYZjBpNllTMXlBZWNJS0xOLWM5Rl9uRzNHdmJocHhzb0ZfZlN1YXlBN0xZQThTM0dqVHBsaEt3YkFPREQ1Rm9fdmU4SUJ6WnRsVF83WmZNdWxvZEd2UTFvcDRSRm5WMWxDWmNfWEhsYm1mdE15dWZIOTlQcHluOWJSaWhEZDdXSktwZ0EyM1NxTXQ5aE50RkN5ZGdoRmtIYm14SQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3RUekZmN3VkNVQwc0RxQkJRM1VSZ3FNWFVpYjIzRkdPU3BNSUNHbGlYZjBpNllTMXlBZWNJS0xOLWM5Rl9uRzNHdmJocHhzb0ZfZlN1YXlBN0xZQThTM0dqVHBsaEt3YkFPREQ1Rm9fdmU4SUJ6WnRsVF83WmZNdWxvZEd2UTFvcDRSRm5WMWxDWmNfWEhsYm1mdE15dWZIOTlQcHluOWJSaWhEZDdXSktwZ0EyM1NxTXQ5aE50RkN5ZGdoRmtIYm14SQ",
+  "snippet": "Forward Air Earnings Call Highlights Record Growth The Globe and Mail",
+  "published": "2026-11-16T00:36:11+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T00:41:12.481013+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "457fe77a20",
   "slug": "4-injured-in-highway-7-crash-north-of-perth-457fe77a20",
   "title": "4 injured in Highway 7 crash north of Perth",
@@ -14530,36 +14559,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "d87ec0e10f",
-  "slug": "trucking-company-owner-in-laredo-indicted-over-alleged-b-1-driver-sche-d87ec0e10f",
-  "title": "Trucking company owner in Laredo indicted over alleged B-1 driver scheme",
-  "orig_title": "Trucking company owner in Laredo indicted over alleged B-1 driver scheme",
-  "summary": "",
-  "why": "",
-  "category": "border",
-  "region": "",
-  "importance": 57,
-  "source": "Laredo Morning Times",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2VOVVZ5TFFRQi1IYUw0RDdwVk9EbU40MGE0ckxlOHpsZ2gxZGFmN0NjZGVodEpVbThDQnBLeXJNNEdjb0xUUk15SnA2ZEtfZl9uNkR4VkxMa3Q1LUpsNmRueWFtYjZzTEdqZVNsdDIyYVlOZVZ3LUxwOXVORjhwU05tUzFvQkw4YWl2S19aZWI0RW5FSkdtZDdST2NZcWlpOVdR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2VOVVZ5TFFRQi1IYUw0RDdwVk9EbU40MGE0ckxlOHpsZ2gxZGFmN0NjZGVodEpVbThDQnBLeXJNNEdjb0xUUk15SnA2ZEtfZl9uNkR4VkxMa3Q1LUpsNmRueWFtYjZzTEdqZVNsdDIyYVlOZVZ3LUxwOXVORjhwU05tUzFvQkw4YWl2S19aZWI0RW5FSkdtZDdST2NZcWlpOVdR",
-  "snippet": "Trucking company owner in Laredo indicted over alleged B-1 driver scheme Laredo Morning Times",
-  "published": "2026-11-12T00:32:29+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T00:41:05.847892+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Texas trucking owner indicted in scheme involving 57 unauthorized drivers"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "131cd4219e"
  },
  {
   "id": "68f580a551",
