@@ -2527,14 +2527,14 @@
    "source": "Journal of Commerce",
    "dest": "https://haultimes.com/story/eld-bans-to-pile-more-pressure-on-us-truck-capacity-0b0dbe1776/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=0b0dbe1776",
    "caption": "ELD bans to pile more pressure on US truck capacity.\n\nReported by Journal of Commerce. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-16T21:11:20.481284+00:00",
    "published": "2026-11-16T20:38:00+00:00",
    "score": 72,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122106168081544428",
+   "posted_at": "2026-11-16T21:21:46.029282+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "ELD bans to pile more pressure on US truck capacity | HaulTimes",
@@ -2545,7 +2545,9 @@
    "reason": "importance 72 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-16T21:21:46.029282+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122106168081544428"
   },
   "fc0b58075a": {
    "story_id": "fc0b58075a",
@@ -2850,6 +2852,10 @@
   {
    "at": "2026-11-16T21:02:53.785878+00:00",
    "msg": "posted 807d7939c7"
+  },
+  {
+   "at": "2026-11-16T21:21:46.029282+00:00",
+   "msg": "posted 0b0dbe1776"
   }
  ],
  "decided": {
@@ -3221,7 +3227,7 @@
   "49edc21d99": "skipped|importance 55 is below this platform's threshold (65)",
   "bf5fddcd57": "skipped|importance 45 is below this platform's threshold (65)",
   "e4c3e40a28": "skipped|importance 45 is below this platform's threshold (65)",
-  "0b0dbe1776": "queued|importance 72 (threshold 65), Regulations, trade publication",
+  "0b0dbe1776": "posted|importance 72 (threshold 65), Regulations, trade publication; waited 10 min in queue",
   "fc0b58075a": "queued|importance 93 (threshold 65), Rates & Market, trade publication",
   "5ae1ae5c75": "skipped|importance 62 is below this platform's threshold (65)",
   "ae54141f56": "skipped|importance 55 is below this platform's threshold (65)"
@@ -6320,6 +6326,13 @@
    "title": "STG Logistics | New CEO’s Plan to Awaken a “Sleeping Giant”",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T21:21:46.029282+00:00",
+   "story_id": "0b0dbe1776",
+   "title": "ELD bans to pile more pressure on US truck capacity",
+   "action": "posted",
+   "reason": "importance 72 (threshold 65), Regulations, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
