@@ -24,7 +24,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.asianlawcaucus.org/news-resources/news/ny-immigrant-truck-drivers",
   "source_note": "ok · 526 words"
@@ -54,7 +54,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "a55b26d80e",
@@ -263,7 +267,12 @@
   "reasons": [],
   "labels": [],
   "kind": "event",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://ontruck.org/iru-webinar-fmcsa-regulatory-agenda-2026-review-and-2027-outlook/",
+  "source_note": "no usable text",
+  "sum_done": true,
+  "sum_status": "no source text (no usable text)"
  },
  {
   "id": "9ae926507f",
@@ -290,7 +299,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/truckstop-ftr-spot-rate-changes-are-mixed-as-usual-in-latest-week",
+  "source_note": "ok · 533 words"
  },
  {
   "id": "c8c8535966",
@@ -437,7 +449,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "8517912e56",
@@ -4465,6 +4481,35 @@
   "status": "rejected",
   "reasons": [
    "stock commentary, no trucking development"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "586a516a6b",
+  "slug": "iea-to-decide-on-details-of-diesel-stocks-release-next-week-sources-sa-586a516a6b",
+  "title": "IEA to Decide on Details of Diesel Stocks Release Next Week, Sources Say, as Market Confusion Grows",
+  "orig_title": "IEA to Decide on Details of Diesel Stocks Release Next Week, Sources Say, as Market Confusion Grows",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR01EcVN4elAtY3lMSUoxalhpZ0E1ZThLdHRpU2ZWdWZfR1VCM2tuaFF0MUltUmU0cE9fbmtUdHlFN2JsMmhybWVJWnp3clEyVUVETFVrMnB2MkQxX1RGaWhWT2NRZGtKN3lEZlFBcnJaQnJjZzdtb3VJZ0hoOWx0MGFDRHQzeTNucGlQemhMRm1fZEplOVU1eFdxSzZIMDBERTc3NGJEcEtsb19SbDlLYk1Cdk5USXpDdmRwMVpuZmRyelZlQkdB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR01EcVN4elAtY3lMSUoxalhpZ0E1ZThLdHRpU2ZWdWZfR1VCM2tuaFF0MUltUmU0cE9fbmtUdHlFN2JsMmhybWVJWnp3clEyVUVETFVrMnB2MkQxX1RGaWhWT2NRZGtKN3lEZlFBcnJaQnJjZzdtb3VJZ0hoOWx0MGFDRHQzeTNucGlQemhMRm1fZEplOVU1eFdxSzZIMDBERTc3NGJEcEtsb19SbDlLYk1Cdk5USXpDdmRwMVpuZmRyelZlQkdB",
+  "snippet": "IEA to Decide on Details of Diesel Stocks Release Next Week, Sources Say, as Market Confusion Grows EnergyNow.com",
+  "published": "2026-11-15T13:12:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T19:31:07.594458+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "non-North American source"
   ],
   "labels": [],
   "kind": "rejected",
@@ -20162,35 +20207,6 @@
   "source_note": "paywalled: excerpt only · 23 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "92f6f2ed55",
-  "slug": "magna-international-looks-to-grow-faster-than-overall-automotive-marke-92f6f2ed55",
-  "title": "Magna International looks to grow faster than overall automotive market",
-  "orig_title": "Magna International looks to grow faster than overall automotive market",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "thecanadianpressnews.ca",
-  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRGpYeHpENEc4ZTdfMHVzVkZtWXpFaHY3T2RUeF8xN1JLZ2JVVFotYlB3aEtqOVVkdm84clJteENVcUo5VDJLaUE5WnhHQUNIcGozWVgwMXpwNmtXT2syd0NaazAtOXVfbzdNOWlDUDRoSW45OE5WRnprcTRJa29Idms4RVhzN0diaG9Hem41X21kYkNHdnRtb3Q3VTJpLUZaWlcwX3VXZWwtV1hBYjJ4a00wMTQ2UEhqc0xKSkM2WHFxd3kxWlQ3dnJPbndkaVNHRFRfN3dseC10bVdRMTBPZFR4SVY1UXVtenZqcTU3RkdLQ0RXOFRXM2ZB?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRGpYeHpENEc4ZTdfMHVzVkZtWXpFaHY3T2RUeF8xN1JLZ2JVVFotYlB3aEtqOVVkdm84clJteENVcUo5VDJLaUE5WnhHQUNIcGozWVgwMXpwNmtXT2syd0NaazAtOXVfbzdNOWlDUDRoSW45OE5WRnprcTRJa29Idms4RVhzN0diaG9Hem41X21kYkNHdnRtb3Q3VTJpLUZaWlcwX3VXZWwtV1hBYjJ4a00wMTQ2UEhqc0xKSkM2WHFxd3kxWlQ3dnJPbndkaVNHRFRfN3dseC10bVdRMTBPZFR4SVY1UXVtenZqcTU3RkdLQ0RXOFRXM2ZB",
-  "snippet": "Magna International looks to grow faster than overall automotive market thecanadianpressnews.ca",
-  "published": "2026-11-11T15:03:50+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T19:31:04.587635+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "90d82e9f37",

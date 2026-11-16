@@ -2451,14 +2451,14 @@
    "source": "Asian Law Caucus",
    "dest": "https://haultimes.com/story/federal-court-strikes-down-determination-reaffirms-ny-immigrant-truck-648d8b13ab/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=648d8b13ab",
    "caption": "Federal Court Strikes Down Determination, Reaffirms NY Immigrant Truck Drivers’ Ability to Work.\n\nReported by Asian Law Caucus. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-16T19:11:26.966561+00:00",
    "published": "2026-11-16T19:00:39+00:00",
    "score": 70,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122106105987544428",
+   "posted_at": "2026-11-16T19:31:26.040095+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Federal Court Strikes Down Determination, Reaffirms NY Immigrant Truck Drivers’ Ability to Work | HaulTimes",
@@ -2469,7 +2469,9 @@
    "reason": "importance 70 (threshold 65), Regulations, local/other outlet",
    "breaking": null,
    "edited": false,
-   "wait_summary": true
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-16T19:31:26.040095+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122106105987544428"
   }
  },
  "paused": null,
@@ -2738,6 +2740,10 @@
   {
    "at": "2026-11-16T18:54:15.030333+00:00",
    "msg": "posted 37742997b4"
+  },
+  {
+   "at": "2026-11-16T19:31:26.040095+00:00",
+   "msg": "posted 648d8b13ab"
   }
  ],
  "decided": {
@@ -3097,7 +3103,7 @@
   "1addcc22f3": "skipped|importance 45 is below this platform's threshold (65)",
   "9182078c69": "skipped|importance 45 is below this platform's threshold (65)",
   "a55b26d80e": "merged|superseded by a stronger report",
-  "648d8b13ab": "queued|importance 70 (threshold 65), Regulations, local/other outlet",
+  "648d8b13ab": "posted|importance 70 (threshold 65), Regulations, local/other outlet; waited 19 min in queue",
   "b5f9f12efa": "skipped|importance 55 is below this platform's threshold (65)",
   "19d239834c": "skipped|minor item (event) or low-quality source"
  },
@@ -6090,6 +6096,13 @@
    "title": "IRU webinar: FMCSA regulatory agenda, 2026 review and 2027 outlook",
    "action": "skipped",
    "reason": "minor item (event) or low-quality source"
+  },
+  {
+   "at": "2026-11-16T19:31:26.040095+00:00",
+   "story_id": "648d8b13ab",
+   "title": "Federal Court Strikes Down Determination, Reaffirms NY Immigrant Truck Drivers’ Ability to Work",
+   "action": "posted",
+   "reason": "importance 70 (threshold 65), Regulations, local/other outlet; waited 19 min in queue"
   }
  ],
  "visibility": {
