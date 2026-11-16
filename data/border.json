@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:11:02.254454+00:00",
+ "updated": "2026-11-16T01:21:02.637994+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -12,9 +12,9 @@
    "south": {
     "wait": 10,
     "fast_wait": null,
-    "lanes": "6",
+    "lanes": "7",
     "status": "delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -44,7 +44,7 @@
      18,
      16,
      8,
-     2,
+     3,
      0,
      0,
      0
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:57 pm EST",
+    "updated": "At 8:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -295,7 +295,7 @@
      11,
      10,
      11,
-     8,
+     10,
      5,
      6,
      3
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:57 pm EST",
+    "updated": "At 8:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "20:03:49",
+    "updated": "20:13:50",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:03:49",
+    "updated": "20:13:50",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1094,7 +1094,7 @@
      52,
      46,
      39,
-     11,
+     15,
      0,
      0,
      0
@@ -1203,11 +1203,11 @@
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
    "south": {
-    "wait": 10,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "1",
     "status": "delay",
-    "updated": "At 5:00 pm MST",
+    "updated": "At 6:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1237,7 +1237,7 @@
      0,
      10,
      7,
-     2,
+     3,
      0,
      0,
      0
@@ -1263,7 +1263,7 @@
      0,
      0,
      9,
-     3,
+     4,
      0,
      0,
      0
@@ -1338,7 +1338,7 @@
      9,
      5,
      14,
-     24,
+     25,
      9,
      5,
      5
