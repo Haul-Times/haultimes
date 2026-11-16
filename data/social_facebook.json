@@ -2262,6 +2262,90 @@
     "created": "2026-11-16T16:21:55+0000",
     "at": "2026-11-16T16:31:29.165472+00:00"
    }
+  },
+  "931b43c9f1": {
+   "story_id": "931b43c9f1",
+   "title": "Daimler, Paccar Recall Trucks Over Driveline Defect",
+   "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1pQQTk2YjY0bzRqclUxNy1LNFRVaUgyb0pYbkVNTHpIZTd5cWllZlZWdTRDV2MyT1hjaU9NR29uaGxiZXZoWERBU0dubXFobHJiWi0xdUhXcVg3TGJfeWJsZUZRVlJhdHc4SjU2R0N3VkFjY0lYUlFzZ213Z1FHQWtUXzdKYnRGNFpCeQ",
+   "category": "equip",
+   "source": "Heavy Duty Trucking",
+   "dest": "https://haultimes.com/story/daimler-paccar-recall-trucks-over-driveline-defect-931b43c9f1/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=931b43c9f1",
+   "caption": "Daimler, Paccar Recall Trucks Over Driveline Defect.\n\nReported by Heavy Duty Trucking. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-16T17:12:13.773805+00:00",
+   "published": "2026-11-16T17:03:06+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Daimler, Paccar Recall Trucks Over Driveline Defect | HaulTimes",
+    "og:description": "Reported by Heavy Duty Trucking. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/db4bf97176.png",
+    "og:url": "https://haultimes.com/story/daimler-paccar-recall-trucks-over-driveline-defect-931b43c9f1/"
+   },
+   "reason": "importance 75 (threshold 65), Equipment, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
+  },
+  "2763ad3e0b": {
+   "story_id": "2763ad3e0b",
+   "title": "NHTSA: Massive recall of trucks and trailers",
+   "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelVzYVJyeE9TNXRyZV9mNmtNcFlsVDVuNENEZEREMzMwYS1hUFE5OExSa1hQZjhjZjlGb3BCMmkyTEtkNjR5V3E1eHAxdkFYSjVmSE5fMUFpQllPeGd1UzNHektMdk1nVFp5Wk1RR1VjN1hFZTdhc3VvNUdiZC1wTXM3MHB3NDIzUnp4LUQ3bi1wYllYbU93Nzc4dGdMZXpi",
+   "category": "equip",
+   "source": "TheTrucker.com",
+   "dest": "https://haultimes.com/story/nhtsa-massive-recall-of-trucks-and-trailers-2763ad3e0b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2763ad3e0b",
+   "caption": "NHTSA: Massive recall of trucks and trailers.\n\nReported by TheTrucker. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-16T17:12:13.773805+00:00",
+   "published": "2026-11-16T17:02:02+00:00",
+   "score": 70,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "NHTSA: Massive recall of trucks and trailers | HaulTimes",
+    "og:description": "Reported by TheTrucker.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/f2b9e8e4ec.png",
+    "og:url": "https://haultimes.com/story/nhtsa-massive-recall-of-trucks-and-trailers-2763ad3e0b/"
+   },
+   "reason": "importance 70 (threshold 65), Equipment, established outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
+  },
+  "34b43b0666": {
+   "story_id": "34b43b0666",
+   "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
+   "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZ3VMZ2F5Skc0RW0zTUdIQm9jT1ZkbG5VVHViQzhvdXZVTUc2LXhqVjFKOGV3a0F5aENDZ0tqdzlDd2JsazBUVy1wdTZ3SHgyS2VIQ0NERFNlR1R2bHZnLURlUnVGYm8t",
+   "category": "regs",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/ata-proposes-6-steps-to-help-fmcsa-combat-eld-fraud-34b43b0666/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=34b43b0666",
+   "caption": "ATA proposes 6 steps to help FMCSA combat ELD fraud.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-16T17:12:13.773805+00:00",
+   "published": "2026-11-16T17:04:00+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "ATA proposes 6 steps to help FMCSA combat ELD fraud | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/29442e81eb.png",
+    "og:url": "https://haultimes.com/story/ata-proposes-6-steps-to-help-fmcsa-combat-eld-fraud-34b43b0666/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -2856,7 +2940,10 @@
   "8722617d12": "skipped|importance 56 is below this platform's threshold (65)",
   "79bebecd88": "skipped|importance 55 is below this platform's threshold (65)",
   "3e8d760ee0": "skipped|importance 45 is below this platform's threshold (65)",
-  "7cd9f00275": "skipped|minor item (feature) or low-quality source"
+  "7cd9f00275": "skipped|minor item (feature) or low-quality source",
+  "931b43c9f1": "queued|importance 75 (threshold 65), Equipment, trade publication",
+  "2763ad3e0b": "queued|importance 70 (threshold 65), Equipment, established outlet",
+  "34b43b0666": "queued|importance 67 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -5679,6 +5766,27 @@
    "title": "New York Wins Court Battle Over $73M Highway Funding Freeze Tied to Immigrant Truckers",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-16T17:12:13.773805+00:00",
+   "story_id": "931b43c9f1",
+   "title": "Daimler, Paccar Recall Trucks Over Driveline Defect",
+   "action": "queued",
+   "reason": "importance 75 (threshold 65), Equipment, trade publication"
+  },
+  {
+   "at": "2026-11-16T17:12:13.773805+00:00",
+   "story_id": "2763ad3e0b",
+   "title": "NHTSA: Massive recall of trucks and trailers",
+   "action": "queued",
+   "reason": "importance 70 (threshold 65), Equipment, established outlet"
+  },
+  {
+   "at": "2026-11-16T17:12:13.773805+00:00",
+   "story_id": "34b43b0666",
+   "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {

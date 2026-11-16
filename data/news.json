@@ -1,5 +1,174 @@
 [
  {
+  "id": "34b43b0666",
+  "slug": "ata-proposes-6-steps-to-help-fmcsa-combat-eld-fraud-34b43b0666",
+  "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
+  "orig_title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 67,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZ3VMZ2F5Skc0RW0zTUdIQm9jT1ZkbG5VVHViQzhvdXZVTUc2LXhqVjFKOGV3a0F5aENDZ0tqdzlDd2JsazBUVy1wdTZ3SHgyS2VIQ0NERFNlR1R2bHZnLURlUnVGYm8t?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZ3VMZ2F5Skc0RW0zTUdIQm9jT1ZkbG5VVHViQzhvdXZVTUc2LXhqVjFKOGV3a0F5aENDZ0tqdzlDd2JsazBUVy1wdTZ3SHgyS2VIQ0NERFNlR1R2bHZnLURlUnVGYm8t",
+  "snippet": "ATA proposes 6 steps to help FMCSA combat ELD fraud Transport Topics",
+  "published": "2026-11-16T17:04:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T17:11:26.164034+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/articles/ata-report-eld-fraud-2026",
+  "source_note": "excerpt only · 20 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "931b43c9f1",
+  "slug": "daimler-paccar-recall-trucks-over-driveline-defect-931b43c9f1",
+  "title": "Daimler, Paccar Recall Trucks Over Driveline Defect",
+  "orig_title": "Daimler, Paccar Recall Trucks Over Driveline Defect",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "US",
+  "importance": 75,
+  "source": "Heavy Duty Trucking",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1pQQTk2YjY0bzRqclUxNy1LNFRVaUgyb0pYbkVNTHpIZTd5cWllZlZWdTRDV2MyT1hjaU9NR29uaGxiZXZoWERBU0dubXFobHJiWi0xdUhXcVg3TGJfeWJsZUZRVlJhdHc4SjU2R0N3VkFjY0lYUlFzZ213Z1FHQWtUXzdKYnRGNFpCeQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1pQQTk2YjY0bzRqclUxNy1LNFRVaUgyb0pYbkVNTHpIZTd5cWllZlZWdTRDV2MyT1hjaU9NR29uaGxiZXZoWERBU0dubXFobHJiWi0xdUhXcVg3TGJfeWJsZUZRVlJhdHc4SjU2R0N3VkFjY0lYUlFzZ213Z1FHQWtUXzdKYnRGNFpCeQ",
+  "snippet": "Daimler, Paccar Recall Trucks Over Driveline Defect Heavy Duty Trucking",
+  "published": "2026-11-16T17:03:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T17:11:26.164034+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.truckinginfo.com/news/daimler-paccar-recall-trucks-over-driveline-defect",
+  "source_note": "ok · 554 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "f28391fd0e2008e8",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T17:11:26.164034+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "a missing snap ring could allow the driveline to separate from the truck"
+   },
+   {
+    "sentence": "2",
+    "quote": "certain Cummins-supplied driveshafts that may be missing a snap ring"
+   },
+   {
+    "sentence": "3",
+    "quote": "manufacturers expect only a small percentage to actually have the problem"
+   },
+   {
+    "sentence": "4",
+    "quote": "the company estimates only about 1% actually have the defect"
+   },
+   {
+    "sentence": "5",
+    "quote": "Drivers may notice unusual driveline vibration or noise before a failure occurs."
+   },
+   {
+    "sentence": "6",
+    "quote": "Kenworth dealers will inspect and replace affected drivelines as needed, free of charge."
+   }
+  ],
+  "sum_problems": [
+   "Source does not state the country or agency for the recall; region set to US based on the publication context and needs confirmation.",
+   "Owner letter and repair details come from the article body; verify the Cummins-authorized facility detail for Freightliner and Western Star trucks."
+  ],
+  "ai_category": "equip",
+  "ai_importance": 60,
+  "pending_summary": "Daimler Truck North America and Paccar are recalling nearly 4,900 Freightliner, Western Star and Kenworth trucks, all 2027 models, because a missing part could let the driveline separate from the vehicle while driving. The problem involves certain Cummins-supplied driveshafts that may lack a snap ring in the slip yoke assembly. The companies expect only a small share of the trucks to actually have the defect. Daimler Truck estimates about 1% of its nearly 3,900 Freightliner and Western Star trucks are affected, while Paccar says fewer than 1% of its 982 Kenworth trucks have the problem. Drivers may notice unusual driveline vibration or noise before a failure. Kenworth dealers will inspect and replace affected drivelines free of charge, and Cummins-authorized facilities will handle Freightliner and Western Star repairs. Owner letters are expected in January 2027.",
+  "pending_why": ""
+ },
+ {
+  "id": "2763ad3e0b",
+  "slug": "nhtsa-massive-recall-of-trucks-and-trailers-2763ad3e0b",
+  "title": "NHTSA: Massive recall of trucks and trailers",
+  "orig_title": "NHTSA: Massive recall of trucks and trailers",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "US",
+  "importance": 70,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelVzYVJyeE9TNXRyZV9mNmtNcFlsVDVuNENEZEREMzMwYS1hUFE5OExSa1hQZjhjZjlGb3BCMmkyTEtkNjR5V3E1eHAxdkFYSjVmSE5fMUFpQllPeGd1UzNHektMdk1nVFp5Wk1RR1VjN1hFZTdhc3VvNUdiZC1wTXM3MHB3NDIzUnp4LUQ3bi1wYllYbU93Nzc4dGdMZXpi?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelVzYVJyeE9TNXRyZV9mNmtNcFlsVDVuNENEZEREMzMwYS1hUFE5OExSa1hQZjhjZjlGb3BCMmkyTEtkNjR5V3E1eHAxdkFYSjVmSE5fMUFpQllPeGd1UzNHektMdk1nVFp5Wk1RR1VjN1hFZTdhc3VvNUdiZC1wTXM3MHB3NDIzUnp4LUQ3bi1wYllYbU93Nzc4dGdMZXpi",
+  "snippet": "NHTSA: Massive recall of trucks and trailers TheTrucker.com",
+  "published": "2026-11-16T17:02:02+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T17:11:26.164034+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/equipment-tech/nhtsa-massive-recall-of-trucks-and-trailers",
+  "source_note": "ok · 388 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "dd682475d8e0edb5",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T17:11:26.164034+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "is reporting recalls impacting trailers and trucks"
+   },
+   {
+    "sentence": "2",
+    "quote": "The trailers may be missing the rear impact guards."
+   },
+   {
+    "sentence": "3",
+    "quote": "Remedy Dealers will install rear under-ride bumpers, free of charge."
+   },
+   {
+    "sentence": "4",
+    "quote": "The Gross Axle Weight Rating (GAWR) listed on the Federal Certification Label is incorrect"
+   },
+   {
+    "sentence": "5",
+    "quote": "The drivelines may be missing a snap ring"
+   }
+  ],
+  "sum_problems": [
+   "9 sentences but only 5 evidence entries",
+   "name 'Federal Motor Vehicle Safety Standards' is not in the source",
+   "copies a 12-word run from the source: 'is recalling certain 2020 western star 4900, 2024 freightliner cascadi'"
+  ],
+  "ai_category": "equip",
+  "ai_importance": 70
+ },
+ {
   "id": "9d5cf87578",
   "slug": "truckdown-client-api-and-telematics-integration-9d5cf87578",
   "title": "TruckDown Client API and Telematics Integration",
@@ -16781,36 +16950,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "d969881130",
-  "slug": "intermodal-leads-u-s-rail-traffic-up-6-6-from-a-year-ago-d969881130",
-  "title": "Intermodal leads U.S. rail traffic up 6.6% from a year ago",
-  "orig_title": "Intermodal leads U.S. rail traffic up 6.6% from a year ago",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 66,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1JVNWI5NE5IbU5ISlQ3cExxREx5MEJ1Vi1JcXBwYTB0dVFvcnBoenRrczJqcDlNMHJRZGhhRW9uMjd0TllUNU13aHFZQ3lNSDJ0ci1OOXNReFBhNzZuRVlIT2x5LUYyclZLZjdIZUo3c1A4ZTNnMVJCMVdqQnJPQUlyLWRzeUNiLXE4MWNWaDBlZHE0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1JVNWI5NE5IbU5ISlQ3cExxREx5MEJ1Vi1JcXBwYTB0dVFvcnBoenRrczJqcDlNMHJRZGhhRW9uMjd0TllUNU13aHFZQ3lNSDJ0ci1OOXNReFBhNzZuRVlIT2x5LUYyclZLZjdIZUo3c1A4ZTNnMVJCMVdqQnJPQUlyLWRzeUNiLXE4MWNWaDBlZHE0",
-  "snippet": "Intermodal leads U.S. rail traffic up 6.6% from a year ago FreightWaves",
-  "published": "2026-11-12T11:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T17:11:03.532315+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: US rail traffic hits intermodal record as October freight gains signal economic resilience"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "354bac58b9"
  },
  {
   "id": "c4f5ee1d13",
