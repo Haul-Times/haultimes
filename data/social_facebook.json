@@ -2224,6 +2224,34 @@
     "created": "2026-11-16T15:31:59+0000",
     "at": "2026-11-16T15:41:19.200865+00:00"
    }
+  },
+  "9fd2667383": {
+   "story_id": "9fd2667383",
+   "title": "DAT: Van spot rates hit $3.11 as truck availability climbs 9%",
+   "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVR1ZUtwU3Z2X3RyRmVOZE9rN2s2b1E1VGJyajN0ZEpCRzhtWkpibDRLVWhpSlNpX1IwNHFTdkpFU3VSYjB0eXQ2M2ZKazlrdmR3MDVYNHdkWW9JdGFYNlk5Y213M3BBLXR5YThZNWlhUzBIeHhwT3p3Zzgyb1VhWGUwc25ZMEVQdEEzQ1RTb1FSS2NNWS1uekJfNjRHUVMxaFZMUFNzUjRTeE5R",
+   "category": "rates",
+   "source": "TheTrucker.com",
+   "dest": "https://haultimes.com/story/dat-van-spot-rates-hit-3-11-as-truck-availability-climbs-9-9fd2667383/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9fd2667383",
+   "caption": "DAT: Van spot rates hit $3.11 as truck availability climbs 9%.\n\nReported by TheTrucker. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-16T16:01:25.953094+00:00",
+   "published": "2026-11-16T15:53:44+00:00",
+   "score": 68,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "DAT: Van spot rates hit $3.11 as truck availability climbs 9% | HaulTimes",
+    "og:description": "Reported by TheTrucker.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/e659031afd.png",
+    "og:url": "https://haultimes.com/story/dat-van-spot-rates-hit-3-11-as-truck-availability-climbs-9-9fd2667383/"
+   },
+   "reason": "importance 68 (threshold 65), Rates & Market, established outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": true
   }
  },
  "paused": null,
@@ -2808,7 +2836,9 @@
   "ebdfda0a3d": "skipped|minor item (incident) or low-quality source",
   "promo-20261116": "posted|HaulTimes update",
   "5dc22617e2": "skipped|importance 55 is below this platform's threshold (65)",
-  "46495c25db": "skipped|importance 55 is below this platform's threshold (65)"
+  "46495c25db": "skipped|importance 55 is below this platform's threshold (65)",
+  "9fd2667383": "queued|importance 68 (threshold 65), Rates & Market, established outlet",
+  "6d4a0ae575": "skipped|importance 56 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5582,6 +5612,20 @@
    "title": "Freight Market reminder",
    "action": "posted",
    "reason": "HaulTimes update: promo; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-16T16:01:25.953094+00:00",
+   "story_id": "9fd2667383",
+   "title": "DAT: Van spot rates hit $3.11 as truck availability climbs 9%",
+   "action": "queued",
+   "reason": "importance 68 (threshold 65), Rates & Market, established outlet"
+  },
+  {
+   "at": "2026-11-16T16:01:25.953094+00:00",
+   "story_id": "6d4a0ae575",
+   "title": "Trucking responsible for nearly $110 billion in cross-border freight for September",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
