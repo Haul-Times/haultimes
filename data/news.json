@@ -1,5 +1,34 @@
 [
  {
+  "id": "544d3dda26",
+  "slug": "massive-warehouse-fire-in-new-paltz-544d3dda26",
+  "title": "Massive warehouse fire in New Paltz",
+  "orig_title": "Massive warehouse fire in New Paltz",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Mid Hudson News",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrSFZ2TlB0VDBiTWFQVzZ5NUd4MmRnMlFxWm9GZkxpOXhKVWxKWVlYSVFmdTlhbmFvTW5mX2pnMHFhOWdoeWxaQzEwTGNzMXA1dUtock5KLWFiNndzR19nOU5SZWF2dVo5bjM0aGZCTFBKU3ZuSTlxQTZlaWs4Zw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrSFZ2TlB0VDBiTWFQVzZ5NUd4MmRnMlFxWm9GZkxpOXhKVWxKWVlYSVFmdTlhbmFvTW5mX2pnMHFhOWdoeWxaQzEwTGNzMXA1dUtock5KLWFiNndzR19nOU5SZWF2dVo5bjM0aGZCTFBKU3ZuSTlxQTZlaWs4Zw",
+  "snippet": "Massive warehouse fire in New Paltz Mid Hudson News",
+  "published": "2026-11-16T17:20:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T17:24:10.415376+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "67b90836d2",
   "slug": "small-sellers-rethink-free-shipping-over-usps-11-fuel-fee-67b90836d2",
   "title": "Small sellers rethink free shipping over USPS 11% fuel fee",
@@ -184,7 +213,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.thetrucker.com/trucking-news/equipment-tech/nhtsa-massive-recall-of-trucks-and-trailers",
   "source_note": "ok · 388 words",
   "sum_done": false,

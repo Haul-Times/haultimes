@@ -2271,14 +2271,14 @@
    "source": "Heavy Duty Trucking",
    "dest": "https://haultimes.com/story/daimler-paccar-recall-trucks-over-driveline-defect-931b43c9f1/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=931b43c9f1",
    "caption": "Daimler, Paccar Recall Trucks Over Driveline Defect.\n\nReported by Heavy Duty Trucking. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-16T17:12:13.773805+00:00",
    "published": "2026-11-16T17:03:06+00:00",
    "score": 75,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122106017247544428",
+   "posted_at": "2026-11-16T17:24:29.244702+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Daimler, Paccar Recall Trucks Over Driveline Defect | HaulTimes",
@@ -2289,7 +2289,9 @@
    "reason": "importance 75 (threshold 65), Equipment, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-16T17:24:29.244702+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122106017247544428"
   },
   "2763ad3e0b": {
    "story_id": "2763ad3e0b",
@@ -2598,6 +2600,10 @@
   {
    "at": "2026-11-16T16:21:55.827616+00:00",
    "msg": "posted 9fd2667383"
+  },
+  {
+   "at": "2026-11-16T17:24:29.244702+00:00",
+   "msg": "posted 931b43c9f1"
   }
  ],
  "decided": {
@@ -2941,7 +2947,7 @@
   "79bebecd88": "skipped|importance 55 is below this platform's threshold (65)",
   "3e8d760ee0": "skipped|importance 45 is below this platform's threshold (65)",
   "7cd9f00275": "skipped|minor item (feature) or low-quality source",
-  "931b43c9f1": "queued|importance 75 (threshold 65), Equipment, trade publication",
+  "931b43c9f1": "posted|importance 75 (threshold 65), Equipment, trade publication; waited 12 min in queue",
   "2763ad3e0b": "queued|importance 70 (threshold 65), Equipment, established outlet",
   "34b43b0666": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "67b90836d2": "skipped|importance 61 is below this platform's threshold (65)"
@@ -5795,6 +5801,13 @@
    "title": "Small sellers rethink free shipping over USPS 11% fuel fee",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T17:24:29.244702+00:00",
+   "story_id": "931b43c9f1",
+   "title": "Daimler, Paccar Recall Trucks Over Driveline Defect",
+   "action": "posted",
+   "reason": "importance 75 (threshold 65), Equipment, trade publication; waited 12 min in queue"
   }
  ],
  "visibility": {
