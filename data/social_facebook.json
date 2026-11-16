@@ -2759,7 +2759,8 @@
   "16b50bcbe8": "skipped|minor item (announcement) or low-quality source",
   "c09dcdd12b": "skipped|importance 55 is below this platform's threshold (65)",
   "05c1526a05": "expired|stale before a slot opened (published 12h ago)",
-  "d3a9eeefd5": "skipped|importance 45 is below this platform's threshold (65)"
+  "d3a9eeefd5": "skipped|importance 45 is below this platform's threshold (65)",
+  "d21f2cfb12": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5428,6 +5429,13 @@
    "title": "Idiot Truck Drivers Who Totally Failed Emma Thompson (o5uH9ygDiu)",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T10:51:19.036947+00:00",
+   "story_id": "d21f2cfb12",
+   "title": "Arkansas Trucking Companies Brace for Stagnant Diesel Prices",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
