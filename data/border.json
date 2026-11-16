@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:11:09.564404+00:00",
+ "updated": "2026-11-16T00:21:13.464609+00:00",
  "hour_now": 19,
  "have_us": true,
  "have_ca": true,
@@ -43,7 +43,7 @@
      12,
      18,
      16,
-     5,
+     6,
      0,
      0,
      0,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 7:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 7:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "19:08:46",
+    "updated": "19:13:47",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-15 17:15 CDT"
+    "updated": "2026-11-15 19:13 CDT"
    },
    "usual": {
     "south": [
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-15 17:15 EST"
+    "updated": "2026-11-15 19:08 EST"
    },
    "usual": {
     "south": [
@@ -768,9 +768,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 30,
-    "status": "30 minutes",
-    "updated": "2026-11-15 15:36 EST"
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-15 19:12 EST"
    },
    "usual": {
     "south": [
@@ -819,7 +819,7 @@
      24,
      27,
      24,
-     11,
+     9,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:08:46",
+    "updated": "19:13:47",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1093,7 +1093,7 @@
      46,
      52,
      46,
-     21,
+     26,
      0,
      0,
      0,
@@ -1236,7 +1236,7 @@
      0,
      0,
      10,
-     4,
+     5,
      0,
      0,
      0,
@@ -1262,7 +1262,7 @@
      0,
      0,
      0,
-     3,
+     5,
      0,
      0,
      0,
@@ -1337,7 +1337,7 @@
      15,
      9,
      5,
-     17,
+     16,
      24,
      9,
      5,
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
