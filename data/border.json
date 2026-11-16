@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:22:11.204742+00:00",
+ "updated": "2026-11-16T09:31:02.927419+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -20,7 +20,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 02:15 EST"
+    "updated": "2026-11-16 04:15 EST"
    },
    "usual": {
     "south": [
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 02:15 EST"
+    "updated": "2026-11-16 04:15 EST"
    },
    "usual": {
     "south": [
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 02:15 EST"
+    "updated": "2026-11-16 04:15 EST"
    },
    "usual": {
     "south": [
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:07 am EST",
+    "updated": "At 4:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-16 04:00 EST"
+    "wait": 4,
+    "status": "4 minutes",
+    "updated": "2026-11-16 04:20 EST"
    },
    "usual": {
     "south": [
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:07 am EST",
+    "updated": "At 4:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-16 04:00 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-16 04:20 EST"
    },
    "usual": {
     "south": [
@@ -389,13 +389,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:14:36",
+    "updated": "04:24:39",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 02:15 EST"
+    "updated": "2026-11-16 04:15 EST"
    },
    "usual": {
     "south": [
@@ -545,7 +545,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 02:15 EST"
+    "updated": "2026-11-16 04:15 EST"
    },
    "usual": {
     "south": [
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:14:37",
+    "updated": "04:24:39",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:14:37",
+    "updated": "04:24:39",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:14:37",
+    "updated": "04:24:39",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 03:15 AST"
+    "updated": "2026-11-16 05:15 AST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:14:36",
+    "updated": "04:24:39",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:14:37",
+    "updated": "03:24:39",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 am MST",
+    "updated": "At 2:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1247,7 +1247,7 @@
      13,
      15,
      13,
-     10,
+     11,
      0,
      0,
      0,
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-16 02:00 PDT"
+    "updated": "2026-11-16 02:20 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": null,
     "status": "Closed",
-    "updated": "2026-11-16 02:00 PDT"
+    "updated": "2026-11-16 02:20 PDT"
    },
    "usual": {
     "south": [
@@ -1453,7 +1453,7 @@
    {
     "name": "Calais Milltown",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
