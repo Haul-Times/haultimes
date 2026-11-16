@@ -2585,7 +2585,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-16T21:31:54.478821+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122106174819544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122106174819544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122106174819544428",
+    "created": "2026-11-16T21:31:54+0000",
+    "at": "2026-11-16T21:41:23.476840+00:00"
+   }
   }
  },
  "paused": null,
@@ -3244,7 +3252,8 @@
   "0b0dbe1776": "posted|importance 72 (threshold 65), Regulations, trade publication; waited 10 min in queue",
   "fc0b58075a": "posted|breaking",
   "5ae1ae5c75": "skipped|importance 62 is below this platform's threshold (65)",
-  "ae54141f56": "skipped|importance 55 is below this platform's threshold (65)"
+  "ae54141f56": "skipped|importance 55 is below this platform's threshold (65)",
+  "e7a707cad0": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6354,16 +6363,23 @@
    "title": "50% Spike: Spot Rates SOAR Earlier Than Expected",
    "action": "posted",
    "reason": "breaking: importance 93, reported by a trade publication of record; waited 15 min in queue"
+  },
+  {
+   "at": "2026-11-16T21:41:23.476840+00:00",
+   "story_id": "e7a707cad0",
+   "title": "From bus routes to ball games, diesel prices are squeezing rural Montana school budgets",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122106168081544428",
+  "post": "1476615495528085_122106174819544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122106168081544428",
-  "created": "2026-11-16T21:21:46+0000",
-  "at": "2026-11-16T21:31:54.478821+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122106174819544428",
+  "created": "2026-11-16T21:31:54+0000",
+  "at": "2026-11-16T21:41:23.476840+00:00"
  },
  "promo_i": 3
 }
