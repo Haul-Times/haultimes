@@ -2367,7 +2367,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-16T18:01:52.089977+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122106040899544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122106040899544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122106040899544428",
+    "created": "2026-11-16T18:01:52+0000",
+    "at": "2026-11-16T18:11:30.633312+00:00"
+   }
   }
  },
  "paused": null,
@@ -2981,7 +2989,9 @@
   "67b90836d2": "skipped|importance 61 is below this platform's threshold (65)",
   "982bb1e9d0": "skipped|importance 55 is below this platform's threshold (65)",
   "9df542f3fd": "skipped|importance 55 is below this platform's threshold (65)",
-  "8517912e56": "skipped|importance 60 is below this platform's threshold (65)"
+  "8517912e56": "skipped|importance 60 is below this platform's threshold (65)",
+  "08978e7f22": "skipped|importance 55 is below this platform's threshold (65)",
+  "137cb58321": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5874,16 +5884,30 @@
    "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 49 min in queue"
+  },
+  {
+   "at": "2026-11-16T18:11:30.633312+00:00",
+   "story_id": "08978e7f22",
+   "title": "New logistics firm linked to collapsed R&R transportation empire",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T18:11:30.633312+00:00",
+   "story_id": "137cb58321",
+   "title": "Commercial vehicle inspection in LaSalle results in 31 charges",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122106026661544428",
+  "post": "1476615495528085_122106040899544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122106026661544428",
-  "created": "2026-11-16T17:41:33+0000",
-  "at": "2026-11-16T17:51:22.374595+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122106040899544428",
+  "created": "2026-11-16T18:01:52+0000",
+  "at": "2026-11-16T18:11:30.633312+00:00"
  },
  "promo_i": 3
 }
