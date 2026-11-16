@@ -2728,7 +2728,8 @@
   "43b518a5f1": "skipped|importance 61 is below this platform's threshold (65)",
   "23f1039fed": "skipped|importance 50 is below this platform's threshold (65)",
   "e7d0f68271": "skipped|importance 45 is below this platform's threshold (65)",
-  "16b50bcbe8": "skipped|minor item (announcement) or low-quality source"
+  "16b50bcbe8": "skipped|minor item (announcement) or low-quality source",
+  "c09dcdd12b": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5369,6 +5370,13 @@
    "title": "Atlanta Rapper Hunxho Unveils Fleet of Semi-Trucks After Launching Trucking Business",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-16T07:21:18.738538+00:00",
+   "story_id": "c09dcdd12b",
+   "title": "Fleets commit to hiring 13K vets through 'Freedom Haulers' program",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
