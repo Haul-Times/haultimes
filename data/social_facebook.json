@@ -2309,14 +2309,14 @@
    "source": "TheTrucker.com",
    "dest": "https://haultimes.com/story/nhtsa-massive-recall-of-trucks-and-trailers-2763ad3e0b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2763ad3e0b",
    "caption": "NHTSA: Massive recall of trucks and trailers.\n\nReported by TheTrucker. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-16T17:12:13.773805+00:00",
    "published": "2026-11-16T17:02:02+00:00",
    "score": 70,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122106026661544428",
+   "posted_at": "2026-11-16T17:41:33.331588+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "NHTSA: Massive recall of trucks and trailers | HaulTimes",
@@ -2327,7 +2327,9 @@
    "reason": "importance 70 (threshold 65), Equipment, established outlet",
    "breaking": null,
    "edited": false,
-   "wait_summary": true
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-16T17:41:33.331588+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122106026661544428"
   },
   "34b43b0666": {
    "story_id": "34b43b0666",
@@ -2612,6 +2614,10 @@
   {
    "at": "2026-11-16T17:24:29.244702+00:00",
    "msg": "posted 931b43c9f1"
+  },
+  {
+   "at": "2026-11-16T17:41:33.331588+00:00",
+   "msg": "posted 2763ad3e0b"
   }
  ],
  "decided": {
@@ -2956,9 +2962,11 @@
   "3e8d760ee0": "skipped|importance 45 is below this platform's threshold (65)",
   "7cd9f00275": "skipped|minor item (feature) or low-quality source",
   "931b43c9f1": "posted|importance 75 (threshold 65), Equipment, trade publication; waited 12 min in queue",
-  "2763ad3e0b": "queued|importance 70 (threshold 65), Equipment, established outlet",
+  "2763ad3e0b": "posted|importance 70 (threshold 65), Equipment, established outlet; waited 29 min in queue",
   "34b43b0666": "queued|importance 67 (threshold 65), Regulations, trade publication",
-  "67b90836d2": "skipped|importance 61 is below this platform's threshold (65)"
+  "67b90836d2": "skipped|importance 61 is below this platform's threshold (65)",
+  "982bb1e9d0": "skipped|importance 55 is below this platform's threshold (65)",
+  "9df542f3fd": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5816,6 +5824,27 @@
    "title": "Daimler, Paccar Recall Trucks Over Driveline Defect",
    "action": "posted",
    "reason": "importance 75 (threshold 65), Equipment, trade publication; waited 12 min in queue"
+  },
+  {
+   "at": "2026-11-16T17:41:33.331588+00:00",
+   "story_id": "982bb1e9d0",
+   "title": "Union Pacific police in shootout after alleged train robbery on southern California freight line",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T17:41:33.331588+00:00",
+   "story_id": "9df542f3fd",
+   "title": "2027 Freightliner Cascadia First Drive & Gen 6 DD15 Engine Review",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T17:41:33.331588+00:00",
+   "story_id": "2763ad3e0b",
+   "title": "NHTSA: Massive recall of trucks and trailers",
+   "action": "posted",
+   "reason": "importance 70 (threshold 65), Equipment, established outlet; waited 29 min in queue"
   }
  ],
  "visibility": {
