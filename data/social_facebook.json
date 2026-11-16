@@ -2768,7 +2768,8 @@
   "6f17397a00": "skipped|importance 55 is below this platform's threshold (65)",
   "eb512cde1b": "skipped|importance 45 is below this platform's threshold (65)",
   "00dd4393b3": "skipped|importance 50 is below this platform's threshold (65)",
-  "d760efa36b": "skipped|importance 56 is below this platform's threshold (65)"
+  "d760efa36b": "skipped|importance 56 is below this platform's threshold (65)",
+  "a1ee47749d": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -5500,6 +5501,13 @@
    "title": "USPS is set to make fuel surcharge permanent, raise parcel prices 5.9% in 2027",
    "action": "skipped",
    "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T14:51:17.111885+00:00",
+   "story_id": "a1ee47749d",
+   "title": "Groundtruth launches J.B. Hunt-backed AI invoice validation platform",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
