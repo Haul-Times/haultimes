@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:01:03.520819+00:00",
+ "updated": "2026-11-16T02:07:50.133983+00:00",
  "hour_now": 21,
  "have_us": true,
  "have_ca": true,
@@ -45,7 +45,7 @@
      16,
      8,
      4,
-     1,
+     2,
      0,
      0
     ],
@@ -86,10 +86,10 @@
    "region": "on-mi",
    "south": {
     "wait": 0,
-    "fast_wait": null,
-    "lanes": "3",
+    "fast_wait": 0,
+    "lanes": "4",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 8:47 pm EST",
+    "updated": "At 8:57 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:47 pm EST",
+    "updated": "At 8:57 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "20:53:53",
+    "updated": "21:03:54",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -687,9 +687,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:53:54",
+    "updated": "21:03:54",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1095,7 +1095,7 @@
      46,
      39,
      25,
-     8,
+     14,
      0,
      0
     ],
@@ -1238,7 +1238,7 @@
      10,
      7,
      6,
-     2,
+     4,
      0,
      0
     ],
@@ -1264,7 +1264,7 @@
      0,
      9,
      6,
-     2,
+     4,
      0,
      0
     ]
@@ -1313,7 +1313,7 @@
      0,
      0,
      2,
-     1,
+     2,
      0,
      0
     ],
@@ -1339,7 +1339,7 @@
      5,
      14,
      20,
-     9,
+     8,
      5,
      5
     ]
