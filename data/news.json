@@ -1,5 +1,70 @@
 [
  {
+  "id": "83450868c8",
+  "slug": "far-east-to-us-east-coast-spot-rates-slip-after-record-october-capacit-83450868c8",
+  "title": "Far East to US East Coast Spot Rates Slip After Record October Capacity",
+  "orig_title": "Far East to US East Coast Spot Rates Slip After Record October Capacity",
+  "summary": "",
+  "why": "",
+  "category": "rates",
+  "region": "US",
+  "importance": 62,
+  "source": "Global Trade Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXJzZUhJU0RSY1luYzdwQjNRSkJ1c1Axai1NbTBSanlsbXRxQjNyYUt0aVZTMHZnYUFWc2d2WGNrX3ZkMWg5S1ZzcHBmNXRrd3F2LTRZT2pJSTlSUU9wQl9kS0VHc1hIeGJzUUloamJ2VFpJMU5TLTFZS3J3bmhmNGRMYjN6RGJHR29QZU5GXzBTV1p0V3NYVzVqWnVYZ3NlRS04TG9tYzZ4SDc5SEU2c3FST1VzVVZ0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXJzZUhJU0RSY1luYzdwQjNRSkJ1c1Axai1NbTBSanlsbXRxQjNyYUt0aVZTMHZnYUFWc2d2WGNrX3ZkMWg5S1ZzcHBmNXRrd3F2LTRZT2pJSTlSUU9wQl9kS0VHc1hIeGJzUUloamJ2VFpJMU5TLTFZS3J3bmhmNGRMYjN6RGJHR29QZU5GXzBTV1p0V3NYVzVqWnVYZ3NlRS04TG9tYzZ4SDc5SEU2c3FST1VzVVZ0",
+  "snippet": "Far East to US East Coast Spot Rates Slip After Record October Capacity Global Trade Magazine",
+  "published": "2026-11-16T09:04:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T09:22:11.365545+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.globaltrademag.com/far-east-to-us-east-coast-spot-rates-slip-after-record-october-capacity/?gtd=3850&scn=",
+  "source_note": "ok · 442 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "6ccf050400e6928e",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T09:22:11.365545+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "have begun to ease after carriers deployed record capacity in October"
+   },
+   {
+    "sentence": "2",
+    "quote": "attributed the shift to the interplay between capacity management and weakening demand"
+   },
+   {
+    "sentence": "3",
+    "quote": "reached an all-time high of 179,000 TEU per week in October, up 10.9% from a year earlier"
+   },
+   {
+    "sentence": "4",
+    "quote": "likely by blanking sailings as they did in October"
+   },
+   {
+    "sentence": "5",
+    "quote": "Far East to US East Coast slipped 0.6%, or USD 73 per FEU"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "rates",
+  "ai_importance": 20,
+  "ai_relevant": false
+ },
+ {
   "id": "6de0ee3e9a",
   "slug": "gaza-s-aid-trucks-nearing-collapse-as-israel-bars-entry-of-spare-parts-6de0ee3e9a",
   "title": "Gaza's Aid Trucks Nearing Collapse as Israel Bars Entry of Spare Parts",
