@@ -29,6 +29,63 @@
   "sum_pending": false
  },
  {
+  "id": "5f8f3050dd",
+  "slug": "shafaq-news-syria-s-60-000-truckers-need-licensed-firms-industry-says-5f8f3050dd",
+  "title": "Shafaq News..Syria’s 60,000 truckers need licensed firms, industry says",
+  "orig_title": "Shafaq News..Syria’s 60,000 truckers need licensed firms, industry says",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "Other",
+  "importance": 45,
+  "source": "شفق نيوز",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOE1OUTBETnU0WnItbjV3ZXJkV3JqYU5seUtCQ0s0Ny1rbG9sRG9WcFJOSXp1UTMyVmpYaE1nUXNGUkQ1YTdlbE5lTGRtRkpXd0tZVjRhcUhJbG94Z00yZmQxSnRaNEl3THpMbTVrWDJUUGYwRUYtNzJKTlU3d3ZXNUhXZk5zcHNCejdwYkhtYVdfSnBZZVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOE1OUTBETnU0WnItbjV3ZXJkV3JqYU5seUtCQ0s0Ny1rbG9sRG9WcFJOSXp1UTMyVmpYaE1nUXNGUkQ1YTdlbE5lTGRtRkpXd0tZVjRhcUhJbG94Z00yZmQxSnRaNEl3THpMbTVrWDJUUGYwRUYtNzJKTlU3d3ZXNUhXZk5zcHNCejdwYkhtYVdfSnBZZVE",
+  "snippet": "Shafaq News..Syria’s 60,000 truckers need licensed firms, industry says شفق نيوز",
+  "published": "2026-11-16T10:44:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T11:01:09.521796+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://shafaq.com/en/Middle-East/Syria-s-60-000-truckers-need-licensed-firms-industry-says",
+  "source_note": "ok · 311 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "b32a7e09e93c927d",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T11:01:09.521796+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "needs to be reorganized into licensed companies"
+   },
+   {
+    "sentence": "2",
+    "quote": "several hundred licensed haulage firms"
+   },
+   {
+    "sentence": "3",
+    "quote": "standards on truck age, safety, insurance and electronic tracking"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 12,
+  "ai_relevant": false
+ },
+ {
   "id": "9dd51b4058",
   "slug": "raynham-technician-named-national-diesel-champion-9dd51b4058",
   "title": "Raynham technician named national diesel champion",
@@ -1748,6 +1805,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "ac43e340bb",
+  "slug": "uzbekistan-and-norway-discuss-norwegian-standard-welding-training-prog-ac43e340bb",
+  "title": "Uzbekistan and Norway discuss Norwegian-standard welding training program",
+  "orig_title": "Uzbekistan and Norway discuss Norwegian-standard welding training program",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Daryo",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVJoN0JCUVljZHBpWFQ0STJMUGdnb1YzbDVSOGxGVE94ci02RG9hY3I4V201eTJFRkRyenpPUXNuX1BwLVEtbmt3NnhYUWw5OHFfVE02bXU1NjlGRk9NRTdmS0o1anFmcHNqTUcwRzBVMDJuN2hIZGRjeGpKc3U3d2lZRlp4SGtXMWw2cC16UGRaS2RVUnM3SEI1ckZvd3hWMTJRWEQzaEQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVJoN0JCUVljZHBpWFQ0STJMUGdnb1YzbDVSOGxGVE94ci02RG9hY3I4V201eTJFRkRyenpPUXNuX1BwLVEtbmt3NnhYUWw5OHFfVE02bXU1NjlGRk9NRTdmS0o1anFmcHNqTUcwRzBVMDJuN2hIZGRjeGpKc3U3d2lZRlp4SGtXMWw2cC16UGRaS2RVUnM3SEI1ckZvd3hWMTJRWEQzaEQ",
+  "snippet": "Uzbekistan and Norway discuss Norwegian-standard welding training program Daryo",
+  "published": "2026-11-15T11:30:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T11:01:09.521796+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -15663,35 +15749,6 @@
   "published": "2026-11-12T10:00:55+00:00",
   "date_known": true,
   "first_seen": "2026-11-12T22:11:02.826113+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "43c75a4f29",
-  "slug": "rethinking-owned-warehouses-as-a-capital-allocation-decision-43c75a4f29",
-  "title": "Rethinking Owned Warehouses as a Capital Allocation Decision",
-  "orig_title": "Rethinking Owned Warehouses as a Capital Allocation Decision",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "SupplyChainBrain",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNHBNSjl5S05sdURvLTdFbkVEM040VTNmTmVZS1NZWlRQdHdSVVFWa0NYbmFNcDhDQkM5LXdIWExpZm85N2txb1lhbWtIZ3Ryc0dLTTVBeUxLTmtrcHJJNmpfRHk1LVBNZU53REJidEZLWHVWV01jOFdsWmZZVWhxeUZjeFBSaEJuNUJKWGRJOG44Q2t6eXJiTHV5UkdPdmxuME5EcTNVWGpPRXVDa1VUTjRiSXFyNThKRC10S2lXMTFSUQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNHBNSjl5S05sdURvLTdFbkVEM040VTNmTmVZS1NZWlRQdHdSVVFWa0NYbmFNcDhDQkM5LXdIWExpZm85N2txb1lhbWtIZ3Ryc0dLTTVBeUxLTmtrcHJJNmpfRHk1LVBNZU53REJidEZLWHVWV01jOFdsWmZZVWhxeUZjeFBSaEJuNUJKWGRJOG44Q2t6eXJiTHV5UkdPdmxuME5EcTNVWGpPRXVDa1VUTjRiSXFyNThKRC10S2lXMTFSUQ",
-  "snippet": "Rethinking Owned Warehouses as a Capital Allocation Decision SupplyChainBrain",
-  "published": "2026-11-12T09:11:25+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T11:01:05.510833+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
