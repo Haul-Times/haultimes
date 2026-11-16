@@ -1413,7 +1413,7 @@
   "summary": "",
   "why": "",
   "category": "equip",
-  "region": "",
+  "region": "Other",
   "importance": 45,
   "source": "Modernet Digital",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2liT0ZXMVVkRXRWRHhPcXZoY3I3WGE4b3d5WUxfLTVZNUJ4R1pkbUJpUExvMWx6elFwblg1Vk1tMUFGVXVza3lja0RIMUtTaG5KWFFSajIxNzR5UzVxVVFMelFSU0dsYWs5ekxmakplSGRrYVdFV2dzOGlETWR0bmdVdnlxTE1zMmJaMUs5SDRkQ3R6WTY2SmwxeHdpcGg4N2gxbm5WaGxOVkxQVGwzWThKRWQ0cEE?oc=5",
@@ -1430,7 +1430,50 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.modernetdigital.cat/en/engine/humble-hauler-electric-truck-88-km-h-sense-cabin/20261115101330062856.html",
+  "source_note": "ok · 964 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "e58fcc9a1fbd18b2",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T08:21:19.147196+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Humble Robotics is working on an autonomous electric machine"
+   },
+   {
+    "sentence": "2",
+    "quote": "The announced figures reach 88 km/h and 320 km of autonomy"
+   },
+   {
+    "sentence": "3",
+    "quote": "Humble Robotics states it can carry refrigerated containers"
+   },
+   {
+    "sentence": "4",
+    "quote": "Humble Robotics assures that the prototype has redundant safety systems"
+   },
+   {
+    "sentence": "5",
+    "quote": "The company announced a $51 million funding round"
+   },
+   {
+    "sentence": "6",
+    "quote": "At the time of publication, the Humble Hauler had not made any commercial transport"
+   }
+  ],
+  "sum_problems": [
+   "The source does not state where Humble Robotics operates or whether any North American deployment is planned, so the region and North American relevance are unconfirmed."
+  ],
+  "ai_category": "equip",
+  "ai_importance": 35,
+  "pending_summary": "Humble Robotics is developing the Humble Hauler, an autonomous electric truck with no cab, aimed at short moves around ports, rail terminals, warehouses and distribution centers. The company announces a top speed of 88 km/h and a range of about 320 km, and says the design targets regional routes under 400 km. The single electric chassis can carry 12-meter maritime containers or domestic semi-trailers up to 16 meters, and the company states it can also handle refrigerated containers. For perception, the vehicle uses 360-degree cameras, lidar and radar, and the company says it has redundant safety systems for night and bad weather. Humble Robotics announced a $51 million funding round and said it had raised more than $75 million in under a year, to pay for customer trials, vehicle validation and the start of production. At publication the truck had not made any commercial transport, and the company plans twelve months of trials focused on port operations and warehouse transfers.",
+  "pending_why": ""
  },
  {
   "id": "d8d66df266",

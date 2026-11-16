@@ -2174,7 +2174,7 @@
    "source": "Orange County Register",
    "dest": "https://haultimes.com/story/orange-county-teamsters-say-have-ratified-contract-will-end-24-day-str-05c1526a05/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=05c1526a05",
    "caption": "Orange County Teamsters say have ratified contract, will end 24-day strike.\n\nReported by Orange County Register. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-16T08:11:57.420569+00:00",
    "published": "2026-11-15T20:13:05+00:00",
    "score": 65,
@@ -2758,7 +2758,7 @@
   "e7d0f68271": "skipped|importance 45 is below this platform's threshold (65)",
   "16b50bcbe8": "skipped|minor item (announcement) or low-quality source",
   "c09dcdd12b": "skipped|importance 55 is below this platform's threshold (65)",
-  "05c1526a05": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  "05c1526a05": "expired|stale before a slot opened (published 12h ago)"
  },
  "decisions": [
   {
@@ -5413,6 +5413,13 @@
    "title": "Orange County Teamsters say have ratified contract, will end 24-day strike",
    "action": "queued",
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  },
+  {
+   "at": "2026-11-16T08:21:43.308579+00:00",
+   "story_id": "05c1526a05",
+   "title": "Orange County Teamsters say have ratified contract, will end 24-day strike",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {
