@@ -25,9 +25,9 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
-  "source_note": "no publisher address: google decode request HTTPError",
-  "sum_status": "retrying (no publisher address: google decode request HTTPError)"
+  "sum_tries": 2,
+  "source_note": "no publisher address: google page HTTPError",
+  "sum_status": "retrying (no publisher address: google page HTTPError)"
  },
  {
   "id": "9fd2667383",
@@ -55,9 +55,9 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
-  "source_note": "no publisher address: google decode request HTTPError",
-  "sum_status": "retrying (no publisher address: google decode request HTTPError)"
+  "sum_tries": 2,
+  "source_note": "no publisher address: google page HTTPError",
+  "sum_status": "retrying (no publisher address: google page HTTPError)"
  },
  {
   "id": "0e8cc0e140",
