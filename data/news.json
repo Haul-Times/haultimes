@@ -1,5 +1,34 @@
 [
  {
+  "id": "bb685d2806",
+  "slug": "u-s-container-imports-break-a-four-year-volume-record-in-october-repor-bb685d2806",
+  "title": "U.S. container imports break a four-year volume record in October, reports Descartes",
+  "orig_title": "U.S. container imports break a four-year volume record in October, reports Descartes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Logistics Management",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEdPNlY2TDhSSS03RG04U1hrRVEtbk5XR2tIbFUyOXFiOGxGdzM2SG5KZFIzWTcyd0pNNXBwb1cwVFd0NWFhT09DVVppMmVHS0p6OGVxMGFlVE1QVFVzcXE2WDBjaEQ1MGFGaXF2WFJsQVBUNDRWQVlKVVZtQXJNRmpuWWU5TlFMY0hjOXVvUEhJYlRqMVNMTUY3cUVwZlQ2ZFFHWnBGSC1fRUNIZXFpaFA3ck0xNEozQ0tsQw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEdPNlY2TDhSSS03RG04U1hrRVEtbk5XR2tIbFUyOXFiOGxGdzM2SG5KZFIzWTcyd0pNNXBwb1cwVFd0NWFhT09DVVppMmVHS0p6OGVxMGFlVE1QVFVzcXE2WDBjaEQ1MGFGaXF2WFJsQVBUNDRWQVlKVVZtQXJNRmpuWWU5TlFMY0hjOXVvUEhJYlRqMVNMTUY3cUVwZlQ2ZFFHWnBGSC1fRUNIZXFpaFA3ck0xNEozQ0tsQw",
+  "snippet": "U.S. container imports break a four-year volume record in October, reports Descartes Logistics Management",
+  "published": "2026-11-16T14:29:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T14:31:05.282973+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "bcd5502d2c",
   "slug": "owl-survives-65mph-collision-with-tractor-trailer-rescued-by-carlisle-bcd5502d2c",
   "title": "Owl survives 65mph collision with tractor-trailer, rescued by Carlisle trucking company",
@@ -15399,35 +15428,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "161af883cc",
-  "slug": "us-midterm-shift-adds-trade-uncertainty-as-trans-pacific-ocean-freight-161af883cc",
-  "title": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated",
-  "orig_title": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2k2ektKUFN0bDFNSmZJV0JQWlE2RGJYOWQ2ZHlKUGRGeVVscGs1eHVvZy13RDV2cTlOd011SV91MUhWcTNMTmI3QmJodEZxb3FTNkFvdWxWdE92R0QtSWZROXRIby1OakRESGJVSjZpSmlsRWtzMDBhMGlabXhwT2kxM2pGNTFqLUVDNXNlVURFR1RsZ1I1WndIeG1pSVJFY005TE5XTWJnUFBoVkVSb0lEdFNfYjU2cTJEMkd0ZVVlQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2k2ektKUFN0bDFNSmZJV0JQWlE2RGJYOWQ2ZHlKUGRGeVVscGs1eHVvZy13RDV2cTlOd011SV91MUhWcTNMTmI3QmJodEZxb3FTNkFvdWxWdE92R0QtSWZROXRIby1OakRESGJVSjZpSmlsRWtzMDBhMGlabXhwT2kxM2pGNTFqLUVDNXNlVURFR1RsZ1I1WndIeG1pSVJFY005TE5XTWJnUFBoVkVSb0lEdFNfYjU2cTJEMkd0ZVVlQQ",
-  "snippet": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated FreightWaves",
-  "published": "2026-11-12T14:25:28+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T14:31:03.367515+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "ocean/air freight with no North American trucking link"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "978da24711",
   "slug": "oil-prices-rise-after-trump-says-u-s-doesn-t-need-iran-deal-978da24711",
   "title": "Oil prices rise after Trump says U.S. doesn't need Iran deal",
@@ -15487,35 +15487,6 @@
   "source_note": "paywalled: excerpt only · 28 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "8e2448c03e",
-  "slug": "fedex-enhances-european-road-and-air-networks-8e2448c03e",
-  "title": "FedEx enhances European road and air networks",
-  "orig_title": "FedEx enhances European road and air networks",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlVmTktiMy1TTEtaQ3RuVnRpNGVEY2dlWWJrQ2tCT0RVWFZUbDF4U2czOUZOdnVicVFRSk9Uc0ZtNHdhU05mVWtxNXVjWEQ2b3hSWjh3WXVTWTZsR0NOM1l3Mm5nemFpVEJUR0NqRG03c0lhOGlkOWlFd1RwSHRjZ0lEdUEzdw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlVmTktiMy1TTEtaQ3RuVnRpNGVEY2dlWWJrQ2tCT0RVWFZUbDF4U2czOUZOdnVicVFRSk9Uc0ZtNHdhU05mVWtxNXVjWEQ2b3hSWjh3WXVTWTZsR0NOM1l3Mm5nemFpVEJUR0NqRG03c0lhOGlkOWlFd1RwSHRjZ0lEdUEzdw",
-  "snippet": "FedEx enhances European road and air networks FreightWaves",
-  "published": "2026-11-12T14:12:18+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T14:31:03.367515+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "0ed3ac9dd9",
