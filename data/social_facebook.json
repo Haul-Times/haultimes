@@ -2727,7 +2727,8 @@
   "697b6bd9d3": "skipped|importance 50 is below this platform's threshold (65)",
   "43b518a5f1": "skipped|importance 61 is below this platform's threshold (65)",
   "23f1039fed": "skipped|importance 50 is below this platform's threshold (65)",
-  "e7d0f68271": "skipped|importance 45 is below this platform's threshold (65)"
+  "e7d0f68271": "skipped|importance 45 is below this platform's threshold (65)",
+  "16b50bcbe8": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -5361,6 +5362,13 @@
    "title": "Second fatal commercial vehicle crash on Highway 69 in 8 days",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T05:48:53.925770+00:00",
+   "story_id": "16b50bcbe8",
+   "title": "Atlanta Rapper Hunxho Unveils Fleet of Semi-Trucks After Launching Trucking Business",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
