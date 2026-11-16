@@ -2758,7 +2758,8 @@
   "e7d0f68271": "skipped|importance 45 is below this platform's threshold (65)",
   "16b50bcbe8": "skipped|minor item (announcement) or low-quality source",
   "c09dcdd12b": "skipped|importance 55 is below this platform's threshold (65)",
-  "05c1526a05": "expired|stale before a slot opened (published 12h ago)"
+  "05c1526a05": "expired|stale before a slot opened (published 12h ago)",
+  "d3a9eeefd5": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5420,6 +5421,13 @@
    "title": "Orange County Teamsters say have ratified contract, will end 24-day strike",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-16T10:41:21.169378+00:00",
+   "story_id": "d3a9eeefd5",
+   "title": "Idiot Truck Drivers Who Totally Failed Emma Thompson (o5uH9ygDiu)",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
