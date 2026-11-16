@@ -25,7 +25,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.asianlawcaucus.org/news-resources/news/ny-immigrant-truck-drivers",
   "source_note": "ok · 526 words"
  },
@@ -77,8 +77,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: IRU webinar: FMCSA regulatory agenda, 2026 review and 2027 outlook"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -86,7 +88,8 @@
   "pub_url": "https://www.freightwaves.com/news/q3-2026-freight-earnings-rates-capacity-and-2027-bid-outlook",
   "source_note": "paywalled: excerpt only · 26 words",
   "sum_done": true,
-  "sum_status": "excerpt too short to summarize"
+  "sum_status": "excerpt too short to summarize",
+  "dup_of": "19d239834c"
  },
  {
   "id": "5cbdc2fa11",
@@ -234,6 +237,33 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "19d239834c",
+  "slug": "iru-webinar-fmcsa-regulatory-agenda-2026-review-and-2027-outlook-19d239834c",
+  "title": "IRU webinar: FMCSA regulatory agenda, 2026 review and 2027 outlook",
+  "orig_title": "IRU webinar: FMCSA regulatory agenda, 2026 review and 2027 outlook",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 63,
+  "source": "Ontario Trucking Association",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHFweFhQWTEtYWJwVmhMZ1BOdGpwSktBNkxmTHh2eGtrRE03VjY5c2lnUm5OdXcxVkpiXzIzS1piOS1uTEQyU05CWjVwSWktVDk5MFVzOW5CMGpWTjQ5R1J0MVZQTjV6bUd3UmR0Q2M2ZUJmRzBHTDNyVERSVjhPcEhFTGZUaGExbENNVm9R?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHFweFhQWTEtYWJwVmhMZ1BOdGpwSktBNkxmTHh2eGtrRE03VjY5c2lnUm5OdXcxVkpiXzIzS1piOS1uTEQyU05CWjVwSWktVDk5MFVzOW5CMGpWTjQ5R1J0MVZQTjV6bUd3UmR0Q2M2ZUJmRzBHTDNyVERSVjhPcEhFTGZUaGExbENNVm9R",
+  "snippet": "IRU webinar: FMCSA regulatory agenda, 2026 review and 2027 outlook Ontario Trucking Association",
+  "published": "2026-11-16T18:28:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T19:27:20.952920+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "event",
+  "sum_pending": true
  },
  {
   "id": "9ae926507f",
@@ -15148,35 +15178,6 @@
   "dup_of": "3ca753f2e7"
  },
  {
-  "id": "0fd155ce42",
-  "slug": "chile-s-truckers-reject-fuel-concessions-as-diesel-prices-surge-and-st-0fd155ce42",
-  "title": "Chile's truckers reject fuel concessions as diesel prices surge and strike threatens fruit exports",
-  "orig_title": "Chile's truckers reject fuel concessions as diesel prices surge and strike threatens fruit exports",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Latin Times",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xNEJTMG5ZSktUUy15VmpMZFR6LWpGU29veGJnVFBXMHZ1WlgxaUFVTTMxYWVabDgxVUE1c1VYWEtMdzByMDB4aDRfV2ltUmtoSDJyVGRMR2NqOG9yVTR6aVBrUVBLWTZ0QmRuUmtSZmtmdlRZSjZkM2dKYUo5QQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xNEJTMG5ZSktUUy15VmpMZFR6LWpGU29veGJnVFBXMHZ1WlgxaUFVTTMxYWVabDgxVUE1c1VYWEtMdzByMDB4aDRfV2ltUmtoSDJyVGRMR2NqOG9yVTR6aVBrUVBLWTZ0QmRuUmtSZmtmdlRZSjZkM2dKYUo5QQ",
-  "snippet": "Chile's truckers reject fuel concessions as diesel prices surge and strike threatens fruit exports Latin Times",
-  "published": "2026-11-12T19:10:30+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T19:21:07.515867+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "c9a556903c",
   "slug": "microsoft-365-outage-continues-globally-as-company-says-no-fix-yet-c9a556903c",
   "title": "Microsoft 365 outage continues globally as company says no fix yet",
@@ -15708,35 +15709,6 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "17c8e0dd1f",
-  "slug": "houston-warehouse-demand-highlights-need-for-flexible-compliant-storag-17c8e0dd1f",
-  "title": "Houston Warehouse Demand Highlights Need for Flexible, Compliant Storage, Says Adams Warehouse and Delivery",
-  "orig_title": "Houston Warehouse Demand Highlights Need for Flexible, Compliant Storage, Says Adams Warehouse and Delivery",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "WBOC TV",
-  "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQS0VPYWVlek5KdnZ6TUtVYTVwMDUtNkdsY28tZzBUU2Q3aGhoeHBENVpTdGFubC0xajZXa2RsZnRmc1dIa2ZyN2xLTndFNHowR0hJWnc4SkxrXzQ5RlI2RExZZFdKSktnTkpsc3owaHRpRlJ2Z0V0aGU4ZFNVajNJczFFT0xVQlh6Ni1BREcya1hQUFozUWp0NEYxRzlpWjdMdGtaQU1JWVVoWmVrQmpvUk9QU3RnRHlxWG5rY0tWclBod3pzRkoyX1dod2Y4NktFemRLQ0MyWmJ1Zno0X2xZZEY2T3FOZ3BtWkZxcmVLZ1IteEM2SGNkZExPRHFuNzh3eDZDMjhqYjc3bXlzNHFnd0F3Z3h1ejdoUFBzOXpyTjBOcHM3TURkT1ppYlZZaE81?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQS0VPYWVlek5KdnZ6TUtVYTVwMDUtNkdsY28tZzBUU2Q3aGhoeHBENVpTdGFubC0xajZXa2RsZnRmc1dIa2ZyN2xLTndFNHowR0hJWnc4SkxrXzQ5RlI2RExZZFdKSktnTkpsc3owaHRpRlJ2Z0V0aGU4ZFNVajNJczFFT0xVQlh6Ni1BREcya1hQUFozUWp0NEYxRzlpWjdMdGtaQU1JWVVoWmVrQmpvUk9QU3RnRHlxWG5rY0tWclBod3pzRkoyX1dod2Y4NktFemRLQ0MyWmJ1Zno0X2xZZEY2T3FOZ3BtWkZxcmVLZ1IteEM2SGNkZExPRHFuNzh3eDZDMjhqYjc3bXlzNHFnd0F3Z3h1ejdoUFBzOXpyTjBOcHM3TURkT1ppYlZZaE81",
-  "snippet": "Houston Warehouse Demand Highlights Need for Flexible, Compliant Storage, Says Adams Warehouse and Delivery WBOC TV",
-  "published": "2026-11-12T18:20:05+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T19:21:07.515867+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",

@@ -2423,7 +2423,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/q3-2026-freight-earnings-rates-capacity-and-2027-bid-outlook-a55b26d80e/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=a55b26d80e",
    "caption": "Q3 2026 Freight Earnings: Rates, Capacity and 2027 Bid Outlook.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
-   "status": "queued",
+   "status": "merged",
    "created_at": "2026-11-16T19:11:26.966561+00:00",
    "published": "2026-11-16T19:00:00+00:00",
    "score": 73,
@@ -3096,9 +3096,10 @@
   "9ae926507f": "skipped|importance 50 is below this platform's threshold (65)",
   "1addcc22f3": "skipped|importance 45 is below this platform's threshold (65)",
   "9182078c69": "skipped|importance 45 is below this platform's threshold (65)",
-  "a55b26d80e": "queued|importance 73 (threshold 65), Rates & Market, trade publication",
+  "a55b26d80e": "merged|superseded by a stronger report",
   "648d8b13ab": "queued|importance 70 (threshold 65), Regulations, local/other outlet",
-  "b5f9f12efa": "skipped|importance 55 is below this platform's threshold (65)"
+  "b5f9f12efa": "skipped|importance 55 is below this platform's threshold (65)",
+  "19d239834c": "skipped|minor item (event) or low-quality source"
  },
  "decisions": [
   {
@@ -6075,6 +6076,20 @@
    "title": "How to get driver drug and alcohol testing right",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T19:27:36.888125+00:00",
+   "story_id": "a55b26d80e",
+   "title": "Q3 2026 Freight Earnings: Rates, Capacity and 2027 Bid Outlook",
+   "action": "merged",
+   "reason": "superseded by a stronger report: IRU webinar: FMCSA regulatory agenda, 2026 review and 2027 outlook (Ontario Trucking Association)"
+  },
+  {
+   "at": "2026-11-16T19:27:36.888125+00:00",
+   "story_id": "19d239834c",
+   "title": "IRU webinar: FMCSA regulatory agenda, 2026 review and 2027 outlook",
+   "action": "skipped",
+   "reason": "minor item (event) or low-quality source"
   }
  ],
  "visibility": {

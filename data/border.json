@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:21:05.517508+00:00",
+ "updated": "2026-11-16T19:27:20.793083+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -20,7 +20,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 12:15 EST"
+    "updated": "2026-11-16 14:15 EST"
    },
    "usual": {
     "south": [
@@ -38,7 +38,7 @@
      2,
      2,
      0,
-     5,
+     4,
      20,
      25,
      35,
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 12:15 EST"
+    "updated": "2026-11-16 14:15 EST"
    },
    "usual": {
     "south": [
@@ -263,7 +263,7 @@
      2,
      5,
      16,
-     15,
+     14,
      29,
      41,
      7,
@@ -338,7 +338,7 @@
      0,
      0,
      0,
-     3,
+     2,
      0,
      23,
      6,
@@ -395,7 +395,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 12:15 EST"
+    "updated": "2026-11-16 14:15 EST"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 12:15 EST"
+    "updated": "2026-11-16 14:15 EST"
    },
    "usual": {
     "south": [
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 12:15 EST"
+    "updated": "2026-11-16 14:15 EST"
    },
    "usual": {
     "south": [
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 13:15 AST"
+    "updated": "2026-11-16 15:15 AST"
    },
    "usual": {
     "south": [
