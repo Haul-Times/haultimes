@@ -3295,7 +3295,8 @@
   "815d03511b": "skipped|minor item (incident) or low-quality source",
   "736ebd8ba5": "queued|importance 87 (threshold 65), Regulations, trade publication",
   "0db08617d2": "skipped|importance 55 is below this platform's threshold (65)",
-  "3e2cafbf0f": "skipped|importance 45 is below this platform's threshold (65)"
+  "3e2cafbf0f": "skipped|importance 45 is below this platform's threshold (65)",
+  "a812fcb144": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6440,6 +6441,13 @@
    "title": "Optimus Technologies Runs B100 Trucks for Deere",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T23:02:08.752693+00:00",
+   "story_id": "a812fcb144",
+   "title": "How ATA Wants to Fix ELD Certification",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
