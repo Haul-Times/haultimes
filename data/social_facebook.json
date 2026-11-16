@@ -3294,7 +3294,8 @@
   "e7a707cad0": "skipped|importance 57 is below this platform's threshold (65)",
   "815d03511b": "skipped|minor item (incident) or low-quality source",
   "736ebd8ba5": "queued|importance 87 (threshold 65), Regulations, trade publication",
-  "0db08617d2": "skipped|importance 55 is below this platform's threshold (65)"
+  "0db08617d2": "skipped|importance 55 is below this platform's threshold (65)",
+  "3e2cafbf0f": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6432,6 +6433,13 @@
    "title": "Meta pays Nevoya to put 25 electric trucks on I-10",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T23:01:19.072376+00:00",
+   "story_id": "3e2cafbf0f",
+   "title": "Optimus Technologies Runs B100 Trucks for Deere",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
