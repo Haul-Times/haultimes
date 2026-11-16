@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:41:06.586035+00:00",
+ "updated": "2026-11-16T18:51:19.652076+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -112,7 +112,7 @@
      12,
      36,
      54,
-     55,
+     54,
      39,
      45,
      30,
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 22,
+    "wait": 18,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 1:27 pm EST",
+    "updated": "At 1:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-16 13:20 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-16 13:40 EST"
    },
    "usual": {
     "south": [
@@ -288,7 +288,7 @@
      2,
      2,
      3,
-     1,
+     2,
      1,
      1,
      2,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:27 pm EST",
+    "updated": "At 1:37 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-16 13:20 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-16 13:40 EST"
    },
    "usual": {
     "south": [
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At Noon EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:40:20",
+    "updated": "13:50:21",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-16 11:20 PDT"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-16 11:40 PDT"
    },
    "usual": {
     "south": [
@@ -1331,7 +1331,7 @@
      5,
      5,
      5,
-     5,
+     6,
      5,
      5,
      5,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 11:20 PDT"
+    "updated": "2026-11-16 11:40 PDT"
    },
    "usual": {
     "south": [
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 10,
+    "status": "delay"
    },
    {
     "name": "Norton",

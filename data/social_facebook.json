@@ -2385,14 +2385,14 @@
    "source": "Land Line Media",
    "dest": "https://haultimes.com/story/lower-fuel-taxes-truckers-still-face-a-catch-37742997b4/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=37742997b4",
    "caption": "Lower fuel taxes? Truckers still face a catch.\n\nReported by Land Line Media. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-16T18:41:28.321696+00:00",
    "published": "2026-11-16T18:39:03+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122106080565544428",
+   "posted_at": "2026-11-16T18:54:15.030333+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Lower fuel taxes? Truckers still face a catch | HaulTimes",
@@ -2403,7 +2403,9 @@
    "reason": "importance 67 (threshold 65), Fuel, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-16T18:54:15.030333+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122106080565544428"
   }
  },
  "paused": null,
@@ -2668,6 +2670,10 @@
   {
    "at": "2026-11-16T18:01:52.089977+00:00",
    "msg": "posted 34b43b0666"
+  },
+  {
+   "at": "2026-11-16T18:54:15.030333+00:00",
+   "msg": "posted 37742997b4"
   }
  ],
  "decided": {
@@ -3020,7 +3026,7 @@
   "8517912e56": "skipped|importance 60 is below this platform's threshold (65)",
   "08978e7f22": "skipped|importance 55 is below this platform's threshold (65)",
   "137cb58321": "skipped|importance 50 is below this platform's threshold (65)",
-  "37742997b4": "queued|importance 67 (threshold 65), Fuel, trade publication",
+  "37742997b4": "posted|importance 67 (threshold 65), Fuel, trade publication; waited 12 min in queue",
   "121a1bbed1": "skipped|importance 56 is below this platform's threshold (65)",
   "8c2c5b57b2": "skipped|importance 55 is below this platform's threshold (65)",
   "9ae926507f": "skipped|importance 50 is below this platform's threshold (65)"
@@ -5958,6 +5964,13 @@
    "title": "Truckstop, FTR: Spot rate changes are mixed as usual in latest week",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T18:54:15.030333+00:00",
+   "story_id": "37742997b4",
+   "title": "Lower fuel taxes? Truckers still face a catch",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Fuel, trade publication; waited 12 min in queue"
   }
  ],
  "visibility": {
