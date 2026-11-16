@@ -2414,6 +2414,62 @@
     "created": "2026-11-16T18:54:15+0000",
     "at": "2026-11-16T19:01:31.034021+00:00"
    }
+  },
+  "a55b26d80e": {
+   "story_id": "a55b26d80e",
+   "title": "Q3 2026 Freight Earnings: Rates, Capacity and 2027 Bid Outlook",
+   "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3pMc0dBLThDaUdqazZSS0k4THl6QVJsWmgwcXlXN3VlbUNtbnUyOWpJck0wUHV1bEFqYzRYT2VVS09sdFpmT3Riek5tRWlMQ2pDRFRpZlVlUkVzUk96LTZZeTJqY3VGWkhDaEQ3VXVuUFo3b2pKb1pWNEtRU0o3R1BGTGlvQWZzU1Z4TUl1dVBydjBGcDRSNGln",
+   "category": "rates",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/q3-2026-freight-earnings-rates-capacity-and-2027-bid-outlook-a55b26d80e/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=a55b26d80e",
+   "caption": "Q3 2026 Freight Earnings: Rates, Capacity and 2027 Bid Outlook.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-16T19:11:26.966561+00:00",
+   "published": "2026-11-16T19:00:00+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Q3 2026 Freight Earnings: Rates, Capacity and 2027 Bid Outlook | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/317de24e63.png",
+    "og:url": "https://haultimes.com/story/q3-2026-freight-earnings-rates-capacity-and-2027-bid-outlook-a55b26d80e/"
+   },
+   "reason": "importance 73 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
+  },
+  "648d8b13ab": {
+   "story_id": "648d8b13ab",
+   "title": "Federal Court Strikes Down Determination, Reaffirms NY Immigrant Truck Drivers’ Ability to Work",
+   "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEF5ZHNkamo1NF9pbWwxR2ZnNFZMbUhrbUFEdTRYUVhwNlBZcWs0X2RJd0tHYmtnU2lFWHN4RE52VFktRFRpS0Y5ZzRuYmh1QTFkZG1ETGt2RktEV1VHdTdWOEN6LXBRek1LN1pjQ014aU01UHh0dUszSlUtbk1LbTJLRQ",
+   "category": "regs",
+   "source": "Asian Law Caucus",
+   "dest": "https://haultimes.com/story/federal-court-strikes-down-determination-reaffirms-ny-immigrant-truck-648d8b13ab/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=648d8b13ab",
+   "caption": "Federal Court Strikes Down Determination, Reaffirms NY Immigrant Truck Drivers’ Ability to Work.\n\nReported by Asian Law Caucus. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-16T19:11:26.966561+00:00",
+   "published": "2026-11-16T19:00:39+00:00",
+   "score": 70,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Federal Court Strikes Down Determination, Reaffirms NY Immigrant Truck Drivers’ Ability to Work | HaulTimes",
+    "og:description": "Reported by Asian Law Caucus. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/3ff3d783a8.png",
+    "og:url": "https://haultimes.com/story/federal-court-strikes-down-determination-reaffirms-ny-immigrant-truck-648d8b13ab/"
+   },
+   "reason": "importance 70 (threshold 65), Regulations, local/other outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": true
   }
  },
  "paused": null,
@@ -3039,7 +3095,10 @@
   "8c2c5b57b2": "skipped|importance 55 is below this platform's threshold (65)",
   "9ae926507f": "skipped|importance 50 is below this platform's threshold (65)",
   "1addcc22f3": "skipped|importance 45 is below this platform's threshold (65)",
-  "9182078c69": "skipped|importance 45 is below this platform's threshold (65)"
+  "9182078c69": "skipped|importance 45 is below this platform's threshold (65)",
+  "a55b26d80e": "queued|importance 73 (threshold 65), Rates & Market, trade publication",
+  "648d8b13ab": "queued|importance 70 (threshold 65), Regulations, local/other outlet",
+  "b5f9f12efa": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5995,6 +6054,27 @@
    "title": "Great Horned Owl stuck in a tractor-trailer for almost 70 miles before being rescued",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T19:11:26.966561+00:00",
+   "story_id": "a55b26d80e",
+   "title": "Q3 2026 Freight Earnings: Rates, Capacity and 2027 Bid Outlook",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-16T19:11:26.966561+00:00",
+   "story_id": "648d8b13ab",
+   "title": "Federal Court Strikes Down Determination, Reaffirms NY Immigrant Truck Drivers’ Ability to Work",
+   "action": "queued",
+   "reason": "importance 70 (threshold 65), Regulations, local/other outlet"
+  },
+  {
+   "at": "2026-11-16T19:11:26.966561+00:00",
+   "story_id": "b5f9f12efa",
+   "title": "How to get driver drug and alcohol testing right",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
