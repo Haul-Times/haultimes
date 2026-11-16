@@ -54,7 +54,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2
+  "sum_tries": 3
  },
  {
   "id": "f035b1ed7e",
@@ -15280,35 +15280,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "053797d1ae",
-  "slug": "chile-truckers-strike-threatens-cherry-exports-to-china-053797d1ae",
-  "title": "Chile truckers’ strike threatens cherry exports to China",
-  "orig_title": "Chile truckers’ strike threatens cherry exports to China",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "DatamarNews",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNldtZXhSQWtJLTd3NEktT0FkRG1PS2N4WjUxc0NQRHJZREd2aDhxQzBhOFRyb1NZZFhSdTB0ZEZESUhVSU9LSUZfUXhPaXRpdWFTaHlaVDlneGdwZkxHR2wxX0JiQ09QbkdhN1pKbFZmR3VXYWxQX0xyVUFGN0szSXp5RU5YbkZXVTdFbVZRWXdBX28?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNldtZXhSQWtJLTd3NEktT0FkRG1PS2N4WjUxc0NQRHJZREd2aDhxQzBhOFRyb1NZZFhSdTB0ZEZESUhVSU9LSUZfUXhPaXRpdWFTaHlaVDlneGdwZkxHR2wxX0JiQ09QbkdhN1pKbFZmR3VXYWxQX0xyVUFGN0szSXp5RU5YbkZXVTdFbVZRWXdBX28",
-  "snippet": "Chile truckers’ strike threatens cherry exports to China DatamarNews",
-  "published": "2026-11-12T21:22:46+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T21:31:04.901266+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
