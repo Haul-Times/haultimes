@@ -1,5 +1,34 @@
 [
  {
+  "id": "751e9b206f",
+  "slug": "mr-william-doyle-beatenbough-obituary-2026-danielsville-ga-pruitt-fune-751e9b206f",
+  "title": "Mr. William Doyle Beatenbough Obituary (2026) - Danielsville, GA - Pruitt Funeral Home - Royston",
+  "orig_title": "Mr. William Doyle Beatenbough Obituary (2026) - Danielsville, GA - Pruitt Funeral Home - Royston",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Legacy | Obituary",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNDJYTFhxTVZFOXJHTVNiV0ZjU2V1Mk5rem4xLWwwcmEwVVd2MTZoX2tuRjNnX1NRcEZnblhYdTJLcjFueFI2TGpLTnFERXRlWUVOYkFMTXN3M2lnQWRBZXV3cVc5UDNKYnFRN1k1SzdReWVBTUJBVVBJS0d2SzBabEROeWRxbk5zOGc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNDJYTFhxTVZFOXJHTVNiV0ZjU2V1Mk5rem4xLWwwcmEwVVd2MTZoX2tuRjNnX1NRcEZnblhYdTJLcjFueFI2TGpLTnFERXRlWUVOYkFMTXN3M2lnQWRBZXV3cVc5UDNKYnFRN1k1SzdReWVBTUJBVVBJS0d2SzBabEROeWRxbk5zOGc",
+  "snippet": "Mr. William Doyle Beatenbough Obituary (2026) - Danielsville, GA - Pruitt Funeral Home - Royston Legacy | Obituary",
+  "published": "2026-11-16T04:29:29+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T04:31:11.176547+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0aea09c46d",
   "slug": "osan-mayor-cho-yongho-proposes-joint-traffic-measures-for-logistics-ce-0aea09c46d",
   "title": "Osan Mayor Cho Yongho Proposes Joint Traffic Measures for Logistics Center in Deokjeol-ri, Hwaseong",
@@ -27,6 +56,74 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "e7d0f68271",
+  "slug": "second-fatal-commercial-vehicle-crash-on-highway-69-in-8-days-e7d0f68271",
+  "title": "Second fatal commercial vehicle crash on Highway 69 in 8 days",
+  "orig_title": "Second fatal commercial vehicle crash on Highway 69 in 8 days",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Canada",
+  "importance": 45,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEdXb0ZoMmJ4SHVYMGt1ZjFkN3hsaDdzeVZJMjZ2dXJHTnFnUHBEemJzS2psTVZpN1J0ZEpINDVXTjFmdXctZFB1VmZQck5SVnZmZVlfZVRocUZMeVRvMzBZbmZURm1xWUtrNE4zTVFfZHcyZjBCMDdmZzIxWDBjQ0ZVYjBWbGs3WEFNM3NkbEphaXdxTHd2RHQ4UUwwTzQ3ZUdqelRBb0h5WTd2Ykt3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEdXb0ZoMmJ4SHVYMGt1ZjFkN3hsaDdzeVZJMjZ2dXJHTnFnUHBEemJzS2psTVZpN1J0ZEpINDVXTjFmdXctZFB1VmZQck5SVnZmZVlfZVRocUZMeVRvMzBZbmZURm1xWUtrNE4zTVFfZHcyZjBCMDdmZzIxWDBjQ0ZVYjBWbGs3WEFNM3NkbEphaXdxTHd2RHQ4UUwwTzQ3ZUdqelRBb0h5WTd2Ykt3",
+  "snippet": "Second fatal commercial vehicle crash on Highway 69 in 8 days CTV News",
+  "published": "2026-11-16T02:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T04:31:11.176547+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "disruption",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ctvnews.ca/northern-ontario/article/second-fatal-commercial-vehicle-crash-on-highway-69-in-8-days/",
+  "source_note": "ok · 212 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "b31064a2ed29cb65",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T04:31:11.176547+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "investigating a fatal crash involving a pickup truck and a commercial motor vehicle"
+   },
+   {
+    "sentence": "2",
+    "quote": "pronounced deceased at the scene"
+   },
+   {
+    "sentence": "3",
+    "quote": "closed Highway 69 between Highway 607 in Bigwood and Highway 522"
+   },
+   {
+    "sentence": "4",
+    "quote": "OPP is being assisted by the Office of the Chief Coroner for Ontario"
+   },
+   {
+    "sentence": "5",
+    "quote": "the second fatal collision involving a commercial vehicle on Highway 69 in eight days"
+   },
+   {
+    "sentence": "5",
+    "quote": "claimed the lives of a 30-year-old woman and her nine-month-old son"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'just north of highway 522 at about 6:03 a.m. on nov. 14.'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 40
  },
  {
   "id": "aa7739b4a3",

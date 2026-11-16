@@ -2726,7 +2726,8 @@
   "03e5744700": "skipped|importance 55 is below this platform's threshold (65)",
   "697b6bd9d3": "skipped|importance 50 is below this platform's threshold (65)",
   "43b518a5f1": "skipped|importance 61 is below this platform's threshold (65)",
-  "23f1039fed": "skipped|importance 50 is below this platform's threshold (65)"
+  "23f1039fed": "skipped|importance 50 is below this platform's threshold (65)",
+  "e7d0f68271": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5353,6 +5354,13 @@
    "title": "Bipartisan bill to require truck driver bathroom access at shippers and receivers",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T04:31:42.613763+00:00",
+   "story_id": "e7d0f68271",
+   "title": "Second fatal commercial vehicle crash on Highway 69 in 8 days",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
