@@ -2165,6 +2165,34 @@
     "created": "2026-11-15T01:51:28+0000",
     "at": "2026-11-15T02:01:22.740245+00:00"
    }
+  },
+  "05c1526a05": {
+   "story_id": "05c1526a05",
+   "title": "Orange County Teamsters say have ratified contract, will end 24-day strike",
+   "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajF4MkZ2ZU1qVmdmbUVmMjZoNWlMdmM2R0U5SUJIMHA4dWh5SW1kamJhdDlkTjRnaFBERkF5R1FOLXZSZ1R6d3RWYjhOS1NXWklZeUlFNjdZYWsyRmdfNVpXTmRCeW5YNXBUOW9zMEdrM3IyV1RqUU5taUZsc25uNC16eE5UUHduMjZlOXVhb3dlYUV0TDhWLWJSX1hJdEo0VFZ3Qmxlcjh2b0tSNlFR",
+   "category": "drivers",
+   "source": "Orange County Register",
+   "dest": "https://haultimes.com/story/orange-county-teamsters-say-have-ratified-contract-will-end-24-day-str-05c1526a05/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=05c1526a05",
+   "caption": "Orange County Teamsters say have ratified contract, will end 24-day strike.\n\nReported by Orange County Register. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
+   "status": "queued",
+   "created_at": "2026-11-16T08:11:57.420569+00:00",
+   "published": "2026-11-15T20:13:05+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Orange County Teamsters say have ratified contract, will end 24-day strike | HaulTimes",
+    "og:description": "Reported by Orange County Register. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/16d5046e13.png",
+    "og:url": "https://haultimes.com/story/orange-county-teamsters-say-have-ratified-contract-will-end-24-day-str-05c1526a05/"
+   },
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -2729,7 +2757,8 @@
   "23f1039fed": "skipped|importance 50 is below this platform's threshold (65)",
   "e7d0f68271": "skipped|importance 45 is below this platform's threshold (65)",
   "16b50bcbe8": "skipped|minor item (announcement) or low-quality source",
-  "c09dcdd12b": "skipped|importance 55 is below this platform's threshold (65)"
+  "c09dcdd12b": "skipped|importance 55 is below this platform's threshold (65)",
+  "05c1526a05": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
  },
  "decisions": [
   {
@@ -5377,6 +5406,13 @@
    "title": "Fleets commit to hiring 13K vets through 'Freedom Haulers' program",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T08:11:57.420569+00:00",
+   "story_id": "05c1526a05",
+   "title": "Orange County Teamsters say have ratified contract, will end 24-day strike",
+   "action": "queued",
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
   }
  ],
  "visibility": {
