@@ -2763,7 +2763,8 @@
   "d21f2cfb12": "skipped|importance 57 is below this platform's threshold (65)",
   "3a055f1c9e": "skipped|importance 56 is below this platform's threshold (65)",
   "2e21e84e56": "skipped|importance 55 is below this platform's threshold (65)",
-  "d37a2a6a06": "skipped|importance 57 is below this platform's threshold (65)"
+  "d37a2a6a06": "skipped|importance 57 is below this platform's threshold (65)",
+  "39eda6d31f": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5460,6 +5461,13 @@
    "title": "Congressman Taylor Champions Legislation to Codify CDL Fraud Tipline",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T13:21:24.982316+00:00",
+   "story_id": "39eda6d31f",
+   "title": "Private fleets in US capture more freight as dedicated trucking expands",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
