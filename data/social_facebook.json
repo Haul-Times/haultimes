@@ -2765,7 +2765,8 @@
   "2e21e84e56": "skipped|importance 55 is below this platform's threshold (65)",
   "d37a2a6a06": "skipped|importance 57 is below this platform's threshold (65)",
   "39eda6d31f": "skipped|importance 60 is below this platform's threshold (65)",
-  "6f17397a00": "skipped|importance 55 is below this platform's threshold (65)"
+  "6f17397a00": "skipped|importance 55 is below this platform's threshold (65)",
+  "eb512cde1b": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5476,6 +5477,13 @@
    "title": "Kodiak AI taps MicroVision lidar for driverless highway trucking launch",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T14:10:25.141479+00:00",
+   "story_id": "eb512cde1b",
+   "title": "Best Way Trucking inks 187,000 sq. ft. renewal, extension in East Hanover, RRNNJ says",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
