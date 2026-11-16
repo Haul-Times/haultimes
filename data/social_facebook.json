@@ -2480,6 +2480,34 @@
     "created": "2026-11-16T19:31:26+0000",
     "at": "2026-11-16T19:41:32.328154+00:00"
    }
+  },
+  "807d7939c7": {
+   "story_id": "807d7939c7",
+   "title": "Codify CDL-fraud tipline in law? | Near-5K trucks' driveshaft recalls",
+   "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTJtOEMwRHgxVHZKXy15aDdqcm4yZXEtTEtGZmlVcFJ5a2VFTjF6X3NFVzZLYTl4eGo5aDNPMmxZd2Q4dkR6NVFwcDZzYnc5bzhjWkM3WnlENy1Lb212S0wtWmIzUGN1cmZneF83a2p3d1ZPczBzb2xaeHFVNC1JX3M3VXNLdHZzNmF3OGY2MWZET01qQzFnQkdoYkFmSkZJbjd6VWZrbmRIaXRNZVJQZ3RTREdSek9GUEN3LTZBb2ZsQQ",
+   "category": "equip",
+   "source": "www.overdriveonline.com",
+   "dest": "https://haultimes.com/story/codify-cdl-fraud-tipline-in-law-near-5k-trucks-driveshaft-recalls-807d7939c7/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=807d7939c7",
+   "caption": "Codify CDL-fraud tipline in law? | Near-5K trucks' driveshaft recalls.\n\nReported by www.overdriveonline. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-16T20:41:32.278599+00:00",
+   "published": "2026-11-16T20:40:10+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Codify CDL-fraud tipline in law? | Near-5K trucks' driveshaft recalls | HaulTimes",
+    "og:description": "Reported by www.overdriveonline.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/a1d4865a5c.png",
+    "og:url": "https://haultimes.com/story/codify-cdl-fraud-tipline-in-law-near-5k-trucks-driveshaft-recalls-807d7939c7/"
+   },
+   "reason": "importance 75 (threshold 65), Equipment, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": true
   }
  },
  "paused": null,
@@ -3118,7 +3146,10 @@
   "0b941b6bcd": "skipped|importance 61 is below this platform's threshold (65)",
   "911576351e": "skipped|importance 55 is below this platform's threshold (65)",
   "a46fc02f10": "skipped|importance 45 is below this platform's threshold (65)",
-  "4f95e104ca": "skipped|minor item (announcement) or low-quality source"
+  "4f95e104ca": "skipped|minor item (announcement) or low-quality source",
+  "807d7939c7": "queued|importance 75 (threshold 65), Equipment, trade publication",
+  "49edc21d99": "skipped|importance 55 is below this platform's threshold (65)",
+  "bf5fddcd57": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6151,6 +6182,27 @@
    "title": "Iowa High School launches truck driving preparedness program through truck driving simulators",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-16T20:41:32.278599+00:00",
+   "story_id": "807d7939c7",
+   "title": "Codify CDL-fraud tipline in law? | Near-5K trucks' driveshaft recalls",
+   "action": "queued",
+   "reason": "importance 75 (threshold 65), Equipment, trade publication"
+  },
+  {
+   "at": "2026-11-16T20:41:32.278599+00:00",
+   "story_id": "49edc21d99",
+   "title": "Truckers grapple with selective, price-conscious criminals",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T20:41:32.278599+00:00",
+   "story_id": "bf5fddcd57",
+   "title": "How much is a truck driver salary in the USA: Earnings and opportunities for foreigners",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
