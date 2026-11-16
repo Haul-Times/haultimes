@@ -2253,7 +2253,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-16T16:21:55.827616+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122105978337544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122105978337544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122105978337544428",
+    "created": "2026-11-16T16:21:55+0000",
+    "at": "2026-11-16T16:31:29.165472+00:00"
+   }
   }
  },
  "paused": null,
@@ -2845,7 +2853,8 @@
   "46495c25db": "skipped|importance 55 is below this platform's threshold (65)",
   "9fd2667383": "posted|importance 68 (threshold 65), Rates & Market, established outlet; waited 20 min in queue",
   "6d4a0ae575": "skipped|importance 56 is below this platform's threshold (65)",
-  "8722617d12": "skipped|importance 56 is below this platform's threshold (65)"
+  "8722617d12": "skipped|importance 56 is below this platform's threshold (65)",
+  "79bebecd88": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5647,16 +5656,23 @@
    "title": "DAT: Van spot rates hit $3.11 as truck availability climbs 9%",
    "action": "posted",
    "reason": "importance 68 (threshold 65), Rates & Market, established outlet; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-16T16:31:29.165472+00:00",
+   "story_id": "79bebecd88",
+   "title": "UPS accident in Miami sidelines 767 freighter during busy shipping season",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122105940597544428",
+  "post": "1476615495528085_122105978337544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122105940597544428",
-  "created": "2026-11-16T15:31:59+0000",
-  "at": "2026-11-16T15:41:19.200865+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122105978337544428",
+  "created": "2026-11-16T16:21:55+0000",
+  "at": "2026-11-16T16:31:29.165472+00:00"
  },
  "promo_i": 3
 }
