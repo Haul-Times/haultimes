@@ -2764,7 +2764,8 @@
   "3a055f1c9e": "skipped|importance 56 is below this platform's threshold (65)",
   "2e21e84e56": "skipped|importance 55 is below this platform's threshold (65)",
   "d37a2a6a06": "skipped|importance 57 is below this platform's threshold (65)",
-  "39eda6d31f": "skipped|importance 60 is below this platform's threshold (65)"
+  "39eda6d31f": "skipped|importance 60 is below this platform's threshold (65)",
+  "6f17397a00": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5468,6 +5469,13 @@
    "title": "Private fleets in US capture more freight as dedicated trucking expands",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T13:31:21.040097+00:00",
+   "story_id": "6f17397a00",
+   "title": "Kodiak AI taps MicroVision lidar for driverless highway trucking launch",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
