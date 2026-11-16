@@ -2766,7 +2766,8 @@
   "d37a2a6a06": "skipped|importance 57 is below this platform's threshold (65)",
   "39eda6d31f": "skipped|importance 60 is below this platform's threshold (65)",
   "6f17397a00": "skipped|importance 55 is below this platform's threshold (65)",
-  "eb512cde1b": "skipped|importance 45 is below this platform's threshold (65)"
+  "eb512cde1b": "skipped|importance 45 is below this platform's threshold (65)",
+  "00dd4393b3": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5484,6 +5485,13 @@
    "title": "Best Way Trucking inks 187,000 sq. ft. renewal, extension in East Hanover, RRNNJ says",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T14:11:25.959662+00:00",
+   "story_id": "00dd4393b3",
+   "title": "NY-based Page Trucking reopens facility in Morgantown, Kentucky",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
