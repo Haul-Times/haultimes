@@ -2767,7 +2767,8 @@
   "39eda6d31f": "skipped|importance 60 is below this platform's threshold (65)",
   "6f17397a00": "skipped|importance 55 is below this platform's threshold (65)",
   "eb512cde1b": "skipped|importance 45 is below this platform's threshold (65)",
-  "00dd4393b3": "skipped|importance 50 is below this platform's threshold (65)"
+  "00dd4393b3": "skipped|importance 50 is below this platform's threshold (65)",
+  "d760efa36b": "skipped|importance 56 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5492,6 +5493,13 @@
    "title": "NY-based Page Trucking reopens facility in Morgantown, Kentucky",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T14:41:41.923771+00:00",
+   "story_id": "d760efa36b",
+   "title": "USPS is set to make fuel surcharge permanent, raise parcel prices 5.9% in 2027",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

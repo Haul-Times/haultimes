@@ -1,5 +1,96 @@
 [
  {
+  "id": "d760efa36b",
+  "slug": "usps-is-set-to-make-fuel-surcharge-permanent-raise-parcel-prices-5-9-i-d760efa36b",
+  "title": "USPS is set to make fuel surcharge permanent, raise parcel prices 5.9% in 2027",
+  "orig_title": "USPS is set to make fuel surcharge permanent, raise parcel prices 5.9% in 2027",
+  "summary": "USPS wants its fuel surcharge made permanent, with the rate climbing from 8% to 11% on Jan. 17. The Postal Service has also proposed an average rate increase of 5.9% for four domestic package services, including Ground Advantage and Priority Mail. The changes were filed with the Postal Regulatory Commission on Thursday, after the Board of Governors approved them. The surcharge began in April as a temporary 8% increase set to expire Jan. 17, and USPS cited rising fuel prices in proposing the three-point hike. International products are not covered by the surcharge for now, but several international services would rise an average of 7.9%, and USPS is reworking its country rate groups.",
+  "why": "",
+  "category": "fuel",
+  "region": "US",
+  "importance": 56,
+  "source": "Logistics Management",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3J0bC1WRURuZHRKeGE3ODhPYjRKODdQeXZRV29TWWJIdDlRaDhfbGtoeWJxeVJLSHlFZEdLVVppclpoSkRkSk5UOGxwWUUtUkctVUxUM0dSVHRuajd0TVJCc1lLR3BTWXZlR0tRZmxKZHFxUUtHRGlpbEk5STlhSHR1NkNDVl8xX29CeHR3Sk5PQjRlT3Z2bHdJX2FmVmF2WEJrNFhzOERnYW1rZ0U0TmNPQlc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3J0bC1WRURuZHRKeGE3ODhPYjRKODdQeXZRV29TWWJIdDlRaDhfbGtoeWJxeVJLSHlFZEdLVVppclpoSkRkSk5UOGxwWUUtUkctVUxUM0dSVHRuajd0TVJCc1lLR3BTWXZlR0tRZmxKZHFxUUtHRGlpbEk5STlhSHR1NkNDVl8xX29CeHR3Sk5PQjRlT3Z2bHdJX2FmVmF2WEJrNFhzOERnYW1rZ0U0TmNPQlc",
+  "snippet": "USPS is set to make fuel surcharge permanent, raise parcel prices 5.9% in 2027 Logistics Management",
+  "published": "2026-11-16T14:39:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T14:41:05.679889+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.logisticsmgmt.com/article/usps_is_set_to_make_fuel_surcharge_permanent_raise_parcel_prices_5.9_in_2027",
+  "source_note": "ok · 156 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "81ccca55d324e8c6",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-16T14:41:05.679889+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "wants to make its fuel surcharge permanent"
+   },
+   {
+    "sentence": "2",
+    "quote": "raising rates by an average of 5.9% across four domestic package services"
+   },
+   {
+    "sentence": "3",
+    "quote": "filed notice of the changes with the Postal Regulatory Commission"
+   },
+   {
+    "sentence": "4",
+    "quote": "USPS cited rising fuel prices"
+   },
+   {
+    "sentence": "5",
+    "quote": "several international services would go up an average of 7.9%"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "rates",
+  "ai_importance": 70
+ },
+ {
+  "id": "6e92081d1c",
+  "slug": "mcguire-moving-and-storage-earns-james-prout-spirit-of-giving-award-6e92081d1c",
+  "title": "McGuire Moving and Storage earns James Prout Spirit of Giving Award",
+  "orig_title": "McGuire Moving and Storage earns James Prout Spirit of Giving Award",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTZBMWhVeGxQTDN5Zy01RWFSVllWNUs1MzFJQWRDSVkwU1RvZ25oaEpyZFhvaUlremVNUmlMZzRUYkc0YXFyQmxRN0wtVm9oRmdCb243a3lsSXJlQWx1cmtOc0JzT0diNXhSaXF5NjVPOE9leHdDUnpTVjJsSEpwcUJmRnB1MGVVNER6MTlDMVV1enhtQTkwZEFyRGFzRldPX3hBRGhQWWRXMnhBMzlNbnlLUmpOM0JOcG1wVg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTZBMWhVeGxQTDN5Zy01RWFSVllWNUs1MzFJQWRDSVkwU1RvZ25oaEpyZFhvaUlremVNUmlMZzRUYkc0YXFyQmxRN0wtVm9oRmdCb243a3lsSXJlQWx1cmtOc0JzT0diNXhSaXF5NjVPOE9leHdDUnpTVjJsSEpwcUJmRnB1MGVVNER6MTlDMVV1enhtQTkwZEFyRGFzRldPX3hBRGhQWWRXMnhBMzlNbnlLUmpOM0JOcG1wVg",
+  "snippet": "McGuire Moving and Storage earns James Prout Spirit of Giving Award Truck News",
+  "published": "2026-11-16T14:30:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T14:41:05.679889+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "bb685d2806",
   "slug": "u-s-container-imports-break-a-four-year-volume-record-in-october-repor-bb685d2806",
   "title": "U.S. container imports break a four-year volume record in October, reports Descartes",
@@ -16229,35 +16320,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "43e0ea1e98",
-  "slug": "john-deere-to-close-pair-of-iowa-factories-43e0ea1e98",
-  "title": "John Deere to Close Pair of Iowa Factories",
-  "orig_title": "John Deere to Close Pair of Iowa Factories",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "SupplyChainBrain",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2FTRFkyTjZyOVFsSER0QkdUZkRSSWxkZjFPY1BHUEc0bl9sNkJib0RnbmNKSUJmTDR0VlJnMU0wMm40N05SdEJ0YnRWSjFRa05tWDFFckp4WXppRU1TMEtuWFJZMWJpcm9obUhMR1kxMGpzTDRieUl5YlhETHRDTjlWUUFQR205YWdmSXVmZHRkN0xDYUpJSG1EMkFQUzBiOVZYYnFEdTdHMk5vWllpNTVibWlPTDJ4OWUzU0tuekNvUHFlN2lpQ013TG8?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2FTRFkyTjZyOVFsSER0QkdUZkRSSWxkZjFPY1BHUEc0bl9sNkJib0RnbmNKSUJmTDR0VlJnMU0wMm40N05SdEJ0YnRWSjFRa05tWDFFckp4WXppRU1TMEtuWFJZMWJpcm9obUhMR1kxMGpzTDRieUl5YlhETHRDTjlWUUFQR205YWdmSXVmZHRkN0xDYUpJSG1EMkFQUzBiOVZYYnFEdTdHMk5vWllpNTVibWlPTDJ4OWUzU0tuekNvUHFlN2lpQ013TG8",
-  "snippet": "John Deere to Close Pair of Iowa Factories SupplyChainBrain",
-  "published": "2026-11-12T08:55:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T14:41:05.205833+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
