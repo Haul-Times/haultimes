@@ -2769,7 +2769,8 @@
   "eb512cde1b": "skipped|importance 45 is below this platform's threshold (65)",
   "00dd4393b3": "skipped|importance 50 is below this platform's threshold (65)",
   "d760efa36b": "skipped|importance 56 is below this platform's threshold (65)",
-  "a1ee47749d": "skipped|minor item (announcement) or low-quality source"
+  "a1ee47749d": "skipped|minor item (announcement) or low-quality source",
+  "ebdfda0a3d": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -5508,6 +5509,13 @@
    "title": "Groundtruth launches J.B. Hunt-backed AI invoice validation platform",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-16T15:11:18.525129+00:00",
+   "story_id": "ebdfda0a3d",
+   "title": "Court overturns $73.5M penalty for immigrant truck driver licenses",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
