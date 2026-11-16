@@ -2347,14 +2347,14 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/ata-proposes-6-steps-to-help-fmcsa-combat-eld-fraud-34b43b0666/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=34b43b0666",
    "caption": "ATA proposes 6 steps to help FMCSA combat ELD fraud.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-16T17:12:13.773805+00:00",
    "published": "2026-11-16T17:04:00+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122106040899544428",
+   "posted_at": "2026-11-16T18:01:52.089977+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "ATA proposes 6 steps to help FMCSA combat ELD fraud | HaulTimes",
@@ -2365,7 +2365,9 @@
    "reason": "importance 67 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-16T18:01:52.089977+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122106040899544428"
   }
  },
  "paused": null,
@@ -2626,6 +2628,10 @@
   {
    "at": "2026-11-16T17:41:33.331588+00:00",
    "msg": "posted 2763ad3e0b"
+  },
+  {
+   "at": "2026-11-16T18:01:52.089977+00:00",
+   "msg": "posted 34b43b0666"
   }
  ],
  "decided": {
@@ -2971,10 +2977,11 @@
   "7cd9f00275": "skipped|minor item (feature) or low-quality source",
   "931b43c9f1": "posted|importance 75 (threshold 65), Equipment, trade publication; waited 12 min in queue",
   "2763ad3e0b": "posted|importance 70 (threshold 65), Equipment, established outlet; waited 29 min in queue",
-  "34b43b0666": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "34b43b0666": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 49 min in queue",
   "67b90836d2": "skipped|importance 61 is below this platform's threshold (65)",
   "982bb1e9d0": "skipped|importance 55 is below this platform's threshold (65)",
-  "9df542f3fd": "skipped|importance 55 is below this platform's threshold (65)"
+  "9df542f3fd": "skipped|importance 55 is below this platform's threshold (65)",
+  "8517912e56": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -5853,6 +5860,20 @@
    "title": "NHTSA: Massive recall of trucks and trailers",
    "action": "posted",
    "reason": "importance 70 (threshold 65), Equipment, established outlet; waited 29 min in queue"
+  },
+  {
+   "at": "2026-11-16T18:01:52.089977+00:00",
+   "story_id": "8517912e56",
+   "title": "Trucking Announcements: Cummings named president at NFM; Truck-Lite, PSI Fuels, Webb Wheel and Huayi Tire Canada expand teams",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T18:01:52.089977+00:00",
+   "story_id": "34b43b0666",
+   "title": "ATA proposes 6 steps to help FMCSA combat ELD fraud",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 49 min in queue"
   }
  ],
  "visibility": {
