@@ -151,6 +151,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "9b033b2e1a",
+  "slug": "watch-the-future-of-trump-s-automotive-tariffs-after-the-midterms-9b033b2e1a",
+  "title": "Watch: The Future of Trump's Automotive Tariffs After the Midterms",
+  "orig_title": "Watch: The Future of Trump's Automotive Tariffs After the Midterms",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "SupplyChainBrain",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTEyTlhpazFJcURBc1pUSU9TVzlUV2FiQ1BwUERoNzV4d0NaT2JING5DZTBjMjQ1S25lZDF5QU1xWHNuVHo3U0lLaDBRamZMOUI3MmFIY1lBMlBudkZpQ2dsU1lQSlVEMmlpb05FQ0o0TUZrSE52ckc3eW5TRzlsdzN2U1c0dzVLdkV2RUpza0lhamZPVGN4bmsyOHAtVUxKRmFCalF2LUZfXzFnSEZ0STFaVzVlaVFiTTdsRDBGWWs0cjBwbkFGQWU1a240QQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTEyTlhpazFJcURBc1pUSU9TVzlUV2FiQ1BwUERoNzV4d0NaT2JING5DZTBjMjQ1S25lZDF5QU1xWHNuVHo3U0lLaDBRamZMOUI3MmFIY1lBMlBudkZpQ2dsU1lQSlVEMmlpb05FQ0o0TUZrSE52ckc3eW5TRzlsdzN2U1c0dzVLdkV2RUpza0lhamZPVGN4bmsyOHAtVUxKRmFCalF2LUZfXzFnSEZ0STFaVzVlaVFiTTdsRDBGWWs0cjBwbkFGQWU1a240QQ",
+  "snippet": "Watch: The Future of Trump's Automotive Tariffs After the Midterms SupplyChainBrain",
+  "published": "2026-11-16T05:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T08:41:06.640381+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "751e9b206f",
   "slug": "mr-william-doyle-beatenbough-obituary-2026-danielsville-ga-pruitt-fune-751e9b206f",
   "title": "Mr. William Doyle Beatenbough Obituary (2026) - Danielsville, GA - Pruitt Funeral Home - Royston",
@@ -15218,35 +15247,6 @@
   "sum_pending": false
  },
  {
-  "id": "f42671bc6b",
-  "slug": "police-seize-gh-20m-suspected-fake-gtp-fabrics-arrest-two-in-adabraka-f42671bc6b",
-  "title": "Police seize GH¢20m suspected fake GTP fabrics, arrest two in Adabraka",
-  "orig_title": "Police seize GH¢20m suspected fake GTP fabrics, arrest two in Adabraka",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Asaase Radio",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0hLVXktcmZuS3BpcTNBQUdHY25XN093LWJEUUJXalpOUzhZcFhxLUx6UWF0M21XYUd1VmRQZ1h6SmYzdk92TGJwRF9FYVliOVZidlVHdi0xN25faHB6SVlma1V6aHBKSkZPZTFFYXZRazB6YXlmWWd0Mm4yNFA5ZVc5MGpvaXVzeXJldTRvRHFVNnpWcVV5YVdyalVxYmZn?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0hLVXktcmZuS3BpcTNBQUdHY25XN093LWJEUUJXalpOUzhZcFhxLUx6UWF0M21XYUd1VmRQZ1h6SmYzdk92TGJwRF9FYVliOVZidlVHdi0xN25faHB6SVlma1V6aHBKSkZPZTFFYXZRazB6YXlmWWd0Mm4yNFA5ZVc5MGpvaXVzeXJldTRvRHFVNnpWcVV5YVdyalVxYmZn",
-  "snippet": "Police seize GH¢20m suspected fake GTP fabrics, arrest two in Adabraka Asaase Radio",
-  "published": "2026-11-12T08:29:16+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T08:41:04.483353+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "2a602fc976",
   "slug": "laredo-trucking-company-owner-indicted-over-alleged-b-1-driver-scheme-2a602fc976",
   "title": "Laredo trucking company owner indicted over alleged B-1 driver scheme",
@@ -18778,35 +18778,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "be4af1dcbc",
-  "slug": "transit-strike-over-high-fuel-prices-blocks-roads-in-chile-be4af1dcbc",
-  "title": "Transit strike over high fuel prices blocks roads in Chile",
-  "orig_title": "Transit strike over high fuel prices blocks roads in Chile",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Free Malaysia Today",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNanVKVVVRMWtSdkhvNHpZb083V3RRbzdKLWNCLWlMNEJCQWhGRndYbVRYZk5ua2FISzhWQ1FMemhZVzByQlkxZHhDZlBuRERlSUlkUWVxTmpzNks0djJxbzZ5R0FwMmJQUm5ZclFEbXAtVXBzWmd1QzRxT3pRVzgyTDZNaWxaZ0dhUG4xTlNyUW9RZ1ptcy1zS2poU1pUeXVQRGJoWFMydE02TmhVSWFOZnIwYnBzS2h4Z3c?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNanVKVVVRMWtSdkhvNHpZb083V3RRbzdKLWNCLWlMNEJCQWhGRndYbVRYZk5ua2FISzhWQ1FMemhZVzByQlkxZHhDZlBuRERlSUlkUWVxTmpzNks0djJxbzZ5R0FwMmJQUm5ZclFEbXAtVXBzWmd1QzRxT3pRVzgyTDZNaWxaZ0dhUG4xTlNyUW9RZ1ptcy1zS2poU1pUeXVQRGJoWFMydE02TmhVSWFOZnIwYnBzS2h4Z3c",
-  "snippet": "Transit strike over high fuel prices blocks roads in Chile Free Malaysia Today",
-  "published": "2026-11-11T12:42:43+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T08:41:04.483353+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "d95649dbbb",
   "slug": "what-cutter-buck-s-second-autostore-warehouse-in-texas-tells-cube-stor-d95649dbbb",
   "title": "What Cutter & Buck's second AutoStore warehouse in Texas tells cube storage buyers",
@@ -18830,35 +18801,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "e340dc808e",
-  "slug": "transport-workers-in-chile-block-highways-in-protest-over-surging-fuel-e340dc808e",
-  "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-  "orig_title": "Transport workers in Chile block highways in protest over surging fuel prices",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "BBC",
-  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aQjJWeFZtcVEyNlNvYXVURGJLOGdlZjg2bTFyNng3VTYwUmFqaFlOSEphNXFfQk41VlRFM2pYTlJxeGtVV2V4QUJRNVg0XzFQdmZwMU9OSTNheVpQaEE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aQjJWeFZtcVEyNlNvYXVURGJLOGdlZjg2bTFyNng3VTYwUmFqaFlOSEphNXFfQk41VlRFM2pYTlJxeGtVV2V4QUJRNVg0XzFQdmZwMU9OSTNheVpQaEE",
-  "snippet": "Transport workers in Chile block highways in protest over surging fuel prices BBC",
-  "published": "2026-11-11T11:34:50+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T08:41:04.483353+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
   ],
   "labels": [],
   "kind": "rejected",
