@@ -3114,7 +3114,10 @@
   "648d8b13ab": "posted|importance 70 (threshold 65), Regulations, local/other outlet; waited 19 min in queue",
   "b5f9f12efa": "skipped|importance 55 is below this platform's threshold (65)",
   "19d239834c": "skipped|minor item (event) or low-quality source",
-  "79ebebff50": "skipped|importance 55 is below this platform's threshold (65)"
+  "79ebebff50": "skipped|importance 55 is below this platform's threshold (65)",
+  "0b941b6bcd": "skipped|importance 61 is below this platform's threshold (65)",
+  "911576351e": "skipped|importance 55 is below this platform's threshold (65)",
+  "a46fc02f10": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6119,6 +6122,27 @@
    "title": "SEVOS Says Freight AI Starts With the Person in the Seat",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T20:22:04.568617+00:00",
+   "story_id": "0b941b6bcd",
+   "title": "CNG-fueled trucking: 25 cents/mile better on costs, at least",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T20:22:04.568617+00:00",
+   "story_id": "911576351e",
+   "title": "Truck access and wharf upgrades part of $10.3B infrastructure plan at Port of New York and New Jersey",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-16T20:22:04.568617+00:00",
+   "story_id": "a46fc02f10",
+   "title": "Ice Road Truckers - Deadliest Roads - Series 2 - Episode 8",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
