@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:31:10.934555+00:00",
+ "updated": "2026-11-16T04:41:09.848364+00:00",
  "hour_now": 23,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:17 pm EST",
+    "updated": "At 11:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:17 pm EST",
+    "updated": "At 11:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "23:24:07",
+    "updated": "23:34:08",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "23:24:07",
+    "updated": "23:34:08",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1097,7 +1097,7 @@
      25,
      32,
      50,
-     49
+     50
     ],
     "north": [
      0,
@@ -1341,7 +1341,7 @@
      20,
      7,
      9,
-     8
+     9
     ]
    },
    "best_south": "Usually fastest around 12 AM",
