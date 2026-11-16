@@ -87,7 +87,7 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://heartlandernews.com/missouri-governor-calls-on-illinois-to-weed-out-illegal-truck-drivers-after-mother-children-killed-in-devastating-kansas-city-crash/",
   "source_note": "ok · 1064 words"
