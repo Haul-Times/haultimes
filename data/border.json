@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:51:06.346619+00:00",
- "hour_now": 15,
+ "updated": "2026-11-16T21:01:11.164095+00:00",
+ "hour_now": 16,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -20,7 +20,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 14:15 EST"
+    "updated": "2026-11-16 15:49 EST"
    },
    "usual": {
     "south": [
@@ -40,7 +40,7 @@
      0,
      2,
      9,
-     25,
+     17,
      35,
      25,
      20,
@@ -115,7 +115,7 @@
      54,
      46,
      42,
-     30,
+     33,
      33,
      35,
      35,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 3:37 pm EST",
+    "updated": "At 3:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -265,7 +265,7 @@
      16,
      14,
      23,
-     41,
+     32,
      7,
      0,
      0,
@@ -291,7 +291,7 @@
      2,
      3,
      4,
-     2,
+     4,
      3,
      1,
      4,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:37 pm EST",
+    "updated": "At 3:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -340,7 +340,7 @@
      0,
      1,
      0,
-     23,
+     11,
      6,
      0,
      0,
@@ -366,7 +366,7 @@
      3,
      3,
      3,
-     15,
+     8,
      3,
      4,
      2,
@@ -715,7 +715,7 @@
      0,
      0,
      0,
-     10,
+     5,
      5,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "15:50:31",
+    "updated": "16:00:31",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1090,7 +1090,7 @@
      57,
      57,
      57,
-     56,
+     57,
      56,
      11,
      0,
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 12:58 MDT"
+    "updated": "2026-11-16 14:47 MDT"
    },
    "usual": {
     "south": [
@@ -1334,7 +1334,7 @@
      6,
      6,
      13,
-     5,
+     18,
      18,
      14,
      5,

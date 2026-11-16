@@ -24,7 +24,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://48hills.org/2026/11/screen-grabs-hitching-a-ride-with-gay-mexican-truckers-on-the-road/",
+  "source_note": "paywalled: excerpt only · 19 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "b25fa8f874",
@@ -141,7 +146,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "source_note": "ok · 1644 words",
   "sum_status": "retrying (no publisher address: google page HTTPError)",
   "pub_url": "https://www.tuko.co.ke/facts-lifehacks/guides/646978-how-a-truck-driver-salary-usa-earnings-opportunities-foreigners/"
