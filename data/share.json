@@ -62,5 +62,22 @@
   },
   "target": "/freight-market/#poll",
   "created": "2026-11-13T15:11:38.249000+00:00"
+ },
+ "promo-20261116": {
+  "title": "HaulTimes Freight Market: Hauled a load this week?",
+  "desc": "Hauled a load this week? Share the rate, anonymously. The more carriers report, the clearer the picture of what each lane really pays, for everyone.",
+  "card": {
+   "type": "promo",
+   "kicker": "Freight Market",
+   "headline": "Hauled a load this week?",
+   "sub": "Share the rate anonymously. Every report makes each lane clearer.",
+   "chips": [
+    "No name",
+    "No email",
+    "US & Canada"
+   ]
+  },
+  "target": "/freight-market/#rep",
+  "created": "2026-11-16T15:21:18.172237+00:00"
  }
 }

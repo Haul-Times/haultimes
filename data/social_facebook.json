@@ -2193,6 +2193,27 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "promo-20261116": {
+   "story_id": "promo-20261116",
+   "title": "Freight Market reminder",
+   "url_key": "promo-20261116",
+   "category": "house:promo",
+   "source": "HaulTimes",
+   "dest": "https://haultimes.com/s/promo-20261116/?utm_source=facebook&utm_medium=organic_social&utm_campaign=freight_market",
+   "caption": "Hauled a load this week? Share the rate, anonymously. The more carriers report, the clearer the picture of what each lane really pays, for everyone.\n\n#OwnerOperator #Freight #DryVan #TruckingLife",
+   "status": "queued",
+   "created_at": "2026-11-16T15:21:18.172237+00:00",
+   "published": "2026-11-16T15:21:18.172237+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {},
+   "house": "promo",
+   "reason": "HaulTimes update: promo"
   }
  },
  "paused": null,
@@ -2770,7 +2791,8 @@
   "00dd4393b3": "skipped|importance 50 is below this platform's threshold (65)",
   "d760efa36b": "skipped|importance 56 is below this platform's threshold (65)",
   "a1ee47749d": "skipped|minor item (announcement) or low-quality source",
-  "ebdfda0a3d": "skipped|minor item (incident) or low-quality source"
+  "ebdfda0a3d": "skipped|minor item (incident) or low-quality source",
+  "promo-20261116": "queued|HaulTimes update"
  },
  "decisions": [
   {
@@ -5516,6 +5538,13 @@
    "title": "Court overturns $73.5M penalty for immigrant truck driver licenses",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-16T15:21:18.172237+00:00",
+   "story_id": "promo-20261116",
+   "title": "Freight Market reminder",
+   "action": "queued",
+   "reason": "HaulTimes update: promo"
   }
  ],
  "visibility": {
@@ -5527,5 +5556,5 @@
   "created": "2026-11-15T01:51:28+0000",
   "at": "2026-11-15T02:01:22.740245+00:00"
  },
- "promo_i": 2
+ "promo_i": 3
 }
