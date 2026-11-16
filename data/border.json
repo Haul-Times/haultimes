@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:01:11.164095+00:00",
+ "updated": "2026-11-16T21:11:04.708884+00:00",
  "hour_now": 16,
  "have_us": true,
  "have_ca": true,
@@ -40,7 +40,7 @@
      0,
      2,
      9,
-     17,
+     15,
      35,
      25,
      20,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 35,
+    "wait": 25,
     "fast_wait": 0,
     "lanes": "5",
     "status": "delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -115,7 +115,7 @@
      54,
      46,
      42,
-     33,
+     30,
      33,
      35,
      35,
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 23,
+    "wait": 19,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 3:47 pm EST",
+    "updated": "At 3:57 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-16 15:40 EST"
+    "updated": "2026-11-16 16:00 EST"
    },
    "usual": {
     "south": [
@@ -265,7 +265,7 @@
      16,
      14,
      23,
-     32,
+     27,
      7,
      0,
      0,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:47 pm EST",
+    "updated": "At 3:57 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 1,
     "status": "1 minute",
-    "updated": "2026-11-16 15:40 EST"
+    "updated": "2026-11-16 16:00 EST"
    },
    "usual": {
     "south": [
@@ -340,7 +340,7 @@
      0,
      1,
      0,
-     11,
+     7,
      6,
      0,
      0,
@@ -366,7 +366,7 @@
      3,
      3,
      3,
-     8,
+     6,
      3,
      4,
      2,
@@ -715,7 +715,7 @@
      0,
      0,
      0,
-     5,
+     3,
      5,
      0,
      0,
@@ -826,7 +826,7 @@
      0
     ]
    },
-   "best_south": "Building history",
+   "best_south": "Usually fastest around 9 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:00:31",
+    "updated": "16:05:32",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-16 15:12 AST"
+    "updated": "2026-11-16 16:57 AST"
    },
    "usual": {
     "south": [
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 30,
-    "status": "30 minutes",
-    "updated": "2026-11-16 13:40 PDT"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-16 14:00 PDT"
    },
    "usual": {
     "south": [
@@ -1334,7 +1334,7 @@
      6,
      6,
      13,
-     18,
+     15,
      18,
      14,
      5,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 13:40 PDT"
+    "updated": "2026-11-16 14:00 PDT"
    },
    "usual": {
     "south": [
@@ -1420,7 +1420,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Building history"
+   "best_north": "Usually fastest around 9 AM"
   }
  ],
  "others": {

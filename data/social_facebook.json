@@ -2509,7 +2509,43 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-16T21:02:53.785878+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122106160059544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122106160059544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122106160059544428",
+    "created": "2026-11-16T21:02:53+0000",
+    "at": "2026-11-16T21:11:20.481284+00:00"
+   }
+  },
+  "0b0dbe1776": {
+   "story_id": "0b0dbe1776",
+   "title": "ELD bans to pile more pressure on US truck capacity",
+   "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenN2TDdoZjVHTWo5Vkg5ZHJFNE8xWWRxcXh2eS1XOHI4dE1yYU96VS1oeXNCZ1E3LUM2S3RiZ2dmVEpiR3M4cGlBMS1hWDRrSkZlcXc3eGl0T3hzLXFzZkFBRHBVdXNsWXEtcmZYRXhIcEhYRGtKcU9rQXVQcHlSYmQ4MUNmc210UFpJcTNySnE",
+   "category": "regs",
+   "source": "Journal of Commerce",
+   "dest": "https://haultimes.com/story/eld-bans-to-pile-more-pressure-on-us-truck-capacity-0b0dbe1776/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=0b0dbe1776",
+   "caption": "ELD bans to pile more pressure on US truck capacity.\n\nReported by Journal of Commerce. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-16T21:11:20.481284+00:00",
+   "published": "2026-11-16T20:38:00+00:00",
+   "score": 72,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "ELD bans to pile more pressure on US truck capacity | HaulTimes",
+    "og:description": "Reported by Journal of Commerce. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/2c0f4fe641.png",
+    "og:url": "https://haultimes.com/story/eld-bans-to-pile-more-pressure-on-us-truck-capacity-0b0dbe1776/"
+   },
+   "reason": "importance 72 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -3156,7 +3192,8 @@
   "807d7939c7": "posted|importance 75 (threshold 65), Equipment, trade publication; waited 21 min in queue",
   "49edc21d99": "skipped|importance 55 is below this platform's threshold (65)",
   "bf5fddcd57": "skipped|importance 45 is below this platform's threshold (65)",
-  "e4c3e40a28": "skipped|importance 45 is below this platform's threshold (65)"
+  "e4c3e40a28": "skipped|importance 45 is below this platform's threshold (65)",
+  "0b0dbe1776": "queued|importance 72 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -6224,16 +6261,23 @@
    "title": "Codify CDL-fraud tipline in law? | Near-5K trucks' driveshaft recalls",
    "action": "posted",
    "reason": "importance 75 (threshold 65), Equipment, trade publication; waited 21 min in queue"
+  },
+  {
+   "at": "2026-11-16T21:11:20.481284+00:00",
+   "story_id": "0b0dbe1776",
+   "title": "ELD bans to pile more pressure on US truck capacity",
+   "action": "queued",
+   "reason": "importance 72 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122106105987544428",
+  "post": "1476615495528085_122106160059544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122106105987544428",
-  "created": "2026-11-16T19:31:26+0000",
-  "at": "2026-11-16T19:41:32.328154+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122106160059544428",
+  "created": "2026-11-16T21:02:53+0000",
+  "at": "2026-11-16T21:11:20.481284+00:00"
  },
  "promo_i": 3
 }
