@@ -15137,35 +15137,6 @@
   "sum_pending": false
  },
  {
-  "id": "669ed2df86",
-  "slug": "laredo-veterans-parade-669ed2df86",
-  "title": "Laredo Veterans Parade",
-  "orig_title": "Laredo Veterans Parade",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "KGNS",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3hJTzl4Zk1oSS1EUkd6UzlIVXhaREZmVEVZcTVBcmdQQzlzSnBtdE8wZG5jdUN0WWx0enJmYUJsUVdFYm0tLThBS01sRFVyeUxBWUJlM0QtOTlzaS1LYUUwOU9aQmR6VWhYNndONzhGWXZiOHl5NFQya3M1Z3J4QQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3hJTzl4Zk1oSS1EUkd6UzlIVXhaREZmVEVZcTVBcmdQQzlzSnBtdE8wZG5jdUN0WWx0enJmYUJsUVdFYm0tLThBS01sRFVyeUxBWUJlM0QtOTlzaS1LYUUwOU9aQmR6VWhYNndONzhGWXZiOHl5NFQya3M1Z3J4QQ",
-  "snippet": "Laredo Veterans Parade KGNS",
-  "published": "2026-11-11T23:56:58+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-12T01:01:06.497096+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "b1ca62fc08",
   "slug": "laredo-family-reflects-on-sacrifices-during-mother-s-military-service-b1ca62fc08",
   "title": "Laredo family reflects on sacrifices during mother’s military service",
