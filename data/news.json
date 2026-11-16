@@ -25,7 +25,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.asianlawcaucus.org/news-resources/news/ny-immigrant-truck-drivers",
   "source_note": "ok · 526 words"
  },
@@ -1029,6 +1029,35 @@
   ],
   "ai_category": "drivers",
   "ai_importance": 70
+ },
+ {
+  "id": "2873689a08",
+  "slug": "another-fuel-price-rollback-on-november-17-fuel-prices-will-go-down-ag-2873689a08",
+  "title": "Another fuel price rollback on November 17 Fuel prices will go down again starting Tuesday, November 17, especially diesel and kerosene. Full story: https://www.rappler.com/business/fuel-prices-adjustments-november-17-2026/",
+  "orig_title": "Another fuel price rollback on November 17 Fuel prices will go down again starting Tuesday, November 17, especially diesel and kerosene. Full story: https://www.rappler.com/business/fuel-prices-adjustments-november-17-2026/",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Facebook",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa01Ld0ZXdU5RV3FjYWpQMEFOVVJaTnpGLTl2OEhxV1hVNGxfWWpKQ2ZvVUpjcWhvVWNYbENrSmVsalFLX2M3a1RNUjl2eGFXcUJoNXJ6U2luc3J3OXZTT0FpcDg4d2lJN0RUc1RtOXFFUnUtaVJDQ0NTMVFMQmZ6c0FqclNtLUN4TVRKYUNqQUFTYjVqUDhJdzF5bGd3aTA1bEtNVjIxdmF5anJUOW85Q2J2YmJBNkowNzM2SmRLdDVaU1Y2UTJvVDc2aW9QSnVXU1I0b2tCOFV6cXZq?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa01Ld0ZXdU5RV3FjYWpQMEFOVVJaTnpGLTl2OEhxV1hVNGxfWWpKQ2ZvVUpjcWhvVWNYbENrSmVsalFLX2M3a1RNUjl2eGFXcUJoNXJ6U2luc3J3OXZTT0FpcDg4d2lJN0RUc1RtOXFFUnUtaVJDQ0NTMVFMQmZ6c0FqclNtLUN4TVRKYUNqQUFTYjVqUDhJdzF5bGd3aTA1bEtNVjIxdmF5anJUOW85Q2J2YmJBNkowNzM2SmRLdDVaU1Y2UTJvVDc2aW9QSnVXU1I0b2tCOFV6cXZq",
+  "snippet": "Another fuel price rollback on November 17 Fuel prices will go down again starting Tuesday, November 17, especially diesel and kerosene. Full story: https://www.rappler.com/business/fuel-prices-adjustments-november-17-2026/ Facebook",
+  "published": "2026-11-16T16:22:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-16T19:21:05.676064+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "79bebecd88",
