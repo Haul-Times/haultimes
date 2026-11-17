@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T20:51:03.959443+00:00",
- "hour_now": 15,
+ "updated": "2026-11-17T21:01:17.883400+00:00",
+ "hour_now": 16,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -18,9 +18,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 35,
-    "status": "35 minutes",
-    "updated": "2026-11-17 15:27 EST"
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-17 15:53 EST"
    },
    "usual": {
     "south": [
@@ -40,7 +40,7 @@
      4,
      10,
      17,
-     38,
+     35,
      22,
      10,
      0,
@@ -87,9 +87,9 @@
    "south": {
     "wait": 0,
     "fast_wait": 0,
-    "lanes": "5",
+    "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -115,7 +115,7 @@
      20,
      25,
      27,
-     37,
+     32,
      9,
      0,
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:37 pm EST",
+    "updated": "At 3:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -291,7 +291,7 @@
      7,
      3,
      6,
-     14,
+     13,
      11,
      8,
      15,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:37 pm EST",
+    "updated": "At 3:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -340,7 +340,7 @@
      2,
      7,
      1,
-     17,
+     14,
      10,
      0,
      0,
@@ -366,7 +366,7 @@
      2,
      2,
      3,
-     8,
+     7,
      3,
      10,
      9,
@@ -415,7 +415,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "15:43:03",
+    "updated": "15:53:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "15:43:03",
+    "updated": "15:53:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "13:43:03",
+    "updated": "13:53:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1383,7 +1383,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
