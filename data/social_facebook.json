@@ -2628,6 +2628,28 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-16T22:21:28.069212+00:00"
+  },
+  "border-pembina-south-2026111619": {
+   "story_id": "border-pembina-south-2026111619",
+   "title": "Long truck wait at the Pembina–Emerson (Pembina, ND - Emerson, MB): about 2 hr for commerc",
+   "url_key": "border-pembina-south-2026111619",
+   "category": "house:border",
+   "source": "HaulTimes",
+   "dest": "https://haultimes.com/s/border-pembina-south-2026111619/?utm_source=facebook&utm_medium=organic_social&utm_campaign=border",
+   "caption": "Long truck wait at the Pembina–Emerson (Pembina, ND - Emerson, MB): about 2 hr for commercial vehicles entering the US, per CBP, against a usual 49 min at this hour.\n\nLive waits at every crossing on HaulTimes.\n\n#CrossBorder #Trucking",
+   "status": "queued",
+   "created_at": "2026-11-17T00:21:22.821399+00:00",
+   "published": "2026-11-17T00:21:22.821399+00:00",
+   "score": 85,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {},
+   "house": "border",
+   "reason": "HaulTimes update: border",
+   "breaking": "unusual border delay"
   }
  },
  "paused": {
@@ -3296,7 +3318,8 @@
   "736ebd8ba5": "queued|importance 87 (threshold 65), Regulations, trade publication",
   "0db08617d2": "skipped|importance 55 is below this platform's threshold (65)",
   "3e2cafbf0f": "skipped|importance 45 is below this platform's threshold (65)",
-  "a812fcb144": "skipped|importance 55 is below this platform's threshold (65)"
+  "a812fcb144": "skipped|importance 55 is below this platform's threshold (65)",
+  "border-pembina-south-2026111619": "queued|HaulTimes update"
  },
  "decisions": [
   {
@@ -6448,6 +6471,13 @@
    "title": "How ATA Wants to Fix ELD Certification",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T00:21:22.821399+00:00",
+   "story_id": "border-pembina-south-2026111619",
+   "title": "Long truck wait at the Pembina–Emerson (Pembina, ND - Emerson, MB): about 2 hr for commerc",
+   "action": "queued",
+   "reason": "HaulTimes update: border"
   }
  ],
  "visibility": {

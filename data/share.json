@@ -79,5 +79,30 @@
   },
   "target": "/freight-market/#rep",
   "created": "2026-11-16T15:21:18.172237+00:00"
+ },
+ "border-pembina-south-2026111619": {
+  "title": "Truck border delay",
+  "desc": "Long truck wait at the Pembina–Emerson (Pembina, ND - Emerson, MB): about 2 hr for commercial vehicles entering the US, per CBP, against a usual 49 min at this hour.",
+  "card": {
+   "type": "stat",
+   "kicker": "Border delay",
+   "big": "2 h",
+   "label": "Pembina–Emerson (Pembina, ND – Emerson, MB), trucks entering the US",
+   "details": [
+    [
+     "Usual at this hour",
+     "49 min"
+    ],
+    [
+     "Source",
+     "CBP"
+    ]
+   ],
+   "footer": "Live truck border waits",
+   "change": "+1 h 11 min",
+   "dir": "up"
+  },
+  "target": "/border-wait-times/",
+  "created": "2026-11-17T00:21:22.821399+00:00"
  }
 }
