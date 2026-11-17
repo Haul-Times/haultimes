@@ -392,6 +392,76 @@
   "sum_pending": false
  },
  {
+  "id": "27332026fc",
+  "slug": "gtcc-and-old-dominion-freight-line-support-future-truckers-27332026fc",
+  "title": "GTCC and Old Dominion Freight Line support future truckers",
+  "orig_title": "GTCC and Old Dominion Freight Line support future truckers",
+  "summary": "Guilford Technical Community College in Greensboro runs a truck driver training program that staff say has grown every year since it started six years ago. The certificate takes eight weeks of full-time study or 14 weeks of nights and weekends, and costs about $1,800 including books. Jan Knox, VP of the college advancement foundation, said graduates can often find work right away at a salary of $60,000 or more.\n\nOld Dominion Freight Line, a trucking company headquartered in the Triad, is funding four $1,000 scholarships a year at the college, two of them for women. Chris Brooks, Senior VP of HR at the company, said the awards help people who might not otherwise afford a CDL or a diesel mechanic certification. The company said it has over 200 women drivers.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 30,
+  "source": "Yahoo",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2xLNnBnUFUwbTllOXMwaGVNb25MX1NLRWhtbkpLb3M2eEJWRzlycDJ4R2ducnZHTkhIVDlraERweDhESXczdGpoSVpMWUtCUXlkRThCR3dXSmNWSnE3c2JnNlRVbjZaWTRZUjUybTlqTzFxOEpkNjFzNWlYOWtmNDF6X05xSVZtdDlVcA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2xLNnBnUFUwbTllOXMwaGVNb25MX1NLRWhtbkpLb3M2eEJWRzlycDJ4R2ducnZHTkhIVDlraERweDhESXczdGpoSVpMWUtCUXlkRThCR3dXSmNWSnE3c2JnNlRVbjZaWTRZUjUybTlqTzFxOEpkNjFzNWlYOWtmNDF6X05xSVZtdDlVcA",
+  "snippet": "GTCC and Old Dominion Freight Line support future truckers Yahoo",
+  "published": "2026-11-17T13:19:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T14:49:42.076541+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.yahoo.com/news/us/articles/gtcc-old-dominion-freight-line-131918845.html",
+  "source_note": "ok · 962 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "d759d2e20c1299ac",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-17T14:49:42.076541+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "We began the program six years ago"
+   },
+   {
+    "sentence": "2",
+    "quote": "The certificate can be earned in eight weeks full-time"
+   },
+   {
+    "sentence": "2",
+    "quote": "about $1,800 including books"
+   },
+   {
+    "sentence": "3",
+    "quote": "walk away with a salary of $60,000 or more"
+   },
+   {
+    "sentence": "4",
+    "quote": "four $1,000 scholarships for each year"
+   },
+   {
+    "sentence": "5",
+    "quote": "might not be able to get a cdl"
+   },
+   {
+    "sentence": "6",
+    "quote": "over 200 plus drivers in our company that are women"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 30
+ },
+ {
   "id": "e945b83256",
   "slug": "oil-prices-swing-as-vessel-attacks-reported-around-hormuz-e945b83256",
   "title": "Oil prices swing as vessel attacks reported around Hormuz",
@@ -14538,94 +14608,6 @@
   "sum_pending": false
  },
  {
-  "id": "f3945bd164",
-  "slug": "naimos-engages-truck-drivers-and-sand-winning-associations-over-vehicl-f3945bd164",
-  "title": "NAIMOS engages truck drivers and sand-winning associations over vehicle seizures and regulatory compliance",
-  "orig_title": "NAIMOS engages truck drivers and sand-winning associations over vehicle seizures and regulatory compliance",
-  "summary": "",
-  "why": "",
-  "category": "regs",
-  "region": "",
-  "importance": 45,
-  "source": "3News",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmhzMlRtUHFHVFRVRU1MNjlEUlZHUHFxRW5sbTZvc25SRTdSaUl0c1h0Y2N6YU1kS25ZRWFSU2xRV25QeHh6VGtzRTFBdEJMNGhFZkpwZHU5Q2s4NTNPb1hneWcxUUg1NlJOeDdZWGRaMmxsOTJiNkN2VGZpQ0hFaWpNVHBnZnRYMkJOU3hLeldkZFRZdmdIQzBhRlJIYUVSVjNfbkh0Z0F4RGQ2ZkVrcGZxVGpnSnNXS0s4anNXV2xhRk8tU1J6Sw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmhzMlRtUHFHVFRVRU1MNjlEUlZHUHFxRW5sbTZvc25SRTdSaUl0c1h0Y2N6YU1kS25ZRWFSU2xRV25QeHh6VGtzRTFBdEJMNGhFZkpwZHU5Q2s4NTNPb1hneWcxUUg1NlJOeDdZWGRaMmxsOTJiNkN2VGZpQ0hFaWpNVHBnZnRYMkJOU3hLeldkZFRZdmdIQzBhRlJIYUVSVjNfbkh0Z0F4RGQ2ZkVrcGZxVGpnSnNXS0s4anNXV2xhRk8tU1J6Sw",
-  "snippet": "NAIMOS engages truck drivers and sand-winning associations over vehicle seizures and regulatory compliance 3News",
-  "published": "2026-11-13T14:36:23+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T14:41:35.856254+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: NAIMOS engages truck drivers, sand-winning associations on compliance and cooperation"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "b344f131cb"
- },
- {
-  "id": "1017b0c7fb",
-  "slug": "sunwing-vacation-to-grand-bahama-contest-1017b0c7fb",
-  "title": "Sunwing Vacation to Grand Bahama Contest",
-  "orig_title": "Sunwing Vacation to Grand Bahama Contest",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExzSjEyeTdGc3NpSjU4a3BQdWJqWlVaYXlGYkd5WmhEdlBkVF9QbDRiOGxlcWJjZnppaE1neTB3SFBGWkhNTnNrY3lrQXFYdnNJSy1xUnI1RTd6c3I4MjBiRkw5VDlaX3RyT1FRX1QyeTFPb0djdWVlMEtpbElrMzVTR3dqaVEwUjJKazFQdks1Zw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExzSjEyeTdGc3NpSjU4a3BQdWJqWlVaYXlGYkd5WmhEdlBkVF9QbDRiOGxlcWJjZnppaE1neTB3SFBGWkhNTnNrY3lrQXFYdnNJSy1xUnI1RTd6c3I4MjBiRkw5VDlaX3RyT1FRX1QyeTFPb0djdWVlMEtpbElrMzVTR3dqaVEwUjJKazFQdks1Zw",
-  "snippet": "Sunwing Vacation to Grand Bahama Contest Global News",
-  "published": "2026-11-13T14:35:54+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T14:41:35.856254+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "f681c9ad92",
-  "slug": "marital-hiss-cat-rescue-raises-more-than-30k-with-donation-to-annoy-ex-f681c9ad92",
-  "title": "Marital hiss: Cat rescue raises more than $30K with donation to annoy ex-husband",
-  "orig_title": "Marital hiss: Cat rescue raises more than $30K with donation to annoy ex-husband",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CMWJXWTJGaFROemdzSFpjczNRTjVhRU9MM2g4N0pLaFgxcTdXYWo0VzVicE9aQ3YxeElyYzU1U0ctV1hZR1hteXh3a3VkaDBDM09URTZLbnpMM0pkaTF2dW1HS1lUaWlIYmxtVXlwSHRRQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CMWJXWTJGaFROemdzSFpjczNRTjVhRU9MM2g4N0pLaFgxcTdXYWo0VzVicE9aQ3YxeElyYzU1U0ctV1hZR1hteXh3a3VkaDBDM09URTZLbnpMM0pkaTF2dW1HS1lUaWlIYmxtVXlwSHRRQQ",
-  "snippet": "Marital hiss: Cat rescue raises more than $30K with donation to annoy ex-husband Global News",
-  "published": "2026-11-13T14:35:19+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T14:41:35.856254+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "28f0ae0575",
   "slug": "18-wheeler-rollover-shuts-down-southbound-sh-130-in-travis-county-28f0ae0575",
   "title": "18-Wheeler Rollover Shuts Down Southbound SH 130 in Travis County",
@@ -14775,35 +14757,6 @@
   "sum_pending": false
  },
  {
-  "id": "591d377b24",
-  "slug": "canada-threatens-to-sue-stellantis-over-auto-plant-sale-591d377b24",
-  "title": "Canada threatens to sue Stellantis over auto plant sale",
-  "orig_title": "Canada threatens to sue Stellantis over auto plant sale",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6VWt1bFNGUnFWZHU3RjRrV0FZeXFtbEEwRHVTQkU4bTFZUzhveHFScTMxcTNOQmloUGtfN2oyTEZwamtZOERPTWYzX1RQRGd6N2hYTU9PN1V5RWg5Nk5FU3U2WktZZ2tIMUI0UA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6VWt1bFNGUnFWZHU3RjRrV0FZeXFtbEEwRHVTQkU4bTFZUzhveHFScTMxcTNOQmloUGtfN2oyTEZwamtZOERPTWYzX1RQRGd6N2hYTU9PN1V5RWg5Nk5FU3U2WktZZ2tIMUI0UA",
-  "snippet": "Canada threatens to sue Stellantis over auto plant sale Transport Topics",
-  "published": "2026-11-13T14:07:49+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T14:41:35.856254+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
- },
- {
   "id": "f4d810cf58",
   "slug": "ontario-truck-driver-honored-for-heroic-rescue-during-fiery-highway-pi-f4d810cf58",
   "title": "Ontario truck driver honored for heroic rescue during fiery highway pileup",
@@ -14896,35 +14849,6 @@
   "source_note": "excerpt only · 26 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "fff4c22d74",
-  "slug": "chile-truckers-strike-disrupts-cherry-shipments-to-china-fff4c22d74",
-  "title": "Chile truckers' strike disrupts cherry shipments to China",
-  "orig_title": "Chile truckers' strike disrupts cherry shipments to China",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreshPlaza",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjdYakxLa1RrWVdPNTVGODhmZ0xSN3pLalp0Q0NCOXE3UzRtY0RXbWtqcV96ZE1zMVE5VlBFaTNoTGU5bG1XdmZyQ0FYTWNQWHVKSTB6b3NmYzVHMEVneVNsamtsYTRpeUE3elFSSUtGaTBUd25hS2Y4VDhScTUzTExFWDdVajc4cVF0OHB1YzRBcWdQd2d3TTdBZ3RUUl9mX0NSbDB2TlBQLWp1THExclYza2M?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjdYakxLa1RrWVdPNTVGODhmZ0xSN3pLalp0Q0NCOXE3UzRtY0RXbWtqcV96ZE1zMVE5VlBFaTNoTGU5bG1XdmZyQ0FYTWNQWHVKSTB6b3NmYzVHMEVneVNsamtsYTRpeUE3elFSSUtGaTBUd25hS2Y4VDhScTUzTExFWDdVajc4cVF0OHB1YzRBcWdQd2d3TTdBZ3RUUl9mX0NSbDB2TlBQLWp1THExclYza2M",
-  "snippet": "Chile truckers' strike disrupts cherry shipments to China FreshPlaza",
-  "published": "2026-11-13T13:34:28+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T14:41:35.856254+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "af5cbadc34",
