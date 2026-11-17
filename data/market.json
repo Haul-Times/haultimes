@@ -848,7 +848,7 @@
     ]
    }
   ],
-  "retrieved_at": "2026-11-16T19:11:26.063524+00:00",
+  "retrieved_at": "2026-11-17T01:11:34.127029+00:00",
   "history": {
    "2026-11-03": {
     "NORTH, CENTRAL AND SOUTH FLORIDA|OKRA, TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES": {
@@ -994,7 +994,7 @@
     }
    }
   },
-  "last_attempt_at": "2026-11-16T19:11:26.063524+00:00",
+  "last_attempt_at": "2026-11-17T01:11:34.127029+00:00",
   "last_error": null,
   "source_url": "https://agtransport.usda.gov/d/acar-e3r8"
  },
@@ -1380,8 +1380,88 @@
   "source_url": "https://www.bts.gov/browse-statistical-products-and-data/border-crossing-data/border-crossingentry-data"
  },
  "statcan_diesel": {
-  "month": "2026-09",
+  "month": "2026-10",
   "provinces": {
+   "NL": {
+    "avg": 274.8,
+    "cities": {
+     "St. John's": 274.8
+    }
+   },
+   "PE": {
+    "avg": 259.5,
+    "cities": {
+     "Charlottetown and Summerside": 259.5
+    }
+   },
+   "NS": {
+    "avg": 268.0,
+    "cities": {
+     "Halifax": 268.0
+    }
+   },
+   "NB": {
+    "avg": 267.2,
+    "cities": {
+     "Saint John": 267.2
+    }
+   },
+   "QC": {
+    "avg": 291.2,
+    "cities": {
+     "Québec": 289.6,
+     "Montréal": 292.9
+    }
+   },
+   "ON": {
+    "avg": 257.6,
+    "cities": {
+     "Ottawa-Gatineau": 259.8,
+     "Toronto": 255.5
+    }
+   },
+   "MB": {
+    "avg": 249.3,
+    "cities": {
+     "Winnipeg": 249.3
+    }
+   },
+   "SK": {
+    "avg": 247.5,
+    "cities": {
+     "Regina": 249.1,
+     "Saskatoon": 245.9
+    }
+   },
+   "AB": {
+    "avg": 230.0,
+    "cities": {
+     "Edmonton": 228.7,
+     "Calgary": 231.3
+    }
+   },
+   "BC": {
+    "avg": 283.1,
+    "cities": {
+     "Vancouver": 285.9,
+     "Victoria": 280.4
+    }
+   },
+   "YT": {
+    "avg": 269.9,
+    "cities": {
+     "Whitehorse": 269.9
+    }
+   },
+   "NT": {
+    "avg": 223.6,
+    "cities": {
+     "Yellowknife": 223.6
+    }
+   }
+  },
+  "prev_month": "2026-09",
+  "prev_provinces": {
    "NL": {
     "avg": 268.3,
     "cities": {
@@ -1460,88 +1540,8 @@
     }
    }
   },
-  "prev_month": "2026-08",
-  "prev_provinces": {
-   "NL": {
-    "avg": 240.2,
-    "cities": {
-     "St. John's": 240.2
-    }
-   },
-   "PE": {
-    "avg": 240.5,
-    "cities": {
-     "Charlottetown and Summerside": 240.5
-    }
-   },
-   "NS": {
-    "avg": 236.6,
-    "cities": {
-     "Halifax": 236.6
-    }
-   },
-   "NB": {
-    "avg": 236.3,
-    "cities": {
-     "Saint John": 236.3
-    }
-   },
-   "QC": {
-    "avg": 254.5,
-    "cities": {
-     "Québec": 252.3,
-     "Montréal": 256.6
-    }
-   },
-   "ON": {
-    "avg": 222.9,
-    "cities": {
-     "Ottawa-Gatineau": 224.8,
-     "Toronto": 221.1
-    }
-   },
-   "MB": {
-    "avg": 212.8,
-    "cities": {
-     "Winnipeg": 212.8
-    }
-   },
-   "SK": {
-    "avg": 207.4,
-    "cities": {
-     "Regina": 209.1,
-     "Saskatoon": 205.8
-    }
-   },
-   "AB": {
-    "avg": 208.1,
-    "cities": {
-     "Edmonton": 205.5,
-     "Calgary": 210.6
-    }
-   },
-   "BC": {
-    "avg": 248.7,
-    "cities": {
-     "Vancouver": 251.7,
-     "Victoria": 245.7
-    }
-   },
-   "YT": {
-    "avg": 222.5,
-    "cities": {
-     "Whitehorse": 222.5
-    }
-   },
-   "NT": {
-    "avg": 207.2,
-    "cities": {
-     "Yellowknife": 207.2
-    }
-   }
-  },
-  "retrieved_at": "2026-11-16T13:05:24.820076+00:00",
-  "last_attempt_at": "2026-11-16T13:05:24.820076+00:00",
+  "retrieved_at": "2026-11-17T01:11:34.127029+00:00",
+  "last_attempt_at": "2026-11-17T01:11:34.127029+00:00",
   "last_error": null,
   "source_url": "https://doi.org/10.25318/1810000101-eng"
  }
