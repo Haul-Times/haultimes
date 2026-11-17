@@ -3351,7 +3351,8 @@
   "aca4446e8b": "skipped|importance 55 is below this platform's threshold (65)",
   "af22e6fb54": "queued|importance 72 (threshold 65), Rates & Market, trade publication",
   "27e3bb0783": "skipped|importance 61 is below this platform's threshold (65)",
-  "e7952ede0c": "skipped|importance 57 is below this platform's threshold (65)"
+  "e7952ede0c": "skipped|importance 57 is below this platform's threshold (65)",
+  "55ca7af8e1": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6545,6 +6546,13 @@
    "title": "Higher diesel prices strain farm transportation budgets",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T09:21:28.326835+00:00",
+   "story_id": "55ca7af8e1",
+   "title": "Shift Supervisor - Logistics in Minneapolis, MN for Penske Truck Leasing",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
