@@ -3507,7 +3507,8 @@
   "379f9abb9a": "skipped|importance 45 is below this platform's threshold (65)",
   "d57d869691": "queued|importance 72 (threshold 65), Cross-Border, trade publication",
   "06303619b7": "skipped|importance 56 is below this platform's threshold (65)",
-  "a17334730a": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
+  "a17334730a": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
+  "036656251d": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6876,6 +6877,13 @@
    "title": "Broker RXO says TL spot rates not entering deflationary phase",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-17T17:31:37.747040+00:00",
+   "story_id": "036656251d",
+   "title": "Q3 2026 Cargo Theft Falls as Losses Rise",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
