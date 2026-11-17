@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:11:18.476618+00:00",
+ "updated": "2026-11-17T01:21:10.791124+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 36,
-    "fast_wait": 5,
+    "wait": 0,
+    "fast_wait": 0,
     "lanes": "3",
-    "status": "delay",
-    "updated": "At 7:00 pm EST",
+    "status": "no delay",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -119,7 +119,7 @@
      36,
      36,
      35,
-     36,
+     26,
      35,
      23,
      0
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 7:57 pm EST",
+    "updated": "At 8:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -269,7 +269,7 @@
      1,
      0,
      0,
-     3,
+     6,
      10,
      4,
      7
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:57 pm EST",
+    "updated": "At 8:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "20:05:56",
+    "updated": "20:15:56",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:05:56",
+    "updated": "20:15:56",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "delay",
-    "updated": "At 6:00 pm CST",
+    "updated": "At 7:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1094,7 +1094,7 @@
      57,
      42,
      83,
-     95,
+     101,
      24,
      16,
      0
@@ -1237,7 +1237,7 @@
      15,
      20,
      9,
-     7,
+     10,
      0,
      0,
      10
@@ -1338,7 +1338,7 @@
      10,
      12,
      7,
-     7,
+     8,
      5,
      5,
      5

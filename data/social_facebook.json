@@ -3319,7 +3319,8 @@
   "0db08617d2": "skipped|importance 55 is below this platform's threshold (65)",
   "3e2cafbf0f": "skipped|importance 45 is below this platform's threshold (65)",
   "a812fcb144": "skipped|importance 55 is below this platform's threshold (65)",
-  "border-pembina-south-2026111619": "queued|HaulTimes update"
+  "border-pembina-south-2026111619": "queued|HaulTimes update",
+  "aca4446e8b": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6478,6 +6479,13 @@
    "title": "Long truck wait at the Pembina–Emerson (Pembina, ND - Emerson, MB): about 2 hr for commerc",
    "action": "queued",
    "reason": "HaulTimes update: border"
+  },
+  {
+   "at": "2026-11-17T01:21:24.947653+00:00",
+   "story_id": "aca4446e8b",
+   "title": "Cybersecurity Training for Fleets, AI Logistics Tools & more",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
