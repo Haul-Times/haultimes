@@ -3416,7 +3416,8 @@
   "f5ed5bdb3f": "skipped|importance 55 is below this platform's threshold (65)",
   "4f383b61e4": "skipped|minor item (announcement) or low-quality source",
   "cc704ee782": "skipped|minor item (feature) or low-quality source",
-  "9f6c87c542": "queued|importance 87 (threshold 65), Regulations, trade publication"
+  "9f6c87c542": "queued|importance 87 (threshold 65), Regulations, trade publication",
+  "ac60a533be": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6687,6 +6688,13 @@
    "title": "Six commercial vehicles placed out of service in Ontario during enforcement blitz",
    "action": "queued",
    "reason": "importance 87 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-17T14:41:32.381648+00:00",
+   "story_id": "ac60a533be",
+   "title": "Truck Parking Club hands CPC 7 drop yards in two months",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
