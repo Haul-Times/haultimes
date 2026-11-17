@@ -3349,7 +3349,8 @@
   "a812fcb144": "skipped|importance 55 is below this platform's threshold (65)",
   "border-pembina-south-2026111619": "queued|HaulTimes update",
   "aca4446e8b": "skipped|importance 55 is below this platform's threshold (65)",
-  "af22e6fb54": "queued|importance 72 (threshold 65), Rates & Market, trade publication"
+  "af22e6fb54": "queued|importance 72 (threshold 65), Rates & Market, trade publication",
+  "27e3bb0783": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6522,6 +6523,13 @@
    "title": "Yes: US dry-van, flatbed and refrigerated truckload spot rates (DAT) Gateway",
    "action": "queued",
    "reason": "importance 72 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-17T03:01:25.957862+00:00",
+   "story_id": "27e3bb0783",
+   "title": "Detroit Diesel Promises 2027 Engines With No Penalties, 3% TCO Savings",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
