@@ -59,6 +59,36 @@
   "sum_pending": false
  },
  {
+  "id": "32d9b149be",
+  "slug": "diesel-drops-below-6-a-gallon-for-the-first-time-since-september-32d9b149be",
+  "title": "Diesel drops below $6 a gallon for the first time since September",
+  "orig_title": "Diesel drops below $6 a gallon for the first time since September",
+  "summary": "",
+  "why": "",
+  "category": "fuel",
+  "region": "",
+  "importance": 50,
+  "source": "Truckers News",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWNFVzZEMjNTdkJxTHIwaHczM3pMUUIxLVJkZml3S3ozZkticHBSVGlqbGhNZHdvRGFTWXZIQTBPNkZRTzlTS0N6ZDNCTUcxQTVJYUIxRHF6YTRWZDd4Wm1CSE4zR0ZScFgzTGE5Tms0MUtUWFlxTUQ1Q3dpdENwbzVoYTNKcWZHM0RNQ3ZieGcwaU1sT1pxVWpEZ1lOOUQ3SXlMSWtCR2h6V1U0bk01SHpDU3hydw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWNFVzZEMjNTdkJxTHIwaHczM3pMUUIxLVJkZml3S3ozZkticHBSVGlqbGhNZHdvRGFTWXZIQTBPNkZRTzlTS0N6ZDNCTUcxQTVJYUIxRHF6YTRWZDd4Wm1CSE4zR0ZScFgzTGE5Tms0MUtUWFlxTUQ1Q3dpdENwbzVoYTNKcWZHM0RNQ3ZieGcwaU1sT1pxVWpEZ1lOOUQ3SXlMSWtCR2h6V1U0bk01SHpDU3hydw",
+  "snippet": "Diesel drops below $6 a gallon for the first time since September Truckers News",
+  "published": "2026-11-17T20:32:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T21:11:10.862488+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Diesel dips below $6 for first time since September"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "46495c25db"
+ },
+ {
   "id": "23cb8f52b0",
   "slug": "cbsa-seizes-81-kg-of-suspected-cocaine-from-romaine-lettuce-shipment-i-23cb8f52b0",
   "title": "CBSA seizes 81 kg of suspected cocaine from romaine lettuce shipment in truck",
