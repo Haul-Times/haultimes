@@ -36,7 +36,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 43,
   "source": "KESQ",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX08ySFRobDJQa1kzMk1GOHhReC1oLUFUR1I5VktHdUdRSjRUQWlTNFJNRTQ0Wll4M2FZV2czbWhncjdzNkdhRXRrOUl4U2RETGM3eDlURGYtaFNseXdkWjE4SVpCc3dRTDk1ZGY0T0FGc2ZIbXFXWHoxaFdKZl84eGhYeUkyOXFFWHhJOWczaVVxUFhQU1ZtX3RCQnBkLU9YdlNTSkRvbU9uM2ZWYTYyc3VNb0tVazJTVXlNVDV3QlBmVVBfbG5sMEdrSQ?oc=5",
@@ -61,14 +61,45 @@
   "sum_status": "withheld",
   "source_fp": "f72b0dee5cba0495",
   "source_scope": "full_article",
-  "sum_at": "2026-11-17T20:21:04.584199+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-17T20:31:08.278228+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "sentenced to 2½ years in federal prison"
+   },
+   {
+    "sentence": "2",
+    "quote": "ordered him to pay $2,210,055 in restitution"
+   },
+   {
+    "sentence": "3",
+    "quote": "pleaded guilty on August 13"
+   },
+   {
+    "sentence": "4",
+    "quote": "operated or purchased trucking companies"
+   },
+   {
+    "sentence": "5",
+    "quote": "failed to deliver the shipments to their intended destinations"
+   },
+   {
+    "sentence": "6",
+    "quote": "The scheme operated from September 2021 through March 2025"
+   },
+   {
+    "sentence": "7",
+    "quote": "scheduled to stand trial in March 2027"
+   }
   ],
-  "ai_importance": 43
+  "sum_problems": [
+   "copies a 12-word run from the source: 'to pay $2,210,055 in restitution. singh pleaded guilty on august 13 to'"
+  ],
+  "ai_importance": 68,
+  "sum_v4": true,
+  "ai_category": "other"
  },
  {
   "id": "94dbd3b0ae",
