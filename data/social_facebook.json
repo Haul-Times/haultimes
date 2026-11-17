@@ -2706,6 +2706,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "9f6c87c542": {
+   "story_id": "9f6c87c542",
+   "title": "Six commercial vehicles placed out of service in Ontario during enforcement blitz",
+   "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc25hbmxuYW0zejJlU1pfTVFQZ0RMLU5KUVBVMjdxNGxmX0g2SlExVVI0YVBMU3ljaERab3NjclpMLVFWNnNYNVdyY2doajQwcDRtOHVJUTZPemxFdmNFOXF3M00zMDRMUUxueUpreFVnM2VCeUFtU3dfV3pSbXl4WkFYcVNVeFhRN2NvcHRMb2dIcW14ZTZuaW1JUnZsRE9yUU45RXN6d0RiTXRvcmd5M1lQY2NzZEpoVThYYnU1YUQtcm9UakszY182NzRoSWc",
+   "category": "regs",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/six-commercial-vehicles-placed-out-of-service-in-ontario-during-enforc-9f6c87c542/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9f6c87c542",
+   "caption": "Six commercial vehicles placed out of service in Ontario during enforcement blitz.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking",
+   "status": "queued",
+   "created_at": "2026-11-17T14:21:23.151838+00:00",
+   "published": "2026-11-17T14:14:57+00:00",
+   "score": 87,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Six commercial vehicles placed out of service in Ontario during enforcement blitz | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/ef0def14ac.png",
+    "og:url": "https://haultimes.com/story/six-commercial-vehicles-placed-out-of-service-in-ontario-during-enforc-9f6c87c542/"
+   },
+   "reason": "importance 87 (threshold 65), Regulations, trade publication",
+   "breaking": "breaking: importance 87, reported by a trade publication of record",
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3387,7 +3415,8 @@
   "3a17264ddd": "skipped|minor item (incident) or low-quality source",
   "f5ed5bdb3f": "skipped|importance 55 is below this platform's threshold (65)",
   "4f383b61e4": "skipped|minor item (announcement) or low-quality source",
-  "cc704ee782": "skipped|minor item (feature) or low-quality source"
+  "cc704ee782": "skipped|minor item (feature) or low-quality source",
+  "9f6c87c542": "queued|importance 87 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -6651,6 +6680,13 @@
    "title": "Manitoba trucking industry celebrates heroism and service",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-17T14:21:23.151838+00:00",
+   "story_id": "9f6c87c542",
+   "title": "Six commercial vehicles placed out of service in Ontario during enforcement blitz",
+   "action": "queued",
+   "reason": "importance 87 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {
