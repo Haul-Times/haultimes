@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:31:08.129503+00:00",
+ "updated": "2026-11-17T20:41:04.596884+00:00",
  "hour_now": 15,
  "have_us": true,
  "have_ca": true,
@@ -18,9 +18,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 25,
-    "status": "25 minutes",
-    "updated": "2026-11-17 14:21 EST"
+    "wait": 35,
+    "status": "35 minutes",
+    "updated": "2026-11-17 15:27 EST"
    },
    "usual": {
     "south": [
@@ -39,7 +39,7 @@
      1,
      4,
      10,
-     18,
+     17,
      38,
      22,
      10,
@@ -65,7 +65,7 @@
      0,
      0,
      8,
-     10,
+     13,
      0,
      0,
      0,
@@ -114,7 +114,7 @@
      27,
      20,
      25,
-     36,
+     32,
      37,
      9,
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:17 pm EST",
+    "updated": "At 3:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:17 pm EST",
+    "updated": "At 3:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 15:15 EST"
+    "updated": "2026-11-17 14:15 EST"
    },
    "usual": {
     "south": [
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "15:23:00",
+    "updated": "15:33:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "15:23:00",
+    "updated": "15:33:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "13:23:00",
+    "updated": "13:33:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
