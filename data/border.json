@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T11:51:02.586501+00:00",
- "hour_now": 6,
+ "updated": "2026-11-17T12:01:05.482258+00:00",
+ "hour_now": 7,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -31,7 +31,7 @@
      0,
      3,
      4,
-     0,
+     1,
      0,
      0,
      0,
@@ -106,7 +106,7 @@
      2,
      0,
      5,
-     0,
+     1,
      17,
      56,
      59,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 15,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 6:37 am EST",
+    "updated": "At 6:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:37 am EST",
+    "updated": "At 6:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -331,7 +331,7 @@
      0,
      0,
      1,
-     4,
+     3,
      11,
      0,
      0,
@@ -406,7 +406,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "06:47:04",
+    "updated": "06:57:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -835,11 +835,11 @@
    "ports": "Derby Line, VT ↔ Stanstead, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "06:47:04",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -856,7 +856,7 @@
      null,
      null,
      null,
-     null,
+     0,
      null,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "06:47:04",
+    "updated": "06:57:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:47:04",
+    "updated": "05:57:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:47:04",
+    "updated": "04:57:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1299,7 +1299,7 @@
      16,
      17,
      18,
-     7,
+     10,
      19,
      13,
      0,
@@ -1374,7 +1374,7 @@
      null,
      null,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1400,7 +1400,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1482,8 +1482,8 @@
    },
    {
     "name": "Norton",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    }
   ],
   "north": [

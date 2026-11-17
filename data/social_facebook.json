@@ -2678,6 +2678,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "bdd1f4a40c": {
+   "story_id": "bdd1f4a40c",
+   "title": "US cargo theft falls 8% in Q3 as truck stop incidents nearly triple",
+   "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGhxZkRqNWxrQ2FQVXNlSkRLRFpmWERTV2tSZDJmLXhWOWQ1TTBkQ0tGamNlODZmVVJCYlRTRF80NjQ1QmtlVV9QMUNJeXpFeTlsZkdMUUw2aGdSdDgtNFZFam1QZ0FwVHA2UVNyaWVUampxbkVyR0sxOFRydmswSzVhR1hnaDNFeEhmNFB5Vkg1NnduVXFSeXNJVUpnQXNyNTNYVXQ2TXNlQUkyejhnZU16VQ",
+   "category": "other",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/us-cargo-theft-falls-8-in-q3-as-truck-stop-incidents-nearly-triple-bdd1f4a40c/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=bdd1f4a40c",
+   "caption": "US cargo theft falls 8% in Q3 as truck stop incidents nearly triple.\n\nReported by Truck News. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-17T12:01:21.667068+00:00",
+   "published": "2026-11-17T11:59:24+00:00",
+   "score": 78,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "US cargo theft falls 8% in Q3 as truck stop incidents nearly triple | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/c94d40176a.png",
+    "og:url": "https://haultimes.com/story/us-cargo-theft-falls-8-in-q3-as-truck-stop-incidents-nearly-triple-bdd1f4a40c/"
+   },
+   "reason": "importance 78 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3352,7 +3380,8 @@
   "af22e6fb54": "expired|stale before a slot opened (published 12h ago)",
   "27e3bb0783": "skipped|importance 61 is below this platform's threshold (65)",
   "e7952ede0c": "skipped|importance 57 is below this platform's threshold (65)",
-  "55ca7af8e1": "skipped|importance 55 is below this platform's threshold (65)"
+  "55ca7af8e1": "skipped|importance 55 is below this platform's threshold (65)",
+  "bdd1f4a40c": "queued|importance 78 (threshold 65), Industry, trade publication"
  },
  "decisions": [
   {
@@ -6567,6 +6596,13 @@
    "title": "Yes: US dry-van, flatbed and refrigerated truckload spot rates (DAT) Gateway",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-17T12:01:21.667068+00:00",
+   "story_id": "bdd1f4a40c",
+   "title": "US cargo theft falls 8% in Q3 as truck stop incidents nearly triple",
+   "action": "queued",
+   "reason": "importance 78 (threshold 65), Industry, trade publication"
   }
  ],
  "visibility": {
