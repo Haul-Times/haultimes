@@ -1976,6 +1976,35 @@
   "sum_status": "no source text (no usable text)"
  },
  {
+  "id": "25a82bdd3f",
+  "slug": "labor-strike-shuts-down-dozens-of-bangladesh-garment-factories-25a82bdd3f",
+  "title": "Labor Strike Shuts Down Dozens of Bangladesh Garment Factories",
+  "orig_title": "Labor Strike Shuts Down Dozens of Bangladesh Garment Factories",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "SupplyChainBrain",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR21JWFpyM3ZyYkVneGJreFZKWWxNazRLeEtrLVU0dDVsSmFSRW5ramY2cElZYkYwN29VTzdrakdxYi0wS3RCMVdadjE1ZGdPZ01OOEhHZE1EWWdhZFRkXzRFdXlGZTE5c0tGV3V6V0xIZm5SaTNMVW5HUFI5Q3pubUNvRlBRTFJFYzlBeWxaS3NiLTF6ejVpYThaY1pndGtmREdITDdJNEJPLU0wdDZ3U1RVOFE3T21OdWt3T2IxSWZab0FHUW1zVlZzem1rcTctT3otcGYzVWNXdXJz?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR21JWFpyM3ZyYkVneGJreFZKWWxNazRLeEtrLVU0dDVsSmFSRW5ramY2cElZYkYwN29VTzdrakdxYi0wS3RCMVdadjE1ZGdPZ01OOEhHZE1EWWdhZFRkXzRFdXlGZTE5c0tGV3V6V0xIZm5SaTNMVW5HUFI5Q3pubUNvRlBRTFJFYzlBeWxaS3NiLTF6ejVpYThaY1pndGtmREdITDdJNEJPLU0wdDZ3U1RVOFE3T21OdWt3T2IxSWZab0FHUW1zVlZzem1rcTctT3otcGYzVWNXdXJz",
+  "snippet": "Labor Strike Shuts Down Dozens of Bangladesh Garment Factories SupplyChainBrain",
+  "published": "2026-11-16T18:26:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T05:21:03.770726+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9ae926507f",
   "slug": "truckstop-ftr-spot-rate-changes-are-mixed-as-usual-in-latest-week-9ae926507f",
   "title": "Truckstop, FTR: Spot rate changes are mixed as usual in latest week",
