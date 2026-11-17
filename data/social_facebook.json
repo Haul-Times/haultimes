@@ -2734,6 +2734,27 @@
    "breaking": "breaking: importance 87, reported by a trade publication of record",
    "edited": false,
    "wait_summary": false
+  },
+  "diesel-2026-11-16": {
+   "story_id": "diesel-2026-11-16",
+   "title": "Diesel prices, week of 2026-11-16",
+   "url_key": "diesel-2026-11-16",
+   "category": "house:diesel",
+   "source": "HaulTimes",
+   "dest": "https://haultimes.com/s/diesel-2026-11-16/?utm_source=facebook&utm_medium=organic_social&utm_campaign=diesel",
+   "caption": "US diesel averaged $5.94 a gallon for the week of November 16, down 19¢ from the week before, according to the US Energy Information Administration. Highest: California at $7.73. Lowest: Lower Atlantic at $5.54.\n\nIn Ontario, diesel averaged 239.7¢ a litre (week of November 16). Every state and province on the HaulTimes diesel map.\n\n#Diesel #Trucking #FuelPrices",
+   "status": "queued",
+   "created_at": "2026-11-17T15:01:38.734892+00:00",
+   "published": "2026-11-17T15:01:38.734892+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {},
+   "house": "diesel",
+   "reason": "HaulTimes update: diesel"
   }
  },
  "paused": {
@@ -3418,7 +3439,8 @@
   "cc704ee782": "skipped|minor item (feature) or low-quality source",
   "9f6c87c542": "queued|importance 87 (threshold 65), Regulations, trade publication",
   "ac60a533be": "skipped|importance 55 is below this platform's threshold (65)",
-  "27332026fc": "skipped|minor item (news) or low-quality source"
+  "27332026fc": "skipped|minor item (news) or low-quality source",
+  "diesel-2026-11-16": "queued|HaulTimes update"
  },
  "decisions": [
   {
@@ -6703,6 +6725,13 @@
    "title": "GTCC and Old Dominion Freight Line support future truckers",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-17T15:01:38.734892+00:00",
+   "story_id": "diesel-2026-11-16",
+   "title": "Diesel prices, week of 2026-11-16",
+   "action": "queued",
+   "reason": "HaulTimes update: diesel"
   }
  ],
  "visibility": {

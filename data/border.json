@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T14:51:06.770412+00:00",
- "hour_now": 9,
+ "updated": "2026-11-17T15:01:18.711113+00:00",
+ "hour_now": 10,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
-    "fast_wait": 5,
-    "lanes": "5",
-    "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "wait": 15,
+    "fast_wait": 15,
+    "lanes": "4",
+    "status": "delay",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -34,7 +34,7 @@
      1,
      5,
      2,
-     0,
+     2,
      9,
      1,
      0,
@@ -109,7 +109,7 @@
      6,
      13,
      30,
-     59,
+     51,
      59,
      55,
      45,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 9:37 am EST",
+    "updated": "At 9:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -259,7 +259,7 @@
      7,
      14,
      14,
-     8,
+     7,
      0,
      0,
      2,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:37 am EST",
+    "updated": "At 9:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -409,7 +409,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -689,7 +689,7 @@
     "fast_wait": 0,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "09:47:25",
+    "updated": "09:57:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1084,7 +1084,7 @@
      2,
      0,
      32,
-     12,
+     18,
      10,
      10,
      1,
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "07:47:25",
+    "updated": "07:57:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1302,7 +1302,7 @@
      24,
      30,
      35,
-     0,
+     8,
      0,
      0,
      0,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 1 AM",
-   "best_north": "Usually fastest around 10 AM"
+   "best_north": "Usually fastest around 11 AM"
   },
   {
    "id": "sumas",
@@ -1377,7 +1377,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1403,7 +1403,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      0,
      0,
