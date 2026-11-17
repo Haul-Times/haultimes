@@ -3443,7 +3443,8 @@
   "diesel-2026-11-16": "queued|HaulTimes update",
   "9b7c99251f": "skipped|minor item (incident) or low-quality source",
   "b8de84d4b1": "skipped|importance 62 is below this platform's threshold (65)",
-  "daba6fe391": "skipped|importance 55 is below this platform's threshold (65)"
+  "daba6fe391": "skipped|importance 55 is below this platform's threshold (65)",
+  "f7a5bc99cc": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6756,6 +6757,13 @@
    "title": "Oil market slide brings benchmark diesel under $6 level",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T16:11:36.112766+00:00",
+   "story_id": "f7a5bc99cc",
+   "title": "SONAR Pricing Power Index Falls to 68 as Truckload Demand Weakens",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
