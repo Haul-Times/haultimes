@@ -14182,35 +14182,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "acc4e6d91a",
-  "slug": "father-accused-of-burying-11-month-old-boy-alive-denied-bond-acc4e6d91a",
-  "title": "Father accused of burying 11-month-old boy alive denied bond",
-  "orig_title": "Father accused of burying 11-month-old boy alive denied bond",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVN0Y3Q5Wkp1ZzdlaUdQU1NMSWtwSUFqQ2VWQVgxcC04RnY1MFlXYlVUaGRnMTZkTEZ6bW8tZkltN0ZBa2xrUzBYNy1PYU5sUS14M1RZTnR4dmNETG5MM2plTFBQLTJpcEVYYkppdHp6RWpIMmxWWkNBNGxOVkxSbGxkcjZzVC1rNjZtTlYwTFIzcWlL?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVN0Y3Q5Wkp1ZzdlaUdQU1NMSWtwSUFqQ2VWQVgxcC04RnY1MFlXYlVUaGRnMTZkTEZ6bW8tZkltN0ZBa2xrUzBYNy1PYU5sUS14M1RZTnR4dmNETG5MM2plTFBQLTJpcEVYYkppdHp6RWpIMmxWWkNBNGxOVkxSbGxkcjZzVC1rNjZtTlYwTFIzcWlL",
-  "snippet": "Father accused of burying 11-month-old boy alive denied bond Global News",
-  "published": "2026-11-13T16:56:09+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T17:01:18.531223+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "b75b8c105f",
   "slug": "apple-valley-council-approves-lake-creek-logistics-warehouse-exclusive-b75b8c105f",
   "title": "Apple Valley Council approves Lake Creek Logistics Warehouse | Exclusive",
@@ -14302,36 +14273,6 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 45
- },
- {
-  "id": "b0a2ed2114",
-  "slug": "historic-fmcsa-crackdown-pulls-133-elds-for-largest-revocation-in-hist-b0a2ed2114",
-  "title": "Historic FMCSA crackdown pulls 133 ELDs for largest revocation in history",
-  "orig_title": "Historic FMCSA crackdown pulls 133 ELDs for largest revocation in history",
-  "summary": "",
-  "why": "",
-  "category": "regs",
-  "region": "",
-  "importance": 62,
-  "source": "CDLLife",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUtabE5nZkNlbGFabUNtTzR2MWFhSVhnRmVLRllNLURyc1JHQ1JlQTNHVFJ4alpQeXUzR2lHRWpTUEhhR2V5SDVZQ3FMcFJObjZpd3ZkS1NfNFBpYVBSZ2w3clA5ZWM3RTZGY3IxdDhvOEdOMDVlOC1RZUZCaVBJQl9FUmQ4eHduWTBjaU1mLXJMOUdPLXV3RGl2TWU2cjdn?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUtabE5nZkNlbGFabUNtTzR2MWFhSVhnRmVLRllNLURyc1JHQ1JlQTNHVFJ4alpQeXUzR2lHRWpTUEhhR2V5SDVZQ3FMcFJObjZpd3ZkS1NfNFBpYVBSZ2w3clA5ZWM3RTZGY3IxdDhvOEdOMDVlOC1RZUZCaVBJQl9FUmQ4eHduWTBjaU1mLXJMOUdPLXV3RGl2TWU2cjdn",
-  "snippet": "Historic FMCSA crackdown pulls 133 ELDs for largest revocation in history CDLLife",
-  "published": "2026-11-13T16:41:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T17:01:18.531223+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: FMCSA revokes 133 ELDs after Overdrive reported HOS fraud confrontation"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "c0c38348e3"
  },
  {
   "id": "f22e56fb88",
