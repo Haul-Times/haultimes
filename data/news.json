@@ -1,5 +1,34 @@
 [
  {
+  "id": "a777600918",
+  "slug": "us-quicklime-prices-rise-1-66-in-october-as-higher-energy-costs-tighte-a777600918",
+  "title": "US Quicklime Prices Rise 1.66% in October as Higher Energy Costs Tighten Supply",
+  "orig_title": "US Quicklime Prices Rise 1.66% in October as Higher Energy Costs Tighten Supply",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ChemAnalyst",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRU1KekhXaDBjc3RvNGFsc20yRVpvNFZxVHhxcFdJRkZXS1V1UkZiQjVkOW5kencxNGUtUG9yVG03UmNPV1lPR3hyV0RCUE83TlVva18tVjk1anI5X0hKREU0N3dDV3NCbGhPZW1qQjBuUW9YUExMWm9UcTA4Y0JrZzd5MTNRdk9UQS01NVZteU12S19kd25xcW0zN2JKbS16LUktU0E2NWtJLUhnbWtRd1VIZ2wxSGs?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRU1KekhXaDBjc3RvNGFsc20yRVpvNFZxVHhxcFdJRkZXS1V1UkZiQjVkOW5kencxNGUtUG9yVG03UmNPV1lPR3hyV0RCUE83TlVva18tVjk1anI5X0hKREU0N3dDV3NCbGhPZW1qQjBuUW9YUExMWm9UcTA4Y0JrZzd5MTNRdk9UQS01NVZteU12S19kd25xcW0zN2JKbS16LUktU0E2NWtJLUhnbWtRd1VIZ2wxSGs",
+  "snippet": "US Quicklime Prices Rise 1.66% in October as Higher Energy Costs Tighten Supply ChemAnalyst",
+  "published": "2026-11-17T08:27:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T08:31:13.845923+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "7a0ce6cf30",
   "slug": "8-nigerians-arrested-in-canada-as-police-recover-96-stolen-cars-worth-7a0ce6cf30",
   "title": "8 Nigerians arrested in Canada as police recover 96 stolen cars worth $4.5m heading to Africa",
@@ -2280,6 +2309,74 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "382fc39fb6",
+  "slug": "samsara-expands-ai-fleet-management-tools-adds-voice-support-for-drive-382fc39fb6",
+  "title": "Samsara expands AI fleet management tools, adds voice support for drivers",
+  "orig_title": "Samsara expands AI fleet management tools, adds voice support for drivers",
+  "summary": "Fleet technology provider Samsara has opened its Agent Studio platform to all of its customers, letting trucking companies and other fleet operators build custom AI assistants. According to Samsara, use of its AI agents has grown sevenfold since June 2026, as customers apply them to fuel efficiency analysis, compliance monitoring and driver assistance. The agents can be set to respond to specific events or operating conditions rather than waiting for a user's question.\n\nSamsara says the agents can flag possible hours-of-service violations before they occur by weighing scheduled stops, remaining driving time and shift hours. A voice feature can call a driver when the truck enters a geofence around a distribution center and give site-specific instructions. The company reports that voice interactions overtook chat within four weeks of the feature's launch, and that about 75% of organizations using voice agents have increased weekly usage.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 40,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2dndHBpYlVQeDJidE9BMC1PdlEwcXFuRVRZZEN6NWc5dkcza0FNZUpjQ21ydC1hZUNzOUZGaDJXWWljYmF4QS1xYnlUSkJGSnZnSXAwUHhVRU8yY1JkZ0ZuUXlabkcwczNwM3BmcHZKbzJpTnY2Y3RkVElqd0NKX1A0SEFrSXVTT083OThLLUM0OFByMnVhR21CcDU2aEpncUdHQ3VibW9FOFNBZ1VScVB6WkRZaUZsa3FTYzB1MA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2dndHBpYlVQeDJidE9BMC1PdlEwcXFuRVRZZEN6NWc5dkcza0FNZUpjQ21ydC1hZUNzOUZGaDJXWWljYmF4QS1xYnlUSkJGSnZnSXAwUHhVRU8yY1JkZ0ZuUXlabkcwczNwM3BmcHZKbzJpTnY2Y3RkVElqd0NKX1A0SEFrSXVTT083OThLLUM0OFByMnVhR21CcDU2aEpncUdHQ3VibW9FOFNBZ1VScVB6WkRZaUZsa3FTYzB1MA",
+  "snippet": "Samsara expands AI fleet management tools, adds voice support for drivers TheTrucker.com",
+  "published": "2026-11-16T18:24:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T08:31:13.845923+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [
+   "Company announcement"
+  ],
+  "kind": "announcement",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/samsara-expands-ai-fleet-management-tools-adds-voice-support-for-drivers",
+  "source_note": "ok · 891 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "7e831f42188d6305",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-17T08:31:13.845923+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "to create customized AI assistants without writing computer code"
+   },
+   {
+    "sentence": "2",
+    "quote": "use of its AI agents has increased sevenfold since June 2026"
+   },
+   {
+    "sentence": "3",
+    "quote": "these agents can be configured to respond to specific events or operating conditions"
+   },
+   {
+    "sentence": "4",
+    "quote": "flag potential HOS violations before they occur"
+   },
+   {
+    "sentence": "5",
+    "quote": "an AI agent could automatically contact the driver with site-specific instructions"
+   },
+   {
+    "sentence": "6",
+    "quote": "voice interactions surpassed chat interactions within four weeks of the voice feature's launch"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 40
  },
  {
   "id": "9ae926507f",
