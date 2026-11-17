@@ -3573,7 +3573,8 @@
   "0257a021aa": "skipped|importance 55 is below this platform's threshold (65)",
   "a98574a7c3": "skipped|minor item (announcement) or low-quality source",
   "738281184c": "queued|importance 67 (threshold 65), Regulations, trade publication",
-  "94dbd3b0ae": "skipped|minor item (announcement) or low-quality source"
+  "94dbd3b0ae": "skipped|minor item (announcement) or low-quality source",
+  "aa0df11328": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -7012,6 +7013,13 @@
    "title": "Teletrac Navman launches AI-powered driver fatigue monitoring sensor",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-17T20:21:47.098330+00:00",
+   "story_id": "aa0df11328",
+   "title": "Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo theft scheme",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
