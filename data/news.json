@@ -243,6 +243,35 @@
   "sum_pending": false
  },
  {
+  "id": "2482108fbf",
+  "slug": "the-global-economy-has-a-diesel-problem-2482108fbf",
+  "title": "The global economy has a diesel problem",
+  "orig_title": "The global economy has a diesel problem",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "WP Intelligence",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0xmdW92ODRSNEZYZHZGM2dERVppdVhDYnR5dlZ4dlQ2ODNWNVJSZEJ3LTBQOEoxUWlKR0VnbV9EZUUzNG84WHR2QWIxRkt6TXBOeW1KcWdCV0M5LS11eTdfNnFBWHVKbS02aG56ZTRQLXlGU2ZvVFNKR2ZydnBiNFRCbzJJZWNqX0dTOUdiZXNSZ0U0QVM0WlIzZWVVWVZXUHFjc3VhSTUxSG8yWkE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0xmdW92ODRSNEZYZHZGM2dERVppdVhDYnR5dlZ4dlQ2ODNWNVJSZEJ3LTBQOEoxUWlKR0VnbV9EZUUzNG84WHR2QWIxRkt6TXBOeW1KcWdCV0M5LS11eTdfNnFBWHVKbS02aG56ZTRQLXlGU2ZvVFNKR2ZydnBiNFRCbzJJZWNqX0dTOUdiZXNSZ0U0QVM0WlIzZWVVWVZXUHFjc3VhSTUxSG8yWkE",
+  "snippet": "The global economy has a diesel problem WP Intelligence",
+  "published": "2026-11-17T22:31:01+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T23:51:13.248218+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fd97254cf0",
   "slug": "swedish-log-truck-drivers-spend-most-workdays-sedentary-and-miss-exerc-fd97254cf0",
   "title": "Swedish Log Truck Drivers Spend Most Workdays Sedentary and Miss Exercise Guidelines",
@@ -13724,35 +13753,6 @@
   "source_note": "excerpt only · 18 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "f15a954275",
-  "slug": "convoy-of-care-delivers-truckloads-of-supplies-to-north-georgia-flood-f15a954275",
-  "title": "‘Convoy of Care’ delivers truckloads of supplies to north Georgia flood victims",
-  "orig_title": "‘Convoy of Care’ delivers truckloads of supplies to north Georgia flood victims",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "WSB-TV",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2ViM2FqcEF5ZWxQTVhEaUJXZkVqekRJN2lhUTNqX0FPcGZlYUt2OEM3SjBKTXhqUzM4cGtfTGdVN1RMV0ZPYzdNNDlnMm9kT3I3U0thNFlaSFR6R3Awd2YyNjJCZDIzalRiR1VDSGVGWFBUVDN0a2VkeUdPMHBpSzVSb2dud0o1dzJNVi1nQUxRTS1ub2trYkhUamhLdGlHdnFqMjY3TTJFazBYeURhYnozbXY0MURwM2JrczQzVDBoMzFoTm83dHkwb9IB3wFBVV95cUxOQUFFZzNFdEZOcVdQVlI1OTBfOHJHTWcyRkVyNzdyTUV2XzBRSFB6SVpjV0Z4Vmx2b1RRajhobFE2cHpjTzhRcDRGaEhZYzFTbnJ5Vmd3QWFHemwwT0NOZ2Uta0U2ckFiM2xYVl84X01TalFLRXBsVDdLbnJqd2tINEN1TUUwSWl0V0JmQi0xMWJyOHNab1hLTk9OZzdVT0RSNVpQeV9tbTJjNWVhc1JEWHBmT2xERThMTTlsTGc0YVp2MzVYVHRiOHdMa0JjNWRZdWtrcTE2VTBGUi1GWmY4?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2ViM2FqcEF5ZWxQTVhEaUJXZkVqekRJN2lhUTNqX0FPcGZlYUt2OEM3SjBKTXhqUzM4cGtfTGdVN1RMV0ZPYzdNNDlnMm9kT3I3U0thNFlaSFR6R3Awd2YyNjJCZDIzalRiR1VDSGVGWFBUVDN0a2VkeUdPMHBpSzVSb2dud0o1dzJNVi1nQUxRTS1ub2trYkhUamhLdGlHdnFqMjY3TTJFazBYeURhYnozbXY0MURwM2JrczQzVDBoMzFoTm83dHkwb9IB3wFBVV95cUxOQUFFZzNFdEZOcVdQVlI1OTBfOHJHTWcyRkVyNzdyTUV2XzBRSFB6SVpjV0Z4Vmx2b1RRajhobFE2cHpjTzhRcDRGaEhZYzFTbnJ5Vmd3QWFHemwwT0NOZ2Uta0U2ckFiM2xYVl84X01TalFLRXBsVDdLbnJqd2tINEN1TUUwSWl0V0JmQi0xMWJyOHNab1hLTk9OZzdVT0RSNVpQeV9tbTJjNWVhc1JEWHBmT2xERThMTTlsTGc0YVp2MzVYVHRiOHdMa0JjNWRZdWtrcTE2VTBGUi1GWmY4",
-  "snippet": "‘Convoy of Care’ delivers truckloads of supplies to north Georgia flood victims WSB-TV",
-  "published": "2026-11-13T23:42:01+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T23:51:05.519555+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "'truckload' used as an expression, not freight news"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "e3008c1cdd",
