@@ -3578,7 +3578,8 @@
   "b1d711ffcb": "skipped|importance 55 is below this platform's threshold (65)",
   "9762fa7a74": "skipped|importance 60 is below this platform's threshold (65)",
   "f9086524bc": "skipped|importance 55 is below this platform's threshold (65)",
-  "0ae837733e": "skipped|minor item (crime) or low-quality source"
+  "0ae837733e": "skipped|minor item (crime) or low-quality source",
+  "2d81b38a84": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7052,6 +7053,13 @@
    "title": "Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in cargo from California shippers",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-17T21:51:28.854097+00:00",
+   "story_id": "2d81b38a84",
+   "title": "Truckload carriers compete over drivers — but not just with money",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
