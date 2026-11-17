@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:01:04.175344+00:00",
+ "updated": "2026-11-17T14:11:08.114534+00:00",
  "hour_now": 9,
  "have_us": true,
  "have_ca": true,
@@ -33,7 +33,7 @@
      4,
      1,
      5,
-     1,
+     2,
      0,
      9,
      1,
@@ -108,7 +108,7 @@
      5,
      6,
      13,
-     51,
+     47,
      59,
      59,
      55,
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 8:47 am EST",
+    "status": "delay",
+    "updated": "At 9:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-17 08:40 EST"
+    "wait": 6,
+    "status": "6 minutes",
+    "updated": "2026-11-17 09:00 EST"
    },
    "usual": {
     "south": [
@@ -258,7 +258,7 @@
      10,
      7,
      14,
-     23,
+     22,
      8,
      0,
      0,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:47 am EST",
+    "updated": "At 9:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-17 08:40 EST"
+    "wait": 7,
+    "status": "7 minutes",
+    "updated": "2026-11-17 09:00 EST"
    },
    "usual": {
     "south": [
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 19:15 EST"
+    "updated": "2026-11-17 08:16 EST"
    },
    "usual": {
     "south": [
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "08:57:18",
+    "updated": "09:07:19",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-17 09:15 AST"
+    "updated": "2026-11-17 10:03 AST"
    },
    "usual": {
     "south": [
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": null,
+    "wait": 56,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "07:57:18",
+    "lanes": "1",
+    "status": "delay",
+    "updated": "At 8:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1083,7 +1083,7 @@
      0,
      2,
      0,
-     13,
+     18,
      12,
      10,
      10,
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:57:18",
+    "updated": "07:07:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1278,17 +1278,17 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 40,
+    "wait": 60,
     "fast_wait": null,
-    "lanes": "1",
+    "lanes": "2",
     "status": "delay",
-    "updated": "At 5:00 am PST",
+    "updated": "At 6:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-17 06:40 PDT"
+    "updated": "2026-11-17 07:00 PDT"
    },
    "usual": {
     "south": [
@@ -1301,7 +1301,7 @@
      18,
      24,
      30,
-     16,
+     20,
      0,
      0,
      0,
@@ -1355,15 +1355,15 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "1",
+    "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:00 am PST",
+    "updated": "At 7:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 06:40 PDT"
+    "updated": "2026-11-17 07:00 PDT"
    },
    "usual": {
     "south": [
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
