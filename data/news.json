@@ -59,6 +59,35 @@
   "dup_of": "931b43c9f1"
  },
  {
+  "id": "dc533b8e2d",
+  "slug": "79-of-chileans-backed-the-truckers-kast-s-approval-just-hit-27-dc533b8e2d",
+  "title": "79% of Chileans Backed the Truckers. Kast's Approval Just Hit 27%",
+  "orig_title": "79% of Chileans Backed the Truckers. Kast's Approval Just Hit 27%",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "inkl",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWItS0gza0J6cURRdkxhV25ickUyZjNrU0I5WlhxZnNWTkdaNV82Y2FDdjRNQ0RWYTMtSFN0cklxVjlpLVBvWm1YNDAxRTVwNUd0TTNNSFB5N29oNjNFYTdZLXp6REliQzRmTE9RMHNRSXhkWkFucmNqOXp5ZGx5VXI3X0xzanJfTWRXODZKWGE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWItS0gza0J6cURRdkxhV25ickUyZjNrU0I5WlhxZnNWTkdaNV82Y2FDdjRNQ0RWYTMtSFN0cklxVjlpLVBvWm1YNDAxRTVwNUd0TTNNSFB5N29oNjNFYTdZLXp6REliQzRmTE9RMHNRSXhkWkFucmNqOXp5ZGx5VXI3X0xzanJfTWRXODZKWGE",
+  "snippet": "79% of Chileans Backed the Truckers. Kast's Approval Just Hit 27% inkl",
+  "published": "2026-11-17T06:00:11+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T07:31:16.904541+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f1d7bb00bb",
   "slug": "chileans-overwhelmingly-support-truckers-fuel-price-protest-as-preside-f1d7bb00bb",
   "title": "Chileans overwhelmingly support truckers' fuel-price protest as President Kast's approval plunges to 27%",
