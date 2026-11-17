@@ -62,6 +62,35 @@
   "sum_status": "no source text (no usable text)"
  },
  {
+  "id": "5b54d9c0c1",
+  "slug": "russian-strikes-hit-ukrainian-cities-killing-at-least-five-and-leaving-5b54d9c0c1",
+  "title": "Russian strikes hit Ukrainian cities, killing at least five and leaving hundreds of communities without power",
+  "orig_title": "Russian strikes hit Ukrainian cities, killing at least five and leaving hundreds of communities without power",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Hromadske",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM0tDMFM5X19tLWJkWUFTZ2xCdVdHZlN2b1dMT3VMUjRuTE5ZUElhamJWTzZnSXVyWl9vYmhtcHRGMllyZDBxTkVMSjVCSmhSaExneGZIUlNHYmg3UkpSM20xaDZaeHV1Z0JJRDF1OWtULXVMS0RvN1JBWmVLUVZ1TnZxRVBUcjNTRVo2anc1Skx1ZW5WNUZDOHZtMGI2cWVjYjR4Q2NETTdGUmQzcVJJUzNVRVE0MzBYcjQyakwzM2JIV2ZwRVdCbFhudTFSbDhBWDU0S2pUWm1uNFF5R0JBddIB4AFBVV95cUxPM0tDMFM5X19tLWJkWUFTZ2xCdVdHZlN2b1dMT3VMUjRuTE5ZUElhamJWTzZnSXVyWl9vYmhtcHRGMllyZDBxTkVMSjVCSmhSaExneGZIUlNHYmg3UkpSM20xaDZaeHV1Z0JJRDF1OWtULXVMS0RvN1JBWmVLUVZ1TnZxRVBUcjNTRVo2anc1Skx1ZW5WNUZDOHZtMGI2cWVjYjR4Q2NETTdGUmQzcVJJUzNVRVE0MzBYcjQyakwzM2JIV2ZwRVdCbFhudTFSbDhBWDU0S2pUWm1uNFF5R0JBdQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM0tDMFM5X19tLWJkWUFTZ2xCdVdHZlN2b1dMT3VMUjRuTE5ZUElhamJWTzZnSXVyWl9vYmhtcHRGMllyZDBxTkVMSjVCSmhSaExneGZIUlNHYmg3UkpSM20xaDZaeHV1Z0JJRDF1OWtULXVMS0RvN1JBWmVLUVZ1TnZxRVBUcjNTRVo2anc1Skx1ZW5WNUZDOHZtMGI2cWVjYjR4Q2NETTdGUmQzcVJJUzNVRVE0MzBYcjQyakwzM2JIV2ZwRVdCbFhudTFSbDhBWDU0S2pUWm1uNFF5R0JBddIB4AFBVV95cUxPM0tDMFM5X19tLWJkWUFTZ2xCdVdHZlN2b1dMT3VMUjRuTE5ZUElhamJWTzZnSXVyWl9vYmhtcHRGMllyZDBxTkVMSjVCSmhSaExneGZIUlNHYmg3UkpSM20xaDZaeHV1Z0JJRDF1OWtULXVMS0RvN1JBWmVLUVZ1TnZxRVBUcjNTRVo2anc1Skx1ZW5WNUZDOHZtMGI2cWVjYjR4Q2NETTdGUmQzcVJJUzNVRVE0MzBYcjQyakwzM2JIV2ZwRVdCbFhudTFSbDhBWDU0S2pUWm1uNFF5R0JBdQ",
+  "snippet": "Russian strikes hit Ukrainian cities, killing at least five and leaving hundreds of communities without power Hromadske",
+  "published": "2026-11-17T09:09:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T10:41:05.008388+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3e1c8c167f",
   "slug": "insurance-fraud-ai-tools-surge-across-us-claims-and-cargo-3e1c8c167f",
   "title": "Insurance fraud AI tools surge across US claims and cargo",
