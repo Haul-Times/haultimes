@@ -2603,7 +2603,7 @@
    "source": "www.overdriveonline.com",
    "dest": "https://haultimes.com/story/new-york-defeats-fmcsa-in-major-legal-battle-over-non-domiciled-cdls-736ebd8ba5/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=736ebd8ba5",
    "caption": "New York defeats FMCSA in major legal battle over non-domiciled CDLs.\n\nReported by www.overdriveonline. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-16T22:11:27.376514+00:00",
    "published": "2026-11-16T22:07:37+00:00",
    "score": 87,
@@ -2659,7 +2659,7 @@
    "source": "Journal of Commerce",
    "dest": "https://haultimes.com/story/yes-us-dry-van-flatbed-and-refrigerated-truckload-spot-rates-dat-gatew-af22e6fb54/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=af22e6fb54",
    "caption": "Yes: US dry-van, flatbed and refrigerated truckload spot rates (DAT) Gateway.\n\nReported by Journal of Commerce. The link has the details and the original article.\n\n#Trucking #Freight",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-17T02:41:23.489725+00:00",
    "published": "2026-11-16T22:07:00+00:00",
    "score": 72,
@@ -3343,13 +3343,13 @@
   "ae54141f56": "skipped|importance 55 is below this platform's threshold (65)",
   "e7a707cad0": "skipped|importance 57 is below this platform's threshold (65)",
   "815d03511b": "skipped|minor item (incident) or low-quality source",
-  "736ebd8ba5": "queued|importance 87 (threshold 65), Regulations, trade publication",
+  "736ebd8ba5": "expired|stale before a slot opened (published 12h ago)",
   "0db08617d2": "skipped|importance 55 is below this platform's threshold (65)",
   "3e2cafbf0f": "skipped|importance 45 is below this platform's threshold (65)",
   "a812fcb144": "skipped|importance 55 is below this platform's threshold (65)",
   "border-pembina-south-2026111619": "expired|no slot opened in time",
   "aca4446e8b": "skipped|importance 55 is below this platform's threshold (65)",
-  "af22e6fb54": "queued|importance 72 (threshold 65), Rates & Market, trade publication",
+  "af22e6fb54": "expired|stale before a slot opened (published 12h ago)",
   "27e3bb0783": "skipped|importance 61 is below this platform's threshold (65)",
   "e7952ede0c": "skipped|importance 57 is below this platform's threshold (65)",
   "55ca7af8e1": "skipped|importance 55 is below this platform's threshold (65)"
@@ -6553,6 +6553,20 @@
    "title": "Shift Supervisor - Logistics in Minneapolis, MN for Penske Truck Leasing",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T10:11:20.632887+00:00",
+   "story_id": "736ebd8ba5",
+   "title": "New York defeats FMCSA in major legal battle over non-domiciled CDLs",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-17T10:11:20.632887+00:00",
+   "story_id": "af22e6fb54",
+   "title": "Yes: US dry-van, flatbed and refrigerated truckload spot rates (DAT) Gateway",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {
