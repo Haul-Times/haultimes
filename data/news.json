@@ -1,5 +1,38 @@
 [
  {
+  "id": "94dbd3b0ae",
+  "slug": "teletrac-navman-launches-ai-powered-driver-fatigue-monitoring-sensor-94dbd3b0ae",
+  "title": "Teletrac Navman launches AI-powered driver fatigue monitoring sensor",
+  "orig_title": "Teletrac Navman launches AI-powered driver fatigue monitoring sensor",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "",
+  "importance": 45,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWU1c2FxdmdCaWJrekpJWm1LS0J2NFRwcWx1X1pzV05aXzh2ck4zbzVReGtZMDg2SVM1NG14S2wtRUt6RUI4REJPa09WTnk3cmxYenQ0LUpfRGN2UGl4c3pBVHNya01ibndRZkoyMjV5d21EMTlETFBvMzdGOG1BRllET29hSHp2TE9sTHY0blVOXy04eEp2LUdzNW1wZDJjVXRtdkRKUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWU1c2FxdmdCaWJrekpJWm1LS0J2NFRwcWx1X1pzV05aXzh2ck4zbzVReGtZMDg2SVM1NG14S2wtRUt6RUI4REJPa09WTnk3cmxYenQ0LUpfRGN2UGl4c3pBVHNya01ibndRZkoyMjV5d21EMTlETFBvMzdGOG1BRllET29hSHp2TE9sTHY0blVOXy04eEp2LUdzNW1wZDJjVXRtdkRKUQ",
+  "snippet": "Teletrac Navman launches AI-powered driver fatigue monitoring sensor Truck News",
+  "published": "2026-11-17T19:55:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T20:01:23.684547+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [
+   "Company announcement"
+  ],
+  "kind": "announcement",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "738281184c",
   "slug": "orgs-offer-recommendations-to-fmcsa-to-help-tackle-eld-fraud-738281184c",
   "title": "Orgs offer recommendations to FMCSA to help tackle ELD fraud",
