@@ -3382,7 +3382,9 @@
   "e7952ede0c": "skipped|importance 57 is below this platform's threshold (65)",
   "55ca7af8e1": "skipped|importance 55 is below this platform's threshold (65)",
   "bdd1f4a40c": "queued|importance 78 (threshold 65), Industry, trade publication",
-  "9d4c887eb0": "skipped|minor item (news) or low-quality source"
+  "9d4c887eb0": "skipped|minor item (news) or low-quality source",
+  "1571d7c228": "skipped|importance 60 is below this platform's threshold (65)",
+  "3a17264ddd": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -6611,6 +6613,20 @@
    "title": "The \"Mighty Mitch\" Method: Logistics Growth, Tech, & People — What The Truck?!?",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-17T13:51:55.051030+00:00",
+   "story_id": "1571d7c228",
+   "title": "Five Manitoba fleets join Trucking HR Canada’s Women’s Leadership Accord",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T13:51:55.051030+00:00",
+   "story_id": "3a17264ddd",
+   "title": "Man, 24, dies in head-on crash between semi-trailer and truck in Manitoba's Interlake",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
