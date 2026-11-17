@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:11:13.862487+00:00",
+ "updated": "2026-11-17T18:21:29.577987+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
-    "fast_wait": 5,
+    "wait": 10,
+    "fast_wait": 10,
     "lanes": "5",
-    "status": "no delay",
-    "updated": "At Noon EST",
+    "status": "delay",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -37,7 +37,7 @@
      8,
      5,
      1,
-     0,
+     1,
      11,
      21,
      38,
@@ -112,7 +112,7 @@
      26,
      26,
      27,
-     34,
+     30,
      57,
      60,
      37,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -288,7 +288,7 @@
      18,
      13,
      5,
-     9,
+     8,
      4,
      9,
      14,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "13:07:45",
+    "updated": "13:12:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -937,7 +937,7 @@
      0,
      0,
      2,
-     5,
+     7,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:07:45",
+    "updated": "13:12:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1087,7 +1087,7 @@
      35,
      29,
      13,
-     4,
+     5,
      0,
      0,
      0,
@@ -1113,7 +1113,7 @@
      0,
      0,
      5,
-     5,
+     7,
      0,
      0,
      0,
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:07:45",
+    "updated": "11:12:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1305,7 +1305,7 @@
      33,
      30,
      16,
-     6,
+     7,
      0,
      0,
      0,

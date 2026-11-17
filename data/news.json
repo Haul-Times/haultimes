@@ -13845,35 +13845,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "4f92bc0626",
-  "slug": "stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1-4f92bc0626",
-  "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
-  "orig_title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdWJLQ1VSbUlpeExUQy0yRzRPZ3NlQlZwcl96eHZSRFhLbTJ4WmQ1cU9lU2FUY0RLRGgyVHRIb2tQdkFqaXUzWDBJdjJJeHN5SEVsUHVoMW5aNWc4MmVnVTdRdW5ZeEpn?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdWJLQ1VSbUlpeExUQy0yRzRPZ3NlQlZwcl96eHZSRFhLbTJ4WmQ1cU9lU2FUY0RLRGgyVHRIb2tQdkFqaXUzWDBJdjJJeHN5SEVsUHVoMW5aNWc4MmVnVTdRdW5ZeEpn",
-  "snippet": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1 Global News",
-  "published": "2026-11-13T18:18:34+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T18:21:06.525093+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "37a5d0b752",
   "slug": "more-power-better-mpg-edison-motors-plans-hybrid-test-trucks-37a5d0b752",
   "title": "More Power, Better MPG? Edison Motors Plans Hybrid Test Trucks",
@@ -13903,35 +13874,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "5a076c3f29",
-  "slug": "november-7-live-younger-a-wellness-and-longevity-clinic-5a076c3f29",
-  "title": "November 7 — Live Younger: A Wellness and Longevity Clinic",
-  "orig_title": "November 7 — Live Younger: A Wellness and Longevity Clinic",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLU9uaUlpWkV1TXhhYldzeDRTRFhHM242T0JNR2FJS1gxLVhlQnZldW5OQ1ppR1Z4eE1TX25nRll6OXR5N3g1VzlXQWZVUU5XX3JOSHV5aTAyV0ItdlZnRTNaYV92RUhBSUNDVHRBNDJ6OWpleG82U00tSzdzN19BM1NDdW82azlJWkg0Zk5VOUZIZlNOVkZF?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLU9uaUlpWkV1TXhhYldzeDRTRFhHM242T0JNR2FJS1gxLVhlQnZldW5OQ1ppR1Z4eE1TX25nRll6OXR5N3g1VzlXQWZVUU5XX3JOSHV5aTAyV0ItdlZnRTNaYV92RUhBSUNDVHRBNDJ6OWpleG82U00tSzdzN19BM1NDdW82azlJWkg0Zk5VOUZIZlNOVkZF",
-  "snippet": "November 7 — Live Younger: A Wellness and Longevity Clinic Global News",
-  "published": "2026-11-13T18:10:17+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T18:21:06.525093+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "2d5cc0fc8d",
