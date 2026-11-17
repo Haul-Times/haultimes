@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:31:22.706318+00:00",
+ "updated": "2026-11-17T00:41:14.023845+00:00",
  "hour_now": 19,
  "have_us": true,
  "have_ca": true,
@@ -43,7 +43,7 @@
      21,
      17,
      11,
-     6,
+     5,
      0,
      10,
      10,
@@ -118,7 +118,7 @@
      27,
      36,
      36,
-     34,
+     35,
      35,
      35,
      23,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:17 pm EST",
+    "updated": "At 7:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:17 pm EST",
+    "updated": "At 7:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-16 19:15 EST"
+    "updated": "2026-11-16 19:30 EST"
    },
    "usual": {
     "south": [
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "19:25:52",
+    "updated": "19:35:53",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:25:52",
+    "updated": "19:35:53",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1093,7 +1093,7 @@
      56,
      57,
      42,
-     62,
+     71,
      42,
      24,
      16,
@@ -1236,7 +1236,7 @@
      15,
      15,
      20,
-     13,
+     11,
      0,
      0,
      0,
@@ -1498,11 +1498,6 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
     "name": "St-Bernard-de-Lacolle",
     "wait": 0,
     "status": "No Delay"
@@ -1524,8 +1519,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 5,
-    "status": "5 minutes"
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Aldergrove",
