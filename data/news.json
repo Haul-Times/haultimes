@@ -1,5 +1,73 @@
 [
  {
+  "id": "0ae837733e",
+  "slug": "man-sentenced-to-prison-for-scheme-to-buy-trucking-companies-to-steal-0ae837733e",
+  "title": "Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in cargo from California shippers",
+  "orig_title": "Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in cargo from California shippers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 48,
+  "source": "CDLLife",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGZ4ejdyTERqUDlYTHNlVzB2Z2dBNW5rMVZMVnB4dTBDS3I3NE9fbXpOMlRNZG10X1E4TDBPbUs4TDJ4R0xZM1VPdXFYeGY4V2ZjcnhsOUh3X25BZFFNLWx0MFpfWUFfZTY2WmJMUFl0TVlDTEFTNXhGa2FrQ3BOeVZPdmVjX0tqUFlWcDdFZ2FzTWlqdk9nUVlFZ0F0VHNoWTl1MjJIOF80U0pVNHFNZHJOVy1TQ3FKamtXdE5IeExqTExRaEtuZjVxUmpwMXcwSTRhdVR3U0E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGZ4ejdyTERqUDlYTHNlVzB2Z2dBNW5rMVZMVnB4dTBDS3I3NE9fbXpOMlRNZG10X1E4TDBPbUs4TDJ4R0xZM1VPdXFYeGY4V2ZjcnhsOUh3X25BZFFNLWx0MFpfWUFfZTY2WmJMUFl0TVlDTEFTNXhGa2FrQ3BOeVZPdmVjX0tqUFlWcDdFZ2FzTWlqdk9nUVlFZ0F0VHNoWTl1MjJIOF80U0pVNHFNZHJOVy1TQ3FKamtXdE5IeExqTExRaEtuZjVxUmpwMXcwSTRhdVR3U0E",
+  "snippet": "Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in cargo from California shippers CDLLife",
+  "published": "2026-11-17T21:22:30+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T21:41:11.441318+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "crime",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://cdllife.com/2026/man-sentenced-to-prison-for-scheme-to-buy-trucking-companies-to-steal-7-2-million-in-cargo-from-california-shippers/",
+  "source_note": "ok · 310 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "c6181314bb83a5ec",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-17T21:41:11.441318+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "was sentenced to 30 months in federal prison"
+   },
+   {
+    "sentence": "2",
+    "quote": "ordered to pay $2,210,055 in restitution"
+   },
+   {
+    "sentence": "3",
+    "quote": "pleaded guilty to one count of conspiracy"
+   },
+   {
+    "sentence": "4",
+    "quote": "found or purchased"
+   },
+   {
+    "sentence": "5",
+    "quote": "typically bearing the trucking company’s name"
+   },
+   {
+    "sentence": "6",
+    "quote": "approximately $7,210,056"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'to one count of conspiracy to commit theft from interstate or foreign'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 55
+ },
+ {
   "id": "9762fa7a74",
   "slug": "economic-indicators-increasingly-signal-stronger-us-freight-market-9762fa7a74",
   "title": "Economic indicators increasingly signal stronger US freight market",
@@ -176,12 +244,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
+   "same story as: Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in carg"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "aa0df11328"
+  "dup_of": "0ae837733e"
  },
  {
   "id": "e24637ca30",
@@ -322,8 +390,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in carg"
+  ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -372,7 +442,8 @@
   ],
   "ai_importance": 68,
   "sum_v4": true,
-  "ai_category": "other"
+  "ai_category": "other",
+  "dup_of": "0ae837733e"
  },
  {
   "id": "94dbd3b0ae",
@@ -13208,64 +13279,6 @@
   "sum_pending": false
  },
  {
-  "id": "1f052473f8",
-  "slug": "police-arrest-three-over-suspected-gh-20m-counterfeit-gtp-fabrics-at-a-1f052473f8",
-  "title": "Police arrest three over suspected GH¢20m counterfeit GTP fabrics at Adabraka",
-  "orig_title": "Police arrest three over suspected GH¢20m counterfeit GTP fabrics at Adabraka",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "MyJoyOnline",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWMxTXl0NnRxMEhySnZUVXYxUEFxM0JuRmx6Qzk0eUpEVnc1OFFMNnlxM0UzLVNYMHc1cHBaWXFlanpBQk14TUpkTFVOdTFjNWRVR0lDazdNa19kNWJOTWItelJ1Q0VQMTlTM1N2UlJzdWt4TGxPOElwd1JCOF9HYzZFSWJQSlFlMWgxU2tYVFFKSjVreURIRUxrT1lwaEwtTlF1VFhFUHBHeDlQaFVycQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWMxTXl0NnRxMEhySnZUVXYxUEFxM0JuRmx6Qzk0eUpEVnc1OFFMNnlxM0UzLVNYMHc1cHBaWXFlanpBQk14TUpkTFVOdTFjNWRVR0lDazdNa19kNWJOTWItelJ1Q0VQMTlTM1N2UlJzdWt4TGxPOElwd1JCOF9HYzZFSWJQSlFlMWgxU2tYVFFKSjVreURIRUxrT1lwaEwtTlF1VFhFUHBHeDlQaFVycQ",
-  "snippet": "Police arrest three over suspected GH¢20m counterfeit GTP fabrics at Adabraka MyJoyOnline",
-  "published": "2026-11-13T21:37:25+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T21:41:03.485363+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "ef79ecfb72",
-  "slug": "content-authored-by-jack-brook-ef79ecfb72",
-  "title": "Content Authored By Jack Brook",
-  "orig_title": "Content Authored By Jack Brook",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UTkdkSFB1dkgwVk8xSGdPYk5jcnVCU2RvZXVFUGZoM3JqVDhSTDVHU1ZnRXdhN05TSFhPT0VjWllNQzdxTGNWd2NiMjRwZGFUS2RJ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UTkdkSFB1dkgwVk8xSGdPYk5jcnVCU2RvZXVFUGZoM3JqVDhSTDVHU1ZnRXdhN05TSFhPT0VjWllNQzdxTGNWd2NiMjRwZGFUS2RJ",
-  "snippet": "Content Authored By Jack Brook Transport Topics",
-  "published": "2026-11-13T21:31:09+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T21:41:03.485363+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
- },
- {
   "id": "c432696538",
   "slug": "chile-offers-a-142-peso-per-liter-diesel-cut-but-some-truckers-keep-bl-c432696538",
   "title": "Chile offers a 142-peso-per-liter diesel cut, but some truckers keep blockades in place",
@@ -13289,35 +13302,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "a2576928b3",
-  "slug": "tanker-strikes-cruise-riverboat-in-new-orleans-a2576928b3",
-  "title": "Tanker strikes cruise riverboat in New Orleans",
-  "orig_title": "Tanker strikes cruise riverboat in New Orleans",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1E4MVFUV0g5MU5OazR5bGx2N3hueVhJSDNOQ0NKdWVHYko0MDloYm9LRXBoOTBKOTdKelp0dzZDTy15LWpRclVtU25qSkE3TzROdk9GNXE5M0VQSzNYS2cybnViVHRoMkNOeGpUbjlkekVIcDdxa0ptNnVVck1XNExVZFFPTVk?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1E4MVFUV0g5MU5OazR5bGx2N3hueVhJSDNOQ0NKdWVHYko0MDloYm9LRXBoOTBKOTdKelp0dzZDTy15LWpRclVtU25qSkE3TzROdk9GNXE5M0VQSzNYS2cybnViVHRoMkNOeGpUbjlkekVIcDdxa0ptNnVVck1XNExVZFFPTVk",
-  "snippet": "Tanker strikes cruise riverboat in New Orleans FreightWaves",
-  "published": "2026-11-13T21:25:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T21:41:03.485363+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
   "kind": "rejected",
@@ -13658,35 +13642,6 @@
   "source_note": "paywalled: excerpt only · 40 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "609f34a5dd",
-  "slug": "how-to-modernize-your-tms-without-replacing-it-podcast-609f34a5dd",
-  "title": "How to Modernize Your TMS Without Replacing It [Podcast]",
-  "orig_title": "How to Modernize Your TMS Without Replacing It [Podcast]",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Heavy Duty Trucking",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGZIOVBNWkVxSDExYW9lQXFjSjhVemtJSTNUcXJtM0hiRGxja3B4NFc2QVdMRG9OdmdUQ2JROTVVbThVQWZrMl81WlJRSnZoeDRpM2RMT0xfSjcteUpxaFFodi0yTDYzc3ZrSE1NbU1Nd1RtcnhYN1VxTnBVV2YyVVgwVTM4OVZKRi05V3RpMmpONTlRX3hr?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGZIOVBNWkVxSDExYW9lQXFjSjhVemtJSTNUcXJtM0hiRGxja3B4NFc2QVdMRG9OdmdUQ2JROTVVbThVQWZrMl81WlJRSnZoeDRpM2RMT0xfSjcteUpxaFFodi0yTDYzc3ZrSE1NbU1Nd1RtcnhYN1VxTnBVV2YyVVgwVTM4OVZKRi05V3RpMmpONTlRX3hr",
-  "snippet": "How to Modernize Your TMS Without Replacing It [Podcast] Heavy Duty Trucking",
-  "published": "2026-11-13T20:12:43+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T21:31:04.674257+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
  },
  {
   "id": "a03836d10b",
@@ -16883,35 +16838,6 @@
   "source_note": "excerpt only · 28 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "254a926e89",
-  "slug": "alberta-expanding-use-of-ai-tech-that-speeds-up-mris-after-successful-254a926e89",
-  "title": "Alberta expanding use of AI tech that speeds up MRIs after successful pilot",
-  "orig_title": "Alberta expanding use of AI tech that speeds up MRIs after successful pilot",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUdlRmJPaGpZdjNkaTJOSjlWZ1poRV8yUF9aSE9Za0VFUTNnTmpjMFlzNkVyNEo0TWNYcVFhWmlqOTNNSE03MGRSNEhvRldJTG1RdlJ5YlpWQUEyRUtDcVkxQmFFLU8xN2tfdFNieTN3Z0lpTXhUdzdzaDZJWnkyVTVZMksycGktWkdtN0dPSkU0enhkQjVPODdndw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUdlRmJPaGpZdjNkaTJOSjlWZ1poRV8yUF9aSE9Za0VFUTNnTmpjMFlzNkVyNEo0TWNYcVFhWmlqOTNNSE03MGRSNEhvRldJTG1RdlJ5YlpWQUEyRUtDcVkxQmFFLU8xN2tfdFNieTN3Z0lpTXhUdzdzaDZJWnkyVTVZMksycGktWkdtN0dPSkU0enhkQjVPODdndw",
-  "snippet": "Alberta expanding use of AI tech that speeds up MRIs after successful pilot Global News",
-  "published": "2026-11-12T19:18:53+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T21:31:04.674257+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "297a89c866",
