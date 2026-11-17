@@ -3442,7 +3442,8 @@
   "27332026fc": "skipped|minor item (news) or low-quality source",
   "diesel-2026-11-16": "queued|HaulTimes update",
   "9b7c99251f": "skipped|minor item (incident) or low-quality source",
-  "b8de84d4b1": "skipped|importance 62 is below this platform's threshold (65)"
+  "b8de84d4b1": "skipped|importance 62 is below this platform's threshold (65)",
+  "daba6fe391": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6748,6 +6749,13 @@
    "title": "Diesel prices fall to under $6 per gallon",
    "action": "skipped",
    "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T16:01:32.323297+00:00",
+   "story_id": "daba6fe391",
+   "title": "Oil market slide brings benchmark diesel under $6 level",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
