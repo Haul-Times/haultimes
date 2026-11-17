@@ -3440,7 +3440,8 @@
   "9f6c87c542": "queued|importance 87 (threshold 65), Regulations, trade publication",
   "ac60a533be": "skipped|importance 55 is below this platform's threshold (65)",
   "27332026fc": "skipped|minor item (news) or low-quality source",
-  "diesel-2026-11-16": "queued|HaulTimes update"
+  "diesel-2026-11-16": "queued|HaulTimes update",
+  "9b7c99251f": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -6732,6 +6733,13 @@
    "title": "Diesel prices, week of 2026-11-16",
    "action": "queued",
    "reason": "HaulTimes update: diesel"
+  },
+  {
+   "at": "2026-11-17T15:21:18.647451+00:00",
+   "story_id": "9b7c99251f",
+   "title": "Should Truck Drivers Have an Age Limit? The I-84 Rollover Debate — What The Truck?!?",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
