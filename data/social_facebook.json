@@ -3580,7 +3580,8 @@
   "f9086524bc": "skipped|importance 55 is below this platform's threshold (65)",
   "0ae837733e": "skipped|minor item (crime) or low-quality source",
   "2d81b38a84": "skipped|importance 60 is below this platform's threshold (65)",
-  "c748575e1b": "skipped|importance 55 is below this platform's threshold (65)"
+  "c748575e1b": "skipped|importance 55 is below this platform's threshold (65)",
+  "8ab31682bc": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7068,6 +7069,13 @@
    "title": "Western Star films 49X logger in Daimler vocational push",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T22:31:32.008687+00:00",
+   "story_id": "8ab31682bc",
+   "title": "Over 100 pounds of suspected cocaine found in truckload of lettuce at Blaine border crossing",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

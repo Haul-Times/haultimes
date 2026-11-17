@@ -1,5 +1,102 @@
 [
  {
+  "id": "8ab31682bc",
+  "slug": "over-100-pounds-of-suspected-cocaine-found-in-truckload-of-lettuce-at-8ab31682bc",
+  "title": "Over 100 pounds of suspected cocaine found in truckload of lettuce at Blaine border crossing",
+  "orig_title": "Over 100 pounds of suspected cocaine found in truckload of lettuce at Blaine border crossing",
+  "summary": "",
+  "why": "",
+  "category": "border",
+  "region": "Cross-border",
+  "importance": 45,
+  "source": "My Bellingham Now",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnl2dmhVcmxGS2lMY0xfSy1sa1BER05OUjdPdVBvYmVpa2JoY3FhdkR1REdIY2hfTWxjQkYxc0xGN2Q1WHhaNmJyMkVNYzlsa1k5VkYyNlRlMU5JNEhadzl4cVlpN25GaDN1eEhzVm5WazEyVWFGRUdvclpwQ3NiYWxmcU93YzdfYl9ZN2VBZE1aVzdramFhUTc0MlpTeDRySm9oNjFWbnp0Mnl5eTN2RVlVMGFvSmVWb2dIMHdRZUYzNkV2eWlEWmszMURHQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnl2dmhVcmxGS2lMY0xfSy1sa1BER05OUjdPdVBvYmVpa2JoY3FhdkR1REdIY2hfTWxjQkYxc0xGN2Q1WHhaNmJyMkVNYzlsa1k5VkYyNlRlMU5JNEhadzl4cVlpN25GaDN1eEhzVm5WazEyVWFGRUdvclpwQ3NiYWxmcU93YzdfYl9ZN2VBZE1aVzdramFhUTc0MlpTeDRySm9oNjFWbnp0Mnl5eTN2RVlVMGFvSmVWb2dIMHdRZUYzNkV2eWlEWmszMURHQQ",
+  "snippet": "Over 100 pounds of suspected cocaine found in truckload of lettuce at Blaine border crossing My Bellingham Now",
+  "published": "2026-11-17T22:23:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T22:31:04.078830+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://mybellinghamnow.com/news/297792-over-100-pounds-of-suspected-cocaine-found-in-truckload-of-lettuce-at-blaine-border-crossing/",
+  "source_note": "ok · 176 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "0f78ee52e92b1f7e",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-17T22:31:04.078830+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "announced that they seized nearly 180 pounds of suspected cocaine"
+   },
+   {
+    "sentence": "2",
+    "quote": "noting concerns about their paperwork"
+   },
+   {
+    "sentence": "3",
+    "quote": "two duffel bags containing 65 packages of suspected cocaine"
+   },
+   {
+    "sentence": "4",
+    "quote": "The driver was arrested and the truck was taken for further examination."
+   },
+   {
+    "sentence": "5",
+    "quote": "nearly 250 pounds of opium in January"
+   },
+   {
+    "sentence": "5",
+    "quote": "over 500 pounds of cocaine from commercial trucks in three separate incidents"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'seized nearly 180 pounds of suspected cocaine at the pacific highway c'"
+  ],
+  "ai_category": "border",
+  "ai_importance": 55
+ },
+ {
+  "id": "4cd1e6708c",
+  "slug": "illegal-indian-migrant-learns-fate-for-7m-socal-cargo-theft-scheme-4cd1e6708c",
+  "title": "Illegal Indian migrant learns fate for $7M SoCal cargo theft scheme",
+  "orig_title": "Illegal Indian migrant learns fate for $7M SoCal cargo theft scheme",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "New York Post",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFZfa0p5ZllpTEktTWlpaV9rZnFWdVQ1dGhLcllWSXFGOWVtUzRaeUpFUHRQWFo5LUI1REEtTWloVHVNNTVWcXUxYTdjenpzM0Y1YXRjaFIxWEdIeXlmeDRGN1VDaUYyQV9JSWJLZU5WUTM2RGRaS3BJUkdRVVM0UDJZZ0FfZE9BVlhiRU9aQnRBeHVqczZvbg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFZfa0p5ZllpTEktTWlpaV9rZnFWdVQ1dGhLcllWSXFGOWVtUzRaeUpFUHRQWFo5LUI1REEtTWloVHVNNTVWcXUxYTdjenpzM0Y1YXRjaFIxWEdIeXlmeDRGN1VDaUYyQV9JSWJLZU5WUTM2RGRaS3BJUkdRVVM0UDJZZ0FfZE9BVlhiRU9aQnRBeHVqczZvbg",
+  "snippet": "Illegal Indian migrant learns fate for $7M SoCal cargo theft scheme New York Post",
+  "published": "2026-11-17T22:21:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T22:31:04.078830+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "35300b0dd9",
   "slug": "california-bars-waymo-robotaxis-from-freeways-35300b0dd9",
   "title": "California bars Waymo robotaxis from freeways",
@@ -17085,35 +17182,6 @@
   "source_note": "excerpt only · 22 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "d7eefb2574",
-  "slug": "woman-found-safe-after-abduction-near-prince-albert-rcmp-d7eefb2574",
-  "title": "Woman found safe after abduction near Prince Albert: RCMP",
-  "orig_title": "Woman found safe after abduction near Prince Albert: RCMP",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEdOdFkxQU82elFZbi0xby1jcVhBUXVtQW8xcUFzbHhQRFFndndva2NZbDRaZktvVjZ3d1Rhc1dvMHpGT0E4ZUZLdDRwQkRkdWJNSmpYRzBxekRKT0cwMlJ3VXhfTV9ad0tuNUUtcHpFSkFBdVFIUTEzYTRGVFJ1Ri1vaDdGVjRELTRlS0FjQ25tRVJNYVEyMGVR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEdOdFkxQU82elFZbi0xby1jcVhBUXVtQW8xcUFzbHhQRFFndndva2NZbDRaZktvVjZ3d1Rhc1dvMHpGT0E4ZUZLdDRwQkRkdWJNSmpYRzBxekRKT0cwMlJ3VXhfTV9ad0tuNUUtcHpFSkFBdVFIUTEzYTRGVFJ1Ri1vaDdGVjRELTRlS0FjQ25tRVJNYVEyMGVR",
-  "snippet": "Woman found safe after abduction near Prince Albert: RCMP Global News",
-  "published": "2026-11-12T18:39:04+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T22:21:09.748185+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "cc9b8ce0a5",
