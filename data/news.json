@@ -16043,35 +16043,6 @@
   "sum_pending": false
  },
  {
-  "id": "e8f3a97628",
-  "slug": "larry-thomas-morrison-e8f3a97628",
-  "title": "Larry Thomas Morrison",
-  "orig_title": "Larry Thomas Morrison",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Rickey Stokes News",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XU0xYd2g4MXh5ek1JTk1odVdOY3JRU2RCZU5vdXZHRGhkTUlQQlRIRW9aSVJyMjIwcmxZaGdNb09RR2lVNEs3cm0wclltMUlKcmxocG02UzBFbmxxbElpVg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XU0xYd2g4MXh5ek1JTk1odVdOY3JRU2RCZU5vdXZHRGhkTUlQQlRIRW9aSVJyMjIwcmxZaGdNb09RR2lVNEs3cm0wclltMUlKcmxocG02UzBFbmxxbElpVg",
-  "snippet": "Larry Thomas Morrison Rickey Stokes News",
-  "published": "2026-11-12T18:25:53+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T00:11:02.101803+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "bcb70f4c99",
   "slug": "christmas-miracle-bcb70f4c99",
   "title": "Christmas Miracle",
@@ -16469,35 +16440,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.elciudadano.com/en/port-workers-show-solidarity-with-truckers-conatraport-warns-of-job-risks-amid-government-inaction/11/12/",
   "source_note": "ok · 771 words"
- },
- {
-  "id": "3b02cee58d",
-  "slug": "news-thursday-november-12-2026-3b02cee58d",
-  "title": "News – Thursday, November, 12, 2026",
-  "orig_title": "News – Thursday, November, 12, 2026",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Q Country 91.5FM",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82ei1IZUpSWlZSbE5OdlpjWUNsZktaYUVoRllodFVBWmpKYzI2VlpMMjgtS28weFZUMTdha2ZXNDgtZFd0enlvYkg0NHhLUHh5?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82ei1IZUpSWlZSbE5OdlpjWUNsZktaYUVoRllodFVBWmpKYzI2VlpMMjgtS28weFZUMTdha2ZXNDgtZFd0enlvYkg0NHhLUHh5",
-  "snippet": "News – Thursday, November, 12, 2026 Q Country 91.5FM",
-  "published": "2026-11-12T16:03:14+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T00:11:02.101803+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "25fa85d841",
