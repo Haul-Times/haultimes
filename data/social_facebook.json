@@ -3582,7 +3582,8 @@
   "2d81b38a84": "skipped|importance 60 is below this platform's threshold (65)",
   "c748575e1b": "skipped|importance 55 is below this platform's threshold (65)",
   "8ab31682bc": "skipped|importance 45 is below this platform's threshold (65)",
-  "9237874185": "skipped|importance 55 is below this platform's threshold (65)"
+  "9237874185": "skipped|importance 55 is below this platform's threshold (65)",
+  "1ec12a7da7": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7084,6 +7085,13 @@
    "title": "Two owner-operators win new Peterbilt, Freightliner",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T23:31:29.538676+00:00",
+   "story_id": "1ec12a7da7",
+   "title": "FMCSA ELD Removals: 133 Devices and Fleet Checks",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
