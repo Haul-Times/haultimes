@@ -13853,35 +13853,6 @@
   "source_note": "ok · 562 words"
  },
  {
-  "id": "4b9e1ddc69",
-  "slug": "cleveland-cliffs-to-recall-workers-at-ontario-steel-plant-4b9e1ddc69",
-  "title": "Cleveland-Cliffs to recall workers at Ontario steel plant",
-  "orig_title": "Cleveland-Cliffs to recall workers at Ontario steel plant",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pMTNXODdXb01ndTVncGtUV2YtdWZOUDZIeDhJUzlqaVQ3RTBDTG5zMl9SVFdoZHRzVVBfOGFtYjIwREpkQS1mdVRIZUR4R2lVYk9TNEtUclpFeFN1MzdJUi0tOGhXMXpsanpfaw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pMTNXODdXb01ndTVncGtUV2YtdWZOUDZIeDhJUzlqaVQ3RTBDTG5zMl9SVFdoZHRzVVBfOGFtYjIwREpkQS1mdVRIZUR4R2lVYk9TNEtUclpFeFN1MzdJUi0tOGhXMXpsanpfaw",
-  "snippet": "Cleveland-Cliffs to recall workers at Ontario steel plant Transport Topics",
-  "published": "2026-11-13T19:33:37+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T20:01:26.001402+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
- },
- {
   "id": "de6c81c709",
   "slug": "trump-to-extend-shipping-waiver-for-oil-fertilizer-de6c81c709",
   "title": "Trump to extend shipping waiver for oil, fertilizer",
@@ -13974,35 +13945,6 @@
   "source_note": "paywalled: excerpt only · 33 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "5b254923f4",
-  "slug": "more-gym-less-humanities-alberta-overhauls-high-school-graduation-requ-5b254923f4",
-  "title": "More gym, less humanities: Alberta overhauls high school graduation requirements",
-  "orig_title": "More gym, less humanities: Alberta overhauls high school graduation requirements",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1B6RmNTTkJYOFBTcU5DTldxU0dURXdmMG5lQjJQUlAzSlhSZ3R3MGFfU1UzT0VrM1VZaUlicEdQNFBtaUY1SE8zVmc0UHYxRUFJRHFXeERwTnZVRFNtemxQbF9IeVptUlJmQjhJbk1PVExodmFxUjh2Ukd4QUtGdDhhRGNxWk8yYllPUHJWQk0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1B6RmNTTkJYOFBTcU5DTldxU0dURXdmMG5lQjJQUlAzSlhSZ3R3MGFfU1UzT0VrM1VZaUlicEdQNFBtaUY1SE8zVmc0UHYxRUFJRHFXeERwTnZVRFNtemxQbF9IeVptUlJmQjhJbk1PVExodmFxUjh2Ukd4QUtGdDhhRGNxWk8yYllPUHJWQk0",
-  "snippet": "More gym, less humanities: Alberta overhauls high school graduation requirements Global News",
-  "published": "2026-11-13T18:44:33+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T20:01:26.001402+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "a711c84c1d",
