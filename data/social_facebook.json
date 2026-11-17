@@ -2839,6 +2839,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "738281184c": {
+   "story_id": "738281184c",
+   "title": "Orgs offer recommendations to FMCSA to help tackle ELD fraud",
+   "url_key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1dDUGU4X0VJNHEyT1o3ejZDNXVncjItOHRKa1J0MWJQWUJxWU15MU9PN25Vczg5REsyQUdINTBydndYZUpWOTBwUkFxWG02aU5rNl9sbWg1MHF1TElQNTBaV2RET2hiX2h5WkJkdV9JbkNuVktJMzNzQUtnRFZmSC1FRUpWZlVPdGFjOWhaUGROb1JSaWJzYm12X0IyNHZuS1hUaEd0UHp3RFk1UXBUaGQzejlfY3BmZ1B6allTMHpkaFd6aFgzbWt5U1VXM1gycnc",
+   "category": "regs",
+   "source": "www.overdriveonline.com",
+   "dest": "https://haultimes.com/story/orgs-offer-recommendations-to-fmcsa-to-help-tackle-eld-fraud-738281184c/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=738281184c",
+   "caption": "Orgs offer recommendations to FMCSA to help tackle ELD fraud.\n\nReported by www.overdriveonline. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-17T19:55:52.704979+00:00",
+   "published": "2026-11-17T19:51:59+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Orgs offer recommendations to FMCSA to help tackle ELD fraud | HaulTimes",
+    "og:description": "Reported by www.overdriveonline.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/a484a822fe.png",
+    "og:url": "https://haultimes.com/story/orgs-offer-recommendations-to-fmcsa-to-help-tackle-eld-fraud-738281184c/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3543,7 +3571,8 @@
   "4e1021998a": "skipped|importance 55 is below this platform's threshold (65)",
   "43312477df": "skipped|importance 55 is below this platform's threshold (65)",
   "0257a021aa": "skipped|importance 55 is below this platform's threshold (65)",
-  "a98574a7c3": "skipped|minor item (announcement) or low-quality source"
+  "a98574a7c3": "skipped|minor item (announcement) or low-quality source",
+  "738281184c": "queued|importance 67 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -6968,6 +6997,13 @@
    "title": "WeVolt launches electric APU for owner-operators, small fleets",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-17T19:55:52.704979+00:00",
+   "story_id": "738281184c",
+   "title": "Orgs offer recommendations to FMCSA to help tackle ELD fraud",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {
