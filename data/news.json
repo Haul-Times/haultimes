@@ -1,5 +1,34 @@
 [
  {
+  "id": "09dc03c490",
+  "slug": "groundtruth-archives-09dc03c490",
+  "title": "Groundtruth Archives",
+  "orig_title": "Groundtruth Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UWm45SWhUUllnRnl2QV91emZ5c2ZlSklLQVZSdV83dWVLUHNrX1hNQlFCUTkyT0ZhQUZLSy1WcUNpQmtCbFlWRVRHQ0lQWFF6blhCa05xaGFsZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UWm45SWhUUllnRnl2QV91emZ5c2ZlSklLQVZSdV83dWVLUHNrX1hNQlFCUTkyT0ZhQUZLSy1WcUNpQmtCbFlWRVRHQ0lQWFF6blhCa05xaGFsZw",
+  "snippet": "Groundtruth Archives Truck News",
+  "published": "2026-11-17T07:09:11+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T07:41:07.326411+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9f400a5c1b",
   "slug": "eight-nigerians-arrested-in-canada-over-alleged-theft-export-of-96-veh-9f400a5c1b",
   "title": "Eight Nigerians Arrested In Canada Over Alleged Theft, Export Of 96 Vehicles -",
