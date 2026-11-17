@@ -1,5 +1,151 @@
 [
  {
+  "id": "d57d869691",
+  "slug": "cbsa-officers-seize-81-kg-of-suspected-cocaine-from-a-commercial-truck-d57d869691",
+  "title": "CBSA officers seize 81 kg of suspected cocaine from a commercial truck arriving from the US, at Pacific Highway",
+  "orig_title": "CBSA officers seize 81 kg of suspected cocaine from a commercial truck arriving from the US, at Pacific Highway",
+  "summary": "",
+  "why": "",
+  "category": "border",
+  "region": "Canada",
+  "importance": 72,
+  "source": "Canada Border Services Agency",
+  "link": "https://www.canada.ca/en/border-services-agency/news/2026/11/cbsa-officers-seize-81-kg-of-suspected-cocaine-from-a-commercial-truck-arriving-from-the-us-at-pacific-highway.html",
+  "url_key": "https://canada.ca/en/border-services-agency/news/2026/11/cbsa-officers-seize-81-kg-of-suspected-cocaine-from-a-commercial-truck-arriving-from-the-us-at-pacific-highway.html",
+  "snippet": "CBSA officers seized 81 kg of suspected cocaine found on top of romaine lettuce boxes from a commercial truck at Pacific Highway in B.C.",
+  "published": "2026-11-17T17:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T17:01:07.296844+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "official",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.canada.ca/en/border-services-agency/news/2026/11/cbsa-officers-seize-81-kg-of-suspected-cocaine-from-a-commercial-truck-arriving-from-the-us-at-pacific-highway.html",
+  "source_note": "ok · 382 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "1d5e8a1cf447619a",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-17T17:01:07.296844+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "seized 81 kilograms of suspected cocaine"
+   },
+   {
+    "sentence": "2",
+    "quote": "noting concerns about its paperwork"
+   },
+   {
+    "sentence": "3",
+    "quote": "on top of boxes of romaine lettuce"
+   },
+   {
+    "sentence": "4",
+    "quote": "The driver was arrested"
+   },
+   {
+    "sentence": "5",
+    "quote": "The investigation remains ongoing."
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'to the rcmp federal policing pacific region, drugs and organized crime'"
+  ],
+  "ai_category": "border",
+  "ai_importance": 55
+ },
+ {
+  "id": "06303619b7",
+  "slug": "cass-freight-index-freight-cycle-finds-a-higher-gear-06303619b7",
+  "title": "Cass Freight Index: Freight cycle finds a higher gear",
+  "orig_title": "Cass Freight Index: Freight cycle finds a higher gear",
+  "summary": "",
+  "why": "",
+  "category": "rates",
+  "region": "US",
+  "importance": 56,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnNfM1o1cUtJYndQdkI3T3ROVVQxTklNbF9yTzc1czNWUEZ2WEFHZ2Z4TXdJdXVaRk04YlZvd21rZTJMejlFUlc5V3NIdFhiRThRSU1VZXVrdV9yNTZyN2dKSWFIUF96dlh0bE9EVU85dVFWZk1PX0ZqNVRlNGpkWGc4bWw3QnJJU1NVSVhEZVBqelJZQ29SMjFfblRiVnY2c1ZXaQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnNfM1o1cUtJYndQdkI3T3ROVVQxTklNbF9yTzc1czNWUEZ2WEFHZ2Z4TXdJdXVaRk04YlZvd21rZTJMejlFUlc5V3NIdFhiRThRSU1VZXVrdV9yNTZyN2dKSWFIUF96dlh0bE9EVU85dVFWZk1PX0ZqNVRlNGpkWGc4bWw3QnJJU1NVSVhEZVBqelJZQ29SMjFfblRiVnY2c1ZXaQ",
+  "snippet": "Cass Freight Index: Freight cycle finds a higher gear TheTrucker.com",
+  "published": "2026-11-17T16:49:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T17:01:07.296844+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/cass-freight-index-freight-cycle-finds-a-higher-gear",
+  "source_note": "ok · 377 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "6572cf07b680fddb",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-17T17:01:07.296844+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "freight demand improved for the third straight month in October"
+   },
+   {
+    "sentence": "2",
+    "quote": "The shipments component of the Cass Freight Index rose 5.9% y/y in October"
+   },
+   {
+    "sentence": "3",
+    "quote": "In SA terms, shipments rose 1.7% m/m in October"
+   },
+   {
+    "sentence": "4",
+    "quote": "accelerated to 27% y/y growth in October to 4.01"
+   },
+   {
+    "sentence": "5",
+    "quote": "The acceleration in the past few months was driven by higher shipments, rates and fuel surcharges."
+   },
+   {
+    "sentence": "6",
+    "quote": "The Cass Truckload Linehaul Index rose to 156.2 in October, up 0.9% m/m and 9.9% y/y."
+   },
+   {
+    "sentence": "7",
+    "quote": "the near-term direction seems higher still"
+   },
+   {
+    "sentence": "8",
+    "quote": "The normal seasonal pattern would put the shipments component of the Cass Freight Index up 3% y/y in November."
+   },
+   {
+    "sentence": "9",
+    "quote": "elevated inflation and rising interest rates squeezing consumers and businesses"
+   }
+  ],
+  "sum_problems": [
+   "Source does not explicitly state the geography; region set to US based on the Cass Freight Index being a US measure, which should be confirmed."
+  ],
+  "ai_category": "rates",
+  "ai_importance": 60,
+  "pending_summary": "ACT Research said freight demand improved for a third straight month in October and now believes the freight cycle has entered its growth phase. The Cass Freight Index shipments component rose 5.9% year over year in October, up from 1.9% in September, helped by an easy comparison with late-2025 trade war effects. Seasonally adjusted, shipments gained 1.7% month over month.\n\nExpenditures on freight grew 27% year over year to 4.01 in October, from a 20% gain in September, driven by higher shipments, rates and fuel surcharges. The Cass Truckload Linehaul Index reached 156.2, up 0.9% month over month and 9.9% year over year, as both spot and contract rates rose. The source says the near-term direction seems higher still, and that normal seasonality would put November shipments up 3% year over year. Elevated inflation, rising interest rates and the temporary nature of IEEPA tariff refunds are cited as limits on demand.",
+  "pending_why": ""
+ },
+ {
   "id": "e333eb61f7",
   "slug": "the-right-tool-for-the-job-the-reality-of-ai-in-freight-e333eb61f7",
   "title": "The Right Tool for the Job: The Reality of AI in Freight",
