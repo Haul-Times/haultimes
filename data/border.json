@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:21:16.144259+00:00",
+ "updated": "2026-11-17T12:31:07.463237+00:00",
  "hour_now": 7,
  "have_us": true,
  "have_ca": true,
@@ -20,7 +20,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 05:15 EST"
+    "updated": "2026-11-17 07:15 EST"
    },
    "usual": {
     "south": [
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 07:02 EST"
+    "updated": "2026-11-17 07:15 EST"
    },
    "usual": {
     "south": [
@@ -106,7 +106,7 @@
      2,
      0,
      5,
-     3,
+     4,
      17,
      56,
      59,
@@ -243,9 +243,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-17 07:00 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-17 07:20 EST"
    },
    "usual": {
     "south": [
@@ -318,9 +318,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-17 07:00 EST"
+    "wait": 4,
+    "status": "4 minutes",
+    "updated": "2026-11-17 07:20 EST"
    },
    "usual": {
     "south": [
@@ -331,7 +331,7 @@
      0,
      0,
      1,
-     3,
+     2,
      11,
      0,
      0,
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 07:03 EST"
+    "updated": "2026-11-17 07:15 EST"
    },
    "usual": {
     "south": [
@@ -545,7 +545,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 05:15 EST"
+    "updated": "2026-11-17 07:15 EST"
    },
    "usual": {
     "south": [
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 07:11 CDT"
+    "updated": "2026-11-17 07:15 CDT"
    },
    "usual": {
     "south": [
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 07:09 EST"
+    "updated": "2026-11-17 07:15 EST"
    },
    "usual": {
     "south": [
@@ -1070,7 +1070,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 05:15 CDT"
+    "updated": "2026-11-17 07:15 CDT"
    },
    "usual": {
     "south": [
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-17 05:00 PDT"
+    "updated": "2026-11-17 05:20 PDT"
    },
    "usual": {
     "south": [
@@ -1299,7 +1299,7 @@
      16,
      17,
      18,
-     16,
+     19,
      19,
      13,
      0,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 05:00 PDT"
+    "updated": "2026-11-17 05:20 PDT"
    },
    "usual": {
     "south": [
