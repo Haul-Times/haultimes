@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:31:06.451729+00:00",
+ "updated": "2026-11-17T04:41:16.480489+00:00",
  "hour_now": 23,
  "have_us": true,
  "have_ca": true,
@@ -47,7 +47,7 @@
      0,
      3,
      3,
-     15
+     14
     ],
     "north": [
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:17 pm EST",
+    "updated": "At 11:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:17 pm EST",
+    "updated": "At 11:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -373,7 +373,7 @@
      9,
      18,
      14,
-     8
+     9
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "23:21:19",
+    "updated": "23:31:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "23:21:19",
+    "updated": "23:31:19",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1240,7 +1240,7 @@
      15,
      2,
      0,
-     4
+     3
     ],
     "north": [
      13,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 pm PST",
+    "updated": "At 8:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1315,7 +1315,7 @@
      0,
      3,
      3,
-     4
+     3
     ],
     "north": [
      6,
