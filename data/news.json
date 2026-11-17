@@ -14800,36 +14800,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "eddf33662e",
-  "slug": "cracking-down-on-fraud-fmcsa-pulls-133-elds-from-federal-registry-eddf33662e",
-  "title": "Cracking down on fraud: FMCSA pulls 133 ELDs from federal registry",
-  "orig_title": "Cracking down on fraud: FMCSA pulls 133 ELDs from federal registry",
-  "summary": "",
-  "why": "",
-  "category": "regs",
-  "region": "",
-  "importance": 67,
-  "source": "TheTrucker.com",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSS15d3VrODdDRnRPZ3NIZV9YeFFFVVdMSElMcUpyOW44SmM5UG5RVWZ5OE1jaWZBY0FCVk1HSzNndWVtbU4tRGZKemFTSFltU2VOcnJnYWlyU3BQcnZCU0RnaVlaWklMNVpDdXZpYy1abHB0Ti1FNDZiQ1BzVUdSRzZMc3cwekU3QnZISFlQcHhrUDV6NGdMLXF4Vlp4NWFCSVk1bTBCNDNWWkM2aVMyVHFUVm9xYWlEaENxSklR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSS15d3VrODdDRnRPZ3NIZV9YeFFFVVdMSElMcUpyOW44SmM5UG5RVWZ5OE1jaWZBY0FCVk1HSzNndWVtbU4tRGZKemFTSFltU2VOcnJnYWlyU3BQcnZCU0RnaVlaWklMNVpDdXZpYy1abHB0Ti1FNDZiQ1BzVUdSRzZMc3cwekU3QnZISFlQcHhrUDV6NGdMLXF4Vlp4NWFCSVk1bTBCNDNWWkM2aVMyVHFUVm9xYWlEaENxSklR",
-  "snippet": "Cracking down on fraud: FMCSA pulls 133 ELDs from federal registry TheTrucker.com",
-  "published": "2026-11-13T12:18:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-13T12:41:05.319876+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: FMCSA revokes 133 ELDs after Overdrive reported HOS fraud confrontation"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "c0c38348e3"
- },
- {
   "id": "23971d2944",
   "slug": "mileway-secures-two-industrial-lettings-at-seacroft-estate-in-leeds-23971d2944",
   "title": "Mileway secures two industrial lettings at Seacroft estate in Leeds",
