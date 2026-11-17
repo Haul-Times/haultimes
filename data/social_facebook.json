@@ -3537,7 +3537,11 @@
   "06303619b7": "skipped|importance 56 is below this platform's threshold (65)",
   "a17334730a": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
   "036656251d": "skipped|importance 62 is below this platform's threshold (65)",
-  "2a2b102a25": "queued|importance 72 (threshold 65), Industry, trade publication"
+  "2a2b102a25": "queued|importance 72 (threshold 65), Industry, trade publication",
+  "d14b30617a": "skipped|importance 55 is below this platform's threshold (65)",
+  "3dccb809a7": "skipped|importance 55 is below this platform's threshold (65)",
+  "4e1021998a": "skipped|importance 55 is below this platform's threshold (65)",
+  "43312477df": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6920,6 +6924,34 @@
    "title": "Truckload Carriers Association Outlines FMCSA Reform Strategy",
    "action": "queued",
    "reason": "importance 72 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-17T19:01:30.580270+00:00",
+   "story_id": "d14b30617a",
+   "title": "Trucking students haul Christmas cheer across B.C. communities",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T19:01:30.580270+00:00",
+   "story_id": "3dccb809a7",
+   "title": "Why proactive safety and smart efficiency must define Ontario trucking’s next chapter",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T19:01:30.580270+00:00",
+   "story_id": "4e1021998a",
+   "title": "Mack MyGarage lets customers save, customize truck builds",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T19:01:30.580270+00:00",
+   "story_id": "43312477df",
+   "title": "EV Realty breaks ground on 9 MW truck charging hub in California",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
