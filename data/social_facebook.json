@@ -3447,7 +3447,8 @@
   "f7a5bc99cc": "skipped|importance 61 is below this platform's threshold (65)",
   "0abe1c2af4": "skipped|importance 62 is below this platform's threshold (65)",
   "196e2beda6": "skipped|importance 60 is below this platform's threshold (65)",
-  "e333eb61f7": "skipped|importance 55 is below this platform's threshold (65)"
+  "e333eb61f7": "skipped|importance 55 is below this platform's threshold (65)",
+  "379f9abb9a": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6788,6 +6789,13 @@
    "title": "The Right Tool for the Job: The Reality of AI in Freight",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T16:53:16.005897+00:00",
+   "story_id": "379f9abb9a",
+   "title": "New specific bonus for fuel tanker truck drivers",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
