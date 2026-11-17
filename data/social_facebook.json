@@ -2811,6 +2811,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "2a2b102a25": {
+   "story_id": "2a2b102a25",
+   "title": "Truckload Carriers Association Outlines FMCSA Reform Strategy",
+   "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOelVPMUIzYW9Sc2M0emVOUjBINVhNVmZhcDltUlFraXpYSDIxMVBJZmd3aExUVmVsOFBxeEdMSWswYmZhRy0ydkFVdUU1eDhCR1NWTVMtODdQM2kxS3N3VUFjSXd5ZjhjT09meUw1eXNEV1RqNTZfUkJncXZqXzZhbk9vbXdlYWFTSzlLc1VPeFd5cGFtS2tBLVdUd3FmVEx0Ymd1b1lzZHFXNzZGYTBiQUlfbDlNR0tqMGc",
+   "category": "other",
+   "source": "Commercial Carrier Journal",
+   "dest": "https://haultimes.com/story/truckload-carriers-association-outlines-fmcsa-reform-strategy-2a2b102a25/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2a2b102a25",
+   "caption": "Truckload Carriers Association Outlines FMCSA Reform Strategy.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-17T18:41:29.612067+00:00",
+   "published": "2026-11-17T12:43:07+00:00",
+   "score": 72,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Truckload Carriers Association Outlines FMCSA Reform Strategy | HaulTimes",
+    "og:description": "Reported by Commercial Carrier Journal. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/a19a3d9605.png",
+    "og:url": "https://haultimes.com/story/truckload-carriers-association-outlines-fmcsa-reform-strategy-2a2b102a25/"
+   },
+   "reason": "importance 72 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3508,7 +3536,8 @@
   "d57d869691": "queued|importance 72 (threshold 65), Cross-Border, trade publication",
   "06303619b7": "skipped|importance 56 is below this platform's threshold (65)",
   "a17334730a": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
-  "036656251d": "skipped|importance 62 is below this platform's threshold (65)"
+  "036656251d": "skipped|importance 62 is below this platform's threshold (65)",
+  "2a2b102a25": "queued|importance 72 (threshold 65), Industry, trade publication"
  },
  "decisions": [
   {
@@ -6884,6 +6913,13 @@
    "title": "Q3 2026 Cargo Theft Falls as Losses Rise",
    "action": "skipped",
    "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T18:41:29.612067+00:00",
+   "story_id": "2a2b102a25",
+   "title": "Truckload Carriers Association Outlines FMCSA Reform Strategy",
+   "action": "queued",
+   "reason": "importance 72 (threshold 65), Industry, trade publication"
   }
  ],
  "visibility": {
