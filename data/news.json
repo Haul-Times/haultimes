@@ -1,5 +1,35 @@
 [
  {
+  "id": "63bc89d1f1",
+  "slug": "rancho-cucamonga-man-sentenced-to-30-months-in-7-2m-socal-cargo-theft-63bc89d1f1",
+  "title": "Rancho Cucamonga man sentenced to 30 months in $7.2M SoCal cargo theft scheme",
+  "orig_title": "Rancho Cucamonga man sentenced to 30 months in $7.2M SoCal cargo theft scheme",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 37,
+  "source": "KESQ",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVUFqV1R1d2pzaVdmMHIxeGFBOUxQcl9UZDYzaU1HU2liVlkwc0tZeFZnSUdWUzY0dExncTYyZnFQSHNDWENqZUgzSmNsenAwTXNDZm9VTHhDNHE0aUsxTHFaVV9fV2RHTmFQLW81aVRJY205dkJYZlg1WW9hOTB3aWlQS2J5MGVRcFhRZ2JGaTkzMUdlamU3bGRLd2p4TG44T1pnbDV1SmIwWUM4UWVTUGRyNU1kcWt1d1dUTTd3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVUFqV1R1d2pzaVdmMHIxeGFBOUxQcl9UZDYzaU1HU2liVlkwc0tZeFZnSUdWUzY0dExncTYyZnFQSHNDWENqZUgzSmNsenAwTXNDZm9VTHhDNHE0aUsxTHFaVV9fV2RHTmFQLW81aVRJY205dkJYZlg1WW9hOTB3aWlQS2J5MGVRcFhRZ2JGaTkzMUdlamU3bGRLd2p4TG44T1pnbDV1SmIwWUM4UWVTUGRyNU1kcWt1d1dUTTd3",
+  "snippet": "Rancho Cucamonga man sentenced to 30 months in $7.2M SoCal cargo theft scheme KESQ",
+  "published": "2026-11-17T23:39:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T23:41:06.714222+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in carg"
+  ],
+  "labels": [],
+  "kind": "crime",
+  "sum_pending": false,
+  "dup_of": "0ae837733e"
+ },
+ {
   "id": "1ec12a7da7",
   "slug": "fmcsa-eld-removals-133-devices-and-fleet-checks-1ec12a7da7",
   "title": "FMCSA ELD Removals: 133 Devices and Fleet Checks",
@@ -3156,6 +3186,35 @@
   "status": "rejected",
   "reasons": [
    "market-research sales page"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "6bb6e64966",
+  "slug": "get-ready-for-a-cheesy-good-time-6bb6e64966",
+  "title": "Get ready for a cheesy good time",
+  "orig_title": "Get ready for a cheesy good time",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "yoursun.com",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbW5sdDNYaHUwc3VmcThYS2owNGV1V2FUNVRhOUtVMHkyNWlTeGJzZkdlaDdwS3JwWFhlaFJhUlUydjBTNmdGRW1fM2xCOG5WQVc0OUFwMkgzVk84cjlIM3ZiNDZJVHRUN2xfelJxU1plbkhlM25Fa04tZnlYb1BoWG9YRTdoeFczUFA1NDhjX0ItS192MFZia0JFVGV2SUZYUjRGamM0UXo3RElGNEE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbW5sdDNYaHUwc3VmcThYS2owNGV1V2FUNVRhOUtVMHkyNWlTeGJzZkdlaDdwS3JwWFhlaFJhUlUydjBTNmdGRW1fM2xCOG5WQVc0OUFwMkgzVk84cjlIM3ZiNDZJVHRUN2xfelJxU1plbkhlM25Fa04tZnlYb1BoWG9YRTdoeFczUFA1NDhjX0ItS192MFZia0JFVGV2SUZYUjRGamM0UXo3RElGNEE",
+  "snippet": "Get ready for a cheesy good time yoursun.com",
+  "published": "2026-11-17T11:30:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T23:41:06.714222+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
