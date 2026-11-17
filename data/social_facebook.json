@@ -3445,7 +3445,9 @@
   "b8de84d4b1": "skipped|importance 62 is below this platform's threshold (65)",
   "daba6fe391": "skipped|importance 55 is below this platform's threshold (65)",
   "f7a5bc99cc": "skipped|importance 61 is below this platform's threshold (65)",
-  "0abe1c2af4": "skipped|importance 62 is below this platform's threshold (65)"
+  "0abe1c2af4": "skipped|importance 62 is below this platform's threshold (65)",
+  "196e2beda6": "skipped|importance 60 is below this platform's threshold (65)",
+  "e333eb61f7": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6772,6 +6774,20 @@
    "title": "Saia asks FMCSA to allow CLP holders to operate CMVs with double trailers under supervision",
    "action": "skipped",
    "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T16:51:28.578208+00:00",
+   "story_id": "196e2beda6",
+   "title": "Petro-Canada PC-12 Engine Oils: What Fleets Need to Know for 2027",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-17T16:51:28.578208+00:00",
+   "story_id": "e333eb61f7",
+   "title": "The Right Tool for the Job: The Reality of AI in Freight",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
