@@ -3441,7 +3441,8 @@
   "ac60a533be": "skipped|importance 55 is below this platform's threshold (65)",
   "27332026fc": "skipped|minor item (news) or low-quality source",
   "diesel-2026-11-16": "queued|HaulTimes update",
-  "9b7c99251f": "skipped|minor item (incident) or low-quality source"
+  "9b7c99251f": "skipped|minor item (incident) or low-quality source",
+  "b8de84d4b1": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -6740,6 +6741,13 @@
    "title": "Should Truck Drivers Have an Age Limit? The I-84 Rollover Debate — What The Truck?!?",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-17T15:51:33.391400+00:00",
+   "story_id": "b8de84d4b1",
+   "title": "Diesel prices fall to under $6 per gallon",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
