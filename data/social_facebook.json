@@ -3381,7 +3381,8 @@
   "27e3bb0783": "skipped|importance 61 is below this platform's threshold (65)",
   "e7952ede0c": "skipped|importance 57 is below this platform's threshold (65)",
   "55ca7af8e1": "skipped|importance 55 is below this platform's threshold (65)",
-  "bdd1f4a40c": "queued|importance 78 (threshold 65), Industry, trade publication"
+  "bdd1f4a40c": "queued|importance 78 (threshold 65), Industry, trade publication",
+  "9d4c887eb0": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -6603,6 +6604,13 @@
    "title": "US cargo theft falls 8% in Q3 as truck stop incidents nearly triple",
    "action": "queued",
    "reason": "importance 78 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-17T12:37:25.681438+00:00",
+   "story_id": "9d4c887eb0",
+   "title": "The \"Mighty Mitch\" Method: Logistics Growth, Tech, & People — What The Truck?!?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
