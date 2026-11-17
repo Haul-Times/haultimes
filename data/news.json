@@ -152,6 +152,36 @@
   "dup_of": "5ae1ae5c75"
  },
  {
+  "id": "aaaaf9a567",
+  "slug": "gordie-howe-international-bridge-becomes-most-popular-border-crossing-aaaaf9a567",
+  "title": "Gordie Howe International Bridge becomes most popular border crossing between Michigan and Ontario in October",
+  "orig_title": "Gordie Howe International Bridge becomes most popular border crossing between Michigan and Ontario in October",
+  "summary": "",
+  "why": "",
+  "category": "border",
+  "region": "",
+  "importance": 62,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ1FvUU5pckw1alRtTFBqMDhDdWlMbTZQQVZvOS15NllGWVZKZ01FSWRqOUZ6R2tERHdXcWhmMDVtRmgzcjhUWjR6N0FLOHlsSmJkdGpUMWp3XzdlcDcwcnRnVTZmbVM4NDhnaWpBY2JTalhoNDNYMDdLdUNsMFlCZDRfaEZBRlhVSmIyMFQzbTcxdFNUMDFKMUltUnpmeHJ2dHp2bUdQR3V0TVZOT0VmakJySDlvU2dhdXRzZzI3eHZRQWdMcWRvbFBFakdCbTdfTTlYZ3YyQVozR2w0S2ptbk1hWQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ1FvUU5pckw1alRtTFBqMDhDdWlMbTZQQVZvOS15NllGWVZKZ01FSWRqOUZ6R2tERHdXcWhmMDVtRmgzcjhUWjR6N0FLOHlsSmJkdGpUMWp3XzdlcDcwcnRnVTZmbVM4NDhnaWpBY2JTalhoNDNYMDdLdUNsMFlCZDRfaEZBRlhVSmIyMFQzbTcxdFNUMDFKMUltUnpmeHJ2dHp2bUdQR3V0TVZOT0VmakJySDlvU2dhdXRzZzI3eHZRQWdMcWRvbFBFakdCbTdfTTlYZ3YyQVozR2w0S2ptbk1hWQ",
+  "snippet": "Gordie Howe International Bridge becomes most popular border crossing between Michigan and Ontario in October CTV News",
+  "published": "2026-11-17T15:47:07+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-17T16:31:10.455917+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Gordie Howe bridge surpasses 1M vehicle crossings while other bridges, tunnel lose traffic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "5ae1ae5c75"
+ },
+ {
   "id": "b8de84d4b1",
   "slug": "diesel-prices-fall-to-under-6-per-gallon-b8de84d4b1",
   "title": "Diesel prices fall to under $6 per gallon",
