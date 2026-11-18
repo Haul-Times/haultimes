@@ -1,5 +1,66 @@
 [
  {
+  "id": "5971088f9b",
+  "slug": "how-trucking-operators-are-making-the-numbers-work-5971088f9b",
+  "title": "How trucking operators are making the numbers work",
+  "orig_title": "How trucking operators are making the numbers work",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Other",
+  "importance": 45,
+  "source": "bigrigs.com.au",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnlXMFg1dU1xY1cyU1pjSlA1dXQtLW9MTnlpbkdNTnpOM0x5TzFPTkZ0MWJLbXphbkZOY0I1WTVWNXA5eVR3OVY2TVdJSWVvMW1Rc2tfWThIb2g0YS11amYzRXdMNlFUaVU2LS1IcU1ZOU1kR0dGa2tQdDFNbTFMVWNXQTFrVjZtWnFZV2lB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnlXMFg1dU1xY1cyU1pjSlA1dXQtLW9MTnlpbkdNTnpOM0x5TzFPTkZ0MWJLbXphbkZOY0I1WTVWNXA5eVR3OVY2TVdJSWVvMW1Rc2tfWThIb2g0YS11amYzRXdMNlFUaVU2LS1IcU1ZOU1kR0dGa2tQdDFNbTFMVWNXQTFrVjZtWnFZV2lB",
+  "snippet": "How trucking operators are making the numbers work bigrigs.com.au",
+  "published": "2026-11-18T00:41:04+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T00:51:06.914486+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://bigrigs.com.au/2026/11/18/how-trucking-operators-are-making-the-numbers-work/",
+  "source_note": "ok · 634 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "f9d9b1667b210b2e",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T00:51:06.914486+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "as rising costs squeeze margins"
+   },
+   {
+    "sentence": "2",
+    "quote": "still a roughly two-week lag"
+   },
+   {
+    "sentence": "3",
+    "quote": "a 20 per cent reduction"
+   },
+   {
+    "sentence": "4",
+    "quote": "social media to reach potential recruits"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 12,
+  "ai_relevant": false
+ },
+ {
   "id": "63bc89d1f1",
   "slug": "rancho-cucamonga-man-sentenced-to-30-months-in-7-2m-socal-cargo-theft-63bc89d1f1",
   "title": "Rancho Cucamonga man sentenced to 30 months in $7.2M SoCal cargo theft scheme",
@@ -20824,35 +20885,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "b4fb6cbc79",
-  "slug": "a-magic-haul-iday-proudly-supported-by-global-bc-b4fb6cbc79",
-  "title": "A Magic Haul-iday proudly supported by Global BC",
-  "orig_title": "A Magic Haul-iday proudly supported by Global BC",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FeXpkZzNFaVN4UHUyZXZGaWtiNnFwU25NbWF1M2k2VnZNTFVNSkYxaXFtUGZlRW1sdTVQUkFhM2M2SkZlVG1ldWtsUmhoQkdDTFhabUc4djVPY0RadllFa1R0QUJMQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FeXpkZzNFaVN4UHUyZXZGaWtiNnFwU25NbWF1M2k2VnZNTFVNSkYxaXFtUGZlRW1sdTVQUkFhM2M2SkZlVG1ldWtsUmhoQkdDTFhabUc4djVPY0RadllFa1R0QUJMQQ",
-  "snippet": "A Magic Haul-iday proudly supported by Global BC Global News",
-  "published": "2026-11-11T09:33:47+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T00:51:01.528920+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "f4c89849ff",

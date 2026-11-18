@@ -2820,7 +2820,7 @@
    "source": "Commercial Carrier Journal",
    "dest": "https://haultimes.com/story/truckload-carriers-association-outlines-fmcsa-reform-strategy-2a2b102a25/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2a2b102a25",
    "caption": "Truckload Carriers Association Outlines FMCSA Reform Strategy.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-17T18:41:29.612067+00:00",
    "published": "2026-11-17T12:43:07+00:00",
    "score": 72,
@@ -3565,7 +3565,7 @@
   "06303619b7": "skipped|importance 56 is below this platform's threshold (65)",
   "a17334730a": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
   "036656251d": "skipped|importance 62 is below this platform's threshold (65)",
-  "2a2b102a25": "queued|importance 72 (threshold 65), Industry, trade publication",
+  "2a2b102a25": "expired|stale before a slot opened (published 12h ago)",
   "d14b30617a": "skipped|importance 55 is below this platform's threshold (65)",
   "3dccb809a7": "skipped|importance 55 is below this platform's threshold (65)",
   "4e1021998a": "skipped|importance 55 is below this platform's threshold (65)",
@@ -7107,6 +7107,13 @@
    "title": "California Has Laws to Keep Killer Truckers Off the Road. Why Aren't They Enforced?",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T00:51:34.031226+00:00",
+   "story_id": "2a2b102a25",
+   "title": "Truckload Carriers Association Outlines FMCSA Reform Strategy",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {
