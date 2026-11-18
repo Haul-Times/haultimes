@@ -3861,7 +3861,8 @@
   "0ee321f1f2": "skipped|importance 55 is below this platform's threshold (65)",
   "a4bdce8ace": "skipped|importance 55 is below this platform's threshold (65)",
   "161dbfb21f": "skipped|importance 60 is below this platform's threshold (65)",
-  "73b332d7fd": "skipped|minor item (news) or low-quality source"
+  "73b332d7fd": "skipped|minor item (news) or low-quality source",
+  "8b41eb3a27": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7797,6 +7798,13 @@
    "title": "Bathroom break for truckers?",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T21:11:26.715656+00:00",
+   "story_id": "8b41eb3a27",
+   "title": "Highway charging insurers six figures to join Certified Insurance Agency network: Sources",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
