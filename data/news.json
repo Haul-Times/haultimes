@@ -1,5 +1,34 @@
 [
  {
+  "id": "0e76292794",
+  "slug": "image-0e76292794",
+  "title": "image",
+  "orig_title": "image",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHJZNTFKbUpYZU4wYlpxN2RWNzJwQ1YwNjE3clRjbmdQdTZ3MUloQy1FQV9zdlczaF9VSjVaZ1JraTVadFU0YzJzMFFhT3dDeEI3YTFLUWE3SkVMSTZBbDBFRWpBVTRJR2lqQURKZk94WVBXbWlJTHlBejVmTVpFalB6YktGX3RuYUw5SEE3TmNSSXBwZUxoZERnNDYxQ2h0VXRVODQyNFJIWW1OOFZKOVNRWWZuazRIdFVycC1JTnR6VjJaNnN6WFhSNXp6SFd6S2s5bEhsYVJ1N0F1?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHJZNTFKbUpYZU4wYlpxN2RWNzJwQ1YwNjE3clRjbmdQdTZ3MUloQy1FQV9zdlczaF9VSjVaZ1JraTVadFU0YzJzMFFhT3dDeEI3YTFLUWE3SkVMSTZBbDBFRWpBVTRJR2lqQURKZk94WVBXbWlJTHlBejVmTVpFalB6YktGX3RuYUw5SEE3TmNSSXBwZUxoZERnNDYxQ2h0VXRVODQyNFJIWW1OOFZKOVNRWWZuazRIdFVycC1JTnR6VjJaNnN6WFhSNXp6SFd6S2s5bEhsYVJ1N0F1",
+  "snippet": "image Truck News",
+  "published": "2026-11-18T23:28:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T23:31:06.294377+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e0fa0236ce",
   "slug": "jungheinrich-targets-warehouse-efficiency-with-tailored-automation-e0fa0236ce",
   "title": "Jungheinrich targets warehouse efficiency with tailored automation",
@@ -7415,7 +7444,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
   "source_note": "ok · 506 words"
  },
@@ -14784,6 +14813,36 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "54169d4f70",
+  "slug": "q3-2026-cargo-theft-by-states-54169d4f70",
+  "title": "Q3 2026 cargo theft by states",
+  "orig_title": "Q3 2026 cargo theft by states",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 67,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjNUMHJ2cXpORmJ0dnhKQUNMNE5yckVMSU0xWElnalQxWjR2SnhFb0V4S3NzYnVHbkFwVF9uUFNkTGVVdExiOVVmUFZodjZrdDlqcW1iZHduaTNPWDdBeUpoLU9udUVNcVdWazI3RHlsdDl1YWY5c3lZMnYtNEY1dFZzRzZYNVEyOGpJRUo0WkpDVE1CWkZVcURfZEFIU0ZsNXVFalZuWkkyOXlGZU8tRmtwRDN5ZFZ3XzhHQTVsZGx6VDNmWHRhMWhHYw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjNUMHJ2cXpORmJ0dnhKQUNMNE5yckVMSU0xWElnalQxWjR2SnhFb0V4S3NzYnVHbkFwVF9uUFNkTGVVdExiOVVmUFZodjZrdDlqcW1iZHduaTNPWDdBeUpoLU9udUVNcVdWazI3RHlsdDl1YWY5c3lZMnYtNEY1dFZzRzZYNVEyOGpJRUo0WkpDVE1CWkZVcURfZEFIU0ZsNXVFalZuWkkyOXlGZU8tRmtwRDN5ZFZ3XzhHQTVsZGx6VDNmWHRhMWhHYw",
+  "snippet": "Q3 2026 cargo theft by states Truck News",
+  "published": "2026-11-16T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T23:31:06.294377+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: AI cargo thefts top $150 million from June 2025 to June 2026"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "b6b847bbf6"
  },
  {
   "id": "d3a9eeefd5",
