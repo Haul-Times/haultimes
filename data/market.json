@@ -1311,7 +1311,7 @@
   "value": 131.9,
   "prev": 133.3,
   "retrieved_at": "2026-11-17T12:11:27.402542+00:00",
-  "last_attempt_at": "2026-11-18T00:11:29.468191+00:00",
+  "last_attempt_at": "2026-11-18T01:21:23.067048+00:00",
   "last_error": "Statistics Canada: HTTPError: HTTP Error 403: Forbidden",
   "source_url": "https://doi.org/10.25318/1810028101-eng",
   "label": "Truck transportation [484]"
