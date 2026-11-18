@@ -3864,7 +3864,8 @@
   "73b332d7fd": "skipped|minor item (news) or low-quality source",
   "8b41eb3a27": "skipped|importance 50 is below this platform's threshold (65)",
   "abf7589eca": "skipped|minor item (announcement) or low-quality source",
-  "6a466d8770": "skipped|importance 55 is below this platform's threshold (65)"
+  "6a466d8770": "skipped|importance 55 is below this platform's threshold (65)",
+  "9a5a49f65b": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -7821,6 +7822,13 @@
    "title": "Nevoya developing Arizona-California I-10 electric truck route",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T21:41:23.890523+00:00",
+   "story_id": "9a5a49f65b",
+   "title": "Louisiana truckers push for reforms amid staged-crash trials",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
