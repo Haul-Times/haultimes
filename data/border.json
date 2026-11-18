@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:11:08.325288+00:00",
+ "updated": "2026-11-18T06:21:01.810062+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -25,7 +25,7 @@
    "usual": {
     "south": [
      9,
-     3,
+     4,
      0,
      0,
      22,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:09:10",
+    "updated": "01:19:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:00 am EST",
+    "updated": "At 1:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -250,7 +250,7 @@
    "usual": {
     "south": [
      1,
-     7,
+     6,
      0,
      1,
      0,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:00 am EST",
+    "updated": "At 1:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -351,7 +351,7 @@
     ],
     "north": [
      8,
-     3,
+     2,
      1,
      1,
      1,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:09:10",
+    "updated": "01:19:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:09:10",
+    "updated": "01:19:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:09:10",
+    "updated": "01:19:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -760,11 +760,11 @@
    "ports": "Highgate Springs, VT ↔ Saint-Armand, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:09:10",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -775,7 +775,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      null,
      null,
      0,
@@ -910,11 +910,11 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:09:10",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "01:09:10",
+    "updated": "01:19:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:09:10",
+    "updated": "00:19:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1319,7 +1319,7 @@
     ],
     "north": [
      8,
-     16,
+     15,
      16,
      15,
      12,
