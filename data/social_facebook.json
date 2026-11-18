@@ -2848,7 +2848,7 @@
    "source": "www.overdriveonline.com",
    "dest": "https://haultimes.com/story/orgs-offer-recommendations-to-fmcsa-to-help-tackle-eld-fraud-738281184c/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=738281184c",
    "caption": "Orgs offer recommendations to FMCSA to help tackle ELD fraud.\n\nReported by www.overdriveonline. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-17T19:55:52.704979+00:00",
    "published": "2026-11-17T19:51:59+00:00",
    "score": 67,
@@ -3572,7 +3572,7 @@
   "43312477df": "skipped|importance 55 is below this platform's threshold (65)",
   "0257a021aa": "skipped|importance 55 is below this platform's threshold (65)",
   "a98574a7c3": "skipped|minor item (announcement) or low-quality source",
-  "738281184c": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "738281184c": "expired|stale before a slot opened (published 12h ago)",
   "94dbd3b0ae": "skipped|minor item (announcement) or low-quality source",
   "aa0df11328": "skipped|minor item (crime) or low-quality source",
   "b1d711ffcb": "skipped|importance 55 is below this platform's threshold (65)",
@@ -7159,6 +7159,13 @@
    "title": "Commercial Driver's License: Saia LTL Freight; Application for Exemption",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T08:01:17.348402+00:00",
+   "story_id": "738281184c",
+   "title": "Orgs offer recommendations to FMCSA to help tackle ELD fraud",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {
