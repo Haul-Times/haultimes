@@ -3819,7 +3819,10 @@
   "301024bec6": "skipped|importance 55 is below this platform's threshold (65)",
   "f2ebd566e7": "skipped|importance 55 is below this platform's threshold (65)",
   "e02a7f096a": "skipped|importance 55 is below this platform's threshold (65)",
-  "88c5a6a00e": "skipped|importance 57 is below this platform's threshold (65)"
+  "88c5a6a00e": "skipped|importance 57 is below this platform's threshold (65)",
+  "c7dbd2f0a4": "skipped|importance 55 is below this platform's threshold (65)",
+  "a1d761f58e": "skipped|minor item (news) or low-quality source",
+  "db9d583df8": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -7657,6 +7660,27 @@
    "title": "Oregon logging union calls on Kotek, lawmakers to address high diesel prices",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T19:01:24.520851+00:00",
+   "story_id": "c7dbd2f0a4",
+   "title": "ABF Freight workers uncover $1.5M drug shipment headed to Ohio",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T19:01:24.520851+00:00",
+   "story_id": "a1d761f58e",
+   "title": "Diesel: Are Sky-High Prices Finally Over?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T19:01:24.520851+00:00",
+   "story_id": "db9d583df8",
+   "title": "Trucking Hub launches new platform for instant motor vehicle records",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
