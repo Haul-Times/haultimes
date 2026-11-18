@@ -3590,6 +3590,70 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "03e289a65e",
+  "slug": "fontana-how-fleet-managers-can-reduce-litigation-risks-and-improve-tru-03e289a65e",
+  "title": "Fontana: How fleet managers can reduce litigation risks and improve truck safety",
+  "orig_title": "Fontana: How fleet managers can reduce litigation risks and improve truck safety",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "US",
+  "importance": 55,
+  "source": "FleetOwner",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGU3clJ1cnFoX2ZwWVdrVnMtOVFzZVkzOFE5OXBxUEY3TnQ4Y0pIQWY0X0R0aWRaMUw4RXI0RWMxZW5aRlZSVjk2eUgzNnNGbGUwMnBBbDRXSE41R0lqS1Fmbm5KeU1zTWpGaGNFQXo2NWlHWnZOZDhDaE1ZWmxBanRRQ3lnSEVzUjhrX1ItM3p3b1c5RlRiRnA2eEFCeTNLLU93RTZwbjVKdnE3M3QtaGFaY3UzQUFZc3Zwc2w5UFBSLVE5eEZ5a0x4TTF4OWxqZUJLQ3ZzSTlpbkx1TzRHakp3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGU3clJ1cnFoX2ZwWVdrVnMtOVFzZVkzOFE5OXBxUEY3TnQ4Y0pIQWY0X0R0aWRaMUw4RXI0RWMxZW5aRlZSVjk2eUgzNnNGbGUwMnBBbDRXSE41R0lqS1Fmbm5KeU1zTWpGaGNFQXo2NWlHWnZOZDhDaE1ZWmxBanRRQ3lnSEVzUjhrX1ItM3p3b1c5RlRiRnA2eEFCeTNLLU93RTZwbjVKdnE3M3QtaGFaY3UzQUFZc3Zwc2w5UFBSLVE5eEZ5a0x4TTF4OWxqZUJLQ3ZzSTlpbkx1TzRHakp3",
+  "snippet": "Fontana: How fleet managers can reduce litigation risks and improve truck safety FleetOwner",
+  "published": "2026-11-17T13:51:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T08:14:51.504187+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/perspectives/ideaxchange/blog/55419151/how-fleets-can-reduce-nuclear-verdict-risks-with-driver-safety-and-adas-technology",
+  "source_note": "ok · 412 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "9fa9f03d2513f36a",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T08:14:51.504187+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "COO and EVP at Transervice Logistics"
+   },
+   {
+    "sentence": "2",
+    "quote": "the median verdict was $760,000"
+   },
+   {
+    "sentence": "3",
+    "quote": "the Institute for Legal Reform cited six factors that are causing this jump"
+   },
+   {
+    "sentence": "4",
+    "quote": "look for patterns to spot things such as staged accidents"
+   },
+   {
+    "sentence": "5",
+    "quote": "should be tracked via telematics devices and then used to coach drivers"
+   }
+  ],
+  "sum_problems": [
+   "name \"American Trucking Associations' Management Conference\" is not in the source"
+  ],
+  "ai_category": "other",
+  "ai_importance": 40
+ },
+ {
   "id": "1571d7c228",
   "slug": "five-manitoba-fleets-join-trucking-hr-canada-s-women-s-leadership-acco-1571d7c228",
   "title": "Five Manitoba fleets join Trucking HR Canada’s Women’s Leadership Accord",
