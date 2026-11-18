@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T17:51:06.474346+00:00",
- "hour_now": 12,
+ "updated": "2026-11-18T18:01:05.829760+00:00",
+ "hour_now": 13,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -37,7 +37,7 @@
      0,
      0,
      5,
-     5,
+     4,
      0,
      0,
      0,
@@ -63,7 +63,7 @@
      9,
      13,
      20,
-     0,
+     6,
      0,
      0,
      0,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 20,
+    "wait": 0,
     "fast_wait": 0,
-    "lanes": "6",
-    "status": "delay",
-    "updated": "At 11:00 am EST",
+    "lanes": "5",
+    "status": "no delay",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 15,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 12:37 pm EST",
+    "updated": "At 12:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -262,7 +262,7 @@
      9,
      4,
      3,
-     0,
+     2,
      0,
      0,
      0,
@@ -288,7 +288,7 @@
      3,
      5,
      3,
-     7,
+     6,
      5,
      13,
      7,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:37 pm EST",
+    "updated": "At 12:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -412,7 +412,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -787,7 +787,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:50:14",
+    "updated": "13:00:15",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1087,7 +1087,7 @@
      6,
      4,
      4,
-     10,
+     8,
      12,
      8,
      0,
@@ -1230,7 +1230,7 @@
      13,
      8,
      6,
-     15,
+     13,
      15,
      15,
      15,
@@ -1305,7 +1305,7 @@
      11,
      2,
      7,
-     0,
+     3,
      0,
      0,
      0,

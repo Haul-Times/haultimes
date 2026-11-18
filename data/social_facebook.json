@@ -3815,7 +3815,9 @@
   "423316c758": "skipped|importance 55 is below this platform's threshold (65)",
   "1b846d3450": "skipped|importance 55 is below this platform's threshold (65)",
   "7a4944bdd9": "queued|importance 75 (threshold 65), Equipment, trade publication",
-  "6094eee181": "skipped|importance 55 is below this platform's threshold (65)"
+  "6094eee181": "skipped|importance 55 is below this platform's threshold (65)",
+  "301024bec6": "skipped|importance 55 is below this platform's threshold (65)",
+  "f2ebd566e7": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7623,6 +7625,20 @@
    "at": "2026-11-18T17:51:27.700663+00:00",
    "story_id": "6094eee181",
    "title": "Quebec Hwy. 85 completion clears bottleneck for Atlantic trucking",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T18:01:27.589893+00:00",
+   "story_id": "301024bec6",
+   "title": "Corporate Derby Challenge: Support Heavy Duty Trucking Team Lockridge",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T18:01:27.589893+00:00",
+   "story_id": "f2ebd566e7",
+   "title": "Truck Snow Removal: Fines Aren't the Only Risk",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
