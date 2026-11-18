@@ -58,6 +58,138 @@
   "sum_pending": false
  },
  {
+  "id": "58ba138936",
+  "slug": "parts-and-accessories-necessary-for-safe-operation-application-for-exe-58ba138936",
+  "title": "Parts and Accessories Necessary for Safe Operation; Application for Exemption From Safety Vision, LLC",
+  "orig_title": "Parts and Accessories Necessary for Safe Operation; Application for Exemption From Safety Vision, LLC",
+  "summary": "The Federal Motor Carrier Safety Administration is asking for public comment on an exemption application from Safety Vision, LLC. The company wants to let motor carriers run commercial motor vehicles with its View Smart camera monitor system in place of the two rear-vision mirrors that the federal rules require. Safety Vision says the system offers an equivalent or greater level of safety, citing a wider field of view, better low-light performance, reduced blind spots and driver alerts. Comments are due December 18, 2026, under docket FMCSA-2026-3707. The notice does not signal what FMCSA will decide, and the agency will grant or deny the exemption after reviewing the application, safety analyses and public comments.",
+  "why": "",
+  "category": "regs",
+  "region": "US",
+  "importance": 55,
+  "source": "Federal Register (FMCSA)",
+  "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23410/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-safety-vision-llc",
+  "url_key": "https://federalregister.gov/documents/2026/11/18/2026-23410/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-safety-vision-llc",
+  "snippet": "FMCSA requests public comments on an application for exemption submitted by Safety Vision, LLC (Safety Vision) to allow motor carriers to operate commercial motor vehicles (CMV) equipped with Safety Vision's View Smart camera monitor system \\1\\ (CMS) installed as an alternative to the two rear-visio",
+  "published": "2026-11-18T05:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T07:31:17.097551+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "official",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23410/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-safety-vision-llc",
+  "source_note": "ok · 2113 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "d6eabb25b8bc81e1",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T07:31:17.097551+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "FMCSA requests public comments on an application for exemption submitted by Safety Vision, LLC"
+   },
+   {
+    "sentence": "2",
+    "quote": "installed as an alternative to the two rear-vision mirrors"
+   },
+   {
+    "sentence": "3",
+    "quote": "According to Safety Vision, its system provides an equivalent or greater level of safety"
+   },
+   {
+    "sentence": "4",
+    "quote": "Comments must be received on or before December 18, 2026."
+   },
+   {
+    "sentence": "5",
+    "quote": "FMCSA will grant or deny the exemption"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "equip",
+  "ai_importance": 55
+ },
+ {
+  "id": "191ef37698",
+  "slug": "commercial-driver-s-license-saia-ltl-freight-application-for-exemption-191ef37698",
+  "title": "Commercial Driver's License: Saia LTL Freight; Application for Exemption",
+  "orig_title": "Commercial Driver's License: Saia LTL Freight; Application for Exemption",
+  "summary": "The Federal Motor Carrier Safety Administration is asking for public comment on an exemption application from Saia LTL Freight, a company headquartered in John Creek, Georgia. Saia wants commercial learner's permit holders in its driver training program to operate combination vehicles with double trailers while under the direct supervision of a CDL holder with a doubles/triples endorsement. The notice states that it does not indicate what decision FMCSA will ultimately reach.\n\nSaia has requested a 5-year exemption from two rules, 49 CFR 383.93(b)(1) and 383.37(a). According to the filing, approximately 300 trainees a year would use a fleet of about 19 training vehicles. Comments are due December 18, 2026, under docket FMCSA-2026-2642. After reviewing the application, safety analyses and public comments, FMCSA will either grant or deny the request.",
+  "why": "",
+  "category": "regs",
+  "region": "US",
+  "importance": 55,
+  "source": "Federal Register (FMCSA)",
+  "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23409/commercial-drivers-license-saia-ltl-freight-application-for-exemption",
+  "url_key": "https://federalregister.gov/documents/2026/11/18/2026-23409/commercial-drivers-license-saia-ltl-freight-application-for-exemption",
+  "snippet": "FMCSA requests public comment on Saia LTL Freight's (Saia) application for an exemption to allow commercial learner's permit (CLP) holders enrolled in its driver training program to operate commercial motor vehicles (CMVs) configured with double trailers without holding a commercial driver's license",
+  "published": "2026-11-18T05:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T07:31:17.097551+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "official",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23409/commercial-drivers-license-saia-ltl-freight-application-for-exemption",
+  "source_note": "ok · 1915 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "2839e27cebf4a131",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T07:31:17.097551+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "FMCSA requests public comment on Saia LTL Freight's (Saia) application"
+   },
+   {
+    "sentence": "2",
+    "quote": "under the direct supervision of a qualified CDL holder with a T endorsement"
+   },
+   {
+    "sentence": "3",
+    "quote": "This notice does not indicate what decision FMCSA will ultimately reach"
+   },
+   {
+    "sentence": "4",
+    "quote": "has requested a 5-year exemption from the requirements"
+   },
+   {
+    "sentence": "5",
+    "quote": "approximately 300 trainees annually using a fleet of approximately 19 training vehicles"
+   },
+   {
+    "sentence": "6",
+    "quote": "Comments must be received on or before December 18, 2026"
+   },
+   {
+    "sentence": "7",
+    "quote": "After reviewing the application, safety analyses, and public comments submitted, FMCSA will grant or deny the exemption."
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 50
+ },
+ {
   "id": "cb70455c03",
   "slug": "dense-fog-disrupts-ferry-services-on-paturia-daulatdia-route-for-2-hou-cb70455c03",
   "title": "Dense fog disrupts ferry services on Paturia-Daulatdia route for 2 hours",
@@ -13646,35 +13778,6 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "23f1039fed"
- },
- {
-  "id": "1b7b3fbe6f",
-  "slug": "up-to-dh3-000-fine-in-uae-11-traffic-violations-truck-drivers-should-k-1b7b3fbe6f",
-  "title": "Up to Dh3,000 fine in UAE: 11 traffic violations truck drivers should know about",
-  "orig_title": "Up to Dh3,000 fine in UAE: 11 traffic violations truck drivers should know about",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Khaleej Times",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFlXRV9wTTl3Z2Y0dlNLQ2FvYnJmTklRWGx3aGE4dHJCbGdkcm5Md3RCcG94Sm5NdjkwaHVPckZwaUE4UVNrS0h3VWstbGJyX09KNnJ2Tk15MjVjYmFMNUQ5ZC0zOUQzZ0RDeGJXUVVNN3d2LTBfX2FYYTRIY2lCZzZBMENTUEJuZW0xMGxR0gGWAUFVX3lxTE85M2hqdXhJSDZYWGpQYUJveXJOSUdZM0F0UFZkRWZvNjN1U01xYUxWZ0RrdXlESGN0VW1aTkNRZG9TZEMxMlFFMnFZckxFMWxjcWI5enJ6bEQ1YmJLMzVLTE5tdUtlQ19WWl9UcEtQbEdEQThmUmtSV0NOZ0J3cGFBeWRubEpnSXpWWThRTUZRU2tEcUpMZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFlXRV9wTTl3Z2Y0dlNLQ2FvYnJmTklRWGx3aGE4dHJCbGdkcm5Md3RCcG94Sm5NdjkwaHVPckZwaUE4UVNrS0h3VWstbGJyX09KNnJ2Tk15MjVjYmFMNUQ5ZC0zOUQzZ0RDeGJXUVVNN3d2LTBfX2FYYTRIY2lCZzZBMENTUEJuZW0xMGxR0gGWAUFVX3lxTE85M2hqdXhJSDZYWGpQYUJveXJOSUdZM0F0UFZkRWZvNjN1U01xYUxWZ0RrdXlESGN0VW1aTkNRZG9TZEMxMlFFMnFZckxFMWxjcWI5enJ6bEQ1YmJLMzVLTE5tdUtlQ19WWl9UcEtQbEdEQThmUmtSV0NOZ0J3cGFBeWRubEpnSXpWWThRTUZRU2tEcUpMZw",
-  "snippet": "Up to Dh3,000 fine in UAE: 11 traffic violations truck drivers should know about Khaleej Times",
-  "published": "2026-11-14T07:19:24+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T07:31:02.310247+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "b416d4cecf",

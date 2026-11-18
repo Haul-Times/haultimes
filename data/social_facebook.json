@@ -3585,7 +3585,9 @@
   "9237874185": "skipped|importance 55 is below this platform's threshold (65)",
   "1ec12a7da7": "skipped|importance 57 is below this platform's threshold (65)",
   "6a23b08552": "skipped|minor item (news) or low-quality source",
-  "f1ddbaa71d": "skipped|importance 55 is below this platform's threshold (65)"
+  "f1ddbaa71d": "skipped|importance 55 is below this platform's threshold (65)",
+  "58ba138936": "skipped|importance 55 is below this platform's threshold (65)",
+  "191ef37698": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7143,6 +7145,20 @@
    "title": "Broker RXO says TL spot rates not entering deflationary phase",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-18T07:31:52.320038+00:00",
+   "story_id": "58ba138936",
+   "title": "Parts and Accessories Necessary for Safe Operation; Application for Exemption From Safety Vision, LLC",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T07:31:52.320038+00:00",
+   "story_id": "191ef37698",
+   "title": "Commercial Driver's License: Saia LTL Freight; Application for Exemption",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
