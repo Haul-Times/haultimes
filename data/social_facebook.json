@@ -2951,6 +2951,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "3d9a2e2be3": {
+   "story_id": "3d9a2e2be3",
+   "title": "Highway congestion cost US trucking $128 billion in 2024",
+   "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclVpdlkybHI5U2lVMkhTcVJSNWZ1NDVSY3F2X0ExVUFpQ2VPeW5pWTVVTHcyQ3dUck9jVzFFWnFuYzZwZVJ4OF81OGQzekFQYjVORTFGUDY2WVdTZmc1ZVBlZTRZNmpNTnFrWEkwdHFKTVBLZ2FZT1hROU5DV0ZMQzBtSU1DUUZHWjg5VkdwYnVtVUIxaUZhR2RKR0tvMUYzblVXY1R2ejAyU1VT",
+   "category": "other",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/highway-congestion-cost-us-trucking-128-billion-in-2024-3d9a2e2be3/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=3d9a2e2be3",
+   "caption": "Highway congestion cost US trucking $128 billion in 2024.\n\nReported by Truck News. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-18T16:31:24.906490+00:00",
+   "published": "2026-11-18T16:19:34+00:00",
+   "score": 66,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Highway congestion cost US trucking $128 billion in 2024 | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/2276128c1c.png",
+    "og:url": "https://haultimes.com/story/highway-congestion-cost-us-trucking-128-billion-in-2024-3d9a2e2be3/"
+   },
+   "reason": "importance 66 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3692,7 +3720,9 @@
   "1fe359e985": "skipped|minor item (announcement) or low-quality source",
   "103b0ffbb7": "skipped|minor item (crime) or low-quality source",
   "8ef07671a3": "skipped|importance 56 is below this platform's threshold (65)",
-  "fdd7dcbf37": "skipped|minor item (news) or low-quality source"
+  "fdd7dcbf37": "skipped|minor item (news) or low-quality source",
+  "3d9a2e2be3": "queued|importance 66 (threshold 65), Industry, trade publication",
+  "5abfecef3f": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7425,6 +7455,20 @@
    "title": "Will Raising Trucking Insurance Minimums Affect Your Fleet?",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T16:31:24.906490+00:00",
+   "story_id": "3d9a2e2be3",
+   "title": "Highway congestion cost US trucking $128 billion in 2024",
+   "action": "queued",
+   "reason": "importance 66 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-18T16:31:24.906490+00:00",
+   "story_id": "5abfecef3f",
+   "title": "Surrey, B.C., staff recommend three-year permit for 32-truck lot",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
