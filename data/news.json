@@ -1,5 +1,67 @@
 [
  {
+  "id": "478c487ccd",
+  "slug": "exception-management-in-freight-how-ai-is-changing-the-work-478c487ccd",
+  "title": "Exception Management in Freight: How AI Is Changing the Work",
+  "orig_title": "Exception Management in Freight: How AI Is Changing the Work",
+  "summary": "Transport Topics published a feature saying AI is taking over routine freight work, such as load entry and invoice processing, and shifting staff toward exception management. Under that model, automated systems handle routine work, and people step in when a delayed load or billing mismatch needs attention. The article cites industry surveys finding that more than 60% of logistics businesses use some form of AI.\n\nThe executives quoted describe assistants that support decisions and flag problems, while agents can act across platforms and resolve some exceptions, though they still need oversight. For companies starting out, the piece recommends beginning with one small, measurable project and expanding gradually once teams understand the tool.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 55,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMFRERmhINnBYRUo5VXB5SDlGTFQ0NlMzS2hQTFVFLVpOMUxFMlN5VDhEMkRXalFtWF95VFo2Q0pRZEE5bjNxYVhiUFhoNm1Icnd3UU9RNkEzZDZ0dkNRMVE4c2RiUFo3RTZNTG94V3lYekEwOHZmTS1KTkhuOF9xUnpkcHdpaVhtcjlZ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMFRERmhINnBYRUo5VXB5SDlGTFQ0NlMzS2hQTFVFLVpOMUxFMlN5VDhEMkRXalFtWF95VFo2Q0pRZEE5bjNxYVhiUFhoNm1Icnd3UU9RNkEzZDZ0dkNRMVE4c2RiUFo3RTZNTG94V3lYekEwOHZmTS1KTkhuOF9xUnpkcHdpaVhtcjlZ",
+  "snippet": "Exception Management in Freight: How AI Is Changing the Work Transport Topics",
+  "published": "2026-11-18T11:04:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T11:11:04.020562+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/whitepaper/exception-management-freight-how-ai-changing-work",
+  "source_note": "ok · 894 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "08bc210b797997df",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T11:11:04.020562+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "AI is automating routine freight tasks like load entry and invoice processing"
+   },
+   {
+    "sentence": "2",
+    "quote": "Exception management is a model where automated systems handle routine work"
+   },
+   {
+    "sentence": "3",
+    "quote": "Industry surveys indicate more than 60% of logistics businesses now use some form of AI"
+   },
+   {
+    "sentence": "4",
+    "quote": "can resolve exceptions with less human input, though they still need oversight"
+   },
+   {
+    "sentence": "5",
+    "quote": "Start with one small, measurable project"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 35
+ },
+ {
   "id": "2de2db1ce0",
   "slug": "water-grid-concerns-raised-at-n-s-ai-data-centre-q-a-2de2db1ce0",
   "title": "Water, grid concerns raised at N.S. AI data centre Q&A",
