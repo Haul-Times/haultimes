@@ -40,7 +40,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "Canada",
   "importance": 5,
   "source": "CTV News",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaU1ielFZQzhlWS1xd0wycXFnTlViUmlRU3o3R3BGRVlHVmJyOXp2MXFQOElHVHlpdklqTEM2WGtQbUhrWTZYV21obzlEMzd2NThDRUlvM0Z6TDRiSUJjcWlMNFJVME5DMV9vWnFaQzU5VEhOdFRCdzdobkcxUHIxRHRHVUNxN24wWlhGeEtrT1Q5algzME04Rl9oQ1lSejE2VWJqV1VqMFNOLV9ROEl2Y3VqekRVSi1wOTQxQnp3VVdfTl9qSWZB?oc=5",
@@ -65,14 +65,42 @@
   "sum_status": "withheld",
   "source_fp": "3dd77074771cecbf",
   "source_scope": "full_article",
-  "sum_at": "2026-11-18T15:37:07.237148+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-18T15:41:07.064943+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "The driver of a semi-trailer truck has been arrested"
+   },
+   {
+    "sentence": "2",
+    "quote": "two counts of dangerous driving causing death"
+   },
+   {
+    "sentence": "3",
+    "quote": "took the lives of Tanya Lalonde, 34, and Elliot, 5"
+   },
+   {
+    "sentence": "4",
+    "quote": "the semi-trailer truck never slowed down before the impact"
+   },
+   {
+    "sentence": "5",
+    "quote": "allegedly told a paramedic on site that he was distracted"
+   },
+   {
+    "sentence": "6",
+    "quote": "A public inquiry, led by Coroner Dave Kimpton"
+   }
   ],
-  "ai_importance": 5
+  "sum_problems": [
+   "name 'Quebec' is not in the source",
+   "copies a 12-word run from the source: 'two counts of dangerous driving causing death and one count of dangero'"
+  ],
+  "ai_importance": 50,
+  "sum_v4": true,
+  "ai_category": "drivers"
  },
  {
   "id": "73eef295fa",
