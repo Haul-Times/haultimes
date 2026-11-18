@@ -2799,6 +2799,68 @@
   "ai_importance": 70
  },
  {
+  "id": "8cf77bf9dd",
+  "slug": "atri-extends-participation-deadline-for-driver-health-survey-8cf77bf9dd",
+  "title": "ATRI extends participation deadline for driver health survey",
+  "orig_title": "ATRI extends participation deadline for driver health survey",
+  "summary": "The American Transportation Research Institute has extended the deadline for motor carriers and drivers to take part in its survey on the impacts of truck driver health. Responses can now be submitted until Friday, Dec. 4. Carriers are asked for basic fleet-level figures on medical card length, insurance costs and operating KPIs, and they are encouraged to pass the driver questionnaire to their workers. The driver survey takes about five minutes, is anonymous, and covers general health information and experiences staying healthy on the road. The institute said responses are completely confidential.",
+  "why": "",
+  "category": "drivers",
+  "region": "US",
+  "importance": 56,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkpqUlM0YVljN3ZGbXpLUlFFVFNiZmJVSjRvcDZzb2YtSUhCOURleE1mTkVEdk1kUll6OWhQME1GcC1XZ0J6VEpQMHVsWFNCcVRoTUc4blUwOVZ2aUxxdXRTS2xiMWFVM2c0Uks0NExoMjJEcTNudEpTNW1HY0FlVFdxcEZTblpxdTlZZHJFV0stb01oODdvRmR4ZkxEOUIxNzVGQ3luWXJuWnQ3cTFURUpINHkzQlNjWlpJd1pR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkpqUlM0YVljN3ZGbXpLUlFFVFNiZmJVSjRvcDZzb2YtSUhCOURleE1mTkVEdk1kUll6OWhQME1GcC1XZ0J6VEpQMHVsWFNCcVRoTUc4blUwOVZ2aUxxdXRTS2xiMWFVM2c0Uks0NExoMjJEcTNudEpTNW1HY0FlVFdxcEZTblpxdTlZZHJFV0stb01oODdvRmR4ZkxEOUIxNzVGQ3luWXJuWnQ3cTFURUpINHkzQlNjWlpJd1pR",
+  "snippet": "ATRI extends participation deadline for driver health survey TheTrucker.com",
+  "published": "2026-11-17T15:41:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T05:31:05.486691+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/podcast-of-the-week/atri-extends-participation-deadline-for-driver-health-survey",
+  "source_note": "ok · 161 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "c0dd1436dccbdf1c",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T05:31:05.486691+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "extending the deadline to participate in its survey"
+   },
+   {
+    "sentence": "2",
+    "quote": "Motor carriers and drivers can now participate until Friday, Dec. 4."
+   },
+   {
+    "sentence": "3",
+    "quote": "basic fleetwide averages for medical card durations"
+   },
+   {
+    "sentence": "4",
+    "quote": "five-minute, anonymous driver survey"
+   },
+   {
+    "sentence": "5",
+    "quote": "All responses are completely confidential."
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 30
+ },
+ {
   "id": "1c6f4c1e14",
   "slug": "national-diesel-average-falls-below-the-6-per-gallon-mark-for-first-ti-1c6f4c1e14",
   "title": "National diesel average falls below the $6 per gallon mark for first time since mid-September",
@@ -4393,6 +4455,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "931b43c9f1"
+ },
+ {
+  "id": "be3e6bdf8e",
+  "slug": "oversized-load-strikes-bridge-on-southbound-loop-12-at-irving-boulevar-be3e6bdf8e",
+  "title": "Oversized Load Strikes Bridge on Southbound Loop 12 at Irving Boulevard in Dallas",
+  "orig_title": "Oversized Load Strikes Bridge on Southbound Loop 12 at Irving Boulevard in Dallas",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Wooley Law Firm",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG51NzFCRUQyNVpVbEcxczdIS3pfZTQ5eDQ0dDBDa0NuaTg1YVV5VkdEeE1OVHNZMldxeEZQQ3RQSDB0TXRmdGRITjlyaWFKZlRzUG5VWG44UUVtNlZhdTdVTE9GY0ZQV3pOb3ZKZWdORGttUWxCNC1iSDZUZW1ldVcxVGNSb3ZQRUN1TFp3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG51NzFCRUQyNVpVbEcxczdIS3pfZTQ5eDQ0dDBDa0NuaTg1YVV5VkdEeE1OVHNZMldxeEZQQ3RQSDB0TXRmdGRITjlyaWFKZlRzUG5VWG44UUVtNlZhdTdVTE9GY0ZQV3pOb3ZKZWdORGttUWxCNC1iSDZUZW1ldVcxVGNSb3ZQRUN1TFp3",
+  "snippet": "Oversized Load Strikes Bridge on Southbound Loop 12 at Irving Boulevard in Dallas The Wooley Law Firm",
+  "published": "2026-11-17T06:19:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T05:31:05.486691+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "dc533b8e2d",
