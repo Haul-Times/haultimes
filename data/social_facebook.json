@@ -3865,7 +3865,8 @@
   "8b41eb3a27": "skipped|importance 50 is below this platform's threshold (65)",
   "abf7589eca": "skipped|minor item (announcement) or low-quality source",
   "6a466d8770": "skipped|importance 55 is below this platform's threshold (65)",
-  "9a5a49f65b": "skipped|minor item (incident) or low-quality source"
+  "9a5a49f65b": "skipped|minor item (incident) or low-quality source",
+  "62a197e800": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7829,6 +7830,13 @@
    "title": "Louisiana truckers push for reforms amid staged-crash trials",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T22:41:21.611434+00:00",
+   "story_id": "62a197e800",
+   "title": "Trucking's $128 Billion Traffic Jam",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
