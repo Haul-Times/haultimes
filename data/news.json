@@ -31,6 +31,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "ffa5543b37",
+  "slug": "cyclone-akvan-strengthens-as-india-s-east-coast-prepares-for-landfall-ffa5543b37",
+  "title": "Cyclone Akvan strengthens as India’s east coast prepares for landfall",
+  "orig_title": "Cyclone Akvan strengthens as India’s east coast prepares for landfall",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Kuehne+Nagel",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXNTdDgtZWlLb2drSUFhT2hKMERReXZqUURLRjhudEVSRG9WeDZuazJiMjdodGFReUJXanA1enhQUkUyQ2V4cTJZTEFqM1B1R3N6WEJIVEVPRWJWY240djRpVTczaXhuWW1mR3BGS1NRc1dtMEdOOWY2bE8yY2FCR0RwSkRjSUtyTExR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXNTdDgtZWlLb2drSUFhT2hKMERReXZqUURLRjhudEVSRG9WeDZuazJiMjdodGFReUJXanA1enhQUkUyQ2V4cTJZTEFqM1B1R3N6WEJIVEVPRWJWY240djRpVTczaXhuWW1mR3BGS1NRc1dtMEdOOWY2bE8yY2FCR0RwSkRjSUtyTExR",
+  "snippet": "Cyclone Akvan strengthens as India’s east coast prepares for landfall Kuehne+Nagel",
+  "published": "2026-11-18T12:28:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T12:51:03.219410+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e94181b04e",
   "slug": "workhorse-expands-canadian-dealer-network-partners-with-bds-fleet-serv-e94181b04e",
   "title": "Workhorse Expands Canadian Dealer Network, Partners with BDS Fleet Service to Sell and Service All-electric W56 Step Vans in Ontario",
