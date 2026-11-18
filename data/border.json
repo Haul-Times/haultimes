@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:11:03.888244+00:00",
+ "updated": "2026-11-18T11:21:04.351985+00:00",
  "hour_now": 6,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 6:00 am EST",
+    "updated": "At 6:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -255,7 +255,7 @@
      4,
      3,
      1,
-     1,
+     2,
      0,
      3,
      0,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:00 am EST",
+    "updated": "At 6:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -330,7 +330,7 @@
      1,
      1,
      5,
-     7,
+     6,
      3,
      0,
      0,
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-18 04:15 CDT"
+    "updated": "2026-11-18 06:08 CDT"
    },
    "usual": {
     "south": [
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:09:48",
+    "updated": "06:19:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "06:09:48",
+    "updated": "06:19:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:09:48",
+    "updated": "05:19:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:09:48",
+    "updated": "03:19:48",
     "hours": "24 hrs/day"
    },
    "north": {
