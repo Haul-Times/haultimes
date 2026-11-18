@@ -2895,6 +2895,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "9d10911ef3": {
+   "story_id": "9d10911ef3",
+   "title": "Canadian freight volumes climb as US spot rates remain elevated",
+   "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzJFMnYxSmlfbXVPeUhMcTRzZWlCaGJKYVRvc05ISXVBYVl3SlFUUUk4emhSdGQta2t1aVV4SjlxQTBWLUUxaXpSZDRvTi1DMnRDaV9qYW1KZ2x0QVRVcjJuMTB1RS16cUZoanlpM1lXSE95WjlKaG85N2FvN0JNV2pJdW5NYjRhalJnVEp2N3RTNm9SMW55YlVKbm5FREQ0X0RyeXpzbGxrZmozSXp4bXJPd0F5aTE0TXhaZ0Rn",
+   "category": "rates",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/canadian-freight-volumes-climb-as-us-spot-rates-remain-elevated-9d10911ef3/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9d10911ef3",
+   "caption": "Canadian freight volumes climb as US spot rates remain elevated.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-18T14:31:31.679648+00:00",
+   "published": "2026-11-18T14:20:44+00:00",
+   "score": 72,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Canadian freight volumes climb as US spot rates remain elevated | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/984fbe0a38.png",
+    "og:url": "https://haultimes.com/story/canadian-freight-volumes-climb-as-us-spot-rates-remain-elevated-9d10911ef3/"
+   },
+   "reason": "importance 72 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3627,7 +3655,8 @@
   "4a9f57bca1": "skipped|importance 61 is below this platform's threshold (65)",
   "47458eb868": "queued|importance 73 (threshold 65), Industry, trade publication",
   "3600f5a667": "skipped|importance 56 is below this platform's threshold (65)",
-  "6a801321ec": "skipped|importance 45 is below this platform's threshold (65)"
+  "6a801321ec": "skipped|importance 45 is below this platform's threshold (65)",
+  "9d10911ef3": "queued|importance 72 (threshold 65), Rates & Market, trade publication"
  },
  "decisions": [
   {
@@ -7290,6 +7319,13 @@
    "title": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies’ Systems",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T14:31:31.679648+00:00",
+   "story_id": "9d10911ef3",
+   "title": "Canadian freight volumes climb as US spot rates remain elevated",
+   "action": "queued",
+   "reason": "importance 72 (threshold 65), Rates & Market, trade publication"
   }
  ],
  "visibility": {
