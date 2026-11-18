@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:51:03.341757+00:00",
+ "updated": "2026-11-18T06:57:47.007253+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -250,7 +250,7 @@
    "usual": {
     "south": [
      1,
-     6,
+     7,
      0,
      1,
      0,
@@ -995,7 +995,7 @@
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-18 01:04 AST"
+    "updated": "2026-11-18 02:48 AST"
    },
    "usual": {
     "south": [
@@ -1319,7 +1319,7 @@
     ],
     "north": [
      8,
-     13,
+     12,
      16,
      15,
      12,
