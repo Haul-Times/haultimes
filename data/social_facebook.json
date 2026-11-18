@@ -3625,7 +3625,9 @@
   "a5323e9a19": "skipped|importance 61 is below this platform's threshold (65)",
   "13d0712036": "skipped|minor item (announcement) or low-quality source",
   "4a9f57bca1": "skipped|importance 61 is below this platform's threshold (65)",
-  "47458eb868": "queued|importance 73 (threshold 65), Industry, trade publication"
+  "47458eb868": "queued|importance 73 (threshold 65), Industry, trade publication",
+  "3600f5a667": "skipped|importance 56 is below this platform's threshold (65)",
+  "6a801321ec": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7274,6 +7276,20 @@
    "title": "Trucking companies used in $7.2-million California cargo theft scheme",
    "action": "queued",
    "reason": "importance 73 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-18T14:11:20.837246+00:00",
+   "story_id": "3600f5a667",
+   "title": "US Trucking Companies Targeted by Fake Carrier Verification Sites Stealing Passwords and Financial Data",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T14:11:20.837246+00:00",
+   "story_id": "6a801321ec",
+   "title": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies’ Systems",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

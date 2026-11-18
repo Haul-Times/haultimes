@@ -535,14 +535,15 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Hackers Target US Trucking Companies With Fake Freight Portals to Steal Credentials and De"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "a1c170361b"
+  "sum_tries": 1,
+  "source_note": "publisher refused (520)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (520))"
  },
  {
   "id": "a1c170361b",
@@ -565,12 +566,15 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Comp"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 3
+  "sum_tries": 3,
+  "dup_of": "6a801321ec"
  },
  {
   "id": "7faacb4334",
@@ -661,6 +665,34 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "6a801321ec",
+  "slug": "hackers-impersonate-freight-booking-platforms-to-deploy-castlerat-malw-6a801321ec",
+  "title": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies’ Systems",
+  "orig_title": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies’ Systems",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 45,
+  "source": "Cyber Press",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xYUFSRXNIVDZmTy1iNFJNcDhfX1dvX3lQbHpUNFhOZXZoX2tZYi1SYW9USUc0T3NKbXBqOTNCOURUcnRaeXZDYk1Rdi1BQ3hJdmhPNHhoQTlHQkhlR0c3QnlCNjlFNTNieWk4clhHUm0wd9IBckFVX3lxTE0xYUFSRXNIVDZmTy1iNFJNcDhfX1dvX3lQbHpUNFhOZXZoX2tZYi1SYW9USUc0T3NKbXBqOTNCOURUcnRaeXZDYk1Rdi1BQ3hJdmhPNHhoQTlHQkhlR0c3QnlCNjlFNTNieWk4clhHUm0wdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xYUFSRXNIVDZmTy1iNFJNcDhfX1dvX3lQbHpUNFhOZXZoX2tZYi1SYW9USUc0T3NKbXBqOTNCOURUcnRaeXZDYk1Rdi1BQ3hJdmhPNHhoQTlHQkhlR0c3QnlCNjlFNTNieWk4clhHUm0wd9IBckFVX3lxTE0xYUFSRXNIVDZmTy1iNFJNcDhfX1dvX3lQbHpUNFhOZXZoX2tZYi1SYW9USUc0T3NKbXBqOTNCOURUcnRaeXZDYk1Rdi1BQ3hJdmhPNHhoQTlHQkhlR0c3QnlCNjlFNTNieWk4clhHUm0wdw",
+  "snippet": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies’ Systems Cyber Press",
+  "published": "2026-11-18T07:01:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T14:11:06.136142+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true,
+  "sum_tries": 1
  },
  {
   "id": "2f09f655f0",
