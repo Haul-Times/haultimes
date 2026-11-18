@@ -1,5 +1,34 @@
 [
  {
+  "id": "3d8e8ea0f8",
+  "slug": "remote-steer-archives-3d8e8ea0f8",
+  "title": "Remote Steer Archives",
+  "orig_title": "Remote Steer Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBdmxNT3NDOUxOLXVYUzdycHJoOFZDbTZHWGFjT21CemRQT2YyU3hLSmU4YUljZDhjd1V4cldFMWdHaFlQeXQ1R2JiUmlGdkRDUVZsRHdQVnZlWVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBdmxNT3NDOUxOLXVYUzdycHJoOFZDbTZHWGFjT21CemRQT2YyU3hLSmU4YUljZDhjd1V4cldFMWdHaFlQeXQ1R2JiUmlGdkRDUVZsRHdQVnZlWVE",
+  "snippet": "Remote Steer Archives Truck News",
+  "published": "2026-11-18T00:54:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T01:01:06.497578+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "5971088f9b",
   "slug": "how-trucking-operators-are-making-the-numbers-work-5971088f9b",
   "title": "How trucking operators are making the numbers work",
