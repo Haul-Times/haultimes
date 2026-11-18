@@ -1980,6 +1980,35 @@
   "sum_pending": false
  },
  {
+  "id": "f5f2ffc350",
+  "slug": "paul-harold-fay-f5f2ffc350",
+  "title": "Paul Harold Fay",
+  "orig_title": "Paul Harold Fay",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "McCook Gazette",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12bzVRaGZQZmpIc2ZoMG4xX1BHVVVHSWsyNHFiLXZ3UDI0MlFfX1NCSkVGSjZpNWZySmxKWG8tLUtfMVlhT0Z3c3YwTEgyWTBBbTlMcjlVUkRsdzdXWm42MDg3UVQ5LUFfTHExaVpHRHk4MVdy?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12bzVRaGZQZmpIc2ZoMG4xX1BHVVVHSWsyNHFiLXZ3UDI0MlFfX1NCSkVGSjZpNWZySmxKWG8tLUtfMVlhT0Z3c3YwTEgyWTBBbTlMcjlVUkRsdzdXWm42MDg3UVQ5LUFfTHExaVpHRHk4MVdy",
+  "snippet": "Paul Harold Fay McCook Gazette",
+  "published": "2026-11-17T17:57:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T07:21:05.939753+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8532ae2c66",
   "slug": "maersk-and-hapag-lloyd-restore-asia-europe-suez-routes-as-u-s-shippers-8532ae2c66",
   "title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
@@ -3971,6 +4000,36 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "3871ffd77b",
+  "slug": "great-horned-owl-rescued-after-being-stuck-in-tractor-trailer-for-70-m-3871ffd77b",
+  "title": "Great Horned Owl rescued after being stuck in tractor-trailer for 70 miles",
+  "orig_title": "Great Horned Owl rescued after being stuck in tractor-trailer for 70 miles",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "",
+  "importance": 45,
+  "source": "FOX43",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM0s1bmoxTGZOdDhnUWhseS1ZM0dIN3diWWJaRUo0eUtxWE5JOEhsS1NuVnhnN2xxcUdZTlowOFFaZTYyOHFhTmVxbnVEYk8yNFdFanlzQmJYWGNIemhLN3F4V2otT3FOY25rMmI0YXBZTkJ2MmRDOHpzeURJUUx6M29BaURpWEZacGVRd0g2TWNtVTVlRjJwY0s1NlprZHFYQVVhd1ZWNlB3MmRLSlpwUF9Vd1dCYkhHWEpFYlVjcHBSMUZHMzhMMUwzbWF4VDNXZUNIVU1MVnVwdjZ2LWxZLS1CWmY2d2FNdmF2OQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM0s1bmoxTGZOdDhnUWhseS1ZM0dIN3diWWJaRUo0eUtxWE5JOEhsS1NuVnhnN2xxcUdZTlowOFFaZTYyOHFhTmVxbnVEYk8yNFdFanlzQmJYWGNIemhLN3F4V2otT3FOY25rMmI0YXBZTkJ2MmRDOHpzeURJUUx6M29BaURpWEZacGVRd0g2TWNtVTVlRjJwY0s1NlprZHFYQVVhd1ZWNlB3MmRLSlpwUF9Vd1dCYkhHWEpFYlVjcHBSMUZHMzhMMUwzbWF4VDNXZUNIVU1MVnVwdjZ2LWxZLS1CWmY2d2FNdmF2OQ",
+  "snippet": "Great Horned Owl rescued after being stuck in tractor-trailer for 70 miles FOX43",
+  "published": "2026-11-17T09:57:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T07:21:05.939753+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Great Horned Owl stuck in a tractor-trailer for almost 70 miles before being rescued"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "9182078c69"
  },
  {
   "id": "bd27788b18",
@@ -18399,35 +18458,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "68c6078be3",
-  "slug": "police-seize-gh-20m-suspected-fake-gtp-fabrics-in-accra-68c6078be3",
-  "title": "Police seize GH¢20m suspected fake GTP fabrics in Accra",
-  "orig_title": "Police seize GH¢20m suspected fake GTP fabrics in Accra",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "NewsGhana",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWFnQWlDSzlubENXRG55ZVFJbms0bzVtMm9qbUE1ZF9PUlh0Y05fVWI3cGVlMTV3RjVaWTNFZVVZUnF1RnJXLTN0ck51QzFWcDFITThpbUtVOTZBeEF3OGpKZDJBZ0I4T0JxR3d6UzZxZ3o5by1ZX3doZ2hNaEZicVJJZGdhLWVLcEZwZnpR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWFnQWlDSzlubENXRG55ZVFJbms0bzVtMm9qbUE1ZF9PUlh0Y05fVWI3cGVlMTV3RjVaWTNFZVVZUnF1RnJXLTN0ck51QzFWcDFITThpbUtVOTZBeEF3OGpKZDJBZ0I4T0JxR3d6UzZxZ3o5by1ZX3doZ2hNaEZicVJJZGdhLWVLcEZwZnpR",
-  "snippet": "Police seize GH¢20m suspected fake GTP fabrics in Accra NewsGhana",
-  "published": "2026-11-12T08:51:24+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T07:11:12.632494+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "d50a0bc2e2",
