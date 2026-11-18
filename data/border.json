@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:21:01.810062+00:00",
+ "updated": "2026-11-18T06:31:05.122025+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -20,12 +20,12 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 23:15 EST"
+    "updated": "2026-11-18 01:15 EST"
    },
    "usual": {
     "south": [
      9,
-     4,
+     5,
      0,
      0,
      22,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:19:11",
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,18 +239,18 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:07 am EST",
+    "updated": "At 1:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 8,
-    "status": "8 minutes",
-    "updated": "2026-11-18 01:00 EST"
+    "wait": 6,
+    "status": "6 minutes",
+    "updated": "2026-11-18 01:20 EST"
    },
    "usual": {
     "south": [
      1,
-     6,
+     5,
      0,
      1,
      0,
@@ -276,7 +276,7 @@
     ],
     "north": [
      7,
-     13,
+     12,
      3,
      6,
      8,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:07 am EST",
+    "updated": "At 1:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 1,
     "status": "1 minute",
-    "updated": "2026-11-18 01:00 EST"
+    "updated": "2026-11-18 01:20 EST"
    },
    "usual": {
     "south": [
@@ -389,13 +389,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:19:11",
+    "updated": "01:24:11",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 23:15 EST"
+    "updated": "2026-11-18 01:15 EST"
    },
    "usual": {
     "south": [
@@ -464,13 +464,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:19:11",
+    "updated": "01:24:12",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 23:15 EST"
+    "updated": "2026-11-18 01:15 EST"
    },
    "usual": {
     "south": [
@@ -689,13 +689,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:19:11",
+    "updated": "01:24:11",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 23:15 EST"
+    "updated": "2026-11-18 01:15 EST"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 23:15 EST"
+    "updated": "2026-11-18 01:15 EST"
    },
    "usual": {
     "south": [
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 23:15 EST"
+    "updated": "2026-11-18 01:15 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "01:19:11",
+    "updated": "01:24:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:19:11",
+    "updated": "00:24:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 22:15 CST"
+    "updated": "2026-11-18 00:15 CST"
    },
    "usual": {
     "south": [
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 22:46 MDT"
+    "updated": "2026-11-18 00:15 MDT"
    },
    "usual": {
     "south": [
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-17 23:00 PDT"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-17 23:20 PDT"
    },
    "usual": {
     "south": [
@@ -1319,7 +1319,7 @@
     ],
     "north": [
      8,
-     15,
+     14,
      16,
      15,
      12,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 23:00 PDT"
+    "updated": "2026-11-17 23:20 PDT"
    },
    "usual": {
     "south": [
