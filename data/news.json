@@ -176,7 +176,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/truck-snow-removal-fines-arent-the-only-risk",
   "source_note": "ok · 1569 words"
  },
@@ -572,6 +572,35 @@
   "sum_tries": 3,
   "pub_url": "https://www.freightwaves.com/news/owning-the-business-not-just-the-truck",
   "source_note": "paywalled: excerpt only · 54 words"
+ },
+ {
+  "id": "626ea63bff",
+  "slug": "from-toronto-driveways-to-african-ports-police-uncover-4-5-million-sto-626ea63bff",
+  "title": "From Toronto Driveways To African Ports: Police Uncover $4.5 Million Stolen-Car Network",
+  "orig_title": "From Toronto Driveways To African Ports: Police Uncover $4.5 Million Stolen-Car Network",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Modern Ghana",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVZUWEh4Vlp3SjdURkNoZkZvdTFjTXNMUVotUk0xVkFKd0RScVRJenBpcmcwbVFER0xRS3FpUVFuZnJaWUU3dTJWRDdjUVp5ajVjQzFacHdwTHhLUTlLVlVabkJpMXlTcEN5Rm9ieVo3MlA1bkVTODJ4SDhjanZkREdNU0V5VXlRQlk3ZmpaUUdYVWM1N2fSAZYBQVVfeXFMT1VWVFhIeFZad0o3VEZDaGZGb3UxY01zTFFaLVJNMVZBSndEUnFUSXpwaXJnMG1RREdMUUtxaVFRbmZyWllFN3UyVkQ3Y1FaeWo1Y0MxWnB3cEx4S1E5S1ZVWm5CaTF5U3BDeUZvYnlaNzJQNW5FUzgyeEg4Y2p2ZERHTVNFeVV5UUJZN2ZqWlFHWFVjNTdn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVZUWEh4Vlp3SjdURkNoZkZvdTFjTXNMUVotUk0xVkFKd0RScVRJenBpcmcwbVFER0xRS3FpUVFuZnJaWUU3dTJWRDdjUVp5ajVjQzFacHdwTHhLUTlLVlVabkJpMXlTcEN5Rm9ieVo3MlA1bkVTODJ4SDhjanZkREdNU0V5VXlRQlk3ZmpaUUdYVWM1N2fSAZYBQVVfeXFMT1VWVFhIeFZad0o3VEZDaGZGb3UxY01zTFFaLVJNMVZBSndEUnFUSXpwaXJnMG1RREdMUUtxaVFRbmZyWllFN3UyVkQ3Y1FaeWo1Y0MxWnB3cEx4S1E5S1ZVWm5CaTF5U3BDeUZvYnlaNzJQNW5FUzgyeEg4Y2p2ZERHTVNFeVV5UUJZN2ZqWlFHWFVjNTdn",
+  "snippet": "From Toronto Driveways To African Ports: Police Uncover $4.5 Million Stolen-Car Network Modern Ghana",
+  "published": "2026-11-18T16:45:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T18:41:09.252049+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e31650b54b",
