@@ -1,5 +1,37 @@
 [
  {
+  "id": "9082e18a7a",
+  "slug": "ata-spells-out-short-and-long-term-solutions-to-halt-eld-fraud-9082e18a7a",
+  "title": "ATA spells out short- and long-term solutions to halt ELD fraud",
+  "orig_title": "ATA spells out short- and long-term solutions to halt ELD fraud",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 55,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkhXYThtTGV4a0JNN2QyVjlfUS1WN1hlSTBRYVlIYm5PSm9vUkl6THFuZzRWbnIwVExmaFlMLXQtWWF3akR4V1QyWVFobG02VXFqNEpBbFRtd1BRYjVweVlNUUt1TVZyS21PUHJmYUtveXhsSDllNmY5bEhuZk4zZjR3TVVJS0ZLcmtVdDRDVU5tb0otT2FvN0JSWEQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkhXYThtTGV4a0JNN2QyVjlfUS1WN1hlSTBRYVlIYm5PSm9vUkl6THFuZzRWbnIwVExmaFlMLXQtWWF3akR4V1QyWVFobG02VXFqNEpBbFRtd1BRYjVweVlNUUt1TVZyS21PUHJmYUtveXhsSDllNmY5bEhuZk4zZjR3TVVJS0ZLcmtVdDRDVU5tb0otT2FvN0JSWEQ",
+  "snippet": "ATA spells out short- and long-term solutions to halt ELD fraud FreightWaves",
+  "published": "2026-11-18T19:12:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T19:21:07.180668+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/ata-spells-out-short-and-long-term-solutions-to-halt-eld-fraud",
+  "source_note": "paywalled: excerpt only · 23 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "6ec620b586",
   "slug": "graypool-introduces-exchange-letting-truckload-carriers-bid-and-accept-6ec620b586",
   "title": "Graypool Introduces Exchange, Letting Truckload Carriers Bid and Accept Freight Backed by Each Other’s Trucks",
@@ -53,7 +85,8 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1
  },
  {
   "id": "c7dbd2f0a4",
@@ -80,7 +113,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/abf-freight-workers-uncover-1-5m-drug-shipment-headed-to-ohio",
+  "source_note": "paywalled: excerpt only · 31 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "35e00f9d9c",
@@ -895,6 +933,38 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "3615e968f3",
+  "slug": "eld-snitching-controversy-c-h-robinson-profits-texas-trucking-laws-3615e968f3",
+  "title": "ELD Snitching Controversy, C.H. Robinson Profits & Texas Trucking Laws",
+  "orig_title": "ELD Snitching Controversy, C.H. Robinson Profits & Texas Trucking Laws",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 45,
+  "source": "YouTube",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SNmxWSTBQOEctWlVWbGtDalJPNlhvYm5ldTlUSjduSHFRZ2dTTjQ3ZF92QTZwaTZpd253cExOekVhb19CbTNjeDd2U292Nzl6Zno4RlM1OHN2Vmh0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SNmxWSTBQOEctWlVWbGtDalJPNlhvYm5ldTlUSjduSHFRZ2dTTjQ3ZF92QTZwaTZpd253cExOekVhb19CbTNjeDd2U292Nzl6Zno4RlM1OHN2Vmh0",
+  "snippet": "ELD Snitching Controversy, C.H. Robinson Profits & Texas Trucking Laws YouTube",
+  "published": "2026-11-18T16:16:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T19:21:07.180668+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.youtube.com/watch?si=HJB0vshLu3kh5NsE&v=vPPkW226tYw&feature=youtu.be",
+  "source_note": "no usable text",
+  "sum_done": true,
+  "sum_status": "no source text (no usable text)"
  },
  {
   "id": "cdc5181c3e",
@@ -2363,7 +2433,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.koin.com/news/oregon/oregon-logging-union-calls-on-kotek-lawmakers-to-address-high-diesel-prices/amp/",
   "source_note": "ok · 1007 words"
@@ -6774,12 +6844,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: ATA proposes 6 steps to help FMCSA combat ELD fraud"
+   "same story as: How ATA Wants to Fix ELD Certification"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "34b43b0666"
+  "dup_of": "a812fcb144"
  },
  {
   "id": "2a2b102a25",
@@ -17112,35 +17182,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "fdad40a197",
-  "slug": "regulatory-update-november-13-2026-fdad40a197",
-  "title": "Regulatory Update - November 13, 2026",
-  "orig_title": "Regulatory Update - November 13, 2026",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CVSA – Commercial Vehicle Safety Alliance",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM2tLLXhMSENGQkR2QmtsNWRhdndDakdIZXJpOXExMHROVEtmVlFrbmN1b0V2VGlKOGdQazRjMFRKTVBLUXhhMEp6MlVnMnFUdlJaTmZOSUJad3ZkQ0lLQmhGMHhLWExIQkRweHZ5MHQxTGNCY05TbktYbzBtS1dtV3piNk9zWVBh?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM2tLLXhMSENGQkR2QmtsNWRhdndDakdIZXJpOXExMHROVEtmVlFrbmN1b0V2VGlKOGdQazRjMFRKTVBLUXhhMEp6MlVnMnFUdlJaTmZOSUJad3ZkQ0lLQmhGMHhLWExIQkRweHZ5MHQxTGNCY05TbktYbzBtS1dtV3piNk9zWVBh",
-  "snippet": "Regulatory Update - November 13, 2026 CVSA – Commercial Vehicle Safety Alliance",
-  "published": "2026-11-13T22:08:14+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T19:21:02.826542+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "b144c43ee7",
   "slug": "flood-response-continues-in-southwest-protective-equipment-ships-for-d-b144c43ee7",
   "title": "Flood Response Continues in Southwest, Protective Equipment Ships for DRC Ebola Response, and More",
@@ -17693,35 +17734,6 @@
   "status": "rejected",
   "reasons": [
    "non-North American source"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "1fec7a3cfb",
-  "slug": "massive-recall-hits-nearly-43-000-vehicles-in-canada-1fec7a3cfb",
-  "title": "Massive recall hits nearly 43,000 vehicles in Canada",
-  "orig_title": "Massive recall hits nearly 43,000 vehicles in Canada",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "insauga.com",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYVliR2tWMTQ2OTZqU0owYmtqNGV0bEhsVDBuaWNFTW0wSVg2SDNVaWR5dndJMWNIcWFWR0x1RGJIWTBqRGFrZXVBN2ozT0FSNUp0VDMyS3lueFBVVXVZOXR4MUhDQzRmcG5HQUpZcnJENGZXakNBVUZrYWZpb25wZXhR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYVliR2tWMTQ2OTZqU0owYmtqNGV0bEhsVDBuaWNFTW0wSVg2SDNVaWR5dndJMWNIcWFWR0x1RGJIWTBqRGFrZXVBN2ozT0FSNUp0VDMyS3lueFBVVXVZOXR4MUhDQzRmcG5HQUpZcnJENGZXakNBVUZrYWZpb25wZXhR",
-  "snippet": "Massive recall hits nearly 43,000 vehicles in Canada insauga.com",
-  "published": "2026-11-13T19:37:05+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T19:21:02.826542+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
@@ -18948,35 +18960,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "e09aaa4851",
-  "slug": "brantford-family-seeks-answers-after-hyundai-kona-catches-fire-in-driv-e09aaa4851",
-  "title": "Brantford family seeks answers after Hyundai Kona catches fire in driveway, damaging home",
-  "orig_title": "Brantford family seeks answers after Hyundai Kona catches fire in driveway, damaging home",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Philippine Canadian Inquirer",
-  "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNb0xadEExdHZDTGFSVDA1V2FNbWRvVHg1Q2ZFeXBEY1JMd25OZEQ0WU1UZnFCNTJxc2pUeng1MlV2WTJJdnYtZVR1cEY0dV9qS2FrT09EOG9odTFJM2gzbElkTHFsU3NFVjh1cnBaZW9EUlJuUUFOMXhLRTRaSHFOSVpLc1VHMHBRRUxfeXRsYlk5X3VWMmNNdml5RFphbVFfNTZzbVc2M3pWQ3RES2VfamdQbGZnRUpIMldVeEFEUW5LU283VTJpQlIxYUpXaUJMdDQxeGx0WXV0Y2h2aHgxc1hCa0Mtbm5GZ0k1NWJUd0RTQnNCeVFYcU5PbVhzd21NWlNPQ2Y5X0NYMTN0Z3pFdnFaUFNFV2YxbjM3WFhRYndUWEY2U0FZOHdVbXE5R2dwOThVMklEcVZjNnhEZzU2N24zYnhVRnh6alhXdXlKeVMyMFp1RVE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNb0xadEExdHZDTGFSVDA1V2FNbWRvVHg1Q2ZFeXBEY1JMd25OZEQ0WU1UZnFCNTJxc2pUeng1MlV2WTJJdnYtZVR1cEY0dV9qS2FrT09EOG9odTFJM2gzbElkTHFsU3NFVjh1cnBaZW9EUlJuUUFOMXhLRTRaSHFOSVpLc1VHMHBRRUxfeXRsYlk5X3VWMmNNdml5RFphbVFfNTZzbVc2M3pWQ3RES2VfamdQbGZnRUpIMldVeEFEUW5LU283VTJpQlIxYUpXaUJMdDQxeGx0WXV0Y2h2aHgxc1hCa0Mtbm5GZ0k1NWJUd0RTQnNCeVFYcU5PbVhzd21NWlNPQ2Y5X0NYMTN0Z3pFdnFaUFNFV2YxbjM3WFhRYndUWEY2U0FZOHdVbXE5R2dwOThVMklEcVZjNnhEZzU2N24zYnhVRnh6alhXdXlKeVMyMFp1RVE",
-  "snippet": "Brantford family seeks answers after Hyundai Kona catches fire in driveway, damaging home Philippine Canadian Inquirer",
-  "published": "2026-11-13T12:05:52+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T19:21:02.826542+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "b344f131cb",
   "slug": "naimos-engages-truck-drivers-sand-winning-associations-on-compliance-a-b344f131cb",
   "title": "NAIMOS engages truck drivers, sand-winning associations on compliance and cooperation",
@@ -19187,35 +19170,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "c7dba88354",
-  "slug": "brantford-ont-man-seeks-answers-after-car-catches-fire-in-family-home-c7dba88354",
-  "title": "Brantford, Ont., man seeks answers after car catches fire in family home's driveway",
-  "orig_title": "Brantford, Ont., man seeks answers after car catches fire in family home's driveway",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CBC",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHJCR253MlpWY3MxVFlDSnZad0hGZzdySTBxWXRaTlpYM1JsbTg3eFVpS3o1Rk5wU25saTF6ckxjOGVTdVd3Mk9VSUhYNDVsSWhad0VrZzRfVWV0dm5kZkRqSHN5VFlLOFpjVS1mbXpPZllaR3dXYTZxYUE2SlFYUlYtTQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHJCR253MlpWY3MxVFlDSnZad0hGZzdySTBxWXRaTlpYM1JsbTg3eFVpS3o1Rk5wU25saTF6ckxjOGVTdVd3Mk9VSUhYNDVsSWhad0VrZzRfVWV0dm5kZkRqSHN5VFlLOFpjVS1mbXpPZllaR3dXYTZxYUE2SlFYUlYtTQ",
-  "snippet": "Brantford, Ont., man seeks answers after car catches fire in family home's driveway CBC",
-  "published": "2026-11-13T09:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T19:21:02.826542+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "217016c3ba",
   "slug": "u-s-trade-chief-confirms-recent-talks-with-canada-but-sets-no-deadline-217016c3ba",
   "title": "U.S. trade chief confirms recent talks with Canada but sets no deadline for a deal",
@@ -19242,35 +19196,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "f1f698cd94",
-  "slug": "duffy-uses-veterans-day-to-issue-update-on-freedom-haulers-program-f1f698cd94",
-  "title": "Duffy uses Veterans Day to issue update on Freedom Haulers program",
-  "orig_title": "Duffy uses Veterans Day to issue update on Freedom Haulers program",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Truckers News",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXkySXFWMVNvOElaWVR5cHF1cm41UXAzeDE4SzNWSXU0ejJtdkRzbzlHS0JncVVLbVV0R1BBd3hOZnU1dG56X2JBOG1wQzExQkptSmh5VG1LVVZwQURzRWhvSi10alpsUWFlOTU1NVpiTDRKYVQxQ2MtbmNPWWxwN09zN09lY2trMi1KaXMyVWRJbTM5R1RzR1d4ZEZoNFBnaDZwNXMtYjR2VW1GTmhZVGlqYzAtVHA2?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXkySXFWMVNvOElaWVR5cHF1cm41UXAzeDE4SzNWSXU0ejJtdkRzbzlHS0JncVVLbVV0R1BBd3hOZnU1dG56X2JBOG1wQzExQkptSmh5VG1LVVZwQURzRWhvSi10alpsUWFlOTU1NVpiTDRKYVQxQ2MtbmNPWWxwN09zN09lY2trMi1KaXMyVWRJbTM5R1RzR1d4ZEZoNFBnaDZwNXMtYjR2VW1GTmhZVGlqYzAtVHA2",
-  "snippet": "Duffy uses Veterans Day to issue update on Freedom Haulers program Truckers News",
-  "published": "2026-11-13T08:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T19:21:02.826542+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
   "sum_pending": false
  },
  {

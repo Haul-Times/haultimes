@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:11:01.621695+00:00",
+ "updated": "2026-11-18T19:21:06.985976+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -10,17 +10,17 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 15,
-    "fast_wait": 15,
-    "lanes": "5",
+    "wait": 25,
+    "fast_wait": 25,
+    "lanes": "7",
     "status": "delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 20,
-    "status": "20 minutes",
-    "updated": "2026-11-18 13:55 EST"
+    "wait": 15,
+    "status": "15 minutes",
+    "updated": "2026-11-18 14:12 EST"
    },
    "usual": {
     "south": [
@@ -38,7 +38,7 @@
      0,
      5,
      10,
-     4,
+     6,
      0,
      0,
      10,
@@ -64,7 +64,7 @@
      13,
      20,
      18,
-     6,
+     7,
      0,
      0,
      0,
@@ -113,7 +113,7 @@
      12,
      12,
      0,
-     5,
+     4,
      12,
      16,
      12,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 14,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 2:00 pm EST",
+    "status": "no delay",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -289,7 +289,7 @@
      5,
      3,
      4,
-     5,
+     4,
      13,
      7,
      4,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:10:25",
+    "updated": "14:20:25",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1088,7 +1088,7 @@
      4,
      4,
      4,
-     9,
+     8,
      8,
      0,
      0,
@@ -1231,7 +1231,7 @@
      8,
      6,
      6,
-     11,
+     10,
      15,
      15,
      15,
@@ -1306,7 +1306,7 @@
      2,
      7,
      12,
-     5,
+     7,
      0,
      0,
      0,
@@ -1457,8 +1457,8 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 15,
+    "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",

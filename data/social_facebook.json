@@ -3823,7 +3823,9 @@
   "c7dbd2f0a4": "skipped|importance 55 is below this platform's threshold (65)",
   "a1d761f58e": "skipped|minor item (news) or low-quality source",
   "db9d583df8": "skipped|minor item (announcement) or low-quality source",
-  "6ec620b586": "skipped|minor item (announcement) or low-quality source"
+  "6ec620b586": "skipped|minor item (announcement) or low-quality source",
+  "9082e18a7a": "skipped|importance 55 is below this platform's threshold (65)",
+  "3615e968f3": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7689,6 +7691,20 @@
    "title": "Graypool Introduces Exchange, Letting Truckload Carriers Bid and Accept Freight Backed by Each Other’s Trucks",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T19:21:28.559157+00:00",
+   "story_id": "9082e18a7a",
+   "title": "ATA spells out short- and long-term solutions to halt ELD fraud",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T19:21:28.559157+00:00",
+   "story_id": "3615e968f3",
+   "title": "ELD Snitching Controversy, C.H. Robinson Profits & Texas Trucking Laws",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
