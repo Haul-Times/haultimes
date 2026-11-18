@@ -1,5 +1,71 @@
 [
  {
+  "id": "8ef07671a3",
+  "slug": "atri-trucking-s-annual-congestion-costs-reach-128-2b-8ef07671a3",
+  "title": "ATRI: Trucking’s annual congestion costs reach $128.2B",
+  "orig_title": "ATRI: Trucking’s annual congestion costs reach $128.2B",
+  "summary": "The American Transportation Research Institute (ATRI) estimates that highway congestion added $128.2 billion in trucking costs in 2024, according to its latest Cost of Congestion study. That was $4.7 billion more than in 2022 but slightly below the 2023 record of $129.8 billion, which the study linked to a prolonged freight recession that reduced truck mileage. ATRI counted 1.24 billion hours of delay in 2024, with an average congestion cost of $7,973 per truck. Texas, California and Florida had the highest state costs, and the top ten states accounted for 53% of the national total. New York City led metro areas at $7.49 billion, followed by Miami and Chicago. ATRI also estimated that 6.66 billion gallons of diesel were wasted in 2024, adding $25.04 billion in fuel costs.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 56,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnZWV1Ata3doUFpvRktSSkFKOVRwNjlPOVc5cHdKTkZZVmtJYm05bHJBMVZqeXRIYk1YeTFIMjJVS19fNlRGX3FJTEFEdHI1c0hsU2pNTXloUG40eVFzZ2dORDRCRl95VUFfSkUyYllXY294RXB5elB3a1JEcV9VZXZXR2Exck9jbTRLNi05R2dja3JEbHN2aWktTzZmNWVlaWhr?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnZWV1Ata3doUFpvRktSSkFKOVRwNjlPOVc5cHdKTkZZVmtJYm05bHJBMVZqeXRIYk1YeTFIMjJVS19fNlRGX3FJTEFEdHI1c0hsU2pNTXloUG40eVFzZ2dORDRCRl95VUFfSkUyYllXY294RXB5elB3a1JEcV9VZXZXR2Exck9jbTRLNi05R2dja3JEbHN2aWktTzZmNWVlaWhr",
+  "snippet": "ATRI: Trucking’s annual congestion costs reach $128.2B TheTrucker.com",
+  "published": "2026-11-18T15:48:14+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T16:01:04.886786+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/atri-truckings-annual-congestion-costs-reach-128-2b",
+  "source_note": "ok · 508 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "3790fed33b9f9eae",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T16:01:04.886786+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "added $128.2 billion in costs to the trucking industry in 2024"
+   },
+   {
+    "sentence": "2",
+    "quote": "slightly below the record high of $129.8 billion in 2023"
+   },
+   {
+    "sentence": "3",
+    "quote": "1.24 billion hours of delay"
+   },
+   {
+    "sentence": "4",
+    "quote": "led by Texas ($10.92B), California ($10.47B), and Florida ($10.35B)"
+   },
+   {
+    "sentence": "5",
+    "quote": "New York City ($7.49B)"
+   },
+   {
+    "sentence": "6",
+    "quote": "6.66 billion gallons of diesel fuel was wasted in 2024"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 55
+ },
+ {
   "id": "7a7d7faeb9",
   "slug": "final-mile-delivery-costs-rising-three-times-faster-than-inflation-geo-7a7d7faeb9",
   "title": "Final-mile delivery costs rising three times faster than inflation: Geodis",

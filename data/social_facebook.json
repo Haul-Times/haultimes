@@ -3690,7 +3690,8 @@
   "e312a26da7": "skipped|importance 60 is below this platform's threshold (65)",
   "73eef295fa": "skipped|importance 62 is below this platform's threshold (65)",
   "1fe359e985": "skipped|minor item (announcement) or low-quality source",
-  "103b0ffbb7": "skipped|minor item (crime) or low-quality source"
+  "103b0ffbb7": "skipped|minor item (crime) or low-quality source",
+  "8ef07671a3": "skipped|importance 56 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7409,6 +7410,13 @@
    "title": "Truck driver arrested after fatal Highway 30 collision that killed mother, son",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T16:01:30.056611+00:00",
+   "story_id": "8ef07671a3",
+   "title": "ATRI: Trucking’s annual congestion costs reach $128.2B",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
