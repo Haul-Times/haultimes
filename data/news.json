@@ -1,5 +1,34 @@
 [
  {
+  "id": "1135b1dc5d",
+  "slug": "content-authored-by-yurii-stasiuk-1135b1dc5d",
+  "title": "Content Authored By Yurii Stasiuk",
+  "orig_title": "Content Authored By Yurii Stasiuk",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZQXVKcmVmdzl2QlJOX3U2MHhqSmhFNE9oUTFNQzNqM0FyTVVLU0F2TXFCcWE4bG0yVW1aa0JhZERveUlIUWYycWtoclhHZlNMRnZSRFZCVQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZQXVKcmVmdzl2QlJOX3U2MHhqSmhFNE9oUTFNQzNqM0FyTVVLU0F2TXFCcWE4bG0yVW1aa0JhZERveUlIUWYycWtoclhHZlNMRnZSRFZCVQ",
+  "snippet": "Content Authored By Yurii Stasiuk Transport Topics",
+  "published": "2026-11-18T13:50:19+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T13:51:05.488558+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "47458eb868",
   "slug": "trucking-companies-used-in-7-2-million-california-cargo-theft-scheme-47458eb868",
   "title": "Trucking companies used in $7.2-million California cargo theft scheme",
@@ -29,6 +58,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "af13bb1ab5",
+  "slug": "oil-prices-steady-despite-spikes-in-attacks-in-persian-gulf-af13bb1ab5",
+  "title": "Oil prices steady despite spikes in attacks in Persian Gulf",
+  "orig_title": "Oil prices steady despite spikes in attacks in Persian Gulf",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Vcy1uWmRBVG12a055QkdFT2pwUjZzcnFDZUt6d2JYLUpLbS0xYkgwdVRYRWswRVpDZkU2SVhLbTRpbzdGSFlqZm1jUEpEc3V5cnVuUlpoT3lIVXY3RmJsQV85dUpBQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Vcy1uWmRBVG12a055QkdFT2pwUjZzcnFDZUt6d2JYLUpLbS0xYkgwdVRYRWswRVpDZkU2SVhLbTRpbzdGSFlqZm1jUEpEc3V5cnVuUlpoT3lIVXY3RmJsQV85dUpBQQ",
+  "snippet": "Oil prices steady despite spikes in attacks in Persian Gulf Transport Topics",
+  "published": "2026-11-18T13:25:29+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T13:51:05.488558+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "e6809c2cae",
@@ -11118,6 +11176,35 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "f116254847",
+  "slug": "gorilla-agrees-to-acquire-cosmos-project-from-igo-f116254847",
+  "title": "Gorilla agrees to acquire Cosmos Project from IGO",
+  "orig_title": "Gorilla agrees to acquire Cosmos Project from IGO",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQU5LRm5rcEtmZURlNHE0SF9od1I4T3RsYXlEZmdDdHlPNHl1LU02bE81NTV0WXlWcGhkd0tqT3pIMzlLNHBDRDFQV1ZSdnM2cTFjQVJ0RjJZX28zNlhITEdCbUthdGk4Q1lJS094eGRHM3g2UG9zLVVkOVVGM0swQlBHXzBXSFQyRTB1Q3pzOTRHR2FKVnNDN2RYVXZ0akh4c21iMHdTS2lGTmVDSzlOVS1rZnZoSlFDLUtlRnNESVg5TlFSa1o2LThnTzQtQ245?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQU5LRm5rcEtmZURlNHE0SF9od1I4T3RsYXlEZmdDdHlPNHl1LU02bE81NTV0WXlWcGhkd0tqT3pIMzlLNHBDRDFQV1ZSdnM2cTFjQVJ0RjJZX28zNlhITEdCbUthdGk4Q1lJS094eGRHM3g2UG9zLVVkOVVGM0swQlBHXzBXSFQyRTB1Q3pzOTRHR2FKVnNDN2RYVXZ0akh4c21iMHdTS2lGTmVDSzlOVS1rZnZoSlFDLUtlRnNESVg5TlFSa1o2LThnTzQtQ245",
+  "snippet": "Gorilla agrees to acquire Cosmos Project from IGO The Globe and Mail",
+  "published": "2026-11-16T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T13:51:05.488558+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
