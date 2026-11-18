@@ -24,7 +24,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3
  },
  {
@@ -58,6 +58,35 @@
   "source_note": "excerpt only · 30 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "74b5533017",
+  "slug": "blue-city-aviation-handles-pipeline-for-national-airlines-outsize-oil-74b5533017",
+  "title": "Blue City Aviation handles pipeline for National Airlines outsize oil air cargo delivery",
+  "orig_title": "Blue City Aviation handles pipeline for National Airlines outsize oil air cargo delivery",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Air Cargo Week",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXQ2cW1mQ1lBb2Q4VHNNUkEzNVhXQWxPbzRUbHFEZGdqWnFGeTVCbDcxM3BDcDc4MVlOM0lfUkU4Y2VxMVdJQkRXNmx2SkdROFd2YW9NMmlXVGJ3RXI1bkp4MEhrUXhGcTB5VFNxNG9lSkZRV2I4cTJvaFUyLUdab2hGRHR0WXdEMF91bVkzSzNYR3prWmtpb05MRVhlVFhjSVVLUVBUYWpnTW1TNklnQXZXQXY?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXQ2cW1mQ1lBb2Q4VHNNUkEzNVhXQWxPbzRUbHFEZGdqWnFGeTVCbDcxM3BDcDc4MVlOM0lfUkU4Y2VxMVdJQkRXNmx2SkdROFd2YW9NMmlXVGJ3RXI1bkp4MEhrUXhGcTB5VFNxNG9lSkZRV2I4cTJvaFUyLUdab2hGRHR0WXdEMF91bVkzSzNYR3prWmtpb05MRVhlVFhjSVVLUVBUYWpnTW1TNklnQXZXQXY",
+  "snippet": "Blue City Aviation handles pipeline for National Airlines outsize oil air cargo delivery Air Cargo Week",
+  "published": "2026-11-18T08:00:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T09:40:59.987141+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "ocean/air freight with no North American trucking link"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d4365761fd",
@@ -4939,6 +4968,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "f0ac5ba62b",
+  "slug": "bca-loads-13-outsize-oil-pipes-onto-national-b747-f0ac5ba62b",
+  "title": "BCA loads 13 outsize oil pipes onto National B747",
+  "orig_title": "BCA loads 13 outsize oil pipes onto National B747",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The STAT Trade Times",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjlLYW1yR1hpWkRmM0NIcktsLWZFb0FZTUl4dGI2a2luOENMYTNYX3VWY2gta0F3azJPN3lwTEFjd09wZTRxTkpOWnN5a2g5SDlfMXBjOGg1RlZ4dzc1MWV2cUhDLUVIS3dLNjE3TzRiR29RYzF2THFTdHdINlBSVEhBN3hSMWdqRjkyYWp0LWk4MXQ1dGs00gGcAUFVX3lxTE9CWS0tLWoyQUtGWXo1UnV6eThOUElONVhCY2ppSC14WjBROUtrRXl1RC1NbGhESFFsZUJEZDBFN085MHozVU0tUXRoeHE3LWR4ZWVPNWMwYVgzMjlQaW9mVHNaOVdxb2dhcy0xdmdPR1YtNjdla2Z4SS14NTdyRzBRbk1Sam9yRGNycFhjNnZDNGxRQS1jekV2d0tPdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjlLYW1yR1hpWkRmM0NIcktsLWZFb0FZTUl4dGI2a2luOENMYTNYX3VWY2gta0F3azJPN3lwTEFjd09wZTRxTkpOWnN5a2g5SDlfMXBjOGg1RlZ4dzc1MWV2cUhDLUVIS3dLNjE3TzRiR29RYzF2THFTdHdINlBSVEhBN3hSMWdqRjkyYWp0LWk4MXQ1dGs00gGcAUFVX3lxTE9CWS0tLWoyQUtGWXo1UnV6eThOUElONVhCY2ppSC14WjBROUtrRXl1RC1NbGhESFFsZUJEZDBFN085MHozVU0tUXRoeHE3LWR4ZWVPNWMwYVgzMjlQaW9mVHNaOVdxb2dhcy0xdmdPR1YtNjdla2Z4SS14NTdyRzBRbk1Sam9yRGNycFhjNnZDNGxRQS1jekV2d0tPdw",
+  "snippet": "BCA loads 13 outsize oil pipes onto National B747 The STAT Trade Times",
+  "published": "2026-11-17T07:59:08+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T09:40:59.987141+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
