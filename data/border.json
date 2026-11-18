@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:11:04.663528+00:00",
+ "updated": "2026-11-18T20:21:03.810965+00:00",
  "hour_now": 15,
  "have_us": true,
  "have_ca": true,
@@ -10,17 +10,17 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 25,
-    "fast_wait": 25,
+    "wait": 15,
+    "fast_wait": 15,
     "lanes": "7",
     "status": "delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-18 14:46 EST"
+    "wait": 25,
+    "status": "25 minutes",
+    "updated": "2026-11-18 15:06 EST"
    },
    "usual": {
     "south": [
@@ -39,7 +39,7 @@
      5,
      10,
      12,
-     10,
+     11,
      0,
      10,
      10,
@@ -65,7 +65,7 @@
      20,
      18,
      9,
-     4,
+     8,
      0,
      0,
      0,
@@ -114,7 +114,7 @@
      12,
      0,
      3,
-     7,
+     6,
      16,
      12,
      4,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 2:57 pm EST",
+    "updated": "At 3:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -264,7 +264,7 @@
      3,
      6,
      1,
-     2,
+     4,
      0,
      0,
      0,
@@ -290,7 +290,7 @@
      3,
      4,
      3,
-     8,
+     7,
      7,
      4,
      5,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 29,
+    "wait": 21,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 2:57 pm EST",
+    "updated": "At 3:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -339,7 +339,7 @@
      0,
      0,
      4,
-     9,
+     12,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "15:05:31",
+    "updated": "15:15:31",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1089,7 +1089,7 @@
      4,
      4,
      5,
-     16,
+     23,
      0,
      0,
      7,
@@ -1232,7 +1232,7 @@
      6,
      6,
      7,
-     9,
+     7,
      15,
      15,
      27,
@@ -1278,11 +1278,11 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 20,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "3",
-    "status": "delay",
-    "updated": "At 11:00 am PST",
+    "status": "no delay",
+    "updated": "At 1:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1307,7 +1307,7 @@
      7,
      12,
      11,
-     8,
+     7,
      0,
      0,
      0,
@@ -1333,7 +1333,7 @@
      5,
      6,
      11,
-     8,
+     7,
      13,
      7,
      9,
