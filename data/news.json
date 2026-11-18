@@ -1553,6 +1553,35 @@
   "sum_v3": true
  },
  {
+  "id": "8f6f5126ac",
+  "slug": "bethel-township-zoning-changes-hit-truck-businesses-8f6f5126ac",
+  "title": "Bethel Township Zoning Changes Hit Truck Businesses",
+  "orig_title": "Bethel Township Zoning Changes Hit Truck Businesses",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Hoodline",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGlKQTBPMExDaV9sUVFaZm1JR3VtQWRYNElWbDFvME4waXdUbU52X3k5S0pLN29iNWgxeGF0bWFfWmNZYVhQRGhUa0pCcWJpSW5qX1JpOEhVRjdBLTR6LUgwaWpXMXYtVlZ3M3lBMHJGbk9WRk52Wm9uYi0yUW4zb2JBSnUxUFNZTjZkTWtLNFJjazRhV1JzN0I0d3RpV3lFMTIydHVxTjhqSmVQeGdZ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGlKQTBPMExDaV9sUVFaZm1JR3VtQWRYNElWbDFvME4waXdUbU52X3k5S0pLN29iNWgxeGF0bWFfWmNZYVhQRGhUa0pCcWJpSW5qX1JpOEhVRjdBLTR6LUgwaWpXMXYtVlZ3M3lBMHJGbk9WRk52Wm9uYi0yUW4zb2JBSnUxUFNZTjZkTWtLNFJjazRhV1JzN0I0d3RpV3lFMTIydHVxTjhqSmVQeGdZ",
+  "snippet": "Bethel Township Zoning Changes Hit Truck Businesses Hoodline",
+  "published": "2026-11-18T15:25:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T20:31:08.389342+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "73eef295fa",
   "slug": "fmcsa-seeks-input-on-using-cameras-in-place-of-truck-mirrors-73eef295fa",
   "title": "FMCSA seeks input on using cameras in place of truck mirrors",
@@ -2156,6 +2185,38 @@
   "source_note": "paywalled: excerpt only · 26 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "d445885c1f",
+  "slug": "trucking-hub-launches-getmvr-com-a-new-platform-for-instant-motor-vehi-d445885c1f",
+  "title": "Trucking Hub Launches GetMVR.com, a New Platform for Instant Motor Vehicle Records",
+  "orig_title": "Trucking Hub Launches GetMVR.com, a New Platform for Instant Motor Vehicle Records",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 35,
+  "source": "StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLVpSNHFZdExaRnlIek5LUDh2U1VmRS1GNVhwMmxfRUpYb19RWEFQZ3ZWdU55VTRhNXEwdWpvc2g4ZnhvVEpFaDREaEFzNExSVzFsalZZSTlEMXpYaFpFSzRLbFlLZGNMaVQ3c3Vxd3I3QmwxaDBMSExuNGVvMXBXWlhmaGFCNnlvVHFwa2xZVWkzb0RKVGsxWHUxUDFYLVdKc2xvVmZxQzgxbDAyYWx4NmRnNU5XRU5Cc1hXUy1SNjF1WlN0TmduWks1YUxWSnBLS05ydHBR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLVpSNHFZdExaRnlIek5LUDh2U1VmRS1GNVhwMmxfRUpYb19RWEFQZ3ZWdU55VTRhNXEwdWpvc2g4ZnhvVEpFaDREaEFzNExSVzFsalZZSTlEMXpYaFpFSzRLbFlLZGNMaVQ3c3Vxd3I3QmwxaDBMSExuNGVvMXBXWlhmaGFCNnlvVHFwa2xZVWkzb0RKVGsxWHUxUDFYLVdKc2xvVmZxQzgxbDAyYWx4NmRnNU5XRU5Cc1hXUy1SNjF1WlN0TmduWks1YUxWSnBLS05ydHBR",
+  "snippet": "Trucking Hub Launches GetMVR.com, a New Platform for Instant Motor Vehicle Records StreetInsider",
+  "published": "2026-11-18T12:56:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T20:31:08.389342+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Trucking Hub launches new platform for instant motor vehicle records"
+  ],
+  "labels": [
+   "Company announcement"
+  ],
+  "kind": "announcement",
+  "sum_pending": false,
+  "dup_of": "db9d583df8"
  },
  {
   "id": "8a00506a17",
