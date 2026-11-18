@@ -61,6 +61,35 @@
   "sum_pending": false
  },
  {
+  "id": "7e2b77c299",
+  "slug": "trinity-expands-minneapolis-office-after-granite-acquisition-7e2b77c299",
+  "title": "Trinity expands Minneapolis office after Granite acquisition",
+  "orig_title": "Trinity expands Minneapolis office after Granite acquisition",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zZm9rR1ktbTJMa3ZFVzZLeHBEekJKa3FYTUt6OEk4Qno4UXRiQTNzUG9WZllXN1dZNU9UX0NNTFhxem9mTVIzSG9UNEJrM25ONjFSbHFjSG4yNjJYSGpkWTZ4SFdiMjV1bF8w?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zZm9rR1ktbTJMa3ZFVzZLeHBEekJKa3FYTUt6OEk4Qno4UXRiQTNzUG9WZllXN1dZNU9UX0NNTFhxem9mTVIzSG9UNEJrM25ONjFSbHFjSG4yNjJYSGpkWTZ4SFdiMjV1bF8w",
+  "snippet": "Trinity expands Minneapolis office after Granite acquisition Transport Topics",
+  "published": "2026-11-18T16:30:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T16:51:04.302464+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "179c15e416",
   "slug": "crosscountry-freight-solutions-named-top-10-ltl-carrier-in-2026-mastio-179c15e416",
   "title": "CrossCountry Freight Solutions named top 10 LTL carrier in 2026 Mastio Study",
@@ -86,7 +115,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/crosscountry-freight-solutions-named-top-10-ltl-carrier-in-2026-mastio-study",
   "source_note": "ok · 397 words"
  },
@@ -18699,35 +18728,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "cfd17e44b9",
-  "slug": "watch-what-s-the-best-use-of-ai-agents-in-supply-chain-planning-cfd17e44b9",
-  "title": "Watch: What’s the Best Use of AI Agents in Supply Chain Planning?",
-  "orig_title": "Watch: What’s the Best Use of AI Agents in Supply Chain Planning?",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "SupplyChainBrain",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkJGamFyRGxoVWVDU2prTVdvSk8ySVF0Y0ttYmZiXzBMaTNZZWNycHkyNmN5T0lwQlB2czVjS1ZGR1lxX2ZTemxsOHFNSnN0dEZHWFU3RmVBcFJvRjBWM2VNR0NSZG16cG5XM3BMbWdkendVdHZzeUtzUGNzZHBQdWYwMVFRckdyM3FDNC1mT3FveGR0czlHNGJCM3RHblhCTmtNYS1aRkdoYjlSXzVMZGpHTFZrdFBkZFI3XzJ1NF8zeWlzZThJaVJGZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkJGamFyRGxoVWVDU2prTVdvSk8ySVF0Y0ttYmZiXzBMaTNZZWNycHkyNmN5T0lwQlB2czVjS1ZGR1lxX2ZTemxsOHFNSnN0dEZHWFU3RmVBcFJvRjBWM2VNR0NSZG16cG5XM3BMbWdkendVdHZzeUtzUGNzZHBQdWYwMVFRckdyM3FDNC1mT3FveGR0czlHNGJCM3RHblhCTmtNYS1aRkdoYjlSXzVMZGpHTFZrdFBkZFI3XzJ1NF8zeWlzZThJaVJGZw",
-  "snippet": "Watch: What’s the Best Use of AI Agents in Supply Chain Planning? SupplyChainBrain",
-  "published": "2026-11-13T05:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T16:51:01.741453+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "a878a3cd60",
