@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:01:02.064025+00:00",
+ "updated": "2026-11-18T05:11:02.845967+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
-    "lanes": "3",
-    "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "lanes": "4",
+    "status": "delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -24,7 +24,7 @@
    },
    "usual": {
     "south": [
-     7,
+     8,
      1,
      0,
      0,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
-    "fast_wait": 0,
-    "lanes": "2",
-    "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -160,17 +160,17 @@
    "ports": "Sault Ste. Marie, MI ↔ Sault Ste. Marie, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 22:15 EST"
+    "updated": "2026-11-18 00:04 EST"
    },
    "usual": {
     "south": [
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 16,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 11:47 pm EST",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-17 23:40 EST"
+    "wait": 20,
+    "status": "20 minutes",
+    "updated": "2026-11-18 00:00 EST"
    },
    "usual": {
     "south": [
@@ -275,7 +275,7 @@
      0
     ],
     "north": [
-     4,
+     6,
      16,
      3,
      6,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:47 pm EST",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 14,
-    "status": "14 minutes",
-    "updated": "2026-11-17 23:40 EST"
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-18 00:00 EST"
    },
    "usual": {
     "south": [
@@ -350,7 +350,7 @@
      7
     ],
     "north": [
-     13,
+     12,
      3,
      1,
      1,
@@ -385,11 +385,11 @@
    "ports": "Alexandria Bay, NY ↔ Lansdowne, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -460,11 +460,11 @@
    "ports": "Ogdensburg, NY ↔ Prescott, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -601,7 +601,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 4 AM",
+   "best_south": "Usually fastest around 12 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -763,8 +763,8 @@
     "wait": null,
     "fast_wait": null,
     "lanes": "",
-    "status": "Lanes Closed",
-    "updated": "23:54:01",
+    "status": "Update Pending",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -835,11 +835,11 @@
    "ports": "Derby Line, VT ↔ Stanstead, QC",
    "region": "qc",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -910,11 +910,11 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 11:00 pm EST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "23:54:01",
+    "updated": "00:09:02",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-17 23:49 AST"
+    "updated": "2026-11-18 01:04 AST"
    },
    "usual": {
     "south": [
@@ -1074,7 +1074,7 @@
    },
    "usual": {
     "south": [
-     5,
+     4,
      0,
      0,
      0,
@@ -1217,7 +1217,7 @@
    },
    "usual": {
     "south": [
-     3,
+     5,
      0,
      0,
      null,
@@ -1282,13 +1282,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:00 pm PST",
+    "updated": "At 9:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-17 21:40 PDT"
+    "wait": 15,
+    "status": "15 minutes",
+    "updated": "2026-11-17 22:00 PDT"
    },
    "usual": {
     "south": [
@@ -1318,7 +1318,7 @@
      0
     ],
     "north": [
-     8,
+     9,
      20,
      16,
      15,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-17 21:40 PDT"
+    "updated": "2026-11-17 22:00 PDT"
    },
    "usual": {
     "south": [
@@ -1477,13 +1477,13 @@
    },
    {
     "name": "Madawaska",
-    "wait": 0,
-    "status": "no delay"
+    "wait": null,
+    "status": "Update Pending"
    },
    {
     "name": "Norton",
-    "wait": 0,
-    "status": "no delay"
+    "wait": null,
+    "status": "Update Pending"
    }
   ],
   "north": [
