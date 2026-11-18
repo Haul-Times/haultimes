@@ -3035,6 +3035,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "7a4944bdd9": {
+   "story_id": "7a4944bdd9",
+   "title": "Trailer orders surge in October as fleets accelerate equipment purchases",
+   "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEVGTG13emJGMHFLVDgwdEN6anl4LXFGTlctOGVhTWR6cThCTXM3Tk1NMjQ2c05TR1Y5LVQwRlVPRVptTmh2R1BDNFp1OHNEWlYzUG9haHRPZFJfZ2JDREFBYkxETXRRQ0VCYWdmV2Jva3AwRUZhNWw2bnRlWG5kV0JZQ0pfN0pXcHNWUnExYzRvaGFJd0s4RzFtY2otdUdXVlgyN0VnZE1JUEg2MWp3TFloT0tfVW1DcXNveA",
+   "category": "equip",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/trailer-orders-surge-in-october-as-fleets-accelerate-equipment-purchas-7a4944bdd9/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=7a4944bdd9",
+   "caption": "Trailer orders surge in October as fleets accelerate equipment purchases.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking",
+   "status": "queued",
+   "created_at": "2026-11-18T17:40:16.919456+00:00",
+   "published": "2026-11-18T17:34:35+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Trailer orders surge in October as fleets accelerate equipment purchases | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/eb5bb2dea8.png",
+    "og:url": "https://haultimes.com/story/trailer-orders-surge-in-october-as-fleets-accelerate-equipment-purchas-7a4944bdd9/"
+   },
+   "reason": "importance 75 (threshold 65), Equipment, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3785,7 +3813,8 @@
   "ec83090455": "skipped|importance 55 is below this platform's threshold (65)",
   "4c5bfcedf1": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "423316c758": "skipped|importance 55 is below this platform's threshold (65)",
-  "1b846d3450": "skipped|importance 55 is below this platform's threshold (65)"
+  "1b846d3450": "skipped|importance 55 is below this platform's threshold (65)",
+  "7a4944bdd9": "queued|importance 75 (threshold 65), Equipment, trade publication"
  },
  "decisions": [
   {
@@ -7581,6 +7610,13 @@
    "title": "Catching Driver Fatigue is One Thing. What You Do Next Matters Just as Much",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T17:40:16.919456+00:00",
+   "story_id": "7a4944bdd9",
+   "title": "Trailer orders surge in October as fleets accelerate equipment purchases",
+   "action": "queued",
+   "reason": "importance 75 (threshold 65), Equipment, trade publication"
   }
  ],
  "visibility": {
