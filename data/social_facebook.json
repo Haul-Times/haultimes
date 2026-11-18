@@ -2792,7 +2792,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/broker-rxo-says-tl-spot-rates-not-entering-deflationary-phase-a17334730a/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=a17334730a",
    "caption": "Broker RXO says TL spot rates not entering deflationary phase.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-17T17:21:23.588974+00:00",
    "published": "2026-11-17T17:13:00+00:00",
    "score": 67,
@@ -3563,7 +3563,7 @@
   "379f9abb9a": "skipped|importance 45 is below this platform's threshold (65)",
   "d57d869691": "expired|stale before a slot opened (published 12h ago)",
   "06303619b7": "skipped|importance 56 is below this platform's threshold (65)",
-  "a17334730a": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
+  "a17334730a": "expired|stale before a slot opened (published 12h ago)",
   "036656251d": "skipped|importance 62 is below this platform's threshold (65)",
   "2a2b102a25": "expired|stale before a slot opened (published 12h ago)",
   "d14b30617a": "skipped|importance 55 is below this platform's threshold (65)",
@@ -7134,6 +7134,13 @@
    "at": "2026-11-18T05:01:15.989190+00:00",
    "story_id": "d57d869691",
    "title": "CBSA officers seize 81 kg of suspected cocaine from a commercial truck arriving from the US, at Pacific Highway",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-18T05:21:25.061040+00:00",
+   "story_id": "a17334730a",
+   "title": "Broker RXO says TL spot rates not entering deflationary phase",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
   }
