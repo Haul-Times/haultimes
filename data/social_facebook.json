@@ -2715,7 +2715,7 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/six-commercial-vehicles-placed-out-of-service-in-ontario-during-enforc-9f6c87c542/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9f6c87c542",
    "caption": "Six commercial vehicles placed out of service in Ontario during enforcement blitz.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-17T14:21:23.151838+00:00",
    "published": "2026-11-17T14:14:57+00:00",
    "score": 87,
@@ -3549,7 +3549,7 @@
   "f5ed5bdb3f": "skipped|importance 55 is below this platform's threshold (65)",
   "4f383b61e4": "skipped|minor item (announcement) or low-quality source",
   "cc704ee782": "skipped|minor item (feature) or low-quality source",
-  "9f6c87c542": "queued|importance 87 (threshold 65), Regulations, trade publication",
+  "9f6c87c542": "expired|stale before a slot opened (published 12h ago)",
   "ac60a533be": "skipped|importance 55 is below this platform's threshold (65)",
   "27332026fc": "skipped|minor item (news) or low-quality source",
   "diesel-2026-11-16": "queued|HaulTimes update",
@@ -7112,6 +7112,13 @@
    "at": "2026-11-18T00:51:34.031226+00:00",
    "story_id": "2a2b102a25",
    "title": "Truckload Carriers Association Outlines FMCSA Reform Strategy",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-18T02:21:16.723989+00:00",
+   "story_id": "9f6c87c542",
+   "title": "Six commercial vehicles placed out of service in Ontario during enforcement blitz",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
   }
