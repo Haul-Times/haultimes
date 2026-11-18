@@ -2498,6 +2498,35 @@
   "ai_importance": 55
  },
  {
+  "id": "d6e3de218a",
+  "slug": "let-s-eat-have-you-ever-tried-v8-chicken-d6e3de218a",
+  "title": "Let's Eat! Have You Ever Tried V8 Chicken?",
+  "orig_title": "Let's Eat! Have You Ever Tried V8 Chicken?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "PJ Media",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51RE1RbUY4ZW9JbWZOMWt5RnJjakdRZWdBMFBtWkgtVmQtNEc0MGlzaXVOdHRHOUcyUjZfQnpvVW4tRUFsY1FGVkpQNU44eWFtakpnLXZOUDB2V29PWGlwT1BjLWJDaWlzMk0yNE5lR0JvTmFkQ0swY18yOA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51RE1RbUY4ZW9JbWZOMWt5RnJjakdRZWdBMFBtWkgtVmQtNEc0MGlzaXVOdHRHOUcyUjZfQnpvVW4tRUFsY1FGVkpQNU44eWFtakpnLXZOUDB2V29PWGlwT1BjLWJDaWlzMk0yNE5lR0JvTmFkQ0swY18yOA",
+  "snippet": "Let's Eat! Have You Ever Tried V8 Chicken? PJ Media",
+  "published": "2026-11-17T17:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T08:11:03.377253+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "036656251d",
   "slug": "q3-2026-cargo-theft-falls-as-losses-rise-036656251d",
   "title": "Q3 2026 Cargo Theft Falls as Losses Rise",
