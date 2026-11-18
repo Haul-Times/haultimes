@@ -32,6 +32,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "9bef730720",
+  "slug": "boreal-gold-increases-fay-lake-property-39-by-staking-in-manitoba-9bef730720",
+  "title": "Boreal Gold Increases Fay Lake Property 39% by Staking in Manitoba",
+  "orig_title": "Boreal Gold Increases Fay Lake Property 39% by Staking in Manitoba",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLU5MZkxQcmxwdjNqd1lpMFBVQVVDVGN3al9BQjhWdFdBOFVGd19GaTBhUGJQby1vSXYzSG1qZnN0YTY1MDlfUkNVeVo5Vk5ET1BtcGpWY3BaQkRMTkJOQnl5aWxXY1BQM05faE95d295Wi1MSzFna0g0VXJUdHY0U3BCYXdEdlRXRGtQWnc1dXdQQ1VlbDNRMi0tU2JmZUp4MGR6bm9nd1BwVmM2QUpCUncxQ29IZW95NHI3ZDQ3amlLWFN2dmd2NjZZRmJQVWU2dC1WTGY5UjkweDczUThr?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLU5MZkxQcmxwdjNqd1lpMFBVQVVDVGN3al9BQjhWdFdBOFVGd19GaTBhUGJQby1vSXYzSG1qZnN0YTY1MDlfUkNVeVo5Vk5ET1BtcGpWY3BaQkRMTkJOQnl5aWxXY1BQM05faE95d295Wi1MSzFna0g0VXJUdHY0U3BCYXdEdlRXRGtQWnc1dXdQQ1VlbDNRMi0tU2JmZUp4MGR6bm9nd1BwVmM2QUpCUncxQ29IZW95NHI3ZDQ3amlLWFN2dmd2NjZZRmJQVWU2dC1WTGY5UjkweDczUThr",
+  "snippet": "Boreal Gold Increases Fay Lake Property 39% by Staking in Manitoba The Globe and Mail",
+  "published": "2026-11-18T14:23:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T14:51:07.695210+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "696de267a5",
   "slug": "hauling-brokers-into-court-liability-under-montgomery-v-caribe-transpo-696de267a5",
   "title": "Hauling Brokers into Court: Liability Under Montgomery v. Caribe Transport",
@@ -90,6 +119,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "ce2e833970",
+  "slug": "fuel-prices-continue-to-drop-but-violence-in-the-strait-is-escalating-ce2e833970",
+  "title": "Fuel prices continue to drop, but violence in the strait is escalating. Will prices rise again?",
+  "orig_title": "Fuel prices continue to drop, but violence in the strait is escalating. Will prices rise again?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "FleetOwner",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXZBYmZSOFpFMjBYT3hSb2RBTnZuYVA5S3JtbVVoM3dWWE1Oa1lwV19wWV9ScVN3NXJDcHpHWE9jWFh6YWJGZEhacy1SZ0tOcGthTDBWQzRvTWFMa3Y2LW9UMk11NW1DRE16ZHBpelNSRk8zQzUtQTZaUnpDNFNreU1WLUlITUZKcjVGY1gtNHJhR01yb3lTOHRYbl9LYy16ek1HNGJFdnNXX3ozaG81RmRXZTlGbHV2LW5UVEd0TzhnTnhOLWc5SnNYOXpSUTNVNmZ6Y3RhMU5fTmt5c2NR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXZBYmZSOFpFMjBYT3hSb2RBTnZuYVA5S3JtbVVoM3dWWE1Oa1lwV19wWV9ScVN3NXJDcHpHWE9jWFh6YWJGZEhacy1SZ0tOcGthTDBWQzRvTWFMa3Y2LW9UMk11NW1DRE16ZHBpelNSRk8zQzUtQTZaUnpDNFNreU1WLUlITUZKcjVGY1gtNHJhR01yb3lTOHRYbl9LYy16ek1HNGJFdnNXX3ozaG81RmRXZTlGbHV2LW5UVEd0TzhnTnhOLWc5SnNYOXpSUTNVNmZ6Y3RhMU5fTmt5c2NR",
+  "snippet": "Fuel prices continue to drop, but violence in the strait is escalating. Will prices rise again? FleetOwner",
+  "published": "2026-11-18T14:06:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T14:51:07.695210+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "da3b07d0c8",
