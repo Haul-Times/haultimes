@@ -145,7 +145,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/pages/corporate-derby-challenge-support-heavy-duty-trucking-team-lockridge",
   "source_note": "ok · 524 words"
@@ -176,7 +176,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.truckinginfo.com/news/truck-snow-removal-fines-arent-the-only-risk",
   "source_note": "ok · 1569 words"
  },
