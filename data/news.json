@@ -1,5 +1,32 @@
 [
  {
+  "id": "1b846d3450",
+  "slug": "catching-driver-fatigue-is-one-thing-what-you-do-next-matters-just-as-1b846d3450",
+  "title": "Catching Driver Fatigue is One Thing. What You Do Next Matters Just as Much",
+  "orig_title": "Catching Driver Fatigue is One Thing. What You Do Next Matters Just as Much",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "",
+  "importance": 55,
+  "source": "Heavy Duty Trucking",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU0zNjR5VEhJZHFFN19teXdzWHViWE9ULTVzTzJKamlrbmJJcmdsd2pYc21IbUNaVUdZQlBxaUV6UjU0MEV6NFlGU2RHeUx6alJ6UllYMHcyN3VCNVNha0pRaUlsNGZLdWdHTzAzTGVSc2tUY2pZM1N2djdCTDlfVmNWTFNlSlYyMTlxVk5NODYzTGxKSXpxWVdhOW4zX2RpS3RHUnd3MjhZa1lqYXB0dGZ3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU0zNjR5VEhJZHFFN19teXdzWHViWE9ULTVzTzJKamlrbmJJcmdsd2pYc21IbUNaVUdZQlBxaUV6UjU0MEV6NFlGU2RHeUx6alJ6UllYMHcyN3VCNVNha0pRaUlsNGZLdWdHTzAzTGVSc2tUY2pZM1N2djdCTDlfVmNWTFNlSlYyMTlxVk5NODYzTGxKSXpxWVdhOW4zX2RpS3RHUnd3MjhZa1lqYXB0dGZ3",
+  "snippet": "Catching Driver Fatigue is One Thing. What You Do Next Matters Just as Much Heavy Duty Trucking",
+  "published": "2026-11-18T17:18:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T17:21:07.970789+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
+ },
+ {
   "id": "4c5bfcedf1",
   "slug": "fmcsa-computer-glitch-leaves-colorado-trucker-s-usdot-inactive-4c5bfcedf1",
   "title": "FMCSA computer glitch leaves Colorado trucker's USDOT# inactive",
@@ -84,7 +111,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/veterans-and-team-driving-how-werner-is-building-a-pipeline-around-both",
+  "source_note": "paywalled: excerpt only · 42 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "5daebf4f26",
@@ -203,7 +235,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.freightwaves.com/news/owning-the-business-not-just-the-truck",
   "source_note": "paywalled: excerpt only · 54 words"
  },

@@ -3784,7 +3784,8 @@
   "5cf64239b7": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "ec83090455": "skipped|importance 55 is below this platform's threshold (65)",
   "4c5bfcedf1": "queued|importance 67 (threshold 65), Regulations, trade publication",
-  "423316c758": "skipped|importance 55 is below this platform's threshold (65)"
+  "423316c758": "skipped|importance 55 is below this platform's threshold (65)",
+  "1b846d3450": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7571,6 +7572,13 @@
    "at": "2026-11-18T17:11:24.823274+00:00",
    "story_id": "423316c758",
    "title": "Veterans and Team Driving: How Werner Is Building a Pipeline Around Both",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T17:21:24.675092+00:00",
+   "story_id": "1b846d3450",
+   "title": "Catching Driver Fatigue is One Thing. What You Do Next Matters Just as Much",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
