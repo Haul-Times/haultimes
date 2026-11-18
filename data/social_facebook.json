@@ -2743,7 +2743,7 @@
    "source": "HaulTimes",
    "dest": "https://haultimes.com/s/diesel-2026-11-16/?utm_source=facebook&utm_medium=organic_social&utm_campaign=diesel",
    "caption": "US diesel averaged $5.94 a gallon for the week of November 16, down 19¢ from the week before, according to the US Energy Information Administration. Highest: California at $7.73. Lowest: Lower Atlantic at $5.54.\n\nIn Ontario, diesel averaged 239.7¢ a litre (week of November 16). Every state and province on the HaulTimes diesel map.\n\n#Diesel #Trucking #FuelPrices",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-17T15:01:38.734892+00:00",
    "published": "2026-11-17T15:01:38.734892+00:00",
    "score": 75,
@@ -3636,7 +3636,7 @@
   "9f6c87c542": "expired|stale before a slot opened (published 12h ago)",
   "ac60a533be": "skipped|importance 55 is below this platform's threshold (65)",
   "27332026fc": "skipped|minor item (news) or low-quality source",
-  "diesel-2026-11-16": "queued|HaulTimes update",
+  "diesel-2026-11-16": "expired|no slot opened in time",
   "9b7c99251f": "skipped|minor item (incident) or low-quality source",
   "b8de84d4b1": "skipped|importance 62 is below this platform's threshold (65)",
   "daba6fe391": "skipped|importance 55 is below this platform's threshold (65)",
@@ -7370,6 +7370,13 @@
    "title": "J.B. Hunt sees cost pressures ease, touts dedicated wins",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T15:13:53.889315+00:00",
+   "story_id": "diesel-2026-11-16",
+   "title": "Diesel prices, week of 2026-11-16",
+   "action": "expired",
+   "reason": "no slot opened in time"
   }
  ],
  "visibility": {
