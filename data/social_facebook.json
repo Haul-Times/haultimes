@@ -3722,7 +3722,8 @@
   "8ef07671a3": "skipped|importance 56 is below this platform's threshold (65)",
   "fdd7dcbf37": "skipped|minor item (news) or low-quality source",
   "3d9a2e2be3": "queued|importance 66 (threshold 65), Industry, trade publication",
-  "5abfecef3f": "skipped|importance 55 is below this platform's threshold (65)"
+  "5abfecef3f": "skipped|importance 55 is below this platform's threshold (65)",
+  "179c15e416": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7469,6 +7470,13 @@
    "title": "Surrey, B.C., staff recommend three-year permit for 32-truck lot",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T16:41:23.437881+00:00",
+   "story_id": "179c15e416",
+   "title": "CrossCountry Freight Solutions named top 10 LTL carrier in 2026 Mastio Study",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
