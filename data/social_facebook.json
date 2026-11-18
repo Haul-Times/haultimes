@@ -3593,7 +3593,9 @@
   "478c487ccd": "skipped|importance 55 is below this platform's threshold (65)",
   "2de8a29ece": "skipped|importance 55 is below this platform's threshold (65)",
   "e94181b04e": "skipped|importance 50 is below this platform's threshold (65)",
-  "04cb36269d": "skipped|importance 45 is below this platform's threshold (65)"
+  "04cb36269d": "skipped|importance 45 is below this platform's threshold (65)",
+  "a5323e9a19": "skipped|importance 61 is below this platform's threshold (65)",
+  "13d0712036": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -7214,6 +7216,20 @@
    "title": "Highway Trucking Strengthens On-Time Truckload and Expedited Freight Service for Ohio Shippers",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T13:11:21.375718+00:00",
+   "story_id": "a5323e9a19",
+   "title": "Redwood report lists 9 warning signs for shippers picking a 4PL",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T13:11:21.375718+00:00",
+   "story_id": "13d0712036",
+   "title": "Einride expands autonomous trucking operations, plans major fleet growth in 2027",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
