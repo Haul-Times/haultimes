@@ -1,5 +1,35 @@
 [
  {
+  "id": "d46767541b",
+  "slug": "over-284-out-of-service-violations-uncovered-in-latest-truck-enforceme-d46767541b",
+  "title": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes",
+  "orig_title": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 87,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHNOS01Nd3U3bkdreTFjUnhYaWNkNjZwdVZGeXV5TzFnTFFlNGlkMU5TZk9PSjFvVEtsQ3hIUW5OUUdoQnBGUlk3NXNLM0ZYbVRGbVp3c3NES2tLZkJOZ1RfNk1PaTE1T29jaktLZHF5Rzd0WDJaa1Y5RGxUNTljb3RzZGdjRGpfVnZqTld4bGw1bDhqQUtaQVFZT0M0Y2taNFl6WjhCSGZrdzd4WHhHS3ZrTGs?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHNOS01Nd3U3bkdreTFjUnhYaWNkNjZwdVZGeXV5TzFnTFFlNGlkMU5TZk9PSjFvVEtsQ3hIUW5OUUdoQnBGUlk3NXNLM0ZYbVRGbVp3c3NES2tLZkJOZ1RfNk1PaTE1T29jaktLZHF5Rzd0WDJaa1Y5RGxUNTljb3RzZGdjRGpfVnZqTld4bGw1bDhqQUtaQVFZT0M0Y2taNFl6WjhCSGZrdzd4WHhHS3ZrTGs",
+  "snippet": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes FreightWaves",
+  "published": "2026-11-18T17:25:46+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T17:31:07.083207+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Six commercial vehicles placed out of service in Ontario during enforcement blitz"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "9f6c87c542"
+ },
+ {
   "id": "1b846d3450",
   "slug": "catching-driver-fatigue-is-one-thing-what-you-do-next-matters-just-as-1b846d3450",
   "title": "Catching Driver Fatigue is One Thing. What You Do Next Matters Just as Much",
@@ -24,7 +54,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.truckinginfo.com/articles/catching-driver-fatigue-is-one-thing-what-you-do-next-matters-just-as-much",
+  "source_note": "ok · 1327 words"
  },
  {
   "id": "4c5bfcedf1",
@@ -234,7 +267,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.freightwaves.com/news/owning-the-business-not-just-the-truck",
   "source_note": "paywalled: excerpt only · 54 words"
