@@ -1,5 +1,35 @@
 [
  {
+  "id": "84e4280327",
+  "slug": "traffic-congestion-cost-trucking-128-2b-in-2024-84e4280327",
+  "title": "Traffic Congestion Cost Trucking $128.2B in 2024",
+  "orig_title": "Traffic Congestion Cost Trucking $128.2B in 2024",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "Commercial Carrier Journal",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDJCYUVCaTZmTVlqSGFOeWEwbW83Q3FqdnVKRUJQeTdYdUc1U1ViSU9aLUtBdGVXaXNrY1J5QzNHUnpBNm8tNEJDcERsUWxhMjVEdU9Pa2pHMVh4MU9vZzRJc3F3SjhqRUxWWUdGNkRxbFJDZGdNYmlXTzM2b1piVXhoeFlhdWxPdENjOXVOX3dndEN4YWNHU0NydGlteGVt?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDJCYUVCaTZmTVlqSGFOeWEwbW83Q3FqdnVKRUJQeTdYdUc1U1ViSU9aLUtBdGVXaXNrY1J5QzNHUnpBNm8tNEJDcERsUWxhMjVEdU9Pa2pHMVh4MU9vZzRJc3F3SjhqRUxWWUdGNkRxbFJDZGdNYmlXTzM2b1piVXhoeFlhdWxPdENjOXVOX3dndEN4YWNHU0NydGlteGVt",
+  "snippet": "Traffic Congestion Cost Trucking $128.2B in 2024 Commercial Carrier Journal",
+  "published": "2026-11-18T22:11:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T22:21:06.767564+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Highway congestion cost US trucking $128 billion in 2024"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "3d9a2e2be3"
+ },
+ {
   "id": "8890d57fbc",
   "slug": "toys-for-tots-car-show-brings-holiday-cheer-8890d57fbc",
   "title": "Toys for Tots Car Show Brings Holiday Cheer",
@@ -5943,7 +5973,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/new-volvo-vnx-feature-allows-out-of-cab-drivers-to-steer-truck-remotely-at-speeds-up-to-5-mph/?amp",
   "source_note": "ok · 343 words"
  },
@@ -17082,35 +17112,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "77ffa87920",
-  "slug": "overnight-parking-restrictions-return-to-london-streets-sunday-77ffa87920",
-  "title": "Overnight parking restrictions return to London streets Sunday",
-  "orig_title": "Overnight parking restrictions return to London streets Sunday",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CBC",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHRYdnMwcHY4VU1NeDZHeGpUaXlWVzl1STdKekdxdUlVREdFTEJuNjNyY1ExWmVwYWJFUVo4UzVKR2JxMk5Oc2dLQlZJeHl4bGNtekw1MGJ5UXpLWFdNc09aVnd5QkZvNXhRd2k3Wlo1NVJpelp5N2ozTU41d0lCQlFXU2RseDhFeHZwRjNhOUtsdTJ6ZjNXY2pTVHZLR24wczJkX2tYbUs2ZmFHUEdF?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHRYdnMwcHY4VU1NeDZHeGpUaXlWVzl1STdKekdxdUlVREdFTEJuNjNyY1ExWmVwYWJFUVo4UzVKR2JxMk5Oc2dLQlZJeHl4bGNtekw1MGJ5UXpLWFdNc09aVnd5QkZvNXhRd2k3Wlo1NVJpelp5N2ozTU41d0lCQlFXU2RseDhFeHZwRjNhOUtsdTJ6ZjNXY2pTVHZLR24wczJkX2tYbUs2ZmFHUEdF",
-  "snippet": "Overnight parking restrictions return to London streets Sunday CBC",
-  "published": "2026-11-14T22:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T22:19:52.428465+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",

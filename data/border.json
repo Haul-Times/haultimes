@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:11:41.731141+00:00",
+ "updated": "2026-11-18T22:21:06.607623+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 10,
-    "fast_wait": 10,
-    "lanes": "7",
+    "wait": 15,
+    "fast_wait": 15,
+    "lanes": "6",
     "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -41,7 +41,7 @@
      12,
      13,
      9,
-     10,
+     11,
      10,
      2,
      0,
@@ -67,7 +67,7 @@
      9,
      15,
      13,
-     5,
+     7,
      0,
      0,
      0,
@@ -116,7 +116,7 @@
      3,
      3,
      3,
-     8,
+     7,
      4,
      0,
      11,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:57 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:57 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 pm CST",
+    "updated": "At 6:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": 0,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 5:00 pm EST",
+    "status": "no delay",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -716,7 +716,7 @@
      0,
      0,
      0,
-     4,
+     3,
      0,
      0,
      0,
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:05:41",
+    "updated": "17:15:42",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1091,7 +1091,7 @@
      5,
      36,
      43,
-     19,
+     25,
      7,
      10,
      2,
@@ -1234,7 +1234,7 @@
      7,
      4,
      3,
-     10,
+     8,
      27,
      5,
      0,
@@ -1457,13 +1457,13 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 10,
+    "wait": 25,
     "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": 0,
-    "status": "no delay"
+    "wait": null,
+    "status": "Lanes Closed"
    },
    {
     "name": "Jackman",
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
