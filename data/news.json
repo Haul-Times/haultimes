@@ -19511,35 +19511,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "1f278c2b30",
-  "slug": "3-dead-after-suv-crashes-into-people-outside-los-angeles-metro-station-1f278c2b30",
-  "title": "3 dead after SUV crashes into people outside Los Angeles metro station",
-  "orig_title": "3 dead after SUV crashes into people outside Los Angeles metro station",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHp3M1pkWlBoZGE5cWFFc0hFd2R6b2p1WGZxTG5Yc0RFd2RzdEhPNEppNU1HSWNMVklhVDN0T0RlR2JuNlNqWGNfUERGd0luR195ek1pZUFXaHZJY3E2Uk56cWVyUUxIMUxjTWlMMFFIcE5rWmZ6azBLM3lVNW1sRGJnVVhCQUNBSTVXbTk2QUtrUQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHp3M1pkWlBoZGE5cWFFc0hFd2R6b2p1WGZxTG5Yc0RFd2RzdEhPNEppNU1HSWNMVklhVDN0T0RlR2JuNlNqWGNfUERGd0luR195ek1pZUFXaHZJY3E2Uk56cWVyUUxIMUxjTWlMMFFIcE5rWmZ6azBLM3lVNW1sRGJnVVhCQUNBSTVXbTk2QUtrUQ",
-  "snippet": "3 dead after SUV crashes into people outside Los Angeles metro station Global News",
-  "published": "2026-11-11T18:59:50+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T00:00:03.012446+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "consumer vehicle / lifestyle story"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "aba791654e",
   "slug": "the-economics-of-an-idle-trailer-where-logistics-profits-disappear-aba791654e",
   "title": "The Economics of an Idle Trailer: Where Logistics Profits Disappear",
@@ -19870,35 +19841,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/dat-van-spot-rates-rises-to-3-05-a-mile-in-october-highest-since-early-2022",
   "source_note": "ok · 575 words"
- },
- {
-  "id": "8816d280e5",
-  "slug": "man-arrested-after-alleged-bomb-threat-on-flight-bound-for-new-orleans-8816d280e5",
-  "title": "Man arrested after alleged bomb threat on flight bound for New Orleans",
-  "orig_title": "Man arrested after alleged bomb threat on flight bound for New Orleans",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGJOcE9HV0NOd1I3VTdKd1VoeS1TcHd5emRPV1BTSEFEdTR4QzF5eEJIa3djM0ZpSjBBdlNCQmJEYS1Mdm5tdHgtSU9ULThsRGJERjUtQVE1SlFHTkVQS2dLd3RnbnQxblFTc2dVS3JVVWJSSk8tUWVtSDI2d215REFxQVRNaTVOUjB4WVFwN1YwQTc5X0xtS2NrU0JpdTByNWl1OTFTOA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGJOcE9HV0NOd1I3VTdKd1VoeS1TcHd5emRPV1BTSEFEdTR4QzF5eEJIa3djM0ZpSjBBdlNCQmJEYS1Mdm5tdHgtSU9ULThsRGJERjUtQVE1SlFHTkVQS2dLd3RnbnQxblFTc2dVS3JVVWJSSk8tUWVtSDI2d215REFxQVRNaTVOUjB4WVFwN1YwQTc5X0xtS2NrU0JpdTByNWl1OTFTOA",
-  "snippet": "Man arrested after alleged bomb threat on flight bound for New Orleans Global News",
-  "published": "2026-11-11T17:20:08+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T00:00:03.012446+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "378d60a29c",

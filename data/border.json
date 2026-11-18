@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T23:51:13.019057+00:00",
- "hour_now": 18,
+ "updated": "2026-11-18T00:01:16.477525+00:00",
+ "hour_now": 19,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -118,7 +118,7 @@
      21,
      13,
      10,
-     0,
+     2,
      0,
      0,
      0,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:37 pm EST",
+    "updated": "At 6:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -294,7 +294,7 @@
      8,
      10,
      17,
-     15,
+     24,
      25,
      15,
      3,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:37 pm EST",
+    "updated": "At 6:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -369,7 +369,7 @@
      5,
      3,
      7,
-     9,
+     8,
      31,
      49,
      33,
@@ -418,7 +418,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "18:48:20",
+    "updated": "18:58:23",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -943,7 +943,7 @@
      0,
      0,
      0,
-     9,
+     7,
      1,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:48:19",
+    "updated": "18:58:22",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1093,7 +1093,7 @@
      0,
      0,
      0,
-     15,
+     13,
      53,
      55,
      44,
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "16:48:20",
+    "updated": "16:58:23",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 1 AM",
-   "best_north": "Usually fastest around 7 PM"
+   "best_north": "Usually fastest around 10 PM"
   },
   {
    "id": "sumas",
@@ -1386,7 +1386,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
