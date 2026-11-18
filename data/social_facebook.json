@@ -3588,7 +3588,8 @@
   "f1ddbaa71d": "skipped|importance 55 is below this platform's threshold (65)",
   "58ba138936": "skipped|importance 55 is below this platform's threshold (65)",
   "191ef37698": "skipped|importance 55 is below this platform's threshold (65)",
-  "7faacb4334": "skipped|importance 45 is below this platform's threshold (65)"
+  "7faacb4334": "skipped|importance 45 is below this platform's threshold (65)",
+  "a1c170361b": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7174,6 +7175,13 @@
    "title": "Shafaq News..Truck drivers, traders protest Mandali crossing closure",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T09:20:27.649486+00:00",
+   "story_id": "a1c170361b",
+   "title": "Hackers Target US Trucking Companies With Fake Freight Portals to Steal Credentials and Deploy Malware",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
