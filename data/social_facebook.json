@@ -3687,7 +3687,8 @@
   "9d10911ef3": "queued|importance 72 (threshold 65), Rates & Market, trade publication",
   "da3b07d0c8": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
   "f87d6a1439": "skipped|minor item (feature) or low-quality source",
-  "e312a26da7": "skipped|importance 60 is below this platform's threshold (65)"
+  "e312a26da7": "skipped|importance 60 is below this platform's threshold (65)",
+  "73eef295fa": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7385,6 +7386,13 @@
    "title": "Workhorse expands Canadian dealer network with Ontario’s BDS Fleet Service",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T15:31:44.768735+00:00",
+   "story_id": "73eef295fa",
+   "title": "FMCSA seeks input on using cameras in place of truck mirrors",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

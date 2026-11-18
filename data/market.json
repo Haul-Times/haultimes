@@ -1311,7 +1311,7 @@
   "value": 131.9,
   "prev": 133.3,
   "retrieved_at": "2026-11-17T12:11:27.402542+00:00",
-  "last_attempt_at": "2026-11-18T14:21:37.500567+00:00",
+  "last_attempt_at": "2026-11-18T15:31:44.456460+00:00",
   "last_error": "Statistics Canada: HTTPError: HTTP Error 403: Forbidden",
   "source_url": "https://doi.org/10.25318/1810028101-eng",
   "label": "Truck transportation [484]"
@@ -1541,7 +1541,7 @@
    }
   },
   "retrieved_at": "2026-11-17T13:21:28.638762+00:00",
-  "last_attempt_at": "2026-11-18T14:21:37.500567+00:00",
+  "last_attempt_at": "2026-11-18T15:31:44.456460+00:00",
   "last_error": "Statistics Canada fuel: HTTPError: HTTP Error 403: Forbidden",
   "source_url": "https://doi.org/10.25318/1810000101-eng"
  }
