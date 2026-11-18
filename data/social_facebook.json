@@ -3691,7 +3691,8 @@
   "73eef295fa": "skipped|importance 62 is below this platform's threshold (65)",
   "1fe359e985": "skipped|minor item (announcement) or low-quality source",
   "103b0ffbb7": "skipped|minor item (crime) or low-quality source",
-  "8ef07671a3": "skipped|importance 56 is below this platform's threshold (65)"
+  "8ef07671a3": "skipped|importance 56 is below this platform's threshold (65)",
+  "fdd7dcbf37": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -7417,6 +7418,13 @@
    "title": "ATRI: Trucking’s annual congestion costs reach $128.2B",
    "action": "skipped",
    "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T16:11:26.544847+00:00",
+   "story_id": "fdd7dcbf37",
+   "title": "Will Raising Trucking Insurance Minimums Affect Your Fleet?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
