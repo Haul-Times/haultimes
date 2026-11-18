@@ -206,6 +206,35 @@
   "sum_pending": false
  },
  {
+  "id": "86a30c2b89",
+  "slug": "with-just-18-approval-president-kast-and-chile-s-business-leaders-stay-86a30c2b89",
+  "title": "With Just 18% Approval, President Kast and Chile’s Business Leaders Stay Upbeat Amid Social Crisis",
+  "orig_title": "With Just 18% Approval, President Kast and Chile’s Business Leaders Stay Upbeat Amid Social Crisis",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Left Voice",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TnAwZndrUzM0TjJBd0RpTUZucDRodnNuN2lVZTJjRkFaRXBSZjFvOEJ5MFVnWHNzUHl4dHJxVGxwZDlsWG0zMlFNdVFEY2UzZm5RZmxST1Z0WVF6cDlaT3NmeXA3RkhWYmdTNG8wTy1BZEtHVHRr?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TnAwZndrUzM0TjJBd0RpTUZucDRodnNuN2lVZTJjRkFaRXBSZjFvOEJ5MFVnWHNzUHl4dHJxVGxwZDlsWG0zMlFNdVFEY2UzZm5RZmxST1Z0WVF6cDlaT3NmeXA3RkhWYmdTNG8wTy1BZEtHVHRr",
+  "snippet": "With Just 18% Approval, President Kast and Chile’s Business Leaders Stay Upbeat Amid Social Crisis Left Voice",
+  "published": "2026-11-18T21:45:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T23:41:02.550960+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9a5a49f65b",
   "slug": "louisiana-truckers-push-for-reforms-amid-staged-crash-trials-9a5a49f65b",
   "title": "Louisiana truckers push for reforms amid staged-crash trials",
@@ -474,7 +503,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://baynews9.com/fl/tampa/news/2026/11/18/truckers-against-trafficking-mobile-exhibit",
+  "source_note": "paywalled: excerpt only · 28 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "0ee321f1f2",
@@ -7443,7 +7477,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
   "source_note": "ok · 506 words"
