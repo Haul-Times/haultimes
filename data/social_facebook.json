@@ -3007,6 +3007,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "4c5bfcedf1": {
+   "story_id": "4c5bfcedf1",
+   "title": "FMCSA computer glitch leaves Colorado trucker's USDOT# inactive",
+   "url_key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa2d4cks1M1RXU0ljbFhqT1RxaktzVS1kbld0Y1pWemhqY1VNYWQtUXZvZ3FvTGExcXdRZ1E4Mmw5aUpSdmpHVjhWYUVUaUN3U3FKNlV5OXNtaWltc3J1OW1OLUgxbkIyVGZCN1JudXgtU3N6RkNCekowUjdnZl9NVUcycm0zay0ySnBaeWt1WWVWX1Q3LWdFR1VOZGRlMkFOUFk5Z3JKdmszc2NGbTliaWFNNG52WXBpTlB6ODg3dmVHZm9a",
+   "category": "regs",
+   "source": "overdriveonline.com",
+   "dest": "https://haultimes.com/story/fmcsa-computer-glitch-leaves-colorado-trucker-s-usdot-inactive-4c5bfcedf1/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=4c5bfcedf1",
+   "caption": "FMCSA computer glitch leaves Colorado trucker's USDOT# inactive.\n\nReported by overdriveonline. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-18T17:11:24.823274+00:00",
+   "published": "2026-11-18T17:09:46+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "FMCSA computer glitch leaves Colorado trucker's USDOT# inactive | HaulTimes",
+    "og:description": "Reported by overdriveonline.com. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/f52b02e1b5.png",
+    "og:url": "https://haultimes.com/story/fmcsa-computer-glitch-leaves-colorado-trucker-s-usdot-inactive-4c5bfcedf1/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3754,7 +3782,9 @@
   "179c15e416": "skipped|importance 50 is below this platform's threshold (65)",
   "e31650b54b": "skipped|importance 60 is below this platform's threshold (65)",
   "5cf64239b7": "queued|importance 67 (threshold 65), Regulations, trade publication",
-  "ec83090455": "skipped|importance 55 is below this platform's threshold (65)"
+  "ec83090455": "skipped|importance 55 is below this platform's threshold (65)",
+  "4c5bfcedf1": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "423316c758": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7527,6 +7557,20 @@
    "at": "2026-11-18T17:01:25.944532+00:00",
    "story_id": "ec83090455",
    "title": "Owning the Business, Not Just the Truck",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T17:11:24.823274+00:00",
+   "story_id": "4c5bfcedf1",
+   "title": "FMCSA computer glitch leaves Colorado trucker's USDOT# inactive",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-18T17:11:24.823274+00:00",
+   "story_id": "423316c758",
+   "title": "Veterans and Team Driving: How Werner Is Building a Pipeline Around Both",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
