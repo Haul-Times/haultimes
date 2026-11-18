@@ -3825,7 +3825,8 @@
   "db9d583df8": "skipped|minor item (announcement) or low-quality source",
   "6ec620b586": "skipped|minor item (announcement) or low-quality source",
   "9082e18a7a": "skipped|importance 55 is below this platform's threshold (65)",
-  "3615e968f3": "skipped|importance 45 is below this platform's threshold (65)"
+  "3615e968f3": "skipped|importance 45 is below this platform's threshold (65)",
+  "18a2d80e16": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7705,6 +7706,13 @@
    "title": "ELD Snitching Controversy, C.H. Robinson Profits & Texas Trucking Laws",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T19:31:28.495629+00:00",
+   "story_id": "18a2d80e16",
+   "title": "Trucking Economy in 2024: A K-Shape Threatens Consumer Demand",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

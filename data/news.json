@@ -58,7 +58,44 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.manilatimes.net/2026/11/19/tmt-newswire/globenewswire/graypool-introduces-exchange-letting-truckload-carriers-bid-and-accept-freight-backed-by-each-others-trucks/2473499",
+  "source_note": "paywalled: excerpt only · 15 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "18a2d80e16",
+  "slug": "trucking-economy-in-2024-a-k-shape-threatens-consumer-demand-18a2d80e16",
+  "title": "Trucking Economy in 2024: A K-Shape Threatens Consumer Demand",
+  "orig_title": "Trucking Economy in 2024: A K-Shape Threatens Consumer Demand",
+  "summary": "",
+  "why": "",
+  "category": "rates",
+  "region": "",
+  "importance": 55,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1lRcWJYSkNfLUYxdFpGeHRLMHBjNVlmM0tXYTM0TE82T1FVbTRHT0RIdGdkSUdvZ211OGxfQjF6Sng4ck1GZVhOM0c2OHNaN0xPUGVvWGhSLXkxZE9iZFlPNjQxQUtON2hyQTZnNm1teUVCQzNFc2s1VTREMDdHY3ViWVU5QVp4TTNkOVltM2JJZ1RNckI5cENn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1lRcWJYSkNfLUYxdFpGeHRLMHBjNVlmM0tXYTM0TE82T1FVbTRHT0RIdGdkSUdvZ211OGxfQjF6Sng4ck1GZVhOM0c2OHNaN0xPUGVvWGhSLXkxZE9iZFlPNjQxQUtON2hyQTZnNm1teUVCQzNFc2s1VTREMDdHY3ViWVU5QVp4TTNkOVltM2JJZ1RNckI5cENn",
+  "snippet": "Trucking Economy in 2024: A K-Shape Threatens Consumer Demand FreightWaves",
+  "published": "2026-11-18T18:58:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T19:31:07.558032+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/trucking-economy-in-2024-a-k-shape-threatens-consumer-demand",
+  "source_note": "paywalled: excerpt only · 18 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "a1d761f58e",
@@ -85,8 +122,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
-  "sum_tries": 1
+  "sum_pending": false,
+  "sum_tries": 2,
+  "pub_url": "https://www.freightwaves.com/news/diesel-are-sky-high-prices-finally-over",
+  "source_note": "paywalled: excerpt only · 24 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "c7dbd2f0a4",
@@ -1242,7 +1283,10 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/trucking-hub-launches-new-platform-for-instant-motor-vehicle-records",
+  "source_note": "ok · 211 words"
  },
  {
   "id": "103b0ffbb7",
