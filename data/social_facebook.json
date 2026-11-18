@@ -3822,7 +3822,8 @@
   "88c5a6a00e": "skipped|importance 57 is below this platform's threshold (65)",
   "c7dbd2f0a4": "skipped|importance 55 is below this platform's threshold (65)",
   "a1d761f58e": "skipped|minor item (news) or low-quality source",
-  "db9d583df8": "skipped|minor item (announcement) or low-quality source"
+  "db9d583df8": "skipped|minor item (announcement) or low-quality source",
+  "6ec620b586": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -7679,6 +7680,13 @@
    "at": "2026-11-18T19:01:24.520851+00:00",
    "story_id": "db9d583df8",
    "title": "Trucking Hub launches new platform for instant motor vehicle records",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T19:11:16.336303+00:00",
+   "story_id": "6ec620b586",
+   "title": "Graypool Introduces Exchange, Letting Truckload Carriers Bid and Accept Freight Backed by Each Other’s Trucks",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
   }
