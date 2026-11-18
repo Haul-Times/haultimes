@@ -3341,6 +3341,38 @@
   "sum_pending": false
  },
  {
+  "id": "e8a70e71cd",
+  "slug": "ata-unveils-roadmap-to-strengthen-eld-integrity-combat-fraud-e8a70e71cd",
+  "title": "ATA unveils roadmap to strengthen ELD integrity, combat fraud",
+  "orig_title": "ATA unveils roadmap to strengthen ELD integrity, combat fraud",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 40,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0t6VGZKdzhERmVEbjZCTWxuc21NY0tRUkdLMVlYNy1iaG1hX0o1TjNkM09HYmxidWg0dm1NZTZCZWQ3cGt1RjRKaExwQW92eGp5YkkzeG9VWkNEUHhzTktCYW0xZDJyUy12SVlLZHpycnY3Q0ROSk9UdlZDR0RQQkdiQmdZdW12dDhpQUlRM2V2WE9wNkktS1dNZ0s2ZllTTkoxaDhrMVViMThtc0xJ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0t6VGZKdzhERmVEbjZCTWxuc21NY0tRUkdLMVlYNy1iaG1hX0o1TjNkM09HYmxidWg0dm1NZTZCZWQ3cGt1RjRKaExwQW92eGp5YkkzeG9VWkNEUHhzTktCYW0xZDJyUy12SVlLZHpycnY3Q0ROSk9UdlZDR0RQQkdiQmdZdW12dDhpQUlRM2V2WE9wNkktS1dNZ0s2ZllTTkoxaDhrMVViMThtc0xJ",
+  "snippet": "ATA unveils roadmap to strengthen ELD integrity, combat fraud TheTrucker.com",
+  "published": "2026-11-17T14:28:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T08:41:12.373826+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: ATA proposes 6 steps to help FMCSA combat ELD fraud"
+  ],
+  "labels": [
+   "Company announcement"
+  ],
+  "kind": "announcement",
+  "sum_pending": false,
+  "dup_of": "34b43b0666"
+ },
+ {
   "id": "5add930a46",
   "slug": "dot-transportation-honors-mt-sterling-roots-5add930a46",
   "title": "Dot Transportation honors Mt. Sterling roots",
@@ -3977,12 +4009,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: ATA proposes 6 steps to help FMCSA combat ELD fraud"
+   "same story as: How ATA Wants to Fix ELD Certification"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "34b43b0666"
+  "dup_of": "a812fcb144"
  },
  {
   "id": "2a2b102a25",

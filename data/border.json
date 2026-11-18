@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:31:06.212876+00:00",
+ "updated": "2026-11-18T08:41:12.083883+00:00",
  "hour_now": 3,
  "have_us": true,
  "have_ca": true,
@@ -27,7 +27,7 @@
      9,
      6,
      7,
-     11,
+     12,
      22,
      15,
      1,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 13,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 3:17 am EST",
+    "updated": "At 3:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -252,7 +252,7 @@
      1,
      7,
      0,
-     2,
+     3,
      0,
      2,
      0,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:17 am EST",
+    "updated": "At 3:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:29:25",
+    "updated": "03:39:27",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:29:25",
+    "updated": "03:39:27",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "03:29:25",
+    "updated": "03:39:27",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:29:25",
+    "updated": "02:39:27",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1203,24 +1203,24 @@
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:29:25",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 1:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-18 01:20 MDT"
+    "updated": "2026-11-18 02:31 MDT"
    },
    "usual": {
     "south": [
      6,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:29:25",
+    "updated": "00:39:27",
     "hours": "24 hrs/day"
    },
    "north": {
