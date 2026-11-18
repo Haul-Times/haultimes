@@ -1,5 +1,34 @@
 [
  {
+  "id": "e0fa0236ce",
+  "slug": "jungheinrich-targets-warehouse-efficiency-with-tailored-automation-e0fa0236ce",
+  "title": "Jungheinrich targets warehouse efficiency with tailored automation",
+  "orig_title": "Jungheinrich targets warehouse efficiency with tailored automation",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "mhdsupplychain.com.au",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUNuajZDUjhkX05wcDNXekR5UUlJTTJKa3FuQXVockxOcDk5SzhmMDY2cUxUM0txOWotcWpXcXh1UEFHbkVoTmNBZXNZVUo3M1pEdFJ5cHEzaEZrTzJmcHAyLXBKUHl1WFp3ZXJkVFNFU25kT1gwdE5GZmh0RW9FMkh4cGJxQ0E0NUd6RGJrQnZDQWtCTVJ5dGh2Zm5lcUFOOTYtTzlkUUxmZ20y?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUNuajZDUjhkX05wcDNXekR5UUlJTTJKa3FuQXVockxOcDk5SzhmMDY2cUxUM0txOWotcWpXcXh1UEFHbkVoTmNBZXNZVUo3M1pEdFJ5cHEzaEZrTzJmcHAyLXBKUHl1WFp3ZXJkVFNFU25kT1gwdE5GZmh0RW9FMkh4cGJxQ0E0NUd6RGJrQnZDQWtCTVJ5dGh2Zm5lcUFOOTYtTzlkUUxmZ20y",
+  "snippet": "Jungheinrich targets warehouse efficiency with tailored automation mhdsupplychain.com.au",
+  "published": "2026-11-18T23:13:07+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T23:21:03.289825+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ae4f6f6cdb",
   "slug": "highway-s-insurance-agency-group-membership-for-a-hefty-fee-ae4f6f6cdb",
   "title": "Highway's insurance agency group: Membership for a hefty fee",
@@ -7386,7 +7415,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
   "source_note": "ok · 506 words"
  },
