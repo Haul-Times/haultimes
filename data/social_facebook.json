@@ -3818,7 +3818,8 @@
   "6094eee181": "skipped|importance 55 is below this platform's threshold (65)",
   "301024bec6": "skipped|importance 55 is below this platform's threshold (65)",
   "f2ebd566e7": "skipped|importance 55 is below this platform's threshold (65)",
-  "e02a7f096a": "skipped|importance 55 is below this platform's threshold (65)"
+  "e02a7f096a": "skipped|importance 55 is below this platform's threshold (65)",
+  "88c5a6a00e": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7649,6 +7650,13 @@
    "title": "Trucker Bathroom Access Act Clears Key Hurdle",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T18:51:17.022380+00:00",
+   "story_id": "88c5a6a00e",
+   "title": "Oregon logging union calls on Kotek, lawmakers to address high diesel prices",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
