@@ -3862,7 +3862,8 @@
   "a4bdce8ace": "skipped|importance 55 is below this platform's threshold (65)",
   "161dbfb21f": "skipped|importance 60 is below this platform's threshold (65)",
   "73b332d7fd": "skipped|minor item (news) or low-quality source",
-  "8b41eb3a27": "skipped|importance 50 is below this platform's threshold (65)"
+  "8b41eb3a27": "skipped|importance 50 is below this platform's threshold (65)",
+  "abf7589eca": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -7805,6 +7806,13 @@
    "title": "Highway charging insurers six figures to join Certified Insurance Agency network: Sources",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T21:21:26.253892+00:00",
+   "story_id": "abf7589eca",
+   "title": "Samsara Adds Equipment Maintenance Tools, 360-Degree Camera for Yard Operations",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
