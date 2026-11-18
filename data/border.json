@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T10:51:05.192753+00:00",
- "hour_now": 5,
+ "updated": "2026-11-18T11:01:10.608005+00:00",
+ "hour_now": 6,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -30,7 +30,7 @@
      13,
      24,
      23,
-     1,
+     5,
      0,
      0,
      0,
@@ -86,10 +86,10 @@
    "region": "on-mi",
    "south": {
     "wait": 0,
-    "fast_wait": null,
-    "lanes": "4",
+    "fast_wait": 0,
+    "lanes": "5",
     "status": "no delay",
-    "updated": "At 5:00 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:37 am EST",
+    "updated": "At 5:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 16,
+    "wait": 17,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 5:37 am EST",
+    "updated": "At 5:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -330,7 +330,7 @@
      1,
      1,
      5,
-     7,
+     8,
      3,
      0,
      0,
@@ -405,7 +405,7 @@
      null,
      null,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:49:45",
+    "updated": "05:59:47",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "05:49:45",
+    "updated": "05:59:47",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:49:45",
+    "updated": "04:59:47",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 am MST",
+    "updated": "At 4:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1223,7 +1223,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:49:45",
+    "updated": "02:59:47",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1373,7 +1373,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      0,
      0,
