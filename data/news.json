@@ -18211,35 +18211,6 @@
   "source_note": "ok · 853 words"
  },
  {
-  "id": "a953357faa",
-  "slug": "kimberly-powell-a953357faa",
-  "title": "Kimberly Powell",
-  "orig_title": "Kimberly Powell",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05Y25vM2JEbUxxZ0RLWjNMd3p4TGdHdjQ2MVVVVW5OekVMN0ZoVHJnalo5TksyUGV1ZWhxcW9vLWdZOTBpRWZtTTJSN2UycjRYaWt4WA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05Y25vM2JEbUxxZ0RLWjNMd3p4TGdHdjQ2MVVVVW5OekVMN0ZoVHJnalo5TksyUGV1ZWhxcW9vLWdZOTBpRWZtTTJSN2UycjRYaWt4WA",
-  "snippet": "Kimberly Powell Global News",
-  "published": "2026-11-12T13:33:35+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T01:51:06.358376+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "ad19bdd97b",
   "slug": "one-of-3-ratings-agencies-now-has-xpo-as-investment-grade-ad19bdd97b",
   "title": "One of 3 ratings agencies now has XPO as investment-grade",
@@ -20781,35 +20752,6 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 40
- },
- {
-  "id": "e8def70d38",
-  "slug": "two-blocks-from-the-white-house-e8def70d38",
-  "title": "Two Blocks from the White House",
-  "orig_title": "Two Blocks from the White House",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CBC",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0I5SnJnVHJQaFBDRVFPclVKeW1ob2wtRW40N1Vab2RXN2l1dmt2VFg4QW1vWGRzUVdVdDFhZGtTejVnbjRNS1FMbVNKNi1QTE1yZ0Z5WXE3cWNXVmE2Vlk1YmpZVzJsbXhObUp5RnhRdDNua1ZsaDN1N21jWU1QZg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0I5SnJnVHJQaFBDRVFPclVKeW1ob2wtRW40N1Vab2RXN2l1dmt2VFg4QW1vWGRzUVdVdDFhZGtTejVnbjRNS1FMbVNKNi1QTE1yZ0Z5WXE3cWNXVmE2Vlk1YmpZVzJsbXhObUp5RnhRdDNua1ZsaDN1N21jWU1QZg",
-  "snippet": "Two Blocks from the White House CBC",
-  "published": "2026-11-11T08:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T01:51:06.358376+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "e49465e832",
