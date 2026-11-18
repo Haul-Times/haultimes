@@ -83,7 +83,12 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/articles/louisiana-staged-crash-reform",
+  "source_note": "excerpt only · 20 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "00c7088db8",
@@ -765,7 +770,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.fleetequipmentmag.com/samsara-for-equipment-maintenance-360-camera/",
   "source_note": "ok · 470 words"
@@ -7293,7 +7298,11 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "e8a70e71cd",
