@@ -1,5 +1,32 @@
 [
  {
+  "id": "e02a7f096a",
+  "slug": "trucker-bathroom-access-act-clears-key-hurdle-e02a7f096a",
+  "title": "Trucker Bathroom Access Act Clears Key Hurdle",
+  "orig_title": "Trucker Bathroom Access Act Clears Key Hurdle",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "American Trucking Associations",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOGFUcVQxUVB1czRTM0NYaWdIS0tPTXNkVnZhT2VhYmlUNERFMm84OUg5VHB2ZHFPYmlMdXg3cjk4YVhzaDk3T3ZfeTRpRHZLam1JaWprbFczS3VUSjdoUWZjM3hIeUE5ZUdZMmozd3cyR05mV2kzakJEQ1I5Wk9nOEJTcExJbjFqanpuUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOGFUcVQxUVB1czRTM0NYaWdIS0tPTXNkVnZhT2VhYmlUNERFMm84OUg5VHB2ZHFPYmlMdXg3cjk4YVhzaDk3T3ZfeTRpRHZLam1JaWprbFczS3VUSjdoUWZjM3hIeUE5ZUdZMmozd3cyR05mV2kzakJEQ1I5Wk9nOEJTcExJbjFqanpuUQ",
+  "snippet": "Trucker Bathroom Access Act Clears Key Hurdle American Trucking Associations",
+  "published": "2026-11-18T18:03:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T18:11:07.356479+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
+ },
+ {
   "id": "301024bec6",
   "slug": "corporate-derby-challenge-support-heavy-duty-trucking-team-lockridge-301024bec6",
   "title": "Corporate Derby Challenge: Support Heavy Duty Trucking Team Lockridge",
@@ -24,7 +51,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.truckinginfo.com/pages/corporate-derby-challenge-support-heavy-duty-trucking-team-lockridge",
+  "source_note": "ok · 524 words"
  },
  {
   "id": "f2ebd566e7",
@@ -206,6 +236,35 @@
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/articles/catching-driver-fatigue-is-one-thing-what-you-do-next-matters-just-as-much",
   "source_note": "ok · 1327 words"
+ },
+ {
+  "id": "c612f26d64",
+  "slug": "family-of-ecuadorian-killed-in-new-york-building-collapse-receives-his-c612f26d64",
+  "title": "Family of Ecuadorian killed in New York building collapse receives his remains",
+  "orig_title": "Family of Ecuadorian killed in New York building collapse receives his remains",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "thecanadianpressnews.ca",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeFdpbG8zWGhHUHRiUllaenFmdy0xTXdqU1p5RjRwcFhVZ051aFVwY3ZBcEVMcEN4dndYQXE5ZG5FclZjS3UzS09QWlNUSE9yTnlXSXJjRVRUVDloUEMxYXdBOGV1V3FKVXBGczg5anZobVBlWm54TWs5Vnp5MXcwZ1JUNEc2SkliTEppZ0tIb2hkYnF0aFkzQWhYcjBNSm11S1I4U1l1LW8wLTlqSzhFNXlNT3hFQlRYcGgwSXBqdzAxX0J1SEpDTVYyMFpsX0wtSzRIQy1zNGxDWWFrcW11Sldkajk4U0RRVXZOakNmSHliV3hGeWo4RFpWZ3JyOGc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeFdpbG8zWGhHUHRiUllaenFmdy0xTXdqU1p5RjRwcFhVZ051aFVwY3ZBcEVMcEN4dndYQXE5ZG5FclZjS3UzS09QWlNUSE9yTnlXSXJjRVRUVDloUEMxYXdBOGV1V3FKVXBGczg5anZobVBlWm54TWs5Vnp5MXcwZ1JUNEc2SkliTEppZ0tIb2hkYnF0aFkzQWhYcjBNSm11S1I4U1l1LW8wLTlqSzhFNXlNT3hFQlRYcGgwSXBqdzAxX0J1SEpDTVYyMFpsX0wtSzRIQy1zNGxDWWFrcW11Sldkajk4U0RRVXZOakNmSHliV3hGeWo4RFpWZ3JyOGc",
+  "snippet": "Family of Ecuadorian killed in New York building collapse receives his remains thecanadianpressnews.ca",
+  "published": "2026-11-18T17:13:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T18:11:07.356479+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4c5bfcedf1",
@@ -5660,6 +5719,35 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "bcf1b22339",
+  "slug": "president-trump-s-immigration-policies-are-saving-american-lives-bcf1b22339",
+  "title": "President Trump’s Immigration Policies Are Saving American Lives",
+  "orig_title": "President Trump’s Immigration Policies Are Saving American Lives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "EIN News",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlJwSW5SeFZySFZUczVNbGRNVzExWU12VzBIQ05KcmZTUmM0R2tSZlEtWEFUVjNLVEFzWjlEeXZCT09GY3RwMWpqclo3cGhPZjNEMTdpNU45WlFzMEhfLWhKV0JnYVdTWVpQMVV5dl9RcUFwSEg0clctZ1ZnNUxKc2ZaWnRnSHBWbjFzaW9PMW9JZmNzaHdNbEtZVGNpRjRIUkpKczkxWXdaRTZUTXF2VGF6bw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlJwSW5SeFZySFZUczVNbGRNVzExWU12VzBIQ05KcmZTUmM0R2tSZlEtWEFUVjNLVEFzWjlEeXZCT09GY3RwMWpqclo3cGhPZjNEMTdpNU45WlFzMEhfLWhKV0JnYVdTWVpQMVV5dl9RcUFwSEg0clctZ1ZnNUxKc2ZaWnRnSHBWbjFzaW9PMW9JZmNzaHdNbEtZVGNpRjRIUkpKczkxWXdaRTZUTXF2VGF6bw",
+  "snippet": "President Trump’s Immigration Policies Are Saving American Lives EIN News",
+  "published": "2026-11-17T15:15:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T18:11:07.356479+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",

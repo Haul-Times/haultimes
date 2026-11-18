@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:01:05.829760+00:00",
+ "updated": "2026-11-18T18:11:07.183057+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
-    "fast_wait": 5,
+    "wait": 15,
+    "fast_wait": 15,
     "lanes": "5",
-    "status": "no delay",
-    "updated": "At Noon EST",
+    "status": "delay",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -37,7 +37,7 @@
      0,
      0,
      5,
-     4,
+     5,
      0,
      0,
      0,
@@ -63,7 +63,7 @@
      9,
      13,
      20,
-     6,
+     11,
      0,
      0,
      0,
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 12,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 12:47 pm EST",
+    "status": "no delay",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-18 12:40 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-18 13:00 EST"
    },
    "usual": {
     "south": [
@@ -288,7 +288,7 @@
      3,
      5,
      3,
-     6,
+     5,
      5,
      13,
      7,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:47 pm EST",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 1,
     "status": "1 minute",
-    "updated": "2026-11-18 12:40 EST"
+    "updated": "2026-11-18 13:00 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:00:15",
+    "updated": "13:10:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1087,7 +1087,7 @@
      6,
      4,
      4,
-     8,
+     7,
      12,
      8,
      0,
@@ -1230,7 +1230,7 @@
      13,
      8,
      6,
-     13,
+     11,
      15,
      15,
      15,
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-18 10:40 PDT"
+    "updated": "2026-11-18 11:00 PDT"
    },
    "usual": {
     "south": [
@@ -1305,7 +1305,7 @@
      11,
      2,
      7,
-     3,
+     5,
      0,
      0,
      0,
@@ -1331,7 +1331,7 @@
      5,
      7,
      5,
-     7,
+     6,
      14,
      10,
      13,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-18 10:40 PDT"
+    "updated": "2026-11-18 11:00 PDT"
    },
    "usual": {
     "south": [
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 5,
-    "status": "5 minutes"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Aldergrove",
