@@ -1,5 +1,35 @@
 [
  {
+  "id": "35e00f9d9c",
+  "slug": "truck-driver-arrested-in-quebec-highway-crash-that-killed-a-mother-and-35e00f9d9c",
+  "title": "Truck driver arrested in Quebec highway crash that killed a mother and son last year",
+  "orig_title": "Truck driver arrested in Quebec highway crash that killed a mother and son last year",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 5,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEhLSU5BQTl2Njk1TlljaUc5MmdKdmxQaFdQN1g4VjdseGFOWmxwM0JJQy1MenRQQWwxYUpTbFBZSThGTWJGVnFRV0R1S3dYWTNGTzFvZExDM1d0SEtVd0pXbTJtNGpaejVxUXdidVZGeWxuZlB5WVphZjhUMzVDYWVETnlobzF1bkRxZTJlQ1R3Tm0yM2Z5S2NTeWc0TmVJMEIw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEhLSU5BQTl2Njk1TlljaUc5MmdKdmxQaFdQN1g4VjdseGFOWmxwM0JJQy1MenRQQWwxYUpTbFBZSThGTWJGVnFRV0R1S3dYWTNGTzFvZExDM1d0SEtVd0pXbTJtNGpaejVxUXdidVZGeWxuZlB5WVphZjhUMzVDYWVETnlobzF1bkRxZTJlQ1R3Tm0yM2Z5S2NTeWc0TmVJMEIw",
+  "snippet": "Truck driver arrested in Quebec highway crash that killed a mother and son last year CBC",
+  "published": "2026-11-18T18:18:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T18:30:03.918111+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Truck driver arrested after fatal Highway 30 collision that killed mother, son"
+  ],
+  "labels": [],
+  "kind": "crime",
+  "sum_pending": false,
+  "dup_of": "103b0ffbb7"
+ },
+ {
   "id": "a0bdc5a48f",
   "slug": "highway-congestion-costs-trucking-industry-over-120-billion-for-3rd-st-a0bdc5a48f",
   "title": "Highway congestion costs trucking industry over $120 billion for 3rd straight year; causes 1.24 billion hours of delay",
@@ -116,7 +146,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/pages/corporate-derby-challenge-support-heavy-duty-trucking-team-lockridge",
   "source_note": "ok · 524 words"
  },
