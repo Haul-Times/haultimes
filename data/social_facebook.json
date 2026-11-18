@@ -3857,7 +3857,9 @@
   "18a2d80e16": "skipped|importance 55 is below this platform's threshold (65)",
   "5159710835": "queued|importance 73 (threshold 65), Rates & Market, trade publication",
   "39fb3ffe82": "skipped|minor item (news) or low-quality source",
-  "571019ebe0": "skipped|importance 61 is below this platform's threshold (65)"
+  "571019ebe0": "skipped|importance 61 is below this platform's threshold (65)",
+  "0ee321f1f2": "skipped|importance 55 is below this platform's threshold (65)",
+  "a4bdce8ace": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7765,6 +7767,20 @@
    "title": "AI for Logistics: Why 81% of AI Projects Fail",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T20:11:25.695839+00:00",
+   "story_id": "0ee321f1f2",
+   "title": "From more footage to more focus: Find your fleet’s videosafety stage",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T20:11:25.695839+00:00",
+   "story_id": "a4bdce8ace",
+   "title": "Why Truckload Rates Feel Disappointing Despite Strong Numbers",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
