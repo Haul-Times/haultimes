@@ -3583,7 +3583,8 @@
   "c748575e1b": "skipped|importance 55 is below this platform's threshold (65)",
   "8ab31682bc": "skipped|importance 45 is below this platform's threshold (65)",
   "9237874185": "skipped|importance 55 is below this platform's threshold (65)",
-  "1ec12a7da7": "skipped|importance 57 is below this platform's threshold (65)"
+  "1ec12a7da7": "skipped|importance 57 is below this platform's threshold (65)",
+  "6a23b08552": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -7099,6 +7100,13 @@
    "title": "US cargo theft falls 8% in Q3 as truck stop incidents nearly triple",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-18T00:31:31.677477+00:00",
+   "story_id": "6a23b08552",
+   "title": "California Has Laws to Keep Killer Truckers Off the Road. Why Aren't They Enforced?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
