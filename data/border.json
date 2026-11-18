@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T21:51:05.886181+00:00",
- "hour_now": 16,
+ "updated": "2026-11-18T22:01:05.130614+00:00",
+ "hour_now": 17,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -67,7 +67,7 @@
      9,
      15,
      13,
-     0,
+     3,
      0,
      0,
      0,
@@ -116,7 +116,7 @@
      3,
      3,
      3,
-     12,
+     9,
      4,
      0,
      11,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:37 pm EST",
+    "updated": "At 4:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -292,7 +292,7 @@
      3,
      5,
      7,
-     4,
+     5,
      5,
      9,
      6,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:37 pm EST",
+    "updated": "At 4:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -416,7 +416,7 @@
      0,
      0,
      0,
-     null,
+     0,
      0,
      0,
      0,
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": 0,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "lanes": "2",
+    "status": "delay",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -716,7 +716,7 @@
      0,
      0,
      0,
-     0,
+     2,
      0,
      0,
      0,
@@ -791,7 +791,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:45:40",
+    "updated": "16:55:40",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1091,7 +1091,7 @@
      5,
      36,
      43,
-     0,
+     11,
      7,
      10,
      2,
@@ -1234,7 +1234,7 @@
      7,
      4,
      3,
-     15,
+     12,
      27,
      5,
      0,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 1:00 pm PST",
+    "updated": "At 3:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1335,7 +1335,7 @@
      11,
      6,
      18,
-     7,
+     9,
      9,
      7,
      7,
