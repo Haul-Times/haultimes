@@ -1,5 +1,34 @@
 [
  {
+  "id": "7a7d7faeb9",
+  "slug": "final-mile-delivery-costs-rising-three-times-faster-than-inflation-geo-7a7d7faeb9",
+  "title": "Final-mile delivery costs rising three times faster than inflation: Geodis",
+  "orig_title": "Final-mile delivery costs rising three times faster than inflation: Geodis",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjBmc3EtWjBOc0ZiZkJuZURMSW9TaWVDZ0g1UFgzcG9DWC11QWwzM2J5SWh2NVpEM2I2OGhJdlh3TUFWNldlcXNVV2tfQllwNVFJMklxMjJxX21DeDY1dXgzakgxZ0pMdUJ2cVlMaEg1cjRRcTBjVFdXZXlFb2d4N1RucDVWZ25QaTBLdVo4MW9EMTVPV1ZrRmdMQzlxLURQVDZfVGo1RFFzTnVNVFVrNk84d1VNbTJ4MEhjYTUtaXBsZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjBmc3EtWjBOc0ZiZkJuZURMSW9TaWVDZ0g1UFgzcG9DWC11QWwzM2J5SWh2NVpEM2I2OGhJdlh3TUFWNldlcXNVV2tfQllwNVFJMklxMjJxX21DeDY1dXgzakgxZ0pMdUJ2cVlMaEg1cjRRcTBjVFdXZXlFb2d4N1RucDVWZ25QaTBLdVo4MW9EMTVPV1ZrRmdMQzlxLURQVDZfVGo1RFFzTnVNVFVrNk84d1VNbTJ4MEhjYTUtaXBsZw",
+  "snippet": "Final-mile delivery costs rising three times faster than inflation: Geodis Truck News",
+  "published": "2026-11-18T15:40:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T15:51:10.657147+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "1fe359e985",
   "slug": "geotab-adds-ai-powered-fatigue-detection-driver-coaching-tools-1fe359e985",
   "title": "Geotab adds AI-powered fatigue detection, driver coaching tools",
@@ -65,42 +94,17 @@
   "sum_status": "withheld",
   "source_fp": "3dd77074771cecbf",
   "source_scope": "full_article",
-  "sum_at": "2026-11-18T15:41:07.064943+00:00",
-  "sum_version": 2,
+  "sum_at": "2026-11-18T15:51:10.657147+00:00",
+  "sum_version": 3,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "The driver of a semi-trailer truck has been arrested"
-   },
-   {
-    "sentence": "2",
-    "quote": "two counts of dangerous driving causing death"
-   },
-   {
-    "sentence": "3",
-    "quote": "took the lives of Tanya Lalonde, 34, and Elliot, 5"
-   },
-   {
-    "sentence": "4",
-    "quote": "the semi-trailer truck never slowed down before the impact"
-   },
-   {
-    "sentence": "5",
-    "quote": "allegedly told a paramedic on site that he was distracted"
-   },
-   {
-    "sentence": "6",
-    "quote": "A public inquiry, led by Coroner Dave Kimpton"
-   }
-  ],
+  "sum_evidence": [],
   "sum_problems": [
-   "name 'Quebec' is not in the source",
-   "copies a 12-word run from the source: 'two counts of dangerous driving causing death and one count of dangero'"
+   "your answer could not be read as complete JSON (max_tokens: ); answer with the JSON object only, keep evidence quotes short"
   ],
-  "ai_importance": 50,
+  "ai_importance": 5,
   "sum_v4": true,
-  "ai_category": "drivers"
+  "ai_category": "drivers",
+  "sum_v3": true
  },
  {
   "id": "73eef295fa",
@@ -2279,6 +2283,37 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "264f4195df",
+  "slug": "ease-logistics-looks-to-expand-use-of-autonomous-trucks-264f4195df",
+  "title": "Ease Logistics looks to expand use of autonomous trucks",
+  "orig_title": "Ease Logistics looks to expand use of autonomous trucks",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "",
+  "importance": 55,
+  "source": "Trucking Dive",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUk2VXB1clZ6S0VaenNGUklWaHBnbkd5ankzRjczaWpyUEhHbm5VT216MndJN3RMaVBwSG44S09OaVBWaFM2amxVMHY0MHRaT0J2LTE3N1JNTTFORU16V2tlNjhwX2g2SjJKcDl0a3dvT09jZTFRZTQzQ21YMU8ydjdodkl3ZVY2MWVCeFdtVkF2aHMwMVRYdnlxTEFwUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUk2VXB1clZ6S0VaenNGUklWaHBnbkd5ankzRjczaWpyUEhHbm5VT216MndJN3RMaVBwSG44S09OaVBWaFM2amxVMHY0MHRaT0J2LTE3N1JNTTFORU16V2tlNjhwX2g2SjJKcDl0a3dvT09jZTFRZTQzQ21YMU8ydjdodkl3ZVY2MWVCeFdtVkF2aHMwMVRYdnlxTEFwUQ",
+  "snippet": "Ease Logistics looks to expand use of autonomous trucks Trucking Dive",
+  "published": "2026-11-17T22:31:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T15:51:10.657147+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "2482108fbf",
