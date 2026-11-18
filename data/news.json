@@ -1,5 +1,34 @@
 [
  {
+  "id": "00c7088db8",
+  "slug": "over-200-women-targeted-for-jobs-and-training-in-ghana-s-mining-transp-00c7088db8",
+  "title": "Over 200 women targeted for jobs and training in Ghana’s mining transport sector",
+  "orig_title": "Over 200 women targeted for jobs and training in Ghana’s mining transport sector",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "3News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTBYcDBIZDRPSFRnZXRfMkFsajlzSjRRajVYYXlETWh0ZDBKbU1xYTRQOTg4VkFEbXgxNk1VeVJmMm8wWGlnem0xd0JUZndTSms1Zl9wYTk4R1VIVXZCeDZkTmN5VkNOeEwzcXFRcFE1RE8xTnZBVGxWQW9tSXVQa1dOSGk4NjBiYXR6RVdKS1lWcXBIcVEwaDdVYUZSbVNqWjV2Xw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTBYcDBIZDRPSFRnZXRfMkFsajlzSjRRajVYYXlETWh0ZDBKbU1xYTRQOTg4VkFEbXgxNk1VeVJmMm8wWGlnem0xd0JUZndTSms1Zl9wYTk4R1VIVXZCeDZkTmN5VkNOeEwzcXFRcFE1RE8xTnZBVGxWQW9tSXVQa1dOSGk4NjBiYXR6RVdKS1lWcXBIcVEwaDdVYUZSbVNqWjV2Xw",
+  "snippet": "Over 200 women targeted for jobs and training in Ghana’s mining transport sector 3News",
+  "published": "2026-11-18T21:13:24+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T21:31:08.483706+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8b41eb3a27",
   "slug": "highway-charging-insurers-six-figures-to-join-certified-insurance-agen-8b41eb3a27",
   "title": "Highway charging insurers six figures to join Certified Insurance Agency network: Sources",
@@ -591,7 +620,7 @@
   ],
   "kind": "announcement",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.fleetequipmentmag.com/samsara-for-equipment-maintenance-360-camera/",
   "source_note": "ok · 470 words"
  },
@@ -7418,6 +7447,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "a812fcb144"
+ },
+ {
+  "id": "c042a9dc19",
+  "slug": "airgain-lighthouse-solves-challenging-5g-coverage-gap-at-major-u-s-foo-c042a9dc19",
+  "title": "Airgain Lighthouse Solves Challenging 5G Coverage Gap at Major U.S. Food Distribution Warehouse",
+  "orig_title": "Airgain Lighthouse Solves Challenging 5G Coverage Gap at Major U.S. Food Distribution Warehouse",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Business Wire",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTdPRHQzbDF6VzBxWnJuak01OEN5T2RFR3JvSDc1RzdicHlOQzRUTW1QdGxfRnM1RHJkMlM4cGFQSzJJUm43VnF2a3kyVXdoclkwamlIWEViTm9nU2x3MFN0LXhXOEcxU1VpQWJVZm5sc2pndkJsTjFPSnZob2hEYWlIa0JvQ1RTanVzcTcwTnh0WnBoV0xTdDV6a3ZtdlN3X21OTXZRdndGRVd0Y1VwUk12b19EZlNwNFh2T29nQld0NjdCVnVIN1Q1aXlDYlJFbjZYZkVzNG1Pd3c0TmFNVWFQUFpnc1E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTdPRHQzbDF6VzBxWnJuak01OEN5T2RFR3JvSDc1RzdicHlOQzRUTW1QdGxfRnM1RHJkMlM4cGFQSzJJUm43VnF2a3kyVXdoclkwamlIWEViTm9nU2x3MFN0LXhXOEcxU1VpQWJVZm5sc2pndkJsTjFPSnZob2hEYWlIa0JvQ1RTanVzcTcwTnh0WnBoV0xTdDV6a3ZtdlN3X21OTXZRdndGRVd0Y1VwUk12b19EZlNwNFh2T29nQld0NjdCVnVIN1Q1aXlDYlJFbjZYZkVzNG1Pd3c0TmFNVWFQUFpnc1E",
+  "snippet": "Airgain Lighthouse Solves Challenging 5G Coverage Gap at Major U.S. Food Distribution Warehouse Business Wire",
+  "published": "2026-11-17T12:55:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T21:31:08.483706+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2a2b102a25",
