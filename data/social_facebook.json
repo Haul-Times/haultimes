@@ -3863,7 +3863,8 @@
   "161dbfb21f": "skipped|importance 60 is below this platform's threshold (65)",
   "73b332d7fd": "skipped|minor item (news) or low-quality source",
   "8b41eb3a27": "skipped|importance 50 is below this platform's threshold (65)",
-  "abf7589eca": "skipped|minor item (announcement) or low-quality source"
+  "abf7589eca": "skipped|minor item (announcement) or low-quality source",
+  "6a466d8770": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7813,6 +7814,13 @@
    "title": "Samsara Adds Equipment Maintenance Tools, 360-Degree Camera for Yard Operations",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T21:34:44.239072+00:00",
+   "story_id": "6a466d8770",
+   "title": "Nevoya developing Arizona-California I-10 electric truck route",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
