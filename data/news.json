@@ -1,5 +1,92 @@
 [
  {
+  "id": "f1ddbaa71d",
+  "slug": "mack-makes-comparing-truck-configurations-easier-f1ddbaa71d",
+  "title": "Mack Makes Comparing Truck Configurations Easier",
+  "orig_title": "Mack Makes Comparing Truck Configurations Easier",
+  "summary": "Mack Trucks has launched MyGarage, a free feature inside its online Truck Builder. Buyers can save, name, search and reopen multiple truck configurations, then send a saved build directly to a Mack dealer when they are ready to talk specifics. Users can also review truck images and selected specifications, and reopen a build to keep refining it. Separately, Truck Builder now lets customers add their company logo to a configured truck, a feature previously limited to Mack dealers.",
+  "why": "",
+  "category": "equip",
+  "region": "US",
+  "importance": 55,
+  "source": "Heavy Duty Trucking",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1BNbEVSR1BnNmhiUU5SRjl3VnBERm1EVDRtWUVNSFVOSGJaX3MwMDNzWWdudjZJMWhBQVhEbkQ4TlRtaU1GNkVHeHUzbnpPQzBOYUMyQW9Jc3owMllRYl82VXFpcm83UkV0QzJyamJpZzBDcE1hWWlnQXVNaDhCUXA2Qy00Qm1nVmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1BNbEVSR1BnNmhiUU5SRjl3VnBERm1EVDRtWUVNSFVOSGJaX3MwMDNzWWdudjZJMWhBQVhEbkQ4TlRtaU1GNkVHeHUzbnpPQzBOYUMyQW9Jc3owMllRYl82VXFpcm83UkV0QzJyamJpZzBDcE1hWWlnQXVNaDhCUXA2Qy00Qm1nVmc",
+  "snippet": "Mack Makes Comparing Truck Configurations Easier Heavy Duty Trucking",
+  "published": "2026-11-18T02:40:29+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T02:46:57.234643+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.truckinginfo.com/news/mack-makes-comparing-truck-configurations-easier",
+  "source_note": "ok · 692 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "fa4f195dfc5332df",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T02:46:57.234643+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "MyGarage is a free digital tool"
+   },
+   {
+    "sentence": "2",
+    "quote": "send the saved configuration directly to a Mack dealer"
+   },
+   {
+    "sentence": "3",
+    "quote": "review truck images and selected specifications"
+   },
+   {
+    "sentence": "4",
+    "quote": "Customers can add their company logo to the truck"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "equip",
+  "ai_importance": 30
+ },
+ {
+  "id": "512f131686",
+  "slug": "fire-passaic-nj-flames-break-out-at-abandoned-warehouse-512f131686",
+  "title": "Fire Passaic, NJ: Flames break out at abandoned warehouse",
+  "orig_title": "Fire Passaic, NJ: Flames break out at abandoned warehouse",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ABC7 New York",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3pqakJuT3J2U0dBUkRiWk5IM3BNaGJ2djA0Y1dIXzhFYlNINzQ0bFVRck5ueTg1X2w4RnFOSTJpd0k4WGxfU2NoQm5BNHJUbDh2c0RYXzdFZlB3ZGJiM1VBSk13WDBPZ1BuRWxlMGtoSmRBZWloTXhDN0tlNGtDX0ZoNzhSNG83eVHSAY8BQVVfeXFMT1F2R3hOYVhFbXVjSnJRTld6Q082dDNzRUhvTmhOdUF2SzhIeFVQZklPNkQ4NVA0NFhyOWRBNXlCUUdWNTNHUkNIbnJNMmxkUFQtc1M1azh2bXh3Z1luNlRuZ0pQbURSYVFQMWVpN1FmUS0wMm9RdTB4aDJzaGNDYWJ2eUlTVGJPbTZTU1Q0Q0k?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3pqakJuT3J2U0dBUkRiWk5IM3BNaGJ2djA0Y1dIXzhFYlNINzQ0bFVRck5ueTg1X2w4RnFOSTJpd0k4WGxfU2NoQm5BNHJUbDh2c0RYXzdFZlB3ZGJiM1VBSk13WDBPZ1BuRWxlMGtoSmRBZWloTXhDN0tlNGtDX0ZoNzhSNG83eVHSAY8BQVVfeXFMT1F2R3hOYVhFbXVjSnJRTld6Q082dDNzRUhvTmhOdUF2SzhIeFVQZklPNkQ4NVA0NFhyOWRBNXlCUUdWNTNHUkNIbnJNMmxkUFQtc1M1azh2bXh3Z1luNlRuZ0pQbURSYVFQMWVpN1FmUS0wMm9RdTB4aDJzaGNDYWJ2eUlTVGJPbTZTU1Q0Q0k",
+  "snippet": "Fire Passaic, NJ: Flames break out at abandoned warehouse ABC7 New York",
+  "published": "2026-11-18T02:40:20+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T02:46:57.234643+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3d8e8ea0f8",
   "slug": "remote-steer-archives-3d8e8ea0f8",
   "title": "Remote Steer Archives",
