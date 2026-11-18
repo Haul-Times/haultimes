@@ -766,7 +766,7 @@
   ],
   "kind": "announcement",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.fleetequipmentmag.com/samsara-for-equipment-maintenance-360-camera/",
   "source_note": "ok · 470 words"
  },
@@ -5972,7 +5972,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/new-volvo-vnx-feature-allows-out-of-cab-drivers-to-steer-truck-remotely-at-speeds-up-to-5-mph/?amp",
   "source_note": "ok · 343 words"
@@ -7476,7 +7476,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "f5ed5bdb3f",
