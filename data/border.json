@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:39:56.800403+00:00",
+ "updated": "2026-11-18T17:41:16.611134+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -62,7 +62,7 @@
      0,
      9,
      13,
-     15,
+     17,
      0,
      0,
      0,
@@ -111,7 +111,7 @@
      2,
      11,
      12,
-     10,
+     11,
      0,
      6,
      12,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 12:17 pm EST",
+    "status": "delay",
+    "updated": "At 12:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -261,7 +261,7 @@
      17,
      9,
      4,
-     0,
+     1,
      0,
      0,
      0,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:17 pm EST",
+    "updated": "At 12:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:30:12",
+    "updated": "12:40:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1229,7 +1229,7 @@
      0,
      13,
      8,
-     8,
+     7,
      15,
      15,
      15,
@@ -1304,7 +1304,7 @@
      10,
      11,
      2,
-     4,
+     6,
      0,
      0,
      0,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 12 PM"
+   "best_north": "Usually fastest around 9 AM"
   },
   {
    "id": "sumas",
