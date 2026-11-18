@@ -3860,7 +3860,8 @@
   "571019ebe0": "skipped|importance 61 is below this platform's threshold (65)",
   "0ee321f1f2": "skipped|importance 55 is below this platform's threshold (65)",
   "a4bdce8ace": "skipped|importance 55 is below this platform's threshold (65)",
-  "161dbfb21f": "skipped|importance 60 is below this platform's threshold (65)"
+  "161dbfb21f": "skipped|importance 60 is below this platform's threshold (65)",
+  "73b332d7fd": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -7789,6 +7790,13 @@
    "title": "Diesel falls back below $6 across much of U.S.",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T20:41:23.812796+00:00",
+   "story_id": "73b332d7fd",
+   "title": "Bathroom break for truckers?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
