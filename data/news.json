@@ -1,5 +1,35 @@
 [
  {
+  "id": "ae4f6f6cdb",
+  "slug": "highway-s-insurance-agency-group-membership-for-a-hefty-fee-ae4f6f6cdb",
+  "title": "Highway's insurance agency group: Membership for a hefty fee",
+  "orig_title": "Highway's insurance agency group: Membership for a hefty fee",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "eTrucker",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMV9BN19vZS1xU1lyWHowdF9KcFlLU20tYVNXZHN5LWtHajlTT3pZdzlBSlRJYzFPeU5ocGx3Q3NKRFdMczNJMWExX1dzN3ZuTzI0Ymh5T0I2N2M3ZnV2aHNDWjhieHRvYklXMVVTYWVyck9FZmEtcEZGdEtkOTRhamRoaUlTRDBlenBIc2pxcHNPUVlONGFSTjEyQU9aQzY1eUg0MkRKX19vQ09HSW5hdGlYT0V1YUk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMV9BN19vZS1xU1lyWHowdF9KcFlLU20tYVNXZHN5LWtHajlTT3pZdzlBSlRJYzFPeU5ocGx3Q3NKRFdMczNJMWExX1dzN3ZuTzI0Ymh5T0I2N2M3ZnV2aHNDWjhieHRvYklXMVVTYWVyck9FZmEtcEZGdEtkOTRhamRoaUlTRDBlenBIc2pxcHNPUVlONGFSTjEyQU9aQzY1eUg0MkRKX19vQ09HSW5hdGlYT0V1YUk",
+  "snippet": "Highway's insurance agency group: Membership for a hefty fee eTrucker",
+  "published": "2026-11-18T23:07:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T23:11:06.106093+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Highway charging insurers six figures to join Certified Insurance Agency network: Sources"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "8b41eb3a27"
+ },
+ {
   "id": "dff8ffa91f",
   "slug": "la-long-beach-port-strike-risk-grows-as-employers-say-ilwu-talks-stall-dff8ffa91f",
   "title": "LA-Long Beach port strike risk grows as employers say ILWU talks stalled",
@@ -53,7 +83,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/truckings-annual-congestion-costs-reach-1282-billion",
   "source_note": "ok · 921 words"
@@ -360,6 +390,33 @@
   "source_note": "excerpt only · 20 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "06225626f3",
+  "slug": "truckers-against-trafficking-displays-mobile-human-trafficking-awarene-06225626f3",
+  "title": "Truckers Against Trafficking displays mobile human trafficking awareness exhibit",
+  "orig_title": "Truckers Against Trafficking displays mobile human trafficking awareness exhibit",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 45,
+  "source": "Bay News 9",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0V1NmJIYkZMRWlBU1UwdmlZcEZzb1Z3X1psR1dMQUtNWUFhbGJBcC1VRFpOLWxZTjFtRU1FT2tlMnRzVE9TNFJRaW5GWnFPbW1vNTB3UFk1MHpMQl8tTGlfVHB5MnhKcEEzM1RrbWtIRTFNNFlCRllUbVpHNWhPdVR5X2NXYzBkTFl1bTNWRm5xV2c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0V1NmJIYkZMRWlBU1UwdmlZcEZzb1Z3X1psR1dMQUtNWUFhbGJBcC1VRFpOLWxZTjFtRU1FT2tlMnRzVE9TNFJRaW5GWnFPbW1vNTB3UFk1MHpMQl8tTGlfVHB5MnhKcEEzM1RrbWtIRTFNNFlCRllUbVpHNWhPdVR5X2NXYzBkTFl1bTNWRm5xV2c",
+  "snippet": "Truckers Against Trafficking displays mobile human trafficking awareness exhibit Bay News 9",
+  "published": "2026-11-18T20:04:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T23:11:06.106093+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true
  },
  {
   "id": "0ee321f1f2",
@@ -7328,7 +7385,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
+  "source_note": "ok · 506 words"
  },
  {
   "id": "7fe658bfe1",
