@@ -1,5 +1,65 @@
 [
  {
+  "id": "47458eb868",
+  "slug": "trucking-companies-used-in-7-2-million-california-cargo-theft-scheme-47458eb868",
+  "title": "Trucking companies used in $7.2-million California cargo theft scheme",
+  "orig_title": "Trucking companies used in $7.2-million California cargo theft scheme",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 73,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY3JMd2E2d3lpYVhsZGRvSnFoMlRrRG9FbnRoZ2hzSEczc2VIclZvTGtnLVRDaUVXWXB6aTJ6MjFvaXRwam5ZbXZ2dTVXZVFQVmFTbFdMeWNwSTVsZXpiV0ZNYThicld5cVZ0VVg4XzViOWNWNTJLVWkwMUJfRExUSHdtVGtlcFB6dmlRNmJtdklHckJyX0psdFB2ZDR0SXlTUWVQZjdlZk82V3cxM2lSUmJ4M0s2Zw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY3JMd2E2d3lpYVhsZGRvSnFoMlRrRG9FbnRoZ2hzSEczc2VIclZvTGtnLVRDaUVXWXB6aTJ6MjFvaXRwam5ZbXZ2dTVXZVFQVmFTbFdMeWNwSTVsZXpiV0ZNYThicld5cVZ0VVg4XzViOWNWNTJLVWkwMUJfRExUSHdtVGtlcFB6dmlRNmJtdklHckJyX0psdFB2ZDR0SXlTUWVQZjdlZk82V3cxM2lSUmJ4M0s2Zw",
+  "snippet": "Trucking companies used in $7.2-million California cargo theft scheme Truck News",
+  "published": "2026-11-18T13:30:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T13:31:08.295452+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "e6809c2cae",
+  "slug": "christopher-michael-darnold-obituary-e6809c2cae",
+  "title": "Christopher Michael Darnold Obituary",
+  "orig_title": "Christopher Michael Darnold Obituary",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "South Bend Tribune",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yYkhGQ1VrM0EzYVBCRmF6TFFVeUpRUkFFMnM0d2liakJBNWxHdEY4S0hCZ25wX1FGUEVYYzM4NUhtOFc5R2g1YVpkYXFnbW1UcUVqMmcycE1Zc1dDcEJNNjE1TGNEZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yYkhGQ1VrM0EzYVBCRmF6TFFVeUpRUkFFMnM0d2liakJBNWxHdEY4S0hCZ25wX1FGUEVYYzM4NUhtOFc5R2g1YVpkYXFnbW1UcUVqMmcycE1Zc1dDcEJNNjE1TGNEZw",
+  "snippet": "Christopher Michael Darnold Obituary South Bend Tribune",
+  "published": "2026-11-18T13:24:24+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T13:31:08.295452+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "4a9f57bca1",
   "slug": "shippers-face-worsening-conditions-as-freight-rates-fuel-costs-climb-4a9f57bca1",
   "title": "Shippers face worsening conditions as freight rates, fuel costs climb",
@@ -1195,12 +1255,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in carg"
+   "same story as: $7.2M Cargo Theft Ring: IE Man Sentenced To 2 1/2 Years In Federal Prison"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "0ae837733e"
+  "dup_of": "f58fb8543f"
  },
  {
   "id": "1ec12a7da7",
@@ -1841,8 +1901,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
+  ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -1886,7 +1948,8 @@
    "copies a 12-word run from the source: 'to one count of conspiracy to commit theft from interstate or foreign'"
   ],
   "ai_category": "other",
-  "ai_importance": 55
+  "ai_importance": 55,
+  "dup_of": "47458eb868"
  },
  {
   "id": "9762fa7a74",
@@ -2127,7 +2190,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 42,
   "source": "Patch",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkxabWNsMF9yT0lOSlBpYkluX2tEMVR4Tm11c1RGaW9STVdvdUpKNHN0d3ZDZHYtM09zZERLQWJjTWt6LU0ybDEzN0ZucHhZSldPd1NESVFWcjRTazl5dGZJRkNxZzJUTy1GMEs4UVJqYzVGaE5fc1ZkS0JyWE4xeFJlNVI4QWdjNkhiZUtCcFFsdTR1bDh2SEo2LWFhTmxsRjloQ3gydVhWZDlPdENUSVhLbk1TNzjSAdABQVVfeXFMTmRjdkt1REZLUlk3Y2lFVXp6bVp3bjJ4VTVxX3pyTUI3bmVVTTB4M3I2ZzNRN1c1V2h0RmdsM19TY2RkOFg2SWFzd1BreXppeEFtTWJmT1l6YllJSmdqZktydDRtc29XSUNKMGJiOEFEamdmWVU5aGJfZGc5Y1JQUVhjd2cyZXNYaXZzZ0xaeHJST05jTlR0R1VBREVaaHVsWC1TNWhFTVZjZkd6OEtzUmx5MjZJYUpJVFY2VHZvM2M2bDh5UkEyMDd5MTJSdXNsZQ?oc=5",
@@ -2140,14 +2203,56 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in carg"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "0ae837733e"
+  "sum_tries": 1,
+  "pub_url": "https://patch.com/california/lakeelsinore-wildomar/7-2m-cargo-theft-ring-ie-man-sentenced-2-1-2-years-federal-prison",
+  "source_note": "ok · 299 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "3229ca6201bcf1fc",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-18T13:31:08.295452+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "federal prosecutors said"
+   },
+   {
+    "sentence": "2",
+    "quote": "U.S. District Judge Kenly Kiya Kato"
+   },
+   {
+    "sentence": "3",
+    "quote": "pleaded guilty Aug. 13 to one count of conspiracy"
+   },
+   {
+    "sentence": "4",
+    "quote": "bought or used existing trucking companies between September 2021 and March 2025"
+   },
+   {
+    "sentence": "5",
+    "quote": "trucks bearing the trucking companies' names"
+   },
+   {
+    "sentence": "6",
+    "quote": "roughly $7.2 million in losses attributed to Singh's conduct"
+   },
+   {
+    "sentence": "7",
+    "quote": "scheduled to stand trial in March 2027"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'in a scheme that stole more than $7.2 million in cargo from'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 60
  },
  {
   "id": "e24637ca30",
@@ -2290,7 +2395,7 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in carg"
+   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
   ],
   "labels": [],
   "kind": "crime",
@@ -2341,7 +2446,7 @@
   "ai_importance": 68,
   "sum_v4": true,
   "ai_category": "other",
-  "dup_of": "0ae837733e"
+  "dup_of": "47458eb868"
  },
  {
   "id": "94dbd3b0ae",
@@ -20100,36 +20205,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "daddea3ee5",
-  "slug": "september-2026-trucking-conditions-index-falls-to-8-13-daddea3ee5",
-  "title": "September 2026 Trucking Conditions Index Falls to 8.13",
-  "orig_title": "September 2026 Trucking Conditions Index Falls to 8.13",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 56,
-  "source": "Fleet Equipment Magazine",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BQlEtaDJ0V1VDU0k1blViaGVadXhTYi1GSGliU05fVksyVTg0UmVIUTloUktzZmMwX1VTaVV0a0k2YXIyVEVmY0ctbXZTR2FzbTFtbnZCVnI3M2VYeDdWNG94bk1aV1BMU2pacDNRSnVSa2VNTTl5NnJPMjNnQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BQlEtaDJ0V1VDU0k1blViaGVadXhTYi1GSGliU05fVksyVTg0UmVIUTloUktzZmMwX1VTaVV0a0k2YXIyVEVmY0ctbXZTR2FzbTFtbnZCVnI3M2VYeDdWNG94bk1aV1BMU2pacDNRSnVSa2VNTTl5NnJPMjNnQQ",
-  "snippet": "September 2026 Trucking Conditions Index Falls to 8.13 Fleet Equipment Magazine",
-  "published": "2026-11-11T18:05:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T13:21:08.353324+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: FTR raises trucking outlook despite September dip in conditions index"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "af3e08c4cd"
  },
  {
   "id": "b16a2e73f3",
