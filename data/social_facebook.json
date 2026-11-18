@@ -3590,7 +3590,8 @@
   "191ef37698": "skipped|importance 55 is below this platform's threshold (65)",
   "7faacb4334": "skipped|importance 45 is below this platform's threshold (65)",
   "a1c170361b": "skipped|importance 50 is below this platform's threshold (65)",
-  "478c487ccd": "skipped|importance 55 is below this platform's threshold (65)"
+  "478c487ccd": "skipped|importance 55 is below this platform's threshold (65)",
+  "2de8a29ece": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7188,6 +7189,13 @@
    "at": "2026-11-18T11:11:38.281795+00:00",
    "story_id": "478c487ccd",
    "title": "Exception Management in Freight: How AI Is Changing the Work",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-18T11:51:20.782142+00:00",
+   "story_id": "2de8a29ece",
+   "title": "Saia seeks exemption to allow CLP holders to pull doubles with supervision",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }

@@ -62,6 +62,37 @@
   "ai_importance": 35
  },
  {
+  "id": "2de8a29ece",
+  "slug": "saia-seeks-exemption-to-allow-clp-holders-to-pull-doubles-with-supervi-2de8a29ece",
+  "title": "Saia seeks exemption to allow CLP holders to pull doubles with supervision",
+  "orig_title": "Saia seeks exemption to allow CLP holders to pull doubles with supervision",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "Commercial Carrier Journal",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc3NycllfQ1U4NDR3V2hBeE15VWFOcndFQkdtOFlWN3hhcjNPa0kyM2NXWWdLck5peFR1LTFXckFHSmNZeExjUzlPbW1oSy1GcWU4SmQ4cUE1ZVhjc25PN2ZTQ0xJaGNUdjhUWVVDTUlJRERieDlFSlFkS3JidThXRkdrVEh0al90R2VuOVJxUU9rcHpHTm03OTZ2VHF0dU5NM180M2M0YXBReDNZbWZoc0pjay1hZ3V1SmVwTHd0cV9rVzZHTGp3aUln?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc3NycllfQ1U4NDR3V2hBeE15VWFOcndFQkdtOFlWN3hhcjNPa0kyM2NXWWdLck5peFR1LTFXckFHSmNZeExjUzlPbW1oSy1GcWU4SmQ4cUE1ZVhjc25PN2ZTQ0xJaGNUdjhUWVVDTUlJRERieDlFSlFkS3JidThXRkdrVEh0al90R2VuOVJxUU9rcHpHTm03OTZ2VHF0dU5NM180M2M0YXBReDNZbWZoc0pjay1hZ3V1SmVwTHd0cV9rVzZHTGp3aUln",
+  "snippet": "Saia seeks exemption to allow CLP holders to pull doubles with supervision Commercial Carrier Journal",
+  "published": "2026-11-18T10:01:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T11:51:05.514573+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "2de2db1ce0",
   "slug": "water-grid-concerns-raised-at-n-s-ai-data-centre-q-a-2de2db1ce0",
   "title": "Water, grid concerns raised at N.S. AI data centre Q&A",
@@ -3089,8 +3120,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Saia seeks exemption to allow CLP holders to pull doubles with supervision"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -3125,7 +3158,8 @@
   "ai_category": "drivers",
   "ai_importance": 60,
   "pending_summary": "Saia LTL Freight has asked the Federal Motor Carrier Safety Administration for a five-year exemption that would let commercial learner's permit holders in its driver training program operate trucks with double trailers under supervision. The exemption would cover about 300 trainees a year. Saia says its company-administered knowledge test mirrors the state doubles/triples exam, and trainees must show coupling and maneuvering skills in a closed yard before using public roads. FMCSA will accept public comment on the request once the notice appears in the Federal Register on November 18.",
-  "pending_why": ""
+  "pending_why": "",
+  "dup_of": "2de8a29ece"
  },
  {
   "id": "ed011f49a0",
@@ -14314,35 +14348,6 @@
   "source_note": "excerpt only · 44 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "3c8ef9f22c",
-  "slug": "global-news-hour-at-6-bc-3c8ef9f22c",
-  "title": "Global News Hour at 6 BC",
-  "orig_title": "Global News Hour at 6 BC",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVg4RWthY2RybDRoanpnUGNZX0RjaUx1alBDU0MzOXZycHFialR2VFAzd1V2aWFZbUtITXRHSmxDdUs2ZHhSUjFOaFJraVdpVnpxVDFwWXJ5ZEc1NHBHN0NzWlMtRHZheDBXdnNYMHVYdzQ3QmhuRlJFQU1zWEpyVzRiUW41cnVMenJiSlVNWU53SWlDRkE4WmNZc0F4S0JkWlkxTWRvdV9lQ216QXF2SnRxQ0NYVGFLbThGbVNHZ04ycGNmZDV2TmpMdFdIYTkzWWFud2NscEg1UQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVg4RWthY2RybDRoanpnUGNZX0RjaUx1alBDU0MzOXZycHFialR2VFAzd1V2aWFZbUtITXRHSmxDdUs2ZHhSUjFOaFJraVdpVnpxVDFwWXJ5ZEc1NHBHN0NzWlMtRHZheDBXdnNYMHVYdzQ3QmhuRlJFQU1zWEpyVzRiUW41cnVMenJiSlVNWU53SWlDRkE4WmNZc0F4S0JkWlkxTWRvdV9lQ216QXF2SnRxQ0NYVGFLbThGbVNHZ04ycGNmZDV2TmpMdFdIYTkzWWFud2NscEg1UQ",
-  "snippet": "Global News Hour at 6 BC Global News",
-  "published": "2026-11-14T05:28:27+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-14T11:41:10.388951+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "dddd671c17",
