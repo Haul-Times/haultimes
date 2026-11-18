@@ -3595,7 +3595,8 @@
   "e94181b04e": "skipped|importance 50 is below this platform's threshold (65)",
   "04cb36269d": "skipped|importance 45 is below this platform's threshold (65)",
   "a5323e9a19": "skipped|importance 61 is below this platform's threshold (65)",
-  "13d0712036": "skipped|minor item (announcement) or low-quality source"
+  "13d0712036": "skipped|minor item (announcement) or low-quality source",
+  "4a9f57bca1": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7230,6 +7231,13 @@
    "title": "Einride expands autonomous trucking operations, plans major fleet growth in 2027",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-18T13:21:22.332675+00:00",
+   "story_id": "4a9f57bca1",
+   "title": "Shippers face worsening conditions as freight rates, fuel costs climb",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
