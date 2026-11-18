@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "2f09f655f0",
+  "slug": "rose-mary-adams-obituary-2026-pittsford-mi-j-gilbert-purse-funeral-hom-2f09f655f0",
+  "title": "Rose Mary Adams Obituary (2026) - Pittsford, MI - J. Gilbert Purse Funeral Home - Adrian",
+  "orig_title": "Rose Mary Adams Obituary (2026) - Pittsford, MI - J. Gilbert Purse Funeral Home - Adrian",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Legacy | Obituary",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Y1ZFWXFsVDNLb1h5OGxnbWxVOTFNSThvQXFFTGN6dElkd3RZQ0JScHhleEhWbVUxam40T0VNajltTGJjQ2ZYRFY0enc2cmRDOG5hSXZrT3FYUzFkY0JaQlg2ckU5M1h2dVltQTBSaFRnTGcyRzMwTmZ4ZzdMQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Y1ZFWXFsVDNLb1h5OGxnbWxVOTFNSThvQXFFTGN6dElkd3RZQ0JScHhleEhWbVUxam40T0VNajltTGJjQ2ZYRFY0enc2cmRDOG5hSXZrT3FYUzFkY0JaQlg2ckU5M1h2dVltQTBSaFRnTGcyRzMwTmZ4ZzdMQQ",
+  "snippet": "Rose Mary Adams Obituary (2026) - Pittsford, MI - J. Gilbert Purse Funeral Home - Adrian Legacy | Obituary",
+  "published": "2026-11-18T06:19:42+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T08:21:06.473552+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9b5097aa05",
   "slug": "can-being-51-at-fault-cost-you-your-entire-claim-9b5097aa05",
   "title": "Can Being 51% at Fault Cost You Your Entire Claim?",
@@ -3622,13 +3651,13 @@
   "sum_status": "withheld",
   "source_fp": "9fa9f03d2513f36a",
   "source_scope": "full_article",
-  "sum_at": "2026-11-18T08:14:51.504187+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-18T08:21:06.473552+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
     "sentence": "1",
-    "quote": "COO and EVP at Transervice Logistics"
+    "quote": "Gino Fontana, CTP, is COO and EVP at Transervice Logistics Inc"
    },
    {
     "sentence": "2",
@@ -3636,22 +3665,19 @@
    },
    {
     "sentence": "3",
-    "quote": "the Institute for Legal Reform cited six factors that are causing this jump"
+    "quote": "cited six factors that are causing this jump"
    },
    {
     "sentence": "4",
-    "quote": "look for patterns to spot things such as staged accidents"
-   },
-   {
-    "sentence": "5",
-    "quote": "should be tracked via telematics devices and then used to coach drivers"
+    "quote": "they do not take the place of a well-trained driver"
    }
   ],
   "sum_problems": [
-   "name \"American Trucking Associations' Management Conference\" is not in the source"
+   "name 'ATA Management Conference' is not in the source"
   ],
   "ai_category": "other",
-  "ai_importance": 40
+  "ai_importance": 45,
+  "sum_v3": true
  },
  {
   "id": "1571d7c228",
@@ -13869,35 +13895,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "e92fb9e7c4",
-  "slug": "qualification-of-drivers-exemption-applications-implantable-cardiovert-e92fb9e7c4",
-  "title": "Qualification of Drivers; Exemption Applications; Implantable Cardioverter Defibrillators (ICD)",
-  "orig_title": "Qualification of Drivers; Exemption Applications; Implantable Cardioverter Defibrillators (ICD)",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 55,
-  "source": "Federal Register (FMCSA)",
-  "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23207/qualification-of-drivers-exemption-applications-implantable-cardioverter-defibrillators-icd",
-  "url_key": "https://federalregister.gov/documents/2026/11/16/2026-23207/qualification-of-drivers-exemption-applications-implantable-cardioverter-defibrillators-icd",
-  "snippet": "FMCSA announces receipt of applications from five individuals for an exemption from the prohibition in the Federal Motor Carrier Safety Regulations (FMCSRs) against operation of a commercial motor vehicle (CMV) by persons with a current clinical diagnosis of myocardial infarction, angina pectoris, c",
-  "published": "2026-11-14T08:19:40.003786+00:00",
-  "date_known": false,
-  "first_seen": "2026-11-14T08:19:40.003786+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "official",
-  "status": "review",
-  "reasons": [
-   "no publication date from the source"
-  ],
-  "labels": [],
-  "kind": "news",
   "sum_pending": false
  },
  {
