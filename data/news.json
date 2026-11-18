@@ -426,6 +426,35 @@
   "ai_importance": 35
  },
  {
+  "id": "8e9e9d88aa",
+  "slug": "kion-stock-faces-supervisory-board-chair-change-at-year-end-8e9e9d88aa",
+  "title": "KION stock faces supervisory board chair change at year-end",
+  "orig_title": "KION stock faces supervisory board chair change at year-end",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ad-hoc-news.de",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamJ3ZGE5N0ZEWWVfNWZsSDJJcEVGOGJuOVlCVEdQbnQ0dVVJRFZUcGNTU3pSVFEyMDRTNU9uWUtHeDFmb3NRNkIyZUlOeFNoNjlOTjU1Q3J4bjB1Y1BUSGlnQWY2NXBKWm5PZzRKMm50VVZNbExmTkFvckM1X1p5LVpnYzFuUHBGU2VPWTI5NnZLR0ZoR3Rna3EwYVdFenY4Vk5paklRWU9sRkdZclowOU9vS05Ob3BlN3pNV3F6RQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamJ3ZGE5N0ZEWWVfNWZsSDJJcEVGOGJuOVlCVEdQbnQ0dVVJRFZUcGNTU3pSVFEyMDRTNU9uWUtHeDFmb3NRNkIyZUlOeFNoNjlOTjU1Q3J4bjB1Y1BUSGlnQWY2NXBKWm5PZzRKMm50VVZNbExmTkFvckM1X1p5LVpnYzFuUHBGU2VPWTI5NnZLR0ZoR3Rna3EwYVdFenY4Vk5paklRWU9sRkdZclowOU9vS05Ob3BlN3pNV3F6RQ",
+  "snippet": "KION stock faces supervisory board chair change at year-end ad-hoc-news.de",
+  "published": "2026-11-18T11:02:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T14:21:20.703973+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "2de8a29ece",
   "slug": "saia-seeks-exemption-to-allow-clp-holders-to-pull-doubles-with-supervi-2de8a29ece",
   "title": "Saia seeks exemption to allow CLP holders to pull doubles with supervision",
@@ -692,7 +721,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1
+  "sum_tries": 2
  },
  {
   "id": "2f09f655f0",
