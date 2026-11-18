@@ -1,5 +1,35 @@
 [
  {
+  "id": "a0bdc5a48f",
+  "slug": "highway-congestion-costs-trucking-industry-over-120-billion-for-3rd-st-a0bdc5a48f",
+  "title": "Highway congestion costs trucking industry over $120 billion for 3rd straight year; causes 1.24 billion hours of delay",
+  "orig_title": "Highway congestion costs trucking industry over $120 billion for 3rd straight year; causes 1.24 billion hours of delay",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 61,
+  "source": "Truckers News",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUl9rXzFOSkhta2hXTjBsT1BIOFhsTUNBOWFGLWE4bkNIaHZDMFNHMU1wLXlwdDE2dVg3TVRGalpreXhZMHBVNXpBTDJXUml2YzVxeGFQZkFRMGwxb05ualZNbUw0MjdCTGN5c3l5U0FuTUVPTjFCOVZyU0hnRFVUekkzcExidXM4QU1YT2ZBSXppWm0yNzJXMkVkLTM3cWc2NVAyeTJCWTRPM1JiYU51MjFHNHVVTGRaMkNSSDVfc19CSHJHOFZrTFR2dFJNS0N6MmJSZVhMU0NkZkJWTmF4Ykh0VmZ0dlJCbG1aaGdPWEstZDVWZ2J0VEhR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUl9rXzFOSkhta2hXTjBsT1BIOFhsTUNBOWFGLWE4bkNIaHZDMFNHMU1wLXlwdDE2dVg3TVRGalpreXhZMHBVNXpBTDJXUml2YzVxeGFQZkFRMGwxb05ualZNbUw0MjdCTGN5c3l5U0FuTUVPTjFCOVZyU0hnRFVUekkzcExidXM4QU1YT2ZBSXppWm0yNzJXMkVkLTM3cWc2NVAyeTJCWTRPM1JiYU51MjFHNHVVTGRaMkNSSDVfc19CSHJHOFZrTFR2dFJNS0N6MmJSZVhMU0NkZkJWTmF4Ykh0VmZ0dlJCbG1aaGdPWEstZDVWZ2J0VEhR",
+  "snippet": "Highway congestion costs trucking industry over $120 billion for 3rd straight year; causes 1.24 billion hours of delay Truckers News",
+  "published": "2026-11-18T18:16:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T18:21:05.712138+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Highway congestion cost US trucking $128 billion in 2024"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "3d9a2e2be3"
+ },
+ {
   "id": "e02a7f096a",
   "slug": "trucker-bathroom-access-act-clears-key-hurdle-e02a7f096a",
   "title": "Trucker Bathroom Access Act Clears Key Hurdle",
@@ -24,7 +54,41 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.trucking.org/news-insights/trucker-bathroom-access-act-clears-key-hurdle",
+  "source_note": "excerpt only · 20 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "b7a4d3c420",
+  "slug": "strike-risk-grows-at-los-angeles-long-beach-ports-b7a4d3c420",
+  "title": "Strike risk grows at Los Angeles, Long Beach ports",
+  "orig_title": "Strike risk grows at Los Angeles, Long Beach ports",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fNGNaOEM2UVVtWnBpX2VZUDEycERCYmF5a1BmZ2F5TTFhcDNQLVdIY0VrRFJhaEZDM1ozVVVkdV9WOVlKcGFkdzlEdFowaDdDRG94ZzJMdk1NVEVpaTN3UWtnaUhHanpJZktpTlJn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fNGNaOEM2UVVtWnBpX2VZUDEycERCYmF5a1BmZ2F5TTFhcDNQLVdIY0VrRFJhaEZDM1ozVVVkdV9WOVlKcGFkdzlEdFowaDdDRG94ZzJMdk1NVEVpaTN3UWtnaUhHanpJZktpTlJn",
+  "snippet": "Strike risk grows at Los Angeles, Long Beach ports Transport Topics",
+  "published": "2026-11-18T17:52:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T18:21:05.712138+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "301024bec6",
@@ -52,7 +116,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.truckinginfo.com/pages/corporate-derby-challenge-support-heavy-duty-trucking-team-lockridge",
   "source_note": "ok · 524 words"
  },
