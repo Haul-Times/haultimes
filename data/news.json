@@ -29,6 +29,36 @@
   "sum_pending": false
  },
  {
+  "id": "3600f5a667",
+  "slug": "us-trucking-companies-targeted-by-fake-carrier-verification-sites-stea-3600f5a667",
+  "title": "US Trucking Companies Targeted by Fake Carrier Verification Sites Stealing Passwords and Financial Data",
+  "orig_title": "US Trucking Companies Targeted by Fake Carrier Verification Sites Stealing Passwords and Financial Data",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 56,
+  "source": "GBHackers News",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zSTJvTTdQYnlGTFhtcnp0WFdiOWNTR2p4RnVSLUZTSEV1WTlFYWUxemx4MzJKV0hNUWVNUmVGSTYxOE5wRXlEWVFVVU5oMDBLMUJFaXdPaFRWTndHM1pQc3JZbDbSAWpBVV95cUxQOHRJSlBERVdMMFJnM2MyUXJnRjctbHZMaFZwaWlCOXpQeHRhRkRXNlRnRjNJZG9kc3dkcW1FazR5Z242b2RBWUp5dm5La2xxUTBYRElaWUtGRWlHbTBkbUZ4Wng4TlpybFNR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zSTJvTTdQYnlGTFhtcnp0WFdiOWNTR2p4RnVSLUZTSEV1WTlFYWUxemx4MzJKV0hNUWVNUmVGSTYxOE5wRXlEWVFVVU5oMDBLMUJFaXdPaFRWTndHM1pQc3JZbDbSAWpBVV95cUxQOHRJSlBERVdMMFJnM2MyUXJnRjctbHZMaFZwaWlCOXpQeHRhRkRXNlRnRjNJZG9kc3dkcW1FazR5Z242b2RBWUp5dm5La2xxUTBYRElaWUtGRWlHbTBkbUZ4Wng4TlpybFNR",
+  "snippet": "US Trucking Companies Targeted by Fake Carrier Verification Sites Stealing Passwords and Financial Data GBHackers News",
+  "published": "2026-11-18T09:27:52+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-18T10:41:03.564750+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Hackers Target US Trucking Companies With Fake Freight Portals to Steal Credentials and De"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "a1c170361b"
+ },
+ {
   "id": "a1c170361b",
   "slug": "hackers-target-us-trucking-companies-with-fake-freight-portals-to-stea-a1c170361b",
   "title": "Hackers Target US Trucking Companies With Fake Freight Portals to Steal Credentials and Deploy Malware",
