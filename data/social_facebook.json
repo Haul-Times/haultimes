@@ -3814,7 +3814,8 @@
   "4c5bfcedf1": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "423316c758": "skipped|importance 55 is below this platform's threshold (65)",
   "1b846d3450": "skipped|importance 55 is below this platform's threshold (65)",
-  "7a4944bdd9": "queued|importance 75 (threshold 65), Equipment, trade publication"
+  "7a4944bdd9": "queued|importance 75 (threshold 65), Equipment, trade publication",
+  "6094eee181": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7617,6 +7618,13 @@
    "title": "Trailer orders surge in October as fleets accelerate equipment purchases",
    "action": "queued",
    "reason": "importance 75 (threshold 65), Equipment, trade publication"
+  },
+  {
+   "at": "2026-11-18T17:51:27.700663+00:00",
+   "story_id": "6094eee181",
+   "title": "Quebec Hwy. 85 completion clears bottleneck for Atlantic trucking",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
