@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:51:15.303434+00:00",
- "hour_now": 3,
+ "updated": "2026-11-19T09:01:03.611161+00:00",
+ "hour_now": 4,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:37 am EST",
+    "updated": "At 3:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -253,7 +253,7 @@
      3,
      3,
      9,
-     12,
+     11,
      6,
      13,
      16,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:37 am EST",
+    "updated": "At 3:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -354,7 +354,7 @@
      5,
      2,
      2,
-     1,
+     2,
      9,
      1,
      0,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:48:13",
+    "updated": "03:58:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -703,7 +703,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -910,11 +910,11 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "03:48:13",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "03:48:13",
+    "updated": "03:58:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:48:13",
+    "updated": "02:58:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1371,7 +1371,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Norton",
