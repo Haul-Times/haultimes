@@ -1,5 +1,34 @@
 [
  {
+  "id": "535cf31636",
+  "slug": "lamborghini-and-cross-border-trucks-collide-in-shenzhen-bay-tunnel-pil-535cf31636",
+  "title": "Lamborghini and cross-border trucks collide in Shenzhen Bay tunnel pile-up",
+  "orig_title": "Lamborghini and cross-border trucks collide in Shenzhen Bay tunnel pile-up",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Standard (HK)",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZktRTWw1MjZlQ3BxOXhtcHBjSWRIVGl4UXg0Z0tfVWd4cDZ3NlVVX1lzUFllM0Mtenc2YVBSZ0hSQjlzOVlXalJ1eEZEbUhuTF9oZENESzc5OEdVX1hNM1dmZThVZ0pSckIzVGY5NzdFVldOOGxmdFBWSmo4RlNqbHRxTkhzaVBUZ3o5UDFwLWsxdEc0d19JRjFFMVMyaUxYUmpWNW1mR0Z0dWJ6LVZLS0Eyb0VLcUU3aVM3NnFoa0xhRzFt?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZktRTWw1MjZlQ3BxOXhtcHBjSWRIVGl4UXg0Z0tfVWd4cDZ3NlVVX1lzUFllM0Mtenc2YVBSZ0hSQjlzOVlXalJ1eEZEbUhuTF9oZENESzc5OEdVX1hNM1dmZThVZ0pSckIzVGY5NzdFVldOOGxmdFBWSmo4RlNqbHRxTkhzaVBUZ3o5UDFwLWsxdEc0d19JRjFFMVMyaUxYUmpWNW1mR0Z0dWJ6LVZLS0Eyb0VLcUU3aVM3NnFoa0xhRzFt",
+  "snippet": "Lamborghini and cross-border trucks collide in Shenzhen Bay tunnel pile-up The Standard (HK)",
+  "published": "2026-11-19T21:16:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T21:31:03.872370+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "541631f174",
   "slug": "congestion-cost-trucking-128-billion-in-2024-atri-541631f174",
   "title": "Congestion cost trucking $128 billion in 2024: ATRI",
@@ -117,6 +146,35 @@
   "sum_pending": false
  },
  {
+  "id": "2075cc0a4a",
+  "slug": "man-allegedly-steals-144k-worth-of-goods-from-train-then-leads-police-2075cc0a4a",
+  "title": "Man Allegedly Steals $144K Worth of Goods from Train, Then Leads Police on Car and Foot Chase",
+  "orig_title": "Man Allegedly Steals $144K Worth of Goods from Train, Then Leads Police on Car and Foot Chase",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Yahoo News Canada",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tMmpyZnZYQThvR3U1MVBBZG1DbndESXdHRlczSjBlNlNpT3BLdWlnOUlDMVd5SHFuRUZjNm9GRmNnRWlXLWk1b251LWRkbnhNZHpWazJ3bXU2ZllIMEY5Q2R2U3FLbUNwbU1yeE1GaXZITnpDSkpzdktBLUk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tMmpyZnZYQThvR3U1MVBBZG1DbndESXdHRlczSjBlNlNpT3BLdWlnOUlDMVd5SHFuRUZjNm9GRmNnRWlXLWk1b251LWRkbnhNZHpWazJ3bXU2ZllIMEY5Q2R2U3FLbUNwbU1yeE1GaXZITnpDSkpzdktBLUk",
+  "snippet": "Man Allegedly Steals $144K Worth of Goods from Train, Then Leads Police on Car and Foot Chase Yahoo News Canada",
+  "published": "2026-11-19T20:49:30+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T21:31:03.872370+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "489a260e1f",
   "slug": "illegal-alien-sentenced-to-2-5-years-behind-bars-for-7-2m-trucking-car-489a260e1f",
   "title": "Illegal Alien Sentenced to 2.5 Years Behind Bars for $7.2M Trucking Cargo Theft Ring in California",
@@ -169,7 +227,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://cdllife.com/2026/oregon-police-stop-84-truckers-for-bypassing-scale-as-part-of-three-weigh-station-enforcement-operations/",
   "source_note": "ok · 336 words"
  },
@@ -4299,6 +4357,35 @@
   "source_note": "excerpt only · 20 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "bd73af5b32",
+  "slug": "how-retailers-can-prepare-for-holiday-theft-violence-and-fraud-bd73af5b32",
+  "title": "How retailers can prepare for holiday theft, violence and fraud",
+  "orig_title": "How retailers can prepare for holiday theft, violence and fraud",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "National Retail Federation | NRF",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnRNTGFwb2tyVW1JcU43aEVPSVhzWmhoMUIwbDlXRENzeEkybk1GNDVwcUJ4N1JZQnJsdHBDZ1JvdWY2Vml4dGc5MUJVZzdxNV9qUE1oSnB1SXJvTDRNelhYcjlGalhGck1mNVQtbHJrb3ZudjVrZ1p3LW9RTGtLR1plRC1odENPWEE0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnRNTGFwb2tyVW1JcU43aEVPSVhzWmhoMUIwbDlXRENzeEkybk1GNDVwcUJ4N1JZQnJsdHBDZ1JvdWY2Vml4dGc5MUJVZzdxNV9qUE1oSnB1SXJvTDRNelhYcjlGalhGck1mNVQtbHJrb3ZudjVrZ1p3LW9RTGtLR1plRC1odENPWEE0",
+  "snippet": "How retailers can prepare for holiday theft, violence and fraud National Retail Federation | NRF",
+  "published": "2026-11-18T21:33:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T21:31:03.872370+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "00c7088db8",
