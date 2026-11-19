@@ -3989,7 +3989,8 @@
   "af65fa1c1b": "skipped|minor item (announcement) or low-quality source",
   "78da8460d6": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
   "promo-20261119": "queued|HaulTimes update",
-  "3fbfb07934": "skipped|minor item (announcement) or low-quality source"
+  "3fbfb07934": "skipped|minor item (announcement) or low-quality source",
+  "a4c56f2906": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8142,6 +8143,13 @@
    "title": "Freightera Launches Instant Flatbed Quotes and Automated Flatbed Freight Booking in the United States",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-19T17:41:38.611102+00:00",
+   "story_id": "a4c56f2906",
+   "title": "IGNITE: Georgia’s new collegiate supply chain innovation competition",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
