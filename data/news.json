@@ -1830,7 +1830,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://wisevoter.com/world/ca/2026/11/19/aetherion-natural-gas-volvo-trucks-canada-trial",
   "source_note": "ok · 475 words"
  },
@@ -20648,35 +20648,6 @@
   "sum_pending": false
  },
  {
-  "id": "6065938f65",
-  "slug": "4-injured-after-hwy-7-crash-between-perth-carleton-place-6065938f65",
-  "title": "4 injured after Hwy. 7 crash between Perth, Carleton Place",
-  "orig_title": "4 injured after Hwy. 7 crash between Perth, Carleton Place",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTJVM3psSWg2all5UWZlVVFXS1hQZnZwblhfNWNGUWdwclg3dkk4X0hLQlF6U18zQmY4cnYtMXVhTjJCdDRJQWpjMWZhSVl0MWo5dVBLRVVEcUdpdXVzcUYyZWdhTGVWMHJELVl0XzRQbm9EMEVZVXhVWEFKUmt4MFZ0Wmp0bmhzZlBFemkxSXdGTkczdmpIdVhfcw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTJVM3psSWg2all5UWZlVVFXS1hQZnZwblhfNWNGUWdwclg3dkk4X0hLQlF6U18zQmY4cnYtMXVhTjJCdDRJQWpjMWZhSVl0MWo5dVBLRVVEcUdpdXVzcUYyZWdhTGVWMHJELVl0XzRQbm9EMEVZVXhVWEFKUmt4MFZ0Wmp0bmhzZlBFemkxSXdGTkczdmpIdVhfcw",
-  "snippet": "4 injured after Hwy. 7 crash between Perth, Carleton Place CTV News",
-  "published": "2026-11-15T21:56:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-15T22:01:17.662095+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "bd0e2a5f08",
   "slug": "truckers-of-europe-3-open-beta-updates-is-out-v0-9-71-new-iveco-truck-bd0e2a5f08",
   "title": "Truckers Of Europe 3: 🥳Open Beta UPDATES IS OUT! v0.9.71 - NEW IVECO TRUCK Multiplayer Gameplay",
@@ -24908,35 +24879,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
- },
- {
-  "id": "c20dbb7cb7",
-  "slug": "idealease-archives-c20dbb7cb7",
-  "title": "Idealease Archives",
-  "orig_title": "Idealease Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBcUI4QmpEUmNaVGwxVDV1QUhYMEcyRl9hSW1ta2JlTHZobVREN25OaTVLTXJITTRRZW5jNGZ5cGllN254TExqRW5tYmZBTmpTUWo1LUFwTQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBcUI4QmpEUmNaVGwxVDV1QUhYMEcyRl9hSW1ta2JlTHZobVREN25OaTVLTXJITTRRZW5jNGZ5cGllN254TExqRW5tYmZBTmpTUWo1LUFwTQ",
-  "snippet": "Idealease Archives Truck News",
-  "published": "2026-11-13T08:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-15T22:01:17.662095+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
