@@ -82,7 +82,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3
  },
  {
@@ -202,6 +202,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "ae4db090de",
+  "slug": "florida-dmv-worker-charged-with-360-felonies-for-fake-licenses-for-ali-ae4db090de",
+  "title": "Florida DMV Worker Charged With 360 Felonies for Fake Licenses for Aliens",
+  "orig_title": "Florida DMV Worker Charged With 360 Felonies for Fake Licenses for Aliens",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "PJ Media",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUlQUEROMndaYVdZSjZuZlRiUHhad0hCZGdfdnJMT2JKZzdzanZaWU1zZ2lObHNfYjRUZHJkcXFLSDRSeGxTMHJ5bGFnNm9aTDJYZ2RneGtjYXdsaXRrbHVlMVJ6MzdoejF6dWpjOXAxMnI1RmFhV1h2TWJ4alRoVkVkNW9pVVJCN3UtZGNuLVRscmMtN2FWWW1ORlVDcDlKdWNZb1V3cHJCVjJNVGJmNkx4V21tMmM?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUlQUEROMndaYVdZSjZuZlRiUHhad0hCZGdfdnJMT2JKZzdzanZaWU1zZ2lObHNfYjRUZHJkcXFLSDRSeGxTMHJ5bGFnNm9aTDJYZ2RneGtjYXdsaXRrbHVlMVJ6MzdoejF6dWpjOXAxMnI1RmFhV1h2TWJ4alRoVkVkNW9pVVJCN3UtZGNuLVRscmMtN2FWWW1ORlVDcDlKdWNZb1V3cHJCVjJNVGJmNkx4V21tMmM",
+  "snippet": "Florida DMV Worker Charged With 360 Felonies for Fake Licenses for Aliens PJ Media",
+  "published": "2026-11-19T00:26:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T02:31:04.466815+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f5854a5763",
