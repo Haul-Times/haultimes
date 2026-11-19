@@ -3119,6 +3119,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "2308c68700": {
+   "story_id": "2308c68700",
+   "title": "Aetherion receives $2 million for Volvo CNG truck trials in Canada",
+   "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0RJYmtpOUhWeWlIbWRLejBFNGQ5VmhEa3NHOFlKaVN6bmNCQXZURE5QelVHNFBja0RoQnVrdGxmdktidXJFQkIxVmx2RmYzUnd1ZmI5MTAzTG9qeU15UUQ1dDVnNzFxSUpCcHlhQ0phQXo5ZlVvd1JYdXl0b1p5bVNKYmYzaFl5eDNTZkxYV2U1VVowR1NJRG5iZExhdjNweFctR3lPNmFLc0UxQzhWMXRaUlRveXpfY0E",
+   "category": "equip",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/aetherion-receives-2-million-for-volvo-cng-truck-trials-in-canada-2308c68700/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2308c68700",
+   "caption": "Aetherion receives $2 million for Volvo CNG truck trials in Canada.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking",
+   "status": "queued",
+   "created_at": "2026-11-19T13:41:35.380787+00:00",
+   "published": "2026-11-19T13:35:21+00:00",
+   "score": 66,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Aetherion receives $2 million for Volvo CNG truck trials in Canada | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/3726e910ad.png",
+    "og:url": "https://haultimes.com/story/aetherion-receives-2-million-for-volvo-cng-truck-trials-in-canada-2308c68700/"
+   },
+   "reason": "importance 66 (threshold 65), Equipment, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3905,7 +3933,8 @@
   "84be4694d7": "skipped|importance 57 is below this platform's threshold (65)",
   "5254d6f2cd": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "64bdaec7ec": "skipped|importance 51 is below this platform's threshold (65)",
-  "1b3bc19f28": "skipped|minor item (news) or low-quality source"
+  "1b3bc19f28": "skipped|minor item (news) or low-quality source",
+  "2308c68700": "queued|importance 66 (threshold 65), Equipment, trade publication"
  },
  "decisions": [
   {
@@ -8009,6 +8038,13 @@
    "title": "Could microrefineries help lower diesel prices in northern Canada?",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-19T13:41:35.380787+00:00",
+   "story_id": "2308c68700",
+   "title": "Aetherion receives $2 million for Volvo CNG truck trials in Canada",
+   "action": "queued",
+   "reason": "importance 66 (threshold 65), Equipment, trade publication"
   }
  ],
  "visibility": {
