@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:31:03.715262+00:00",
+ "updated": "2026-11-19T21:41:05.319984+00:00",
  "hour_now": 16,
  "have_us": true,
  "have_ca": true,
@@ -40,7 +40,7 @@
      0,
      4,
      14,
-     20,
+     22,
      3,
      10,
      1,
@@ -115,7 +115,7 @@
      18,
      21,
      18,
-     24,
+     27,
      6,
      0,
      0,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:17 pm EST",
+    "updated": "At 4:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 4:17 pm EST",
+    "status": "no delay",
+    "updated": "At 4:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -415,7 +415,7 @@
      5,
      5,
      6,
-     4,
+     5,
      0,
      0,
      0,
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm CST",
+    "updated": "At 5:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -715,7 +715,7 @@
      4,
      5,
      3,
-     4,
+     5,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:29:50",
+    "updated": "16:34:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-19 14:15 MDT"
+    "updated": "2026-11-19 15:32 MDT"
    },
    "usual": {
     "south": [
