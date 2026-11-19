@@ -1,5 +1,34 @@
 [
  {
+  "id": "fe5355f0b6",
+  "slug": "nyc-push-against-delivery-bill-brings-in-legal-and-racial-arguments-fe5355f0b6",
+  "title": "NYC push against delivery bill brings in legal and racial arguments",
+  "orig_title": "NYC push against delivery bill brings in legal and racial arguments",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTZTZm5JRklyanUxNzAyb2ZENGtqb1ZRb183ZVhCOXVMWUk2SGlHVzVNMUxwcXVhdEVpTEs5VUFKeGtYOVlxTE5LTzA0RGNRemZJY1hKN1kxS3RIQ0ppaEptdzFIQkdjM3B1bW1QUU14TG16VGpGZlczd2VGWDB6YUVrVW5YMlJ5emxyZ3ZKY2ljTmxYNklEMGFHTWE1YXdua0tR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTZTZm5JRklyanUxNzAyb2ZENGtqb1ZRb183ZVhCOXVMWUk2SGlHVzVNMUxwcXVhdEVpTEs5VUFKeGtYOVlxTE5LTzA0RGNRemZJY1hKN1kxS3RIQ0ppaEptdzFIQkdjM3B1bW1QUU14TG16VGpGZlczd2VGWDB6YUVrVW5YMlJ5emxyZ3ZKY2ljTmxYNklEMGFHTWE1YXdua0tR",
+  "snippet": "NYC push against delivery bill brings in legal and racial arguments FreightWaves",
+  "published": "2026-11-19T18:50:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T19:01:04.562120+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "1e326eb5c4",
   "slug": "eco-fuel-systems-offers-diesel-truck-fleets-fuel-savings-and-reduced-e-1e326eb5c4",
   "title": "ECO Fuel Systems Offers Diesel Truck Fleets Fuel Savings and Reduced Emissions",
@@ -742,7 +771,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/a-dozen-boxes-of-stolen-meat-loaded-back-onto-truck-after-thieves-ditch-them-miles-away/?amp",
   "source_note": "ok · 156 words"
  },
@@ -19617,71 +19646,6 @@
   "sum_pending": false
  },
  {
-  "id": "56b5acb2d3",
-  "slug": "best-way-trucking-extends-lease-for-186-855-square-foot-east-hanover-w-56b5acb2d3",
-  "title": "Best Way Trucking Extends Lease for 186,855-Square-Foot East Hanover Warehouse",
-  "orig_title": "Best Way Trucking Extends Lease for 186,855-Square-Foot East Hanover Warehouse",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 45,
-  "source": "Morris Focus",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMl9Cc3EzUmN5QUhJWVBpZ0xSdmttWHU0MnFyaDZDUFViYXI2dU5Bb3VhOVVzd2ItWUpIUkVuTzNDNzlWS2NjTm9LU1BsRk9sVkxnazVvLXlaUUx6Rk8yMFZKbkZLYnotTDhwYWo5WWlOV3BJXzNuLXNycXZ4bEI4NENLdlZLTVF0anp4TDJmbzdQeGpGdUJhTVVKakdqaDh6TFlmSnBTZm1qQzBBUk1BbHNVMA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMl9Cc3EzUmN5QUhJWVBpZ0xSdmttWHU0MnFyaDZDUFViYXI2dU5Bb3VhOVVzd2ItWUpIUkVuTzNDNzlWS2NjTm9LU1BsRk9sVkxnazVvLXlaUUx6Rk8yMFZKbkZLYnotTDhwYWo5WWlOV3BJXzNuLXNycXZ4bEI4NENLdlZLTVF0anp4TDJmbzdQeGpGdUJhTVVKakdqaDh6TFlmSnBTZm1qQzBBUk1BbHNVMA",
-  "snippet": "Best Way Trucking Extends Lease for 186,855-Square-Foot East Hanover Warehouse Morris Focus",
-  "published": "2026-11-15T18:41:18+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-15T18:51:05.356742+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://morrisfocus.com/2026/11/15/best-way-trucking-extends-lease-for-186855-square-foot-east-hanover-warehouse/",
-  "source_note": "ok · 285 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "cfc668e37933dd7e",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-15T18:51:05.356742+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "renewed and extended its lease"
-   },
-   {
-    "sentence": "2",
-    "quote": "The long-term agreement was reached while the existing lease was still in effect."
-   },
-   {
-    "sentence": "3",
-    "quote": "Resource Realty principals Tom Consiglio and Scott Peck represented the property owner"
-   },
-   {
-    "sentence": "4",
-    "quote": "21-foot clear ceiling heights"
-   },
-   {
-    "sentence": "5",
-    "quote": "access to Interstates 80, 287 and 78"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 12,
-  "ai_relevant": false
- },
- {
   "id": "697b6bd9d3",
   "slug": "chp-cites-truck-driver-after-spotting-20-mph-speed-violation-and-numer-697b6bd9d3",
   "title": "CHP cites truck driver after spotting 20 MPH speed violation and 'numerous' tire defects on I-5",
@@ -19767,35 +19731,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "1b368b8a9e",
-  "slug": "trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-1b368b8a9e",
-  "title": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
-  "orig_title": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "thecanadianpressnews.ca",
-  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYS1Rb194UXhhQ0tiVWdLTUhNaEN1WGdHWG0xVmg1WHNPMWw3d1lhbmVzLXk1TklvQ0xiOTgtWGFleEdTYk9XSjI0S1RfNThpeVpiNzNRZ3NPRjIycVduR19fNDgyV2xaQWxzVU9xbjhVczRhVzJpQ2lLUGZqUGFERU9JRFRkOXJISFRJMFJ3bzdDbnFiTW14ZVp5enBXV1RGWk82U1ZLSkYyZ2RGTzc3VFhBMjJkNHVmZGctYzhrQzN5U3E5OV9ra1dZZlkyY2ljV2hjX0M3aHdxWm1DcDVsekNFU0kxLWZpMXRLei1DTEM1eDlKSVdYZk5xYjdneUIyZi1UY2tpdFhlQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYS1Rb194UXhhQ0tiVWdLTUhNaEN1WGdHWG0xVmg1WHNPMWw3d1lhbmVzLXk1TklvQ0xiOTgtWGFleEdTYk9XSjI0S1RfNThpeVpiNzNRZ3NPRjIycVduR19fNDgyV2xaQWxzVU9xbjhVczRhVzJpQ2lLUGZqUGFERU9JRFRkOXJISFRJMFJ3bzdDbnFiTW14ZVp5enBXV1RGWk82U1ZLSkYyZ2RGTzc3VFhBMjJkNHVmZGctYzhrQzN5U3E5OV9ra1dZZlkyY2ljV2hjX0M3aHdxWm1DcDVsekNFU0kxLWZpMXRLei1DTEM1eDlKSVdYZk5xYjdneUIyZi1UY2tpdFhlQQ",
-  "snippet": "Trump breaks silence on nationwide ground stop and demands more money from Congress thecanadianpressnews.ca",
-  "published": "2026-11-15T15:31:19+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-15T18:51:05.356742+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
