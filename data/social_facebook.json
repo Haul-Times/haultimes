@@ -4077,7 +4077,8 @@
   "8b2733a4d4": "skipped|importance 45 is below this platform's threshold (65)",
   "6343e27282": "skipped|importance 50 is below this platform's threshold (65)",
   "3013e70790": "skipped|importance 57 is below this platform's threshold (65)",
-  "4099d64729": "skipped|importance 50 is below this platform's threshold (65)"
+  "4099d64729": "skipped|importance 50 is below this platform's threshold (65)",
+  "1e6f3e0b31": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8461,6 +8462,13 @@
    "title": "Ottawa paramedic dispatcher helps deliver baby over the phone",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T22:51:33.086809+00:00",
+   "story_id": "1e6f3e0b31",
+   "title": "DOL sticks with independent contractor proposal, trucking applauds",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
