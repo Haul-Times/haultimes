@@ -3988,7 +3988,8 @@
   "d07c5e25ad": "skipped|importance 45 is below this platform's threshold (65)",
   "af65fa1c1b": "skipped|minor item (announcement) or low-quality source",
   "78da8460d6": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
-  "promo-20261119": "queued|HaulTimes update"
+  "promo-20261119": "queued|HaulTimes update",
+  "3fbfb07934": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -8134,6 +8135,13 @@
    "title": "Freight Market reminder",
    "action": "queued",
    "reason": "HaulTimes update: promo"
+  },
+  {
+   "at": "2026-11-19T15:41:25.718707+00:00",
+   "story_id": "3fbfb07934",
+   "title": "Freightera Launches Instant Flatbed Quotes and Automated Flatbed Freight Booking in the United States",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
