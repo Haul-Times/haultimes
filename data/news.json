@@ -86,7 +86,39 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://hoodline.com/2026/11/two-truckers-killed-in-head-on-crash-on-highway-71-north-of-scottsbluff/",
+  "source_note": "ok · 332 words"
+ },
+ {
+  "id": "cd3d9235de",
+  "slug": "walmart-like-costco-sees-rise-in-doomsday-prepping-sales-cd3d9235de",
+  "title": "Walmart, like Costco, sees rise in 'doomsday prepping' sales",
+  "orig_title": "Walmart, like Costco, sees rise in 'doomsday prepping' sales",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KVmprc0p5UHhLR1NpaXlhVHRpbUJyQ2JvenptNm0yMTJyemhtZkpWMUF0ZUdxdEp2TVlUZkFSVWlIX3haX25MMVkwUXZVUnRCcjhMSTZ3Z054eUYxTEFCWUs2Wi1tcENvVV9tSWxB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KVmprc0p5UHhLR1NpaXlhVHRpbUJyQ2JvenptNm0yMTJyemhtZkpWMUF0ZUdxdEp2TVlUZkFSVWlIX3haX25MMVkwUXZVUnRCcjhMSTZ3Z054eUYxTEFCWUs2Wi1tcENvVV9tSWxB",
+  "snippet": "Walmart, like Costco, sees rise in 'doomsday prepping' sales Transport Topics",
+  "published": "2026-11-19T19:12:14+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T19:51:04.326164+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "21cfe17122",
