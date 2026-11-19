@@ -3936,7 +3936,8 @@
   "1b3bc19f28": "skipped|minor item (news) or low-quality source",
   "2308c68700": "queued|importance 66 (threshold 65), Equipment, trade publication",
   "c7e69a5d82": "skipped|importance 60 is below this platform's threshold (65)",
-  "d07c5e25ad": "skipped|importance 45 is below this platform's threshold (65)"
+  "d07c5e25ad": "skipped|importance 45 is below this platform's threshold (65)",
+  "af65fa1c1b": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -8061,6 +8062,13 @@
    "title": "Mexico's Border Freight Needs Smarter Truck Scheduling",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T14:51:58.415071+00:00",
+   "story_id": "af65fa1c1b",
+   "title": "Roadrunner adds outbound LTL service for customers in Canada",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {

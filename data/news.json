@@ -1,5 +1,38 @@
 [
  {
+  "id": "af65fa1c1b",
+  "slug": "roadrunner-adds-outbound-ltl-service-for-customers-in-canada-af65fa1c1b",
+  "title": "Roadrunner adds outbound LTL service for customers in Canada",
+  "orig_title": "Roadrunner adds outbound LTL service for customers in Canada",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "Trucking Dive",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVh4M1ZzRnFLYjBhYUpUc3Bud1dMWlp3Q2NmNlBDbDB2SXhuWXFoYzNGOTNhcHZnSTBLbWpEdXBydUZIdTI0VUQ1T2J5Ym1oa1F5VTYtRnZKbC1vN0tMemI3MDkyd2xvYTNIMF93UElqUDJnMkdBOV8xOVhaY01QaklhcEdGTW5yMFBIQzloVmJWRXBYaUxpZDlCZGIyRWxrMktVZg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVh4M1ZzRnFLYjBhYUpUc3Bud1dMWlp3Q2NmNlBDbDB2SXhuWXFoYzNGOTNhcHZnSTBLbWpEdXBydUZIdTI0VUQ1T2J5Ym1oa1F5VTYtRnZKbC1vN0tMemI3MDkyd2xvYTNIMF93UElqUDJnMkdBOV8xOVhaY01QaklhcEdGTW5yMFBIQzloVmJWRXBYaUxpZDlCZGIyRWxrMktVZg",
+  "snippet": "Roadrunner adds outbound LTL service for customers in Canada Trucking Dive",
+  "published": "2026-11-19T14:40:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T14:51:09.556662+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [
+   "Company announcement"
+  ],
+  "kind": "announcement",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "d07c5e25ad",
   "slug": "mexico-s-border-freight-needs-smarter-truck-scheduling-d07c5e25ad",
   "title": "Mexico's Border Freight Needs Smarter Truck Scheduling",
@@ -32,8 +65,8 @@
   "sum_status": "withheld",
   "source_fp": "9fbdd2abaee3f12d",
   "source_scope": "full_article",
-  "sum_at": "2026-11-19T14:41:06.211486+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-19T14:51:09.556662+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
@@ -42,22 +75,27 @@
    },
    {
     "sentence": "2",
-    "quote": "representing a 34.2% annual increase"
-   },
-   {
-    "sentence": "2",
-    "quote": "Trucks transported approximately US$75.4 billion"
+    "quote": "According to the US Bureau of Transportation Statistics (BTS)"
    },
    {
     "sentence": "3",
-    "quote": "These figures are illustrative and do not represent verified Mexican freight tariffs."
+    "quote": "Laredo, El Paso, and Otay Mesa remained the leading US truck ports"
+   },
+   {
+    "sentence": "4",
+    "quote": "Consider an illustrative shipment carrying MX$2 million in merchandise"
+   },
+   {
+    "sentence": "5",
+    "quote": "the additional inventory expense would exceed the MX$850 transportation benefit"
    }
   ],
   "sum_problems": [
-   "name 'Mexico-US' is not in the source"
+   "copies a 12-word run from the source: 'mexican importers can reduce border delays through better crossing sch'"
   ],
   "ai_category": "border",
-  "ai_importance": 40
+  "ai_importance": 40,
+  "sum_v3": true
  },
  {
   "id": "a67a9b84d7",
