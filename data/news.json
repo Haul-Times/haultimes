@@ -1,5 +1,37 @@
 [
  {
+  "id": "c2ffd77903",
+  "slug": "paccar-recalls-6-185-trucks-over-radar-braking-fault-c2ffd77903",
+  "title": "PACCAR recalls 6,185 trucks over radar braking fault",
+  "orig_title": "PACCAR recalls 6,185 trucks over radar braking fault",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "",
+  "importance": 75,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNDY21DQURVTm1IRTNQY0FGd1dEalRiUHVpQnl4TVQxdWc0eEFILWFxNnd1eEtHS21UaDdBcDlmZm10aUQ0MGM0ZjJBTDg0YjBXeTA5bDd5YUs4SVRaSEVOckU2X2tHR1ZOTmRlYlM4d21tUTNvQ0dacXBONEFQa2czekRNcWc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNDY21DQURVTm1IRTNQY0FGd1dEalRiUHVpQnl4TVQxdWc0eEFILWFxNnd1eEtHS21UaDdBcDlmZm10aUQ0MGM0ZjJBTDg0YjBXeTA5bDd5YUs4SVRaSEVOckU2X2tHR1ZOTmRlYlM4d21tUTNvQ0dacXBONEFQa2czekRNcWc",
+  "snippet": "PACCAR recalls 6,185 trucks over radar braking fault FreightWaves",
+  "published": "2026-11-19T20:19:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T20:31:03.972082+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/paccar-kenworth-peterbilt-radar-braking-recall",
+  "source_note": "paywalled: excerpt only · 25 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "abb603cb89",
   "slug": "background-check-backfire-carrier-sued-after-truck-driver-kills-costco-abb603cb89",
   "title": "Background check backfire: Carrier sued after truck driver kills Costco worker",
@@ -24,7 +56,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://landline.media/background-check-backfire-carrier-sued-after-truck-driver-kills-costco-worker/",
+  "source_note": "excerpt only · 24 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "c911bf5e7d",
@@ -80,7 +117,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ctvnews.ca/toronto/local/york/article/4-brampton-suspects-charged-after-36-million-worth-of-stolen-tractor-trailers-recovered/",
   "source_note": "ok · 199 words"
@@ -541,7 +578,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://t.co/Z3Slo5PjAP",
+  "source_note": "robots.txt disallows",
+  "sum_done": true,
+  "sum_status": "no source text (robots.txt disallows)"
  },
  {
   "id": "4f1af11d5b",
@@ -2562,7 +2604,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.truescoopnews.com/punjab/bridge-collapses-on-patiala-sangrur-bathinda-highway-2-trucks-left-hanging",
+  "source_note": "paywalled: excerpt only · 11 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "ae3bee733b",

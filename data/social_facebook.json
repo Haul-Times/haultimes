@@ -3224,6 +3224,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "c2ffd77903": {
+   "story_id": "c2ffd77903",
+   "title": "PACCAR recalls 6,185 trucks over radar braking fault",
+   "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNDY21DQURVTm1IRTNQY0FGd1dEalRiUHVpQnl4TVQxdWc0eEFILWFxNnd1eEtHS21UaDdBcDlmZm10aUQ0MGM0ZjJBTDg0YjBXeTA5bDd5YUs4SVRaSEVOckU2X2tHR1ZOTmRlYlM4d21tUTNvQ0dacXBONEFQa2czekRNcWc",
+   "category": "equip",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/paccar-recalls-6-185-trucks-over-radar-braking-fault-c2ffd77903/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=c2ffd77903",
+   "caption": "PACCAR recalls 6,185 trucks over radar braking fault.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-19T20:31:25.008262+00:00",
+   "published": "2026-11-19T20:19:16+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "PACCAR recalls 6,185 trucks over radar braking fault | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/46605e4818.png",
+    "og:url": "https://haultimes.com/story/paccar-recalls-6-185-trucks-over-radar-braking-fault-c2ffd77903/"
+   },
+   "reason": "importance 75 (threshold 65), Equipment, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -4037,7 +4065,8 @@
   "ce44cc0f60": "queued|importance 76 (threshold 65), Regulations, established outlet",
   "76bb6ac137": "skipped|importance 45 is below this platform's threshold (65)",
   "266748d5a0": "skipped|minor item (incident) or low-quality source",
-  "abb603cb89": "skipped|importance 55 is below this platform's threshold (65)"
+  "abb603cb89": "skipped|importance 55 is below this platform's threshold (65)",
+  "c2ffd77903": "queued|importance 75 (threshold 65), Equipment, trade publication"
  },
  "decisions": [
   {
@@ -8330,6 +8359,13 @@
    "title": "Background check backfire: Carrier sued after truck driver kills Costco worker",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T20:31:25.008262+00:00",
+   "story_id": "c2ffd77903",
+   "title": "PACCAR recalls 6,185 trucks over radar braking fault",
+   "action": "queued",
+   "reason": "importance 75 (threshold 65), Equipment, trade publication"
   }
  ],
  "visibility": {
