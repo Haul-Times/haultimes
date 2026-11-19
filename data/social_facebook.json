@@ -4066,7 +4066,9 @@
   "76bb6ac137": "skipped|importance 45 is below this platform's threshold (65)",
   "266748d5a0": "skipped|minor item (incident) or low-quality source",
   "abb603cb89": "skipped|importance 55 is below this platform's threshold (65)",
-  "c2ffd77903": "queued|importance 75 (threshold 65), Equipment, trade publication"
+  "c2ffd77903": "queued|importance 75 (threshold 65), Equipment, trade publication",
+  "0261bd3c91": "skipped|importance 61 is below this platform's threshold (65)",
+  "d5022cb19b": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8366,6 +8368,20 @@
    "title": "PACCAR recalls 6,185 trucks over radar braking fault",
    "action": "queued",
    "reason": "importance 75 (threshold 65), Equipment, trade publication"
+  },
+  {
+   "at": "2026-11-19T20:41:24.736911+00:00",
+   "story_id": "0261bd3c91",
+   "title": "Police recover stolen trucks, trailers worth $3.6 million from Brampton, Ont. yard",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T20:41:24.736911+00:00",
+   "story_id": "d5022cb19b",
+   "title": "New Independent Contractor Rule Gives Trucking More Clarity",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
