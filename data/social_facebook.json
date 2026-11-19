@@ -3196,6 +3196,34 @@
    "preview": {},
    "house": "promo",
    "reason": "HaulTimes update: promo"
+  },
+  "ce44cc0f60": {
+   "story_id": "ce44cc0f60",
+   "title": "Troopers take 73% of inspected trucks out-of-service during one-day detail at Texas Motor Speedway",
+   "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjd6NWwtS1o1ZnZBcUVncDB5U2xyRTZCMnNUNFV3S01vTEVydVN6eVNKeUkweG5VTU95cHRaSXJtel91bVZfcmxBLVhTVmlxZGJiVEMtTnVMZmNEaWxEQks5UE9sOGp4VURtQ2Q0M3RVZHRfemR1a1JfdEhvNk5TLU1lYXE1eVhSMGF4UXF2Zjc3TjlVWWtwYWF2VTFGRTd5VW9FN3FMMkxEbWQ0Q3VTR3BHa2ppeko5Z2pFVEN1UFQtbmdTclE",
+   "category": "regs",
+   "source": "CDLLife",
+   "dest": "https://haultimes.com/story/troopers-take-73-of-inspected-trucks-out-of-service-during-one-day-det-ce44cc0f60/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ce44cc0f60",
+   "caption": "Troopers take 73% of inspected trucks out-of-service during one-day detail at Texas Motor Speedway.\n\nReported by CDLLife. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-19T20:11:25.008082+00:00",
+   "published": "2026-11-19T17:43:58+00:00",
+   "score": 76,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Troopers take 73% of inspected trucks out-of-service during one-day detail at Texas Motor Speedway | HaulTimes",
+    "og:description": "Reported by CDLLife. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/91181fb4be.png",
+    "og:url": "https://haultimes.com/story/troopers-take-73-of-inspected-trucks-out-of-service-during-one-day-det-ce44cc0f60/"
+   },
+   "reason": "importance 76 (threshold 65), Regulations, established outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -4005,7 +4033,10 @@
   "09aaf50e23": "skipped|minor item (incident) or low-quality source",
   "3cd37ee7d9": "skipped|importance 55 is below this platform's threshold (65)",
   "8f3c8ec650": "skipped|importance 55 is below this platform's threshold (65)",
-  "145b67c7f9": "skipped|importance 56 is below this platform's threshold (65)"
+  "145b67c7f9": "skipped|importance 56 is below this platform's threshold (65)",
+  "ce44cc0f60": "queued|importance 76 (threshold 65), Regulations, established outlet",
+  "76bb6ac137": "skipped|importance 45 is below this platform's threshold (65)",
+  "266748d5a0": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -8270,6 +8301,27 @@
    "title": "4 Brampton suspects charged after $3.6 million worth of stolen tractor-trailers recovered",
    "action": "skipped",
    "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T20:11:25.008082+00:00",
+   "story_id": "ce44cc0f60",
+   "title": "Troopers take 73% of inspected trucks out-of-service during one-day detail at Texas Motor Speedway",
+   "action": "queued",
+   "reason": "importance 76 (threshold 65), Regulations, established outlet"
+  },
+  {
+   "at": "2026-11-19T20:11:25.008082+00:00",
+   "story_id": "76bb6ac137",
+   "title": "TRUCKING INFLUENCERS, ZERO FILTERS, THE INDUSTRY GETS EXPOSED! | BRAKE CHECK - YouTube",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T20:11:25.008082+00:00",
+   "story_id": "266748d5a0",
+   "title": "Authorities identify driver in Waterloo freightliner crash",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
