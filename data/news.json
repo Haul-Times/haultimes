@@ -1,5 +1,34 @@
 [
  {
+  "id": "2ccbad69cd",
+  "slug": "transport-industry-job-crisis-looms-2ccbad69cd",
+  "title": "Transport industry job crisis looms",
+  "orig_title": "Transport industry job crisis looms",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Benalla Ensign",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGhkSEtGRzNIRTZwNjZBWmpkY29wQmk3RDRfOFBOUDB0amo2RDhEb3J3dTNCNzc5M1ZTQ09adTMzTTJBbWVzMG1TLWtIbDFWRC13VE11aXJ6QzBoVWI0QXhDOXFiYWZ4Tk5pTmcxcE0yNjNpamxWalBOQzhkT280b1FnTDZhMEk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGhkSEtGRzNIRTZwNjZBWmpkY29wQmk3RDRfOFBOUDB0amo2RDhEb3J3dTNCNzc5M1ZTQ09adTMzTTJBbWVzMG1TLWtIbDFWRC13VE11aXJ6QzBoVWI0QXhDOXFiYWZ4Tk5pTmcxcE0yNjNpamxWalBOQzhkT280b1FnTDZhMEk",
+  "snippet": "Transport industry job crisis looms Benalla Ensign",
+  "published": "2026-11-19T04:56:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T05:01:05.761397+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "8dde340484",
   "slug": "moyale-fighting-leaves-truck-drivers-stranded-in-ethiopia-as-some-risk-8dde340484",
   "title": "Moyale fighting leaves truck drivers stranded in Ethiopia as some risk deadly escape into Kenya",

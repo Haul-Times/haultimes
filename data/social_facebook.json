@@ -2988,7 +2988,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/the-trump-crackdown-aims-at-the-driver-however-the-same-government-kee-5cf64239b7/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=5cf64239b7",
    "caption": "The Trump Crackdown Aims At The Driver, However The Same Government Keeps Clearing The Company Behind Him.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-18T17:01:25.944532+00:00",
    "published": "2026-11-18T16:51:46+00:00",
    "score": 67,
@@ -3837,7 +3837,7 @@
   "5abfecef3f": "skipped|importance 55 is below this platform's threshold (65)",
   "179c15e416": "skipped|importance 50 is below this platform's threshold (65)",
   "e31650b54b": "skipped|importance 60 is below this platform's threshold (65)",
-  "5cf64239b7": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "5cf64239b7": "expired|stale before a slot opened (published 12h ago)",
   "ec83090455": "skipped|importance 55 is below this platform's threshold (65)",
   "4c5bfcedf1": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "423316c758": "skipped|importance 55 is below this platform's threshold (65)",
@@ -7929,6 +7929,13 @@
    "title": "Paramvir Singh Gets 30 Months in $7.2M Cargo Theft Case",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T05:01:22.711840+00:00",
+   "story_id": "5cf64239b7",
+   "title": "The Trump Crackdown Aims At The Driver, However The Same Government Keeps Clearing The Company Behind Him",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {
