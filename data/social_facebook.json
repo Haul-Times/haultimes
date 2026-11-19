@@ -4069,7 +4069,8 @@
   "c2ffd77903": "queued|importance 75 (threshold 65), Equipment, trade publication",
   "0261bd3c91": "skipped|importance 61 is below this platform's threshold (65)",
   "d5022cb19b": "skipped|importance 55 is below this platform's threshold (65)",
-  "489a260e1f": "skipped|minor item (crime) or low-quality source"
+  "489a260e1f": "skipped|minor item (crime) or low-quality source",
+  "9415c6a294": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8390,6 +8391,13 @@
    "title": "Illegal Alien Sentenced to 2.5 Years Behind Bars for $7.2M Trucking Cargo Theft Ring in California",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-19T21:01:20.950935+00:00",
+   "story_id": "9415c6a294",
+   "title": "OPP charge commercial vehicle driver and company after taking unsafe vehicle off the road",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
