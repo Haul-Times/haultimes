@@ -3871,7 +3871,8 @@
   "f5854a5763": "skipped|importance 62 is below this platform's threshold (65)",
   "1c26952fef": "skipped|importance 45 is below this platform's threshold (65)",
   "99b95a016e": "skipped|importance 45 is below this platform's threshold (65)",
-  "36c1405daf": "skipped|importance 50 is below this platform's threshold (65)"
+  "36c1405daf": "skipped|importance 50 is below this platform's threshold (65)",
+  "5974bfaec0": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7898,6 +7899,13 @@
    "title": "Canadian freight volumes climb as US spot rates remain elevated",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-19T02:41:34.387980+00:00",
+   "story_id": "5974bfaec0",
+   "title": "A Cincinnati suburb erupts over trucks, mosque and Uzbeks",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
