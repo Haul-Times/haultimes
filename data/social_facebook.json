@@ -4068,7 +4068,8 @@
   "abb603cb89": "skipped|importance 55 is below this platform's threshold (65)",
   "c2ffd77903": "queued|importance 75 (threshold 65), Equipment, trade publication",
   "0261bd3c91": "skipped|importance 61 is below this platform's threshold (65)",
-  "d5022cb19b": "skipped|importance 55 is below this platform's threshold (65)"
+  "d5022cb19b": "skipped|importance 55 is below this platform's threshold (65)",
+  "489a260e1f": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -8382,6 +8383,13 @@
    "title": "New Independent Contractor Rule Gives Trucking More Clarity",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T20:51:23.829720+00:00",
+   "story_id": "489a260e1f",
+   "title": "Illegal Alien Sentenced to 2.5 Years Behind Bars for $7.2M Trucking Cargo Theft Ring in California",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
