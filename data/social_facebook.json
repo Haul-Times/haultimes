@@ -3993,7 +3993,9 @@
   "a4c56f2906": "skipped|importance 50 is below this platform's threshold (65)",
   "057d13e76c": "skipped|importance 51 is below this platform's threshold (65)",
   "cc23d9a52c": "skipped|importance 45 is below this platform's threshold (65)",
-  "b607dd8b02": "skipped|importance 50 is below this platform's threshold (65)"
+  "b607dd8b02": "skipped|importance 50 is below this platform's threshold (65)",
+  "4f1af11d5b": "skipped|importance 55 is below this platform's threshold (65)",
+  "de58a7579c": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -8174,6 +8176,20 @@
    "title": "A dozen boxes of stolen meat loaded back onto truck after thieves ditch them miles away",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T18:11:55.444137+00:00",
+   "story_id": "4f1af11d5b",
+   "title": "Delivery driver selected for inaugural Drive & Thrive program",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T18:11:55.444137+00:00",
+   "story_id": "de58a7579c",
+   "title": "KeNHA Names Sand and Ballast Truckers as Biggest Culprits in Overloading, Reveals Enforcement Challenges",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {

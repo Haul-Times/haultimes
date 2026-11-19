@@ -1,5 +1,65 @@
 [
  {
+  "id": "de58a7579c",
+  "slug": "kenha-names-sand-and-ballast-truckers-as-biggest-culprits-in-overloadi-de58a7579c",
+  "title": "KeNHA Names Sand and Ballast Truckers as Biggest Culprits in Overloading, Reveals Enforcement Challenges",
+  "orig_title": "KeNHA Names Sand and Ballast Truckers as Biggest Culprits in Overloading, Reveals Enforcement Challenges",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 47,
+  "source": "Uzalendo News",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3pFWUxKMzZsdUFERHM4cDRhN0FVZXZMVWFrM1dOQ0lvRXFJRW40dnJUeTkxckg3T2VzWThEUGtpM0NUM1o2QVc0bzQ0bkpBcENDMmdRaHp3bkhaREFaU2tDZk4wV1lNdzlCcnpMTGJOM1VHTmtwWFZXMWFVbk1fWGl4MWhTZmQyUlhGUW5faU9WdzdJRVEwZmFMakJSUFpXMHdkSFJ2ZDNNNWE4NzlSc1c5SldvajFSZDRzcXc1TEQ4WnNMaGZlSVNn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3pFWUxKMzZsdUFERHM4cDRhN0FVZXZMVWFrM1dOQ0lvRXFJRW40dnJUeTkxckg3T2VzWThEUGtpM0NUM1o2QVc0bzQ0bkpBcENDMmdRaHp3bkhaREFaU2tDZk4wV1lNdzlCcnpMTGJOM1VHTmtwWFZXMWFVbk1fWGl4MWhTZmQyUlhGUW5faU9WdzdJRVEwZmFMakJSUFpXMHdkSFJ2ZDNNNWE4NzlSc1c5SldvajFSZDRzcXc1TEQ4WnNMaGZlSVNn",
+  "snippet": "KeNHA Names Sand and Ballast Truckers as Biggest Culprits in Overloading, Reveals Enforcement Challenges Uzalendo News",
+  "published": "2026-11-19T18:08:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T18:11:05.171975+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [
+   "Company announcement"
+  ],
+  "kind": "announcement",
+  "sum_pending": true
+ },
+ {
+  "id": "4f1af11d5b",
+  "slug": "delivery-driver-selected-for-inaugural-drive-thrive-program-4f1af11d5b",
+  "title": "Delivery driver selected for inaugural Drive & Thrive program",
+  "orig_title": "Delivery driver selected for inaugural Drive & Thrive program",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTFienc4a1M3bTdSSHo5YUtoVG5TUjdsbTVMcWpfM0xaaGNJd0RjZEd4WUVTazE4dTJITHJTazBqN0JjQVJxdEI0MjVjVFpDc2xEVk1FTkF0VXVxYVlYYjJodkRQT1U5SWRmdlFFd2pDSnVIWkdzSzNWR1p6ZEJwOTFvMEE0cG9lQWthZ0hiRElyZXRfQWcwbnNyWGZBMHNDcU12cWNBb09hdUk1Ykl3SXpoNA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTFienc4a1M3bTdSSHo5YUtoVG5TUjdsbTVMcWpfM0xaaGNJd0RjZEd4WUVTazE4dTJITHJTazBqN0JjQVJxdEI0MjVjVFpDc2xEVk1FTkF0VXVxYVlYYjJodkRQT1U5SWRmdlFFd2pDSnVIWkdzSzNWR1p6ZEJwOTFvMEE0cG9lQWthZ0hiRElyZXRfQWcwbnNyWGZBMHNDcU12cWNBb09hdUk1Ykl3SXpoNA",
+  "snippet": "Delivery driver selected for inaugural Drive & Thrive program Truck News",
+  "published": "2026-11-19T18:01:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T18:11:05.171975+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "057d13e76c",
   "slug": "kenha-deploys-mobile-weighbridges-warns-truckers-against-using-alterna-057d13e76c",
   "title": "KeNHA Deploys Mobile Weighbridges, Warns Truckers Against Using Alternative Routes to Evade Axle Load Checks",
@@ -25,7 +85,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://uzalendonews.co.ke/kenha-deploys-mobile-weighbridges-warns-truckers-against-using-alternative-routes-to-evade-axle-load-checks",
   "source_note": "ok · 312 words"
  },
@@ -11429,12 +11489,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: How ATA Wants to Fix ELD Certification"
+   "same story as: ATA proposes 6 steps to help FMCSA combat ELD fraud"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "a812fcb144"
+  "dup_of": "34b43b0666"
  },
  {
   "id": "c042a9dc19",
