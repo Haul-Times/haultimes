@@ -1,5 +1,34 @@
 [
  {
+  "id": "27a8dd4c3b",
+  "slug": "news-us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates-27a8dd4c3b",
+  "title": "News US truckers feel the squeeze as fuel price outpaces freight rates",
+  "orig_title": "News US truckers feel the squeeze as fuel price outpaces freight rates",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Loadstar",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMlB3WmJRQXZ3VHhwaFB3ZVduVEVpVnRhNXRuVDdWeFJTeTU5akR3alZtdnN5YlBETzh0Q05rdThXTk5RVWZRQzFJeFc5X1RFYkJ2Wm94aW1CbnQ2eFJIWWJIYXhnM055RDl2S3laeWMzWXdOYjdWNWY5RnNMVlNNTFZLNF82a21BSHdadDYyU1d6QWQt?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMlB3WmJRQXZ3VHhwaFB3ZVduVEVpVnRhNXRuVDdWeFJTeTU5akR3alZtdnN5YlBETzh0Q05rdThXTk5RVWZRQzFJeFc5X1RFYkJ2Wm94aW1CbnQ2eFJIWWJIYXhnM055RDl2S3laeWMzWXdOYjdWNWY5RnNMVlNNTFZLNF82a21BSHdadDYyU1d6QWQt",
+  "snippet": "News US truckers feel the squeeze as fuel price outpaces freight rates The Loadstar",
+  "published": "2026-11-19T12:11:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T12:21:01.888984+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "freight rates for another transport mode"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "1b3bc19f28",
   "slug": "could-microrefineries-help-lower-diesel-prices-in-northern-canada-1b3bc19f28",
   "title": "Could microrefineries help lower diesel prices in northern Canada?",
@@ -25,7 +54,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1
+  "sum_tries": 2
  },
  {
   "id": "a82c9d6ba2",
@@ -22414,35 +22443,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
- },
- {
-  "id": "b5e59dbc6e",
-  "slug": "prairie-op-co-prop-q3-2026-earnings-call-transcript-b5e59dbc6e",
-  "title": "Prairie Op. Co. (PROP) Q3 2026 Earnings Call Transcript",
-  "orig_title": "Prairie Op. Co. (PROP) Q3 2026 Earnings Call Transcript",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkdxMzl5WVNFN1FRYUszRWZzLUZFbXBKMVdXM2tiVXhqSVJnQ3R4LUp3STlYNG1YTHBKRk1kb1MyOU51R3F6ZF9EbUFvLWk5MEpGdGd2X2tCMlpyTGVGdENWY3dSNko5VW1vTzJvTkw2aXZTcmU4czRWTVd2X19lZFFnZzZjRzFVem0zb0lLU0pwZFlKTUZZV2RBek5JQUNrMkl0TjNnUEZsYkdDSmNHazQ1OFpxZVZEOUw0ZUU2WFZVVjEtZXBlTzhPRXp6SEVfblE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkdxMzl5WVNFN1FRYUszRWZzLUZFbXBKMVdXM2tiVXhqSVJnQ3R4LUp3STlYNG1YTHBKRk1kb1MyOU51R3F6ZF9EbUFvLWk5MEpGdGd2X2tCMlpyTGVGdENWY3dSNko5VW1vTzJvTkw2aXZTcmU4czRWTVd2X19lZFFnZzZjRzFVem0zb0lLU0pwZFlKTUZZV2RBek5JQUNrMkl0TjNnUEZsYkdDSmNHazQ1OFpxZVZEOUw0ZUU2WFZVVjEtZXBlTzhPRXp6SEVfblE",
-  "snippet": "Prairie Op. Co. (PROP) Q3 2026 Earnings Call Transcript The Globe and Mail",
-  "published": "2026-11-13T08:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-15T12:11:06.295088+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "stock commentary, no trucking development"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
