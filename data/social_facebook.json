@@ -3867,7 +3867,8 @@
   "6a466d8770": "skipped|importance 55 is below this platform's threshold (65)",
   "9a5a49f65b": "skipped|minor item (incident) or low-quality source",
   "62a197e800": "skipped|importance 61 is below this platform's threshold (65)",
-  "06225626f3": "skipped|importance 45 is below this platform's threshold (65)"
+  "06225626f3": "skipped|importance 45 is below this platform's threshold (65)",
+  "f5854a5763": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7845,6 +7846,13 @@
    "title": "Truckers Against Trafficking displays mobile human trafficking awareness exhibit",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T00:31:17.939002+00:00",
+   "story_id": "f5854a5763",
+   "title": "Diesel prices punished shippers in September, FTR says",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
