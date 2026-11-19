@@ -1,5 +1,34 @@
 [
  {
+  "id": "6dda6ff5ab",
+  "slug": "suspects-charged-in-brazen-train-heist-ring-that-netted-22-million-in-6dda6ff5ab",
+  "title": "Suspects charged in brazen train heist ring that netted $22 million in cargo from major retailers",
+  "orig_title": "Suspects charged in brazen train heist ring that netted $22 million in cargo from major retailers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Business Journal",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWpLemxkME5GSDFxbUFOS0FHQXVOenMxcERncEtqMFhteEhYcnhaVDBFUWN1TTBrZDJGTHVpa3dYM185ZzRfcTlmVUtRcDh2cHcySDdQNFBHamNIaWllUUhBUGlVM3JwbXVmNDFnb2dUYXFfaG9ubFZhbDl3ekNQZncyWkhlaDE2WjZn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWpLemxkME5GSDFxbUFOS0FHQXVOenMxcERncEtqMFhteEhYcnhaVDBFUWN1TTBrZDJGTHVpa3dYM185ZzRfcTlmVUtRcDh2cHcySDdQNFBHamNIaWllUUhBUGlVM3JwbXVmNDFnb2dUYXFfaG9ubFZhbDl3ekNQZncyWkhlaDE2WjZn",
+  "snippet": "Suspects charged in brazen train heist ring that netted $22 million in cargo from major retailers The Business Journal",
+  "published": "2026-11-19T21:39:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T21:51:07.970051+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "535cf31636",
   "slug": "lamborghini-and-cross-border-trucks-collide-in-shenzhen-bay-tunnel-pil-535cf31636",
   "title": "Lamborghini and cross-border trucks collide in Shenzhen Bay tunnel pile-up",
@@ -226,7 +255,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/oregon-police-stop-84-truckers-for-bypassing-scale-as-part-of-three-weigh-station-enforcement-operations/",
   "source_note": "ok · 336 words"
@@ -411,7 +440,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "c911bf5e7d",
@@ -1300,6 +1333,35 @@
   "sum_pending": false
  },
  {
+  "id": "f60058649f",
+  "slug": "ronald-fossell-obituary-f60058649f",
+  "title": "Ronald Fossell Obituary",
+  "orig_title": "Ronald Fossell Obituary",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Press Democrat",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObm82SlE0Qm9JMjczeUYwWDI0QWRGcEwwWDRuX2laSVVEZVlKeGpiX3h2cENUX3V2QlBSSnA1S3Z1MURlMmRDdDBuSDFmeS1oR0RmcTFqSzlZSGRmeW1ETjQtSFJ5cDFnVm1fSDFRek1IZmFXbkhWTmVELWFzZzBfaVc1dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObm82SlE0Qm9JMjczeUYwWDI0QWRGcEwwWDRuX2laSVVEZVlKeGpiX3h2cENUX3V2QlBSSnA1S3Z1MURlMmRDdDBuSDFmeS1oR0RmcTFqSzlZSGRmeW1ETjQtSFJ5cDFnVm1fSDFRek1IZmFXbkhWTmVELWFzZzBfaVc1dw",
+  "snippet": "Ronald Fossell Obituary The Press Democrat",
+  "published": "2026-11-19T17:34:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T21:51:07.970051+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a4c56f2906",
   "slug": "ignite-georgia-s-new-collegiate-supply-chain-innovation-competition-a4c56f2906",
   "title": "IGNITE: Georgia’s new collegiate supply chain innovation competition",
@@ -2166,7 +2228,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://windsornewstoday.ca/windsor/news/2026/11/19/opp-charge-commercial-vehicle-driver-and-company-after-taking-unsafe-vehicle-off-the-road",
   "source_note": "ok · 257 words"
  },
