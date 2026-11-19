@@ -1,5 +1,34 @@
 [
  {
+  "id": "67290eda62",
+  "slug": "content-authored-by-anton-l-delgado-67290eda62",
+  "title": "Content Authored By Anton L. Delgado",
+  "orig_title": "Content Authored By Anton L. Delgado",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUTNNdk1wb2JURWI1VzVsS1pQNzJjb2VNbWdxYkhQbFFoZkhpdVJFcFBtMjlDNDgtVGlfMEpwQlNXdGZLN3R0a3o2Vk9MVUM1VEozR3ZvbUNDQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUTNNdk1wb2JURWI1VzVsS1pQNzJjb2VNbWdxYkhQbFFoZkhpdVJFcFBtMjlDNDgtVGlfMEpwQlNXdGZLN3R0a3o2Vk9MVUM1VEozR3ZvbUNDQQ",
+  "snippet": "Content Authored By Anton L. Delgado Transport Topics",
+  "published": "2026-11-19T15:10:14+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T15:11:05.005036+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "0efdd05e16",
   "slug": "expeditors-enters-new-logistics-frontier-supporting-kennedy-space-miss-0efdd05e16",
   "title": "Expeditors enters new logistics frontier supporting Kennedy space missions",
@@ -60,6 +89,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "880da947ef",
+  "slug": "iea-says-no-going-back-to-pre-iran-war-s-energy-shock-880da947ef",
+  "title": "IEA says no going back to pre-Iran war's energy shock",
+  "orig_title": "IEA says no going back to pre-Iran war's energy shock",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Cc3hxaU53dGR1ZldQakQzRnMwVzhUNF9US1ZURFRnUWpOdGFOSllWeTVhaUROTWhWc3JkTUhpdmNMcnN2QWQ3cHZhbjJjUGZmdDVERUxycHRWZElvZ3lhb3owSk1lcG5wTEYzaQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Cc3hxaU53dGR1ZldQakQzRnMwVzhUNF9US1ZURFRnUWpOdGFOSllWeTVhaUROTWhWc3JkTUhpdmNMcnN2QWQ3cHZhbjJjUGZmdDVERUxycHRWZElvZ3lhb3owSk1lcG5wTEYzaQ",
+  "snippet": "IEA says no going back to pre-Iran war's energy shock Transport Topics",
+  "published": "2026-11-19T14:39:04+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T15:11:05.005036+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d07c5e25ad",
@@ -4413,6 +4471,35 @@
   "sum_problems": [],
   "ai_category": "regs",
   "ai_importance": 62
+ },
+ {
+  "id": "df4353fa2f",
+  "slug": "geodis-launches-u-s-final-mile-index-as-delivery-costs-rise-three-time-df4353fa2f",
+  "title": "GEODIS Launches U.S. Final Mile Index as Delivery Costs Rise Three Times Faster Than Inflation",
+  "orig_title": "GEODIS Launches U.S. Final Mile Index as Delivery Costs Rise Three Times Faster Than Inflation",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Manila Times",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT3gtY0xta2pqdUFyOXFTRlBTN0F2YXgwV05UZ1RtU0xTMUp6S3ZQeE5pN2VJbFNwQmpVRVZSQW1icnMwN2V3dVZsYVV5aFp2TV9zalZaZTBSN3R1V3hjeGdmTV9ZWWZDR3A4RVdIcnVyOUFVSWgtRG0xbjl6bDNDMUVkVTNxaGtXWWJXQ2dSaGpuaVB4NUF2NnI3RHd1NHVUcXdFVWJyUlcwVmtfa3VYR1NPMHVqV3c3TXBhWTB2TTlYWEdIUHRJalA5WlIwcjlpclY2Zk1aMzJiSWxVVEg0UkxJQVNSVHV5RGx6WDRUVDZFYTRCOFNQcEd30gH_AUFVX3lxTE5QNkRkSVc2T3NBOFR6bjJ4bEpUU3FCYm5SS2cwUkZkLWdubFRIX19DX0pRQ0ZXVkpValZKSUY3bTZ4ckM3UkRPNHpoS1oySVpmRjBVVV8yY3BHNkVzY1FmWFZITHpfMDgzNUpkMjh2RVdobmx6UFR2elM2TTJpWEdvSFQ2eW44cXpxUU1WZ253cUlEZUp3NjM5MklDZTNtcDlWRkd1bWxHUnZNVTFSdWJ6UjB4QUI2WXRkRUZ1dEV0QWdjYnVFQTdTdElVT1U4SzVzWjdCMzVVa2VtOVJpRi1odnhzbXZSRGNXN0V3VmVJd3VwaGdxVGs2Z0dnaWQ3aw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT3gtY0xta2pqdUFyOXFTRlBTN0F2YXgwV05UZ1RtU0xTMUp6S3ZQeE5pN2VJbFNwQmpVRVZSQW1icnMwN2V3dVZsYVV5aFp2TV9zalZaZTBSN3R1V3hjeGdmTV9ZWWZDR3A4RVdIcnVyOUFVSWgtRG0xbjl6bDNDMUVkVTNxaGtXWWJXQ2dSaGpuaVB4NUF2NnI3RHd1NHVUcXdFVWJyUlcwVmtfa3VYR1NPMHVqV3c3TXBhWTB2TTlYWEdIUHRJalA5WlIwcjlpclY2Zk1aMzJiSWxVVEg0UkxJQVNSVHV5RGx6WDRUVDZFYTRCOFNQcEd30gH_AUFVX3lxTE5QNkRkSVc2T3NBOFR6bjJ4bEpUU3FCYm5SS2cwUkZkLWdubFRIX19DX0pRQ0ZXVkpValZKSUY3bTZ4ckM3UkRPNHpoS1oySVpmRjBVVV8yY3BHNkVzY1FmWFZITHpfMDgzNUpkMjh2RVdobmx6UFR2elM2TTJpWEdvSFQ2eW44cXpxUU1WZ253cUlEZUp3NjM5MklDZTNtcDlWRkd1bWxHUnZNVTFSdWJ6UjB4QUI2WXRkRUZ1dEV0QWdjYnVFQTdTdElVT1U4SzVzWjdCMzVVa2VtOVJpRi1odnhzbXZSRGNXN0V3VmVJd3VwaGdxVGs2Z0dnaWQ3aw",
+  "snippet": "GEODIS Launches U.S. Final Mile Index as Delivery Costs Rise Three Times Faster Than Inflation The Manila Times",
+  "published": "2026-11-18T15:17:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T15:11:05.005036+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e312a26da7",
