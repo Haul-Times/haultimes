@@ -7,7 +7,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 25,
   "source": "News 5 Cleveland WEWS",
   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjg4VUM0eUt6cV9MREFzeGxtTUhVa3JvN1dZbG5XTXZIZDRlOGVlR3ZYemZYUnFua1B4WTE4MXcxMnh3UmhuZm1iNHpjTzVMZUpENVVGbzgzaDFxYlBrbDZMMlY5Q1lPWjJkc2FRUGFqSnQ5WVNtQjFUMkJzRWZXbkRmYjFzNTVfREhxd1F4V18zNDAyMWRydFhFTC1SMy1PWF8tUXNFdTVhOV9TUzRXLXVEY2UwdThwb2xzZ1ltREFlZkhTUERVYlJpX0swdWJic0lldlV3eEpIV0VmQzd4NEJQb01WdmlLaFV1b0N4UWM2OTBXeFMyT0Zn?oc=5",
@@ -32,14 +32,45 @@
   "sum_status": "withheld",
   "source_fp": "8d500c370a149311",
   "source_scope": "full_article",
-  "sum_at": "2026-11-19T03:01:06.348379+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-19T03:11:05.799677+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "fatally shot in April"
+   },
+   {
+    "sentence": "2",
+    "quote": "Cuyahoga County Court of Common Pleas on Nov. 9"
+   },
+   {
+    "sentence": "3",
+    "quote": "knew or should have known of Bryant's prior dangerous conduct"
+   },
+   {
+    "sentence": "4",
+    "quote": "an in-cab camera system caught him holding a firearm"
+   },
+   {
+    "sentence": "5",
+    "quote": "Law enforcement recovered multiple firearms"
+   },
+   {
+    "sentence": "6",
+    "quote": "damages exceeding $25,000"
+   },
+   {
+    "sentence": "7",
+    "quote": "Some emails bounced back and others remain unanswered"
+   }
   ],
-  "ai_importance": 25
+  "sum_problems": [
+   "name 'October' is not in the source"
+  ],
+  "ai_importance": 62,
+  "sum_v4": true,
+  "ai_category": "drivers"
  },
  {
   "id": "2be54580f4",
