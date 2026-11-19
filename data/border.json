@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:11:09.947206+00:00",
+ "updated": "2026-11-19T07:21:01.393332+00:00",
  "hour_now": 2,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 2:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -277,7 +277,7 @@
     "north": [
      6,
      5,
-     3,
+     4,
      2,
      3,
      2,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 2:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:07:21",
+    "updated": "02:17:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:07:21",
+    "updated": "02:17:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:07:21",
+    "updated": "02:17:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:21",
+    "updated": "01:17:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1203,11 +1203,11 @@
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:07:21",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At Midnight MST",
     "hours": "24 hrs/day"
    },
    "north": {
