@@ -3934,7 +3934,8 @@
   "5254d6f2cd": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "64bdaec7ec": "skipped|importance 51 is below this platform's threshold (65)",
   "1b3bc19f28": "skipped|minor item (news) or low-quality source",
-  "2308c68700": "queued|importance 66 (threshold 65), Equipment, trade publication"
+  "2308c68700": "queued|importance 66 (threshold 65), Equipment, trade publication",
+  "c7e69a5d82": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8045,6 +8046,13 @@
    "title": "Aetherion receives $2 million for Volvo CNG truck trials in Canada",
    "action": "queued",
    "reason": "importance 66 (threshold 65), Equipment, trade publication"
+  },
+  {
+   "at": "2026-11-19T14:21:44.487059+00:00",
+   "story_id": "c7e69a5d82",
+   "title": "Three supply chain trends carriers should watch heading into 2027",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
