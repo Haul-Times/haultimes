@@ -3872,7 +3872,8 @@
   "1c26952fef": "skipped|importance 45 is below this platform's threshold (65)",
   "99b95a016e": "skipped|importance 45 is below this platform's threshold (65)",
   "36c1405daf": "skipped|importance 50 is below this platform's threshold (65)",
-  "5974bfaec0": "skipped|importance 45 is below this platform's threshold (65)"
+  "5974bfaec0": "skipped|importance 45 is below this platform's threshold (65)",
+  "2ab81688b4": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -7906,6 +7907,13 @@
    "title": "A Cincinnati suburb erupts over trucks, mosque and Uzbeks",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T03:01:54.819303+00:00",
+   "story_id": "2ab81688b4",
+   "title": "Strongsville Costco shooting victim’s family sues trucking companies, claims they ignored warning signs",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
