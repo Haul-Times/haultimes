@@ -1,5 +1,66 @@
 [
  {
+  "id": "2ddb767a67",
+  "slug": "pennsylvania-truckers-rescue-a-young-owl-that-collided-with-a-semi-and-2ddb767a67",
+  "title": "Pennsylvania truckers rescue a young owl that collided with a semi and got lodged in the air dam for 70 miles",
+  "orig_title": "Pennsylvania truckers rescue a young owl that collided with a semi and got lodged in the air dam for 70 miles",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 30,
+  "source": "Yahoo",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXI3dERPV3hQR3p2ZVE4M0JsRlVaZWJ3dUxRekZHRGk3UElxbW1Sa0k3VWwzU2FrWXl5cWRLRUlBdkRUN2ZrZ1pvM1VnSnoyVUEyUmNyWGZpODhxYUJPeURJeHU4YmJxeVc2c1FQQ3ZzUjlueS1QOHNFWXdGNDZoOU1tZWlmZUR0cDh2UUFaUXFFeUVkV1p6MlBR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXI3dERPV3hQR3p2ZVE4M0JsRlVaZWJ3dUxRekZHRGk3UElxbW1Sa0k3VWwzU2FrWXl5cWRLRUlBdkRUN2ZrZ1pvM1VnSnoyVUEyUmNyWGZpODhxYUJPeURJeHU4YmJxeVc2c1FQQ3ZzUjlueS1QOHNFWXdGNDZoOU1tZWlmZUR0cDh2UUFaUXFFeUVkV1p6MlBR",
+  "snippet": "Pennsylvania truckers rescue a young owl that collided with a semi and got lodged in the air dam for 70 miles Yahoo",
+  "published": "2026-11-19T16:47:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T17:11:07.547736+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.yahoo.com/lifestyle/articles/pennsylvania-truckers-rescue-young-owl-164712242.html",
+  "source_note": "ok · 909 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "2d61d140268b4018",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-19T17:11:07.547736+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "lodged in the truck's air dam for 70 miles"
+   },
+   {
+    "sentence": "2",
+    "quote": "didn't realize the owl was lodged in the air dam"
+   },
+   {
+    "sentence": "3",
+    "quote": "managed to free the owl, but it couldn't fly"
+   },
+   {
+    "sentence": "4",
+    "quote": "the only actual damage was to his left eye"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 8,
+  "ai_relevant": false
+ },
+ {
   "id": "0be83b3a91",
   "slug": "refurbish-or-rebuild-the-capital-math-behind-restarting-an-existing-mi-0be83b3a91",
   "title": "Refurbish or Rebuild? The Capital Math Behind Restarting an Existing Mill",
