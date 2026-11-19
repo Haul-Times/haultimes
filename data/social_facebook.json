@@ -3091,6 +3091,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "5254d6f2cd": {
+   "story_id": "5254d6f2cd",
+   "title": "FMCSA Motus Backlog Swells: 25,000+ Pending Applications Stalled Without Insurance",
+   "url_key": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHdzNENqTThfTl9BQzdfY1JCcmFzNTR4NDQ4N0ozVDV5bmpJbXRUSllWMW5kd1V6d3dTSVhaMm9Bc3lTTVdaU2ZrQi1HNDZmdGp4M2pPeDFNTU9kUzFDSk1Yb2pGQy1oV3RGbnhEX0gwZjE4akF4RzRuNThzS19PYlpUNV9BMjBRN2Z5dE1iR2M3RGhfZ0FHSm5WdlhoYzVqeFlvNGZNNDVJdEN2MmR5cTl1bXRscF9OZUlsYnYzbzRPNFZpVWk4Uk9QT2dzQUxQN3l2eVhFZjM0QVQ3R180Ul9od21ySEdG",
+   "category": "regs",
+   "source": "Commercial Carrier Journal",
+   "dest": "https://haultimes.com/story/fmcsa-motus-backlog-swells-25-000-pending-applications-stalled-without-5254d6f2cd/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=5254d6f2cd",
+   "caption": "FMCSA Motus Backlog Swells: 25,000+ Pending Applications Stalled Without Insurance.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking #FMCSA",
+   "status": "queued",
+   "created_at": "2026-11-19T11:11:26.337669+00:00",
+   "published": "2026-11-19T10:06:59+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "FMCSA Motus Backlog Swells: 25,000+ Pending Applications Stalled Without Insurance | HaulTimes",
+    "og:description": "Reported by Commercial Carrier Journal. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/21c83070e7.png",
+    "og:url": "https://haultimes.com/story/fmcsa-motus-backlog-swells-25-000-pending-applications-stalled-without-5254d6f2cd/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -3874,7 +3902,8 @@
   "36c1405daf": "skipped|importance 50 is below this platform's threshold (65)",
   "5974bfaec0": "skipped|importance 45 is below this platform's threshold (65)",
   "2ab81688b4": "skipped|minor item (crime) or low-quality source",
-  "84be4694d7": "skipped|importance 57 is below this platform's threshold (65)"
+  "84be4694d7": "skipped|importance 57 is below this platform's threshold (65)",
+  "5254d6f2cd": "queued|importance 67 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -7957,6 +7986,13 @@
    "title": "Trucking Spot Rates Defy Fuel Costs: An Unexpected Market Move",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-19T11:11:26.337669+00:00",
+   "story_id": "5254d6f2cd",
+   "title": "FMCSA Motus Backlog Swells: 25,000+ Pending Applications Stalled Without Insurance",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {
