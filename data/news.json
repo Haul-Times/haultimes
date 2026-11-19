@@ -54,7 +54,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2
+  "sum_tries": 3
  },
  {
   "id": "a82c9d6ba2",
@@ -18538,35 +18538,6 @@
   "source_note": "paywalled: excerpt only · 37 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "2cbd5c5283",
-  "slug": "sea-freight-cellino-new-routes-new-margins-for-safety-and-quality-2cbd5c5283",
-  "title": "Sea freight, Cellino: \"New routes, new margins for safety and quality.\"",
-  "orig_title": "Sea freight, Cellino: \"New routes, new margins for safety and quality.\"",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "L'Unione Sarda",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2xQaE5kWlZLcHNwWGhtX2JJOUFvaER4c05KVTMwX0RRWmV4UDJhdXlPZkVBWUE5Q3VUYkRrMzd4YURnSHpkNnlFNXdjcW1XMUxvNmxTdmRHcGtHQXk3VzhxMWpwNWtHRUZPRmt3MnRsNkFVNW5BdGJHbFp3VzVra05aMktmY0NOVXl6NHI2TzJRWlJKdFBIQ0FaeUMwell4YmNSX29KWlJ5dDlwTXkxb194VdIBtwFBVV95cUxPbEltRlM4WHNWSDdhemtrb3hiMVFrZXNYN0FuV01uUE5Lc2E2eHFhdTZ6eUdwc2FKUGJxT2ZJZ2ZTQUg0SE9lSl9fLXRpakhjakx1aU95dHQzRlhRMEc4Z05QT1A4NnVvTHduM2RoM09GQUZKWjBhMERjd2xkS2VVSmVHWHI0N1NCMFk4dE1pd1h6bFVVVElGUUxCYkZtVU5aT3l3VmN4TU1mc1ktMUt4MTY3YXNwazA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2xQaE5kWlZLcHNwWGhtX2JJOUFvaER4c05KVTMwX0RRWmV4UDJhdXlPZkVBWUE5Q3VUYkRrMzd4YURnSHpkNnlFNXdjcW1XMUxvNmxTdmRHcGtHQXk3VzhxMWpwNWtHRUZPRmt3MnRsNkFVNW5BdGJHbFp3VzVra05aMktmY0NOVXl6NHI2TzJRWlJKdFBIQ0FaeUMwell4YmNSX29KWlJ5dDlwTXkxb194VdIBtwFBVV95cUxPbEltRlM4WHNWSDdhemtrb3hiMVFrZXNYN0FuV01uUE5Lc2E2eHFhdTZ6eUdwc2FKUGJxT2ZJZ2ZTQUg0SE9lSl9fLXRpakhjakx1aU95dHQzRlhRMEc4Z05QT1A4NnVvTHduM2RoM09GQUZKWjBhMERjd2xkS2VVSmVHWHI0N1NCMFk4dE1pd1h6bFVVVElGUUxCYkZtVU5aT3l3VmN4TU1mc1ktMUt4MTY3YXNwazA",
-  "snippet": "Sea freight, Cellino: \"New routes, new margins for safety and quality.\" L'Unione Sarda",
-  "published": "2026-11-15T11:38:38+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-15T12:21:06.306065+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "ac43e340bb",
