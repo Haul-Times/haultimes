@@ -3868,7 +3868,8 @@
   "9a5a49f65b": "skipped|minor item (incident) or low-quality source",
   "62a197e800": "skipped|importance 61 is below this platform's threshold (65)",
   "06225626f3": "skipped|importance 45 is below this platform's threshold (65)",
-  "f5854a5763": "skipped|importance 62 is below this platform's threshold (65)"
+  "f5854a5763": "skipped|importance 62 is below this platform's threshold (65)",
+  "1c26952fef": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7853,6 +7854,13 @@
    "title": "Diesel prices punished shippers in September, FTR says",
    "action": "skipped",
    "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T01:01:28.272752+00:00",
+   "story_id": "1c26952fef",
+   "title": "Roma bridge ‘fastest growing’ for truck traffic on Southwest border",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
