@@ -58,6 +58,35 @@
   "sum_pending": false
  },
  {
+  "id": "6a32eb0631",
+  "slug": "the-truck-business-is-the-most-depressed-i-ve-seen-in-50-years-6a32eb0631",
+  "title": "\"The truck business is the most depressed I've seen in 50 years\"",
+  "orig_title": "\"The truck business is the most depressed I've seen in 50 years\"",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "www.marketplace.org",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONU1kSzJCbm95ZDktdThDSy1qYV9PSFNRQ1FtbVF6el9RbDBQQ3JjUjV5aGlvR1FlS01qRGY3M3VMWi1YTTllT1hfc0Q3aTJOSzdHR2tzeS1fdTRPcTIzLU9BZmhxUDl2Y01HZW5DUWJFWkJYM0tLUHN3NDBJTXQ4aTFXSmNWdFppWE5haHB5VlhrUEdidzdZbjVWLV9TUG8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONU1kSzJCbm95ZDktdThDSy1qYV9PSFNRQ1FtbVF6el9RbDBQQ3JjUjV5aGlvR1FlS01qRGY3M3VMWi1YTTllT1hfc0Q3aTJOSzdHR2tzeS1fdTRPcTIzLU9BZmhxUDl2Y01HZW5DUWJFWkJYM0tLUHN3NDBJTXQ4aTFXSmNWdFppWE5haHB5VlhrUEdidzdZbjVWLV9TUG8",
+  "snippet": "\"The truck business is the most depressed I've seen in 50 years\" www.marketplace.org",
+  "published": "2026-11-18T23:20:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T00:11:06.180948+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e0fa0236ce",
   "slug": "jungheinrich-targets-warehouse-efficiency-with-tailored-automation-e0fa0236ce",
   "title": "Jungheinrich targets warehouse efficiency with tailored automation",
