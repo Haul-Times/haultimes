@@ -4036,7 +4036,8 @@
   "145b67c7f9": "skipped|importance 56 is below this platform's threshold (65)",
   "ce44cc0f60": "queued|importance 76 (threshold 65), Regulations, established outlet",
   "76bb6ac137": "skipped|importance 45 is below this platform's threshold (65)",
-  "266748d5a0": "skipped|minor item (incident) or low-quality source"
+  "266748d5a0": "skipped|minor item (incident) or low-quality source",
+  "abb603cb89": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8322,6 +8323,13 @@
    "title": "Authorities identify driver in Waterloo freightliner crash",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-19T20:21:35.883437+00:00",
+   "story_id": "abb603cb89",
+   "title": "Background check backfire: Carrier sued after truck driver kills Costco worker",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
