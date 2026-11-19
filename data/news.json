@@ -1541,6 +1541,36 @@
   "sum_pending": false
  },
  {
+  "id": "55916bac5b",
+  "slug": "oregon-logging-group-calls-on-kotek-lawmakers-to-address-high-diesel-p-55916bac5b",
+  "title": "Oregon logging group calls on Kotek, lawmakers to address high diesel prices",
+  "orig_title": "Oregon logging group calls on Kotek, lawmakers to address high diesel prices",
+  "summary": "",
+  "why": "",
+  "category": "fuel",
+  "region": "",
+  "importance": 57,
+  "source": "AOL.com",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnVjcThYbk80QUh0ZUtkMWN4c0JFOXJWTUZickFTbTdpY0wzbFdFZFROU0NsVmMzTTcxajJiWUQ2U2RCZVlscjEySGhLeS04cWxvZ3Q0QUtoaGdmcjctNjB1ZFBpeFFqLTNfaWlyN1VlejZHTFhSQkt5QzlFdF9SYVlB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnVjcThYbk80QUh0ZUtkMWN4c0JFOXJWTUZickFTbTdpY0wzbFdFZFROU0NsVmMzTTcxajJiWUQ2U2RCZVlscjEySGhLeS04cWxvZ3Q0QUtoaGdmcjctNjB1ZFBpeFFqLTNfaWlyN1VlejZHTFhSQkt5QzlFdF9SYVlB",
+  "snippet": "Oregon logging group calls on Kotek, lawmakers to address high diesel prices AOL.com",
+  "published": "2026-11-18T20:17:07+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T07:51:05.492586+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Oregon logging union calls on Kotek, lawmakers to address high diesel prices"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "88c5a6a00e"
+ },
+ {
   "id": "73b332d7fd",
   "slug": "bathroom-break-for-truckers-73b332d7fd",
   "title": "Bathroom break for truckers?",
@@ -18351,35 +18381,6 @@
   "source_note": "excerpt only · 16 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "30d4b16b13",
-  "slug": "chile-truckers-end-route-68-blockade-after-government-deploys-carabine-30d4b16b13",
-  "title": "Chile Truckers End Route 68 Blockade After Government Deploys Carabineros",
-  "orig_title": "Chile Truckers End Route 68 Blockade After Government Deploys Carabineros",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "inkl",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3gwc0NtUXNMcU45U1U2Wk5EeVdwZGZHZHNobmwyZXhOa1UwR3FuaGRjMG0wc3kzaWhhUXdDcU1KclpZak94Z2FTOHhYMXJaMkYtdnRGQWpfTy01b1g0UGFvQUtuRGZBM3JwTk1Ob2h1YzdwWWt5NkRtT3ppYjExMjlYUURlN1ZHVjg5ZGkxZUU2Zy1lSElTQVA0NmhIVllk?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3gwc0NtUXNMcU45U1U2Wk5EeVdwZGZHZHNobmwyZXhOa1UwR3FuaGRjMG0wc3kzaWhhUXdDcU1KclpZak94Z2FTOHhYMXJaMkYtdnRGQWpfTy01b1g0UGFvQUtuRGZBM3JwTk1Ob2h1YzdwWWt5NkRtT3ppYjExMjlYUURlN1ZHVjg5ZGkxZUU2Zy1lSElTQVA0NmhIVllk",
-  "snippet": "Chile Truckers End Route 68 Blockade After Government Deploys Carabineros inkl",
-  "published": "2026-11-15T04:00:09+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-15T07:41:08.624106+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "0ee7e73777",
