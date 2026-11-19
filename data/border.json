@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:11:03.386469+00:00",
+ "updated": "2026-11-19T08:21:17.175974+00:00",
  "hour_now": 3,
  "have_us": true,
  "have_ca": true,
@@ -14,7 +14,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -252,7 +252,7 @@
      4,
      3,
      3,
-     14,
+     12,
      12,
      6,
      13,
@@ -278,7 +278,7 @@
      6,
      5,
      3,
-     4,
+     5,
      3,
      2,
      2,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:08:00",
+    "updated": "03:18:06",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:08:00",
+    "updated": "03:18:06",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "03:08:00",
+    "updated": "03:18:06",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:08:00",
+    "updated": "02:18:06",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-19 00:15 MDT"
+    "updated": "2026-11-19 02:08 MDT"
    },
    "usual": {
     "south": [
@@ -1321,7 +1321,7 @@
      6,
      6,
      7,
-     8,
+     7,
      6,
      5,
      5,
@@ -1457,8 +1457,8 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 30,
+    "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
