@@ -1,5 +1,66 @@
 [
  {
+  "id": "2be54580f4",
+  "slug": "specsavers-gta-stunt-swaps-game-hype-for-trucking-2be54580f4",
+  "title": "Specsavers GTA stunt swaps game hype for trucking",
+  "orig_title": "Specsavers GTA stunt swaps game hype for trucking",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Other",
+  "importance": 45,
+  "source": "ContentGrip",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BVUpuc3pkUHZ1ZVFsYWR1U19fMGIzdnZ1VjJTSlBwblExZUdab1lLb0tZdGcta0wtQVdkU3FXMWNRWFhCbE5rQWtFNmtubTQzbDZydHpjVDMzZDJKaGtyUURLeHJpR1Jmc3Vr?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BVUpuc3pkUHZ1ZVFsYWR1U19fMGIzdnZ1VjJTSlBwblExZUdab1lLb0tZdGcta0wtQVdkU3FXMWNRWFhCbE5rQWtFNmtubTQzbDZydHpjVDMzZDJKaGtyUURLeHJpR1Jmc3Vr",
+  "snippet": "Specsavers GTA stunt swaps game hype for trucking ContentGrip",
+  "published": "2026-11-19T02:44:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T02:51:05.064858+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.contentgrip.com/specsavers-gta-transport-stunt/",
+  "source_note": "ok · 1048 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "e4a96cacb536a871",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-19T02:51:05.064858+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "It was GTA Transport Ltd, a road haulage business in Leicester, England."
+   },
+   {
+    "sentence": "2",
+    "quote": "Specsavers is sponsoring the business and offering its drivers free eye tests."
+   },
+   {
+    "sentence": "3",
+    "quote": "Specsavers made the reveal on November 18, ahead of the game's scheduled November 19 arrival."
+   },
+   {
+    "sentence": "4",
+    "quote": "Specsavers has not announced a partnership with Rockstar"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 6,
+  "ai_relevant": false
+ },
+ {
   "id": "5974bfaec0",
   "slug": "a-cincinnati-suburb-erupts-over-trucks-mosque-and-uzbeks-5974bfaec0",
   "title": "A Cincinnati suburb erupts over trucks, mosque and Uzbeks",
@@ -29,6 +90,35 @@
   "source_note": "publisher refused (402)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (402))"
+ },
+ {
+  "id": "5e0dffacdb",
+  "slug": "talisker-provides-ore-sorter-facility-construction-update-for-the-bral-5e0dffacdb",
+  "title": "Talisker Provides Ore Sorter Facility Construction Update for the Bralorne Gold Project",
+  "orig_title": "Talisker Provides Ore Sorter Facility Construction Update for the Bralorne Gold Project",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUlM5LW9oMzNLS3hxYkZodUkwMUNzWXh0MHJ3eTFyQ1M2ZGJjVy04WlFyQnZGaUNBNTNLa1NoMXp1QVkwM1pCSzlxTFRPU3JhSnhfZl8xWVlYdnBNeHZoVzFMdHdsVC1vU1lqYzVEY0R6UXRDaVROT0NTdVctUFFOaGM5T3oyRjdGamxOVkhyZjhfZ1U3dXg0czUtZjAtUGxSMG5tWTlNZnlMc1dxZUo2WUNtZXotTUFZZUFKc2R5T1FET1ZJRlJlb1BCaHRFT0RPNDRYWFItVUFHd3F2UHdCd3U3LTJSeDZjbmNQaTBHSC1yUzlJWlRNUkZTOGtxNF9qWDZz?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUlM5LW9oMzNLS3hxYkZodUkwMUNzWXh0MHJ3eTFyQ1M2ZGJjVy04WlFyQnZGaUNBNTNLa1NoMXp1QVkwM1pCSzlxTFRPU3JhSnhfZl8xWVlYdnBNeHZoVzFMdHdsVC1vU1lqYzVEY0R6UXRDaVROT0NTdVctUFFOaGM5T3oyRjdGamxOVkhyZjhfZ1U3dXg0czUtZjAtUGxSMG5tWTlNZnlMc1dxZUo2WUNtZXotTUFZZUFKc2R5T1FET1ZJRlJlb1BCaHRFT0RPNDRYWFItVUFHd3F2UHdCd3U3LTJSeDZjbmNQaTBHSC1yUzlJWlRNUkZTOGtxNF9qWDZz",
+  "snippet": "Talisker Provides Ore Sorter Facility Construction Update for the Bralorne Gold Project The Globe and Mail",
+  "published": "2026-11-19T02:23:11+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T02:51:05.064858+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d2313cc9f4",
@@ -5128,6 +5218,60 @@
   "labels": [],
   "kind": "review",
   "sum_pending": false
+ },
+ {
+  "id": "d766969e0b",
+  "slug": "montgomery-police-blotter-tesla-driver-allegedly-collides-with-2-truck-d766969e0b",
+  "title": "Montgomery Police Blotter, Tesla Driver Allegedly Collides with 2 Trucks while Applying Makeup",
+  "orig_title": "Montgomery Police Blotter, Tesla Driver Allegedly Collides with 2 Trucks while Applying Makeup",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 45,
+  "source": "The Montgomery News",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWhTb2NfQVQxRDlZRFRRRTZlb2lpWWZXa3czbzlXTEVxTDBBem5mLWtTamtweGw4ZVZENkFKSkI0ek03VUprbV9LbDJWUzQzcTFxeEdtZUl2VHZIamtvQURWLXFyZHRfdTlGQUhTcmFLLWdPQzZPaWdsSTBETnJqbklhdTM2QjRZU3lTbW0xVWpvazhUandad05wbTk5MDdZV0ZiMDlLLUthckVSYU9KVTN3YmRIZUNlZ3p4SXdBcGo1OWQtUHl2MVBBX0lmMTg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWhTb2NfQVQxRDlZRFRRRTZlb2lpWWZXa3czbzlXTEVxTDBBem5mLWtTamtweGw4ZVZENkFKSkI0ek03VUprbV9LbDJWUzQzcTFxeEdtZUl2VHZIamtvQURWLXFyZHRfdTlGQUhTcmFLLWdPQzZPaWdsSTBETnJqbklhdTM2QjRZU3lTbW0xVWpvazhUandad05wbTk5MDdZV0ZiMDlLLUthckVSYU9KVTN3YmRIZUNlZ3p4SXdBcGo1OWQtUHl2MVBBX0lmMTg",
+  "snippet": "Montgomery Police Blotter, Tesla Driver Allegedly Collides with 2 Trucks while Applying Makeup The Montgomery News",
+  "published": "2026-11-17T22:46:36+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T02:51:05.064858+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.themontynews.org/single-post/montgomery-police-blotter-tesla-driver-allegedly-collides-with-2-trucks-while-applying-makeup",
+  "source_note": "excerpt only · 51 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "7ef123a8cb325444",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-19T02:51:05.064858+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Two truck drivers were injured in a multi-vehicle crash on Route 206 on November 2"
+   },
+   {
+    "sentence": "2",
+    "quote": "collided with two oncoming commercial vehicles near Wood Thrush Lane"
+   }
+  ],
+  "sum_problems": [
+   "The source does not state the state or country; US region is inferred from the local police blotter context and should be confirmed."
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 20,
+  "pending_summary": "On November 2, a crash on Route 206 injured two truck drivers, according to local authorities. The Tesla driver, who was not hurt, allegedly hit two oncoming commercial vehicles near Wood Thrush Lane while applying makeup.",
+  "pending_why": ""
  },
  {
   "id": "05e40ca6f4",
