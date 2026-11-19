@@ -4075,7 +4075,8 @@
   "d3abc7ab33": "skipped|importance 55 is below this platform's threshold (65)",
   "a7c9f278d7": "skipped|importance 55 is below this platform's threshold (65)",
   "8b2733a4d4": "skipped|importance 45 is below this platform's threshold (65)",
-  "6343e27282": "skipped|importance 50 is below this platform's threshold (65)"
+  "6343e27282": "skipped|importance 50 is below this platform's threshold (65)",
+  "3013e70790": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8445,6 +8446,13 @@
    "title": "Saskatchewan Highway Patrol sees increase in human trafficking involving truck drivers",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T22:31:33.750681+00:00",
+   "story_id": "3013e70790",
+   "title": "Paraná Civil Police arrests 13 suspects for belonging to a gang involved in cargo theft and tampering; operation also includes actions in Pa",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
