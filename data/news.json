@@ -1,5 +1,34 @@
 [
  {
+  "id": "21cfe17122",
+  "slug": "alberta-to-set-safety-rules-for-private-e-scooters-21cfe17122",
+  "title": "Alberta to set safety rules for private e-scooters",
+  "orig_title": "Alberta to set safety rules for private e-scooters",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDd2WkQ4a2JWV1QwMWdkSVY1dGNtbGJ0Z0hHajZCUEdBX0pCeDNHRkU3WkZQVWkxazkwcC1PMXI1ZDl2b0RVSGJqV0EydHVEQURXcVI0NWY3M2lrRlY2WllRSjBKNEJHTnBnaWhaUzhDZTdXTFl3dGJNT2xwanhhMmVvczNfSGFwU0ZCOE4ycldSc2Vqbmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDd2WkQ4a2JWV1QwMWdkSVY1dGNtbGJ0Z0hHajZCUEdBX0pCeDNHRkU3WkZQVWkxazkwcC1PMXI1ZDl2b0RVSGJqV0EydHVEQURXcVI0NWY3M2lrRlY2WllRSjBKNEJHTnBnaWhaUzhDZTdXTFl3dGJNT2xwanhhMmVvczNfSGFwU0ZCOE4ycldSc2Vqbmc",
+  "snippet": "Alberta to set safety rules for private e-scooters CTV News",
+  "published": "2026-11-19T18:58:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T19:11:03.777563+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fe5355f0b6",
   "slug": "nyc-push-against-delivery-bill-brings-in-legal-and-racial-arguments-fe5355f0b6",
   "title": "NYC push against delivery bill brings in legal and racial arguments",
@@ -209,7 +238,10 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://uzalendonews.co.ke/kenha-names-sand-and-ballast-truckers-as-biggest-culprits-in-overloading-reveals-enforcement-challenges",
+  "source_note": "ok · 550 words"
  },
  {
   "id": "628ace6455",
@@ -770,7 +802,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/a-dozen-boxes-of-stolen-meat-loaded-back-onto-truck-after-thieves-ditch-them-miles-away/?amp",
   "source_note": "ok · 156 words"
