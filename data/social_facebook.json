@@ -4107,7 +4107,8 @@
   "3013e70790": "skipped|importance 57 is below this platform's threshold (65)",
   "4099d64729": "skipped|importance 50 is below this platform's threshold (65)",
   "1e6f3e0b31": "skipped|importance 61 is below this platform's threshold (65)",
-  "59b262d7bf": "queued|importance 67 (threshold 65), Regulations, trade publication"
+  "59b262d7bf": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "d87b0be554": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -8505,6 +8506,13 @@
    "title": "'Fraudulent' Forza ELD back on FMCSA registry of approved devices",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-19T23:41:28.396751+00:00",
+   "story_id": "d87b0be554",
+   "title": "J.B. Hunt To Face Ariz. Negligent Hiring Fatal Crash Suit",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
