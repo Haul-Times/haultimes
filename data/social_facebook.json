@@ -3998,7 +3998,10 @@
   "de58a7579c": "skipped|minor item (announcement) or low-quality source",
   "d349461ed5": "skipped|importance 55 is below this platform's threshold (65)",
   "628ace6455": "skipped|importance 55 is below this platform's threshold (65)",
-  "28eafb0d4b": "skipped|importance 61 is below this platform's threshold (65)"
+  "28eafb0d4b": "skipped|importance 61 is below this platform's threshold (65)",
+  "1540fd354c": "skipped|importance 55 is below this platform's threshold (65)",
+  "f50c2880bc": "skipped|importance 55 is below this platform's threshold (65)",
+  "1e326eb5c4": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -8214,6 +8217,27 @@
    "title": "Truck sales jump 59% on replacement momentum in October",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T18:41:27.971902+00:00",
+   "story_id": "1540fd354c",
+   "title": "Sparq: Logistics AI is paying off, but buyers want speed",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T18:41:27.971902+00:00",
+   "story_id": "f50c2880bc",
+   "title": "Truck driver gets prison time for bilking $500K from employer through fuel cards",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T18:41:27.971902+00:00",
+   "story_id": "1e326eb5c4",
+   "title": "ECO Fuel Systems Offers Diesel Truck Fleets Fuel Savings and Reduced Emissions",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
