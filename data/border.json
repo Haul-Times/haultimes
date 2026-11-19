@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:11:03.644211+00:00",
+ "updated": "2026-11-19T19:21:12.034753+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
-    "fast_wait": 5,
-    "lanes": "6",
-    "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "wait": 10,
+    "fast_wait": 10,
+    "lanes": "5",
+    "status": "delay",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -38,7 +38,7 @@
      0,
      0,
      0,
-     0,
+     1,
      9,
      10,
      3,
@@ -113,7 +113,7 @@
      5,
      20,
      18,
-     19,
+     20,
      12,
      10,
      6,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:57 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:57 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -413,7 +413,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -713,7 +713,7 @@
      9,
      0,
      4,
-     2,
+     3,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:09:36",
+    "updated": "14:19:37",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1088,7 +1088,7 @@
      31,
      18,
      19,
-     30,
+     27,
      33,
      2,
      0,
@@ -1231,7 +1231,7 @@
      16,
      17,
      17,
-     19,
+     18,
      20,
      20,
      20,
@@ -1457,8 +1457,8 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 20,
+    "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Aldergrove",
