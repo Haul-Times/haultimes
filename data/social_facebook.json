@@ -4001,7 +4001,8 @@
   "28eafb0d4b": "skipped|importance 61 is below this platform's threshold (65)",
   "1540fd354c": "skipped|importance 55 is below this platform's threshold (65)",
   "f50c2880bc": "skipped|importance 55 is below this platform's threshold (65)",
-  "1e326eb5c4": "skipped|minor item (announcement) or low-quality source"
+  "1e326eb5c4": "skipped|minor item (announcement) or low-quality source",
+  "09aaf50e23": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -8238,6 +8239,13 @@
    "title": "ECO Fuel Systems Offers Diesel Truck Fleets Fuel Savings and Reduced Emissions",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-19T19:31:29.612277+00:00",
+   "story_id": "09aaf50e23",
+   "title": "Scottsbluff County Highway 71 Crash Kills Two Truck Drivers",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
