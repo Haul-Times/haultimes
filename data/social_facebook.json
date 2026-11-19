@@ -3997,7 +3997,8 @@
   "4f1af11d5b": "skipped|importance 55 is below this platform's threshold (65)",
   "de58a7579c": "skipped|minor item (announcement) or low-quality source",
   "d349461ed5": "skipped|importance 55 is below this platform's threshold (65)",
-  "628ace6455": "skipped|importance 55 is below this platform's threshold (65)"
+  "628ace6455": "skipped|importance 55 is below this platform's threshold (65)",
+  "28eafb0d4b": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8206,6 +8207,13 @@
    "title": "Supply chain software has an 18-month go-live problem",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T18:32:00.934586+00:00",
+   "story_id": "28eafb0d4b",
+   "title": "Truck sales jump 59% on replacement momentum in October",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
