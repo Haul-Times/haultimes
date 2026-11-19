@@ -4076,7 +4076,8 @@
   "a7c9f278d7": "skipped|importance 55 is below this platform's threshold (65)",
   "8b2733a4d4": "skipped|importance 45 is below this platform's threshold (65)",
   "6343e27282": "skipped|importance 50 is below this platform's threshold (65)",
-  "3013e70790": "skipped|importance 57 is below this platform's threshold (65)"
+  "3013e70790": "skipped|importance 57 is below this platform's threshold (65)",
+  "4099d64729": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8453,6 +8454,13 @@
    "title": "Paraná Civil Police arrests 13 suspects for belonging to a gang involved in cargo theft and tampering; operation also includes actions in Pa",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T22:41:32.077852+00:00",
+   "story_id": "4099d64729",
+   "title": "Ottawa paramedic dispatcher helps deliver baby over the phone",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
