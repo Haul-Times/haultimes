@@ -337,6 +337,35 @@
   "dup_of": "057d13e76c"
  },
  {
+  "id": "8c79370dff",
+  "slug": "industrials-manufacturing-archives-8c79370dff",
+  "title": "Industrials & Manufacturing Archives",
+  "orig_title": "Industrials & Manufacturing Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkR6aVpHYjRndXhSZGU3ZTdBLXVPNnlvNFVjT1l6UC16aU9pMHJUVTBmT3lZaDhJUXBjbGFTOUdkRTQyd1VIZGwwc2ZVOUhGazZPVmZjU2JlZS1zVDAxOVZ1TU1YOEhZY2hmOUdLenVfS1J1SVU5ZDgwdmFjQk5jNWVTNGE5UjlJNFBvc2xzMA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkR6aVpHYjRndXhSZGU3ZTdBLXVPNnlvNFVjT1l6UC16aU9pMHJUVTBmT3lZaDhJUXBjbGFTOUdkRTQyd1VIZGwwc2ZVOUhGazZPVmZjU2JlZS1zVDAxOVZ1TU1YOEhZY2hmOUdLenVfS1J1SVU5ZDgwdmFjQk5jNWVTNGE5UjlJNFBvc2xzMA",
+  "snippet": "Industrials & Manufacturing Archives FreightWaves",
+  "published": "2026-11-19T17:46:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T18:51:03.040498+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "057d13e76c",
   "slug": "kenha-deploys-mobile-weighbridges-warns-truckers-against-using-alterna-057d13e76c",
   "title": "KeNHA Deploys Mobile Weighbridges, Warns Truckers Against Using Alternative Routes to Evade Axle Load Checks",
@@ -713,7 +742,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://cdllife.com/2026/a-dozen-boxes-of-stolen-meat-loaded-back-onto-truck-after-thieves-ditch-them-miles-away/?amp",
   "source_note": "ok · 156 words"
  },
