@@ -3990,7 +3990,9 @@
   "78da8460d6": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
   "promo-20261119": "queued|HaulTimes update",
   "3fbfb07934": "skipped|minor item (announcement) or low-quality source",
-  "a4c56f2906": "skipped|importance 50 is below this platform's threshold (65)"
+  "a4c56f2906": "skipped|importance 50 is below this platform's threshold (65)",
+  "057d13e76c": "skipped|importance 51 is below this platform's threshold (65)",
+  "cc23d9a52c": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8150,6 +8152,20 @@
    "title": "IGNITE: Georgia’s new collegiate supply chain innovation competition",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T17:51:35.703903+00:00",
+   "story_id": "057d13e76c",
+   "title": "KeNHA Deploys Mobile Weighbridges, Warns Truckers Against Using Alternative Routes to Evade Axle Load Checks",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T17:51:35.703903+00:00",
+   "story_id": "cc23d9a52c",
+   "title": "NYC could hold warehouses responsible for truck pollution",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
