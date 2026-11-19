@@ -848,7 +848,7 @@
     ]
    }
   ],
-  "retrieved_at": "2026-11-18T19:51:22.684663+00:00",
+  "retrieved_at": "2026-11-19T01:51:34.776547+00:00",
   "history": {
    "2026-11-03": {
     "NORTH, CENTRAL AND SOUTH FLORIDA|OKRA, TOMATOES, CHERRY TOMATOES, GRAPE TOMATOES, PLUM TOMATOES": {
@@ -994,7 +994,7 @@
     }
    }
   },
-  "last_attempt_at": "2026-11-18T19:51:22.684663+00:00",
+  "last_attempt_at": "2026-11-19T01:51:34.776547+00:00",
   "last_error": null,
   "source_url": "https://agtransport.usda.gov/d/acar-e3r8"
  },
