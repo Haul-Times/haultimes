@@ -1,5 +1,67 @@
 [
  {
+  "id": "64bdaec7ec",
+  "slug": "einride-says-contracted-revenue-grew-76-to-167-million-64bdaec7ec",
+  "title": "Einride Says Contracted Revenue Grew 76% to $167 Million",
+  "orig_title": "Einride Says Contracted Revenue Grew 76% to $167 Million",
+  "summary": "Einride, the Swedish autonomous and electric freight company listed on Nasdaq as ENRD, said its contracted annual recurring revenue was about $167 million as of November 2026, up 76% from $95 million at the end of June. In a third-quarter business update issued November 18, 2026, it reported constant currency revenue of SEK 185.9 million ($18.3 million), a 27% rise from the second quarter. The company said it has added eight customers since June, bringing its total to more than 40. Its two cab-less electric trucks for EASE Logistics went into daily freight operations in Marysville, Ohio, in September. The company reaffirmed second-half 2026 revenue guidance of $39-42 million, but its adjusted EBITDA outlook for that period was widened to negative $39 to 41 million.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 51,
+  "source": "evxl.co",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DQVhjQk5KSHZLNmdyRDJJNG9QejE3Y0Z5Nlppazk3UzVGd2hsSmpLSnI1N3NCYTAtRTdHZi1SS3FKam1JQ3NPTlVGZFJ5RWFBNU9CVjhrQXAyU3pRSEFkQkRaRjZvd0ZwZF9V?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DQVhjQk5KSHZLNmdyRDJJNG9QejE3Y0Z5Nlppazk3UzVGd2hsSmpLSnI1N3NCYTAtRTdHZi1SS3FKam1JQ3NPTlVGZFJ5RWFBNU9CVjhrQXAyU3pRSEFkQkRaRjZvd0ZwZF9V",
+  "snippet": "Einride Says Contracted Revenue Grew 76% to $167 Million evxl.co",
+  "published": "2026-11-19T11:02:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T11:21:03.927774+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://evxl.co/2026/11/19/einride-q3-2026-business-update/",
+  "source_note": "ok · 1486 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "f84c1b2f0b5f853d",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-19T11:21:03.927774+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "its contracted annual recurring revenue reached about $167 million in November"
+   },
+   {
+    "sentence": "2",
+    "quote": "Third-quarter constant currency revenue reached SEK 185.9 million ($18.3 million)"
+   },
+   {
+    "sentence": "3",
+    "quote": "Since June, Einride has added eight new customers, taking the total to more than 40"
+   },
+   {
+    "sentence": "4",
+    "quote": "In September 2026, Einride and EASE Logistics went live with two cab-less"
+   },
+   {
+    "sentence": "5",
+    "quote": "negative $39 to 41 million for the second half of 2026"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "equip",
+  "ai_importance": 30
+ },
+ {
   "id": "a6bebf32cf",
   "slug": "six-south-carolina-waffle-and-grits-counters-where-truckers-have-stopp-a6bebf32cf",
   "title": "Six South Carolina Waffle-And-Grits Counters Where Truckers Have Stopped Since Dawn For Years",

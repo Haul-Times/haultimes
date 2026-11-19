@@ -3903,7 +3903,8 @@
   "5974bfaec0": "skipped|importance 45 is below this platform's threshold (65)",
   "2ab81688b4": "skipped|minor item (crime) or low-quality source",
   "84be4694d7": "skipped|importance 57 is below this platform's threshold (65)",
-  "5254d6f2cd": "queued|importance 67 (threshold 65), Regulations, trade publication"
+  "5254d6f2cd": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "64bdaec7ec": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7993,6 +7994,13 @@
    "title": "FMCSA Motus Backlog Swells: 25,000+ Pending Applications Stalled Without Insurance",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-19T11:21:32.022372+00:00",
+   "story_id": "64bdaec7ec",
+   "title": "Einride Says Contracted Revenue Grew 76% to $167 Million",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
