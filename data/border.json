@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:11:05.055336+00:00",
+ "updated": "2026-11-19T22:21:03.924908+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -14,7 +14,7 @@
     "fast_wait": 45,
     "lanes": "5",
     "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -41,7 +41,7 @@
      4,
      14,
      24,
-     13,
+     16,
      10,
      1,
      0,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 52,
+    "wait": 21,
     "fast_wait": 0,
-    "lanes": "3",
+    "lanes": "4",
     "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -116,7 +116,7 @@
      21,
      18,
      29,
-     16,
+     17,
      0,
      0,
      0,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:57 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:57 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -416,7 +416,7 @@
      5,
      6,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -716,7 +716,7 @@
      5,
      3,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:04:54",
+    "updated": "17:14:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1234,7 +1234,7 @@
      17,
      17,
      17,
-     19,
+     18,
      45,
      6,
      13,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 1:00 pm PST",
+    "updated": "At 3:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {

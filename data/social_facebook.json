@@ -4074,7 +4074,8 @@
   "8970c8c34f": "skipped|importance 62 is below this platform's threshold (65)",
   "d3abc7ab33": "skipped|importance 55 is below this platform's threshold (65)",
   "a7c9f278d7": "skipped|importance 55 is below this platform's threshold (65)",
-  "8b2733a4d4": "skipped|importance 45 is below this platform's threshold (65)"
+  "8b2733a4d4": "skipped|importance 45 is below this platform's threshold (65)",
+  "6343e27282": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8437,6 +8438,13 @@
    "title": "FMCSA Motus Backlog Swells: 25,000+ Pending Applications Stalled Without Insurance",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-19T22:21:24.745159+00:00",
+   "story_id": "6343e27282",
+   "title": "Saskatchewan Highway Patrol sees increase in human trafficking involving truck drivers",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
