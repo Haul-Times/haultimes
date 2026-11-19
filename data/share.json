@@ -133,5 +133,23 @@
   },
   "target": "/freight-market/#fuel-h",
   "created": "2026-11-17T15:01:38.734892+00:00"
+ },
+ "promo-20261119": {
+  "title": "HaulTimes Freight Market: See what your lane is paying",
+  "desc": "Before you book, see what your lane is paying. Typical all-in rates from real reports by carriers and brokers, for dry van, reefer, flatbed and step deck.",
+  "card": {
+   "type": "promo",
+   "kicker": "Freight Market",
+   "headline": "See what your lane is paying",
+   "sub": "Typical all-in rates from real carrier and broker reports.",
+   "chips": [
+    "Dry van",
+    "Reefer",
+    "Flatbed",
+    "Step deck"
+   ]
+  },
+  "target": "/freight-market/#chk",
+  "created": "2026-11-19T15:21:28.067874+00:00"
  }
 }

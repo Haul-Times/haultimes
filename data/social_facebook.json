@@ -3147,6 +3147,55 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "78da8460d6": {
+   "story_id": "78da8460d6",
+   "title": "Costello: Shrinking capacity, not stronger freight demand, driving trucking recovery",
+   "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVk9FcExnNW1lMHFiWnowSW5oVmZ0VmhuSzRBMnpIcUJLdWEtclJZWkpDTGpfb19Eb0VuSGhNeVNPOWZuS3BoVVc3VEZOMmtyNVVDNG13Y240YW5YMkI5bEF5N0xXaFAyT0hrY1ZLX3ZGbmplR1YzWU5OemI1SnJRN1F2YkotdWdXcDVSS3U4MzZidG1hX3dOeUdwQ05qMlFubm0wdHpyZXo2VXhGeTJ2OVY1eDlhX2xuWkdEQWJRYXlJdExYdHJhZnJ2WnR0Z0k",
+   "category": "rates",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/costello-shrinking-capacity-not-stronger-freight-demand-driving-trucki-78da8460d6/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=78da8460d6",
+   "caption": "Costello: Shrinking capacity, not stronger freight demand, driving trucking recovery.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-19T15:21:28.067874+00:00",
+   "published": "2026-11-19T15:09:54+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Costello: Shrinking capacity, not stronger freight demand, driving trucking recovery | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/d749b3560b.png",
+    "og:url": "https://haultimes.com/story/costello-shrinking-capacity-not-stronger-freight-demand-driving-trucki-78da8460d6/"
+   },
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
+  },
+  "promo-20261119": {
+   "story_id": "promo-20261119",
+   "title": "Freight Market reminder",
+   "url_key": "promo-20261119",
+   "category": "house:promo",
+   "source": "HaulTimes",
+   "dest": "https://haultimes.com/s/promo-20261119/?utm_source=facebook&utm_medium=organic_social&utm_campaign=freight_market",
+   "caption": "Before you book, see what your lane is paying. Typical all-in rates from real reports by carriers and brokers, for dry van, reefer, flatbed and step deck.\n\n#FreightRates #Trucking #StepDeck #Flatbed",
+   "status": "queued",
+   "created_at": "2026-11-19T15:21:28.067874+00:00",
+   "published": "2026-11-19T15:21:28.067874+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {},
+   "house": "promo",
+   "reason": "HaulTimes update: promo"
   }
  },
  "paused": {
@@ -3937,7 +3986,9 @@
   "2308c68700": "queued|importance 66 (threshold 65), Equipment, trade publication",
   "c7e69a5d82": "skipped|importance 60 is below this platform's threshold (65)",
   "d07c5e25ad": "skipped|importance 45 is below this platform's threshold (65)",
-  "af65fa1c1b": "skipped|minor item (announcement) or low-quality source"
+  "af65fa1c1b": "skipped|minor item (announcement) or low-quality source",
+  "78da8460d6": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
+  "promo-20261119": "queued|HaulTimes update"
  },
  "decisions": [
   {
@@ -8069,6 +8120,20 @@
    "title": "Roadrunner adds outbound LTL service for customers in Canada",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-19T15:21:28.067874+00:00",
+   "story_id": "78da8460d6",
+   "title": "Costello: Shrinking capacity, not stronger freight demand, driving trucking recovery",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-19T15:21:28.067874+00:00",
+   "story_id": "promo-20261119",
+   "title": "Freight Market reminder",
+   "action": "queued",
+   "reason": "HaulTimes update: promo"
   }
  ],
  "visibility": {
@@ -8080,5 +8145,5 @@
   "created": "2026-11-16T21:31:54+0000",
   "at": "2026-11-16T21:41:23.476840+00:00"
  },
- "promo_i": 3
+ "promo_i": 4
 }
