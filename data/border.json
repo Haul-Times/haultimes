@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:51:12.779406+00:00",
- "hour_now": 17,
+ "updated": "2026-11-19T23:01:05.409366+00:00",
+ "hour_now": 18,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -42,7 +42,7 @@
      14,
      24,
      23,
-     10,
+     15,
      1,
      0,
      0,
@@ -117,7 +117,7 @@
      18,
      29,
      18,
-     0,
+     3,
      0,
      0,
      0,
@@ -218,7 +218,7 @@
      0,
      0,
      1,
-     0,
+     1,
      0,
      0,
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:37 pm EST",
+    "updated": "At 5:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:37 pm EST",
+    "updated": "At 5:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -417,7 +417,7 @@
      6,
      5,
      5,
-     0,
+     1,
      0,
      0,
      0,
@@ -717,7 +717,7 @@
      3,
      5,
      5,
-     0,
+     1,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:50:00",
+    "updated": "18:00:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm CST",
+    "updated": "At 5:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1235,7 +1235,7 @@
      17,
      17,
      18,
-     45,
+     41,
      6,
      13,
      2,
@@ -1385,7 +1385,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
