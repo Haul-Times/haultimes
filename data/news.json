@@ -6833,6 +6833,36 @@
   "sum_pending": false
  },
  {
+  "id": "a239da19d5",
+  "slug": "ice-road-truckers-deadliest-roads-series-2-episode-9-a239da19d5",
+  "title": "Ice Road Truckers - Deadliest Roads - Series 2 - Episode 9",
+  "orig_title": "Ice Road Truckers - Deadliest Roads - Series 2 - Episode 9",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 45,
+  "source": "ITVX",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemNnUC10UUlzMXhHSDFJVElOZXluUWhMZTd3VE9ZaldxUHAzMldaSzVpekh6TnV6VkxlVGU0MlBfQ0NNS2lFNFU4eTgxc3lncGpfaWdnalZQWVJyOFlFZ1VERThTWENfYXlpbDZfazRkMDFQeF8wLWc0UFQ5UUFTUG0yaGFkTnc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemNnUC10UUlzMXhHSDFJVElOZXluUWhMZTd3VE9ZaldxUHAzMldaSzVpekh6TnV6VkxlVGU0MlBfQ0NNS2lFNFU4eTgxc3lncGpfaWdnalZQWVJyOFlFZ1VERThTWENfYXlpbDZfazRkMDFQeF8wLWc0UFQ5UUFTUG0yaGFkTnc",
+  "snippet": "Ice Road Truckers - Deadliest Roads - Series 2 - Episode 9 ITVX",
+  "published": "2026-11-17T20:13:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T07:11:10.266773+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Ice Road Truckers - Deadliest Roads - Series 2 - Episode 8"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "a46fc02f10"
+ },
+ {
   "id": "aa0df11328",
   "slug": "rancho-cucamonga-man-sentenced-to-30-months-in-7-2-million-southern-ca-aa0df11328",
   "title": "Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo theft scheme",
