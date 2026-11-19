@@ -4004,7 +4004,8 @@
   "1e326eb5c4": "skipped|minor item (announcement) or low-quality source",
   "09aaf50e23": "skipped|minor item (incident) or low-quality source",
   "3cd37ee7d9": "skipped|importance 55 is below this platform's threshold (65)",
-  "8f3c8ec650": "skipped|importance 55 is below this platform's threshold (65)"
+  "8f3c8ec650": "skipped|importance 55 is below this platform's threshold (65)",
+  "145b67c7f9": "skipped|importance 56 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8262,6 +8263,13 @@
    "title": "In the Matter of the Receivership of Light Speed Logistics Inc: Notice of Carrier Claims Process",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T20:01:23.745303+00:00",
+   "story_id": "145b67c7f9",
+   "title": "4 Brampton suspects charged after $3.6 million worth of stolen tractor-trailers recovered",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
