@@ -87,6 +87,35 @@
   "sum_pending": false
  },
  {
+  "id": "e5de600d20",
+  "slug": "truck-crash-claims-require-evidence-to-establish-liability-e5de600d20",
+  "title": "Truck Crash Claims Require Evidence to Establish Liability",
+  "orig_title": "Truck Crash Claims Require Evidence to Establish Liability",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "SuaraGarut.ID",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lanJCdThHak5sSmdkRFlDME5PamV4dDZ4ZG1IVFA2eTFlQ1hCWGVWT2pqUVI1T3VwU21QR2ZzenpiSExJU05ZcV9zRHgxdkxmbnYzY05PajdlcXhvRFo3Q3JQWkNJZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lanJCdThHak5sSmdkRFlDME5PamV4dDZ4ZG1IVFA2eTFlQ1hCWGVWT2pqUVI1T3VwU21QR2ZzenpiSExJU05ZcV9zRHgxdkxmbnYzY05PajdlcXhvRFo3Q3JQWkNJZw",
+  "snippet": "Truck Crash Claims Require Evidence to Establish Liability SuaraGarut.ID",
+  "published": "2026-11-19T07:25:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T10:01:04.952744+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "bb1c031b0f",
   "slug": "truck-crash-evidence-establishes-liability-in-ohio-and-georgia-bb1c031b0f",
   "title": "Truck Crash Evidence Establishes Liability in Ohio and Georgia",
