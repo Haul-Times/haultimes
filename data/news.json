@@ -31,6 +31,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "936ecc22da",
+  "slug": "trump-xi-and-putin-reach-agreements-on-oil-936ecc22da",
+  "title": "Trump, Xi and Putin reach agreements on oil",
+  "orig_title": "Trump, Xi and Putin reach agreements on oil",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LT19RNjJoM0RHVTQyMnYyak0xWHNWUU1ubUZJbnAza2VqLVNxX0tveHQ3djJsbUV1SWtaN3p0YktjNUltOTV4eGZyMU5wcmpRZElKWFpMcnZTTHpkWDhMWXZRdnhPUEU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LT19RNjJoM0RHVTQyMnYyak0xWHNWUU1ubUZJbnAza2VqLVNxX0tveHQ3djJsbUV1SWtaN3p0YktjNUltOTV4eGZyMU5wcmpRZElKWFpMcnZTTHpkWDhMWXZRdnhPUEU",
+  "snippet": "Trump, Xi and Putin reach agreements on oil Transport Topics",
+  "published": "2026-11-19T13:19:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T13:51:06.132640+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "27a8dd4c3b",
   "slug": "news-us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates-27a8dd4c3b",
   "title": "News US truckers feel the squeeze as fuel price outpaces freight rates",
