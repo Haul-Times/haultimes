@@ -1,5 +1,34 @@
 [
  {
+  "id": "90c88f0a7c",
+  "slug": "massive-warehouse-proposed-on-west-plains-90c88f0a7c",
+  "title": "Massive warehouse proposed on West Plains",
+  "orig_title": "Massive warehouse proposed on West Plains",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Spokane Journal of Business",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0JmV2d3QlBCZThGN25nVFBUZXJsZTR1MFlUTjZ1aHktMmQtaGhtVktyX0lZNXIxQlppLWN1UmcxYV9pNHd4OWVfeUlkc1N3SWNOQ0lRTGNsaHI1UllkM0o3TTE5a0w5VjVQd0NFZFhOY2xCZEVQbGlFQVFUNlBJYU5xV3NnWVhIdmh5cmNoTy0wTDllN0pCT0N3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0JmV2d3QlBCZThGN25nVFBUZXJsZTR1MFlUTjZ1aHktMmQtaGhtVktyX0lZNXIxQlppLWN1UmcxYV9pNHd4OWVfeUlkc1N3SWNOQ0lRTGNsaHI1UllkM0o3TTE5a0w5VjVQd0NFZFhOY2xCZEVQbGlFQVFUNlBJYU5xV3NnWVhIdmh5cmNoTy0wTDllN0pCT0N3",
+  "snippet": "Massive warehouse proposed on West Plains Spokane Journal of Business",
+  "published": "2026-11-19T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T08:11:03.524679+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "bb1c031b0f",
   "slug": "truck-crash-evidence-establishes-liability-in-ohio-and-georgia-bb1c031b0f",
   "title": "Truck Crash Evidence Establishes Liability in Ohio and Georgia",
