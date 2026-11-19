@@ -204,6 +204,35 @@
   "sum_pending": false
  },
  {
+  "id": "bfebe5cb12",
+  "slug": "truck-drivers-stranded-at-kenya-ethiopia-border-after-ethnic-clashes-p-bfebe5cb12",
+  "title": "Truck drivers stranded at Kenya-Ethiopia border after ethnic clashes paralyse key trade route",
+  "orig_title": "Truck drivers stranded at Kenya-Ethiopia border after ethnic clashes paralyse key trade route",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Citizen Digital",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEZRV05yemlVdTdaWkxGZHU5ekduODB4N2ZCMXRKVVJQSU5uNVNsQTVCSWRkX2RSNGVXNVlWZDNkRWZLWm5LaWhMNm1rY25GaXFDUFNzQ1FpaHl2R0RONFJVNkJNSExJVV9iUFE2MHUyVGVLVlhMc1QyX2Z4cTkzY2J3T0t6TmtvazNRWVNFaFY0RE44MFR2WHJMMjhDSVdKQlhZYm5XQ1lERlpsZGdNRV9UZGJzRm56NkRaeWN0QzJ0SklvN3RDQWFjc2FqZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEZRV05yemlVdTdaWkxGZHU5ekduODB4N2ZCMXRKVVJQSU5uNVNsQTVCSWRkX2RSNGVXNVlWZDNkRWZLWm5LaWhMNm1rY25GaXFDUFNzQ1FpaHl2R0RONFJVNkJNSExJVV9iUFE2MHUyVGVLVlhMc1QyX2Z4cTkzY2J3T0t6TmtvazNRWVNFaFY0RE44MFR2WHJMMjhDSVdKQlhZYm5XQ1lERlpsZGdNRV9UZGJzRm56NkRaeWN0QzJ0SklvN3RDQWFjc2FqZw",
+  "snippet": "Truck drivers stranded at Kenya-Ethiopia border after ethnic clashes paralyse key trade route Citizen Digital",
+  "published": "2026-11-19T04:16:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T05:41:01.772460+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "84be4694d7",
   "slug": "paramvir-singh-gets-30-months-in-7-2m-cargo-theft-case-84be4694d7",
   "title": "Paramvir Singh Gets 30 Months in $7.2M Cargo Theft Case",
