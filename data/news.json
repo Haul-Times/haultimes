@@ -34,10 +34,10 @@
   "slug": "three-supply-chain-trends-carriers-should-watch-heading-into-2027-c7e69a5d82",
   "title": "Three supply chain trends carriers should watch heading into 2027",
   "orig_title": "Three supply chain trends carriers should watch heading into 2027",
-  "summary": "",
+  "summary": "In a FleetOwner column, the chief executive of a Lincoln, Nebraska freight brokerage outlines three supply chain trends he expects fleet owners to watch in 2027. He cites Bureau of Labor Statistics data showing that trucking has lost more than 100,000 jobs since 2023, although the decline slowed in 2026. Using mileage and fuel-economy figures from the American Transportation Research Institute and Department of Energy diesel prices from early 2026 onward, he estimates that higher diesel costs add roughly $40,000 a year per truck, or $400,000 for a 10-truck fleet. He warns that if a recession pushed rates below operating costs, some carriers would be forced to haul freight at a loss. He also argues that driver shortages will keep pressure on pay, which fuel costs make harder to fund.",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 60,
   "source": "FleetOwner",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX3JiUVpzSjlRbURUeldNc1hrOENQWDF1NVlxWnNYNjFDLVdrclNJcEdNZzBDNEtmMXJSSklUdnpCZ3NHcG8wTzVtQXZsdTgwRzllUzB6MFdiRndvTzlCUVVBYXBFNG9rSHpDbVd4NVNSMDhNLU1UelhvLV9pU1Nvd3c2S2thUElSNThhbjQtZFB1V3dMamc2d0Fub3Z6SGFVS3J0LVFIVUU2WUlCaDJNU3pYZWJIQVlNTFJWTEFLUFZ2RkN6Z2QzQ09ZOGdjMmxrWGc4SDgtYTA5bkFaUXJKVEpB?oc=5",
@@ -59,17 +59,96 @@
   "pub_url": "https://www.fleetowner.com/perspectives/ideaxchange/blog/55419997/how-driver-capacity-diesel-prices-and-trade-patterns-could-affect-trucking-in-2027",
   "source_note": "ok · 841 words",
   "sum_done": true,
-  "sum_status": "withheld",
+  "sum_status": "published",
   "source_fp": "50aa7d2b6c857c3e",
   "source_scope": "full_article",
-  "sum_at": "2026-11-19T14:21:05.142750+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-19T14:31:06.155970+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "three supply chain trends I think fleet owners should watch in 2027"
+   },
+   {
+    "sentence": "2",
+    "quote": "the trucking industry has shed more than 100,000 jobs since 2023"
+   },
+   {
+    "sentence": "3",
+    "quote": "increases in diesel prices have added roughly $40,000 in annual expense per truck"
+   },
+   {
+    "sentence": "4",
+    "quote": "If rates fall below operating costs, some carriers will be forced to move freight at a loss."
+   },
+   {
+    "sentence": "5",
+    "quote": "Driver shortages create pressure to raise compensation."
+   }
   ],
-  "ai_importance": 60
+  "sum_problems": [],
+  "ai_importance": 45,
+  "sum_v4": true,
+  "ai_category": "rates"
+ },
+ {
+  "id": "facf6d2776",
+  "slug": "nodal-networks-raises-11-3-million-to-expand-its-port-operations-platf-facf6d2776",
+  "title": "Nodal Networks Raises $11.3 Million to Expand Its Port Operations Platform",
+  "orig_title": "Nodal Networks Raises $11.3 Million to Expand Its Port Operations Platform",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "www.tokenpost.com",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96NXJrX3FhWUNVQUxaOEFnakRPRWd4QkF5UVRqVk9NUnplNm1HcW8wb3Y4MVlLMFMwTk5ad2tmNXl5am9QTzN3ZDBGU1hJZThpOExGUW9Jejc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96NXJrX3FhWUNVQUxaOEFnakRPRWd4QkF5UVRqVk9NUnplNm1HcW8wb3Y4MVlLMFMwTk5ad2tmNXl5am9QTzN3ZDBGU1hJZThpOExGUW9Jejc",
+  "snippet": "Nodal Networks Raises $11.3 Million to Expand Its Port Operations Platform www.tokenpost.com",
+  "published": "2026-11-19T14:05:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T14:31:06.155970+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "b1e2113ff0",
+  "slug": "oil-prices-head-higher-on-fears-of-more-strikes-on-iran-b1e2113ff0",
+  "title": "Oil prices head higher on fears of more strikes on Iran",
+  "orig_title": "Oil prices head higher on fears of more strikes on Iran",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94eHAtcVdOc1JQUVJDdU5fLWtGT2ZIWlhlQ2R3eTFHOS0tNmJKS3VpTWFUZ0JrN2hCdU1VZkNkS1Atd2l2eWZLSVhNQWduYVU1VUt4RmFsaGQzT2tTcURtanNYV0tyZkVJb0dFY0VR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94eHAtcVdOc1JQUVJDdU5fLWtGT2ZIWlhlQ2R3eTFHOS0tNmJKS3VpTWFUZ0JrN2hCdU1VZkNkS1Atd2l2eWZLSVhNQWduYVU1VUt4RmFsaGQzT2tTcURtanNYV0tyZkVJb0dFY0VR",
+  "snippet": "Oil prices head higher on fears of more strikes on Iran Transport Topics",
+  "published": "2026-11-19T13:59:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T14:31:06.155970+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2308c68700",
