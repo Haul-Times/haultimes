@@ -3995,7 +3995,9 @@
   "cc23d9a52c": "skipped|importance 45 is below this platform's threshold (65)",
   "b607dd8b02": "skipped|importance 50 is below this platform's threshold (65)",
   "4f1af11d5b": "skipped|importance 55 is below this platform's threshold (65)",
-  "de58a7579c": "skipped|minor item (announcement) or low-quality source"
+  "de58a7579c": "skipped|minor item (announcement) or low-quality source",
+  "d349461ed5": "skipped|importance 55 is below this platform's threshold (65)",
+  "628ace6455": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8190,6 +8192,20 @@
    "title": "KeNHA Names Sand and Ballast Truckers as Biggest Culprits in Overloading, Reveals Enforcement Challenges",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-19T18:21:32.761161+00:00",
+   "story_id": "d349461ed5",
+   "title": "Protections for Independent Truckers Finalized Following ATA’s Advocacy",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T18:21:32.761161+00:00",
+   "story_id": "628ace6455",
+   "title": "Supply chain software has an 18-month go-live problem",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
