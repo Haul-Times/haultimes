@@ -1,5 +1,65 @@
 [
  {
+  "id": "d07c5e25ad",
+  "slug": "mexico-s-border-freight-needs-smarter-truck-scheduling-d07c5e25ad",
+  "title": "Mexico's Border Freight Needs Smarter Truck Scheduling",
+  "orig_title": "Mexico's Border Freight Needs Smarter Truck Scheduling",
+  "summary": "",
+  "why": "",
+  "category": "border",
+  "region": "Cross-border",
+  "importance": 45,
+  "source": "Mexico Business News",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFE5dlJoMUpIM3NNZm83V3d4eW9xOTVuNjhNNzVmc2J5em5zdmZmNnZMdW91d3ZjSC03Y1dzMzhUNjlpOThUWXFHWGlmcGVWZWJpNnFlT0txTDFEaWlVZVQ2MnlPbjZaRU5MMzRPck5hTllobnprb2dIdWgtRi00YzBJU0Y0RVJrbUFBMnk4ZllhZWhva2xuX1lFekQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFE5dlJoMUpIM3NNZm83V3d4eW9xOTVuNjhNNzVmc2J5em5zdmZmNnZMdW91d3ZjSC03Y1dzMzhUNjlpOThUWXFHWGlmcGVWZWJpNnFlT0txTDFEaWlVZVQ2MnlPbjZaRU5MMzRPck5hTllobnprb2dIdWgtRi00YzBJU0Y0RVJrbUFBMnk4ZllhZWhva2xuX1lFekQ",
+  "snippet": "Mexico's Border Freight Needs Smarter Truck Scheduling Mexico Business News",
+  "published": "2026-11-19T14:25:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T14:41:06.211486+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://mexicobusiness.news/logistics/news/mexicos-border-freight-needs-smarter-truck-scheduling",
+  "source_note": "ok · 1446 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "9fbdd2abaee3f12d",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-19T14:41:06.211486+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Mexican importers can reduce border delays through better crossing schedules"
+   },
+   {
+    "sentence": "2",
+    "quote": "representing a 34.2% annual increase"
+   },
+   {
+    "sentence": "2",
+    "quote": "Trucks transported approximately US$75.4 billion"
+   },
+   {
+    "sentence": "3",
+    "quote": "These figures are illustrative and do not represent verified Mexican freight tariffs."
+   }
+  ],
+  "sum_problems": [
+   "name 'Mexico-US' is not in the source"
+  ],
+  "ai_category": "border",
+  "ai_importance": 40
+ },
+ {
   "id": "a67a9b84d7",
   "slug": "trucker-bathroom-access-act-advances-to-improve-driver-restroom-access-a67a9b84d7",
   "title": "Trucker Bathroom Access Act advances to improve driver restroom access",

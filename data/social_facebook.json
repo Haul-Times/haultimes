@@ -3935,7 +3935,8 @@
   "64bdaec7ec": "skipped|importance 51 is below this platform's threshold (65)",
   "1b3bc19f28": "skipped|minor item (news) or low-quality source",
   "2308c68700": "queued|importance 66 (threshold 65), Equipment, trade publication",
-  "c7e69a5d82": "skipped|importance 60 is below this platform's threshold (65)"
+  "c7e69a5d82": "skipped|importance 60 is below this platform's threshold (65)",
+  "d07c5e25ad": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8053,6 +8054,13 @@
    "title": "Three supply chain trends carriers should watch heading into 2027",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T14:41:48.529109+00:00",
+   "story_id": "d07c5e25ad",
+   "title": "Mexico's Border Freight Needs Smarter Truck Scheduling",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
