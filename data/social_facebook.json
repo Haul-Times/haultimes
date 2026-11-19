@@ -2960,7 +2960,7 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/highway-congestion-cost-us-trucking-128-billion-in-2024-3d9a2e2be3/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=3d9a2e2be3",
    "caption": "Highway congestion cost US trucking $128 billion in 2024.\n\nReported by Truck News. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-18T16:31:24.906490+00:00",
    "published": "2026-11-18T16:19:34+00:00",
    "score": 66,
@@ -3833,7 +3833,7 @@
   "103b0ffbb7": "skipped|minor item (crime) or low-quality source",
   "8ef07671a3": "skipped|importance 56 is below this platform's threshold (65)",
   "fdd7dcbf37": "skipped|minor item (news) or low-quality source",
-  "3d9a2e2be3": "queued|importance 66 (threshold 65), Industry, trade publication",
+  "3d9a2e2be3": "expired|stale before a slot opened (published 12h ago)",
   "5abfecef3f": "skipped|importance 55 is below this platform's threshold (65)",
   "179c15e416": "skipped|importance 50 is below this platform's threshold (65)",
   "e31650b54b": "skipped|importance 60 is below this platform's threshold (65)",
@@ -3873,7 +3873,8 @@
   "99b95a016e": "skipped|importance 45 is below this platform's threshold (65)",
   "36c1405daf": "skipped|importance 50 is below this platform's threshold (65)",
   "5974bfaec0": "skipped|importance 45 is below this platform's threshold (65)",
-  "2ab81688b4": "skipped|minor item (crime) or low-quality source"
+  "2ab81688b4": "skipped|minor item (crime) or low-quality source",
+  "84be4694d7": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -7914,6 +7915,20 @@
    "title": "Strongsville Costco shooting victim’s family sues trucking companies, claims they ignored warning signs",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-19T04:21:29.460083+00:00",
+   "story_id": "3d9a2e2be3",
+   "title": "Highway congestion cost US trucking $128 billion in 2024",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-19T04:21:29.460083+00:00",
+   "story_id": "84be4694d7",
+   "title": "Paramvir Singh Gets 30 Months in $7.2M Cargo Theft Case",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
