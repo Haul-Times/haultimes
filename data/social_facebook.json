@@ -3016,7 +3016,7 @@
    "source": "overdriveonline.com",
    "dest": "https://haultimes.com/story/fmcsa-computer-glitch-leaves-colorado-trucker-s-usdot-inactive-4c5bfcedf1/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=4c5bfcedf1",
    "caption": "FMCSA computer glitch leaves Colorado trucker's USDOT# inactive.\n\nReported by overdriveonline. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-18T17:11:24.823274+00:00",
    "published": "2026-11-18T17:09:46+00:00",
    "score": 67,
@@ -3839,7 +3839,7 @@
   "e31650b54b": "skipped|importance 60 is below this platform's threshold (65)",
   "5cf64239b7": "expired|stale before a slot opened (published 12h ago)",
   "ec83090455": "skipped|importance 55 is below this platform's threshold (65)",
-  "4c5bfcedf1": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "4c5bfcedf1": "expired|stale before a slot opened (published 12h ago)",
   "423316c758": "skipped|importance 55 is below this platform's threshold (65)",
   "1b846d3450": "skipped|importance 55 is below this platform's threshold (65)",
   "7a4944bdd9": "queued|importance 75 (threshold 65), Equipment, trade publication",
@@ -7934,6 +7934,13 @@
    "at": "2026-11-19T05:01:22.711840+00:00",
    "story_id": "5cf64239b7",
    "title": "The Trump Crackdown Aims At The Driver, However The Same Government Keeps Clearing The Company Behind Him",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-19T05:11:33.097886+00:00",
+   "story_id": "4c5bfcedf1",
+   "title": "FMCSA computer glitch leaves Colorado trucker's USDOT# inactive",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
   }
