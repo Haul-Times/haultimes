@@ -1,5 +1,35 @@
 [
  {
+  "id": "d145c1e413",
+  "slug": "trucking-congestion-costs-reach-128-billion-d145c1e413",
+  "title": "Trucking Congestion Costs Reach $128 Billion",
+  "orig_title": "Trucking Congestion Costs Reach $128 Billion",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 51,
+  "source": "Material Handling & Logistics",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXpvczJUd1VfSzYxSm5yLXlDYWM0WE11a256cW5xRHEyTEdVeXJ5NU5sakdQWXp0Q0lzS0lzYlFYbVpzRnp3MkpYd250TnBIWGZpR3RNR3N0bmw1MTEzMm9CdnY0aXduZTVyTnZnYVFINElrSWJ3bWw1MFVXcnNxano4bFdIYzZFdHZtZXN5TzhtWWpjWGl3VmM2QnRtYWhvcEJUSHVLbDdoQXdldmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXpvczJUd1VfSzYxSm5yLXlDYWM0WE11a256cW5xRHEyTEdVeXJ5NU5sakdQWXp0Q0lzS0lzYlFYbVpzRnp3MkpYd250TnBIWGZpR3RNR3N0bmw1MTEzMm9CdnY0aXduZTVyTnZnYVFINElrSWJ3bWw1MFVXcnNxano4bFdIYzZFdHZtZXN5TzhtWWpjWGl3VmM2QnRtYWhvcEJUSHVLbDdoQXdldmc",
+  "snippet": "Trucking Congestion Costs Reach $128 Billion Material Handling & Logistics",
+  "published": "2026-11-19T05:09:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-19T05:21:03.012260+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Highway congestion cost US trucking $128 billion in 2024"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "3d9a2e2be3"
+ },
+ {
   "id": "da7a626d36",
   "slug": "truck-waiting-times-why-digital-systems-fall-short-da7a626d36",
   "title": "Truck waiting times: why digital systems fall short",
