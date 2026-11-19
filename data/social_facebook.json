@@ -4070,7 +4070,9 @@
   "0261bd3c91": "skipped|importance 61 is below this platform's threshold (65)",
   "d5022cb19b": "skipped|importance 55 is below this platform's threshold (65)",
   "489a260e1f": "skipped|minor item (crime) or low-quality source",
-  "9415c6a294": "skipped|importance 45 is below this platform's threshold (65)"
+  "9415c6a294": "skipped|importance 45 is below this platform's threshold (65)",
+  "8970c8c34f": "skipped|importance 62 is below this platform's threshold (65)",
+  "d3abc7ab33": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8398,6 +8400,20 @@
    "title": "OPP charge commercial vehicle driver and company after taking unsafe vehicle off the road",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T21:21:35.277190+00:00",
+   "story_id": "8970c8c34f",
+   "title": "Oregon police stop 84 truckers for bypassing scale as part of three weigh station enforcement operations",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-19T21:21:35.277190+00:00",
+   "story_id": "d3abc7ab33",
+   "title": "1986 Pete 359's bounceback: 'Nothing beats an old truck'",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
