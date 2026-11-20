@@ -4393,7 +4393,9 @@
   "062a68f0e2": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "6eaf6190f3": "skipped|importance 55 is below this platform's threshold (65)",
   "f71e73d196": "queued|importance 67 (threshold 65), Regulations, trade publication",
-  "72fe5a4205": "skipped|minor item (incident) or low-quality source"
+  "72fe5a4205": "skipped|minor item (incident) or low-quality source",
+  "4300ecbcef": "skipped|minor item (news) or low-quality source",
+  "b435c10f48": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9071,6 +9073,20 @@
    "title": "Freight Broker Blames Injured Emlenton Mechanic, Seeks to Add Disabled Truck Owner to I-80 Lawsuit",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T17:41:31.680010+00:00",
+   "story_id": "4300ecbcef",
+   "title": "Q3 Shipping Costs Down 3.3% – Where Did The Savings Go?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T17:41:31.680010+00:00",
+   "story_id": "b435c10f48",
+   "title": "Trucking Rejection Rates: Why Holiday Shipping Gets SPICY",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
