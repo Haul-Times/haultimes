@@ -8100,7 +8100,7 @@
   "labels": [],
   "kind": "crime",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://ng.headtopics.com/news/14-arrested-in-22-5-million-southern-california-cargo-90015946",
   "source_note": "ok · 566 words"
  },
@@ -29629,6 +29629,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "9fdf81a71d",
+  "slug": "highly-classified-u-s-national-security-communications-network-goes-do-9fdf81a71d",
+  "title": "Highly classified U.S. national security communications network goes down, CNN sources say",
+  "orig_title": "Highly classified U.S. national security communications network goes down, CNN sources say",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmM0OVAzNFU2XzMxN2VyR0h4VF9FRTRsaXp3NDhQdGM0bmRxZlpMUHhidGtDMnVJUjNLT21QY29lLU93VmlaYlYzT01PZEVxUHhiQkZLRzJjOU5zbmFEY0ZQUkJiazZVZU93WGdIbVNqckNRbFNfcm8tUHN4VC1kZlU1U3VmTWlra3lYMUtNcmdoYTJmVzhZOHdhY1VVSENZdG9ieFpMY2F2ZkxmV3dCNUVFRVNuWXB0R1h2cVB3bFRRWmM?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmM0OVAzNFU2XzMxN2VyR0h4VF9FRTRsaXp3NDhQdGM0bmRxZlpMUHhidGtDMnVJUjNLT21QY29lLU93VmlaYlYzT01PZEVxUHhiQkZLRzJjOU5zbmFEY0ZQUkJiazZVZU93WGdIbVNqckNRbFNfcm8tUHN4VC1kZlU1U3VmTWlra3lYMUtNcmdoYTJmVzhZOHdhY1VVSENZdG9ieFpMY2F2ZkxmV3dCNUVFRVNuWXB0R1h2cVB3bFRRWmM",
+  "snippet": "Highly classified U.S. national security communications network goes down, CNN sources say CTV News",
+  "published": "2026-11-18T12:29:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T23:41:05.619839+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "ffa5543b37",
