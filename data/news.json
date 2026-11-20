@@ -11311,6 +11311,35 @@
   "sum_pending": false
  },
  {
+  "id": "a292944e7e",
+  "slug": "ontario-targets-noisy-vehicles-with-new-steeper-fines-these-are-the-pe-a292944e7e",
+  "title": "Ontario targets noisy vehicles with new steeper fines. These are the penalties drivers could face",
+  "orig_title": "Ontario targets noisy vehicles with new steeper fines. These are the penalties drivers could face",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTMteEZrczhlMmVRT2VKaWE4RmN1cWJnQ0JxTDNadm9wX1Fjelh2NWlIS2YzMWZBc2gtcVpxSVZCT2VTWVhhRnVjeGFtNk9FVVd4czU2OFUwdlN3cHYycUpRcGl2WHpfN2FpWFZXZHRwajVXVkxwRTBMZm0zVTBPQm9oRHNaVmhPaVVTZ2d1d0JjbDI0UnRSNEVBbl9sNzZHV1Q5elo5T1dBYV9VV3JGREZCNE1GYlBWN2xyczY1SWM?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTMteEZrczhlMmVRT2VKaWE4RmN1cWJnQ0JxTDNadm9wX1Fjelh2NWlIS2YzMWZBc2gtcVpxSVZCT2VTWVhhRnVjeGFtNk9FVVd4czU2OFUwdlN3cHYycUpRcGl2WHpfN2FpWFZXZHRwajVXVkxwRTBMZm0zVTBPQm9oRHNaVmhPaVVTZ2d1d0JjbDI0UnRSNEVBbl9sNzZHV1Q5elo5T1dBYV9VV3JGREZCNE1GYlBWN2xyczY1SWM",
+  "snippet": "Ontario targets noisy vehicles with new steeper fines. These are the penalties drivers could face CTV News",
+  "published": "2026-11-18T22:14:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T03:01:17.081753+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "84e4280327",
   "slug": "traffic-congestion-cost-trucking-128-2b-in-2024-84e4280327",
   "title": "Traffic Congestion Cost Trucking $128.2B in 2024",
@@ -13839,6 +13868,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "f0ff0b684d",
+  "slug": "mark-carney-meets-donald-trump-at-summit-in-china-f0ff0b684d",
+  "title": "Mark Carney meets Donald Trump at summit in China",
+  "orig_title": "Mark Carney meets Donald Trump at summit in China",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VyVXdZTDJxZWFUZEx0YUxGQXVyeW90UFc1aXljX2NfRFJRazh1Y0ZBSjN0TXdna1JrVFNWNzhaYWdvc242dFpCeXlDblhNRnZDNzJTNnB2OFBJWjdtM2V2QW1STldfbkdTNDYySFk3UDl0QzJ1RjlPcDRtRmNyQjJkNWMzcHVqUTQ2Ylk1bzFsaTJmWjZuR2tNOA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VyVXdZTDJxZWFUZEx0YUxGQXVyeW90UFc1aXljX2NfRFJRazh1Y0ZBSjN0TXdna1JrVFNWNzhaYWdvc242dFpCeXlDblhNRnZDNzJTNnB2OFBJWjdtM2V2QW1STldfbkdTNDYySFk3UDl0QzJ1RjlPcDRtRmNyQjJkNWMzcHVqUTQ2Ylk1bzFsaTJmWjZuR2tNOA",
+  "snippet": "Mark Carney meets Donald Trump at summit in China CTV News",
+  "published": "2026-11-18T16:34:19+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T03:01:17.081753+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -19361,6 +19419,35 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
+  "sum_pending": false
+ },
+ {
+  "id": "c82e2abac7",
+  "slug": "tiny-kitten-named-rusty-rescued-with-broken-leg-b-c-spca-c82e2abac7",
+  "title": "Tiny kitten named Rusty rescued with broken leg: B.C. SPCA",
+  "orig_title": "Tiny kitten named Rusty rescued with broken leg: B.C. SPCA",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOExFZ3UzVkMyZWhNX05xaGwyN0YwUkwwbnFWSmdtZG83RUJ3TEZ2bkQxdTRNX2ZOZ3pCYlBaMW9Rb05QNngzdW8wUFRpbEViOHd2RGQ3cEg5WUJBLXlaR3dvdF8tZ1VVaTEydmR1V2NVS3NRSmdEME1RY2thX3I4dDN4S09KRk5DcUtQOWtRMG5MYi0tTDlqVHhJMUtPZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOExFZ3UzVkMyZWhNX05xaGwyN0YwUkwwbnFWSmdtZG83RUJ3TEZ2bkQxdTRNX2ZOZ3pCYlBaMW9Rb05QNngzdW8wUFRpbEViOHd2RGQ3cEg5WUJBLXlaR3dvdF8tZ1VVaTEydmR1V2NVS3NRSmdEME1RY2thX3I4dDN4S09KRk5DcUtQOWtRMG5MYi0tTDlqVHhJMUtPZw",
+  "snippet": "Tiny kitten named Rusty rescued with broken leg: B.C. SPCA CTV News",
+  "published": "2026-11-17T19:55:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T03:01:17.081753+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
@@ -30269,35 +30356,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
- },
- {
-  "id": "7dc6ed8c68",
-  "slug": "olive-branch-supply-chain-jobs-with-multiple-openings-7dc6ed8c68",
-  "title": "🚚 Olive Branch Supply Chain Jobs with Multiple Openings",
-  "orig_title": "🚚 Olive Branch Supply Chain Jobs with Multiple Openings",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "NewsBreak: Local News & Alerts",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmVmUUd1LXBMOTRoNml1N3F6RmtEUzdJQTQ0b21KUEtlWktEaVZDdTAwazlmaVAwTlpyY0tURzlzSTBydEtyZk8tRURCS2dzLUI5N2JPRENabTE2TFBHSHRfVmJPem5PQ2NzN0laTHlnVlE1dkJmZHZISE1RQlBiU3JGTDhrSVlWa1B3bmh2QUgzaEY0T1p4U25ybGh3LTUzV295VkZLZ2dPR20xZ3BXYlM1bnNmak1fMk8zLWRTMUFJTUJIdnRuRXVhaw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmVmUUd1LXBMOTRoNml1N3F6RmtEUzdJQTQ0b21KUEtlWktEaVZDdTAwazlmaVAwTlpyY0tURzlzSTBydEtyZk8tRURCS2dzLUI5N2JPRENabTE2TFBHSHRfVmJPem5PQ2NzN0laTHlnVlE1dkJmZHZISE1RQlBiU3JGTDhrSVlWa1B3bmh2QUgzaEY0T1p4U25ybGh3LTUzV295VkZLZ2dPR20xZ3BXYlM1bnNmak1fMk8zLWRTMUFJTUJIdnRuRXVhaw",
-  "snippet": "🚚 Olive Branch Supply Chain Jobs with Multiple Openings NewsBreak: Local News & Alerts",
-  "published": "2026-11-15T06:42:38+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T02:51:08.158656+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
