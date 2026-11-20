@@ -588,6 +588,38 @@
   "sum_pending": false
  },
  {
+  "id": "9a93399240",
+  "slug": "us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week-9a93399240",
+  "title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week",
+  "orig_title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 66,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnRLQjZBRFo4R2F2aERkSlVuTnlnS0JDRy1nNEt5NVN2N1NPS0k3MVZPRTJPNGdwOEItZGZhT3c5OTBqdVhSSWFMQmw1eWVqU0kwWHVSTWM3NGZvWWlleFd2S2NxUndIalUyb3F6Zmg0SGZXbFdSQmNESjdQWk9Wa3ZFWkZqUDJ6RlQ4ZDQtRWJXOUE1YTkzNnpGTkx2Q0FG?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnRLQjZBRFo4R2F2aERkSlVuTnlnS0JDRy1nNEt5NVN2N1NPS0k3MVZPRTJPNGdwOEItZGZhT3c5OTBqdVhSSWFMQmw1eWVqU0kwWHVSTWM3NGZvWWlleFd2S2NxUndIalUyb3F6Zmg0SGZXbFdSQmNESjdQWk9Wa3ZFWkZqUDJ6RlQ4ZDQtRWJXOUE1YTkzNnpGTkx2Q0FG",
+  "snippet": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week FreightWaves",
+  "published": "2026-11-20T11:20:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:31:04.787205+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week",
+  "source_note": "paywalled: excerpt only · 17 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "285baef8ee",
   "slug": "an-aerial-view-of-the-paper-mill-fire-in-can-tho-285baef8ee",
   "title": "An aerial view of the paper mill fire in Can Tho.",
@@ -3127,7 +3159,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/rising-liability-claim-costs-squeeze-trucking-insurers-transunion-says",
   "source_note": "ok · 310 words"
  },
@@ -3216,6 +3248,35 @@
   ],
   "labels": [],
   "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "4ce810b392",
+  "slug": "fhwa-offers-up-to-100-million-to-ease-gridlock-in-major-us-metros-4ce810b392",
+  "title": "FHWA offers up to $100 million to ease gridlock in major US metros",
+  "orig_title": "FHWA offers up to $100 million to ease gridlock in major US metros",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlNSOEFtRmRoTVFLTk9FdGI2TVFkeDVLWi1DZmpYNDVEelpXdy1wYk5JLXF1dFpCM2gxdng3V1RJQ2tqNW11bjhGZkRfdll6aGRvTnBhS0dOWlhISURGTUlDT1dEMFpDR1JxUmEzNGI1SlVxSmlFREhWeVZWVjdwZ2pQTzRTVkM5LUdHM3A0MDBSRzdGaGdhZnhEUnpOdnFtTllCQTVMamZ1NUFwNWRscFdBQVhBZkxn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlNSOEFtRmRoTVFLTk9FdGI2TVFkeDVLWi1DZmpYNDVEelpXdy1wYk5JLXF1dFpCM2gxdng3V1RJQ2tqNW11bjhGZkRfdll6aGRvTnBhS0dOWlhISURGTUlDT1dEMFpDR1JxUmEzNGI1SlVxSmlFREhWeVZWVjdwZ2pQTzRTVkM5LUdHM3A0MDBSRzdGaGdhZnhEUnpOdnFtTllCQTVMamZ1NUFwNWRscFdBQVhBZkxn",
+  "snippet": "FHWA offers up to $100 million to ease gridlock in major US metros TheTrucker.com",
+  "published": "2026-11-19T22:31:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:31:04.787205+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
   "sum_pending": false
  },
  {
@@ -15570,6 +15631,35 @@
   "sum_pending": false
  },
  {
+  "id": "e500c51e84",
+  "slug": "calgary-mp-pays-tribute-to-ken-newans-in-question-period-e500c51e84",
+  "title": "Calgary MP pays tribute to Ken Newans in Question Period",
+  "orig_title": "Calgary MP pays tribute to Ken Newans in Question Period",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1VWalJPcGZXVlN5VEM2LVlOa051Nkk0ckZEc0hpR2M4MGtCZjFsVEdvR1AyUXhnaTNETjVJRHZlUTZxU01acGNzTXFrcGI3Tk41d0xydXNKU3YwNFRpUEV2RDJRcFdWMXRJMTlCWFZDX3dMVFlpSjk0N3puRm1DMkJxaUo2bGtxUUF5bTBrWkFZbEx5WmZFaGUxaDc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1VWalJPcGZXVlN5VEM2LVlOa051Nkk0ckZEc0hpR2M4MGtCZjFsVEdvR1AyUXhnaTNETjVJRHZlUTZxU01acGNzTXFrcGI3Tk41d0xydXNKU3YwNFRpUEV2RDJRcFdWMXRJMTlCWFZDX3dMVFlpSjk0N3puRm1DMkJxaUo2bGtxUUF5bTBrWkFZbEx5WmZFaGUxaDc",
+  "snippet": "Calgary MP pays tribute to Ken Newans in Question Period CTV News",
+  "published": "2026-11-18T21:15:46+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:31:04.787205+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "00c7088db8",
   "slug": "over-200-women-targeted-for-jobs-and-training-in-ghana-s-mining-transp-00c7088db8",
   "title": "Over 200 women targeted for jobs and training in Ghana’s mining transport sector",
@@ -17408,6 +17498,35 @@
   "published": "2026-11-18T18:06:17+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T08:41:06.316807+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "e4caacc0d7",
+  "slug": "teen-charged-with-arson-after-lake-cowichan-truck-fire-police-say-e4caacc0d7",
+  "title": "Teen charged with arson after Lake Cowichan truck fire, police say",
+  "orig_title": "Teen charged with arson after Lake Cowichan truck fire, police say",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeF9Db2poOVJ6b0VmcDRvYktneFV1YVdOZWdteUM5NFdZYU1nNW0tbzlDbFpUSUYwbHY5R19qdkpBSVY4d2tITHUwYVBxVENHY3hDYXp6OG1fanAzUWFfVFRuaE9CWnk4c2p0NWI2WFlCcXdHaTZTeGl3TElwc0JxU2hjYkJpaDV0TzJ3YVluNXB2ZEpUUzlZdG00SFpnaWhEaTFsTHByaVZ3NU0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeF9Db2poOVJ6b0VmcDRvYktneFV1YVdOZWdteUM5NFdZYU1nNW0tbzlDbFpUSUYwbHY5R19qdkpBSVY4d2tITHUwYVBxVENHY3hDYXp6OG1fanAzUWFfVFRuaE9CWnk4c2p0NWI2WFlCcXdHaTZTeGl3TElwc0JxU2hjYkJpaDV0TzJ3YVluNXB2ZEpUUzlZdG00SFpnaWhEaTFsTHByaVZ3NU0",
+  "snippet": "Teen charged with arson after Lake Cowichan truck fire, police say CTV News",
+  "published": "2026-11-18T18:04:49+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:31:04.787205+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -34105,75 +34224,6 @@
   "source_note": "robots.txt disallows",
   "sum_done": true,
   "sum_status": "no source text (robots.txt disallows)"
- },
- {
-  "id": "bcd5502d2c",
-  "slug": "owl-survives-65mph-collision-with-tractor-trailer-rescued-by-carlisle-bcd5502d2c",
-  "title": "Owl survives 65mph collision with tractor-trailer, rescued by Carlisle trucking company",
-  "orig_title": "Owl survives 65mph collision with tractor-trailer, rescued by Carlisle trucking company",
-  "summary": "",
-  "why": "",
-  "category": "equip",
-  "region": "US",
-  "importance": 20,
-  "source": "local21news.com",
-  "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPakR1dU9RZEdIMVo0d1hLU1VrdmhsbEhYdkVkUjhBTnh0bk1KcU9EMF9aMENIeVltcTZ2c1dwYjdTdXdJck1wcC1sMXNlelpIenkzVmlaZXotbEFXbEdhWTJXLWJlOHF6SFNHQV9FUUtuUTcwVjBNbHFzOEdfMHB2b0hsVXMwelhOcVZibUFFVlZSaHVHWHBqX1NJVHpCMGtuX3BxRVJYN1BGakNBdXYwcTRUeUdobXZiRklzaVJOXy1mbF9JcUVwWF9DUV9PZEN3RmxaWlZEZkNNQ28tdGoyT2JobDA4MkNFamN3RkR5U2NnLWVPTHo0VFd2a0pjeXRNNWFPODlucXN3M0Z3UWpwTmNORlhPRTczVUE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPakR1dU9RZEdIMVo0d1hLU1VrdmhsbEhYdkVkUjhBTnh0bk1KcU9EMF9aMENIeVltcTZ2c1dwYjdTdXdJck1wcC1sMXNlelpIenkzVmlaZXotbEFXbEdhWTJXLWJlOHF6SFNHQV9FUUtuUTcwVjBNbHFzOEdfMHB2b0hsVXMwelhOcVZibUFFVlZSaHVHWHBqX1NJVHpCMGtuX3BxRVJYN1BGakNBdXYwcTRUeUdobXZiRklzaVJOXy1mbF9JcUVwWF9DUV9PZEN3RmxaWlZEZkNNQ28tdGoyT2JobDA4MkNFamN3RkR5U2NnLWVPTHo0VFd2a0pjeXRNNWFPODlucXN3M0Z3UWpwTmNORlhPRTczVUE",
-  "snippet": "Owl survives 65mph collision with tractor-trailer, rescued by Carlisle trucking company local21news.com",
-  "published": "2026-11-16T14:13:48+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T14:21:06.883363+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "incident",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://local21news.com/news/local/owl-survives-65mph-collision-with-tractor-trailer-rescued-by-carlisle-trucking-company-old-dominion-raven-ridge-bird-trucker-rescue-animal-lancaster-county",
-  "source_note": "ok · 313 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "d76980ecbb879b5e",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-16T14:21:06.883363+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "A Lancaster County wildlife center said"
-   },
-   {
-    "sentence": "2",
-    "quote": "after hours call from a worker with the Old Dominion Freight Line"
-   },
-   {
-    "sentence": "3",
-    "quote": "maintenance team with the company was reportedly able to free the owl"
-   },
-   {
-    "sentence": "4",
-    "quote": "only sustained damage to its left eye"
-   },
-   {
-    "sentence": "5",
-    "quote": "didn't realize the bird was stuck until she got back to the terminal"
-   },
-   {
-    "sentence": "6",
-    "quote": "release the bird where it was found"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 8,
-  "ai_relevant": false
  },
  {
   "id": "71bd7c1115",

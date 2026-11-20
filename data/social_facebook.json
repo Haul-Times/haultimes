@@ -3336,6 +3336,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "9a93399240": {
+   "story_id": "9a93399240",
+   "title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week",
+   "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnRLQjZBRFo4R2F2aERkSlVuTnlnS0JDRy1nNEt5NVN2N1NPS0k3MVZPRTJPNGdwOEItZGZhT3c5OTBqdVhSSWFMQmw1eWVqU0kwWHVSTWM3NGZvWWlleFd2S2NxUndIalUyb3F6Zmg0SGZXbFdSQmNESjdQWk9Wa3ZFWkZqUDJ6RlQ4ZDQtRWJXOUE1YTkzNnpGTkx2Q0FG",
+   "category": "other",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week-9a93399240/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9a93399240",
+   "caption": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-20T14:31:27.760087+00:00",
+   "published": "2026-11-20T11:20:00+00:00",
+   "score": 66,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/ac9c7b4c85.png",
+    "og:url": "https://haultimes.com/story/us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week-9a93399240/"
+   },
+   "reason": "importance 66 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -4185,7 +4213,8 @@
   "99333524cb": "skipped|importance 55 is below this platform's threshold (65)",
   "0df12fe063": "queued|importance 73 (threshold 65), Industry, trade publication",
   "b2ba83e34f": "queued|importance 73 (threshold 65), Cross-Border, trade publication",
-  "7a504a6a90": "skipped|minor item (press_release) or low-quality source"
+  "7a504a6a90": "skipped|minor item (press_release) or low-quality source",
+  "9a93399240": "queued|importance 66 (threshold 65), Industry, trade publication"
  },
  "decisions": [
   {
@@ -8772,6 +8801,13 @@
    "title": "Highway’s Q3 2026 Freight Fraud Index Highlights Compromised Communications as a Leading Theft Risk",
    "action": "skipped",
    "reason": "minor item (press_release) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T14:31:27.760087+00:00",
+   "story_id": "9a93399240",
+   "title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week",
+   "action": "queued",
+   "reason": "importance 66 (threshold 65), Industry, trade publication"
   }
  ],
  "visibility": {
