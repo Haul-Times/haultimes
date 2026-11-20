@@ -4272,7 +4272,8 @@
   "7a504a6a90": "skipped|minor item (press_release) or low-quality source",
   "9a93399240": "queued|importance 66 (threshold 65), Industry, trade publication",
   "65e40ffb44": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
-  "aaf6ac14ad": "queued|importance 72 (threshold 65), Regulations, trade publication"
+  "aaf6ac14ad": "queued|importance 72 (threshold 65), Regulations, trade publication",
+  "50baa1f41e": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -8880,6 +8881,13 @@
    "title": "TCA's Heller: Enforcement crackdown reshaping US trucking, but FMCSA needs more resources",
    "action": "queued",
    "reason": "importance 72 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-20T15:11:35.600184+00:00",
+   "story_id": "50baa1f41e",
+   "title": "Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contracts",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
