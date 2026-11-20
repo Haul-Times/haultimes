@@ -1,5 +1,34 @@
 [
  {
+  "id": "3929711b11",
+  "slug": "semi-driver-in-saskatchewan-dangerously-passes-multiple-vehicles-on-hi-3929711b11",
+  "title": "Semi driver in Saskatchewan dangerously passes multiple vehicles on highway shoulder",
+  "orig_title": "Semi driver in Saskatchewan dangerously passes multiple vehicles on highway shoulder",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWsyTTI1Q0dKN3NBNVptME04cGtjcGdhUUxaakNWTkJ5dWdRSXVZYUZtd1pOQjQ2S2stWnlVb2M0Uzg5YnlkTDl2aFF3cm43TkFXZk4xd3FyRWpHMWpwYlp3QVA5WUVNSjdhYUN5a1hjR3dpdmhIZlVGTWk5anRDc0pNTUZ6aWZKVTlBeGNyQjFxRnMtdmJvWmlsSllVZ1Y2WXNzRFRkeDJfeTI3NTZsUERKQUNsRFlIakd4Qk84bE0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWsyTTI1Q0dKN3NBNVptME04cGtjcGdhUUxaakNWTkJ5dWdRSXVZYUZtd1pOQjQ2S2stWnlVb2M0Uzg5YnlkTDl2aFF3cm43TkFXZk4xd3FyRWpHMWpwYlp3QVA5WUVNSjdhYUN5a1hjR3dpdmhIZlVGTWk5anRDc0pNTUZ6aWZKVTlBeGNyQjFxRnMtdmJvWmlsSllVZ1Y2WXNzRFRkeDJfeTI3NTZsUERKQUNsRFlIakd4Qk84bE0",
+  "snippet": "Semi driver in Saskatchewan dangerously passes multiple vehicles on highway shoulder CTV News",
+  "published": "2026-11-20T20:30:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T20:41:03.467934+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0fc3de334e",
   "slug": "oversight-for-simi-landfill-agreement-nixed-0fc3de334e",
   "title": "Oversight for Simi landfill agreement nixed",
@@ -38675,35 +38704,6 @@
   "sum_status": "no source text (no publisher address: google page HTTPError)"
  },
  {
-  "id": "b4e7804f86",
-  "slug": "ann-wasson-b4e7804f86",
-  "title": "Ann Wasson",
-  "orig_title": "Ann Wasson",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10NXh5TkFOUUc4MXNoZW0wQjJfVmpFN1pfa1dyVk1mZllQdm92UE1tYkhRSElTYU8tRUtveVZfS2VyMUk3clNQTUFiMVR4RnlPUHhacXNZc3k3ZlE3?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10NXh5TkFOUUc4MXNoZW0wQjJfVmpFN1pfa1dyVk1mZllQdm92UE1tYkhRSElTYU8tRUtveVZfS2VyMUk3clNQTUFiMVR4RnlPUHhacXNZc3k3ZlE3",
-  "snippet": "Ann Wasson FreightWaves",
-  "published": "2026-11-16T20:14:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T20:31:19.208279+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "911576351e",
   "slug": "truck-access-and-wharf-upgrades-part-of-10-3b-infrastructure-plan-at-p-911576351e",
   "title": "Truck access and wharf upgrades part of $10.3B infrastructure plan at Port of New York and New Jersey",
@@ -39774,35 +39774,6 @@
   "ai_category": "equip",
   "ai_importance": 70,
   "sum_v3": true
- },
- {
-  "id": "9a7043fd21",
-  "slug": "12-suspects-arrested-over-90-vehicles-valued-at-4-5-million-recovered-9a7043fd21",
-  "title": "12 suspects arrested, over 90 vehicles valued at $4.5 million recovered in Peel auto theft investigation",
-  "orig_title": "12 suspects arrested, over 90 vehicles valued at $4.5 million recovered in Peel auto theft investigation",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CityNews Toronto",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWUJhUGhuQnVKRnlBODhreU02cVZuY0tkaDVsUzh3ZEQ0VkxtZ20xX2Y5eHUxRUdnQ0ZTSThUTFBucnJNT0dHX0Vla3RKbzV0eDRHOVhVRElIR1JKQWhocmhhTGhCTU1pbmhRM3hzeV9QeTIwbm5WS1NxN19JMXhXR2dHT0xWYjBfMklxY3hHMkYxSHJyTUlZV19CZDRpQnZCVm5admZ2YmpJOUgxb290ekxFM0wxRUx0ZzEtaVRPVXE0akFvWnBVNnJJbzIzQWNPOWptbTVPTi1fUQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWUJhUGhuQnVKRnlBODhreU02cVZuY0tkaDVsUzh3ZEQ0VkxtZ20xX2Y5eHUxRUdnQ0ZTSThUTFBucnJNT0dHX0Vla3RKbzV0eDRHOVhVRElIR1JKQWhocmhhTGhCTU1pbmhRM3hzeV9QeTIwbm5WS1NxN19JMXhXR2dHT0xWYjBfMklxY3hHMkYxSHJyTUlZV19CZDRpQnZCVm5admZ2YmpJOUgxb290ekxFM0wxRUx0ZzEtaVRPVXE0akFvWnBVNnJJbzIzQWNPOWptbTVPTi1fUQ",
-  "snippet": "12 suspects arrested, over 90 vehicles valued at $4.5 million recovered in Peel auto theft investigation CityNews Toronto",
-  "published": "2026-11-16T16:35:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T20:31:19.208279+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "7cd9f00275",
