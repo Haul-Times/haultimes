@@ -4362,7 +4362,8 @@
   "7de5f0a5c0": "queued|importance 72 (threshold 65), Industry, trade publication",
   "7db84ccb46": "queued|importance 67 (threshold 65), Industry, trade publication",
   "9f32659279": "skipped|minor item (feature) or low-quality source",
-  "062a68f0e2": "queued|importance 67 (threshold 65), Regulations, trade publication"
+  "062a68f0e2": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "6eaf6190f3": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9019,6 +9020,13 @@
    "title": "Bill to require bathroom access for truckers advances in Senate",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-20T16:51:33.214682+00:00",
+   "story_id": "6eaf6190f3",
+   "title": "Mexico tightens trucking oversight with new digital compliance rules",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
