@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:21:09.583902+00:00",
+ "updated": "2026-11-20T15:31:07.954037+00:00",
  "hour_now": 10,
  "have_us": true,
  "have_ca": true,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": 0,
     "lanes": "3",
-    "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "status": "delay",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -109,7 +109,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 10:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 7,
-    "status": "7 minutes",
-    "updated": "2026-11-20 10:00 EST"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-20 10:20 EST"
    },
    "usual": {
     "south": [
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At 10:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 13,
-    "status": "13 minutes",
-    "updated": "2026-11-20 10:00 EST"
+    "wait": 6,
+    "status": "6 minutes",
+    "updated": "2026-11-20 10:20 EST"
    },
    "usual": {
     "south": [
@@ -360,7 +360,7 @@
      2,
      3,
      6,
-     9,
+     8,
      7,
      8,
      8,
@@ -395,7 +395,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 08:15 EST"
+    "updated": "2026-11-20 10:15 EST"
    },
    "usual": {
     "south": [
@@ -545,7 +545,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 08:15 EST"
+    "updated": "2026-11-20 10:15 EST"
    },
    "usual": {
     "south": [
@@ -689,7 +689,7 @@
     "fast_wait": 0,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "10:06:54",
+    "updated": "10:22:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,13 +914,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 09:15 AST"
+    "updated": "2026-11-20 11:15 AST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "10:06:54",
+    "updated": "10:22:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,13 +1064,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "09:06:55",
+    "updated": "09:22:02",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 08:23 CDT"
+    "updated": "2026-11-20 10:15 CDT"
    },
    "usual": {
     "south": [
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 07:48 CST"
+    "updated": "2026-11-20 09:15 CST"
    },
    "usual": {
     "south": [
@@ -1227,7 +1227,7 @@
      0,
      0,
      10,
-     17,
+     15,
      30,
      30,
      30,
@@ -1278,17 +1278,17 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "2",
-    "status": "delay",
-    "updated": "At 6:00 am PST",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 7:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-20 08:00 PDT"
+    "updated": "2026-11-20 08:20 PDT"
    },
    "usual": {
     "south": [
@@ -1302,7 +1302,7 @@
      0,
      9,
      3,
-     4,
+     3,
      0,
      0,
      0,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 08:00 PDT"
+    "updated": "2026-11-20 08:20 PDT"
    },
    "usual": {
     "south": [
