@@ -4117,7 +4117,8 @@
   "8fab767786": "skipped|minor item (news) or low-quality source",
   "aab5c10b5d": "skipped|minor item (news) or low-quality source",
   "f8c40911a7": "skipped|importance 63 is below this platform's threshold (65)",
-  "c02dac559f": "skipped|importance 63 is below this platform's threshold (65)"
+  "c02dac559f": "skipped|importance 63 is below this platform's threshold (65)",
+  "9a344ffa94": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8606,6 +8607,13 @@
    "title": "Troopers take 73% of inspected trucks out-of-service during one-day detail at Texas Motor Speedway",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-20T06:51:34.972910+00:00",
+   "story_id": "9a344ffa94",
+   "title": "Hours of Service (HOS) of Drivers; American Pyrotechnics Association (APA); Request To Include an Additional Member Company to Current APA H",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
