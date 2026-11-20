@@ -4966,6 +4966,35 @@
   "sum_pending": false
  },
  {
+  "id": "937eacde62",
+  "slug": "pierce-brosnan-tells-new-007-pattinson-enjoy-the-ride-937eacde62",
+  "title": "Pierce Brosnan tells new 007 Pattinson: ‘Enjoy the ride’",
+  "orig_title": "Pierce Brosnan tells new 007 Pattinson: ‘Enjoy the ride’",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWU3VS1QN00wM0NHUFpBZHliOWNHOFdGdEpzOGl4ZmxjcGdTV2p5QnM3anVRdVNjaDBVamFEWHlNTURTb0ZscmxMbUZZUlNDTWl5ZVBHRzh2enN0ZFR6UF9JTTh1anN1dEdjcWRIWmVQZU5qcE1UazdBbXRpSURLN1BtUnMxaDlUWl9PSWNKWFNOZnhkaUk0U3F1Y25KTk9K?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWU3VS1QN00wM0NHUFpBZHliOWNHOFdGdEpzOGl4ZmxjcGdTV2p5QnM3anVRdVNjaDBVamFEWHlNTURTb0ZscmxMbUZZUlNDTWl5ZVBHRzh2enN0ZFR6UF9JTTh1anN1dEdjcWRIWmVQZU5qcE1UazdBbXRpSURLN1BtUnMxaDlUWl9PSWNKWFNOZnhkaUk0U3F1Y25KTk9K",
+  "snippet": "Pierce Brosnan tells new 007 Pattinson: ‘Enjoy the ride’ CTV News",
+  "published": "2026-11-19T18:49:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T04:41:06.374822+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "4b7a486163",
   "slug": "alouettes-qb-alexander-suffered-fractured-rib-joint-in-grey-cup-loss-4b7a486163",
   "title": "Alouettes QB Alexander suffered fractured rib, joint in Grey Cup loss",
@@ -23322,6 +23351,35 @@
   "source_note": "excerpt only · 17 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "24c36f273c",
+  "slug": "we-just-want-to-get-our-lives-back-ontario-man-was-on-the-hook-for-125-24c36f273c",
+  "title": "‘We just want to get our lives back’: Ontario man was on the hook for $125K truck he didn’t buy",
+  "orig_title": "‘We just want to get our lives back’: Ontario man was on the hook for $125K truck he didn’t buy",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR3BIRHdIOVVCMWZobGo1ekt5a3N3anNXOC1yZ0IyYlNpREV2Y2s4X0JNd3FkSXppd3ZzVi0tbEpwUFhnaVMxanBjclBoRjlicUNfMFhZQmdKeGg3SVVieFM3OGE2TnNtTGF3QkViejZqNHR0OVVvU2NBdzROTTM4MWdCX3VNOHRQOTNZSFlWU0pGUkZaRk5UOF9IUXRUcGhGdlJ1SlVHcjV2d1BXRDlhTmNqcklhNVVPcXZmdkw0N2YzUE1aMWFJRnc1SWd6Z1A4RGhZVlE1Q3pPdVQ5eHc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR3BIRHdIOVVCMWZobGo1ekt5a3N3anNXOC1yZ0IyYlNpREV2Y2s4X0JNd3FkSXppd3ZzVi0tbEpwUFhnaVMxanBjclBoRjlicUNfMFhZQmdKeGg3SVVieFM3OGE2TnNtTGF3QkViejZqNHR0OVVvU2NBdzROTTM4MWdCX3VNOHRQOTNZSFlWU0pGUkZaRk5UOF9IUXRUcGhGdlJ1SlVHcjV2d1BXRDlhTmNqcklhNVVPcXZmdkw0N2YzUE1aMWFJRnc1SWd6Z1A4RGhZVlE1Q3pPdVQ5eHc",
+  "snippet": "‘We just want to get our lives back’: Ontario man was on the hook for $125K truck he didn’t buy CTV News",
+  "published": "2026-11-17T11:18:21+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T04:41:06.374822+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "de4116e6b4",

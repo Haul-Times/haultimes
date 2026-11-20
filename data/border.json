@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T04:31:11.420287+00:00",
+ "updated": "2026-11-20T04:41:06.192898+00:00",
  "hour_now": 23,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:17 pm EST",
+    "updated": "At 11:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -302,7 +302,7 @@
     ]
    },
    "best_south": "Usually fastest around 10 AM",
-   "best_north": "Usually fastest around 10 PM"
+   "best_north": "Usually fastest around 11 PM"
   },
   {
    "id": "lewiston",
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:17 pm EST",
+    "updated": "At 11:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -373,7 +373,7 @@
      5,
      2,
      3,
-     15
+     16
     ]
    },
    "best_south": "Usually fastest around 2 AM",
@@ -422,7 +422,7 @@
      6,
      5,
      5,
-     4
+     5
     ],
     "north": [
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "23:25:28",
+    "updated": "23:35:29",
     "hours": "24 hrs/day"
    },
    "north": {
