@@ -10816,6 +10816,35 @@
   "sum_pending": false
  },
  {
+  "id": "616925a74a",
+  "slug": "saskatchewan-homeowners-encouraged-to-check-furnaces-ahead-of-winter-s-616925a74a",
+  "title": "Saskatchewan homeowners encouraged to check furnaces ahead of winter’s arrival",
+  "orig_title": "Saskatchewan homeowners encouraged to check furnaces ahead of winter’s arrival",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlV3QnJReGJrenQ5NXg1TEZBWGRBbUN2dUVfNnhKaGF6X0VpMk5UV29NckJ6dFBaU21qQTVSRTNqRnVNRUlad29lNVNlU19fcHg0SHNVVHJGa0JnWGozT1pCQ2YwalM5ZXVGR0dlZHQ1cmNoZW9oVEdyblA0bS1Fc3VYSDV0c09TVlppTWZHYWF0cGdNT3Z5MHFVM0RQYzB0eXBhLVB4WGVQcHA3Rkgtb0stWnhMQU0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlV3QnJReGJrenQ5NXg1TEZBWGRBbUN2dUVfNnhKaGF6X0VpMk5UV29NckJ6dFBaU21qQTVSRTNqRnVNRUlad29lNVNlU19fcHg0SHNVVHJGa0JnWGozT1pCQ2YwalM5ZXVGR0dlZHQ1cmNoZW9oVEdyblA0bS1Fc3VYSDV0c09TVlppTWZHYWF0cGdNT3Z5MHFVM0RQYzB0eXBhLVB4WGVQcHA3Rkgtb0stWnhMQU0",
+  "snippet": "Saskatchewan homeowners encouraged to check furnaces ahead of winter’s arrival CTV News",
+  "published": "2026-11-18T22:27:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T01:59:59.365541+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9dfb653f65",
   "slug": "video-captures-apparent-theft-at-dartmouth-meat-shop-9dfb653f65",
   "title": "Video captures apparent theft at Dartmouth meat shop",
@@ -13005,6 +13034,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "bdd1f4a40c"
+ },
+ {
+  "id": "6530797090",
+  "slug": "impaired-charges-laid-in-rollover-crash-wps-6530797090",
+  "title": "Impaired charges laid in rollover crash: WPS",
+  "orig_title": "Impaired charges laid in rollover crash: WPS",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDZkOVJONjVCdGJGXzhHVExybkxNWmVtOU8wSnhuLTNha1NBY3VTejZQallpNWQwWk9qRjREVHgwNzlfNnBrNWE2VWVxb0dmWEs2Z0cxMnNBajlIWFVxbF9lZWhnNHMzQ2pvVWNQVDVfUWlNckFDdmVJLUl3R0tXYmhVLTRvWFJyUFFR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDZkOVJONjVCdGJGXzhHVExybkxNWmVtOU8wSnhuLTNha1NBY3VTejZQallpNWQwWk9qRjREVHgwNzlfNnBrNWE2VWVxb0dmWEs2Z0cxMnNBajlIWFVxbF9lZWhnNHMzQ2pvVWNQVDVfUWlNckFDdmVJLUl3R0tXYmhVLTRvWFJyUFFR",
+  "snippet": "Impaired charges laid in rollover crash: WPS CTV News",
+  "published": "2026-11-18T16:54:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T01:59:59.365541+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "5cf64239b7",
