@@ -9907,6 +9907,35 @@
   "sum_pending": false
  },
  {
+  "id": "5124367d4d",
+  "slug": "more-choice-or-anti-intellectual-albertans-mixed-on-new-high-school-gr-5124367d4d",
+  "title": "More choice or anti-intellectual? Albertans mixed on new high school grad requirements",
+  "orig_title": "More choice or anti-intellectual? Albertans mixed on new high school grad requirements",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEdDSTg2ZDBVTjZIMGZIV2JMM2txVHdaYmVCVUJSR2t6Uy0zMXFkY0dUT0ROVVpTWGw0SjU3S2ZsZHk3N29xb0N0MkdlVkEwcUZ2WTQ2ZlpyVGpLcFBxQmxkeDZyOVR1UGJpdHRKcFkzc2otNnJoT0c5WHRHSzVXQm1uM05vQ2RUQUN4dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEdDSTg2ZDBVTjZIMGZIV2JMM2txVHdaYmVCVUJSR2t6Uy0zMXFkY0dUT0ROVVpTWGw0SjU3S2ZsZHk3N29xb0N0MkdlVkEwcUZ2WTQ2ZlpyVGpLcFBxQmxkeDZyOVR1UGJpdHRKcFkzc2otNnJoT0c5WHRHSzVXQm1uM05vQ2RUQUN4dw",
+  "snippet": "More choice or anti-intellectual? Albertans mixed on new high school grad requirements Global News",
+  "published": "2026-11-19T00:58:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T02:01:08.397635+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3665739e7a",
   "slug": "3-alarm-blaze-at-historic-warehouse-in-baltimore-remains-under-investi-3665739e7a",
   "title": "3-alarm blaze at historic warehouse in Baltimore remains under investigation",
@@ -13660,6 +13689,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "4072d298d4",
+  "slug": "toyota-recalls-62-000-tundra-trucks-over-risk-of-losing-power-while-dr-4072d298d4",
+  "title": "Toyota recalls 62,000 Tundra trucks over risk of losing power while driving",
+  "orig_title": "Toyota recalls 62,000 Tundra trucks over risk of losing power while driving",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FOX 10 Phoenix",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXM5MzVGRlE5cE8wREQzQ2dJLTZFMmx0SVIwVHdJaWZ0RkJVYzcwek5WLXpyUlhWSVg3VlFQc0hDenB1Z3Atc2dVTk96MmFHVnB4YW5aQjVXSnkzeF9jdmpudi1KYk9ULTFrbHpTTEV0Z3dDLTZGZ1lBNGR1b3ZSZjA3NFgyUzRZN3Yxd2lCcWFxWVhkTHB4X2dyZDVGRG9hbUlGWWxoblE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXM5MzVGRlE5cE8wREQzQ2dJLTZFMmx0SVIwVHdJaWZ0RkJVYzcwek5WLXpyUlhWSVg3VlFQc0hDenB1Z3Atc2dVTk96MmFHVnB4YW5aQjVXSnkzeF9jdmpudi1KYk9ULTFrbHpTTEV0Z3dDLTZGZ1lBNGR1b3ZSZjA3NFgyUzRZN3Yxd2lCcWFxWVhkTHB4X2dyZDVGRG9hbUlGWWxoblE",
+  "snippet": "Toyota recalls 62,000 Tundra trucks over risk of losing power while driving FOX 10 Phoenix",
+  "published": "2026-11-18T15:53:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T02:01:08.397635+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8ef07671a3",
