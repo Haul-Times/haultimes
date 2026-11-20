@@ -1,5 +1,34 @@
 [
  {
+  "id": "6ffe50cbbc",
+  "slug": "a-fire-raged-through-the-night-at-can-tho-s-largest-paper-mill-engulfi-6ffe50cbbc",
+  "title": "A fire raged through the night at Can Tho's largest paper mill, engulfing 20,000 square meters.",
+  "orig_title": "A fire raged through the night at Can Tho's largest paper mill, engulfing 20,000 square meters.",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0FtdHo3RmoyTUx2MzVvZHNVN0RZcWQzTC1IN3pzaHZDQ0V3U2FSejdyMk5QX2lGQnNjQ1djS3NGSDB6alcxYlVTZXpZbmRvSDY0emVibm1wbE1UcmpaMjI2NUZTRkVlbUdlQlM0QUVaYW1OZG1WcjdHLVFKTGxLck5SWHhhaHUtV3Z4aWhYSVB5VG1iM1B5aEFrVG8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0FtdHo3RmoyTUx2MzVvZHNVN0RZcWQzTC1IN3pzaHZDQ0V3U2FSejdyMk5QX2lGQnNjQ1djS3NGSDB6alcxYlVTZXpZbmRvSDY0emVibm1wbE1UcmpaMjI2NUZTRkVlbUdlQlM0QUVaYW1OZG1WcjdHLVFKTGxLck5SWHhhaHUtV3Z4aWhYSVB5VG1iM1B5aEFrVG8",
+  "snippet": "A fire raged through the night at Can Tho's largest paper mill, engulfing 20,000 square meters. Vietnam.vn",
+  "published": "2026-11-20T02:58:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T03:11:05.767294+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "718873d654",
   "slug": "14-arrested-over-22-5m-train-cargo-theft-in-us-718873d654",
   "title": "14 arrested over $22.5m train cargo theft in US",
