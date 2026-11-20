@@ -4119,7 +4119,8 @@
   "f8c40911a7": "skipped|importance 63 is below this platform's threshold (65)",
   "c02dac559f": "skipped|importance 63 is below this platform's threshold (65)",
   "9a344ffa94": "skipped|importance 55 is below this platform's threshold (65)",
-  "f7bba64d16": "skipped|importance 45 is below this platform's threshold (65)"
+  "f7bba64d16": "skipped|importance 45 is below this platform's threshold (65)",
+  "978b3d13af": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8636,6 +8637,13 @@
    "title": "'Fraudulent' Forza ELD back on FMCSA registry of approved devices",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-20T12:31:19.991877+00:00",
+   "story_id": "978b3d13af",
+   "title": "Freight Spending Jumps 32% as Volumes Barely Move",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
