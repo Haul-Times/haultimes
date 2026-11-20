@@ -3420,6 +3420,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "7de5f0a5c0": {
+   "story_id": "7de5f0a5c0",
+   "title": "Good Carriers, Wrong Drivers: Why Cargo Theft Is Moving Past Carrier Vetting",
+   "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkdBTzlJMnUyelRtdUhyaWxXSzhZbjRuNnM1czR2dTRrcFBrdGZsQ1d5Uk9XQ2FFMjM0QndRLWx3NzJIVGFyNzE3OUZ0SmRRRzNjbVhLd3FRWnhGN3B4ZENrVUtja05lSlM1M2NFd2hvTklsemdydGZSSUZyNThVM2kxTXlUOUJvN3ZVcFBZNlV4SElfZjItaWlQa0I5Z0RJN1c4ajF6VzdZb2F0",
+   "category": "other",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/good-carriers-wrong-drivers-why-cargo-theft-is-moving-past-carrier-vet-7de5f0a5c0/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=7de5f0a5c0",
+   "caption": "Good Carriers, Wrong Drivers: Why Cargo Theft Is Moving Past Carrier Vetting.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight",
+   "status": "queued",
+   "created_at": "2026-11-20T16:11:39.479819+00:00",
+   "published": "2026-11-20T16:00:00+00:00",
+   "score": 72,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Good Carriers, Wrong Drivers: Why Cargo Theft Is Moving Past Carrier Vetting | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/79eba26280.png",
+    "og:url": "https://haultimes.com/story/good-carriers-wrong-drivers-why-cargo-theft-is-moving-past-carrier-vet-7de5f0a5c0/"
+   },
+   "reason": "importance 72 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -4274,7 +4302,8 @@
   "65e40ffb44": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
   "aaf6ac14ad": "queued|importance 72 (threshold 65), Regulations, trade publication",
   "50baa1f41e": "skipped|minor item (crime) or low-quality source",
-  "1788d3d0db": "skipped|importance 55 is below this platform's threshold (65)"
+  "1788d3d0db": "skipped|importance 55 is below this platform's threshold (65)",
+  "7de5f0a5c0": "queued|importance 72 (threshold 65), Industry, trade publication"
  },
  "decisions": [
   {
@@ -8903,6 +8932,13 @@
    "title": "BlueGrace Logistics secures Littlejohn as new private equity partner",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T16:11:39.479819+00:00",
+   "story_id": "7de5f0a5c0",
+   "title": "Good Carriers, Wrong Drivers: Why Cargo Theft Is Moving Past Carrier Vetting",
+   "action": "queued",
+   "reason": "importance 72 (threshold 65), Industry, trade publication"
   }
  ],
  "visibility": {
