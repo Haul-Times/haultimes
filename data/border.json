@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:11:17.339418+00:00",
+ "updated": "2026-11-20T18:17:45.894394+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -63,7 +63,7 @@
      5,
      15,
      17,
-     14,
+     13,
      18,
      20,
      20,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 12:57 pm EST",
+    "status": "no delay",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -288,7 +288,7 @@
      9,
      15,
      24,
-     32,
+     31,
      9,
      18,
      20,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:57 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -363,7 +363,7 @@
      8,
      8,
      7,
-     8,
+     7,
      6,
      1,
      2,
@@ -412,7 +412,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "13:02:17",
+    "updated": "13:12:18",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:02:17",
+    "updated": "13:12:18",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1230,7 +1230,7 @@
      12,
      15,
      14,
-     23,
+     20,
      30,
      30,
      30,
@@ -1278,11 +1278,11 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "3",
-    "status": "delay",
-    "updated": "At 9:00 am PST",
+    "status": "no delay",
+    "updated": "At 10:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1380,7 +1380,7 @@
      0,
      1,
      8,
-     4,
+     5,
      0,
      0,
      0,

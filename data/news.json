@@ -1,5 +1,34 @@
 [
  {
+  "id": "a675ca180a",
+  "slug": "museum-london-staff-back-strike-action-ahead-of-conciliation-a675ca180a",
+  "title": "Museum London staff back strike action ahead of conciliation",
+  "orig_title": "Museum London staff back strike action ahead of conciliation",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmx3UlpqYnRLeWhWOVFkcVYxTDVSWHB0Ry1sZ0p4clFMU05NSXR3RW1sUjZ3UkxMZTEzRTc4UEozbXRIY3NwX1ZXdlo0aVRodE1URUIwZHdubGFVWE5TZVZhZ0VsWHNVdFZhT1ZjVE0xbTZuUldiS25xTUhlbTNNRnhHU1FYbjBlUXR1OU9pMmR3M25Scm5fU2ZsTDlheGdnal8xbW8zQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmx3UlpqYnRLeWhWOVFkcVYxTDVSWHB0Ry1sZ0p4clFMU05NSXR3RW1sUjZ3UkxMZTEzRTc4UEozbXRIY3NwX1ZXdlo0aVRodE1URUIwZHdubGFVWE5TZVZhZ0VsWHNVdFZhT1ZjVE0xbTZuUldiS25xTUhlbTNNRnhHU1FYbjBlUXR1OU9pMmR3M25Scm5fU2ZsTDlheGdnal8xbW8zQQ",
+  "snippet": "Museum London staff back strike action ahead of conciliation CTV News",
+  "published": "2026-11-20T18:13:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T18:17:46.142107+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3b9bf04d6d",
   "slug": "1-person-sent-to-hospital-after-2-vehicle-crash-in-ottawa-s-south-end-3b9bf04d6d",
   "title": "1 person sent to hospital after 2-vehicle crash in Ottawa’s south end",
@@ -6073,7 +6102,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.ctvnews.ca/london/article/calls-for-government-to-crack-down-on-wage-theft-after-motive-espresso-shuttered/",
   "source_note": "ok · 683 words"
  },
