@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:11:11.995684+00:00",
+ "updated": "2026-11-20T23:21:02.204528+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -42,7 +42,7 @@
      2,
      11,
      10,
-     12,
+     11,
      3,
      0,
      0,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 19,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 6:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -267,7 +267,7 @@
      1,
      0,
      1,
-     5,
+     6,
      0,
      0,
      0,
@@ -293,7 +293,7 @@
      13,
      12,
      12,
-     22,
+     20,
      25,
      21,
      13,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 6:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -417,7 +417,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -593,7 +593,7 @@
      0,
      0,
      10,
-     5,
+     7,
      0,
      0,
      0,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "18:08:01",
+    "updated": "18:18:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:08:01",
+    "updated": "18:18:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1235,7 +1235,7 @@
      15,
      16,
      15,
-     23,
+     20,
      53,
      60,
      19,
@@ -1336,7 +1336,7 @@
      5,
      6,
      13,
-     16,
+     14,
      6,
      5,
      5,
@@ -1385,7 +1385,7 @@
      8,
      7,
      8,
-     4,
+     5,
      0,
      0,
      0,
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 30,
-    "status": "30 minutes"
+    "wait": 25,
+    "status": "25 minutes"
    },
    {
     "name": "Gordie Howe International Bridge",

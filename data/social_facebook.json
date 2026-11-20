@@ -3345,7 +3345,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week-9a93399240/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9a93399240",
    "caption": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-20T14:31:27.760087+00:00",
    "published": "2026-11-20T11:20:00+00:00",
    "score": 66,
@@ -4382,7 +4382,7 @@
   "0df12fe063": "queued|importance 73 (threshold 65), Industry, trade publication",
   "b2ba83e34f": "queued|importance 73 (threshold 65), Cross-Border, trade publication",
   "7a504a6a90": "skipped|minor item (press_release) or low-quality source",
-  "9a93399240": "queued|importance 66 (threshold 65), Industry, trade publication",
+  "9a93399240": "expired|stale before a slot opened (published 12h ago)",
   "65e40ffb44": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
   "aaf6ac14ad": "queued|importance 72 (threshold 65), Regulations, trade publication",
   "50baa1f41e": "skipped|minor item (crime) or low-quality source",
@@ -9230,6 +9230,13 @@
    "title": "aught on camera | 14 men charged in $22 million cargo theft operation targeting California trains",
    "action": "skipped",
    "reason": "importance 63 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T23:21:32.548683+00:00",
+   "story_id": "9a93399240",
+   "title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {

@@ -55,7 +55,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/new-duron-engine-oils-target-fleet-operating-costs",
   "source_note": "ok · 1409 words"
@@ -8099,7 +8099,10 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://ng.headtopics.com/news/14-arrested-in-22-5-million-southern-california-cargo-90015946",
+  "source_note": "ok · 566 words"
  },
  {
   "id": "718873d654",
