@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:11:11.458289+00:00",
+ "updated": "2026-11-20T01:21:14.188568+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -44,7 +44,7 @@
      23,
      28,
      11,
-     3,
+     4,
      0,
      9,
      1
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 14,
+    "wait": 16,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 7:57 pm EST",
+    "updated": "At 8:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -269,7 +269,7 @@
      0,
      0,
      0,
-     4,
+     6,
      23,
      10,
      5
@@ -295,7 +295,7 @@
      5,
      12,
      11,
-     18,
+     19,
      10,
      1,
      1
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:57 pm EST",
+    "updated": "At 8:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -419,7 +419,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 pm CST",
+    "updated": "At 9:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -719,7 +719,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:05:09",
+    "updated": "20:15:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1070,7 +1070,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-19 18:15 CDT"
+    "updated": "2026-11-19 20:08 CDT"
    },
    "usual": {
     "south": [
@@ -1211,9 +1211,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-19 18:34 MDT"
+    "wait": 15,
+    "status": "15 minutes",
+    "updated": "2026-11-19 19:12 MDT"
    },
    "usual": {
     "south": [
@@ -1237,7 +1237,7 @@
      18,
      30,
      11,
-     12,
+     11,
      2,
      0,
      0
@@ -1263,7 +1263,7 @@
      0,
      0,
      2,
-     2,
+     4,
      0,
      0,
      0
