@@ -1,5 +1,37 @@
 [
  {
+  "id": "8573ce19e0",
+  "slug": "einride-books-167m-in-contracted-revenue-targets-250m-8573ce19e0",
+  "title": "Einride books $167M in contracted revenue, targets $250M",
+  "orig_title": "Einride books $167M in contracted revenue, targets $250M",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORFhOektUMGZRZmZQS2FkSDZZTE1nd0VpY3REZVBnNWxmb1ZWS2QwbWlxcXBvZF9WM1VlOE42VG5XY1hpLWkyU1ZnSEZHZjFGQVFBZWNQdHBFUnBNNk10MXhBTFlzT2ZCcVVUY29JVFJuLS1YV3g1VWx6UTh6ZGdCY09xelZOZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORFhOektUMGZRZmZQS2FkSDZZTE1nd0VpY3REZVBnNWxmb1ZWS2QwbWlxcXBvZF9WM1VlOE42VG5XY1hpLWkyU1ZnSEZHZjFGQVFBZWNQdHBFUnBNNk10MXhBTFlzT2ZCcVVUY29JVFJuLS1YV3g1VWx6UTh6ZGdCY09xelZOZw",
+  "snippet": "Einride books $167M in contracted revenue, targets $250M FreightWaves",
+  "published": "2026-11-20T12:30:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T12:41:03.596330+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/einride-q3-contracted-revenue-nvidia-alpamayo",
+  "source_note": "paywalled: excerpt only · 26 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "978b3d13af",
   "slug": "freight-spending-jumps-32-as-volumes-barely-move-978b3d13af",
   "title": "Freight Spending Jumps 32% as Volumes Barely Move",
@@ -11041,8 +11073,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Einride books $167M in contracted revenue, targets $250M"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -11080,7 +11114,8 @@
   ],
   "sum_problems": [],
   "ai_category": "equip",
-  "ai_importance": 30
+  "ai_importance": 30,
+  "dup_of": "8573ce19e0"
  },
  {
   "id": "2b55f392fb",

@@ -4120,7 +4120,8 @@
   "c02dac559f": "skipped|importance 63 is below this platform's threshold (65)",
   "9a344ffa94": "skipped|importance 55 is below this platform's threshold (65)",
   "f7bba64d16": "skipped|importance 45 is below this platform's threshold (65)",
-  "978b3d13af": "skipped|importance 61 is below this platform's threshold (65)"
+  "978b3d13af": "skipped|importance 61 is below this platform's threshold (65)",
+  "8573ce19e0": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8644,6 +8645,13 @@
    "title": "Freight Spending Jumps 32% as Volumes Barely Move",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T12:41:38.041831+00:00",
+   "story_id": "8573ce19e0",
+   "title": "Einride books $167M in contracted revenue, targets $250M",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
