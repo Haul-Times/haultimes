@@ -1,5 +1,49 @@
 [
  {
+  "id": "69601a6ab8",
+  "slug": "truckers-transport-ethanol-over-1-000-km-from-mato-grosso-to-paul-nia-69601a6ab8",
+  "title": "Truckers transport ethanol over 1,000 km from Mato Grosso to Paulínia at R$480 per cubic meter freight rate; mills paid R$2.8 billion in 2025 and are considering a pipeline to São Paulo",
+  "orig_title": "Truckers transport ethanol over 1,000 km from Mato Grosso to Paulínia at R$480 per cubic meter freight rate; mills paid R$2.8 billion in 2025 and are considering a pipeline to São Paulo",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Other",
+  "importance": 51,
+  "source": "CPG Click Oil and Gas",
+  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOb2x3aVk1bUFnYVJnYi1ZX1ZGNnlFR3VsdndUcXVUNlhaNTJKbnhPQUp0c21xTHlib0ZYWFA5Q21TYXNzekN4M2ZQSUM4R0o3YkxiYjVrNDB3Y0hNSjJ1eldCTVM0dzZjOTlHbmZSNGU5UVpnNkNZT2dXTFhiVzlJM2RKS1hQV25heE85bnktSkFWSUlGRkEzTEpPWFZwUDY1SDlxSkVFX2NVUkNQQkNRbUszaUctamFvUmR1bXRkUXhiOVVHSDIyRzlRdlc1R2dRUUJxMWlMQjlVUXIwaVVNMUhwWVRaSVVjVkhzdno1SnZKRnhRSE83aHZLbVZwNjc1N2pqMUh1U1BMdDJ6UlU1Tg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOb2x3aVk1bUFnYVJnYi1ZX1ZGNnlFR3VsdndUcXVUNlhaNTJKbnhPQUp0c21xTHlib0ZYWFA5Q21TYXNzekN4M2ZQSUM4R0o3YkxiYjVrNDB3Y0hNSjJ1eldCTVM0dzZjOTlHbmZSNGU5UVpnNkNZT2dXTFhiVzlJM2RKS1hQV25heE85bnktSkFWSUlGRkEzTEpPWFZwUDY1SDlxSkVFX2NVUkNQQkNRbUszaUctamFvUmR1bXRkUXhiOVVHSDIyRzlRdlc1R2dRUUJxMWlMQjlVUXIwaVVNMUhwWVRaSVVjVkhzdno1SnZKRnhRSE83aHZLbVZwNjc1N2pqMUh1U1BMdDJ6UlU1Tg",
+  "snippet": "Truckers transport ethanol over 1,000 km from Mato Grosso to Paulínia at R$480 per cubic meter freight rate; mills paid R$2.8 billion in 2025 and are considering a pipeline to São Paulo CPG Click Oil and Gas",
+  "published": "2026-11-19T23:55:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T00:11:04.781622+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://en.clickpetroleoegas.com.br/truckers-haul-ethanol-more-than-1000-km-from-mato-grosso-to-paulinia-for-r480-per-cubic-meter-in-freight-mills-paid-r28-billion-in-2025-and-davila/",
+  "source_note": "ok · 1034 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "66fa9c6feaa00844",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-20T00:11:04.781622+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [],
+  "ai_category": "rates",
+  "ai_importance": 5,
+  "ai_relevant": false
+ },
+ {
   "id": "eaa150d679",
   "slug": "alleged-train-robbery-crew-stole-more-than-22-million-in-cargo-includi-eaa150d679",
   "title": "Alleged train robbery crew stole more than $22 million in cargo, including thousands of Nike sneakers: DOJ",
@@ -842,7 +886,12 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.law360.com/amp/articles/2552393",
+  "source_note": "paywalled: excerpt only",
+  "sum_done": true,
+  "sum_status": "no source text (paywalled: excerpt only)"
  },
  {
   "id": "63b46b9997",
@@ -1727,7 +1776,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 37,
   "source": "Breitbart News",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObnc1TGdGYUgxZVR4bnhPLVJyUlIxRF85aHJFaEJ3QXo1RUd0SzRPN05xX2tXcno2V2NYVEp6Um9sX1R5allwZ09CbHR1N1ZfYl9GODFoVGJNb2p4UEEzN2tRdXo5VEttd2x1ampxOE80ZTBuemxzZE9iMzR3VHpYR2lZeGJzR1RKeUVfeThRZmIyck9UOWczNHY4WGtnWnRLRHR5bVUwbWxhSHdsVjdXeS1mY0RMTndPOFd3d0xLR3lpU3Bndmw5SU1QemF3OW1SN2FhYlR5bUFWX3E4V1E?oc=5",
@@ -1744,10 +1793,44 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": true,
-  "sum_tries": 1,
-  "source_note": "no publisher address: google page HTTPError",
-  "sum_status": "retrying (no publisher address: google page HTTPError)"
+  "sum_pending": false,
+  "sum_tries": 2,
+  "source_note": "ok · 349 words",
+  "sum_status": "withheld",
+  "pub_url": "https://www.breitbart.com/pre-viral/2026/11/19/illegal-alien-sentenced-to-2-5-years-behind-bars-for-7-2m-trucking-cargo-theft-ring-in-california/",
+  "sum_done": true,
+  "source_fp": "76791647ee579c1a",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-20T00:11:04.781622+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "was sentenced on Tuesday to 2.5 years in federal prison"
+   },
+   {
+    "sentence": "2",
+    "quote": "found or bought trucking companies and enrolled with freight brokers and load boards"
+   },
+   {
+    "sentence": "3",
+    "quote": "The total monetary loss was $7,210,056."
+   },
+   {
+    "sentence": "4",
+    "quote": "Singh first pleaded guilty on Aug. 13"
+   },
+   {
+    "sentence": "5",
+    "quote": "Co-defendants in the case are expected to have a trial in March 2027"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'pleaded guilty on aug. 13 to conspiracy to commit theft from interstat'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 55
  },
  {
   "id": "8512894af9",
@@ -12022,7 +12105,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "Canada",
   "importance": 50,
   "source": "CTV News",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEVkdTU4d0NkTWpRZHZ4QlpBOFF6R3dscUJCazhBa1lneTBWLXczQ1ZUNmxLNkRrWURaem1OZGUzcEg1WUtUM0NzNXJHNGljcWIyQnFDUS1pdE1PUHRlc3RRY1JpZXdVaE5OdjBERHFpUmpKT19EeHpnaEhzSmdQU1UxSzZNWUl4cVVNYlI2TUtrQ25JeFh1ZUJ0R3JMUlpXM2Qw?oc=5",
@@ -12035,15 +12118,41 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
-  "sum_tries": 2,
+  "sum_pending": false,
+  "sum_tries": 3,
   "pub_url": "https://www.ctvnews.ca/northern-ontario/article/manitoulin-opp-lay-129th-impaired-charge-of-the-year/",
-  "source_note": "no publisher address: google page HTTPError",
-  "sum_status": "retrying (no publisher address: google page HTTPError)"
+  "source_note": "ok · 164 words",
+  "sum_status": "irrelevant",
+  "sum_done": true,
+  "source_fp": "2799172630f5e927",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-20T00:11:04.781622+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "traffic stop on Whitefish River First Nation"
+   },
+   {
+    "sentence": "2",
+    "quote": "the vehicle involved was impounded for seven days"
+   },
+   {
+    "sentence": "3",
+    "quote": "scheduled to appear in Gore Bay court on Jan. 19"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 5,
+  "ai_relevant": false
  },
  {
   "id": "fffe8ead99",
@@ -14840,10 +14949,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: 'Fraudulent' Forza ELD back on FMCSA registry of approved devices"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -14885,8 +14992,7 @@
   "ai_category": "regs",
   "ai_importance": 75,
   "pending_summary": "FMCSA announced on November 12 that 133 ELD registrations are being removed, comprising 121 revoked devices and 12 voluntary withdrawals. The notice for revoked devices tells users to stop using them, record hours on paper logs or logging software, and install a registered replacement. The article says the notice's January deadline conflicts with a date in the broader press release, and that the reviewed notices do not reconcile the difference. It advises carriers to seek device-specific clarification from FMCSA before November 24 and to check each truck's device against the registry, since a company name or app icon alone is not a match. It also says canceling a subscription should not leave driver records inaccessible.",
-  "pending_why": "",
-  "dup_of": "59b262d7bf"
+  "pending_why": ""
  },
  {
   "id": "45aecda185",
@@ -16412,18 +16518,15 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: ATA proposes 6 steps to help FMCSA combat ELD fraud"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 1,
   "source_note": "publisher refused (403)",
   "sum_done": true,
-  "sum_status": "no source text (publisher refused (403))",
-  "dup_of": "34b43b0666"
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "a98574a7c3",
@@ -19014,12 +19117,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: ATA proposes 6 steps to help FMCSA combat ELD fraud"
+   "same story as: How ATA Wants to Fix ELD Certification"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "34b43b0666"
+  "dup_of": "a812fcb144"
  },
  {
   "id": "c042a9dc19",
