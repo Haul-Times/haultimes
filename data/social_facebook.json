@@ -4110,7 +4110,8 @@
   "59b262d7bf": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "d87b0be554": "skipped|minor item (incident) or low-quality source",
   "37adab6927": "skipped|importance 57 is below this platform's threshold (65)",
-  "5af516eddd": "skipped|importance 45 is below this platform's threshold (65)"
+  "5af516eddd": "skipped|importance 45 is below this platform's threshold (65)",
+  "1056c5e2db": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8529,6 +8530,13 @@
    "title": "TxDOT Has A Simple Warning For Truckers After Lubbock's I-27 Bridge Accident",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T00:51:27.932227+00:00",
+   "story_id": "1056c5e2db",
+   "title": "Hydrogen-powered truck completes 1,046-km freight haul from Vancouver to Calgary",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
