@@ -13169,6 +13169,35 @@
   "sum_pending": false
  },
  {
+  "id": "ea89d4c9ab",
+  "slug": "sudbury-police-id-woman-found-deceased-on-lorne-street-ea89d4c9ab",
+  "title": "Sudbury police ID woman found deceased on Lorne Street",
+  "orig_title": "Sudbury police ID woman found deceased on Lorne Street",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzJwUWZkanJONnJSVGJnUFFXaUVYSGJiRHhTNS1aTUFKUGlXb2Q3QkpkX0FaOXEzczNfWDNmUFF1TFFCTzJmX1lJVGJweG9samNQZG9EcUkzOFZFLUFGRHU4RTNkZWJTS3dadks1NHFRSzNaZnY3OFdaV3hvb1JGQWlUcmdmUVIzcTJDSzlwVG9SWVJoc3V4bGJrMUpCVmpDQzZKT0lqalo?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzJwUWZkanJONnJSVGJnUFFXaUVYSGJiRHhTNS1aTUFKUGlXb2Q3QkpkX0FaOXEzczNfWDNmUFF1TFFCTzJmX1lJVGJweG9samNQZG9EcUkzOFZFLUFGRHU4RTNkZWJTS3dadks1NHFRSzNaZnY3OFdaV3hvb1JGQWlUcmdmUVIzcTJDSzlwVG9SWVJoc3V4bGJrMUpCVmpDQzZKT0lqalo",
+  "snippet": "Sudbury police ID woman found deceased on Lorne Street CTV News",
+  "published": "2026-11-18T22:51:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T09:21:04.045020+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0dbea6cfc8",
   "slug": "track-upgrades-needed-prior-to-pre-trial-running-for-o-train-line-1-ea-0dbea6cfc8",
   "title": "Track upgrades needed prior to pre-trial running for O-Train Line 1 East Extension: OC Transpo",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:11:04.911919+00:00",
+ "updated": "2026-11-20T09:21:03.901812+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 4:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 12,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 4:00 am EST",
+    "status": "no delay",
+    "updated": "At 4:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -253,7 +253,7 @@
      2,
      4,
      2,
-     2,
+     1,
      0,
      0,
      0,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 4:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:10:54",
+    "updated": "04:20:56",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 am CST",
+    "updated": "At 5:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:10:54",
+    "updated": "04:20:56",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:10:54",
+    "updated": "04:20:56",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:10:54",
+    "updated": "03:20:56",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1322,7 +1322,7 @@
      6,
      5,
      5,
-     7,
+     6,
      6,
      5,
      5,
