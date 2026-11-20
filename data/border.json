@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:31:02.053492+00:00",
+ "updated": "2026-11-20T00:41:04.776634+00:00",
  "hour_now": 19,
  "have_us": true,
  "have_ca": true,
@@ -43,7 +43,7 @@
      24,
      23,
      28,
-     12,
+     11,
      0,
      0,
      9,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:17 pm EST",
+    "updated": "At 7:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:17 pm EST",
+    "updated": "At 7:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -418,7 +418,7 @@
      5,
      5,
      5,
-     4,
+     5,
      0,
      0,
      0,
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-19 19:19 EST"
+    "updated": "2026-11-19 19:15 EST"
    },
    "usual": {
     "south": [
@@ -718,7 +718,7 @@
      5,
      5,
      5,
-     4,
+     5,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:25:05",
+    "updated": "19:35:06",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1211,9 +1211,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-19 18:15 MDT"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-19 18:34 MDT"
    },
    "usual": {
     "south": [
@@ -1262,7 +1262,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -1337,7 +1337,7 @@
      5,
      6,
      10,
-     14,
+     16,
      5,
      11,
      5,
@@ -1494,11 +1494,6 @@
    },
    {
     "name": "Edmundston",
-    "wait": 0,
-    "status": "No Delay"
-   },
-   {
-    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },

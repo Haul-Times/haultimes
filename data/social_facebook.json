@@ -4108,7 +4108,9 @@
   "4099d64729": "skipped|importance 50 is below this platform's threshold (65)",
   "1e6f3e0b31": "skipped|importance 61 is below this platform's threshold (65)",
   "59b262d7bf": "queued|importance 67 (threshold 65), Regulations, trade publication",
-  "d87b0be554": "skipped|minor item (incident) or low-quality source"
+  "d87b0be554": "skipped|minor item (incident) or low-quality source",
+  "37adab6927": "skipped|importance 57 is below this platform's threshold (65)",
+  "5af516eddd": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8513,6 +8515,20 @@
    "title": "J.B. Hunt To Face Ariz. Negligent Hiring Fatal Crash Suit",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T00:41:49.886189+00:00",
+   "story_id": "37adab6927",
+   "title": "Laredo Border Hours, Reefer Risks, Flexport AI: Week in Logistics",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T00:41:49.886189+00:00",
+   "story_id": "5af516eddd",
+   "title": "TxDOT Has A Simple Warning For Truckers After Lubbock's I-27 Bridge Accident",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
