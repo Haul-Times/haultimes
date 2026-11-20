@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:11:05.641191+00:00",
+ "updated": "2026-11-20T17:21:04.345618+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -11,16 +11,16 @@
    "region": "on-mi",
    "south": {
     "wait": 0,
-    "fast_wait": 5,
+    "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 10,
     "status": "10 minutes",
-    "updated": "2026-11-20 11:39 EST"
+    "updated": "2026-11-20 12:08 EST"
    },
    "usual": {
     "south": [
@@ -62,7 +62,7 @@
      5,
      5,
      15,
-     21,
+     20,
      15,
      18,
      20,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:57 am EST",
+    "updated": "At 12:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -287,7 +287,7 @@
      6,
      9,
      15,
-     26,
+     24,
      34,
      9,
      18,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:57 am EST",
+    "updated": "At 12:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -411,7 +411,7 @@
      5,
      5,
      5,
-     3,
+     4,
      0,
      0,
      0,
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 11:15 EST"
+    "updated": "2026-11-20 12:08 EST"
    },
    "usual": {
     "south": [
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "12:02:12",
+    "updated": "12:17:13",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:02:12",
+    "updated": "12:17:13",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:02:12",
+    "updated": "11:17:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1229,7 +1229,7 @@
      10,
      12,
      15,
-     22,
+     19,
      30,
      30,
      30,
@@ -1278,11 +1278,11 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "3",
-    "status": "no delay",
-    "updated": "At 8:00 am PST",
+    "status": "delay",
+    "updated": "At 9:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1304,7 +1304,7 @@
      3,
      3,
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -1379,7 +1379,7 @@
      0,
      0,
      1,
-     4,
+     5,
      0,
      0,
      0,
