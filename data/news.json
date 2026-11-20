@@ -26485,6 +26485,35 @@
   "sum_pending": false
  },
  {
+  "id": "ca5add4dc0",
+  "slug": "calgary-water-use-remains-below-target-for-13th-day-straight-ca5add4dc0",
+  "title": "Calgary water use remains below target for 13th day straight",
+  "orig_title": "Calgary water use remains below target for 13th day straight",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckFXQWVqWS1CUnNwdnVJbXdtQkhMTU9kQkJqQkJPcy1JbDdsTWVGX2lZUEp3TE92bzdzcWI4T3VTZmpnd1ZSU2V5V21GZHZlNkRFdUZqa0o3eUoxMnNKSS1mcFdxSlQtejlUVDVndUw4Y2N3NGNWWW1OUkhReFVLdmhGRE9GMTVRUDNNcVlhcEtPY0VzbWNDUzl3bEFYOHJSbHc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckFXQWVqWS1CUnNwdnVJbXdtQkhMTU9kQkJqQkJPcy1JbDdsTWVGX2lZUEp3TE92bzdzcWI4T3VTZmpnd1ZSU2V5V21GZHZlNkRFdUZqa0o3eUoxMnNKSS1mcFdxSlQtejlUVDVndUw4Y2N3NGNWWW1OUkhReFVLdmhGRE9GMTVRUDNNcVlhcEtPY0VzbWNDUzl3bEFYOHJSbHc",
+  "snippet": "Calgary water use remains below target for 13th day straight CTV News",
+  "published": "2026-11-17T19:03:01+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T15:21:09.742172+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0257a021aa",
   "slug": "black-friday-tire-deals-worth-up-to-310-for-hotshots-cargo-vans-0257a021aa",
   "title": "Black Friday tire deals worth up to $310 for hotshots, cargo vans",
@@ -35031,35 +35060,6 @@
   "source_note": "paywalled: excerpt only · 21 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "dc350cf10e",
-  "slug": "cargo-ship-sinks-off-bulgaria-s-black-sea-coast-dc350cf10e",
-  "title": "Cargo ship sinks off Bulgaria's Black Sea coast",
-  "orig_title": "Cargo ship sinks off Bulgaria's Black Sea coast",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "thecanadianpressnews.ca",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOWx5bDJyTlI2cTNtN0dVRHphZkZaMFpIdFZwSVc0YjM2ekRKdVVZWGJJVW01bnVvUHNkSmlMNm1CYmZSNVRCUUkwTi14STZBSVFaLWVvR3FHSW5fcGJ3alNzNWpRbk5NY3cyWm9vZkpBY0pFM3FUUFBSekM0bVRaYlJQM0t3Um5CZVJIVUZzUldqT3BfbHNuUTBjcW5wam5yRi1FQ2dsU2VnUVdKVGI2ZkJReGFEYWREcUNvY0dNYS1nQmpzSFJHZ3lYMnQxYlZMZnRFclNZQlU?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOWx5bDJyTlI2cTNtN0dVRHphZkZaMFpIdFZwSVc0YjM2ekRKdVVZWGJJVW01bnVvUHNkSmlMNm1CYmZSNVRCUUkwTi14STZBSVFaLWVvR3FHSW5fcGJ3alNzNWpRbk5NY3cyWm9vZkpBY0pFM3FUUFBSekM0bVRaYlJQM0t3Um5CZVJIVUZzUldqT3BfbHNuUTBjcW5wam5yRi1FQ2dsU2VnUVdKVGI2ZkJReGFEYWREcUNvY0dNYS1nQmpzSFJHZ3lYMnQxYlZMZnRFclNZQlU",
-  "snippet": "Cargo ship sinks off Bulgaria's Black Sea coast thecanadianpressnews.ca",
-  "published": "2026-11-16T12:36:16+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T15:21:04.115456+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "00dd4393b3",
