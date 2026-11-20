@@ -305,6 +305,35 @@
   "sum_pending": false
  },
  {
+  "id": "05644b7c34",
+  "slug": "pedestrian-struck-by-car-in-mississauga-suffers-serious-injuries-05644b7c34",
+  "title": "Pedestrian struck by car in Mississauga suffers serious injuries",
+  "orig_title": "Pedestrian struck by car in Mississauga suffers serious injuries",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNalRSa1hNSURLSExNb0pPVXpOaXdjUVdLN0kzeVhKU2xScDkxQklfM191a1ZGOHZnbHBZX2NxeXlsWGN2amRuRmNlRndXUEFPbmx4alc1LUF3eE5TdEJCMWFORnFBMlJkUFZUTVoxazE3MW9pZ1VMMWIzY2tGTHM1ZjR4Vkg3QWxpUzBzWXI0TGRUeDlWT1NGNkRBYVd2ZGIxQllBOG1aWWlpQkRyUmZ4ZW0tU1lCZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNalRSa1hNSURLSExNb0pPVXpOaXdjUVdLN0kzeVhKU2xScDkxQklfM191a1ZGOHZnbHBZX2NxeXlsWGN2amRuRmNlRndXUEFPbmx4alc1LUF3eE5TdEJCMWFORnFBMlJkUFZUTVoxazE3MW9pZ1VMMWIzY2tGTHM1ZjR4Vkg3QWxpUzBzWXI0TGRUeDlWT1NGNkRBYVd2ZGIxQllBOG1aWWlpQkRyUmZ4ZW0tU1lCZw",
+  "snippet": "Pedestrian struck by car in Mississauga suffers serious injuries CTV News",
+  "published": "2026-11-20T02:20:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T06:41:04.869832+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f7bcd5a498",
   "slug": "thief-pleads-guilty-in-staggering-100m-california-jewelry-heist-after-f7bcd5a498",
   "title": "Thief pleads guilty in staggering $100M California jewelry heist after 300-mile chase",
