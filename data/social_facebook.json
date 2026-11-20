@@ -4395,7 +4395,8 @@
   "f71e73d196": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "72fe5a4205": "skipped|minor item (incident) or low-quality source",
   "4300ecbcef": "skipped|minor item (news) or low-quality source",
-  "b435c10f48": "skipped|importance 55 is below this platform's threshold (65)"
+  "b435c10f48": "skipped|importance 55 is below this platform's threshold (65)",
+  "e165c06f69": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -9087,6 +9088,13 @@
    "title": "Trucking Rejection Rates: Why Holiday Shipping Gets SPICY",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T17:51:19.347479+00:00",
+   "story_id": "e165c06f69",
+   "title": "Groundtruth launches AI platform to automate freight billing with J.B. Hunt partnership",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
