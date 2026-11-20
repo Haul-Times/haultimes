@@ -1,5 +1,37 @@
 [
  {
+  "id": "1788d3d0db",
+  "slug": "bluegrace-logistics-secures-littlejohn-as-new-private-equity-partner-1788d3d0db",
+  "title": "BlueGrace Logistics secures Littlejohn as new private equity partner",
+  "orig_title": "BlueGrace Logistics secures Littlejohn as new private equity partner",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmhUbHNqNnBHZFlVeThkM1BHODJGdmxIZ3VpRUVwaHhQNGJXVDNNUWc0OWNad3JlWV9xaE8tbXpvOS1sSUZIVlhCMnVqUnRJVlFoZHNDMjNHY0lUcWxfeXRLWjZoaFFWZEdQMW1QdVlmTkhBRjBWS0xKd1h5OS1PdE9RS18wSFl3NE5JSlRkc0VkWV95UVZ3ei1zMkNxelNYdDhMbA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmhUbHNqNnBHZFlVeThkM1BHODJGdmxIZ3VpRUVwaHhQNGJXVDNNUWc0OWNad3JlWV9xaE8tbXpvOS1sSUZIVlhCMnVqUnRJVlFoZHNDMjNHY0lUcWxfeXRLWjZoaFFWZEdQMW1QdVlmTkhBRjBWS0xKd1h5OS1PdE9RS18wSFl3NE5JSlRkc0VkWV95UVZ3ei1zMkNxelNYdDhMbA",
+  "snippet": "BlueGrace Logistics secures Littlejohn as new private equity partner FreightWaves",
+  "published": "2026-11-20T15:37:46+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T16:01:23.207111+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/bluegrace-logistics-secures-littlejohn-as-new-private-equity-partner",
+  "source_note": "paywalled: excerpt only · 19 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "54d91d2579",
   "slug": "burnaby-man-faces-26-mischief-charges-after-car-vandalism-in-mall-park-54d91d2579",
   "title": "Burnaby man faces 26 mischief charges after car vandalism in mall parkade",
@@ -237,6 +269,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "011fff237f",
+  "slug": "mexico-s-3pl-visibility-needs-shared-data-standards-011fff237f",
+  "title": "Mexico's 3PL Visibility Needs Shared Data Standards",
+  "orig_title": "Mexico's 3PL Visibility Needs Shared Data Standards",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Mexico Business News",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjVwb3VKQWZNeW5OcFVmS0lQM0p4al9Mc1BoaF9VSGJ3b1J0bktJRkxSNXpUUXNLbkxlWkU0WnBPZm9iT0ttM1hodF9EQ3h2cGpGM29QMzZfNS1HVWl6ejZsX19HUDhqeExJX1RwSkY4dFYwNElzemdIOFBCbTlxUlR1cEt2dGY3dVRLR3RZX1lxV2plRC1ZQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjVwb3VKQWZNeW5OcFVmS0lQM0p4al9Mc1BoaF9VSGJ3b1J0bktJRkxSNXpUUXNLbkxlWkU0WnBPZm9iT0ttM1hodF9EQ3h2cGpGM29QMzZfNS1HVWl6ejZsX19HUDhqeExJX1RwSkY4dFYwNElzemdIOFBCbTlxUlR1cEt2dGY3dVRLR3RZX1lxV2plRC1ZQQ",
+  "snippet": "Mexico's 3PL Visibility Needs Shared Data Standards Mexico Business News",
+  "published": "2026-11-20T14:20:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T16:01:23.207111+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "2bd19b7ae1",
@@ -34096,71 +34157,6 @@
   "ai_importance": 55
  },
  {
-  "id": "9fd2667383",
-  "slug": "dat-van-spot-rates-hit-3-11-as-truck-availability-climbs-9-9fd2667383",
-  "title": "DAT: Van spot rates hit $3.11 as truck availability climbs 9%",
-  "orig_title": "DAT: Van spot rates hit $3.11 as truck availability climbs 9%",
-  "summary": "DAT Freight & Analytics reported that broker-to-carrier spot rates for van averaged $3.11 a mile for the week of Nov. 7-13, up 4 cents, with reefer at $3.70 and flatbed at $3.61. Total equipment posts rose 9% to 187,501, while load posts fell 6% from the prior week to 2.70 million. Dean Croke, an industry analyst at DAT, said van linehaul rates are 36% above last year. Croke said year-over-year gains should narrow after Thanksgiving, which falls on Nov. 26, as van and reefer rates typically build into the holiday weeks. DAT's 35-day forecast has van linehaul rising to $2.36 a mile by Dec. 17.",
-  "why": "",
-  "category": "rates",
-  "region": "US",
-  "importance": 68,
-  "source": "TheTrucker.com",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVR1ZUtwU3Z2X3RyRmVOZE9rN2s2b1E1VGJyajN0ZEpCRzhtWkpibDRLVWhpSlNpX1IwNHFTdkpFU3VSYjB0eXQ2M2ZKazlrdmR3MDVYNHdkWW9JdGFYNlk5Y213M3BBLXR5YThZNWlhUzBIeHhwT3p3Zzgyb1VhWGUwc25ZMEVQdEEzQ1RTb1FSS2NNWS1uekJfNjRHUVMxaFZMUFNzUjRTeE5R?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVR1ZUtwU3Z2X3RyRmVOZE9rN2s2b1E1VGJyajN0ZEpCRzhtWkpibDRLVWhpSlNpX1IwNHFTdkpFU3VSYjB0eXQ2M2ZKazlrdmR3MDVYNHdkWW9JdGFYNlk5Y213M3BBLXR5YThZNWlhUzBIeHhwT3p3Zzgyb1VhWGUwc25ZMEVQdEEzQ1RTb1FSS2NNWS1uekJfNjRHUVMxaFZMUFNzUjRTeE5R",
-  "snippet": "DAT: Van spot rates hit $3.11 as truck availability climbs 9% TheTrucker.com",
-  "published": "2026-11-16T15:53:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T16:01:12.155627+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Yes: US dry-van, flatbed and refrigerated truckload spot rates (DAT) Gateway"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 3,
-  "source_note": "ok · 875 words",
-  "sum_status": "published",
-  "pub_url": "https://www.thetrucker.com/trucking-news/business/dat-van-spot-rates-hit-3-11-as-truck-availability-climbs-9",
-  "sum_done": true,
-  "source_fp": "3f36ad5b930560a9",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-16T16:21:23.347447+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "Van: $3.11 per mile, up 4 cents"
-   },
-   {
-    "sentence": "2",
-    "quote": "DAT One load posts totaled 2.70 million"
-   },
-   {
-    "sentence": "3",
-    "quote": "Linehaul rates are 36% above last year for van"
-   },
-   {
-    "sentence": "4",
-    "quote": "year-over-year gains should narrow after Thanksgiving"
-   },
-   {
-    "sentence": "5",
-    "quote": "The 35-day DAT iQ RateCast forecast has van linehaul rising to $2.36 a mile by Dec. 17"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "rates",
-  "ai_importance": 70,
-  "dup_of": "af22e6fb54"
- },
- {
   "id": "b28b7af693",
   "slug": "main-b28b7af693",
   "title": "Main",
@@ -34249,35 +34245,6 @@
   "source_note": "excerpt only · 29 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "0e8cc0e140",
-  "slug": "quirch-foods-buys-mies-family-foods-to-deepen-midwest-reach-0e8cc0e140",
-  "title": "Quirch Foods buys Mies Family Foods to deepen Midwest reach",
-  "orig_title": "Quirch Foods buys Mies Family Foods to deepen Midwest reach",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Dealroom",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUJuZHpBZVQ5TWpqY3RWRVdHUm8tdl8ydm9pWV9KajZCc0VYMU9hOV9WdnJTQzk2Y25QdmJzb3h3cDF5TDVOcFRReTMzMTg3aEZNTDNTME9GRkNkdmFCY1pjd3BVbm9xVUhjWVRUNHdXWU5zdFcwWTJMd09EQXBfQ3lRMTZMQW5YNFZrcjcwSlRBR0kyQ2ZqOQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUJuZHpBZVQ5TWpqY3RWRVdHUm8tdl8ydm9pWV9KajZCc0VYMU9hOV9WdnJTQzk2Y25QdmJzb3h3cDF5TDVOcFRReTMzMTg3aEZNTDNTME9GRkNkdmFCY1pjd3BVbm9xVUhjWVRUNHdXWU5zdFcwWTJMd09EQXBfQ3lRMTZMQW5YNFZrcjcwSlRBR0kyQ2ZqOQ",
-  "snippet": "Quirch Foods buys Mies Family Foods to deepen Midwest reach Dealroom",
-  "published": "2026-11-16T15:47:22+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T15:51:17.860364+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "5dc22617e2",
@@ -34490,35 +34457,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "2bb79bd0d8",
-  "slug": "u-s-container-imports-hit-record-2-67-million-teus-in-october-as-port-2bb79bd0d8",
-  "title": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise",
-  "orig_title": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkdvMmlMQ0I4c1Jrbm1BRlNObGE5TlpDSlZDMmx3ZkxFRDFPZGRVMlNFT2ltbnV6U3JzcjI2TEdLZDRqV25OUmlyQWN0bzNoWXNJRlBPUGlOUFBnQXROMEJ6cmM0dzRqbWZBRW55a1ZJTERKSFJ2OTFOa3lsbUprYzZSSFFSQ1B5TFgybU1JVWt6WWRXVzZHSDRUNGljT1M1WVF3aEd0X1JtSUhJdnNMQ05LYXlCZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkdvMmlMQ0I4c1Jrbm1BRlNObGE5TlpDSlZDMmx3ZkxFRDFPZGRVMlNFT2ltbnV6U3JzcjI2TEdLZDRqV25OUmlyQWN0bzNoWXNJRlBPUGlOUFBnQXROMEJ6cmM0dzRqbWZBRW55a1ZJTERKSFJ2OTFOa3lsbUprYzZSSFFSQ1B5TFgybU1JVWt6WWRXVzZHSDRUNGljT1M1WVF3aEd0X1JtSUhJdnNMQ05LYXlCZw",
-  "snippet": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise FreightWaves",
-  "published": "2026-11-16T14:41:06+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T16:01:12.155627+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
  },
  {
   "id": "d760efa36b",

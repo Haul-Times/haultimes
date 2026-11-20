@@ -4273,7 +4273,8 @@
   "9a93399240": "queued|importance 66 (threshold 65), Industry, trade publication",
   "65e40ffb44": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
   "aaf6ac14ad": "queued|importance 72 (threshold 65), Regulations, trade publication",
-  "50baa1f41e": "skipped|minor item (crime) or low-quality source"
+  "50baa1f41e": "skipped|minor item (crime) or low-quality source",
+  "1788d3d0db": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8895,6 +8896,13 @@
    "title": "Freight Market reminder",
    "action": "expired",
    "reason": "no slot opened in time"
+  },
+  {
+   "at": "2026-11-20T16:01:48.285874+00:00",
+   "story_id": "1788d3d0db",
+   "title": "BlueGrace Logistics secures Littlejohn as new private equity partner",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
