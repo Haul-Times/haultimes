@@ -4124,7 +4124,8 @@
   "8573ce19e0": "skipped|importance 55 is below this platform's threshold (65)",
   "692ee1f651": "skipped|importance 57 is below this platform's threshold (65)",
   "a02921b898": "skipped|minor item (incident) or low-quality source",
-  "50409fd411": "skipped|minor item (incident) or low-quality source"
+  "50409fd411": "skipped|minor item (incident) or low-quality source",
+  "826b647147": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8676,6 +8677,13 @@
    "title": "Texas Truck Wrecks in October 2026: 18-Wheeler and Commercial Vehicle Crash Statistics in Dallas, DFW and Statewide",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T13:41:27.016385+00:00",
+   "story_id": "826b647147",
+   "title": "Unsafe truck drivers could be public outed under new Alberta law",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
