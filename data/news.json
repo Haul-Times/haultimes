@@ -123,6 +123,78 @@
   "ai_importance": 35
  },
  {
+  "id": "50409fd411",
+  "slug": "texas-truck-wrecks-in-october-2026-18-wheeler-and-commercial-vehicle-c-50409fd411",
+  "title": "Texas Truck Wrecks in October 2026: 18-Wheeler and Commercial Vehicle Crash Statistics in Dallas, DFW and Statewide",
+  "orig_title": "Texas Truck Wrecks in October 2026: 18-Wheeler and Commercial Vehicle Crash Statistics in Dallas, DFW and Statewide",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 20,
+  "source": "The Wooley Law Firm",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb010dXJDbXFBckY0cXplZEdycExhZHh5Rl93MEdmVjBiWHBNOUViemVZTDAxR0ZYUjlIX2pwVERpRU94NkpCQWNrZlR0ZXJDc3MxdjJaV1UtRGsxbGVuNTlSY0tMbURxR2lfUWNHa2dNdkIxNVRMWDc0UGdpa3pDREZmZEQ1eG1CMnhGSmdWbnZ2WWgxWDNSSGNDcXZIWFNRZGxsXzNNZU9IdDRSN0MyYWJGQms5ZnR0UUk4ek0zQUc1NWJ2aHhwaEtURC11SGctUlc3MGpucExtLU82?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb010dXJDbXFBckY0cXplZEdycExhZHh5Rl93MEdmVjBiWHBNOUViemVZTDAxR0ZYUjlIX2pwVERpRU94NkpCQWNrZlR0ZXJDc3MxdjJaV1UtRGsxbGVuNTlSY0tMbURxR2lfUWNHa2dNdkIxNVRMWDc0UGdpa3pDREZmZEQ1eG1CMnhGSmdWbnZ2WWgxWDNSSGNDcXZIWFNRZGxsXzNNZU9IdDRSN0MyYWJGQms5ZnR0UUk4ek0zQUc1NWJ2aHhwaEtURC11SGctUlc3MGpucExtLU82",
+  "snippet": "Texas Truck Wrecks in October 2026: 18-Wheeler and Commercial Vehicle Crash Statistics in Dallas, DFW and Statewide The Wooley Law Firm",
+  "published": "2026-11-20T12:40:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T13:31:01.423982+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "incident",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.wooleylaw.com/blog/texas-truck-wrecks-in-october-2026-18-wheeler-and-commercial-vehicle-crash-statistics-in-dallas-dfw-and-statewide",
+  "source_note": "ok · 3911 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "71a6d1ae0c4a9ebe",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-20T13:31:01.423982+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "3,927 crashes involving commercial motor vehicles"
+   },
+   {
+    "sentence": "2",
+    "quote": "resulting in 42 deaths and 1,304 reported injuries"
+   },
+   {
+    "sentence": "3",
+    "quote": "down approximately 2.9%"
+   },
+   {
+    "sentence": "4",
+    "quote": "Within Dallas city limits, 227 commercial vehicle crashes were reported."
+   },
+   {
+    "sentence": "5",
+    "quote": "Interstate 20 — 31 CMV crashes"
+   },
+   {
+    "sentence": "6",
+    "quote": "not measures of risk adjusted for traffic volume"
+   }
+  ],
+  "sum_problems": [
+   "Source is a law firm marketing article with promotional content; statistics are presented as the firm's own analysis.",
+   "Source notes conflicting September baselines (3,659 vs 3,749) and says they should not be mixed; the summary uses only the 3,749 figure and the October total.",
+   "Source states figures are vehicle records and crash counts that should not be presented as separate wrecks; verify before reuse."
+  ],
+  "ai_category": "other",
+  "ai_importance": 30,
+  "pending_summary": "The Wooley Law Firm reported that Texas recorded 3,927 crashes involving commercial motor vehicles in October 2026, citing TxDOT crash records. Those crashes produced 42 deaths and 1,304 reported injuries, including 146 suspected serious injuries. The firm said the crash count rose about 4.7% from September's 3,749 identifiable records, while reported injuries fell about 2.9%.\n\nDallas County recorded 372 commercial vehicle crashes, five deaths and 151 injuries, and Dallas city limits had 227 crashes. Within Dallas, Interstate 20 led with 31 crashes, followed by Interstate 35E with 25 and Interstate 30 with 23. The firm cautioned that these are raw counts, not rates adjusted for traffic volume or miles traveled.",
+  "pending_why": ""
+ },
+ {
   "id": "8573ce19e0",
   "slug": "einride-books-167m-in-contracted-revenue-targets-250m-8573ce19e0",
   "title": "Einride books $167M in contracted revenue, targets $250M",
@@ -33781,35 +33853,6 @@
   "dup_of": "6f17397a00"
  },
  {
-  "id": "a927964e9d",
-  "slug": "now-hiring-pti-looks-to-fill-trucking-support-roles-a927964e9d",
-  "title": "Now Hiring: PTI looks to fill trucking support roles",
-  "orig_title": "Now Hiring: PTI looks to fill trucking support roles",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Spectrum News",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYm9DbFVUQkVCTC1BU1ZBaGdITzJwYlZLbDgyV3RqeXhlckV6NmNkSDVBRk9OVENnU0YxOWRTV25KQXpjdS1vbzUyVVJGR19md1RBTG9nRF9PRHhaNmJfQzVBeHpPVDV3OXdmVlNGcWNmS012bmo4ak9KV29XRHhmZGhNRmNjS0NwaVE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYm9DbFVUQkVCTC1BU1ZBaGdITzJwYlZLbDgyV3RqeXhlckV6NmNkSDVBRk9OVENnU0YxOWRTV25KQXpjdS1vbzUyVVJGR19md1RBTG9nRF9PRHhaNmJfQzVBeHpPVDV3OXdmVlNGcWNmS012bmo4ak9KV29XRHhmZGhNRmNjS0NwaVE",
-  "snippet": "Now Hiring: PTI looks to fill trucking support roles Spectrum News",
-  "published": "2026-11-16T13:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T13:21:06.898023+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "job listing / recruitment ad"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "2e21e84e56",
   "slug": "meta-backs-deployment-of-25-electric-trucks-on-california-arizona-frei-2e21e84e56",
   "title": "Meta backs deployment of 25 electric trucks on California-Arizona freight corridor",
@@ -33902,35 +33945,6 @@
   "sum_pending": false
  },
  {
-  "id": "56c7bf78f1",
-  "slug": "ohio-small-town-drowning-amid-immigrant-takeover-56c7bf78f1",
-  "title": "Ohio small town 'DROWNING' amid immigrant takeover",
-  "orig_title": "Ohio small town 'DROWNING' amid immigrant takeover",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Fox News",
-  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUHE2bWxRWHlXWkxtWkFlUjVDTHpMVE5TWVhYeDFGdEZ6TTI5VjBEMTJtQ1Y0MnBJaTBnUkRWODBBc0NmR01mV0MwM0lwR3BCem12azZR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUHE2bWxRWHlXWkxtWkFlUjVDTHpMVE5TWVhYeDFGdEZ6TTI5VjBEMTJtQ1Y0MnBJaTBnUkRWODBBc0NmR01mV0MwM0lwR3BCem12azZR",
-  "snippet": "Ohio small town 'DROWNING' amid immigrant takeover Fox News",
-  "published": "2026-11-16T12:25:42+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T13:21:06.898023+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "00dd4393b3",
   "slug": "ny-based-page-trucking-reopens-facility-in-morgantown-kentucky-00dd4393b3",
   "title": "NY-based Page Trucking reopens facility in Morgantown, Kentucky",
@@ -33960,35 +33974,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "3a98ebd6cc",
-  "slug": "lapu-lapu-job-fair-offers-over-4-600-openings-3a98ebd6cc",
-  "title": "Lapu-Lapu job fair offers over 4,600 openings",
-  "orig_title": "Lapu-Lapu job fair offers over 4,600 openings",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "SunStar Publishing Inc.",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVZUaTFFMVFJcG1kZDduMmU5LUktWlk2alRNX2tBSTJSeF9VdkhYeUJ3TmtSbVVfak5tN01JRXRQY0d6ZFBMU2Jwd1c0VVFfcm4wZU5nU0JmZ0ttRDQ3WnY2TFp0ZDh6Y0NVZG1jWHpvZi1Hd3BCaFpOSnpKZWp4blBoWU4zdnlzNHFpNlp4RdIBjwFBVV95cUxOeVZUaTFFMVFJcG1kZDduMmU5LUktWlk2alRNX2tBSTJSeF9VdkhYeUJ3TmtSbVVfak5tN01JRXRQY0d6ZFBMU2Jwd1c0VVFfcm4wZU5nU0JmZ0ttRDQ3WnY2TFp0ZDh6Y0NVZG1jWHpvZi1Hd3BCaFpOSnpKZWp4blBoWU4zdnlzNHFpNlp4RQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVZUaTFFMVFJcG1kZDduMmU5LUktWlk2alRNX2tBSTJSeF9VdkhYeUJ3TmtSbVVfak5tN01JRXRQY0d6ZFBMU2Jwd1c0VVFfcm4wZU5nU0JmZ0ttRDQ3WnY2TFp0ZDh6Y0NVZG1jWHpvZi1Hd3BCaFpOSnpKZWp4blBoWU4zdnlzNHFpNlp4RdIBjwFBVV95cUxOeVZUaTFFMVFJcG1kZDduMmU5LUktWlk2alRNX2tBSTJSeF9VdkhYeUJ3TmtSbVVfak5tN01JRXRQY0d6ZFBMU2Jwd1c0VVFfcm4wZU5nU0JmZ0ttRDQ3WnY2TFp0ZDh6Y0NVZG1jWHpvZi1Hd3BCaFpOSnpKZWp4blBoWU4zdnlzNHFpNlp4RQ",
-  "snippet": "Lapu-Lapu job fair offers over 4,600 openings SunStar Publishing Inc.",
-  "published": "2026-11-16T11:41:49+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T13:21:06.898023+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "job listing / recruitment ad"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "ab1efe7312",

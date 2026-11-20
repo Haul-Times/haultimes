@@ -4123,7 +4123,8 @@
   "978b3d13af": "skipped|importance 61 is below this platform's threshold (65)",
   "8573ce19e0": "skipped|importance 55 is below this platform's threshold (65)",
   "692ee1f651": "skipped|importance 57 is below this platform's threshold (65)",
-  "a02921b898": "skipped|minor item (incident) or low-quality source"
+  "a02921b898": "skipped|minor item (incident) or low-quality source",
+  "50409fd411": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -8666,6 +8667,13 @@
    "at": "2026-11-20T13:11:37.421532+00:00",
    "story_id": "a02921b898",
    "title": "Werner and Bennett turn AI dashcams toward crash prevention",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T13:31:32.515506+00:00",
+   "story_id": "50409fd411",
+   "title": "Texas Truck Wrecks in October 2026: 18-Wheeler and Commercial Vehicle Crash Statistics in Dallas, DFW and Statewide",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
   }
