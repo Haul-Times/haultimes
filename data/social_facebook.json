@@ -4402,7 +4402,9 @@
   "b1d1840b89": "skipped|importance 61 is below this platform's threshold (65)",
   "a4a0fcdf29": "skipped|importance 55 is below this platform's threshold (65)",
   "f4f88433cc": "skipped|importance 45 is below this platform's threshold (65)",
-  "d9e5b6a70d": "skipped|minor item (incident) or low-quality source"
+  "d9e5b6a70d": "skipped|minor item (incident) or low-quality source",
+  "d71956f7d1": "skipped|importance 55 is below this platform's threshold (65)",
+  "3eb7d23d2d": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9150,6 +9152,20 @@
    "title": "Driver involved in transport truck crash airlifted to hospital",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T21:21:31.103995+00:00",
+   "story_id": "d71956f7d1",
+   "title": "Trailer brake explodes, kills driver on opposite side of I-84",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T21:21:31.103995+00:00",
+   "story_id": "3eb7d23d2d",
+   "title": "Weigh station blitz 500-plus violations | Prison for cargo thief",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
