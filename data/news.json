@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "c83d45220d",
+  "slug": "the-sale-was-made-then-the-margin-disappeared-c83d45220d",
+  "title": "The Sale Was Made. Then the Margin Disappeared",
+  "orig_title": "The Sale Was Made. Then the Margin Disappeared",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "SupplyChainBrain",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFhCVk9OREZYeTJkTVM0NlE1d2Zoa1AtN3lOUmt5YnM3eXJ0V0h0OFlYR3NDcUkwRHcyTDNJUlF5eG1QcTh6RFU5YjhLeHFvWS14bXpLUXVoM19lTjB2Q0MtWmlRdHdfMXE2ZlNrOFo4MkhjRDE2Zy1mbE9rQV9pdWxnVnZvWWlEYktrUWpWUnJoUUw4TFdLUW43cU5hMlV6UVlDcm93dkY3MHNCcTNydktn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFhCVk9OREZYeTJkTVM0NlE1d2Zoa1AtN3lOUmt5YnM3eXJ0V0h0OFlYR3NDcUkwRHcyTDNJUlF5eG1QcTh6RFU5YjhLeHFvWS14bXpLUXVoM19lTjB2Q0MtWmlRdHdfMXE2ZlNrOFo4MkhjRDE2Zy1mbE9rQV9pdWxnVnZvWWlEYktrUWpWUnJoUUw4TFdLUW43cU5hMlV6UVlDcm93dkY3MHNCcTNydktn",
+  "snippet": "The Sale Was Made. Then the Margin Disappeared SupplyChainBrain",
+  "published": "2026-11-20T10:45:02+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T12:11:03.879593+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0800d15435",
   "slug": "why-india-s-trucking-industry-needs-a-dhaba-revival-0800d15435",
   "title": "Why India's trucking industry needs a ‘dhaba’ revival",
@@ -24586,6 +24615,35 @@
   "sum_pending": false
  },
  {
+  "id": "a4770d6d97",
+  "slug": "driver-airlifted-to-hospital-following-crash-near-kenilworth-a4770d6d97",
+  "title": "Driver airlifted to hospital following crash near Kenilworth",
+  "orig_title": "Driver airlifted to hospital following crash near Kenilworth",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXgyeHRSU2dJUlZIQkxFY2w3ME1ISHRHd00xSkZWdHk4Z3FqTUFiNGVoTG00RHJEU2RKSFpKeWtzYkU1S0lJNlpWVF9mdEJRak5Hbkg4eEhKTUVaRk1CZk1uR1ozR0twaHJneW10X2d5ekZXQjFUNXFReHRIMmxLblNKOWNxYXhRUWRsbEl1dXAyNmNfb2VuWHJDbTAwTTdOUWxGTQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXgyeHRSU2dJUlZIQkxFY2w3ME1ISHRHd00xSkZWdHk4Z3FqTUFiNGVoTG00RHJEU2RKSFpKeWtzYkU1S0lJNlpWVF9mdEJRak5Hbkg4eEhKTUVaRk1CZk1uR1ozR0twaHJneW10X2d5ekZXQjFUNXFReHRIMmxLblNKOWNxYXhRUWRsbEl1dXAyNmNfb2VuWHJDbTAwTTdOUWxGTQ",
+  "snippet": "Driver airlifted to hospital following crash near Kenilworth CTV News",
+  "published": "2026-11-17T17:27:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T12:11:03.879593+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b068b8e97f",
   "slug": "china-electric-heavy-trucks-take-share-from-diesel-and-lng-b068b8e97f",
   "title": "China Electric Heavy Trucks Take Share from Diesel and LNG",
@@ -33844,35 +33902,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "3b61c61e9d",
-  "slug": "man-gets-huge-tear-in-vehicle-s-coolant-hose-then-he-just-keeps-drivin-3b61c61e9d",
-  "title": "Man Gets Huge Tear In Vehicle's Coolant Hose. Then He Just Keeps Driving",
-  "orig_title": "Man Gets Huge Tear In Vehicle's Coolant Hose. Then He Just Keeps Driving",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Motor1.com",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HTTRLZkd3U3JpTG9uSS1UR0R0dHN5NnFWb3JrbU0zRExHN1ZwSGZjZ29SdlFPcXpQQ2FDVXdQME9rcmYxcDVTdDRURUpMN1BFdjc5bUV6MFhKb3JOb1dmRUNHUHN2Zmd1VG5R?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HTTRLZkd3U3JpTG9uSS1UR0R0dHN5NnFWb3JrbU0zRExHN1ZwSGZjZ29SdlFPcXpQQ2FDVXdQME9rcmYxcDVTdDRURUpMN1BFdjc5bUV6MFhKb3JOb1dmRUNHUHN2Zmd1VG5R",
-  "snippet": "Man Gets Huge Tear In Vehicle's Coolant Hose. Then He Just Keeps Driving Motor1.com",
-  "published": "2026-11-15T08:33:41+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T12:01:11.875144+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "e60bac15d5",
   "slug": "english-for-truck-drivers-in-2026-how-roadside-inspections-work-why-th-e60bac15d5",
   "title": "English for truck drivers in 2026: How roadside inspections work, why they get you kicked off the road, and what truck owners should do",
@@ -34064,35 +34093,6 @@
   "sum_problems": [],
   "ai_category": "regs",
   "ai_importance": 78
- },
- {
-  "id": "5ff0d5b02d",
-  "slug": "aid-for-road-haulage-agriculture-and-fishing-green-light-for-the-decre-5ff0d5b02d",
-  "title": "Aid for road haulage, agriculture, and fishing: green light for the decree",
-  "orig_title": "Aid for road haulage, agriculture, and fishing: green light for the decree",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "L'Unione Sarda",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTJFWGlRdGNYdU95ZVFjVXMtOXQ2TTU5RnZnZE5ZU1dlOFI4ckdfTy1HRm9mVlh2S1VlWUs3c05jc1FONzdkSHlxVWNWVXNjalZLdm9nc3g2Q1dWZEx6V09nbGl3REZ1YUI4MHczN2NpNHdrVVJQbndjTk5OcTJlTFRvYUZXaGVlYjMwM0NnOHBZaW5IbTJMaWk0T3VUSnltbFdvR2czNHhMUGNxanpXZzY0b9IBswFBVV95cUxPQTJFWGlRdGNYdU95ZVFjVXMtOXQ2TTU5RnZnZE5ZU1dlOFI4ckdfTy1HRm9mVlh2S1VlWUs3c05jc1FONzdkSHlxVWNWVXNjalZLdm9nc3g2Q1dWZEx6V09nbGl3REZ1YUI4MHczN2NpNHdrVVJQbndjTk5OcTJlTFRvYUZXaGVlYjMwM0NnOHBZaW5IbTJMaWk0T3VUSnltbFdvR2czNHhMUGNxanpXZzY0bw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTJFWGlRdGNYdU95ZVFjVXMtOXQ2TTU5RnZnZE5ZU1dlOFI4ckdfTy1HRm9mVlh2S1VlWUs3c05jc1FONzdkSHlxVWNWVXNjalZLdm9nc3g2Q1dWZEx6V09nbGl3REZ1YUI4MHczN2NpNHdrVVJQbndjTk5OcTJlTFRvYUZXaGVlYjMwM0NnOHBZaW5IbTJMaWk0T3VUSnltbFdvR2czNHhMUGNxanpXZzY0b9IBswFBVV95cUxPQTJFWGlRdGNYdU95ZVFjVXMtOXQ2TTU5RnZnZE5ZU1dlOFI4ckdfTy1HRm9mVlh2S1VlWUs3c05jc1FONzdkSHlxVWNWVXNjalZLdm9nc3g2Q1dWZEx6V09nbGl3REZ1YUI4MHczN2NpNHdrVVJQbndjTk5OcTJlTFRvYUZXaGVlYjMwM0NnOHBZaW5IbTJMaWk0T3VUSnltbFdvR2czNHhMUGNxanpXZzY0bw",
-  "snippet": "Aid for road haulage, agriculture, and fishing: green light for the decree L'Unione Sarda",
-  "published": "2026-11-14T23:13:28+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T12:01:11.875144+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "d47401149e",
