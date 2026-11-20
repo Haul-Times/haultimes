@@ -4392,7 +4392,8 @@
   "9f32659279": "skipped|minor item (feature) or low-quality source",
   "062a68f0e2": "queued|importance 67 (threshold 65), Regulations, trade publication",
   "6eaf6190f3": "skipped|importance 55 is below this platform's threshold (65)",
-  "f71e73d196": "queued|importance 67 (threshold 65), Regulations, trade publication"
+  "f71e73d196": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "72fe5a4205": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -9063,6 +9064,13 @@
    "title": "Trucking groups press Congress for lame-duck action",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-20T17:31:30.865555+00:00",
+   "story_id": "72fe5a4205",
+   "title": "Freight Broker Blames Injured Emlenton Mechanic, Seeks to Add Disabled Truck Owner to I-80 Lawsuit",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
