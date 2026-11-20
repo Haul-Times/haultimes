@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:51:09.184495+00:00",
- "hour_now": 11,
+ "updated": "2026-11-20T17:01:06.768795+00:00",
+ "hour_now": 12,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -62,7 +62,7 @@
      5,
      5,
      15,
-     25,
+     23,
      15,
      18,
      20,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:37 am EST",
+    "updated": "At 11:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -287,7 +287,7 @@
      6,
      9,
      15,
-     32,
+     29,
      34,
      9,
      18,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:37 am EST",
+    "updated": "At 11:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -411,7 +411,7 @@
      5,
      5,
      5,
-     0,
+     2,
      0,
      0,
      0,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "11:42:09",
+    "updated": "11:52:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "11:42:09",
+    "updated": "11:52:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "10:42:09",
+    "updated": "10:52:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1229,7 +1229,7 @@
      10,
      12,
      15,
-     30,
+     25,
      30,
      30,
      30,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 12 PM"
+   "best_north": "Usually fastest around 9 PM"
   },
   {
    "id": "sumas",
@@ -1379,7 +1379,7 @@
      0,
      0,
      1,
-     0,
+     2,
      0,
      0,
      0,
