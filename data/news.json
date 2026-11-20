@@ -20,8 +20,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -48,7 +50,7 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 55,
-  "followup_of": "47458eb868"
+  "dup_of": "c02dac559f"
  },
  {
   "id": "ef0b2b9376",
@@ -107,6 +109,69 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "c02dac559f",
+  "slug": "at-least-14-charged-in-alleged-22-5-million-california-train-cargo-the-c02dac559f",
+  "title": "At least 14 charged in alleged $22.5 million California train cargo theft scheme",
+  "orig_title": "At least 14 charged in alleged $22.5 million California train cargo theft scheme",
+  "summary": "Federal prosecutors said at least 14 people have been charged over an alleged scheme that stole cargo worth $22.5 million from freight trains in Southern California. Prosecutors say the crew hit at least 36 freight trains between February 2024 and August 2026, cutting air hoses to force them to stop. Prosecutors identified Nathan Daniel Angel, 21, of East Los Angeles, as the alleged leader, operating with his father and two uncles. Officials said a Los Angeles-based sneaker resale business, which was not an authorized Nike reseller, bought stolen sneakers and generated more than $1 million for the crew. The defendants are presumed innocent, and the maximum penalties include five years for conspiracy and 10 years for each theft count.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 63,
+  "source": "Mezha.net",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16bjFhQ3pEemFFSmNmU3dybE9EZnd0dHZFY1YyNUZOamhhSVRsV19hdXZhcDlDWWZtblEtRkluM1JGM2hOYTM0ekNKN3FmUlFtRGF6Q1U4RUZnbERTVTFYME5tOWhhU280bjFhNmZkNXhzUUM3QTJXQ0tB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16bjFhQ3pEemFFSmNmU3dybE9EZnd0dHZFY1YyNUZOamhhSVRsV19hdXZhcDlDWWZtblEtRkluM1JGM2hOYTM0ekNKN3FmUlFtRGF6Q1U4RUZnbERTVTFYME5tOWhhU280bjFhNmZkNXhzUUM3QTJXQ0tB",
+  "snippet": "At least 14 charged in alleged $22.5 million California train cargo theft scheme Mezha.net",
+  "published": "2026-11-20T03:12:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T04:31:11.669031+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://mezha.net/eng/news/mezha-30130c46ff07716e040326b4_at_least_14/",
+  "source_note": "ok · 515 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "0301de96f4359a1c",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-20T04:31:11.669031+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "at least 14 people had been federally charged"
+   },
+   {
+    "sentence": "2",
+    "quote": "Federal prosecutors say the operation targeted at least 36 freight trains"
+   },
+   {
+    "sentence": "3",
+    "quote": "Prosecutors identified the alleged leader as Nathan Daniel Angel, 21, of East Los Angeles"
+   },
+   {
+    "sentence": "4",
+    "quote": "was not an authorized Nike reseller"
+   },
+   {
+    "sentence": "5",
+    "quote": "five years for conspiracy and 10 years for each theft count"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 60,
+  "followup_of": "47458eb868"
  },
  {
   "id": "846d6e007a",
@@ -218,7 +283,7 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Fourteen Charged In Alleged $22.5 Million Southern California Train Cargo Theft Ring Targe"
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
   ],
   "labels": [],
   "kind": "news",
@@ -265,7 +330,7 @@
   "ai_importance": 70,
   "sum_v4": true,
   "ai_category": "other",
-  "dup_of": "f8c40911a7"
+  "dup_of": "c02dac559f"
  },
  {
   "id": "14c548c16c",
@@ -319,12 +384,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Fourteen Charged In Alleged $22.5 Million Southern California Train Cargo Theft Ring Targe"
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "f8c40911a7"
+  "dup_of": "c02dac559f"
  },
  {
   "id": "833136310a",
@@ -660,6 +725,35 @@
   "published": "2026-11-20T00:16:00+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T01:31:04.517919+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "a57e1d58ed",
+  "slug": "we-should-be-even-higher-coach-believes-canada-can-climb-into-fifa-s-t-a57e1d58ed",
+  "title": "'We should be even higher': Coach believes Canada can climb into FIFA's top 20",
+  "orig_title": "'We should be even higher': Coach believes Canada can climb into FIFA's top 20",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFhPdFk3TE5NMHFLSlhnMWFfaElyNC1XYjE4Q0JpYXFlb21fcnJRbWFxV0NqZ01LOWVtX1NLc2ZOSDY2T001T21OMm1LaDJlcjRaYlFvTTA3bW1PTjYwamZLT1FJMy1oNm1VQkZlSWR0SUJndE9mVzMwYlFVVVJzNG9fVlc0ME5BUGVOa1RTR0JJdmg2X1dzdU04TVZxdmotSFA2VnVWMEMxMEdyU2RIVXJYTQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFhPdFk3TE5NMHFLSlhnMWFfaElyNC1XYjE4Q0JpYXFlb21fcnJRbWFxV0NqZ01LOWVtX1NLc2ZOSDY2T001T21OMm1LaDJlcjRaYlFvTTA3bW1PTjYwamZLT1FJMy1oNm1VQkZlSWR0SUJndE9mVzMwYlFVVVJzNG9fVlc0ME5BUGVOa1RTR0JJdmg2X1dzdU04TVZxdmotSFA2VnVWMEMxMEdyU2RIVXJYTQ",
+  "snippet": "'We should be even higher': Coach believes Canada can climb into FIFA's top 20 CTV News",
+  "published": "2026-11-20T00:16:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T04:31:11.669031+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -3343,10 +3437,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Fourteen Charged In Alleged $22.5 Million Southern California Train Cargo Theft Ring Targe"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -3386,8 +3478,7 @@
    "copies a 12-word run from the source: 'pleaded guilty on aug. 13 to conspiracy to commit theft from interstat'"
   ],
   "ai_category": "other",
-  "ai_importance": 55,
-  "dup_of": "f8c40911a7"
+  "ai_importance": 55
  },
  {
   "id": "8512894af9",
@@ -6441,7 +6532,7 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Fourteen Charged In Alleged $22.5 Million Southern California Train Cargo Theft Ring Targe"
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
   ],
   "labels": [],
   "kind": "news",
@@ -6487,7 +6578,7 @@
   "ai_importance": 60,
   "pending_summary": "Four men from Brampton, Ont., have been charged and two more are wanted in an alleged theft and trafficking network for tractors, trailers and other heavy equipment in the Greater Toronto Area. York Regional Police said the investigation, called Project Nashville, started in August 2026 with the Auto Cargo Theft Unit and involved six people allegedly selling stolen semi-tractors and 53-foot trailers to transportation companies in the GTA and elsewhere in North America. On Oct. 7, officers executed a search warrant at a commercial trucking yard in Brampton and seized 17 stolen or re-vinned tractors and 20 stolen or re-vinned 53-foot trailers, valued at an estimated $3.6 million combined. Police said many vehicles had new decals and stickers. Gurlal Singh, 35, and Preetam Rattan, 32, are wanted, and police urged both to seek legal counsel and turn themselves in.",
   "pending_why": "",
-  "dup_of": "f8c40911a7"
+  "dup_of": "c02dac559f"
  },
  {
   "id": "f0c48de5e6",
@@ -10706,6 +10797,35 @@
   "sum_pending": false
  },
  {
+  "id": "ffe0009d69",
+  "slug": "concerned-citizen-tips-police-off-to-erratic-driver-in-brantford-ffe0009d69",
+  "title": "Concerned citizen tips police off to erratic driver in Brantford",
+  "orig_title": "Concerned citizen tips police off to erratic driver in Brantford",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3pSX1VZelNmQ1ZtRWk0Nmo4YnltZ0JJa2EyUEdjdjFyeGhaXy1xRExhVWpmUTktZlJ6VkdhNDY5UE5OejhWQmtxTUxwLXBLc09DeEM0U1JGR05EMVFacjlpaV9CSGxGem03TjhoYWJHNVdXQ1VMdkFmcHpUOTFWdGxoZFNBdUtQVEJNVGttbUp3QXZHX0V4QXFDZVJvY0ZaS3VTTkE1MTZFdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3pSX1VZelNmQ1ZtRWk0Nmo4YnltZ0JJa2EyUEdjdjFyeGhaXy1xRExhVWpmUTktZlJ6VkdhNDY5UE5OejhWQmtxTUxwLXBLc09DeEM0U1JGR05EMVFacjlpaV9CSGxGem03TjhoYWJHNVdXQ1VMdkFmcHpUOTFWdGxoZFNBdUtQVEJNVGttbUp3QXZHX0V4QXFDZVJvY0ZaS3VTTkE1MTZFdw",
+  "snippet": "Concerned citizen tips police off to erratic driver in Brantford CTV News",
+  "published": "2026-11-19T02:03:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T04:31:11.669031+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d410fb9189",
   "slug": "scanning-system-stir-hits-vallarpadam-freight-traffic-d410fb9189",
   "title": "Scanning system stir hits Vallarpadam freight traffic",
@@ -12668,6 +12788,35 @@
   ],
   "labels": [],
   "kind": "review",
+  "sum_pending": false
+ },
+ {
+  "id": "af6e3a75f3",
+  "slug": "spate-of-fatal-crashes-grounds-rio-s-hang-gliding-fliers-af6e3a75f3",
+  "title": "Spate of fatal crashes grounds Rio’s hang-gliding fliers",
+  "orig_title": "Spate of fatal crashes grounds Rio’s hang-gliding fliers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2JQY0JaU0E0WVlicGVYODNIWTAzWHY5eVhYZDcycm5BbkQ0VGZ1R1NtTDZiTXhtbGJtSE9QNjRpOEZIb3E2enFEVkhjampaazhvZzdqeGtQNTduTkFXbFhkck0zU2diUjQtbEdqdFFCOWJfYzVxbkxna0ZHa3FRZHdSaU80LW1SNzdNa2ZKc1ZVbFBwWVpwcg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2JQY0JaU0E0WVlicGVYODNIWTAzWHY5eVhYZDcycm5BbkQ0VGZ1R1NtTDZiTXhtbGJtSE9QNjRpOEZIb3E2enFEVkhjampaazhvZzdqeGtQNTduTkFXbFhkck0zU2diUjQtbEdqdFFCOWJfYzVxbkxna0ZHa3FRZHdSaU80LW1SNzdNa2ZKc1ZVbFBwWVpwcg",
+  "snippet": "Spate of fatal crashes grounds Rio’s hang-gliding fliers CTV News",
+  "published": "2026-11-18T20:26:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T04:31:11.669031+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
@@ -29852,35 +30001,6 @@
   "published": "2026-11-16T05:00:00+00:00",
   "date_known": true,
   "first_seen": "2026-11-16T08:41:06.640381+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "751e9b206f",
-  "slug": "mr-william-doyle-beatenbough-obituary-2026-danielsville-ga-pruitt-fune-751e9b206f",
-  "title": "Mr. William Doyle Beatenbough Obituary (2026) - Danielsville, GA - Pruitt Funeral Home - Royston",
-  "orig_title": "Mr. William Doyle Beatenbough Obituary (2026) - Danielsville, GA - Pruitt Funeral Home - Royston",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Legacy | Obituary",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNDJYTFhxTVZFOXJHTVNiV0ZjU2V1Mk5rem4xLWwwcmEwVVd2MTZoX2tuRjNnX1NRcEZnblhYdTJLcjFueFI2TGpLTnFERXRlWUVOYkFMTXN3M2lnQWRBZXV3cVc5UDNKYnFRN1k1SzdReWVBTUJBVVBJS0d2SzBabEROeWRxbk5zOGc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNDJYTFhxTVZFOXJHTVNiV0ZjU2V1Mk5rem4xLWwwcmEwVVd2MTZoX2tuRjNnX1NRcEZnblhYdTJLcjFueFI2TGpLTnFERXRlWUVOYkFMTXN3M2lnQWRBZXV3cVc5UDNKYnFRN1k1SzdReWVBTUJBVVBJS0d2SzBabEROeWRxbk5zOGc",
-  "snippet": "Mr. William Doyle Beatenbough Obituary (2026) - Danielsville, GA - Pruitt Funeral Home - Royston Legacy | Obituary",
-  "published": "2026-11-16T04:29:29+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T04:31:11.176547+00:00",
   "image": "",
   "ai": false,
   "lang": "en",

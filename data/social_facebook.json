@@ -4116,7 +4116,8 @@
   "b30df1699a": "skipped|importance 62 is below this platform's threshold (65)",
   "8fab767786": "skipped|minor item (news) or low-quality source",
   "aab5c10b5d": "skipped|minor item (news) or low-quality source",
-  "f8c40911a7": "skipped|importance 63 is below this platform's threshold (65)"
+  "f8c40911a7": "skipped|importance 63 is below this platform's threshold (65)",
+  "c02dac559f": "skipped|importance 63 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8589,6 +8590,13 @@
    "at": "2026-11-20T04:01:36.476384+00:00",
    "story_id": "f8c40911a7",
    "title": "Fourteen Charged In Alleged $22.5 Million Southern California Train Cargo Theft Ring Targeting Nike Sneakers",
+   "action": "skipped",
+   "reason": "importance 63 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T04:31:56.886549+00:00",
+   "story_id": "c02dac559f",
+   "title": "At least 14 charged in alleged $22.5 million California train cargo theft scheme",
    "action": "skipped",
    "reason": "importance 63 is below this platform's threshold (65)"
   }
