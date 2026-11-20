@@ -5869,6 +5869,38 @@
   "sum_pending": false
  },
  {
+  "id": "b30df1699a",
+  "slug": "forza-eld-reinstated-after-fmcsa-crackdown-b30df1699a",
+  "title": "FORZA ELD reinstated after FMCSA crackdown",
+  "orig_title": "FORZA ELD reinstated after FMCSA crackdown",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 62,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWThmWnItRFQ0UUE4bGVBNTRVNU5ncFRPT2szdDRPN3QyYUsyeWI3YnNSZmwtQlY0S2FiajRXbENJOFlQdHpFZTFyUEZBUHlBSVpSaElHNnpqZUtzb28tOVNkVkxMbXhOLUI5aWUtVXZhcnBzYktyWlJUS0d2cm10bm5nN3daTHExM2NIUU5jNHZXSy0teFpwMUQzVDBhcWc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWThmWnItRFQ0UUE4bGVBNTRVNU5ncFRPT2szdDRPN3QyYUsyeWI3YnNSZmwtQlY0S2FiajRXbENJOFlQdHpFZTFyUEZBUHlBSVpSaElHNnpqZUtzb28tOVNkVkxMbXhOLUI5aWUtVXZhcnBzYktyWlJUS0d2cm10bm5nN3daTHExM2NIUU5jNHZXSy0teFpwMUQzVDBhcWc",
+  "snippet": "FORZA ELD reinstated after FMCSA crackdown TheTrucker.com",
+  "published": "2026-11-19T16:47:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T02:11:05.111861+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/equipment-tech/forza-eld-reinstated-after-fmcsa-crackdown",
+  "source_note": "excerpt only · 16 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "2ddb767a67",
   "slug": "pennsylvania-truckers-rescue-a-young-owl-that-collided-with-a-semi-and-2ddb767a67",
   "title": "Pennsylvania truckers rescue a young owl that collided with a semi and got lodged in the air dam for 70 miles",
@@ -7278,6 +7310,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "41a8d8ff39",
+  "slug": "four-wheel-electric-forklifts-market-forecast-to-2035-driven-by-wareho-41a8d8ff39",
+  "title": "Four-Wheel Electric Forklifts Market Forecast to 2035, Driven by Warehouse Automation and Green Logistics",
+  "orig_title": "Four-Wheel Electric Forklifts Market Forecast to 2035, Driven by Warehouse Automation and Green Logistics",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkdsMTgzN09FNlRmRVBaaG1JTEdmOUtkcGNMRkl1anAtS0FGLWRqNzRzVTZoTHVHV0RiR0hkcUY2aEVJaDVrazZrZzdidkJGbHpjckFGUTlfVUVjZ2Nhb1c4TnBMYzYzUS00RkJfRkdldTFtYlZ6X0FYWXNVdDg5NnBKVjdxQVQ4SUowWVdKY1RubkhYeldPcU56aTdiYlJZRlNISTlGV3p5eFotYzIxVDczQVByVy1WYks4b3I1RHRoOE9Gb3VQMnVZN1VQN2c?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkdsMTgzN09FNlRmRVBaaG1JTEdmOUtkcGNMRkl1anAtS0FGLWRqNzRzVTZoTHVHV0RiR0hkcUY2aEVJaDVrazZrZzdidkJGbHpjckFGUTlfVUVjZ2Nhb1c4TnBMYzYzUS00RkJfRkdldTFtYlZ6X0FYWXNVdDg5NnBKVjdxQVQ4SUowWVdKY1RubkhYeldPcU56aTdiYlJZRlNISTlGV3p5eFotYzIxVDczQVByVy1WYks4b3I1RHRoOE9Gb3VQMnVZN1VQN2c",
+  "snippet": "Four-Wheel Electric Forklifts Market Forecast to 2035, Driven by Warehouse Automation and Green Logistics IndexBox",
+  "published": "2026-11-19T14:36:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T02:11:05.111861+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "market-research sales page"
   ],
   "labels": [],
   "kind": "rejected",
@@ -12914,6 +12975,78 @@
   "source_note": "ok · 1327 words"
  },
  {
+  "id": "fd2df7d179",
+  "slug": "saia-wants-to-give-cdl-trainees-supervised-road-time-with-doubles-fd2df7d179",
+  "title": "Saia wants to give CDL trainees supervised road time with doubles",
+  "orig_title": "Saia wants to give CDL trainees supervised road time with doubles",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 50,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFVnUGxiLXJjQzlkbVMtSl9uM05WdDVlNFVHTUEzUlI1Vmp5dXpFT1JIcG9sdzdKcExkcW1XS2JOUG1keHFkQi1hemtud0MzYnBuMUJDamJHZGtjWVMwVWlfUVFWZzJuTTJUbTUwT1prVjB4enNwMkU2TDh2akRpU3dDSUczODlMWERVMVNzZFNQZFhuQ1Rodlk3RU1rZUdlU0lMbmlwZ2JkT09kMDNwMHN5MjFfNzdzNTRlc0JSN19say1CQjJJcXZn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFVnUGxiLXJjQzlkbVMtSl9uM05WdDVlNFVHTUEzUlI1Vmp5dXpFT1JIcG9sdzdKcExkcW1XS2JOUG1keHFkQi1hemtud0MzYnBuMUJDamJHZGtjWVMwVWlfUVFWZzJuTTJUbTUwT1prVjB4enNwMkU2TDh2akRpU3dDSUczODlMWERVMVNzZFNQZFhuQ1Rodlk3RU1rZUdlU0lMbmlwZ2JkT09kMDNwMHN5MjFfNzdzNTRlc0JSN19say1CQjJJcXZn",
+  "snippet": "Saia wants to give CDL trainees supervised road time with doubles TheTrucker.com",
+  "published": "2026-11-18T17:14:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T02:11:05.111861+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/truck-driving-jobs-news/saia-wants-to-give-cdl-trainees-supervised-road-time-with-doubles",
+  "source_note": "ok · 299 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "378b42f3771ff0e1",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-20T02:11:05.111861+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "asking federal regulators to let its driver trainees pull double trailers on public roads"
+   },
+   {
+    "sentence": "2",
+    "quote": "Trainees would need a valid commercial learner's permit (CLP)"
+   },
+   {
+    "sentence": "3",
+    "quote": "opened a public comment period on the five-year exemption request Nov. 18"
+   },
+   {
+    "sentence": "4",
+    "quote": "The company expects the exemption to cover about 300 trainees a year and a fleet of about 19 training vehicles"
+   },
+   {
+    "sentence": "5",
+    "quote": "show they can couple, uncouple and maneuver two trailers in a closed yard"
+   },
+   {
+    "sentence": "6",
+    "quote": "Training would be limited to vehicles with a gross vehicle weight of 80,000 pounds or less"
+   },
+   {
+    "sentence": "7",
+    "quote": "Comments are due Dec. 18 and can be submitted at Regulations.gov under docket FMCSA-2026-2642"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'saia ltl freight is asking federal regulators to let its driver traine'"
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 55
+ },
+ {
   "id": "c612f26d64",
   "slug": "family-of-ecuadorian-killed-in-new-york-building-collapse-receives-his-c612f26d64",
   "title": "Family of Ecuadorian killed in New York building collapse receives his remains",
@@ -14311,6 +14444,35 @@
   "sum_pending": false
  },
  {
+  "id": "70baf0a952",
+  "slug": "what-s-in-the-water-in-gravenhurst-s-kahshe-lake-70baf0a952",
+  "title": "What’s in the water in Gravenhurst’s Kahshe lake?",
+  "orig_title": "What’s in the water in Gravenhurst’s Kahshe lake?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0JTSmNLTEo0MHVaYnVtSEVBdWE1V2pLY1k0SXh1d1hpb21jeERyTnFxTGktUDdPXzBGQXNZWmtzdjZKTHdDcUNiR2VMQzNRZWxtTmR2MjFsd0F6ZnBVYzJkR3FibklrbllOR256cWE5dWZhal9zaU96dTRGTVkzbGI5Vk5Pc0Ffb0xQbi1B?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0JTSmNLTEo0MHVaYnVtSEVBdWE1V2pLY1k0SXh1d1hpb21jeERyTnFxTGktUDdPXzBGQXNZWmtzdjZKTHdDcUNiR2VMQzNRZWxtTmR2MjFsd0F6ZnBVYzJkR3FibklrbllOR256cWE5dWZhal9zaU96dTRGTVkzbGI5Vk5Pc0Ffb0xQbi1B",
+  "snippet": "What’s in the water in Gravenhurst’s Kahshe lake? CTV News",
+  "published": "2026-11-18T15:04:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T02:11:05.111861+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a8d417648b",
   "slug": "ottawa-police-arson-unit-investigating-suspicious-fire-on-hunt-club-ro-a8d417648b",
   "title": "Ottawa police arson unit investigating suspicious fire on Hunt Club Road",
@@ -14396,6 +14558,38 @@
   "labels": [],
   "kind": "review",
   "sum_pending": false
+ },
+ {
+  "id": "616cd7d345",
+  "slug": "truck-catches-fire-on-highway-401-in-cambridge-616cd7d345",
+  "title": "Truck catches fire on Highway 401 in Cambridge",
+  "orig_title": "Truck catches fire on Highway 401 in Cambridge",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 45,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcF9VY2xjMU81SFZDTHltNTczOV9TMzdrRGRPMnZFN0k0UUJPRjBBS1E4YTMwbmU1cDZoSlUtUlM5R0VZMDlGNDA0NER5alF5Smd0M2UzWGVhdktjWTkwMU1pZFVrWVIyTFh2MmtaM244N1FpUG1sMkNGOUNENkJzaUxINURIM0dPQnd1WGhNakl3dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcF9VY2xjMU81SFZDTHltNTczOV9TMzdrRGRPMnZFN0k0UUJPRjBBS1E4YTMwbmU1cDZoSlUtUlM5R0VZMDlGNDA0NER5alF5Smd0M2UzWGVhdktjWTkwMU1pZFVrWVIyTFh2MmtaM244N1FpUG1sMkNGOUNENkJzaUxINURIM0dPQnd1WGhNakl3dw",
+  "snippet": "Truck catches fire on Highway 401 in Cambridge CTV News",
+  "published": "2026-11-18T14:35:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T02:11:05.111861+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "disruption",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ctvnews.ca/kitchener/article/truck-catches-fire-on-highway-401-in-cambridge/",
+  "source_note": "excerpt only · 26 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "f87d6a1439",
@@ -17112,6 +17306,35 @@
   "dup_of": "f58fb8543f"
  },
  {
+  "id": "7992836978",
+  "slug": "atl-tico-ottawa-ready-for-canadian-premier-league-final-rematch-7992836978",
+  "title": "Atlético Ottawa ready for Canadian Premier League final rematch",
+  "orig_title": "Atlético Ottawa ready for Canadian Premier League final rematch",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1E5OEpuLWNUM1o2djZsLUJmSTREWlhRMjh6X3VsUC1EMERvSDRJa2hQanplNUpSa1FOd0hyTlhWZVlkR0FzU1NxTkZHNzdZSktkWHdFVktuRW1hLTNwdlUzQkFheGdzNTBvQktvM25Yc2lXcjZ6X1AxWTdYVVpLbVdGNTVKVG81U0gxV0lqWFVkaXhVdUh3SHR5d0xYZ1h5N0NCSA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1E5OEpuLWNUM1o2djZsLUJmSTREWlhRMjh6X3VsUC1EMERvSDRJa2hQanplNUpSa1FOd0hyTlhWZVlkR0FzU1NxTkZHNzdZSktkWHdFVktuRW1hLTNwdlUzQkFheGdzNTBvQktvM25Yc2lXcjZ6X1AxWTdYVVpLbVdGNTVKVG81U0gxV0lqWFVkaXhVdUh3SHR5d0xYZ1h5N0NCSA",
+  "snippet": "Atlético Ottawa ready for Canadian Premier League final rematch CTV News",
+  "published": "2026-11-17T23:30:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T02:11:05.111861+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "1ec12a7da7",
   "slug": "fmcsa-eld-removals-133-devices-and-fleet-checks-1ec12a7da7",
   "title": "FMCSA ELD Removals: 133 Devices and Fleet Checks",
@@ -17132,10 +17355,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: 'Fraudulent' Forza ELD back on FMCSA registry of approved devices"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -17177,8 +17398,7 @@
   "ai_category": "regs",
   "ai_importance": 75,
   "pending_summary": "FMCSA announced on November 12 that 133 ELD registrations are being removed, comprising 121 revoked devices and 12 voluntary withdrawals. The notice for revoked devices tells users to stop using them, record hours on paper logs or logging software, and install a registered replacement. The article says the notice's January deadline conflicts with a date in the broader press release, and that the reviewed notices do not reconcile the difference. It advises carriers to seek device-specific clarification from FMCSA before November 24 and to check each truck's device against the registry, since a company name or app icon alone is not a match. It also says canceling a subscription should not leave driver records inaccessible.",
-  "pending_why": "",
-  "dup_of": "59b262d7bf"
+  "pending_why": ""
  },
  {
   "id": "45aecda185",
@@ -18818,18 +19038,15 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: ATA proposes 6 steps to help FMCSA combat ELD fraud"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 1,
   "source_note": "publisher refused (403)",
   "sum_done": true,
-  "sum_status": "no source text (publisher refused (403))",
-  "dup_of": "34b43b0666"
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "a98574a7c3",

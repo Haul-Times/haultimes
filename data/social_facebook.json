@@ -4112,7 +4112,8 @@
   "37adab6927": "skipped|importance 57 is below this platform's threshold (65)",
   "5af516eddd": "skipped|importance 45 is below this platform's threshold (65)",
   "1056c5e2db": "skipped|importance 55 is below this platform's threshold (65)",
-  "7078539d77": "skipped|importance 45 is below this platform's threshold (65)"
+  "7078539d77": "skipped|importance 45 is below this platform's threshold (65)",
+  "b30df1699a": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8552,6 +8553,13 @@
    "title": "4 charged in alleged thefts, trafficking of highway tractors, trailers",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T02:11:41.958897+00:00",
+   "story_id": "b30df1699a",
+   "title": "FORZA ELD reinstated after FMCSA crackdown",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
