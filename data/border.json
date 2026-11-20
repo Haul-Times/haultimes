@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:11:04.574753+00:00",
+ "updated": "2026-11-20T00:21:04.152354+00:00",
  "hour_now": 19,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 45,
-    "fast_wait": 45,
-    "lanes": "4",
+    "wait": 10,
+    "fast_wait": 10,
+    "lanes": "5",
     "status": "delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:57 pm EST",
+    "updated": "At 7:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -294,7 +294,7 @@
      2,
      5,
      12,
-     7,
+     10,
      14,
      10,
      1,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:57 pm EST",
+    "updated": "At 7:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -369,7 +369,7 @@
      2,
      2,
      3,
-     2,
+     1,
      8,
      2,
      1,
@@ -418,7 +418,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -718,7 +718,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:05:05",
+    "updated": "19:15:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1236,7 +1236,7 @@
      17,
      18,
      30,
-     8,
+     9,
      13,
      2,
      0,
@@ -1337,7 +1337,7 @@
      5,
      6,
      10,
-     12,
+     13,
      5,
      11,
      5,
@@ -1457,8 +1457,8 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 15,
+    "status": "delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 15,
-    "status": "15 minutes"
+    "wait": 20,
+    "status": "20 minutes"
    },
    {
     "name": "Aldergrove",
