@@ -1317,6 +1317,35 @@
   "sum_pending": false
  },
  {
+  "id": "03f621dc6f",
+  "slug": "university-of-waterloo-study-examines-link-between-boredom-and-poor-sl-03f621dc6f",
+  "title": "University of Waterloo study examines link between boredom and poor sleep",
+  "orig_title": "University of Waterloo study examines link between boredom and poor sleep",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnhDZDJRaXJORURQeFJLR3doNHZRNHpJY3llR3BXUWc3LWt4TlVGSnpFbDdjUEk0VFdDRHJKR1lHbG5pSHpoS01DZExDZFdiaERjU21kSkJ5alhsU01DZVJ0VjdreXRMYUU2WnEwd05RYWR3THVKd2dRd0Y2MzA4VXRPalI2RTZiTUEtVFI2OW5BRm5WTV9YZWM4MlRWZ3JaaGJXXzdIQ0VieTlpZVBmN0RRck15Zw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnhDZDJRaXJORURQeFJLR3doNHZRNHpJY3llR3BXUWc3LWt4TlVGSnpFbDdjUEk0VFdDRHJKR1lHbG5pSHpoS01DZExDZFdiaERjU21kSkJ5alhsU01DZVJ0VjdreXRMYUU2WnEwd05RYWR3THVKd2dRd0Y2MzA4VXRPalI2RTZiTUEtVFI2OW5BRm5WTV9YZWM4MlRWZ3JaaGJXXzdIQ0VieTlpZVBmN0RRck15Zw",
+  "snippet": "University of Waterloo study examines link between boredom and poor sleep CTV News",
+  "published": "2026-11-19T23:51:28+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T07:41:06.263388+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b6c432f936",
   "slug": "weekend-lane-closures-planned-as-epcor-wraps-up-south-edmonton-project-b6c432f936",
   "title": "Weekend lane closures planned as Epcor wraps up south Edmonton project",
@@ -33816,36 +33845,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "95aebeba84",
-  "slug": "bipartisan-trucker-bathroom-access-act-introduced-in-senate-95aebeba84",
-  "title": "Bipartisan Trucker Bathroom Access Act introduced in Senate",
-  "orig_title": "Bipartisan Trucker Bathroom Access Act introduced in Senate",
-  "summary": "",
-  "why": "",
-  "category": "regs",
-  "region": "",
-  "importance": 62,
-  "source": "Truckers News",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUldqc3dJOF9ycVl1cHBJYWxBRG1oYnVQS1owRl9DNFRvdjNkUFZrOWFTMnJrVkRlYjJwZDY4Vnk0MGVyMHZaQnhzVmpuU0ZJaGxBT2FYX1BIaFVIVGw4S21DQkVaM1gtRTdxZHIyOWVaV3pRc3dRMGdwSGNJWWdWZzdqYXN2eHRfd2p3WWpfZ0xtQVlLRVBqeUFJR05BN1BWSG9JS1J0dnV2WFNCaFd3?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUldqc3dJOF9ycVl1cHBJYWxBRG1oYnVQS1owRl9DNFRvdjNkUFZrOWFTMnJrVkRlYjJwZDY4Vnk0MGVyMHZaQnhzVmpuU0ZJaGxBT2FYX1BIaFVIVGw4S21DQkVaM1gtRTdxZHIyOWVaV3pRc3dRMGdwSGNJWWdWZzdqYXN2eHRfd2p3WWpfZ0xtQVlLRVBqeUFJR05BN1BWSG9JS1J0dnV2WFNCaFd3",
-  "snippet": "Bipartisan Trucker Bathroom Access Act introduced in Senate Truckers News",
-  "published": "2026-11-14T07:49:11+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T07:31:10.681545+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Bipartisan bill to require truck driver bathroom access at shippers and receivers"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "23f1039fed"
  },
  {
   "id": "31173afe79",
