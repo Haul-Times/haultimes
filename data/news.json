@@ -1,5 +1,99 @@
 [
  {
+  "id": "a02921b898",
+  "slug": "werner-and-bennett-turn-ai-dashcams-toward-crash-prevention-a02921b898",
+  "title": "Werner and Bennett turn AI dashcams toward crash prevention",
+  "orig_title": "Werner and Bennett turn AI dashcams toward crash prevention",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "",
+  "importance": 30,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc0FuZXNUX3Z3WXNhbHVwbVpXN2xZN0xPbWJzZFhvcHNZUUxfbnFXMTNhNndZN3Nja3ItRUFza3NTTEN6aUdUc2pMYmJnaGx0cjRJWkplQmFkUmFwOExWc1A0c0Fyczc0Q2I0Y1BOaEs5c3dETE9aNlBtSXpzLVhZLWk3Zw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc0FuZXNUX3Z3WXNhbHVwbVpXN2xZN0xPbWJzZFhvcHNZUUxfbnFXMTNhNndZN3Nja3ItRUFza3NTTEN6aUdUc2pMYmJnaGx0cjRJWkplQmFkUmFwOExWc1A0c0Fyczc0Q2I0Y1BOaEs5c3dETE9aNlBtSXpzLVhZLWk3Zw",
+  "snippet": "Werner and Bennett turn AI dashcams toward crash prevention FreightWaves",
+  "published": "2026-11-20T13:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T13:11:04.139077+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "incident",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/werner-bennett-ai-dashcams-crash-prevention",
+  "source_note": "paywalled: excerpt only · 25 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "692ee1f651",
+  "slug": "descartes-highway-and-carrier411-the-technology-behind-freight-fraud-p-692ee1f651",
+  "title": "Descartes, Highway and Carrier411: The Technology Behind Freight Fraud Prevention",
+  "orig_title": "Descartes, Highway and Carrier411: The Technology Behind Freight Fraud Prevention",
+  "summary": "Logistics Viewpoints argues that freight fraud prevention depends on whether a carrier's verified identity holds from contract through physical pickup. It points to an October 2026 Transport Topics examination that described companies including Descartes and Highway connecting identity verification to tracking intelligence and carrier enrollment. The article also cites Federal Motor Carrier Safety Administration warnings about broker and carrier identity theft, along with advice to check registration information and watch for suspicious contact changes. It recommends independent confirmation of high-risk changes, such as a new pickup contact, driver, equipment or payment instructions, made through a known channel rather than the incoming message. It also says a valid operating authority record does not by itself establish who is answering calls or receiving pickup instructions.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 57,
+  "source": "Logistics Viewpoints",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWV2M2RKb2REaFdJSjJ1Nktkc1BDamZyTDZUOEpUYmhiVzlnUG9SdjdhTFZkOU5pVWtQX2Y1bjZ4U0tZOE5KbWhZQTl0bWlyTWREczU5aHFPNGZBUER3Zk11UElCclBMR01yeVJIQWhtX2RpaGlERm03cmM5dGcyNEl2R3Z2NVZScENuWG50a0hvRXdqUVdKNnZ4Q0prd2Jqeldqd2dudmU0ZlhBRC1IWG1qVTdiQ0EyeFRPcnBPX0s?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWV2M2RKb2REaFdJSjJ1Nktkc1BDamZyTDZUOEpUYmhiVzlnUG9SdjdhTFZkOU5pVWtQX2Y1bjZ4U0tZOE5KbWhZQTl0bWlyTWREczU5aHFPNGZBUER3Zk11UElCclBMR01yeVJIQWhtX2RpaGlERm03cmM5dGcyNEl2R3Z2NVZScENuWG50a0hvRXdqUVdKNnZ4Q0prd2Jqeldqd2dudmU0ZlhBRC1IWG1qVTdiQ0EyeFRPcnBPX0s",
+  "snippet": "Descartes, Highway and Carrier411: The Technology Behind Freight Fraud Prevention Logistics Viewpoints",
+  "published": "2026-11-20T13:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T13:11:04.139077+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://logisticsviewpoints.com/2026/11/20/descartes-highway-and-carrier411-the-technology-behind-freight-fraud-prevention/",
+  "source_note": "ok · 1129 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "b17e4664c790711d",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-20T13:11:04.139077+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "whether verified identity survives the move from contract to physical pickup"
+   },
+   {
+    "sentence": "2",
+    "quote": "companies including Descartes and Highway are connecting identity verification to tracking intelligence"
+   },
+   {
+    "sentence": "3",
+    "quote": "warns about broker and carrier identity theft"
+   },
+   {
+    "sentence": "4",
+    "quote": "independent confirmation when high-risk details change"
+   },
+   {
+    "sentence": "5",
+    "quote": "A valid authority record is necessary but insufficient to establish who is answering the telephone"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 35
+ },
+ {
   "id": "8573ce19e0",
   "slug": "einride-books-167m-in-contracted-revenue-targets-250m-8573ce19e0",
   "title": "Einride books $167M in contracted revenue, targets $250M",
@@ -1068,6 +1162,35 @@
   "published": "2026-11-20T01:37:00+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T08:41:06.316807+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "8acd8ba3c7",
+  "slug": "renfrew-paramedics-involved-in-collision-suffer-minor-injuries-8acd8ba3c7",
+  "title": "Renfrew paramedics involved in collision, suffer minor injuries",
+  "orig_title": "Renfrew paramedics involved in collision, suffer minor injuries",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFIWWRrREpxZ05ZdmVCQkk5SGdoZjVlOWFRbEloUmljdTA2RWRMQXFoYk94UmdmUW95Z2ZLTEFlMkg4Zl9GSWMwajVMYl9iNE9kMjdHWWdaajRsa25tWWpSY3p3aWhIM0Zac2g5bWlEb1ZvYmxXNm5rZ3ZDMDhBTHFZdFcxWnpSMVZxZFRGY1pXSE90Tmp0bUZDWk5YZDdSQ2pj?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFIWWRrREpxZ05ZdmVCQkk5SGdoZjVlOWFRbEloUmljdTA2RWRMQXFoYk94UmdmUW95Z2ZLTEFlMkg4Zl9GSWMwajVMYl9iNE9kMjdHWWdaajRsa25tWWpSY3p3aWhIM0Zac2g5bWlEb1ZvYmxXNm5rZ3ZDMDhBTHFZdFcxWnpSMVZxZFRGY1pXSE90Tmp0bUZDWk5YZDdSQ2pj",
+  "snippet": "Renfrew paramedics involved in collision, suffer minor injuries CTV News",
+  "published": "2026-11-20T01:36:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T13:11:04.139077+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -22537,6 +22660,35 @@
   "sum_pending": false
  },
  {
+  "id": "f02b360f01",
+  "slug": "why-a-local-auto-business-has-been-labelled-an-environmental-offender-f02b360f01",
+  "title": "Why a local auto business has been labelled an ‘environmental offender’",
+  "orig_title": "Why a local auto business has been labelled an ‘environmental offender’",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzRpMmxiT2JmazNuMU93Y2N2SmM3VmwyeXFNdFA2X0luMjQ5ZEp1Y21PQXM1ZlhaNDVKNnlGZ28wcnhJQ0FiSF8wV2Q3SXM2TDI3RjFIYUg4Uk96MHEtRWpWcHVKTHd0eTdlblRYQnR5XzFQbmV0bWtUQXFTa0tTLUpJM1ExbUg1VzdaQWdoT2d1V183SFBwaTJtWVBaQlY0Mm5DdDQ1WUxlNmN0Ync?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzRpMmxiT2JmazNuMU93Y2N2SmM3VmwyeXFNdFA2X0luMjQ5ZEp1Y21PQXM1ZlhaNDVKNnlGZ28wcnhJQ0FiSF8wV2Q3SXM2TDI3RjFIYUg4Uk96MHEtRWpWcHVKTHd0eTdlblRYQnR5XzFQbmV0bWtUQXFTa0tTLUpJM1ExbUg1VzdaQWdoT2d1V183SFBwaTJtWVBaQlY0Mm5DdDQ1WUxlNmN0Ync",
+  "snippet": "Why a local auto business has been labelled an ‘environmental offender’ CTV News",
+  "published": "2026-11-17T22:37:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T13:11:04.139077+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "264f4195df",
   "slug": "ease-logistics-looks-to-expand-use-of-autonomous-trucks-264f4195df",
   "title": "Ease Logistics looks to expand use of autonomous trucks",
@@ -25665,6 +25817,64 @@
   "sum_pending": false
  },
  {
+  "id": "f164cf2585",
+  "slug": "watch-orillia-tree-toppler-knocks-the-christmas-spirit-literally-f164cf2585",
+  "title": "WATCH: Orillia tree-toppler knocks the Christmas spirit, literally",
+  "orig_title": "WATCH: Orillia tree-toppler knocks the Christmas spirit, literally",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTBFQVBpZmI1UkFGc1pIN2dlQ1VhZk85ekdVbklrX2UwNk9PeXltcVRQZzFPbmo3S3NuRzJuZjdHWlBadGNmODBVdlU5NnJyVnZOQU02WXpwTkdUQkdjMkgxRFN0LWVUdUZybkZqZnBqano3cEhXM0lwZkREWXlhRUQ4cFJ2SHhwNnYxQVh5WWVXMEZRMHVBdE5vUS1DdnNiVTRHZHFIRlhnWDJiNENEUHFmQ0U0d1U?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTBFQVBpZmI1UkFGc1pIN2dlQ1VhZk85ekdVbklrX2UwNk9PeXltcVRQZzFPbmo3S3NuRzJuZjdHWlBadGNmODBVdlU5NnJyVnZOQU02WXpwTkdUQkdjMkgxRFN0LWVUdUZybkZqZnBqano3cEhXM0lwZkREWXlhRUQ4cFJ2SHhwNnYxQVh5WWVXMEZRMHVBdE5vUS1DdnNiVTRHZHFIRlhnWDJiNENEUHFmQ0U0d1U",
+  "snippet": "WATCH: Orillia tree-toppler knocks the Christmas spirit, literally CTV News",
+  "published": "2026-11-17T16:25:24+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T13:11:04.139077+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "91da51a7d5",
+  "slug": "rcmp-recover-missing-manitoba-church-bell-91da51a7d5",
+  "title": "RCMP recover missing Manitoba church bell",
+  "orig_title": "RCMP recover missing Manitoba church bell",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0JrR3BkOG1wZmFWaW5ZdUVjV1RZOFA4OEdkYVhUaTJDMFZPTGppbGpMbVV6TUgtM1M4TjUtNTZhMkJVd0FaeF9ET01WUEJqNzlvY0JVb2dRcG9jdTBtcHotTl9jZDU4d19rdFFxeW1TLXU5eFJCQkVXZXR1SWVpdTNmZjR3Smx5dWc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0JrR3BkOG1wZmFWaW5ZdUVjV1RZOFA4OEdkYVhUaTJDMFZPTGppbGpMbVV6TUgtM1M4TjUtNTZhMkJVd0FaeF9ET01WUEJqNzlvY0JVb2dRcG9jdTBtcHotTl9jZDU4d19rdFFxeW1TLXU5eFJCQkVXZXR1SWVpdTNmZjR3Smx5dWc",
+  "snippet": "RCMP recover missing Manitoba church bell CTV News",
+  "published": "2026-11-17T16:16:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T13:11:04.139077+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "89115bedd7",
   "slug": "three-women-assaulted-another-arrested-in-guelph-89115bedd7",
   "title": "Three women assaulted, another arrested in Guelph",
@@ -26940,6 +27150,35 @@
   "ai_importance": 30
  },
  {
+  "id": "9411c931f3",
+  "slug": "significant-snowfall-to-hit-southwest-saskatchewan-9411c931f3",
+  "title": "‘Significant’ snowfall to hit southwest Saskatchewan",
+  "orig_title": "‘Significant’ snowfall to hit southwest Saskatchewan",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVYzXzdVcXVTMDQwM3NsM2s0U3RDZWc4ZmM5NGZpOGl3UFlQckxwT1JIY0l0alFqS2d2WGJLbndJdXcyUmVrbHZrWjhSVkt6ZGViRUpNYUVCREhJTjB6QUliWVNCdWhkZXB5QjNYeU1xcVU2Rll4ZE1EY1BaVGM1TzVnWUlGSEZoN19QbllzdlRkVy1GQzYw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVYzXzdVcXVTMDQwM3NsM2s0U3RDZWc4ZmM5NGZpOGl3UFlQckxwT1JIY0l0alFqS2d2WGJLbndJdXcyUmVrbHZrWjhSVkt6ZGViRUpNYUVCREhJTjB6QUliWVNCdWhkZXB5QjNYeU1xcVU2Rll4ZE1EY1BaVGM1TzVnWUlGSEZoN19QbllzdlRkVy1GQzYw",
+  "snippet": "‘Significant’ snowfall to hit southwest Saskatchewan CTV News",
+  "published": "2026-11-17T13:17:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T13:11:04.139077+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e945b83256",
   "slug": "oil-prices-swing-as-vessel-attacks-reported-around-hormuz-e945b83256",
   "title": "Oil prices swing as vessel attacks reported around Hormuz",
@@ -27021,12 +27260,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: ATA proposes 6 steps to help FMCSA combat ELD fraud"
+   "same story as: How ATA Wants to Fix ELD Certification"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "34b43b0666"
+  "dup_of": "a812fcb144"
  },
  {
   "id": "c042a9dc19",
@@ -33172,64 +33411,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "a94bf07417",
-  "slug": "big-ticket-holiday-items-may-be-harder-to-find-as-shipping-costs-rise-a94bf07417",
-  "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
-  "orig_title": "Big-ticket holiday items may be harder to find as shipping costs rise",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CNBC",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSW9LMzluZGhSazFDSEUtUmI3ZG4wSGJ2RFhieTR1WEJzYjdDZVdCNTVqay1nNTlNTDYwNlZzc181NnVZbTVnLUV2NXZUZ2RmdHY1aW0yM1RNYTAyZXlMXzFlZW5jX3FlenZMTVZfaUJPMVdDUlc1b2ZBeVVPbk9XdDQ1dS1meHBCanZFSdIBjAFBVV95cUxPSW9LMzluZGhSazFDSEUtUmI3ZG4wSGJ2RFhieTR1WEJzYjdDZVdCNTVqay1nNTlNTDYwNlZzc181NnVZbTVnLUV2NXZUZ2RmdHY1aW0yM1RNYTAyZXlMXzFlZW5jX3FlenZMTVZfaUJPMVdDUlc1b2ZBeVVPbk9XdDQ1dS1meHBCanZFSQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSW9LMzluZGhSazFDSEUtUmI3ZG4wSGJ2RFhieTR1WEJzYjdDZVdCNTVqay1nNTlNTDYwNlZzc181NnVZbTVnLUV2NXZUZ2RmdHY1aW0yM1RNYTAyZXlMXzFlZW5jX3FlenZMTVZfaUJPMVdDUlc1b2ZBeVVPbk9XdDQ1dS1meHBCanZFSdIBjAFBVV95cUxPSW9LMzluZGhSazFDSEUtUmI3ZG4wSGJ2RFhieTR1WEJzYjdDZVdCNTVqay1nNTlNTDYwNlZzc181NnVZbTVnLUV2NXZUZ2RmdHY1aW0yM1RNYTAyZXlMXzFlZW5jX3FlenZMTVZfaUJPMVdDUlc1b2ZBeVVPbk9XdDQ1dS1meHBCanZFSQ",
-  "snippet": "Big-ticket holiday items may be harder to find as shipping costs rise CNBC",
-  "published": "2026-11-16T12:00:01+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T13:05:02.599605+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "0f29da3ec7",
-  "slug": "naicker-rejects-claims-linking-towing-industry-to-drug-trafficking-0f29da3ec7",
-  "title": "Naicker rejects claims linking towing industry to drug trafficking",
-  "orig_title": "Naicker rejects claims linking towing industry to drug trafficking",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Mail & Guardian",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU1pMEdOaWxVMDdGQ0tybmMwXzJCLTBQcEVWeTZod0RicWhwUW5QWEctVlJNMnhnTE9kbVpDcVc0al95MXI2LWpVYXppRjhreko0Mlo5bXdXcGI5blc1S0pocHFDNUxRd2hTNnowQzdfNjZFLWg2NUEwYXVHcHJZdUhrWnlCbEFuTU10MmdNOHFlTzU0MUx3TDE2b2R0VWZ6V2Rrc1ZVVjNlZGpQVkRCWWZoNA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU1pMEdOaWxVMDdGQ0tybmMwXzJCLTBQcEVWeTZod0RicWhwUW5QWEctVlJNMnhnTE9kbVpDcVc0al95MXI2LWpVYXppRjhreko0Mlo5bXdXcGI5blc1S0pocHFDNUxRd2hTNnowQzdfNjZFLWg2NUEwYXVHcHJZdUhrWnlCbEFuTU10MmdNOHFlTzU0MUx3TDE2b2R0VWZ6V2Rrc1ZVVjNlZGpQVkRCWWZoNA",
-  "snippet": "Naicker rejects claims linking towing industry to drug trafficking Mail & Guardian",
-  "published": "2026-11-16T11:57:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T13:05:02.599605+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "3a98ebd6cc",
   "slug": "lapu-lapu-job-fair-offers-over-4-600-openings-3a98ebd6cc",
   "title": "Lapu-Lapu job fair offers over 4,600 openings",
@@ -33286,79 +33467,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "d37a2a6a06",
-  "slug": "congressman-taylor-champions-legislation-to-codify-cdl-fraud-tipline-d37a2a6a06",
-  "title": "Congressman Taylor Champions Legislation to Codify CDL Fraud Tipline",
-  "orig_title": "Congressman Taylor Champions Legislation to Codify CDL Fraud Tipline",
-  "summary": "Representative Dave Taylor (OH-02) introduced H.R. 11031, the CDL Fraud Tipline Act, which would make the Department of Homeland Security's CDL fraud tipline permanent in law. According to the release, the public can report suspected CDL fraud by calling (866) 347-2423, and the aim is to keep unqualified drivers from causing crashes. Ten other House members signed on as cosponsors. American Truckers United, which is a supporting organization of the bill, said fraudulent CDLs let underqualified drivers operate 80,000-pound trucks and cost truckers their livelihoods.",
-  "why": "",
-  "category": "regs",
-  "region": "US",
-  "importance": 57,
-  "source": "Scioto Post",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjJad0lIc3dQMTBWY3RRUUNtUDlRUGtRd2RFV3h2Qmh2bU56T2VXTnZWYlhtRmRxeEtLNEEtOEh1cjZuZVh0U1B4QVEwZGhRdTVUS2JmN3NpZkxWZzB2ZkVQSXpVRThMcDZvb3Z6aDM3TmRmWTdUSFZpam1BcGxJa3R6UEtLUUN4aWtWYjQ0ZXJSaHc0MjhXSjJLazI?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjJad0lIc3dQMTBWY3RRUUNtUDlRUGtRd2RFV3h2Qmh2bU56T2VXTnZWYlhtRmRxeEtLNEEtOEh1cjZuZVh0U1B4QVEwZGhRdTVUS2JmN3NpZkxWZzB2ZkVQSXpVRThMcDZvb3Z6aDM3TmRmWTdUSFZpam1BcGxJa3R6UEtLUUN4aWtWYjQ0ZXJSaHc0MjhXSjJLazI",
-  "snippet": "Congressman Taylor Champions Legislation to Codify CDL Fraud Tipline Scioto Post",
-  "published": "2026-11-16T08:44:56+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T13:05:02.599605+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Codify CDL-fraud tipline in law? | Near-5K trucks' driveshaft recalls"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://www.sciotopost.com/congressman-taylor-champions-legislation-to-codify-cdl-fraud-tipline/",
-  "source_note": "ok · 500 words",
-  "sum_done": true,
-  "sum_status": "published",
-  "source_fp": "3bc225248d3580c0",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-16T13:05:02.599605+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "introduction of H.R. 11031, the CDL Fraud Tipline Act"
-   },
-   {
-    "sentence": "1",
-    "quote": "codify the Commercial Driver’s License Fraud Tipline within the Department of Homeland Security"
-   },
-   {
-    "sentence": "2",
-    "quote": "(866) 347-2423"
-   },
-   {
-    "sentence": "2",
-    "quote": "help prevent unqualified drivers from endangering drivers"
-   },
-   {
-    "sentence": "3",
-    "quote": "joined Congressman Taylor in introducing this bill"
-   },
-   {
-    "sentence": "3",
-    "quote": "American Truckers United is a supporting organization of this bill."
-   },
-   {
-    "sentence": "4",
-    "quote": "Fraudulent and unlawfully issued CDLs put unqualified drivers behind the wheel of 80,000-pound trucks"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "drivers",
-  "ai_importance": 40,
-  "dup_of": "807d7939c7"
  },
  {
   "id": "b7031b0b38",

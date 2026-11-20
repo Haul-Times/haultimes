@@ -4121,7 +4121,9 @@
   "9a344ffa94": "skipped|importance 55 is below this platform's threshold (65)",
   "f7bba64d16": "skipped|importance 45 is below this platform's threshold (65)",
   "978b3d13af": "skipped|importance 61 is below this platform's threshold (65)",
-  "8573ce19e0": "skipped|importance 55 is below this platform's threshold (65)"
+  "8573ce19e0": "skipped|importance 55 is below this platform's threshold (65)",
+  "692ee1f651": "skipped|importance 57 is below this platform's threshold (65)",
+  "a02921b898": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -8652,6 +8654,20 @@
    "title": "Einride books $167M in contracted revenue, targets $250M",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T13:11:37.421532+00:00",
+   "story_id": "692ee1f651",
+   "title": "Descartes, Highway and Carrier411: The Technology Behind Freight Fraud Prevention",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T13:11:37.421532+00:00",
+   "story_id": "a02921b898",
+   "title": "Werner and Bennett turn AI dashcams toward crash prevention",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
