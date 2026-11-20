@@ -65,7 +65,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 42,
   "source": "Hoodline",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkNLTExxN2hXZm1JaVQ4Q3hNWTRQdVhobGwwQnl6ZXZwVWdOUm5XZXhyLU1iMzlkSGs2b1h6SXlqVW1ZTzJXMHRSOElOcFNkNTR6dHAxR2J2ZzNUckZQZDZvVkxKNHhRVVRadWVaSVRrVHUxR3plVjJUQVFRR0FtaEliM0FoWmFQa2NPZEU0RGpRdVNYYnRFSURR?oc=5",
@@ -90,14 +90,41 @@
   "sum_status": "withheld",
   "source_fp": "29e97f5cfebc7d31",
   "source_scope": "full_article",
-  "sum_at": "2026-11-20T03:41:05.906472+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-20T03:51:04.844256+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "charged 14 people, most of them from East Los Angeles"
+   },
+   {
+    "sentence": "2",
+    "quote": "cut train air hoses to force emergency stops"
+   },
+   {
+    "sentence": "3",
+    "quote": "run from February 2024 through August 2026"
+   },
+   {
+    "sentence": "4",
+    "quote": "13 defendants were arrested on a 17-count federal indictment"
+   },
+   {
+    "sentence": "5",
+    "quote": "life imprisonment for violence against railroad carriers"
+   },
+   {
+    "sentence": "6",
+    "quote": "nearly $725 million in 2025, up 60 percent"
+   }
   ],
-  "ai_importance": 42
+  "sum_problems": [
+   "copies a 12-word run from the source: 'the scheme is alleged to have run from february 2024 through august'"
+  ],
+  "ai_importance": 70,
+  "sum_v4": true,
+  "ai_category": "other"
  },
  {
   "id": "718873d654",
@@ -4488,6 +4515,35 @@
   "published": "2026-11-19T18:58:12+00:00",
   "date_known": true,
   "first_seen": "2026-11-19T19:11:03.777563+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "fe069df51b",
+  "slug": "scientists-succeed-in-growing-potatoes-in-simulated-moon-soil-fe069df51b",
+  "title": "Scientists succeed in growing potatoes in simulated moon soil",
+  "orig_title": "Scientists succeed in growing potatoes in simulated moon soil",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0o3M1c3OFZ3U0ljRHNVZ2ZUbXUzN3pabERaemFrWFB2MUZ3aEN4bTA4bWw2RVNyQ2Z0b1hqRmZ6REx0QWswREp3UWpyb2Z6WVFRNG92MTdDOTNGT3FrZG5FdGVTdXBxQ0JBWnMtc1N3RUR1MzVxQmhkRHBjdThqSFNiRE1ZU09WeC1hU2VIbzZYZkdXR0NLZWFYbXBXVnhjVmRQSQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0o3M1c3OFZ3U0ljRHNVZ2ZUbXUzN3pabERaemFrWFB2MUZ3aEN4bTA4bWw2RVNyQ2Z0b1hqRmZ6REx0QWswREp3UWpyb2Z6WVFRNG92MTdDOTNGT3FrZG5FdGVTdXBxQ0JBWnMtc1N3RUR1MzVxQmhkRHBjdThqSFNiRE1ZU09WeC1hU2VIbzZYZkdXR0NLZWFYbXBXVnhjVmRQSQ",
+  "snippet": "Scientists succeed in growing potatoes in simulated moon soil CTV News",
+  "published": "2026-11-19T18:57:20+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T03:51:04.844256+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -9027,6 +9083,35 @@
   "sum_problems": [],
   "ai_category": "equip",
   "ai_importance": 30
+ },
+ {
+  "id": "2b55f392fb",
+  "slug": "6-takeaways-from-carney-s-tour-of-asia-ireland-2b55f392fb",
+  "title": "6 takeaways from Carney’s tour of Asia, Ireland",
+  "orig_title": "6 takeaways from Carney’s tour of Asia, Ireland",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzJqNUxMMV9aMXlvRzVQaFZpdHNqa3FpZU9qaE54NzdpNXVReVZHZ3UzSWtOMFhySk5seDB3VFREMS0xN2ZGZF9Ca3RjYk5wZ1BUUzVmSHRGaDhhQzM1bjZmTVlGUGxXYzJkSVR2WTllbWx3TWJLdlkzU1BJaVZab0s2LU1aWGRlbnFJMkNpWQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzJqNUxMMV9aMXlvRzVQaFZpdHNqa3FpZU9qaE54NzdpNXVReVZHZ3UzSWtOMFhySk5seDB3VFREMS0xN2ZGZF9Ca3RjYk5wZ1BUUzVmSHRGaDhhQzM1bjZmTVlGUGxXYzJkSVR2WTllbWx3TWJLdlkzU1BJaVZab0s2LU1aWGRlbnFJMkNpWQ",
+  "snippet": "6 takeaways from Carney’s tour of Asia, Ireland CTV News",
+  "published": "2026-11-19T11:00:52+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T03:51:04.844256+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "36914313d4",
