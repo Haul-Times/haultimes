@@ -1,5 +1,67 @@
 [
  {
+  "id": "75c2ee4977",
+  "slug": "louisiana-truckers-seek-insurance-and-lawsuit-reforms-amid-staged-cras-75c2ee4977",
+  "title": "Louisiana Truckers Seek Insurance and Lawsuit Reforms Amid Staged-Crash Cases",
+  "orig_title": "Louisiana Truckers Seek Insurance and Lawsuit Reforms Amid Staged-Crash Cases",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 20,
+  "source": "Program Business",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjA1WTZTeGZDY3ZoaG9STnZxbldjczR4c1B6eE1jWkJkckg3dWV6QnlwUVN5aXlKT1E3WldkaDJMSnU2U0I5X1ZNZUl1VmVQTmEzR3F3c1Z0T3Jla2Q1TWRMV2tSZFU2OHpQNmR4Y0VJaFdoWUV0QXJzWkFQR0RMTkpmbjMxWFE1cC1xSXE0VVlmR1VQbEo4R2dVM3gxRTJNNnpfaElHSFF3VzFzWTRzVA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjA1WTZTeGZDY3ZoaG9STnZxbldjczR4c1B6eE1jWkJkckg3dWV6QnlwUVN5aXlKT1E3WldkaDJMSnU2U0I5X1ZNZUl1VmVQTmEzR3F3c1Z0T3Jla2Q1TWRMV2tSZFU2OHpQNmR4Y0VJaFdoWUV0QXJzWkFQR0RMTkpmbjMxWFE1cC1xSXE0VVlmR1VQbEo4R2dVM3gxRTJNNnpfaElHSFF3VzFzWTRzVA",
+  "snippet": "Louisiana Truckers Seek Insurance and Lawsuit Reforms Amid Staged-Crash Cases Program Business",
+  "published": "2026-11-20T14:05:52+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:11:07.604813+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Louisiana truckers push for reforms amid staged-crash trials"
+  ],
+  "labels": [],
+  "kind": "incident",
+  "sum_pending": false,
+  "dup_of": "9a5a49f65b"
+ },
+ {
+  "id": "0df12fe063",
+  "slug": "14-charged-in-22-5-million-cargo-theft-ring-that-stopped-moving-freigh-0df12fe063",
+  "title": "14 charged in $22.5 million cargo theft ring that stopped moving freight trains",
+  "orig_title": "14 charged in $22.5 million cargo theft ring that stopped moving freight trains",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 73,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUJGcF9RdGFOajNaTVpNMFRRNFRiQ0N5VldFbVZMbVlTYk1HYzdjMmpmcmZBdEtSOGhINVp6SUJOaERzMXA3T19obDU3ZDZ6NXhQZU5Vb0oxekFCTTZuOG9IU1ZaNUl2N2ZtZENSWHZieHpXNm5RbENOOUk2YThXcDdkWW9CTDdFZFZZcWp6NjdXVmFqcDRpZC1FenJ2QXRWR24xNkppVm84MVRmVzNkSzR3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUJGcF9RdGFOajNaTVpNMFRRNFRiQ0N5VldFbVZMbVlTYk1HYzdjMmpmcmZBdEtSOGhINVp6SUJOaERzMXA3T19obDU3ZDZ6NXhQZU5Vb0oxekFCTTZuOG9IU1ZaNUl2N2ZtZENSWHZieHpXNm5RbENOOUk2YThXcDdkWW9CTDdFZFZZcWp6NjdXVmFqcDRpZC1FenJ2QXRWR24xNkppVm84MVRmVzNkSzR3",
+  "snippet": "14 charged in $22.5 million cargo theft ring that stopped moving freight trains FreightWaves",
+  "published": "2026-11-20T13:57:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:11:07.604813+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/14-charged-in-22-5-million-cargo-theft-ring-that-stopped-moving-freight-trains",
+  "source_note": "paywalled: excerpt only · 21 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "99333524cb",
   "slug": "truckers-say-no-to-off-duty-drug-test-notifications-99333524cb",
   "title": "Truckers say no to off-duty drug-test notifications",
@@ -31,6 +93,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "6cbb8226f6",
+  "slug": "oil-prices-drop-on-robust-supply-6cbb8226f6",
+  "title": "Oil prices drop on robust supply",
+  "orig_title": "Oil prices drop on robust supply",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HUUFXQ0V2a3U4S01IeFJFbmFEWThjOUhCWFhTaGRjWnRTYW5jYW5ENnhURDdLcHVyRHlGQTJ1NTQzSXA5YkRXUDZSdjZVZGxZWHRtMEs4ck05UDZabVRjU1RkZ2tqQms?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HUUFXQ0V2a3U4S01IeFJFbmFEWThjOUhCWFhTaGRjWnRTYW5jYW5ENnhURDdLcHVyRHlGQTJ1NTQzSXA5YkRXUDZSdjZVZGxZWHRtMEs4ck05UDZabVRjU1RkZ2tqQms",
+  "snippet": "Oil prices drop on robust supply Transport Topics",
+  "published": "2026-11-20T13:40:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:11:07.604813+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "826b647147",
   "slug": "unsafe-truck-drivers-could-be-public-outed-under-new-alberta-law-826b647147",
   "title": "Unsafe truck drivers could be public outed under new Alberta law",
@@ -55,7 +146,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ctvnews.ca/calgary/article/unsafe-truck-drivers-could-be-publicly-outed-under-proposed-alberta-law/",
   "source_note": "ok · 318 words"
@@ -254,6 +345,35 @@
   "ai_importance": 30,
   "pending_summary": "The Wooley Law Firm reported that Texas recorded 3,927 crashes involving commercial motor vehicles in October 2026, citing TxDOT crash records. Those crashes produced 42 deaths and 1,304 reported injuries, including 146 suspected serious injuries. The firm said the crash count rose about 4.7% from September's 3,749 identifiable records, while reported injuries fell about 2.9%.\n\nDallas County recorded 372 commercial vehicle crashes, five deaths and 151 injuries, and Dallas city limits had 227 crashes. Within Dallas, Interstate 20 led with 31 crashes, followed by Interstate 35E with 25 and Interstate 30 with 23. The firm cautioned that these are raw counts, not rates adjusted for traffic volume or miles traveled.",
   "pending_why": ""
+ },
+ {
+  "id": "986e8acadf",
+  "slug": "foggy-weather-causing-poor-visibility-in-southern-manitoba-986e8acadf",
+  "title": "Foggy weather causing poor visibility in southern Manitoba",
+  "orig_title": "Foggy weather causing poor visibility in southern Manitoba",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam1hcDBzSEFINFRDTmUzcW52UjV3TTBScU11T1ZhME54cTZhYUQ5enZwTWd3V09KRWEzTktBRHJxVWVtZlZhdzhZYVBRYmduS0ZrU1MtYlNKQkNEcmVET1h0RUswVDNJSzlMY0JZZGFzQmtyY0RMMkdQSUJjR1NMZ3YxVGZTWmxiWlVqdk40NUVTSnBUNno4LWRiUXBrUllW?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam1hcDBzSEFINFRDTmUzcW52UjV3TTBScU11T1ZhME54cTZhYUQ5enZwTWd3V09KRWEzTktBRHJxVWVtZlZhdzhZYVBRYmduS0ZrU1MtYlNKQkNEcmVET1h0RUswVDNJSzlMY0JZZGFzQmtyY0RMMkdQSUJjR1NMZ3YxVGZTWmxiWlVqdk40NUVTSnBUNno4LWRiUXBrUllW",
+  "snippet": "Foggy weather causing poor visibility in southern Manitoba CTV News",
+  "published": "2026-11-20T12:32:16+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:11:07.604813+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8573ce19e0",
@@ -821,7 +941,7 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
   ],
   "labels": [],
   "kind": "news",
@@ -849,7 +969,7 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 55,
-  "dup_of": "c02dac559f"
+  "dup_of": "0df12fe063"
  },
  {
   "id": "ef0b2b9376",
@@ -1169,7 +1289,7 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
   ],
   "labels": [],
   "kind": "news",
@@ -1216,7 +1336,7 @@
   "ai_importance": 70,
   "sum_v4": true,
   "ai_category": "other",
-  "dup_of": "c02dac559f"
+  "dup_of": "0df12fe063"
  },
  {
   "id": "14c548c16c",
@@ -1300,12 +1420,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "c02dac559f"
+  "dup_of": "0df12fe063"
  },
  {
   "id": "458d02d934",
@@ -2860,6 +2980,36 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "b003698beb",
+  "slug": "rising-liability-claim-costs-squeeze-trucking-insurers-transunion-says-b003698beb",
+  "title": "Rising liability claim costs squeeze trucking insurers, TransUnion says",
+  "orig_title": "Rising liability claim costs squeeze trucking insurers, TransUnion says",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 56,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVBQX0JLX3REYmhPX2ZlbU1FUjhPQ0VrNGJqc2VrbHZJMWMwMWk3dkhnV2RGdnd2Z3dyZ2VreC10Y3dyb0QzeXgxZmE2amlpVC1JTG9OVTY1UFJuVkRMNXlZUkpEXy1mZW1yZDVEN3BDUnB2a3B6Yl9RNUJ3VUhpV0Z1NDdGZUR4TWtrZVN0a3c0eTNHX21FaU56VVBBcHNJSU11Y0s0dkpva3Zja0F2Rk12NVNQa3FMNkF2Sg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVBQX0JLX3REYmhPX2ZlbU1FUjhPQ0VrNGJqc2VrbHZJMWMwMWk3dkhnV2RGdnd2Z3dyZ2VreC10Y3dyb0QzeXgxZmE2amlpVC1JTG9OVTY1UFJuVkRMNXlZUkpEXy1mZW1yZDVEN3BDUnB2a3B6Yl9RNUJ3VUhpV0Z1NDdGZUR4TWtrZVN0a3c0eTNHX21FaU56VVBBcHNJSU11Y0s0dkpva3Zja0F2Rk12NVNQa3FMNkF2Sg",
+  "snippet": "Rising liability claim costs squeeze trucking insurers, TransUnion says TheTrucker.com",
+  "published": "2026-11-19T22:35:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:11:07.604813+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/rising-liability-claim-costs-squeeze-trucking-insurers-transunion-says",
+  "source_note": "ok · 310 words"
  },
  {
   "id": "a7d0b8ef59",
@@ -7011,6 +7161,35 @@
   "published": "2026-11-19T18:13:40+00:00",
   "date_known": true,
   "first_seen": "2026-11-19T22:41:07.213649+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "cffd0f98ae",
+  "slug": "site-selected-for-new-elementary-school-in-southeast-fredericton-cffd0f98ae",
+  "title": "Site selected for new elementary school in southeast Fredericton",
+  "orig_title": "Site selected for new elementary school in southeast Fredericton",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSE9xaVdkOVJNRENyMWJ1RUQyeDRNNlpxZ2xIcm9PNGRJOF81bnJwQXJQQTVxaVc3SUJ5MU1hYW9RT1drRm9SQnRlT2hidU5mWnZMcnZzS2dUWm1ENHB2Z1J5ZWd1RzAxV3pTSkVpT3duZWgzWm5YLVBOcWJ0dDdNc0RfaTNnNnkxRUZYZDhUX3ppN3FYWDhyQWhLa3VPZjYzdzNIZUZYa1NCMWVNaThmVWx2LUR4UkFjcDFz?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSE9xaVdkOVJNRENyMWJ1RUQyeDRNNlpxZ2xIcm9PNGRJOF81bnJwQXJQQTVxaVc3SUJ5MU1hYW9RT1drRm9SQnRlT2hidU5mWnZMcnZzS2dUWm1ENHB2Z1J5ZWd1RzAxV3pTSkVpT3duZWgzWm5YLVBOcWJ0dDdNc0RfaTNnNnkxRUZYZDhUX3ppN3FYWDhyQWhLa3VPZjYzdzNIZUZYa1NCMWVNaThmVWx2LUR4UkFjcDFz",
+  "snippet": "Site selected for new elementary school in southeast Fredericton CTV News",
+  "published": "2026-11-19T18:13:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:11:07.604813+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -25178,6 +25357,35 @@
   "dup_of": "47458eb868"
  },
  {
+  "id": "7f58a7eca4",
+  "slug": "driver-charged-with-pointing-a-firearm-on-highway-403-7f58a7eca4",
+  "title": "Driver charged with pointing a firearm on Highway 403",
+  "orig_title": "Driver charged with pointing a firearm on Highway 403",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXhoQW1NU2N2YnVYSTdpNlRxMG8yX3o2ek4xQ01WaTd0WUJhSnN1ZURzV1kyekNaaDVLakpZQm9EdGNNbVJTQVN5TjJIQXNlUFR4R0pTX3UyRkR4bjludldQM2x2MVRtbFdORHZYWWJPdXNsX1FzWUNjMlRtaElJYWZfaVdHYU1PYWkzQmI0U3ZWeFJJSmg4Rmc0QQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXhoQW1NU2N2YnVYSTdpNlRxMG8yX3o2ek4xQ01WaTd0WUJhSnN1ZURzV1kyekNaaDVLakpZQm9EdGNNbVJTQVN5TjJIQXNlUFR4R0pTX3UyRkR4bjludldQM2x2MVRtbFdORHZYWWJPdXNsX1FzWUNjMlRtaElJYWZfaVdHYU1PYWkzQmI0U3ZWeFJJSmg4Rmc0QQ",
+  "snippet": "Driver charged with pointing a firearm on Highway 403 CTV News",
+  "published": "2026-11-17T20:07:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:11:07.604813+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "cf805c78a2",
   "slug": "elmira-driver-charged-for-speeding-past-tow-truck-and-police-cruiser-a-cf805c78a2",
   "title": "Elmira driver charged for speeding past tow truck and police cruiser at side of the road",
@@ -27446,6 +27654,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "f3a27e1e2d",
+  "slug": "suspect-charged-after-alleged-assault-on-east-end-pathway-ottawa-polic-f3a27e1e2d",
+  "title": "Suspect charged after alleged assault on east end pathway: Ottawa police",
+  "orig_title": "Suspect charged after alleged assault on east end pathway: Ottawa police",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2ZMYVN4ckV3S0JiVEg1eXVTMWhLRXpFRG1ubW1Ja21lQWJsTWFLZ3VCaURReERTemtXbVd0WXNWWGNKLXVoREFIX2xqaGpNQ21PeWFfTGtQazFlVlBYeU95Qko1LWwwdlgwTGlfbGgyOWdBNjV1V2s0M3BCdzdlVnBmQXdOLXJnTU5JTTVGVzRtY2JXREZKSlNxOE03bklpQTgtcklscFBJY3doWWNF?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2ZMYVN4ckV3S0JiVEg1eXVTMWhLRXpFRG1ubW1Ja21lQWJsTWFLZ3VCaURReERTemtXbVd0WXNWWGNKLXVoREFIX2xqaGpNQ21PeWFfTGtQazFlVlBYeU95Qko1LWwwdlgwTGlfbGgyOWdBNjV1V2s0M3BCdzdlVnBmQXdOLXJnTU5JTTVGVzRtY2JXREZKSlNxOE03bklpQTgtcklscFBJY3doWWNF",
+  "snippet": "Suspect charged after alleged assault on east end pathway: Ottawa police CTV News",
+  "published": "2026-11-17T14:29:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T14:11:07.604813+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e8a70e71cd",
@@ -33908,35 +34145,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "248d238b32",
-  "slug": "zacc-arrests-two-agents-over-lithium-smuggling-248d238b32",
-  "title": "ZACC arrests two agents over lithium smuggling",
-  "orig_title": "ZACC arrests two agents over lithium smuggling",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Herald.co.zw",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXF3RmhyOFdpRDFVNXdRVDZsNVZRY2ZYSWc4NE9IcUp2YXpsRDhJQy15eHRINzBVaFdlaUNNMl9uYTdma29uRWJfQXdMWXRpRnNVMGpKTGxFQXhjbmtKYk1FTk43VTZidmhKaDdzQUt6WnRrM3RRYzV2cnVGN1NzUHF4Mkw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXF3RmhyOFdpRDFVNXdRVDZsNVZRY2ZYSWc4NE9IcUp2YXpsRDhJQy15eHRINzBVaFdlaUNNMl9uYTdma29uRWJfQXdMWXRpRnNVMGpKTGxFQXhjbmtKYk1FTk43VTZidmhKaDdzQUt6WnRrM3RRYzV2cnVGN1NzUHF4Mkw",
-  "snippet": "ZACC arrests two agents over lithium smuggling Herald.co.zw",
-  "published": "2026-11-16T13:50:02+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T14:10:07.456079+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "3291ae1daf",
   "slug": "going-inside-ford-s-car-vault-filled-with-concepts-mustangs-and-gts-3291ae1daf",
   "title": "Going inside Ford's car vault filled with concepts, Mustangs and GTs",
@@ -34145,36 +34353,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "0c45fb9731",
-  "slug": "microvision-lidar-powers-commercial-driverless-trucking-at-scale-with-0c45fb9731",
-  "title": "MicroVision Lidar Powers Commercial Driverless Trucking at Scale with Kodiak AI",
-  "orig_title": "MicroVision Lidar Powers Commercial Driverless Trucking at Scale with Kodiak AI",
-  "summary": "",
-  "why": "",
-  "category": "equip",
-  "region": "",
-  "importance": 50,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZERMMHRCVXJnZ0tXeVFqVWFQYmE4UzBXcC16NDV2X05pWDlzSDh6RkdublBNS2dEZWNONlh5NkNkd3pKdlhCLTNHeXZXTmNrV0hJYnB4QXpsVUstSXhkSkVNbHAyc3BYY1g1WUlRY3NzRlVBMEx1QjUyXzVISnBYa2FKd2NWZnIzNndUWERoa1Rsc2s3dFY1ZEtEUWY3QlVLRXdvQ2JZdnN1a3g2THVSX3lCZ2ttRnBBTzdPdHVUekwyQmxhRVp3ZXU4NzdkTUNaQWpzM3N5bThST3BzWlNZbUR4bjhlUnJXNG1GMk9HanhfUjAxOGo4bVg2dTRXQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZERMMHRCVXJnZ0tXeVFqVWFQYmE4UzBXcC16NDV2X05pWDlzSDh6RkdublBNS2dEZWNONlh5NkNkd3pKdlhCLTNHeXZXTmNrV0hJYnB4QXpsVUstSXhkSkVNbHAyc3BYY1g1WUlRY3NzRlVBMEx1QjUyXzVISnBYa2FKd2NWZnIzNndUWERoa1Rsc2s3dFY1ZEtEUWY3QlVLRXdvQ2JZdnN1a3g2THVSX3lCZ2ttRnBBTzdPdHVUekwyQmxhRVp3ZXU4NzdkTUNaQWpzM3N5bThST3BzWlNZbUR4bjhlUnJXNG1GMk9HanhfUjAxOGo4bVg2dTRXQQ",
-  "snippet": "MicroVision Lidar Powers Commercial Driverless Trucking at Scale with Kodiak AI The Globe and Mail",
-  "published": "2026-11-16T13:00:39+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T14:10:07.456079+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Kodiak AI taps MicroVision lidar for driverless highway trucking launch"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "6f17397a00"
- },
- {
   "id": "2e21e84e56",
   "slug": "meta-backs-deployment-of-25-electric-trucks-on-california-arizona-frei-2e21e84e56",
   "title": "Meta backs deployment of 25 electric trucks on California-Arizona freight corridor",
@@ -34296,35 +34474,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "ab1efe7312",
-  "slug": "diesel-falls-below-6-a-gallon-easing-key-inflationary-pressure-ab1efe7312",
-  "title": "Diesel Falls Below $6 a Gallon, Easing Key Inflationary Pressure",
-  "orig_title": "Diesel Falls Below $6 a Gallon, Easing Key Inflationary Pressure",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXVZTFNXYWhOWE1yWF9QVjBNMUlCU3ZTNTVqUjUzaXNYTVh2TnFrQUN2MXk1UHZReDFTa3lfSTlseXJNNTNfV2NCSjlRVXpKTDY5NDFXZjhvbTB0OHBtajhQSDdhY3dSSW1kdzJvcG85ZTdUWFhQRDU2c0IyLVQ3NmtFMUFONVRVanF1dTVJWmJIb3dlaUY2dm4zSkd1NDVCaGxnaUNBM1k1dUlLVUdYR2NEQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXVZTFNXYWhOWE1yWF9QVjBNMUlCU3ZTNTVqUjUzaXNYTVh2TnFrQUN2MXk1UHZReDFTa3lfSTlseXJNNTNfV2NCSjlRVXpKTDY5NDFXZjhvbTB0OHBtajhQSDdhY3dSSW1kdzJvcG85ZTdUWFhQRDU2c0IyLVQ3NmtFMUFONVRVanF1dTVJWmJIb3dlaUY2dm4zSkd1NDVCaGxnaUNBM1k1dUlLVUdYR2NEQQ",
-  "snippet": "Diesel Falls Below $6 a Gallon, Easing Key Inflationary Pressure Bloomberg.com",
-  "published": "2026-11-16T09:17:11+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T14:10:07.456079+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "b7031b0b38",
