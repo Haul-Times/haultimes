@@ -4125,7 +4125,8 @@
   "692ee1f651": "skipped|importance 57 is below this platform's threshold (65)",
   "a02921b898": "skipped|minor item (incident) or low-quality source",
   "50409fd411": "skipped|minor item (incident) or low-quality source",
-  "826b647147": "skipped|importance 50 is below this platform's threshold (65)"
+  "826b647147": "skipped|importance 50 is below this platform's threshold (65)",
+  "99333524cb": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8684,6 +8685,13 @@
    "title": "Unsafe truck drivers could be public outed under new Alberta law",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T14:01:27.499862+00:00",
+   "story_id": "99333524cb",
+   "title": "Truckers say no to off-duty drug-test notifications",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
