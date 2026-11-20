@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:11:03.920272+00:00",
+ "updated": "2026-11-20T13:21:04.006749+00:00",
  "hour_now": 8,
  "have_us": true,
  "have_ca": true,
@@ -14,7 +14,7 @@
     "fast_wait": 5,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 am EST",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 am EST",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:57 am EST",
+    "updated": "At 8:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 7:57 am EST",
+    "status": "delay",
+    "updated": "At 8:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -332,7 +332,7 @@
      0,
      0,
      0,
-     4,
+     5,
      0,
      0,
      0,
@@ -407,7 +407,7 @@
      5,
      5,
      5,
-     3,
+     4,
      0,
      0,
      0,
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 am CST",
+    "updated": "At 9:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "08:01:21",
+    "updated": "08:16:22",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "08:01:21",
+    "updated": "08:16:22",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "07:01:21",
+    "updated": "07:16:23",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1300,7 +1300,7 @@
      0,
      0,
      0,
-     15,
+     13,
      3,
      0,
      0,
@@ -1457,8 +1457,8 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 10,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
