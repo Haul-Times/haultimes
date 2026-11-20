@@ -1,5 +1,34 @@
 [
  {
+  "id": "5e04e4828d",
+  "slug": "16-year-old-killed-in-hit-and-run-on-b-c-s-sunshine-coast-rcmp-5e04e4828d",
+  "title": "16-year-old killed in hit-and-run on B.C.’s Sunshine Coast: RCMP",
+  "orig_title": "16-year-old killed in hit-and-run on B.C.’s Sunshine Coast: RCMP",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR040NzYtaFRGYmNiMkh6NGZNUDA2cjdNN1ZsNnVhWWZsSmdRRTJuNEFUQnpZMUs1VW1qbVhhOVd5V0RKZ2hyQ1NiNy10R2V6NEQ4TkNzTlN2NVpCT2NHM3NCQ2tjUmkxaVhuNFVxZnRYeGlabVFoajlRQWpyZzJLQmxDQWIwckdmdkxQSkZ1QVJTTlZreThBR0lZRXU3NjM4YVl2STVPU3MtQm8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR040NzYtaFRGYmNiMkh6NGZNUDA2cjdNN1ZsNnVhWWZsSmdRRTJuNEFUQnpZMUs1VW1qbVhhOVd5V0RKZ2hyQ1NiNy10R2V6NEQ4TkNzTlN2NVpCT2NHM3NCQ2tjUmkxaVhuNFVxZnRYeGlabVFoajlRQWpyZzJLQmxDQWIwckdmdkxQSkZ1QVJTTlZreThBR0lZRXU3NjM4YVl2STVPU3MtQm8",
+  "snippet": "16-year-old killed in hit-and-run on B.C.’s Sunshine Coast: RCMP CTV News",
+  "published": "2026-11-20T19:27:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T19:31:22.148737+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "1727c04445",
   "slug": "e-biker-charged-with-impaired-following-traffic-stop-opp-1727c04445",
   "title": "E-biker charged with impaired following traffic stop: OPP",
@@ -2617,6 +2646,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "b6d0525ffb",
+  "slug": "brazilian-students-burn-fish-bones-to-make-a-clean-water-filter-b6d0525ffb",
+  "title": "Brazilian students burn fish bones to make a clean water filter",
+  "orig_title": "Brazilian students burn fish bones to make a clean water filter",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOG04RkdrX3h0QVhQaVBmdW1POU5lRDYwalhxRUhIcDRydE1jdHN2WmRIeWUwMlEtbUlzaFRyb2tiSnZnVlNkclhFeGtzTUFKYUhiZFdRRlgzUEtVRHFPazQwdUJvUGNacm40MHpVYUY4endZa2REdTFWd0tfMFRrWGEwOFAtRl9VMlJxZS1INGdNWGl5cnNpaG54Vk9WSFlsUXd3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOG04RkdrX3h0QVhQaVBmdW1POU5lRDYwalhxRUhIcDRydE1jdHN2WmRIeWUwMlEtbUlzaFRyb2tiSnZnVlNkclhFeGtzTUFKYUhiZFdRRlgzUEtVRHFPazQwdUJvUGNacm40MHpVYUY4endZa2REdTFWd0tfMFRrWGEwOFAtRl9VMlJxZS1INGdNWGl5cnNpaG54Vk9WSFlsUXd3",
+  "snippet": "Brazilian students burn fish bones to make a clean water filter CTV News",
+  "published": "2026-11-20T15:22:08+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T19:31:22.148737+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -31300,6 +31358,35 @@
   "sum_pending": false
  },
  {
+  "id": "65a7d57651",
+  "slug": "two-people-charged-shotgun-cocaine-and-oxycodone-seized-during-ohsweke-65a7d57651",
+  "title": "Two people charged, shotgun, cocaine and oxycodone seized during Ohsweken search",
+  "orig_title": "Two people charged, shotgun, cocaine and oxycodone seized during Ohsweken search",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXRBLUZqdV9GZDcxUl9sSURNQ1Q5SnF0TUZlYnZNOGo0cF9YRDNKUHBvZ3pfR0FtVUZoZ2Nkd21QRDdublRjSDlpRlQ5R0pKeXpYWnV1RmhQdC1YS21IS1ktRUFXdkZXUkdkN2JsTE1LY21sRWFVUFp3dWl6UW1oTkVseGtLM04xUm55RTFEOW4tcTdsU0xNdDVWejl3MVU3dVhxeVBPTC1QUEFyVlpQd1FHTHZ6ZVdraWx5OQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXRBLUZqdV9GZDcxUl9sSURNQ1Q5SnF0TUZlYnZNOGo0cF9YRDNKUHBvZ3pfR0FtVUZoZ2Nkd21QRDdublRjSDlpRlQ5R0pKeXpYWnV1RmhQdC1YS21IS1ktRUFXdkZXUkdkN2JsTE1LY21sRWFVUFp3dWl6UW1oTkVseGtLM04xUm55RTFEOW4tcTdsU0xNdDVWejl3MVU3dVhxeVBPTC1QUEFyVlpQd1FHTHZ6ZVdraWx5OQ",
+  "snippet": "Two people charged, shotgun, cocaine and oxycodone seized during Ohsweken search CTV News",
+  "published": "2026-11-17T20:17:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T19:31:22.148737+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "305c99b4bb",
   "slug": "ottawa-police-service-board-approves-2-year-contract-extension-for-pol-305c99b4bb",
   "title": "Ottawa Police Service Board approves 2-year contract extension for Police Chief Eric Stubbs",
@@ -38837,35 +38924,6 @@
   "ai_importance": 70
  },
  {
-  "id": "2873689a08",
-  "slug": "another-fuel-price-rollback-on-november-17-fuel-prices-will-go-down-ag-2873689a08",
-  "title": "Another fuel price rollback on November 17 Fuel prices will go down again starting Tuesday, November 17, especially diesel and kerosene. Full story: https://www.rappler.com/business/fuel-prices-adjustments-november-17-2026/",
-  "orig_title": "Another fuel price rollback on November 17 Fuel prices will go down again starting Tuesday, November 17, especially diesel and kerosene. Full story: https://www.rappler.com/business/fuel-prices-adjustments-november-17-2026/",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Facebook",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa01Ld0ZXdU5RV3FjYWpQMEFOVVJaTnpGLTl2OEhxV1hVNGxfWWpKQ2ZvVUpjcWhvVWNYbENrSmVsalFLX2M3a1RNUjl2eGFXcUJoNXJ6U2luc3J3OXZTT0FpcDg4d2lJN0RUc1RtOXFFUnUtaVJDQ0NTMVFMQmZ6c0FqclNtLUN4TVRKYUNqQUFTYjVqUDhJdzF5bGd3aTA1bEtNVjIxdmF5anJUOW85Q2J2YmJBNkowNzM2SmRLdDVaU1Y2UTJvVDc2aW9QSnVXU1I0b2tCOFV6cXZq?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa01Ld0ZXdU5RV3FjYWpQMEFOVVJaTnpGLTl2OEhxV1hVNGxfWWpKQ2ZvVUpjcWhvVWNYbENrSmVsalFLX2M3a1RNUjl2eGFXcUJoNXJ6U2luc3J3OXZTT0FpcDg4d2lJN0RUc1RtOXFFUnUtaVJDQ0NTMVFMQmZ6c0FqclNtLUN4TVRKYUNqQUFTYjVqUDhJdzF5bGd3aTA1bEtNVjIxdmF5anJUOW85Q2J2YmJBNkowNzM2SmRLdDVaU1Y2UTJvVDc2aW9QSnVXU1I0b2tCOFV6cXZq",
-  "snippet": "Another fuel price rollback on November 17 Fuel prices will go down again starting Tuesday, November 17, especially diesel and kerosene. Full story: https://www.rappler.com/business/fuel-prices-adjustments-november-17-2026/ Facebook",
-  "published": "2026-11-16T16:22:03+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T19:21:05.676064+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "79bebecd88",
   "slug": "ups-accident-in-miami-sidelines-767-freighter-during-busy-shipping-sea-79bebecd88",
   "title": "UPS accident in Miami sidelines 767 freighter during busy shipping season",
@@ -40206,35 +40264,6 @@
   ],
   "labels": [],
   "kind": "review",
-  "sum_pending": false
- },
- {
-  "id": "586a516a6b",
-  "slug": "iea-to-decide-on-details-of-diesel-stocks-release-next-week-sources-sa-586a516a6b",
-  "title": "IEA to Decide on Details of Diesel Stocks Release Next Week, Sources Say, as Market Confusion Grows",
-  "orig_title": "IEA to Decide on Details of Diesel Stocks Release Next Week, Sources Say, as Market Confusion Grows",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR01EcVN4elAtY3lMSUoxalhpZ0E1ZThLdHRpU2ZWdWZfR1VCM2tuaFF0MUltUmU0cE9fbmtUdHlFN2JsMmhybWVJWnp3clEyVUVETFVrMnB2MkQxX1RGaWhWT2NRZGtKN3lEZlFBcnJaQnJjZzdtb3VJZ0hoOWx0MGFDRHQzeTNucGlQemhMRm1fZEplOVU1eFdxSzZIMDBERTc3NGJEcEtsb19SbDlLYk1Cdk5USXpDdmRwMVpuZmRyelZlQkdB?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR01EcVN4elAtY3lMSUoxalhpZ0E1ZThLdHRpU2ZWdWZfR1VCM2tuaFF0MUltUmU0cE9fbmtUdHlFN2JsMmhybWVJWnp3clEyVUVETFVrMnB2MkQxX1RGaWhWT2NRZGtKN3lEZlFBcnJaQnJjZzdtb3VJZ0hoOWx0MGFDRHQzeTNucGlQemhMRm1fZEplOVU1eFdxSzZIMDBERTc3NGJEcEtsb19SbDlLYk1Cdk5USXpDdmRwMVpuZmRyelZlQkdB",
-  "snippet": "IEA to Decide on Details of Diesel Stocks Release Next Week, Sources Say, as Market Confusion Grows EnergyNow.com",
-  "published": "2026-11-15T13:12:27+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T19:31:07.594458+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
