@@ -4396,7 +4396,8 @@
   "72fe5a4205": "skipped|minor item (incident) or low-quality source",
   "4300ecbcef": "skipped|minor item (news) or low-quality source",
   "b435c10f48": "skipped|importance 55 is below this platform's threshold (65)",
-  "e165c06f69": "skipped|minor item (announcement) or low-quality source"
+  "e165c06f69": "skipped|minor item (announcement) or low-quality source",
+  "1220ce8260": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9095,6 +9096,13 @@
    "title": "Groundtruth launches AI platform to automate freight billing with J.B. Hunt partnership",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T18:31:33.895343+00:00",
+   "story_id": "1220ce8260",
+   "title": "North Dakota drillers tap trucks during pipeline outage",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
