@@ -15690,6 +15690,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "b4a662d062",
+  "slug": "suspects-identified-in-apple-pay-account-fraud-cps-b4a662d062",
+  "title": "Suspects identified in Apple Pay account fraud: CPS",
+  "orig_title": "Suspects identified in Apple Pay account fraud: CPS",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHFHT2ZyMThJZkR2cjcwbUtiVlNlOElQUlc0OG03cXI0bFRiTnptN2JycHBldVpMUWNERi1hczROZEhYMlVKLWlEczN2d09oOVF3NE9jNENjcFFLUTZSQkljdjFIbkFlVFdubnZRWFE5QjEzQzllYUtrREVhdUZudDBNcWVxaDdBVnVaTExSc0VJR3NG?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHFHT2ZyMThJZkR2cjcwbUtiVlNlOElQUlc0OG03cXI0bFRiTnptN2JycHBldVpMUWNERi1hczROZEhYMlVKLWlEczN2d09oOVF3NE9jNENjcFFLUTZSQkljdjFIbkFlVFdubnZRWFE5QjEzQzllYUtrREVhdUZudDBNcWVxaDdBVnVaTExSc0VJR3NG",
+  "snippet": "Suspects identified in Apple Pay account fraud: CPS CTV News",
+  "published": "2026-11-18T18:51:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T11:11:05.150628+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c7dbd2f0a4",
   "slug": "abf-freight-workers-uncover-1-5m-drug-shipment-headed-to-ohio-c7dbd2f0a4",
   "title": "ABF Freight workers uncover $1.5M drug shipment headed to Ohio",
@@ -32729,35 +32758,6 @@
   "sum_pending": false
  },
  {
-  "id": "d6edbec66c",
-  "slug": "purolator-and-ych-partner-to-strengthen-trade-connections-between-cana-d6edbec66c",
-  "title": "Purolator and YCH partner to strengthen trade connections between Canada and Southeast Asia",
-  "orig_title": "Purolator and YCH partner to strengthen trade connections between Canada and Southeast Asia",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "PR Newswire Canada",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLW00a2sxQ1J4bV81ZjF0aGNwcUhyOWZJYU1xcWw1TDYwSjRrNktMUjVCTG9Gd3dpRlh0cjYwQnE1bmc5Skk2Z08yQTVRZGM1dTlncWdRZkZkYnhKbHNPTzVYWWU4ajgwT0V1ZDN0Y0RfdWVjMUdkSkZHWmpSSko1a2liVXM4SFJfNkFxQTRocFI5YnZwR0tNY2M4ZkJRSDFBWk1WVzlVM0RVQlVjU3lsWnpZenl1emZkSHZCbGc4TjVKT0hwcTdWcFpWQzg1UUdpeWRPNGtoeUdYem1o?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLW00a2sxQ1J4bV81ZjF0aGNwcUhyOWZJYU1xcWw1TDYwSjRrNktMUjVCTG9Gd3dpRlh0cjYwQnE1bmc5Skk2Z08yQTVRZGM1dTlncWdRZkZkYnhKbHNPTzVYWWU4ajgwT0V1ZDN0Y0RfdWVjMUdkSkZHWmpSSko1a2liVXM4SFJfNkFxQTRocFI5YnZwR0tNY2M4ZkJRSDFBWk1WVzlVM0RVQlVjU3lsWnpZenl1emZkSHZCbGc4TjVKT0hwcTdWcFpWQzg1UUdpeWRPNGtoeUdYem1o",
-  "snippet": "Purolator and YCH partner to strengthen trade connections between Canada and Southeast Asia PR Newswire Canada",
-  "published": "2026-11-16T11:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T11:11:02.966703+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "333d9b2a41",
   "slug": "exclusive-nyc-uses-twice-as-many-delivery-contractors-as-amazon-does-d-333d9b2a41",
   "title": "Exclusive | NYC uses twice as many delivery contractors as Amazon does, data shows — even as city weighs crackdown: ‘Hypocritical’",
@@ -32781,92 +32781,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "5f8f3050dd",
-  "slug": "shafaq-news-syria-s-60-000-truckers-need-licensed-firms-industry-says-5f8f3050dd",
-  "title": "Shafaq News..Syria’s 60,000 truckers need licensed firms, industry says",
-  "orig_title": "Shafaq News..Syria’s 60,000 truckers need licensed firms, industry says",
-  "summary": "",
-  "why": "",
-  "category": "regs",
-  "region": "Other",
-  "importance": 45,
-  "source": "شفق نيوز",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOE1OUTBETnU0WnItbjV3ZXJkV3JqYU5seUtCQ0s0Ny1rbG9sRG9WcFJOSXp1UTMyVmpYaE1nUXNGUkQ1YTdlbE5lTGRtRkpXd0tZVjRhcUhJbG94Z00yZmQxSnRaNEl3THpMbTVrWDJUUGYwRUYtNzJKTlU3d3ZXNUhXZk5zcHNCejdwYkhtYVdfSnBZZVE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOE1OUTBETnU0WnItbjV3ZXJkV3JqYU5seUtCQ0s0Ny1rbG9sRG9WcFJOSXp1UTMyVmpYaE1nUXNGUkQ1YTdlbE5lTGRtRkpXd0tZVjRhcUhJbG94Z00yZmQxSnRaNEl3THpMbTVrWDJUUGYwRUYtNzJKTlU3d3ZXNUhXZk5zcHNCejdwYkhtYVdfSnBZZVE",
-  "snippet": "Shafaq News..Syria’s 60,000 truckers need licensed firms, industry says شفق نيوز",
-  "published": "2026-11-16T10:44:54+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T11:01:09.521796+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://shafaq.com/en/Middle-East/Syria-s-60-000-truckers-need-licensed-firms-industry-says",
-  "source_note": "ok · 311 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "b32a7e09e93c927d",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-16T11:01:09.521796+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "needs to be reorganized into licensed companies"
-   },
-   {
-    "sentence": "2",
-    "quote": "several hundred licensed haulage firms"
-   },
-   {
-    "sentence": "3",
-    "quote": "standards on truck age, safety, insurance and electronic tracking"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 12,
-  "ai_relevant": false
- },
- {
-  "id": "6439f14e0a",
-  "slug": "inside-tvs-ilp-s-4-lakh-sq-ft-grade-a-warehousing-park-in-madurai-6439f14e0a",
-  "title": "Inside TVS ILP’s 4 lakh sq ft Grade-A warehousing park in Madurai",
-  "orig_title": "Inside TVS ILP’s 4 lakh sq ft Grade-A warehousing park in Madurai",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Indian Transport & Logistics",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1RZSDZGLWNTTXlhZlhMWlpYc0FUNTJXdEphcGs5dnlTNE9wR1FUM2lnXzFUaXppejc4V0xuNUxLWVlOYmRtTmswZVVrOGpWaDZKVVBHOHphZExWSEdqSmlNMEl6RUM5MDZVOE5VZkd2czZHd2FvbFpoRUx1dnZJRVlIbG9CSzRiSjVxdVUtUlota1NJcmJreTBrSDJLWHZ6dEdkRW1pWDI0d9IBqgFBVV95cUxPX1RZSDZGLWNTTXlhZlhMWlpYc0FUNTJXdEphcGs5dnlTNE9wR1FUM2lnXzFUaXppejc4V0xuNUxLWVlOYmRtTmswZVVrOGpWaDZKVVBHOHphZExWSEdqSmlNMEl6RUM5MDZVOE5VZkd2czZHd2FvbFpoRUx1dnZJRVlIbG9CSzRiSjVxdVUtUlota1NJcmJreTBrSDJLWHZ6dEdkRW1pWDI0dw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1RZSDZGLWNTTXlhZlhMWlpYc0FUNTJXdEphcGs5dnlTNE9wR1FUM2lnXzFUaXppejc4V0xuNUxLWVlOYmRtTmswZVVrOGpWaDZKVVBHOHphZExWSEdqSmlNMEl6RUM5MDZVOE5VZkd2czZHd2FvbFpoRUx1dnZJRVlIbG9CSzRiSjVxdVUtUlota1NJcmJreTBrSDJLWHZ6dEdkRW1pWDI0d9IBqgFBVV95cUxPX1RZSDZGLWNTTXlhZlhMWlpYc0FUNTJXdEphcGs5dnlTNE9wR1FUM2lnXzFUaXppejc4V0xuNUxLWVlOYmRtTmswZVVrOGpWaDZKVVBHOHphZExWSEdqSmlNMEl6RUM5MDZVOE5VZkd2czZHd2FvbFpoRUx1dnZJRVlIbG9CSzRiSjVxdVUtUlota1NJcmJreTBrSDJLWHZ6dEdkRW1pWDI0dw",
-  "snippet": "Inside TVS ILP’s 4 lakh sq ft Grade-A warehousing park in Madurai Indian Transport & Logistics",
-  "published": "2026-11-16T10:00:23+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T11:11:02.966703+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -33612,35 +33526,6 @@
   "source_note": "paywalled: excerpt only · 37 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "ac43e340bb",
-  "slug": "uzbekistan-and-norway-discuss-norwegian-standard-welding-training-prog-ac43e340bb",
-  "title": "Uzbekistan and Norway discuss Norwegian-standard welding training program",
-  "orig_title": "Uzbekistan and Norway discuss Norwegian-standard welding training program",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Daryo",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVJoN0JCUVljZHBpWFQ0STJMUGdnb1YzbDVSOGxGVE94ci02RG9hY3I4V201eTJFRkRyenpPUXNuX1BwLVEtbmt3NnhYUWw5OHFfVE02bXU1NjlGRk9NRTdmS0o1anFmcHNqTUcwRzBVMDJuN2hIZGRjeGpKc3U3d2lZRlp4SGtXMWw2cC16UGRaS2RVUnM3SEI1ckZvd3hWMTJRWEQzaEQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVJoN0JCUVljZHBpWFQ0STJMUGdnb1YzbDVSOGxGVE94ci02RG9hY3I4V201eTJFRkRyenpPUXNuX1BwLVEtbmt3NnhYUWw5OHFfVE02bXU1NjlGRk9NRTdmS0o1anFmcHNqTUcwRzBVMDJuN2hIZGRjeGpKc3U3d2lZRlp4SGtXMWw2cC16UGRaS2RVUnM3SEI1ckZvd3hWMTJRWEQzaEQ",
-  "snippet": "Uzbekistan and Norway discuss Norwegian-standard welding training program Daryo",
-  "published": "2026-11-15T11:30:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T11:01:09.521796+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "37a3645a43",
