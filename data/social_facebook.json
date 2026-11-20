@@ -4118,7 +4118,8 @@
   "aab5c10b5d": "skipped|minor item (news) or low-quality source",
   "f8c40911a7": "skipped|importance 63 is below this platform's threshold (65)",
   "c02dac559f": "skipped|importance 63 is below this platform's threshold (65)",
-  "9a344ffa94": "skipped|importance 55 is below this platform's threshold (65)"
+  "9a344ffa94": "skipped|importance 55 is below this platform's threshold (65)",
+  "f7bba64d16": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8621,6 +8622,13 @@
    "title": "PACCAR recalls 6,185 trucks over radar braking fault",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-20T10:41:27.618171+00:00",
+   "story_id": "f7bba64d16",
+   "title": "Mayor Mamdani Moves To Curb Truck Impacts With Warehouse Regulations",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
