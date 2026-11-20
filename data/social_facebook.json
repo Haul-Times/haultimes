@@ -3128,7 +3128,7 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/aetherion-receives-2-million-for-volvo-cng-truck-trials-in-canada-2308c68700/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2308c68700",
    "caption": "Aetherion receives $2 million for Volvo CNG truck trials in Canada.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-19T13:41:35.380787+00:00",
    "published": "2026-11-19T13:35:21+00:00",
    "score": 66,
@@ -4067,7 +4067,7 @@
   "5254d6f2cd": "expired|stale before a slot opened (published 12h ago)",
   "64bdaec7ec": "skipped|importance 51 is below this platform's threshold (65)",
   "1b3bc19f28": "skipped|minor item (news) or low-quality source",
-  "2308c68700": "queued|importance 66 (threshold 65), Equipment, trade publication",
+  "2308c68700": "expired|stale before a slot opened (published 12h ago)",
   "c7e69a5d82": "skipped|importance 60 is below this platform's threshold (65)",
   "d07c5e25ad": "skipped|importance 45 is below this platform's threshold (65)",
   "af65fa1c1b": "skipped|minor item (announcement) or low-quality source",
@@ -4111,7 +4111,8 @@
   "d87b0be554": "skipped|minor item (incident) or low-quality source",
   "37adab6927": "skipped|importance 57 is below this platform's threshold (65)",
   "5af516eddd": "skipped|importance 45 is below this platform's threshold (65)",
-  "1056c5e2db": "skipped|importance 55 is below this platform's threshold (65)"
+  "1056c5e2db": "skipped|importance 55 is below this platform's threshold (65)",
+  "7078539d77": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -8537,6 +8538,20 @@
    "title": "Hydrogen-powered truck completes 1,046-km freight haul from Vancouver to Calgary",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T01:41:37.533275+00:00",
+   "story_id": "2308c68700",
+   "title": "Aetherion receives $2 million for Volvo CNG truck trials in Canada",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-20T01:41:37.533275+00:00",
+   "story_id": "7078539d77",
+   "title": "4 charged in alleged thefts, trafficking of highway tractors, trailers",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

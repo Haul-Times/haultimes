@@ -1,9 +1,9 @@
 {
  "state": "ok",
  "mode": "publish",
- "last_run": "2026-11-20T01:31:04.517919+00:00",
- "spent_today_usd": 0.1052,
- "spent_month_usd": 2.3897,
+ "last_run": "2026-11-20T01:41:05.180702+00:00",
+ "spent_today_usd": 0.1151,
+ "spent_month_usd": 2.3996,
  "caps_usd": {
   "day": 0.3,
   "month": 4.75
