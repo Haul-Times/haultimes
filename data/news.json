@@ -1262,7 +1262,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://en.clickpetroleoegas.com.br/truckers-crossing-the-tocantins-river-on-br-235-between-pedro-afonso-and-tupirama-face-waits-of-up-to-20-hours-as-the-bridge-remains-closed-davila/",
   "source_note": "ok · 1028 words"
  },
@@ -31349,6 +31349,35 @@
   "sum_pending": false
  },
  {
+  "id": "8bf5e35c6f",
+  "slug": "u-s-homeland-security-mullin-defends-use-of-government-plane-to-go-to-8bf5e35c6f",
+  "title": "U.S. Homeland Security Mullin defends use of government plane to go to LSU-Texas game after ground stop",
+  "orig_title": "U.S. Homeland Security Mullin defends use of government plane to go to LSU-Texas game after ground stop",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT29vTmxEMjV2WmFPWkpjYll2NTJ2VUlKSkxWZXRzOHN3Tml4YnFXUE1nOHFaNVVVa2RuYUMySFEyZnVPQ2t5MG5mS3dFd3Njc3pZemVnS1paUkRwWWZ0aVR6TVZ0VzBmeGdPcWNSNDdIbGdkTUVlMlRCZWlkcldTX0xuZWp1SWJQaGVrX3Q0RGhzbncwT1NUZTZtdWZSYWprQmhRdUY5ZERKLVlaZHoyN2l0blQ5R3hZeEtKaVBrZ3NlWGE2R3R0djRWaWJoUVREN2FKZWZB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT29vTmxEMjV2WmFPWkpjYll2NTJ2VUlKSkxWZXRzOHN3Tml4YnFXUE1nOHFaNVVVa2RuYUMySFEyZnVPQ2t5MG5mS3dFd3Njc3pZemVnS1paUkRwWWZ0aVR6TVZ0VzBmeGdPcWNSNDdIbGdkTUVlMlRCZWlkcldTX0xuZWp1SWJQaGVrX3Q0RGhzbncwT1NUZTZtdWZSYWprQmhRdUY5ZERKLVlaZHoyN2l0blQ5R3hZeEtKaVBrZ3NlWGE2R3R0djRWaWJoUVREN2FKZWZB",
+  "snippet": "U.S. Homeland Security Mullin defends use of government plane to go to LSU-Texas game after ground stop CTV News",
+  "published": "2026-11-17T19:31:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T19:01:07.749486+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "74c4bd306d",
   "slug": "ontario-secondary-teachers-vote-96-per-cent-in-favour-of-strike-mandat-74c4bd306d",
   "title": "Ontario secondary teachers vote 96 per cent in favour of strike mandate",
@@ -37545,35 +37574,6 @@
   "sum_done": true,
   "sum_status": "excerpt too short to summarize",
   "dup_of": "19d239834c"
- },
- {
-  "id": "5cbdc2fa11",
-  "slug": "the-best-customer-service-in-air-cargo-is-the-call-you-never-have-to-t-5cbdc2fa11",
-  "title": "The Best Customer Service in Air Cargo Is the Call You Never Have to Take",
-  "orig_title": "The Best Customer Service in Air Cargo Is the Call You Never Have to Take",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZrQVZfTTRoYjJod19oSk9tamdLLTFzU0ZoTnl4STg2OGN0YXg5UXgycl81WWN4TkxFQV91T1FIZ0s1VkM4bE53V20zNTR1UVNUWXhrektnZXVlU2I2RW1JdkhOb2tYMTJvT2s2S2NkVDJhaDFQN2JqMl9PWTRIYkd2S0t0a2g1Tm0wblZvTnRiNmdISmhsRk82Mnl0WU9US1dqMHRYLUVLWmc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZrQVZfTTRoYjJod19oSk9tamdLLTFzU0ZoTnl4STg2OGN0YXg5UXgycl81WWN4TkxFQV91T1FIZ0s1VkM4bE53V20zNTR1UVNUWXhrektnZXVlU2I2RW1JdkhOb2tYMTJvT2s2S2NkVDJhaDFQN2JqMl9PWTRIYkd2S0t0a2g1Tm0wblZvTnRiNmdISmhsRk82Mnl0WU9US1dqMHRYLUVLWmc",
-  "snippet": "The Best Customer Service in Air Cargo Is the Call You Never Have to Take FreightWaves",
-  "published": "2026-11-16T18:53:52+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T19:01:06.975535+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "ocean/air freight with no North American trucking link"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "1addcc22f3",
