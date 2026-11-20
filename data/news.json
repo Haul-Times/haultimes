@@ -1126,6 +1126,35 @@
   "sum_pending": false
  },
  {
+  "id": "241a7167b6",
+  "slug": "12-600-fine-imposed-for-damaging-the-108th-street-overpass-241a7167b6",
+  "title": "$12,600 fine imposed for damaging the 108th Street overpass",
+  "orig_title": "$12,600 fine imposed for damaging the 108th Street overpass",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "620 CKRM",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejd5ZmRZWmlfRndlVTdZN3VLQzVZMzJPNml6bURZeGNmMnNMek1zT1dQbzRQWDB2T2thcTBMSWNxZG9nWm90U0xscTAtT19VQ21oNVpaNWxGYS1raklqa2hmcVBkWWQzRzh0WDA5QUx6azlvWHFrNHNVLVlJUGtVcXBwUVhHZWJkWV9yclZVWHV5M2ZIZnVGbw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejd5ZmRZWmlfRndlVTdZN3VLQzVZMzJPNml6bURZeGNmMnNMek1zT1dQbzRQWDB2T2thcTBMSWNxZG9nWm90U0xscTAtT19VQ21oNVpaNWxGYS1raklqa2hmcVBkWWQzRzh0WDA5QUx6azlvWHFrNHNVLVlJUGtVcXBwUVhHZWJkWV9yclZVWHV5M2ZIZnVGbw",
+  "snippet": "$12,600 fine imposed for damaging the 108th Street overpass 620 CKRM",
+  "published": "2026-11-19T21:57:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T00:31:02.210697+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "44a4f4602e",
   "slug": "trump-administration-auctions-deep-sea-mining-leases-near-american-sam-44a4f4602e",
   "title": "Trump administration auctions deep-sea mining leases near American Samoa in first sale of its kind",
