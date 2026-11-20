@@ -148,7 +148,7 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://wisevoter.com/world/us/fl/tampa/2026/11/20/truckers-against-trafficking-exhibit-tampa",
   "source_note": "ok · 433 words"
@@ -184,6 +184,35 @@
   "source_note": "excerpt only · 26 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "7926e02b0e",
+  "slug": "6-grain-cars-derail-in-brandon-7926e02b0e",
+  "title": "6 grain cars derail in Brandon",
+  "orig_title": "6 grain cars derail in Brandon",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMa3VGV2ZlSFpWVnpmTzBaSllXek4yZ3hFaTROYWpUaWtlTjJ3UXVzcDF2ay1xR005WFRnNEtzcHJfWkMtUlJpWVRqOURDelNR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMa3VGV2ZlSFpWVnpmTzBaSllXek4yZ3hFaTROYWpUaWtlTjJ3UXVzcDF2ay1xR005WFRnNEtzcHJfWkMtUlJpWVRqOURDelNR",
+  "snippet": "6 grain cars derail in Brandon CBC",
+  "published": "2026-11-20T21:18:01+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T22:41:06.039192+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "1df6e0ed5c",
@@ -330,7 +359,10 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://wisevoter.com/world/us/2026/11/20/bobit-2027-fleet-fact-book-release",
+  "source_note": "ok · 371 words"
  },
  {
   "id": "33a19023a8",
@@ -7197,6 +7229,35 @@
   "status": "rejected",
   "reasons": [
    "non-North American source"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "c865b8b65d",
+  "slug": "catton-scores-hat-trick-as-kraken-beat-canucks-c865b8b65d",
+  "title": "Catton scores hat trick as Kraken beat Canucks",
+  "orig_title": "Catton scores hat trick as Kraken beat Canucks",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEptRE9vVFR3TWtGRDBpMHBhMVFQVmJyMF9WRG53S0h3RTMwNDlwQ2ZRZkx6djBrOTBGUTk0MHZad2IwdW1VZkZGVDl4UnEtNkNGOGNmSzRhMjZLQUJ6ZHpFZlZvZUdiLWthRVpQT3l0aWUtUXo4TXpvQVNiS3F1YWVlTlhocGpEbHYtT0FB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEptRE9vVFR3TWtGRDBpMHBhMVFQVmJyMF9WRG53S0h3RTMwNDlwQ2ZRZkx6djBrOTBGUTk0MHZad2IwdW1VZkZGVDl4UnEtNkNGOGNmSzRhMjZLQUJ6ZHpFZlZvZUdiLWthRVpQT3l0aWUtUXo4TXpvQVNiS3F1YWVlTlhocGpEbHYtT0FB",
+  "snippet": "Catton scores hat trick as Kraken beat Canucks CTV News",
+  "published": "2026-11-20T05:57:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T22:41:06.039192+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
@@ -31255,6 +31316,35 @@
   "published": "2026-11-18T02:05:00+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T20:11:11.625864+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "edaa5ca926",
+  "slug": "it-was-something-you-never-forget-annual-kettle-campaign-kicks-off-in-edaa5ca926",
+  "title": "‘It was something you never forget’: Annual Kettle Campaign kicks off in London",
+  "orig_title": "‘It was something you never forget’: Annual Kettle Campaign kicks off in London",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0hnUmtMdGVMbEZzV0pQOUgzcTJtR1RMbGdKNFNwekU3ek9WanVuY3E0SFNzN0MyVVh6Q3d4Z25CRGhldF94Y1RaaGFqRlo5OXlRRHRFUDM5ZGZKTXZuT2RxZHlaVVo2Rkd3d3pQMnpBT2s1NjRvWEUzakVkMGF4a0VTTDNvUXUweHpNVlgxbFA3VF8xV01SRHl0ZjIySlRpMTJnQ2gtS05GcEN0TXpZNGU4bUktUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0hnUmtMdGVMbEZzV0pQOUgzcTJtR1RMbGdKNFNwekU3ek9WanVuY3E0SFNzN0MyVVh6Q3d4Z25CRGhldF94Y1RaaGFqRlo5OXlRRHRFUDM5ZGZKTXZuT2RxZHlaVVo2Rkd3d3pQMnpBT2s1NjRvWEUzakVkMGF4a0VTTDNvUXUweHpNVlgxbFA3VF8xV01SRHl0ZjIySlRpMTJnQ2gtS05GcEN0TXpZNGU4bUktUQ",
+  "snippet": "‘It was something you never forget’: Annual Kettle Campaign kicks off in London CTV News",
+  "published": "2026-11-18T02:04:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T22:41:06.039192+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
