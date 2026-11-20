@@ -4411,7 +4411,8 @@
   "7a762cc587": "skipped|importance 55 is below this platform's threshold (65)",
   "51ea421b3c": "skipped|minor item (announcement) or low-quality source",
   "56898566a2": "skipped|importance 61 is below this platform's threshold (65)",
-  "c26984b5d7": "skipped|minor item (incident) or low-quality source"
+  "c26984b5d7": "skipped|minor item (incident) or low-quality source",
+  "35df32a91a": "skipped|importance 63 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9222,6 +9223,13 @@
    "title": "Transport truck driver charged after rollerblader struck and killed in Ajax: police",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T23:01:27.741252+00:00",
+   "story_id": "35df32a91a",
+   "title": "aught on camera | 14 men charged in $22 million cargo theft operation targeting California trains",
+   "action": "skipped",
+   "reason": "importance 63 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

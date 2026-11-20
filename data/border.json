@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T22:51:14.167270+00:00",
- "hour_now": 17,
+ "updated": "2026-11-20T23:01:03.544092+00:00",
+ "hour_now": 18,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -18,9 +18,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 45,
-    "status": "45 minutes",
-    "updated": "2026-11-20 17:11 EST"
+    "wait": 40,
+    "status": "40 minutes",
+    "updated": "2026-11-20 17:51 EST"
    },
    "usual": {
     "south": [
@@ -42,7 +42,7 @@
      2,
      11,
      10,
-     16,
+     14,
      3,
      0,
      0,
@@ -68,7 +68,7 @@
      18,
      28,
      34,
-     38,
+     39,
      29,
      20,
      20,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 15,
+    "wait": 16,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 5:37 pm EST",
+    "updated": "At 5:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -267,7 +267,7 @@
      1,
      0,
      1,
-     1,
+     3,
      0,
      0,
      0,
@@ -293,7 +293,7 @@
      13,
      12,
      12,
-     25,
+     23,
      25,
      21,
      13,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:37 pm EST",
+    "updated": "At 5:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -368,7 +368,7 @@
      2,
      2,
      6,
-     13,
+     12,
      35,
      44,
      41,
@@ -417,7 +417,7 @@
      5,
      5,
      5,
-     0,
+     1,
      0,
      0,
      0,
@@ -593,7 +593,7 @@
      0,
      0,
      10,
-     0,
+     3,
      0,
      0,
      0,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "17:42:52",
+    "updated": "17:57:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -942,7 +942,7 @@
      5,
      6,
      6,
-     0,
+     2,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:42:52",
+    "updated": "17:57:54",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1235,7 +1235,7 @@
      15,
      16,
      15,
-     30,
+     26,
      53,
      60,
      19,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 2:00 pm PST",
+    "updated": "At 3:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1336,7 +1336,7 @@
      5,
      6,
      13,
-     19,
+     17,
      6,
      5,
      5,
@@ -1385,7 +1385,7 @@
      8,
      7,
      8,
-     0,
+     2,
      0,
      0,
      0,

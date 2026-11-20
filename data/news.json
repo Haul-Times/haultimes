@@ -1,5 +1,36 @@
 [
  {
+  "id": "35df32a91a",
+  "slug": "aught-on-camera-14-men-charged-in-22-million-cargo-theft-operation-tar-35df32a91a",
+  "title": "aught on camera | 14 men charged in $22 million cargo theft operation targeting California trains",
+  "orig_title": "aught on camera | 14 men charged in $22 million cargo theft operation targeting California trains",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 63,
+  "source": "KHOU",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWlNZNlUtcHNPQlpoNy1ySlZNaUI2NklKUDNHelNDN2k5ZDNvUlFlb0N3OC1Cdjd3YkFiMG04SjVEa3JkeTJPOVFrWFFYVnNweFFmVTBpbF9LQkdUVFJya0NUSzFSUmFaZDdPVGlWTEg1b1I2dUhGeGUyQ1Y2VFZsTGs2cklhek9yZUFEYWJJMnBSa01GZUNuNlhwdV9MeEloaFc5RzJBMmN5VWVwVVg2LU4yWFlOZnE4SEVHMVUwWjRkUzFLZmFETTBwbnlBaVRQSFRrdjNfQi1udUE5a3JXdHZfcF9FYmpNcnN0Q2ZTNFo1NXJjeGRYTm16a2VGU1BnbE1NM2owNA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWlNZNlUtcHNPQlpoNy1ySlZNaUI2NklKUDNHelNDN2k5ZDNvUlFlb0N3OC1Cdjd3YkFiMG04SjVEa3JkeTJPOVFrWFFYVnNweFFmVTBpbF9LQkdUVFJya0NUSzFSUmFaZDdPVGlWTEg1b1I2dUhGeGUyQ1Y2VFZsTGs2cklhek9yZUFEYWJJMnBSa01GZUNuNlhwdV9MeEloaFc5RzJBMmN5VWVwVVg2LU4yWFlOZnE4SEVHMVUwWjRkUzFLZmFETTBwbnlBaVRQSFRrdjNfQi1udUE5a3JXdHZfcF9FYmpNcnN0Q2ZTNFo1NXJjeGRYTm16a2VGU1BnbE1NM2owNA",
+  "snippet": "aught on camera | 14 men charged in $22 million cargo theft operation targeting California trains KHOU",
+  "published": "2026-11-20T22:52:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T23:01:03.699274+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "56898566a2",
   "slug": "new-duron-engine-oils-target-fleet-operating-costs-56898566a2",
   "title": "New Duron Engine Oils Target Fleet Operating Costs",
@@ -25,7 +56,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.truckinginfo.com/news/new-duron-engine-oils-target-fleet-operating-costs",
   "source_note": "ok · 1409 words"
  },
@@ -7707,8 +7738,7 @@
   ],
   "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 60,
-  "followup_of": "47458eb868"
+  "ai_importance": 60
  },
  {
   "id": "846d6e007a",
@@ -8035,14 +8065,11 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Illegal Alien Sentenced to 2.5 Years Behind Bars for $7.2M Trucking Cargo Theft Ring in Ca"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": false,
-  "dup_of": "489a260e1f"
+  "sum_pending": true
  },
  {
   "id": "718873d654",
@@ -20374,12 +20401,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
+   "same story as: Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contract"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "47458eb868"
+  "dup_of": "50baa1f41e"
  },
  {
   "id": "d908d7af02",
@@ -30016,6 +30043,35 @@
   "sum_pending": false
  },
  {
+  "id": "79d5567719",
+  "slug": "philippine-president-has-jollibee-fried-chicken-delivered-to-trump-for-79d5567719",
+  "title": "Philippine president has Jollibee fried chicken delivered to Trump for a late-night snack",
+  "orig_title": "Philippine president has Jollibee fried chicken delivered to Trump for a late-night snack",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZSbDJaWUt5NE9RaC1HVDZXM3RIdzRMMy1EeGRKWGNBZE1uNlhBemhNd3JnQ1plYlJvbHZJQ1VlUGZQLUNWMmdlU3hUZm9ocXZZaThsd0p4OVZZSDg5eHhvb1dqSWFmZ2E3dEJia1YtdzViZi1ON3JCNUozR1NBWGltS1Z1TmRocnpleGpNRi1WaXZIakhELWFob3FjUE1xZWcyZzZ5WGZkZFk1aW9PTXFBMU0wLWt0bWxDMlZ0amNpU3hDQkE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZSbDJaWUt5NE9RaC1HVDZXM3RIdzRMMy1EeGRKWGNBZE1uNlhBemhNd3JnQ1plYlJvbHZJQ1VlUGZQLUNWMmdlU3hUZm9ocXZZaThsd0p4OVZZSDg5eHhvb1dqSWFmZ2E3dEJia1YtdzViZi1ON3JCNUozR1NBWGltS1Z1TmRocnpleGpNRi1WaXZIakhELWFob3FjUE1xZWcyZzZ5WGZkZFk1aW9PTXFBMU0wLWt0bWxDMlZ0amNpU3hDQkE",
+  "snippet": "Philippine president has Jollibee fried chicken delivered to Trump for a late-night snack CTV News",
+  "published": "2026-11-18T10:47:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T23:01:03.699274+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "803f30d015",
   "slug": "hausa-trading-group-moves-pvcs-to-abia-back-otti-s-re-election-803f30d015",
   "title": "Hausa Trading Group Moves PVCs To Abia, Back Otti’s Re-Election",
@@ -32108,12 +32164,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: $7.2M Cargo Theft Ring: IE Man Sentenced To 2 1/2 Years In Federal Prison"
+   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "f58fb8543f"
+  "dup_of": "aa0df11328"
  },
  {
   "id": "1abd29c016",
@@ -33843,8 +33899,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
+  ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -33892,7 +33950,8 @@
    "copies a 12-word run from the source: 'in a scheme that stole more than $7.2 million in cargo from'"
   ],
   "ai_category": "other",
-  "ai_importance": 60
+  "ai_importance": 60,
+  "dup_of": "aa0df11328"
  },
  {
   "id": "b04b97fd64",
@@ -34237,10 +34296,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -34289,8 +34346,7 @@
   ],
   "ai_importance": 68,
   "sum_v4": true,
-  "ai_category": "other",
-  "dup_of": "47458eb868"
+  "ai_category": "other"
  },
  {
   "id": "7f58a7eca4",
