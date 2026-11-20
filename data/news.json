@@ -1,5 +1,66 @@
 [
  {
+  "id": "e16a4ce250",
+  "slug": "125m-port-investment-aims-to-reduce-truck-traffic-on-regional-ontario-e16a4ce250",
+  "title": "$125M port investment aims to reduce truck traffic on regional Ontario highways",
+  "orig_title": "$125M port investment aims to reduce truck traffic on regional Ontario highways",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTN0TXpBcWRUaE43NlVncEcxRV9TTklDQkxleVJyM01vbmpKYWtQYVQtYXhTcDE5NmhVNklVSlVqeWpvSzE1WGtGR2xua2I0M0ZzTDlwMm1xTEdzdjRENkxtWkJqbk9YMXM0OTdsMjF6ekxCSnFheWtsdXFEN1AxblpXT1ppd1I2eXhvUXBZUjl5dHluMzQxS0dIZU9LdzhMWTFkTkw2NDRLUnNlNjdiUGw1M2tJY1pVTkVYVnhXckt6ZWtHa3lYb2I0VQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTN0TXpBcWRUaE43NlVncEcxRV9TTklDQkxleVJyM01vbmpKYWtQYVQtYXhTcDE5NmhVNklVSlVqeWpvSzE1WGtGR2xua2I0M0ZzTDlwMm1xTEdzdjRENkxtWkJqbk9YMXM0OTdsMjF6ekxCSnFheWtsdXFEN1AxblpXT1ppd1I2eXhvUXBZUjl5dHluMzQxS0dIZU9LdzhMWTFkTkw2NDRLUnNlNjdiUGw1M2tJY1pVTkVYVnhXckt6ZWtHa3lYb2I0VQ",
+  "snippet": "$125M port investment aims to reduce truck traffic on regional Ontario highways Truck News",
+  "published": "2026-11-20T21:36:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T21:41:14.062103+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "3c6c219c3d",
+  "slug": "13-charged-in-22-million-train-cargo-theft-ring-3c6c219c3d",
+  "title": "13 charged in $22 million train cargo theft ring",
+  "orig_title": "13 charged in $22 million train cargo theft ring",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 63,
+  "source": "The Business Journal",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzh6SWlMZVJQODVrMDhuTjlnc2cyT2xuTjd6UTNxNHVWSXdSb2M2Yl9xQ2VlVlc3UTlPc2x5MHpUY0dRVzVjUHpTcFExZXZxZVZoNlU5LVI4QUk3NDRHMUs2T01oWGlqemtlMDQ2dmhTWWpIaWd5RE9FUEhOOHdSbzZR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzh6SWlMZVJQODVrMDhuTjlnc2cyT2xuTjd6UTNxNHVWSXdSb2M2Yl9xQ2VlVlc3UTlPc2x5MHpUY0dRVzVjUHpTcFExZXZxZVZoNlU5LVI4QUk3NDRHMUs2T01oWGlqemtlMDQ2dmhTWWpIaWd5RE9FUEhOOHdSbzZR",
+  "snippet": "13 charged in $22 million train cargo theft ring The Business Journal",
+  "published": "2026-11-20T21:35:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T21:41:14.062103+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "0df12fe063"
+ },
+ {
   "id": "eb3d90cfed",
   "slug": "act-expo-2027-to-spotlight-tco-autonomous-trucks-eb3d90cfed",
   "title": "ACT Expo 2027 to spotlight TCO, autonomous trucks",
@@ -240,6 +301,35 @@
   "sum_pending": false
  },
  {
+  "id": "ac324af24d",
+  "slug": "police-seeking-suspect-in-brazen-armed-robbery-in-metro-vancouver-ac324af24d",
+  "title": "Police seeking suspect in ‘brazen’ armed robbery in Metro Vancouver",
+  "orig_title": "Police seeking suspect in ‘brazen’ armed robbery in Metro Vancouver",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdklfeDl5OXVoM1JuSzFBdndWWVpoWVdOa2JNYlowOWhsM2FGemxpSW9tcEtfcU40NHgtdWVib3p2Q1JzMTc4TjdiTy1hc3ZLZ2Utbk1RWElQWVhKV2RxV1h2QUFUWDJEbjhoTndBeUZubTF5ZWlYOVZwSnhIVUsyX04zVHdZWGtLTmRseF96UlYyY1U5S2JZVm9LUThzY1IteG4wZ19nQ1NEZ1E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdklfeDl5OXVoM1JuSzFBdndWWVpoWVdOa2JNYlowOWhsM2FGemxpSW9tcEtfcU40NHgtdWVib3p2Q1JzMTc4TjdiTy1hc3ZLZ2Utbk1RWElQWVhKV2RxV1h2QUFUWDJEbjhoTndBeUZubTF5ZWlYOVZwSnhIVUsyX04zVHdZWGtLTmRseF96UlYyY1U5S2JZVm9LUThzY1IteG4wZ19nQ1NEZ1E",
+  "snippet": "Police seeking suspect in ‘brazen’ armed robbery in Metro Vancouver CTV News",
+  "published": "2026-11-20T20:10:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T21:41:14.062103+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0fc3de334e",
   "slug": "oversight-for-simi-landfill-agreement-nixed-0fc3de334e",
   "title": "Oversight for Simi landfill agreement nixed",
@@ -379,6 +469,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "230c228e7a",
+  "slug": "police-investigating-restaurant-robbery-in-lower-sackville-n-s-230c228e7a",
+  "title": "Police investigating restaurant robbery in Lower Sackville, N.S.",
+  "orig_title": "Police investigating restaurant robbery in Lower Sackville, N.S.",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1wbWdtemUxV0ZMd3hjOTQ0bG1jMnd5OWRjblJvUkVTYUVQLWh3WGtLODVvYzNYaXowLVV1b2ZwRUJCc3hjdjBJNElxUUNsaTk0c3ktLXZJWElVOFVGZlNYUHNiRGVMd0xQeFBUeXczdlEzaHk1ci1yRmVJVm1tWUNveTd2MGstSVNfMWxVSW80SW9PZkMtekpQOHNTdVB6S3NjeG83UDNXT0w5Qmo4c0pYeUo?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONS1wbWdtemUxV0ZMd3hjOTQ0bG1jMnd5OWRjblJvUkVTYUVQLWh3WGtLODVvYzNYaXowLVV1b2ZwRUJCc3hjdjBJNElxUUNsaTk0c3ktLXZJWElVOFVGZlNYUHNiRGVMd0xQeFBUeXczdlEzaHk1ci1yRmVJVm1tWUNveTd2MGstSVNfMWxVSW80SW9PZkMtekpQOHNTdVB6S3NjeG83UDNXT0w5Qmo4c0pYeUo",
+  "snippet": "Police investigating restaurant robbery in Lower Sackville, N.S. CTV News",
+  "published": "2026-11-20T20:02:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T21:41:14.062103+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
   ],
   "labels": [],
   "kind": "rejected",
@@ -1701,6 +1820,35 @@
   "sum_pending": false
  },
  {
+  "id": "d1d6fd980c",
+  "slug": "denmark-s-oldest-person-112-in-hot-water-over-nazi-past-d1d6fd980c",
+  "title": "Denmark’s oldest person, 112, in hot water over Nazi past",
+  "orig_title": "Denmark’s oldest person, 112, in hot water over Nazi past",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVJjLUYzWlB0M0phc0Y2dkxmSzVzT1NYRGdrczR5R1phX3VEOEhzN2VJVy1XS3diTzdwZVFBM2VVUTVsYnBZajBTU3Juc2NiYzRPN0NEVFloQ0xmb0QwOFhQd1A4VmV1WjVQeDNRN2ZIVWNYZWRmNTNZODlKc0lyV0I5RkNVdFBGSVo5NGdpR1hueTFCRkJZ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVJjLUYzWlB0M0phc0Y2dkxmSzVzT1NYRGdrczR5R1phX3VEOEhzN2VJVy1XS3diTzdwZVFBM2VVUTVsYnBZajBTU3Juc2NiYzRPN0NEVFloQ0xmb0QwOFhQd1A4VmV1WjVQeDNRN2ZIVWNYZWRmNTNZODlKc0lyV0I5RkNVdFBGSVo5NGdpR1hueTFCRkJZ",
+  "snippet": "Denmark’s oldest person, 112, in hot water over Nazi past CTV News",
+  "published": "2026-11-20T17:53:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T21:41:14.062103+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e315a93179",
   "slug": "n-s-rcmp-looking-for-man-wanted-on-provincewide-warrant-e315a93179",
   "title": "N.S. RCMP looking for man wanted on provincewide warrant",
@@ -2782,12 +2930,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "0df12fe063"
+  "dup_of": "c02dac559f"
  },
  {
   "id": "26c44b9d4a",
@@ -15223,10 +15371,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -15270,8 +15416,7 @@
   "ai_category": "other",
   "ai_importance": 60,
   "pending_summary": "Four men from Brampton, Ont., have been charged and two more are wanted in an alleged theft and trafficking network for tractors, trailers and other heavy equipment in the Greater Toronto Area. York Regional Police said the investigation, called Project Nashville, started in August 2026 with the Auto Cargo Theft Unit and involved six people allegedly selling stolen semi-tractors and 53-foot trailers to transportation companies in the GTA and elsewhere in North America. On Oct. 7, officers executed a search warrant at a commercial trucking yard in Brampton and seized 17 stolen or re-vinned tractors and 20 stolen or re-vinned 53-foot trailers, valued at an estimated $3.6 million combined. Police said many vehicles had new decals and stickers. Gurlal Singh, 35, and Preetam Rattan, 32, are wanted, and police urged both to seek legal counsel and turn themselves in.",
-  "pending_why": "",
-  "dup_of": "c02dac559f"
+  "pending_why": ""
  },
  {
   "id": "f0c48de5e6",

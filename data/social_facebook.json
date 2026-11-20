@@ -4405,7 +4405,8 @@
   "d9e5b6a70d": "skipped|minor item (incident) or low-quality source",
   "d71956f7d1": "skipped|importance 55 is below this platform's threshold (65)",
   "3eb7d23d2d": "skipped|importance 55 is below this platform's threshold (65)",
-  "eb3d90cfed": "skipped|minor item (feature) or low-quality source"
+  "eb3d90cfed": "skipped|minor item (feature) or low-quality source",
+  "e16a4ce250": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9174,6 +9175,13 @@
    "title": "ACT Expo 2027 to spotlight TCO, autonomous trucks",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T21:41:32.009211+00:00",
+   "story_id": "e16a4ce250",
+   "title": "$125M port investment aims to reduce truck traffic on regional Ontario highways",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
