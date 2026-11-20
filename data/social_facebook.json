@@ -4114,7 +4114,8 @@
   "1056c5e2db": "skipped|importance 55 is below this platform's threshold (65)",
   "7078539d77": "skipped|importance 45 is below this platform's threshold (65)",
   "b30df1699a": "skipped|importance 62 is below this platform's threshold (65)",
-  "8fab767786": "skipped|minor item (news) or low-quality source"
+  "8fab767786": "skipped|minor item (news) or low-quality source",
+  "aab5c10b5d": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -8575,6 +8576,13 @@
    "title": "Costello: Shrinking capacity, not stronger freight demand, driving trucking recovery",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-20T03:41:49.292065+00:00",
+   "story_id": "aab5c10b5d",
+   "title": "14 Charged in SoCal Train Cargo Theft Ring, DOJ Says",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
