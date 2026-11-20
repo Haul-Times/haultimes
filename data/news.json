@@ -815,6 +815,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "19105b731c",
+  "slug": "prohibited-driver-caught-speeding-near-ottawa-school-police-19105b731c",
+  "title": "Prohibited driver caught speeding near Ottawa school: police",
+  "orig_title": "Prohibited driver caught speeding near Ottawa school: police",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWVCdjdIN3pKS2J2clEySGdZSGRLTE9OS3RBTkhKWFRBOGN2cUVqcUstd3MwUWRLeDVkTG5vOFlfUURMZzAzWXNDSjRsV0hoUTVYU0QzQ0lDSVpHbWxieE5HZDN4XzlqWlAta295c2s0UHRmM3V1ZDZIdWZfLWF4S0dHcXpwWVd5b0M4NldOV1ZCR29SQTRvNnpJUGlVbms?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWVCdjdIN3pKS2J2clEySGdZSGRLTE9OS3RBTkhKWFRBOGN2cUVqcUstd3MwUWRLeDVkTG5vOFlfUURMZzAzWXNDSjRsV0hoUTVYU0QzQ0lDSVpHbWxieE5HZDN4XzlqWlAta295c2s0UHRmM3V1ZDZIdWZfLWF4S0dHcXpwWVd5b0M4NldOV1ZCR29SQTRvNnpJUGlVbms",
+  "snippet": "Prohibited driver caught speeding near Ottawa school: police CTV News",
+  "published": "2026-11-20T13:48:21+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T16:41:02.341396+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6cbb8226f6",
   "slug": "oil-prices-drop-on-robust-supply-6cbb8226f6",
   "title": "Oil prices drop on robust supply",
@@ -10768,6 +10797,35 @@
   "sum_pending": false
  },
  {
+  "id": "a008fbaee7",
+  "slug": "families-of-quebec-couple-killed-in-dominica-can-finally-bury-loved-on-a008fbaee7",
+  "title": "Families of Quebec couple killed in Dominica can finally bury loved ones, start grieving",
+  "orig_title": "Families of Quebec couple killed in Dominica can finally bury loved ones, start grieving",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGcxaHlIcTFkc0xzWldaSWVRXzhKNmdQUzNxX1VQdlZTcVVGNjhBOEZWWENRMEJCYUYwY2JKSHhyVkpZWFJVbVJWalN4S01hZGozNnlPUjZVenFGNXdWT1pZcTVtNUNxd3JOT0tnejhLSWpHNEVmTmp5SXNzX3FqWEtkMXNZZkxhWDNQUmpCMUtmX0tIT0NNUFp0NVBSeW9KUkdobmdJT19qVklZRWxjdkEtQXhkRHBid2owRm9vUnVhMXpjRm1hLWdpT3VJbkU2RjFWSw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGcxaHlIcTFkc0xzWldaSWVRXzhKNmdQUzNxX1VQdlZTcVVGNjhBOEZWWENRMEJCYUYwY2JKSHhyVkpZWFJVbVJWalN4S01hZGozNnlPUjZVenFGNXdWT1pZcTVtNUNxd3JOT0tnejhLSWpHNEVmTmp5SXNzX3FqWEtkMXNZZkxhWDNQUmpCMUtmX0tIT0NNUFp0NVBSeW9KUkdobmdJT19qVklZRWxjdkEtQXhkRHBid2owRm9vUnVhMXpjRm1hLWdpT3VJbkU2RjFWSw",
+  "snippet": "Families of Quebec couple killed in Dominica can finally bury loved ones, start grieving CTV News",
+  "published": "2026-11-19T15:32:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T16:41:02.341396+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "5bbfede722",
   "slug": "walmart-raises-outlook-again-after-a-solid-quarter-5bbfede722",
   "title": "Walmart raises outlook again after a solid quarter",
@@ -18345,6 +18403,35 @@
   "sum_tries": 3,
   "pub_url": "https://www.fleetequipmentmag.com/samsara-for-equipment-maintenance-360-camera/",
   "source_note": "ok · 470 words"
+ },
+ {
+  "id": "16b3ddd6be",
+  "slug": "calgary-massage-clinic-that-closed-after-therapist-charged-with-sexual-16b3ddd6be",
+  "title": "Calgary massage clinic that closed after therapist charged with sexual assault can now reopen: city",
+  "orig_title": "Calgary massage clinic that closed after therapist charged with sexual assault can now reopen: city",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDVJcTdPWU4xZ0E3TWlZRmdFRUc2TExPRkRWLWFja1BlbnlrV3BHVVBLMVBob083MUk1Ml9yejZWakpnQm8zNzQzak44NGMyM2JZSU04ZXF4bDN2bWpBbVRDMS1BdU9DOExMRHJjb3VXWUVUN0lfdmxmOFJRNjU3Rjdnai1pVnV5TWhuZTVHR1NBMWxxUk5yTWJjckhQQjlnekVIUkZVRVVqa0ZBNkJQZk9xaGhmN29P?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDVJcTdPWU4xZ0E3TWlZRmdFRUc2TExPRkRWLWFja1BlbnlrV3BHVVBLMVBob083MUk1Ml9yejZWakpnQm8zNzQzak44NGMyM2JZSU04ZXF4bDN2bWpBbVRDMS1BdU9DOExMRHJjb3VXWUVUN0lfdmxmOFJRNjU3Rjdnai1pVnV5TWhuZTVHR1NBMWxxUk5yTWJjckhQQjlnekVIUkZVRVVqa0ZBNkJQZk9xaGhmN29P",
+  "snippet": "Calgary massage clinic that closed after therapist charged with sexual assault can now reopen: city CTV News",
+  "published": "2026-11-18T18:44:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T16:41:02.341396+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "c2910ffd80",
@@ -34456,35 +34543,6 @@
   "sum_problems": [],
   "ai_category": "border",
   "ai_importance": 55
- },
- {
-  "id": "b28b7af693",
-  "slug": "main-b28b7af693",
-  "title": "Main",
-  "orig_title": "Main",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Odessa Journal",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmkxVDYyZnJiLTV4UnJQcWo5aVNvdHA5M1ZHWGQzc1o0UXl3YkNYbzJrNUNucFdyQXBLNGloU2pwRFFuQzRhMFRmMWRrUEVJT0R3UjdyQjdLWTl2ZWZaQ2Q2RjFDX1lRNVNjdnFaVEN3elFyLThOOG90S0hLTDBwZGVFQS10RmNKN3dzTmctR3JBaGc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmkxVDYyZnJiLTV4UnJQcWo5aVNvdHA5M1ZHWGQzc1o0UXl3YkNYbzJrNUNucFdyQXBLNGloU2pwRFFuQzRhMFRmMWRrUEVJT0R3UjdyQjdLWTl2ZWZaQ2Q2RjFDX1lRNVNjdnFaVEN3elFyLThOOG90S0hLTDBwZGVFQS10RmNKN3dzTmctR3JBaGc",
-  "snippet": "Main Odessa Journal",
-  "published": "2026-11-16T15:50:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T16:31:16.059033+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "19c59f2a56",
