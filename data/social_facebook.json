@@ -4397,7 +4397,8 @@
   "4300ecbcef": "skipped|minor item (news) or low-quality source",
   "b435c10f48": "skipped|importance 55 is below this platform's threshold (65)",
   "e165c06f69": "skipped|minor item (announcement) or low-quality source",
-  "1220ce8260": "skipped|importance 55 is below this platform's threshold (65)"
+  "1220ce8260": "skipped|importance 55 is below this platform's threshold (65)",
+  "d4cd4a413f": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9103,6 +9104,13 @@
    "title": "North Dakota drillers tap trucks during pipeline outage",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T18:41:37.406219+00:00",
+   "story_id": "d4cd4a413f",
+   "title": "Truckers face 20-hour wait crossing the Tocantins River on BR-235 as bridge closure and limited ferry service affect corn shipment",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
