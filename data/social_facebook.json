@@ -4409,7 +4409,9 @@
   "e16a4ce250": "skipped|importance 55 is below this platform's threshold (65)",
   "22fbe7140c": "skipped|minor item (announcement) or low-quality source",
   "7a762cc587": "skipped|importance 55 is below this platform's threshold (65)",
-  "51ea421b3c": "skipped|minor item (announcement) or low-quality source"
+  "51ea421b3c": "skipped|minor item (announcement) or low-quality source",
+  "56898566a2": "skipped|importance 61 is below this platform's threshold (65)",
+  "c26984b5d7": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -9206,6 +9208,20 @@
    "title": "Bobit Releases 2027 Fleet Fact Book",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-20T22:51:36.108013+00:00",
+   "story_id": "56898566a2",
+   "title": "New Duron Engine Oils Target Fleet Operating Costs",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T22:51:36.108013+00:00",
+   "story_id": "c26984b5d7",
+   "title": "Transport truck driver charged after rollerblader struck and killed in Ajax: police",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
