@@ -4399,7 +4399,8 @@
   "e165c06f69": "skipped|minor item (announcement) or low-quality source",
   "1220ce8260": "skipped|importance 55 is below this platform's threshold (65)",
   "d4cd4a413f": "skipped|importance 45 is below this platform's threshold (65)",
-  "b1d1840b89": "skipped|importance 61 is below this platform's threshold (65)"
+  "b1d1840b89": "skipped|importance 61 is below this platform's threshold (65)",
+  "a4a0fcdf29": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9119,6 +9120,13 @@
    "title": "Zim Q3 profit surges to $830 million as freight rates jump 55%",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-20T19:11:28.613817+00:00",
+   "story_id": "a4a0fcdf29",
+   "title": "Truckload freight keeps shifting toward LTL as rates rise in both sectors",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
