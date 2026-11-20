@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:31:01.941214+00:00",
+ "updated": "2026-11-20T05:41:09.802199+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:25:34",
+    "updated": "00:35:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 0:17 am EST",
+    "status": "no delay",
+    "updated": "At 0:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -249,7 +249,7 @@
    },
    "usual": {
     "south": [
-     5,
+     4,
      3,
      1,
      0,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 17,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 0:17 am EST",
+    "updated": "At 0:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -324,7 +324,7 @@
    },
    "usual": {
     "south": [
-     2,
+     3,
      0,
      0,
      0,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:25:34",
+    "updated": "00:35:34",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:25:34",
+    "updated": "00:35:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "00:25:34",
+    "updated": "00:35:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:25:34",
+    "updated": "00:35:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -910,11 +910,11 @@
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:25:34",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -988,8 +988,8 @@
     "wait": null,
     "fast_wait": null,
     "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:25:34",
+    "status": "N/A",
+    "updated": "00:35:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1318,7 +1318,7 @@
      0
     ],
     "north": [
-     18,
+     16,
      6,
      5,
      5,
@@ -1447,13 +1447,13 @@
    },
    {
     "name": "Calais International Avenue",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Calais Milltown",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Norton",

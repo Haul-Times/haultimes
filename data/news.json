@@ -1,5 +1,34 @@
 [
  {
+  "id": "d757d3a47c",
+  "slug": "hippo-devi-arrives-at-milwaukee-county-zoo-d757d3a47c",
+  "title": "Hippo Devi Arrives at Milwaukee County Zoo",
+  "orig_title": "Hippo Devi Arrives at Milwaukee County Zoo",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlp4T0hRUkhIRGttM0hVaENBTExCTm1NVDF5WEhWbXNvaHFCSWtJd3VxSkVWWnFtdVdQWEhFWFdQdXNVcjdwWXpIU2ZzZE9wTHBmSVhsS3cxbG51MTlmQ1o1Qmx4UzVzbzB5Vi00NTJKNXJUZmNoOWhtUFM3cTU4eHdfa2t0U1lyb3F2TjVjc1dNZlhsZG9rTkpB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlp4T0hRUkhIRGttM0hVaENBTExCTm1NVDF5WEhWbXNvaHFCSWtJd3VxSkVWWnFtdVdQWEhFWFdQdXNVcjdwWXpIU2ZzZE9wTHBmSVhsS3cxbG51MTlmQ1o1Qmx4UzVzbzB5Vi00NTJKNXJUZmNoOWhtUFM3cTU4eHdfa2t0U1lyb3F2TjVjc1dNZlhsZG9rTkpB",
+  "snippet": "Hippo Devi Arrives at Milwaukee County Zoo Wisevoter",
+  "published": "2026-11-20T05:38:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-20T05:41:09.991300+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f8c40911a7",
   "slug": "fourteen-charged-in-alleged-22-5-million-southern-california-train-car-f8c40911a7",
   "title": "Fourteen Charged In Alleged $22.5 Million Southern California Train Cargo Theft Ring Targeting Nike Sneakers",
@@ -32234,35 +32263,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
- },
- {
-  "id": "36ae1028fb",
-  "slug": "brussels-to-examine-driver-cpc-reforms-as-shortage-deepens-36ae1028fb",
-  "title": "Brussels to examine Driver CPC reforms as shortage deepens",
-  "orig_title": "Brussels to examine Driver CPC reforms as shortage deepens",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "HGV Ireland",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFZuWTV0aGkxdGRXS21zVWJjQk1kRmRadG43TWRpdGxTVU5BdXRDWGNIUjdYVVJ0T0cxcS0wQzVmVER3NGVtNjJrRDcyMF9KeXJ6YWdqQnRjSG9sNWYwNEN6N04yTzZ0MzVJYy1PXzUxVWZGSi1Vc2lSLXNVQ2xaVnFPWEM3a0NEV1ZDM2h0VQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFZuWTV0aGkxdGRXS21zVWJjQk1kRmRadG43TWRpdGxTVU5BdXRDWGNIUjdYVVJ0T0cxcS0wQzVmVER3NGVtNjJrRDcyMF9KeXJ6YWdqQnRjSG9sNWYwNEN6N04yTzZ0MzVJYy1PXzUxVWZGSi1Vc2lSLXNVQ2xaVnFPWEM3a0NEV1ZDM2h0VQ",
-  "snippet": "Brussels to examine Driver CPC reforms as shortage deepens HGV Ireland",
-  "published": "2026-11-15T06:31:59+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-16T05:41:06.201011+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
