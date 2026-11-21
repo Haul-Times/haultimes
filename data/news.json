@@ -24403,6 +24403,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "807b9d66be",
+  "slug": "wranglers-drop-overtime-contest-against-firebirds-with-huberdeau-set-t-807b9d66be",
+  "title": "Wranglers drop overtime contest against Firebirds with Huberdeau set to play Wednesday night",
+  "orig_title": "Wranglers drop overtime contest against Firebirds with Huberdeau set to play Wednesday night",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYXpFaG9HTHQwczFFT2pCNTFlVFlzQ05kcS1xaUdndHBYRDY2TnU3b0tqOFZ6ZE0wVG9oUTdFejRxMkU0eFZFZWs4MzNCclpjeERwZXltZERjRlJTMl90TVJSeDhQdU1RUkg0TUFDbFFESUlaSHZPTUdNZnN6akFibk1xbEQwYUtXQ2ZOTHVJTzF4TG5EWDhlTW1adlFUZ0ZIOFl1UllCeWI3MVN5bldQUFJGbWFLMVhsUWU1QS1EVEtfNXhMY0huMzJQcG0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYXpFaG9HTHQwczFFT2pCNTFlVFlzQ05kcS1xaUdndHBYRDY2TnU3b0tqOFZ6ZE0wVG9oUTdFejRxMkU0eFZFZWs4MzNCclpjeERwZXltZERjRlJTMl90TVJSeDhQdU1RUkg0TUFDbFFESUlaSHZPTUdNZnN6akFibk1xbEQwYUtXQ2ZOTHVJTzF4TG5EWDhlTW1adlFUZ0ZIOFl1UllCeWI3MVN5bldQUFJGbWFLMVhsUWU1QS1EVEtfNXhMY0huMzJQcG0",
+  "snippet": "Wranglers drop overtime contest against Firebirds with Huberdeau set to play Wednesday night CTV News",
+  "published": "2026-11-19T00:36:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T13:01:03.879782+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ae4db090de",
   "slug": "florida-dmv-worker-charged-with-360-felonies-for-fake-licenses-for-ali-ae4db090de",
   "title": "Florida DMV Worker Charged With 360 Felonies for Fake Licenses for Aliens",
