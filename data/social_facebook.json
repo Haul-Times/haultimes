@@ -4419,7 +4419,8 @@
   "bcf2256ac9": "skipped|importance 45 is below this platform's threshold (65)",
   "0aa4f9b6fb": "skipped|importance 50 is below this platform's threshold (65)",
   "aa938b1d39": "skipped|importance 50 is below this platform's threshold (65)",
-  "43dd08328b": "skipped|importance 45 is below this platform's threshold (65)"
+  "43dd08328b": "skipped|importance 45 is below this platform's threshold (65)",
+  "5c35d4a1fb": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9342,6 +9343,13 @@
    "title": "Trucking groups press Congress for lame-duck action",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-21T06:11:25.715246+00:00",
+   "story_id": "5c35d4a1fb",
+   "title": "CH Robinson Slams RICO Claims That It Used 'Illegal' Carriers",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
