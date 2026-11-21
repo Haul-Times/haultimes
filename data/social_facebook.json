@@ -4423,7 +4423,8 @@
   "5c35d4a1fb": "skipped|importance 50 is below this platform's threshold (65)",
   "5487a067b6": "skipped|importance 55 is below this platform's threshold (65)",
   "cfd66d1192": "skipped|importance 55 is below this platform's threshold (65)",
-  "71bc33b849": "skipped|importance 63 is below this platform's threshold (65)"
+  "71bc33b849": "skipped|importance 63 is below this platform's threshold (65)",
+  "955ef499f1": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9374,6 +9375,13 @@
    "title": "21-year-old allegedly led $22.5 million train cargo theft scheme in California",
    "action": "skipped",
    "reason": "importance 63 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T15:41:40.120347+00:00",
+   "story_id": "955ef499f1",
+   "title": "PS Logistics Acquires East Tennessee Trucking Firm",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

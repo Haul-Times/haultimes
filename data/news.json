@@ -58,6 +58,66 @@
   "sum_pending": false
  },
  {
+  "id": "955ef499f1",
+  "slug": "ps-logistics-acquires-east-tennessee-trucking-firm-955ef499f1",
+  "title": "PS Logistics Acquires East Tennessee Trucking Firm",
+  "orig_title": "PS Logistics Acquires East Tennessee Trucking Firm",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 57,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelVobWhfblVTMlI3SHBVUTFQellqcEV4NEwybXRJenROVE1rVUNSRkRwNlBlQkNxYkJnTnVKa1BRQVpCUHlNcGxNelJLS2pKUzV1a3FMS1NwZElOZGdqT3VPQjk1a3pRS3ZRSmE1bjdNeDF4VEhJZzBrR3NycU5fZGxNR1ZRNU5RRVdReDlNOEtURjg4N0FDdXM1RQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelVobWhfblVTMlI3SHBVUTFQellqcEV4NEwybXRJenROVE1rVUNSRkRwNlBlQkNxYkJnTnVKa1BRQVpCUHlNcGxNelJLS2pKUzV1a3FMS1NwZElOZGdqT3VPQjk1a3pRS3ZRSmE1bjdNeDF4VEhJZzBrR3NycU5fZGxNR1ZRNU5RRVdReDlNOEtURjg4N0FDdXM1RQ",
+  "snippet": "PS Logistics Acquires East Tennessee Trucking Firm Wisevoter",
+  "published": "2026-11-21T14:49:08+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T15:41:03.033690+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://wisevoter.com/world/us/tn/2026/11/21/ps-logistics-acquires-east-tennessee-trucking-firm",
+  "source_note": "ok · 370 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "488ffc80cc201c22",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-21T15:41:03.033690+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "PS Logistics has completed its acquisition of a East Tennessee trucking company"
+   },
+   {
+    "sentence": "2",
+    "quote": "more than 170 company, lease-purchase, and owner-operator drivers"
+   },
+   {
+    "sentence": "3",
+    "quote": "Local leadership and management remain in place"
+   },
+   {
+    "sentence": "3",
+    "quote": "did not disclose deal value or revenue figures"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'trucking company, a freight brokerage and warehousing firm, and a priv'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 40
+ },
+ {
   "id": "71bc33b849",
   "slug": "21-year-old-allegedly-led-22-5-million-train-cargo-theft-scheme-in-cal-71bc33b849",
   "title": "21-year-old allegedly led $22.5 million train cargo theft scheme in California",
@@ -40885,35 +40945,6 @@
   "sum_pending": false
  },
  {
-  "id": "eea4660917",
-  "slug": "151-ridgedale-eea4660917",
-  "title": "151-ridgedale",
-  "orig_title": "151-ridgedale",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Parsippany Focus",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTUxvbHhyMmtRaUJSQWN4dnhUSFJrWEJfQmNpelhPaDc2MVFJUWo1SmVVUVJHRk9tZXZZaW1SenhscGlXalVwVUNpUXJBUzVpcS1Iamw2cWJZVnNod21keXlPaVRCQUFvLVVpQTlHQTZyS2dSa2ZSQk9oY3IxajZ3LVpEek1JRlFWajhpTXFyRVRtSlVhTTUtMDZNR0Y4aXV0YVktOUY2M2dLaXk1T203VE1VVkZsYklkRGlSeg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTUxvbHhyMmtRaUJSQWN4dnhUSFJrWEJfQmNpelhPaDc2MVFJUWo1SmVVUVJHRk9tZXZZaW1SenhscGlXalVwVUNpUXJBUzVpcS1Iamw2cWJZVnNod21keXlPaVRCQUFvLVVpQTlHQTZyS2dSa2ZSQk9oY3IxajZ3LVpEek1JRlFWajhpTXFyRVRtSlVhTTUtMDZNR0Y4aXV0YVktOUY2M2dLaXk1T203VE1VVkZsYklkRGlSeg",
-  "snippet": "151-ridgedale Parsippany Focus",
-  "published": "2026-11-17T15:22:02+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T15:31:17.138559+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "9f6fb2a13d",
   "slug": "central-alberta-motorcycle-crash-kills-senior-9f6fb2a13d",
   "title": "Central Alberta motorcycle crash kills senior",
@@ -41000,35 +41031,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.logisticsmgmt.com/article/intermodal_volumes_maintain_strong_momentum_heading_toward_year_end_iana_index_shows",
   "source_note": "ok · 506 words"
- },
- {
-  "id": "7fe658bfe1",
-  "slug": "gasoline-could-set-a-thanksgiving-day-price-record-7fe658bfe1",
-  "title": "Gasoline could set a Thanksgiving Day price record",
-  "orig_title": "Gasoline could set a Thanksgiving Day price record",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUaC1JQ1JoVDJmY1Q3elFOWEVIV0lkQjBmUW8wcExBSTN4N1JlUmJDeXpyRjUtYXE0ZzVwc1N5Z3lwU2pCYjRVNW8yaGxNbjREOEtXdTRqcUp5bFhzb0NDdkJHUk9rVkdWUU1J?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUaC1JQ1JoVDJmY1Q3elFOWEVIV0lkQjBmUW8wcExBSTN4N1JlUmJDeXpyRjUtYXE0ZzVwc1N5Z3lwU2pCYjRVNW8yaGxNbjREOEtXdTRqcUp5bFhzb0NDdkJHUk9rVkdWUU1J",
-  "snippet": "Gasoline could set a Thanksgiving Day price record Transport Topics",
-  "published": "2026-11-17T14:54:35+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T15:31:17.138559+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
  },
  {
   "id": "0c84bc69c9",
