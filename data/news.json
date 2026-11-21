@@ -3520,7 +3520,7 @@
   "slug": "13-suspects-charged-in-22m-freight-train-cargo-theft-scheme-in-us-e0a2d5aa87",
   "title": "13 suspects charged in $22M freight train cargo theft scheme in US",
   "orig_title": "13 suspects charged in $22M freight train cargo theft scheme in US",
-  "summary": "",
+  "summary": "Thirteen men were charged Thursday over an alleged freight train theft operation that prosecutors say took more than $22 million in cargo bound for major retailers. A federal indictment unsealed the same day says the suspects targeted more than 36 trains carrying Nike sneakers, Crocs footwear and power tools that came through the ports of Los Angeles and Long Beach. Prosecutors allege the group disabled trains by damaging their braking systems at set locations, then moved the goods onto trucks. The merchandise was sold to an unidentified company that allegedly resold it. First Assistant US Attorney Bill Essayli called the alleged thefts \"staggering\" and promised further prosecutions in similar cases. All 13 defendants face conspiracy and theft of interstate railroad cargo charges, and two of them also face a count involving violence against railroad carriers. If convicted, they could face federal prison terms of five to 20 years.",
   "why": "",
   "category": "other",
   "region": "US",
@@ -3545,36 +3545,42 @@
   "pub_url": "https://www.usmuslims.com/13-suspects-charged-in-22m-freight-train-cargo-theft-scheme-in-us-382929h.htm",
   "source_note": "ok · 309 words",
   "sum_done": true,
-  "sum_status": "withheld",
-  "source_fp": "cfbf46766512a295",
+  "sum_status": "published",
+  "source_fp": "5da7ee3273a0b042",
   "source_scope": "full_article",
-  "sum_at": "2026-11-21T00:31:16.485767+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-21T00:41:08.944818+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
     "sentence": "1",
-    "quote": "federal indictment unsealed Thursday"
+    "quote": "Thirteen men were charged Thursday"
    },
    {
     "sentence": "2",
-    "quote": "targeted more than 36 freight trains"
+    "quote": "more than 36 freight trains carrying Nike sneakers"
    },
    {
     "sentence": "3",
-    "quote": "deliberately disabled trains by damaging their braking systems"
+    "quote": "damaging their braking systems at predetermined locations"
    },
    {
     "sentence": "4",
+    "quote": "described the scale of the alleged thefts as \"staggering\""
+   },
+   {
+    "sentence": "5",
+    "quote": "violence against railroad carriers"
+   },
+   {
+    "sentence": "6",
     "quote": "could face federal prison sentences ranging from five to 20 years"
    }
   ],
-  "sum_problems": [
-   "7 sentences but only 4 evidence entries",
-   "copies a 12-word run from the source: 'two also face charges of violence against railroad carriers. if convic'"
-  ],
+  "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 55
+  "ai_importance": 70,
+  "sum_v3": true
  },
  {
   "id": "26c44b9d4a",
