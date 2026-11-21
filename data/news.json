@@ -29,6 +29,50 @@
   "sum_pending": false
  },
  {
+  "id": "bf19c26c5d",
+  "slug": "truckers-and-bus-operators-in-southern-rio-de-janeiro-may-face-over-do-bf19c26c5d",
+  "title": "Truckers and Bus Operators in Southern Rio de Janeiro May Face Over Double Toll Costs on BR-393 Under New 'Rota Vale do Café' Concession",
+  "orig_title": "Truckers and Bus Operators in Southern Rio de Janeiro May Face Over Double Toll Costs on BR-393 Under New 'Rota Vale do Café' Concession",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Other",
+  "importance": 51,
+  "source": "CPG Click Oil and Gas",
+  "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPc1FBREFENUU2SHZhR0JSU3ZMWmV0Nk1iS2YzaWVhRlV4TFFvYWRCRENMY0NVaUlibTY3RWZxaGVMd3hFMjBMNEtuYy1WRzBzdW5lWUZJbGhGbE9GWmd2X0xab0YzSWw3bmx4dE4zU21IWkJsODlkN2RmY2hTYmxrSWVCMTlXaGtFQXMta3BKTlBHdkg4Qk9SRHhDNVI0ZkdfbTUzS2RuZ09aY0lDcXJwV2RvMFhfOVRLNXBIZHd3Rm9mMVlMaWtSaUNwX201NFM4U29BbVFPaEFIYnFPXzhxT1NLWDM1U3NBb2dxNXJCZGtHeHBxM1hibnVmMjhLbzkyczNENE5UV1A3MXhzRzhZ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPc1FBREFENUU2SHZhR0JSU3ZMWmV0Nk1iS2YzaWVhRlV4TFFvYWRCRENMY0NVaUlibTY3RWZxaGVMd3hFMjBMNEtuYy1WRzBzdW5lWUZJbGhGbE9GWmd2X0xab0YzSWw3bmx4dE4zU21IWkJsODlkN2RmY2hTYmxrSWVCMTlXaGtFQXMta3BKTlBHdkg4Qk9SRHhDNVI0ZkdfbTUzS2RuZ09aY0lDcXJwV2RvMFhfOVRLNXBIZHd3Rm9mMVlMaWtSaUNwX201NFM4U29BbVFPaEFIYnFPXzhxT1NLWDM1U3NBb2dxNXJCZGtHeHBxM1hibnVmMjhLbzkyczNENE5UV1A3MXhzRzhZ",
+  "snippet": "Truckers and Bus Operators in Southern Rio de Janeiro May Face Over Double Toll Costs on BR-393 Under New 'Rota Vale do Café' Concession CPG Click Oil and Gas",
+  "published": "2026-11-21T05:26:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T06:51:02.927279+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://en.clickpetroleoegas.com.br/truckers-and-bus-operators-in-southern-rio-de-janeiro-state-could-pay-more-than-twice-as-much-in-tolls-on-br-393-the-new-rota-vale-do-cafe-davila/",
+  "source_note": "ok · 1035 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "b72f87874e5f615d",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-21T06:51:02.927279+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 5,
+  "ai_relevant": false
+ },
+ {
   "id": "5c35d4a1fb",
   "slug": "ch-robinson-slams-rico-claims-that-it-used-illegal-carriers-5c35d4a1fb",
   "title": "CH Robinson Slams RICO Claims That It Used 'Illegal' Carriers",
@@ -463,18 +507,15 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 1,
   "source_note": "publisher refused (403)",
   "sum_done": true,
-  "sum_status": "no source text (publisher refused (403))",
-  "dup_of": "c02dac559f"
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "fa632cc7f2",
@@ -4362,10 +4403,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -4408,8 +4447,7 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 70,
-  "sum_v3": true,
-  "dup_of": "c02dac559f"
+  "sum_v3": true
  },
  {
   "id": "26c44b9d4a",
@@ -4932,10 +4970,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -4981,8 +5017,7 @@
   ],
   "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 60,
-  "dup_of": "c02dac559f"
+  "ai_importance": 60
  },
  {
   "id": "f34257265f",
@@ -8995,8 +9030,7 @@
   ],
   "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 60,
-  "followup_of": "47458eb868"
+  "ai_importance": 60
  },
  {
   "id": "846d6e007a",
@@ -9073,6 +9107,35 @@
   "published": "2026-11-20T02:58:10+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T03:11:05.767294+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "f4c69a6650",
+  "slug": "the-mayors-of-mississauga-brampton-and-hamilton-answer-your-questions-f4c69a6650",
+  "title": "The mayors of Mississauga, Brampton and Hamilton answer your questions",
+  "orig_title": "The mayors of Mississauga, Brampton and Hamilton answer your questions",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJMSkFMN1FESVBGLUhMV1VHZ3k5VE5qMHZHQk1QS00wUnRqOEc2QzdKcWtWWGQwQjdWbHZ6cU1sWmt6TWJzZktmc0tXd28tcXFvZmJrdlRKSEQxbUdsRW5jVkJ4dHBFUXBIV1FYbzU2SG0xTDgtR3hJLVIwb1hydmg3MkxVR2RIWnpXUzFtY2JFbTBNYjNodkw5OVpyLW4xNVBEem03TTMwOUlJT1N2MVZrWDRrTkI1MW05eA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJMSkFMN1FESVBGLUhMV1VHZ3k5VE5qMHZHQk1QS00wUnRqOEc2QzdKcWtWWGQwQjdWbHZ6cU1sWmt6TWJzZktmc0tXd28tcXFvZmJrdlRKSEQxbUdsRW5jVkJ4dHBFUXBIV1FYbzU2SG0xTDgtR3hJLVIwb1hydmg3MkxVR2RIWnpXUzFtY2JFbTBNYjNodkw5OVpyLW4xNVBEem03TTMwOUlJT1N2MVZrWDRrTkI1MW05eA",
+  "snippet": "The mayors of Mississauga, Brampton and Hamilton answer your questions CTV News",
+  "published": "2026-11-20T02:45:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T06:51:02.927279+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -9193,10 +9256,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -9241,8 +9302,7 @@
   ],
   "ai_importance": 70,
   "sum_v4": true,
-  "ai_category": "other",
-  "dup_of": "0df12fe063"
+  "ai_category": "other"
  },
  {
   "id": "14c548c16c",
@@ -9323,17 +9383,14 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Illegal Alien Sentenced to 2.5 Years Behind Bars for $7.2M Trucking Cargo Theft Ring in Ca"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://ng.headtopics.com/news/14-arrested-in-22-5-million-southern-california-cargo-90015946",
-  "source_note": "ok · 566 words",
-  "dup_of": "489a260e1f"
+  "source_note": "ok · 566 words"
  },
  {
   "id": "718873d654",
@@ -22231,12 +22288,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
+   "same story as: Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contract"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "47458eb868"
+  "dup_of": "50baa1f41e"
  },
  {
   "id": "d908d7af02",
@@ -34690,12 +34747,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: $7.2M Cargo Theft Ring: IE Man Sentenced To 2 1/2 Years In Federal Prison"
+   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "f58fb8543f"
+  "dup_of": "aa0df11328"
  },
  {
   "id": "1abd29c016",
@@ -36425,8 +36482,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
+  ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -36474,7 +36533,8 @@
    "copies a 12-word run from the source: 'in a scheme that stole more than $7.2 million in cargo from'"
   ],
   "ai_category": "other",
-  "ai_importance": 60
+  "ai_importance": 60,
+  "dup_of": "aa0df11328"
  },
  {
   "id": "b04b97fd64",
@@ -36819,10 +36879,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -36871,8 +36929,7 @@
   ],
   "ai_importance": 68,
   "sum_v4": true,
-  "ai_category": "other",
-  "dup_of": "47458eb868"
+  "ai_category": "other"
  },
  {
   "id": "7f58a7eca4",
