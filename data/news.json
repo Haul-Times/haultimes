@@ -53,7 +53,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3
  },
  {
@@ -38792,77 +38792,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "0ae837733e",
-  "slug": "man-sentenced-to-prison-for-scheme-to-buy-trucking-companies-to-steal-0ae837733e",
-  "title": "Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in cargo from California shippers",
-  "orig_title": "Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in cargo from California shippers",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 48,
-  "source": "CDLLife",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGZ4ejdyTERqUDlYTHNlVzB2Z2dBNW5rMVZMVnB4dTBDS3I3NE9fbXpOMlRNZG10X1E4TDBPbUs4TDJ4R0xZM1VPdXFYeGY4V2ZjcnhsOUh3X25BZFFNLWx0MFpfWUFfZTY2WmJMUFl0TVlDTEFTNXhGa2FrQ3BOeVZPdmVjX0tqUFlWcDdFZ2FzTWlqdk9nUVlFZ0F0VHNoWTl1MjJIOF80U0pVNHFNZHJOVy1TQ3FKamtXdE5IeExqTExRaEtuZjVxUmpwMXcwSTRhdVR3U0E?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGZ4ejdyTERqUDlYTHNlVzB2Z2dBNW5rMVZMVnB4dTBDS3I3NE9fbXpOMlRNZG10X1E4TDBPbUs4TDJ4R0xZM1VPdXFYeGY4V2ZjcnhsOUh3X25BZFFNLWx0MFpfWUFfZTY2WmJMUFl0TVlDTEFTNXhGa2FrQ3BOeVZPdmVjX0tqUFlWcDdFZ2FzTWlqdk9nUVlFZ0F0VHNoWTl1MjJIOF80U0pVNHFNZHJOVy1TQ3FKamtXdE5IeExqTExRaEtuZjVxUmpwMXcwSTRhdVR3U0E",
-  "snippet": "Man sentenced to prison for scheme to buy trucking companies to steal $7.2 million in cargo from California shippers CDLLife",
-  "published": "2026-11-17T21:22:30+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T21:41:11.441318+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
-  ],
-  "labels": [],
-  "kind": "crime",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://cdllife.com/2026/man-sentenced-to-prison-for-scheme-to-buy-trucking-companies-to-steal-7-2-million-in-cargo-from-california-shippers/",
-  "source_note": "ok · 310 words",
-  "sum_done": true,
-  "sum_status": "withheld",
-  "source_fp": "c6181314bb83a5ec",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-17T21:41:11.441318+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "was sentenced to 30 months in federal prison"
-   },
-   {
-    "sentence": "2",
-    "quote": "ordered to pay $2,210,055 in restitution"
-   },
-   {
-    "sentence": "3",
-    "quote": "pleaded guilty to one count of conspiracy"
-   },
-   {
-    "sentence": "4",
-    "quote": "found or purchased"
-   },
-   {
-    "sentence": "5",
-    "quote": "typically bearing the trucking company’s name"
-   },
-   {
-    "sentence": "6",
-    "quote": "approximately $7,210,056"
-   }
-  ],
-  "sum_problems": [
-   "copies a 12-word run from the source: 'to one count of conspiracy to commit theft from interstate or foreign'"
-  ],
-  "ai_category": "other",
-  "ai_importance": 55,
-  "dup_of": "47458eb868"
  },
  {
   "id": "9762fa7a74",
