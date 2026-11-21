@@ -173,7 +173,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1
+  "sum_tries": 2
  },
  {
   "id": "1bda6b3db8",
@@ -386,6 +386,70 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "43dd08328b",
+  "slug": "striking-teamsters-rally-outside-grocery-warehouse-following-unsuccess-43dd08328b",
+  "title": "Striking Teamsters Rally Outside Grocery Warehouse Following Unsuccessful Negotiations",
+  "orig_title": "Striking Teamsters Rally Outside Grocery Warehouse Following Unsuccessful Negotiations",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "US",
+  "importance": 45,
+  "source": "InDepthNH.org",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2xPS1ExRjJfVV9xZVprS1loLUI1QXBVZTBhVE8xZGtTNzA2SjJHMnZsZE02T1BlM0NZY2oycnRIX2xVcjJtQzREM19Ob0pUa1FEcHhnUmJmUmpGWDJQdnBUakk5X3I1QnFXOFlnd3JlVHo2UlIxZ2pzdmZoNGtkemI3MGRGRFg2TE9UbUdCckFsV2pZMGt5dG10VFpHd1N5S3p1am1qSmZqeEhjZXhjZXNBYVBMVVpnenZzUw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2xPS1ExRjJfVV9xZVprS1loLUI1QXBVZTBhVE8xZGtTNzA2SjJHMnZsZE02T1BlM0NZY2oycnRIX2xVcjJtQzREM19Ob0pUa1FEcHhnUmJmUmpGWDJQdnBUakk5X3I1QnFXOFlnd3JlVHo2UlIxZ2pzdmZoNGtkemI3MGRGRFg2TE9UbUdCckFsV2pZMGt5dG10VFpHd1N5S3p1am1qSmZqeEhjZXhjZXNBYVBMVVpnenZzUw",
+  "snippet": "Striking Teamsters Rally Outside Grocery Warehouse Following Unsuccessful Negotiations InDepthNH.org",
+  "published": "2026-11-20T22:02:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T01:01:16.864637+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://indepthnh.org/2026/11/20/striking-teamsters-rally-outside-grocery-warehouse-following-unsuccessful-negotiations/",
+  "source_note": "ok · 461 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "e44764b21ddce709",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-21T01:01:16.864637+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "the company had refused the union’s demand to maintain pension fund payments"
+   },
+   {
+    "sentence": "2",
+    "quote": "Two hundred and fifty union members have been on strike since November 5"
+   },
+   {
+    "sentence": "3",
+    "quote": "union members voted 98% to authorize a strike"
+   },
+   {
+    "sentence": "4",
+    "quote": "They proposed a nominal match, which is still a non-starter."
+   },
+   {
+    "sentence": "5",
+    "quote": "Picketing is round-the-clock"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'associated grocers has proposed replacing the teamster pension fund wi'"
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 40
  },
  {
   "id": "3778a08858",

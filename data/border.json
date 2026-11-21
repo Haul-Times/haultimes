@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T00:51:02.101350+00:00",
- "hour_now": 19,
+ "updated": "2026-11-21T01:01:16.639594+00:00",
+ "hour_now": 20,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -18,9 +18,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 15,
-    "status": "15 minutes",
-    "updated": "2026-11-20 18:53 EST"
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-20 19:49 EST"
    },
    "usual": {
     "south": [
@@ -70,7 +70,7 @@
      34,
      38,
      21,
-     20,
+     17,
      20,
      3,
      0
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 7:37 pm EST",
+    "updated": "At 7:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:37 pm EST",
+    "updated": "At 7:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -370,7 +370,7 @@
      6,
      10,
      27,
-     44,
+     42,
      41,
      24,
      6
@@ -419,7 +419,7 @@
      5,
      5,
      5,
-     0,
+     1,
      0,
      0,
      0
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 pm CST",
+    "updated": "At 8:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "19:43:09",
+    "updated": "19:58:13",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:43:09",
+    "updated": "19:58:13",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1237,7 +1237,7 @@
      15,
      15,
      25,
-     60,
+     52,
      19,
      0,
      0
@@ -1263,7 +1263,7 @@
      0,
      0,
      4,
-     0,
+     2,
      0,
      0,
      0
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:00 pm PST",
+    "updated": "At 5:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1387,7 +1387,7 @@
      8,
      8,
      8,
-     0,
+     2,
      0,
      0,
      0

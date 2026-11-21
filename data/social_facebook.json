@@ -4418,7 +4418,8 @@
   "e0a2d5aa87": "skipped|importance 62 is below this platform's threshold (65)",
   "bcf2256ac9": "skipped|importance 45 is below this platform's threshold (65)",
   "0aa4f9b6fb": "skipped|importance 50 is below this platform's threshold (65)",
-  "aa938b1d39": "skipped|importance 50 is below this platform's threshold (65)"
+  "aa938b1d39": "skipped|importance 50 is below this platform's threshold (65)",
+  "43dd08328b": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9285,6 +9286,13 @@
    "title": "New fines facing unsafe trucking operators in Alberta, if legislation passes",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T01:02:23.465202+00:00",
+   "story_id": "43dd08328b",
+   "title": "Striking Teamsters Rally Outside Grocery Warehouse Following Unsuccessful Negotiations",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

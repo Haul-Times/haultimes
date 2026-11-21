@@ -1,9 +1,9 @@
 {
- "last_attempt": "2026-11-21T00:51:02.207681+00:00",
- "sources_ok": 22,
- "sources_failed": 1,
+ "last_attempt": "2026-11-21T01:01:16.864637+00:00",
+ "sources_ok": 19,
+ "sources_failed": 4,
  "interval_minutes": 10,
- "last_success": "2026-11-21T00:51:02.207681+00:00",
- "last_new_story": "2026-11-21T00:51:02.207681+00:00",
+ "last_success": "2026-11-21T01:01:16.864637+00:00",
+ "last_new_story": "2026-11-21T01:01:16.864637+00:00",
  "last_result": "ok"
 }
