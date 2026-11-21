@@ -3457,7 +3457,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/union-pacific-norfolk-southern-merger-draws-labor-support-shipper-conc-7db84ccb46/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=7db84ccb46",
    "caption": "Union Pacific–Norfolk Southern Merger Draws Labor Support, Shipper Concerns.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-20T16:21:34.905412+00:00",
    "published": "2026-11-20T16:10:31+00:00",
    "score": 67,
@@ -4388,7 +4388,7 @@
   "50baa1f41e": "skipped|minor item (crime) or low-quality source",
   "1788d3d0db": "skipped|importance 55 is below this platform's threshold (65)",
   "7de5f0a5c0": "expired|stale before a slot opened (published 12h ago)",
-  "7db84ccb46": "queued|importance 67 (threshold 65), Industry, trade publication",
+  "7db84ccb46": "expired|stale before a slot opened (published 12h ago)",
   "9f32659279": "skipped|minor item (feature) or low-quality source",
   "062a68f0e2": "expired|stale before a slot opened (published 12h ago)",
   "6eaf6190f3": "skipped|importance 55 is below this platform's threshold (65)",
@@ -9326,6 +9326,13 @@
    "at": "2026-11-21T04:01:27.127473+00:00",
    "story_id": "7de5f0a5c0",
    "title": "Good Carriers, Wrong Drivers: Why Cargo Theft Is Moving Past Carrier Vetting",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-21T04:11:32.487575+00:00",
+   "story_id": "7db84ccb46",
+   "title": "Union Pacific–Norfolk Southern Merger Draws Labor Support, Shipper Concerns",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
   }

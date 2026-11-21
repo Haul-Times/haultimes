@@ -30355,6 +30355,35 @@
   "sum_pending": false
  },
  {
+  "id": "a55471e894",
+  "slug": "voyager-1-the-farthest-human-made-object-is-now-one-light-day-from-ear-a55471e894",
+  "title": "Voyager 1, the farthest human-made object, is now one light-day from Earth",
+  "orig_title": "Voyager 1, the farthest human-made object, is now one light-day from Earth",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkJLOVZGQUwyVWlZZ2FtLThERjRsT1dMdWg2aDBIMko3V1Q2WHpDRDQzU2dZNE15NmlVY3BwWGhaald3TnJhZWxBcVdYcXZJdHVIcHNKVGwzSXJfb0hVTlRhS2xYZXA0N1JnRzZSUWhEYjdvRlZXOGg3QS1STl9OQ0RyMXVUX2ZZbnVoQnI3MUNMYjBCcXJTeTNsUW5YdDlKcXpJZGduc1Zva25VaTF1SXpNNA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkJLOVZGQUwyVWlZZ2FtLThERjRsT1dMdWg2aDBIMko3V1Q2WHpDRDQzU2dZNE15NmlVY3BwWGhaald3TnJhZWxBcVdYcXZJdHVIcHNKVGwzSXJfb0hVTlRhS2xYZXA0N1JnRzZSUWhEYjdvRlZXOGg3QS1STl9OQ0RyMXVUX2ZZbnVoQnI3MUNMYjBCcXJTeTNsUW5YdDlKcXpJZGduc1Zva25VaTF1SXpNNA",
+  "snippet": "Voyager 1, the farthest human-made object, is now one light-day from Earth CTV News",
+  "published": "2026-11-18T14:25:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T04:11:08.429698+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9bef730720",
   "slug": "boreal-gold-increases-fay-lake-property-39-by-staking-in-manitoba-9bef730720",
   "title": "Boreal Gold Increases Fay Lake Property 39% by Staking in Manitoba",
