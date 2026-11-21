@@ -503,6 +503,35 @@
   "sum_pending": false
  },
  {
+  "id": "59479bf950",
+  "slug": "geodis-u-s-q3-delivery-costs-rose-three-times-faster-than-inflation-59479bf950",
+  "title": "Geodis: U.S. Q3 delivery costs rose three times faster than inflation",
+  "orig_title": "Geodis: U.S. Q3 delivery costs rose three times faster than inflation",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "DC Velocity",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEJ3akZ6UTRMSjRtRlV4TnYwV2xNVmhnLXVqa2NKcW9Ddk83U2hicV9talhZTE00eFpnemtpdFpKQUcwNUFRZXdqTmVYU2hMMDBkR01ITUV1SFRuTUlma2MtajJhZVBLRTY5MW13VGxxMG1zQTlLbUJjTXNwRG96MVNpS0NxelR6dmZKTjVMZlRoSnFZTmQxb0hualltT0tpd3Z6b211OXd1aF8tdkpFZ085dmJCNVZ5MV9FSTlzVWdrek9oVHNz?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEJ3akZ6UTRMSjRtRlV4TnYwV2xNVmhnLXVqa2NKcW9Ddk83U2hicV9talhZTE00eFpnemtpdFpKQUcwNUFRZXdqTmVYU2hMMDBkR01ITUV1SFRuTUlma2MtajJhZVBLRTY5MW13VGxxMG1zQTlLbUJjTXNwRG96MVNpS0NxelR6dmZKTjVMZlRoSnFZTmQxb0hualltT0tpd3Z6b211OXd1aF8tdkpFZ085dmJCNVZ5MV9FSTlzVWdrek9oVHNz",
+  "snippet": "Geodis: U.S. Q3 delivery costs rose three times faster than inflation DC Velocity",
+  "published": "2026-11-21T01:56:49+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T14:11:02.702576+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c9107cf665",
   "slug": "mayor-expecting-major-changes-to-premature-draft-of-bike-lane-bill-c9107cf665",
   "title": "Mayor expecting major changes to ‘premature draft’ of bike lane bill",
@@ -1585,6 +1614,35 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "04be1fb608",
+  "slug": "opp-officer-charged-with-dangerous-driving-in-school-bus-crash-that-le-04be1fb608",
+  "title": "OPP officer charged with dangerous driving in school bus crash that left teenage girl seriously injured",
+  "orig_title": "OPP officer charged with dangerous driving in school bus crash that left teenage girl seriously injured",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbzN2WkRIbkdoR1l2b1ZfSUlUYlpJOHowU1VoTXg1MThvdEcwb29vUC1WUEdRcFVUQmZOc0VBcmQxdzBnNGFKa3FZalVwRF92dnhUb2U5SlFqQzZKMEU5OFR5VGIyVnZnSzFXRmFsd2xRT2UtWGNiMEJubHBsUHlhU2p3cUFvb24zRy1XQ3lIUGM1bUJuTWRGanFtZVhhWk50NGlaQkI5R2NBd1REU3ZKLU9HdnEycncwZ3dVWTdpaDRKc2otWGt0bEg0SnNBTWRQZXpTS3Q1ZGhMR2VMUkk4ZmF1ZUQtMGJCUFE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbzN2WkRIbkdoR1l2b1ZfSUlUYlpJOHowU1VoTXg1MThvdEcwb29vUC1WUEdRcFVUQmZOc0VBcmQxdzBnNGFKa3FZalVwRF92dnhUb2U5SlFqQzZKMEU5OFR5VGIyVnZnSzFXRmFsd2xRT2UtWGNiMEJubHBsUHlhU2p3cUFvb24zRy1XQ3lIUGM1bUJuTWRGanFtZVhhWk50NGlaQkI5R2NBd1REU3ZKLU9HdnEycncwZ3dVWTdpaDRKc2otWGt0bEg0SnNBTWRQZXpTS3Q1ZGhMR2VMUkk4ZmF1ZUQtMGJCUFE",
+  "snippet": "OPP officer charged with dangerous driving in school bus crash that left teenage girl seriously injured CTV News",
+  "published": "2026-11-20T20:48:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T14:11:02.702576+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
