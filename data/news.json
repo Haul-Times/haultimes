@@ -1667,6 +1667,35 @@
   "sum_pending": false
  },
  {
+  "id": "473965c696",
+  "slug": "casino-truck-show-crowned-nsw-s-best-visitor-experience-473965c696",
+  "title": "Casino Truck Show Crowned NSW’s Best Visitor Experience",
+  "orig_title": "Casino Truck Show Crowned NSW’s Best Visitor Experience",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Northern Rivers Times",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTdnU0Q2NllfaFhEV0JGVXlJM3hlTXlIUjVJTVFfS1B1c3B3Rk5JdVRqRVJRLXhyOWYtblFDanlTcm5TLV9icTBIdUF6Wk1rUWJ1Z0lhOHNrbS1jVWRHd21fUDUxRnQ4Ul91dURWOEMwLXJFb0xQNW11Tm9nYU40OVk4VDNxSXE2R294c044XzM5bjg5WFVDTDdQcFlFWGhCOFljdzZwU2F2YkJyRVpMRkdjS21PWTA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTdnU0Q2NllfaFhEV0JGVXlJM3hlTXlIUjVJTVFfS1B1c3B3Rk5JdVRqRVJRLXhyOWYtblFDanlTcm5TLV9icTBIdUF6Wk1rUWJ1Z0lhOHNrbS1jVWRHd21fUDUxRnQ4Ul91dURWOEMwLXJFb0xQNW11Tm9nYU40OVk4VDNxSXE2R294c044XzM5bjg5WFVDTDdQcFlFWGhCOFljdzZwU2F2YkJyRVpMRkdjS21PWTA",
+  "snippet": "Casino Truck Show Crowned NSW’s Best Visitor Experience Northern Rivers Times",
+  "published": "2026-11-20T22:27:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T21:01:04.672199+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "7a762cc587",
   "slug": "j-b-hunt-broker-liability-case-proceeding-after-split-decision-7a762cc587",
   "title": "J.B. Hunt broker liability case proceeding after split decision",
