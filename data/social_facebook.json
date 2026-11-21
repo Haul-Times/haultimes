@@ -4421,7 +4421,8 @@
   "aa938b1d39": "skipped|importance 50 is below this platform's threshold (65)",
   "43dd08328b": "skipped|importance 45 is below this platform's threshold (65)",
   "5c35d4a1fb": "skipped|importance 50 is below this platform's threshold (65)",
-  "5487a067b6": "skipped|importance 55 is below this platform's threshold (65)"
+  "5487a067b6": "skipped|importance 55 is below this platform's threshold (65)",
+  "cfd66d1192": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9356,6 +9357,13 @@
    "at": "2026-11-21T07:01:24.347360+00:00",
    "story_id": "5487a067b6",
    "title": "Supply Chain Analyst in Dearborn, MI for Penske Truck Leasing",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T13:51:23.954067+00:00",
+   "story_id": "cfd66d1192",
+   "title": "DHL Express makes customs clearance easier for small cross-border shippers",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
