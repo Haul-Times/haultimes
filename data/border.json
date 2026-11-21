@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:51:13.907368+00:00",
- "hour_now": 22,
+ "updated": "2026-11-21T04:01:03.838599+00:00",
+ "hour_now": 23,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:37 pm EST",
+    "updated": "At 10:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 18,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 10:37 pm EST",
+    "status": "delay",
+    "updated": "At 10:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -347,7 +347,7 @@
      1,
      0,
      0,
-     0
+     2
     ],
     "north": [
      10,
@@ -373,7 +373,7 @@
      34,
      30,
      16,
-     6
+     7
     ]
    },
    "best_south": "Usually fastest around 1 AM",
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "22:48:38",
+    "updated": "22:58:41",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 pm PST",
+    "updated": "At 8:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1341,7 +1341,7 @@
      5,
      5,
      6,
-     6
+     8
     ]
    },
    "best_south": "Usually fastest around 12 AM",
