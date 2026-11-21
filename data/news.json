@@ -5008,6 +5008,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "8e85063b8e",
+  "slug": "ford-super-duty-pickup-trucks-begin-rolling-out-at-oakville-plant-8e85063b8e",
+  "title": "Ford Super Duty pickup trucks begin rolling out at Oakville plant",
+  "orig_title": "Ford Super Duty pickup trucks begin rolling out at Oakville plant",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOExsR2Q0OWlKY0xpLUN4bDY4TlJGU1JGSVVXZE8yN0ZFQ1FhSlhUbmhQOW5sU0pJdVBPQVZkWl8yTnVoaFNFSlZvU2pjQjQxdHJXZXh6VERDNktlelYwMXU2cG5ETTdFNldYTHo2X3RGaC1peHRsTnhSQmtGdm1FWnBuVFBPXzg0SnJiLWNCWmJONXZoeW91SGJVNFUwQ1RmblVpSlJmR2dSVm1uRXROZjBBNEl3ZFhHUDRTdTA1aDVjNktJbFQ0cFdyWjMydUdiUjd1TzRIXzg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOExsR2Q0OWlKY0xpLUN4bDY4TlJGU1JGSVVXZE8yN0ZFQ1FhSlhUbmhQOW5sU0pJdVBPQVZkWl8yTnVoaFNFSlZvU2pjQjQxdHJXZXh6VERDNktlelYwMXU2cG5ETTdFNldYTHo2X3RGaC1peHRsTnhSQmtGdm1FWnBuVFBPXzg0SnJiLWNCWmJONXZoeW91SGJVNFUwQ1RmblVpSlJmR2dSVm1uRXROZjBBNEl3ZFhHUDRTdTA1aDVjNktJbFQ0cFdyWjMydUdiUjd1TzRIXzg",
+  "snippet": "Ford Super Duty pickup trucks begin rolling out at Oakville plant CTV News",
+  "published": "2026-11-20T16:10:30+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T05:21:05.220944+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "198c47bee8",
   "slug": "all-five-of-ontario-s-education-unions-now-have-strike-mandates-here-i-198c47bee8",
   "title": "All five of Ontario’s education unions now have strike mandates. Here is what that could mean for students",
@@ -42242,35 +42271,6 @@
   "source_note": "no usable text",
   "sum_done": true,
   "sum_status": "no source text (no usable text)"
- },
- {
-  "id": "25a82bdd3f",
-  "slug": "labor-strike-shuts-down-dozens-of-bangladesh-garment-factories-25a82bdd3f",
-  "title": "Labor Strike Shuts Down Dozens of Bangladesh Garment Factories",
-  "orig_title": "Labor Strike Shuts Down Dozens of Bangladesh Garment Factories",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "SupplyChainBrain",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR21JWFpyM3ZyYkVneGJreFZKWWxNazRLeEtrLVU0dDVsSmFSRW5ramY2cElZYkYwN29VTzdrakdxYi0wS3RCMVdadjE1ZGdPZ01OOEhHZE1EWWdhZFRkXzRFdXlGZTE5c0tGV3V6V0xIZm5SaTNMVW5HUFI5Q3pubUNvRlBRTFJFYzlBeWxaS3NiLTF6ejVpYThaY1pndGtmREdITDdJNEJPLU0wdDZ3U1RVOFE3T21OdWt3T2IxSWZab0FHUW1zVlZzem1rcTctT3otcGYzVWNXdXJz?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR21JWFpyM3ZyYkVneGJreFZKWWxNazRLeEtrLVU0dDVsSmFSRW5ramY2cElZYkYwN29VTzdrakdxYi0wS3RCMVdadjE1ZGdPZ01OOEhHZE1EWWdhZFRkXzRFdXlGZTE5c0tGV3V6V0xIZm5SaTNMVW5HUFI5Q3pubUNvRlBRTFJFYzlBeWxaS3NiLTF6ejVpYThaY1pndGtmREdITDdJNEJPLU0wdDZ3U1RVOFE3T21OdWt3T2IxSWZab0FHUW1zVlZzem1rcTctT3otcGYzVWNXdXJz",
-  "snippet": "Labor Strike Shuts Down Dozens of Bangladesh Garment Factories SupplyChainBrain",
-  "published": "2026-11-16T18:26:13+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T05:21:03.770726+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "382fc39fb6",

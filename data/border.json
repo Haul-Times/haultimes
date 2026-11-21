@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:11:04.736116+00:00",
+ "updated": "2026-11-21T05:21:05.018482+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -24,7 +24,7 @@
    },
    "usual": {
     "south": [
-     1,
+     2,
      0,
      0,
      0,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:09:02",
+    "updated": "00:19:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 30,
+    "wait": 19,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At Midnight EST",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -249,7 +249,7 @@
    },
    "usual": {
     "south": [
-     6,
+     8,
      0,
      0,
      2,
@@ -275,7 +275,7 @@
      5
     ],
     "north": [
-     4,
+     5,
      4,
      6,
      6,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At Midnight EST",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:09:02",
+    "updated": "00:19:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:09:02",
+    "updated": "00:19:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -535,11 +535,11 @@
    "ports": "Massena, NY ↔ Cornwall, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:09:02",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -601,7 +601,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 2 AM",
+   "best_south": "Usually fastest around 12 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:09:02",
+    "updated": "00:19:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -760,11 +760,11 @@
    "ports": "Highgate Springs, VT ↔ Saint-Armand, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:09:02",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -826,7 +826,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 8 AM",
+   "best_south": "Usually fastest around 12 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:09:02",
+    "updated": "00:19:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:09:02",
+    "updated": "00:19:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -988,8 +988,8 @@
     "wait": null,
     "fast_wait": null,
     "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:09:02",
+    "status": "N/A",
+    "updated": "00:19:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1318,7 +1318,7 @@
      0
     ],
     "north": [
-     6,
+     7,
      6,
      7,
      6,
@@ -1447,13 +1447,13 @@
    },
    {
     "name": "Calais International Avenue",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Calais Milltown",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
