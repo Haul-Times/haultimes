@@ -38908,81 +38908,6 @@
   "sum_pending": false
  },
  {
-  "id": "f58fb8543f",
-  "slug": "7-2m-cargo-theft-ring-ie-man-sentenced-to-2-1-2-years-in-federal-priso-f58fb8543f",
-  "title": "$7.2M Cargo Theft Ring: IE Man Sentenced To 2 1/2 Years In Federal Prison",
-  "orig_title": "$7.2M Cargo Theft Ring: IE Man Sentenced To 2 1/2 Years In Federal Prison",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 42,
-  "source": "Patch",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkxabWNsMF9yT0lOSlBpYkluX2tEMVR4Tm11c1RGaW9STVdvdUpKNHN0d3ZDZHYtM09zZERLQWJjTWt6LU0ybDEzN0ZucHhZSldPd1NESVFWcjRTazl5dGZJRkNxZzJUTy1GMEs4UVJqYzVGaE5fc1ZkS0JyWE4xeFJlNVI4QWdjNkhiZUtCcFFsdTR1bDh2SEo2LWFhTmxsRjloQ3gydVhWZDlPdENUSVhLbk1TNzjSAdABQVVfeXFMTmRjdkt1REZLUlk3Y2lFVXp6bVp3bjJ4VTVxX3pyTUI3bmVVTTB4M3I2ZzNRN1c1V2h0RmdsM19TY2RkOFg2SWFzd1BreXppeEFtTWJmT1l6YllJSmdqZktydDRtc29XSUNKMGJiOEFEamdmWVU5aGJfZGc5Y1JQUVhjd2cyZXNYaXZzZ0xaeHJST05jTlR0R1VBREVaaHVsWC1TNWhFTVZjZkd6OEtzUmx5MjZJYUpJVFY2VHZvM2M2bDh5UkEyMDd5MTJSdXNsZQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkxabWNsMF9yT0lOSlBpYkluX2tEMVR4Tm11c1RGaW9STVdvdUpKNHN0d3ZDZHYtM09zZERLQWJjTWt6LU0ybDEzN0ZucHhZSldPd1NESVFWcjRTazl5dGZJRkNxZzJUTy1GMEs4UVJqYzVGaE5fc1ZkS0JyWE4xeFJlNVI4QWdjNkhiZUtCcFFsdTR1bDh2SEo2LWFhTmxsRjloQ3gydVhWZDlPdENUSVhLbk1TNzjSAdABQVVfeXFMTmRjdkt1REZLUlk3Y2lFVXp6bVp3bjJ4VTVxX3pyTUI3bmVVTTB4M3I2ZzNRN1c1V2h0RmdsM19TY2RkOFg2SWFzd1BreXppeEFtTWJmT1l6YllJSmdqZktydDRtc29XSUNKMGJiOEFEamdmWVU5aGJfZGc5Y1JQUVhjd2cyZXNYaXZzZ0xaeHJST05jTlR0R1VBREVaaHVsWC1TNWhFTVZjZkd6OEtzUmx5MjZJYUpJVFY2VHZvM2M2bDh5UkEyMDd5MTJSdXNsZQ",
-  "snippet": "$7.2M Cargo Theft Ring: IE Man Sentenced To 2 1/2 Years In Federal Prison Patch",
-  "published": "2026-11-17T20:36:05+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T20:41:04.788984+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
-  ],
-  "labels": [],
-  "kind": "crime",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://patch.com/california/lakeelsinore-wildomar/7-2m-cargo-theft-ring-ie-man-sentenced-2-1-2-years-federal-prison",
-  "source_note": "ok · 299 words",
-  "sum_done": true,
-  "sum_status": "withheld",
-  "source_fp": "3229ca6201bcf1fc",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-18T13:31:08.295452+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "federal prosecutors said"
-   },
-   {
-    "sentence": "2",
-    "quote": "U.S. District Judge Kenly Kiya Kato"
-   },
-   {
-    "sentence": "3",
-    "quote": "pleaded guilty Aug. 13 to one count of conspiracy"
-   },
-   {
-    "sentence": "4",
-    "quote": "bought or used existing trucking companies between September 2021 and March 2025"
-   },
-   {
-    "sentence": "5",
-    "quote": "trucks bearing the trucking companies' names"
-   },
-   {
-    "sentence": "6",
-    "quote": "roughly $7.2 million in losses attributed to Singh's conduct"
-   },
-   {
-    "sentence": "7",
-    "quote": "scheduled to stand trial in March 2027"
-   }
-  ],
-  "sum_problems": [
-   "copies a 12-word run from the source: 'in a scheme that stole more than $7.2 million in cargo from'"
-  ],
-  "ai_category": "other",
-  "ai_importance": 60,
-  "dup_of": "aa0df11328"
- },
- {
   "id": "b04b97fd64",
   "slug": "man-repeatedly-punched-in-face-on-montreal-city-bus-police-seek-suspec-b04b97fd64",
   "title": "Man repeatedly punched in face on Montreal city bus; police seek suspect",
@@ -38999,35 +38924,6 @@
   "published": "2026-11-17T20:33:04+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T00:01:13.557832+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "e24637ca30",
-  "slug": "how-cargo-thieves-exploit-security-gaps-in-high-value-shipments-e24637ca30",
-  "title": "How Cargo Thieves Exploit Security Gaps in High-Value Shipments",
-  "orig_title": "How Cargo Thieves Exploit Security Gaps in High-Value Shipments",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Security Info Watch",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS2lQRkNodWN4SXRtLU42aDZhUXFDcER2dGJLNVZmSjVuM20wcEg1YlMzUHplaUVzVzRUbHI4N2NFQnRTVmFBM1Jtd0ROWnVuT25UMHFMVTJWOG15SlFXcGhGV0VBbjhnbkkxOEljTkUwZHdPQ1M3SkFuZ3NWN0pxQzJ2aDVwMVRIbVJDRGk4ZzBRbFBpN01RaE1DRE1DNmg2dTRyWjdmSWJhRGxYSXN1V0Y0UUtadW5Vb2ZGcUc2eUVuWW9heEpJUTZjR1pFSE0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS2lQRkNodWN4SXRtLU42aDZhUXFDcER2dGJLNVZmSjVuM20wcEg1YlMzUHplaUVzVzRUbHI4N2NFQnRTVmFBM1Jtd0ROWnVuT25UMHFMVTJWOG15SlFXcGhGV0VBbjhnbkkxOEljTkUwZHdPQ1M3SkFuZ3NWN0pxQzJ2aDVwMVRIbVJDRGk4ZzBRbFBpN01RaE1DRE1DNmg2dTRyWjdmSWJhRGxYSXN1V0Y0UUtadW5Vb2ZGcUc2eUVuWW9heEpJUTZjR1pFSE0",
-  "snippet": "How Cargo Thieves Exploit Security Gaps in High-Value Shipments Security Info Watch",
-  "published": "2026-11-17T20:32:45+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T20:41:04.788984+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
