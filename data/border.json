@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:01:05.483204+00:00",
+ "updated": "2026-11-21T15:11:06.743112+00:00",
  "hour_now": 10,
  "have_us": true,
  "have_ca": true,
@@ -12,9 +12,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "4",
+    "lanes": "5",
     "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 9:47 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 9,
-    "status": "9 minutes",
-    "updated": "2026-11-21 09:40 EST"
+    "wait": 12,
+    "status": "12 minutes",
+    "updated": "2026-11-21 10:00 EST"
    },
    "usual": {
     "south": [
@@ -285,7 +285,7 @@
      4,
      3,
      9,
-     18,
+     17,
      5,
      8,
      13,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:47 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 4,
-    "status": "4 minutes",
-    "updated": "2026-11-21 09:40 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-21 10:00 EST"
    },
    "usual": {
     "south": [
@@ -334,7 +334,7 @@
      0,
      0,
      8,
-     3,
+     2,
      2,
      0,
      0,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "09:55:22",
+    "updated": "10:10:23",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "09:55:22",
+    "updated": "10:10:23",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "1",
-    "status": "delay",
-    "updated": "At 8:00 am CST",
+    "status": "no delay",
+    "updated": "At 9:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1084,7 +1084,7 @@
      null,
      null,
      11,
-     13,
+     12,
      28,
      26,
      12,
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-21 07:40 PDT"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-21 08:00 PDT"
    },
    "usual": {
     "south": [
@@ -1302,7 +1302,7 @@
      0,
      0,
      11,
-     26,
+     23,
      14,
      0,
      0,
@@ -1328,7 +1328,7 @@
      7,
      5,
      5,
-     5,
+     6,
      5,
      9,
      15,
@@ -1357,13 +1357,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 am PST",
+    "updated": "At 8:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-21 07:40 PDT"
+    "updated": "2026-11-21 08:00 PDT"
    },
    "usual": {
     "south": [
