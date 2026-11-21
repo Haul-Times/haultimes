@@ -41080,35 +41080,6 @@
   "sum_pending": false
  },
  {
-  "id": "cfaeb3e033",
-  "slug": "ftr-s-shippers-conditions-index-cratered-to-17-3-in-september-cfaeb3e033",
-  "title": "FTR’s Shippers Conditions Index cratered to -17.3 in September",
-  "orig_title": "FTR’s Shippers Conditions Index cratered to -17.3 in September",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "American Journal of Transportation",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXRtTW1JM0I3aVJVWVRZalhWNEMwZ0pfVUdPZVpRNzNHVzNrT1NTUFNkZVVRa2ppYi1XRzk4NGdjemJOOGg3RkRjdklBWGZEaDY2dnE4M2sxTkhBMllVNkFLUjNDVklkQnpMVzdhME5pVGxtR0ViT19tY1JEbmFvQ0M5eHp0emhwWU1abEk1cw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXRtTW1JM0I3aVJVWVRZalhWNEMwZ0pfVUdPZVpRNzNHVzNrT1NTUFNkZVVRa2ppYi1XRzk4NGdjemJOOGg3RkRjdklBWGZEaDY2dnE4M2sxTkhBMllVNkFLUjNDVklkQnpMVzdhME5pVGxtR0ViT19tY1JEbmFvQ0M5eHp0emhwWU1abEk1cw",
-  "snippet": "FTR’s Shippers Conditions Index cratered to -17.3 in September American Journal of Transportation",
-  "published": "2026-11-17T13:37:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T13:51:06.780868+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "27332026fc",
   "slug": "gtcc-and-old-dominion-freight-line-support-future-truckers-27332026fc",
   "title": "GTCC and Old Dominion Freight Line support future truckers",
@@ -41202,35 +41173,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "e945b83256",
-  "slug": "oil-prices-swing-as-vessel-attacks-reported-around-hormuz-e945b83256",
-  "title": "Oil prices swing as vessel attacks reported around Hormuz",
-  "orig_title": "Oil prices swing as vessel attacks reported around Hormuz",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jOVA3amNSMlRnNUpJODdmc2VOOGJ5YTk2Y3ZybmRfNUJTS21rb1IzNWFKaTJhQWEtbHZ5UU5jM0lCckZFV05QX2xnalByVldiSC1rSExBY050RVZCbENkZEJfSm45ZUhh?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jOVA3amNSMlRnNUpJODdmc2VOOGJ5YTk2Y3ZybmRfNUJTS21rb1IzNWFKaTJhQWEtbHZ5UU5jM0lCckZFV05QX2xnalByVldiSC1rSExBY050RVZCbENkZEJfSm45ZUhh",
-  "snippet": "Oil prices swing as vessel attacks reported around Hormuz Transport Topics",
-  "published": "2026-11-17T13:10:06+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T13:51:06.780868+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "ocean/air freight with no North American trucking link"
   ],
   "labels": [],
   "kind": "rejected",
