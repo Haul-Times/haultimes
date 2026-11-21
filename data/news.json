@@ -1637,6 +1637,35 @@
   "sum_pending": false
  },
  {
+  "id": "a4f1a117f5",
+  "slug": "a-universal-language-songs-stories-bring-intergenerational-joy-to-seni-a4f1a117f5",
+  "title": "‘A universal language’: Songs, stories bring intergenerational joy to seniors’ residence",
+  "orig_title": "‘A universal language’: Songs, stories bring intergenerational joy to seniors’ residence",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRFNYRi14YktqVUpCN2pMME1iSmNTMGVfNUlOQ25zMTRaMkljM2dmTW1uc3hsQTAxV1cxUUl5eXpjenNpdHpKMU95MkVhbUZDdDFzeXRiZ202MXA4TkNZVG4zNlpXaHdvdVBKZnFkVXBoZ1gzemJycDR5RHJpQTZpbGVvX29xamt1NjB1UDJ0RjhZMmx6d2dTbDJKUExBUmJIMWktSDl1LVRqb2RycHVnVlJWYnNnMllWUVNEOVU1RG5uWlM4bU85eldrZEhEcGM3akpLUXFET0ZWeUpiM293?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRFNYRi14YktqVUpCN2pMME1iSmNTMGVfNUlOQ25zMTRaMkljM2dmTW1uc3hsQTAxV1cxUUl5eXpjenNpdHpKMU95MkVhbUZDdDFzeXRiZ202MXA4TkNZVG4zNlpXaHdvdVBKZnFkVXBoZ1gzemJycDR5RHJpQTZpbGVvX29xamt1NjB1UDJ0RjhZMmx6d2dTbDJKUExBUmJIMWktSDl1LVRqb2RycHVnVlJWYnNnMllWUVNEOVU1RG5uWlM4bU85eldrZEhEcGM3akpLUXFET0ZWeUpiM293",
+  "snippet": "‘A universal language’: Songs, stories bring intergenerational joy to seniors’ residence CTV News",
+  "published": "2026-11-20T20:21:49+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T10:51:05.366009+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "2e810c277c",
   "slug": "conservative-leader-slams-carney-s-comments-on-oligopolies-amid-quebco-2e810c277c",
   "title": "Conservative leader slams Carney's comments on oligopolies amid Quebcor-Telus talks",
@@ -28432,6 +28461,35 @@
   "sum_pending": false
  },
  {
+  "id": "ad04d5703c",
+  "slug": "metro-ceo-says-winning-back-consumers-a-priority-after-labour-strike-d-ad04d5703c",
+  "title": "Metro CEO says winning back consumers a ‘priority’ after labour strike dented results",
+  "orig_title": "Metro CEO says winning back consumers a ‘priority’ after labour strike dented results",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTndMVnlnMWtHNHlaN0F3MmdSQUR1QXdxZ2tTRml5cGthRjNHRmVBSXVVcjRfdDJqaV85U0UyUDF6NlQtWXZRYXJqa1ZmNEhqZzN1SnRPVzJzejBtSzJ0eTBwbVRUdndreXNiZzZ0U0Q0V0FBRS03U1JISWhUN18zNHRPbjN0ZFVZZlEwSlo1c2tPc2tBQzZRVzMwdEMwaFoyMWVKOVJVNDlyR2xPSE1iVWZrR3lEOFBWN1E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTndMVnlnMWtHNHlaN0F3MmdSQUR1QXdxZ2tTRml5cGthRjNHRmVBSXVVcjRfdDJqaV85U0UyUDF6NlQtWXZRYXJqa1ZmNEhqZzN1SnRPVzJzejBtSzJ0eTBwbVRUdndreXNiZzZ0U0Q0V0FBRS03U1JISWhUN18zNHRPbjN0ZFVZZlEwSlo1c2tPc2tBQzZRVzMwdEMwaFoyMWVKOVJVNDlyR2xPSE1iVWZrR3lEOFBWN1E",
+  "snippet": "Metro CEO says winning back consumers a ‘priority’ after labour strike dented results CTV News",
+  "published": "2026-11-18T17:56:08+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T10:51:05.366009+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b7a4d3c420",
   "slug": "strike-risk-grows-at-los-angeles-long-beach-ports-b7a4d3c420",
   "title": "Strike risk grows at Los Angeles, Long Beach ports",
@@ -41394,35 +41452,6 @@
   "source_note": "no usable text",
   "sum_done": true,
   "sum_status": "no source text (no usable text)"
- },
- {
-  "id": "5b54d9c0c1",
-  "slug": "russian-strikes-hit-ukrainian-cities-killing-at-least-five-and-leaving-5b54d9c0c1",
-  "title": "Russian strikes hit Ukrainian cities, killing at least five and leaving hundreds of communities without power",
-  "orig_title": "Russian strikes hit Ukrainian cities, killing at least five and leaving hundreds of communities without power",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Hromadske",
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM0tDMFM5X19tLWJkWUFTZ2xCdVdHZlN2b1dMT3VMUjRuTE5ZUElhamJWTzZnSXVyWl9vYmhtcHRGMllyZDBxTkVMSjVCSmhSaExneGZIUlNHYmg3UkpSM20xaDZaeHV1Z0JJRDF1OWtULXVMS0RvN1JBWmVLUVZ1TnZxRVBUcjNTRVo2anc1Skx1ZW5WNUZDOHZtMGI2cWVjYjR4Q2NETTdGUmQzcVJJUzNVRVE0MzBYcjQyakwzM2JIV2ZwRVdCbFhudTFSbDhBWDU0S2pUWm1uNFF5R0JBddIB4AFBVV95cUxPM0tDMFM5X19tLWJkWUFTZ2xCdVdHZlN2b1dMT3VMUjRuTE5ZUElhamJWTzZnSXVyWl9vYmhtcHRGMllyZDBxTkVMSjVCSmhSaExneGZIUlNHYmg3UkpSM20xaDZaeHV1Z0JJRDF1OWtULXVMS0RvN1JBWmVLUVZ1TnZxRVBUcjNTRVo2anc1Skx1ZW5WNUZDOHZtMGI2cWVjYjR4Q2NETTdGUmQzcVJJUzNVRVE0MzBYcjQyakwzM2JIV2ZwRVdCbFhudTFSbDhBWDU0S2pUWm1uNFF5R0JBdQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM0tDMFM5X19tLWJkWUFTZ2xCdVdHZlN2b1dMT3VMUjRuTE5ZUElhamJWTzZnSXVyWl9vYmhtcHRGMllyZDBxTkVMSjVCSmhSaExneGZIUlNHYmg3UkpSM20xaDZaeHV1Z0JJRDF1OWtULXVMS0RvN1JBWmVLUVZ1TnZxRVBUcjNTRVo2anc1Skx1ZW5WNUZDOHZtMGI2cWVjYjR4Q2NETTdGUmQzcVJJUzNVRVE0MzBYcjQyakwzM2JIV2ZwRVdCbFhudTFSbDhBWDU0S2pUWm1uNFF5R0JBddIB4AFBVV95cUxPM0tDMFM5X19tLWJkWUFTZ2xCdVdHZlN2b1dMT3VMUjRuTE5ZUElhamJWTzZnSXVyWl9vYmhtcHRGMllyZDBxTkVMSjVCSmhSaExneGZIUlNHYmg3UkpSM20xaDZaeHV1Z0JJRDF1OWtULXVMS0RvN1JBWmVLUVZ1TnZxRVBUcjNTRVo2anc1Skx1ZW5WNUZDOHZtMGI2cWVjYjR4Q2NETTdGUmQzcVJJUzNVRVE0MzBYcjQyakwzM2JIV2ZwRVdCbFhudTFSbDhBWDU0S2pUWm1uNFF5R0JBdQ",
-  "snippet": "Russian strikes hit Ukrainian cities, killing at least five and leaving hundreds of communities without power Hromadske",
-  "published": "2026-11-17T09:09:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T10:41:05.008388+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "e7952ede0c",
