@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T01:51:07.723174+00:00",
- "hour_now": 20,
+ "updated": "2026-11-21T02:01:05.671659+00:00",
+ "hour_now": 21,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -71,7 +71,7 @@
      38,
      21,
      10,
-     20,
+     17,
      3,
      0
     ]
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -371,7 +371,7 @@
      10,
      27,
      34,
-     41,
+     39,
      24,
      6
     ]
@@ -420,7 +420,7 @@
      5,
      5,
      5,
-     0,
+     2,
      0,
      0
     ],
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 19:15 EST"
+    "updated": "2026-11-20 20:47 EST"
    },
    "usual": {
     "south": [
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:48:15",
+    "updated": "20:53:17",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-20 21:15 AST"
+    "updated": "2026-11-20 21:48 AST"
    },
    "usual": {
     "south": [
@@ -1238,7 +1238,7 @@
      15,
      25,
      29,
-     19,
+     16,
      0,
      0
     ],
@@ -1339,13 +1339,13 @@
      12,
      6,
      5,
-     5,
+     6,
      5,
      6
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 9 PM"
+   "best_north": "Usually fastest around 10 PM"
   },
   {
    "id": "sumas",
@@ -1388,7 +1388,7 @@
      8,
      8,
      8,
-     0,
+     2,
      0,
      0
     ],
