@@ -1,5 +1,36 @@
 [
  {
+  "id": "a9b17e458a",
+  "slug": "alberta-proposes-50k-fines-for-unsafe-trucking-operators-public-naming-a9b17e458a",
+  "title": "Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders",
+  "orig_title": "Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ3NpNlp2T0NaUnNCOURrdDhHUFJZbzV1Z0o5RHI4UUpPTGxnbVowUXhXZ0ZsbVBVUjJvdjlUQ0pZOGlXd0JhcUwtTnFKNDFISnlHeDFaZjdNRzloMFN5TjRkV054XzFvNm5uZTlfeXRPYk83YllmSkNRQTBobkFBNWZCdlJlQmoxQnZfbUhkS2JPcmtmcVhtT1JDLWZmcnBVZWYyZWRvNm1WYTJCWjBTMGlpVkpvZkJsd3ltbjMtU1lwbG85b0ItYVdMUjlMQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ3NpNlp2T0NaUnNCOURrdDhHUFJZbzV1Z0o5RHI4UUpPTGxnbVowUXhXZ0ZsbVBVUjJvdjlUQ0pZOGlXd0JhcUwtTnFKNDFISnlHeDFaZjdNRzloMFN5TjRkV054XzFvNm5uZTlfeXRPYk83YllmSkNRQTBobkFBNWZCdlJlQmoxQnZfbUhkS2JPcmtmcVhtT1JDLWZmcnBVZWYyZWRvNm1WYTJCWjBTMGlpVkpvZkJsd3ltbjMtU1lwbG85b0ItYVdMUjlMQQ",
+  "snippet": "Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders Truck News",
+  "published": "2026-11-21T22:47:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T22:51:03.835166+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "ae995d94c8",
   "slug": "watch-video-cameras-on-moving-train-capture-alleged-sneaker-theft-in-b-ae995d94c8",
   "title": "WATCH VIDEO: Cameras on Moving Train Capture Alleged Sneaker Theft in Broad Daylight; Viral Footage Sparks Shock Online",
@@ -1445,12 +1476,15 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 3
+  "sum_tries": 3,
+  "dup_of": "a9b17e458a"
  },
  {
   "id": "5838aac5f0",
@@ -8647,14 +8681,17 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.ctvnews.ca/calgary/article/unsafe-truck-drivers-could-be-publicly-outed-under-proposed-alberta-law/",
-  "source_note": "ok · 318 words"
+  "source_note": "ok · 318 words",
+  "dup_of": "a9b17e458a"
  },
  {
   "id": "663001d602",
@@ -8679,22 +8716,22 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Unsafe truck drivers could be public outed under new Alberta law"
+   "same story as: Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "826b647147"
+  "dup_of": "a9b17e458a"
  },
  {
   "id": "a183a36521",
   "slug": "unsafe-truck-drivers-could-be-publicly-outed-under-new-alberta-law-a183a36521",
   "title": "Unsafe truck drivers could be publicly outed under new Alberta law",
   "orig_title": "Unsafe truck drivers could be publicly outed under new Alberta law",
-  "summary": "",
+  "summary": "Alberta's government is proposing Bill 43, the Safe and Sensible Roads Act, which would amend the province's Traffic Safety Act to toughen penalties for unsafe trucking. Under the bill, fines for unsafe commercial truck operators would rise from $10,000 to $50,000 for violations including repeated safety breaches and bridge strikes. Driver licences could also be cut to a basic Class 5 licence or made subject to conditions after serious incidents such as a bridge strike. Transportation Minister Devin Dreeshen said retraining would be required before a driver returns to regular duties. If the bill passes, the government would publish information on non-compliant carriers, drivers, driving schools, inspection facilities and company owners and directors. Separately, a Calgary Police Service blitz in September pulled 100 of 197 stopped commercial vehicles off the road for critical defects. In March, a truck hauling equipment struck a rail bridge in Lethbridge, knocking concrete loose and leading to costly repairs for the municipality.",
   "why": "",
   "category": "equip",
-  "region": "",
+  "region": "Canada",
   "importance": 50,
   "source": "CTV News",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXl0bXFFUVVaMVY1aEtNWnF4ejJLRDhDTzFjUkp0Ti1jdUo4UzUwbUlxNlFJeVNBaGVEWGZQcURQSE1qUVd3WTBRVnduVndYV2dVcnl2XzJXS3Rjb3RUdmlpaTU1LWRSOUVRSThQbE1hZDh6RXBFVncwaTNUc05qZXdGTkJqR2NBWlpCbVJ1bWFMX1VGRGtVUDRrRnNpU2JnYzZuczNnSzUtQQ?oc=5",
@@ -8707,14 +8744,54 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Unsafe truck drivers could be public outed under new Alberta law"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "826b647147"
+  "sum_tries": 1,
+  "pub_url": "https://www.ctvnews.ca/calgary/article/unsafe-truck-drivers-could-be-publicly-outed-under-proposed-alberta-law/",
+  "source_note": "ok · 318 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "f49b4d66588f2e71",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-21T22:51:03.835166+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Bill 43, the Safe and Sensible Roads Act, will amend Alberta’s Traffic Safety Act"
+   },
+   {
+    "sentence": "2",
+    "quote": "increase fines for unsafe commercial truck operators from $10,000 to $50,000"
+   },
+   {
+    "sentence": "3",
+    "quote": "could be downgraded to a commercial basic Class 5 licence"
+   },
+   {
+    "sentence": "4",
+    "quote": "retraining would be required before a driver is allowed to resume their regular duties"
+   },
+   {
+    "sentence": "5",
+    "quote": "publicly post information about “non-compliant regulated individuals and entities.”"
+   },
+   {
+    "sentence": "6",
+    "quote": "100 of 197 commercial vehicles stopped during a blitz"
+   },
+   {
+    "sentence": "7",
+    "quote": "knocked a chunk of concrete out of the bridge"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "regs",
+  "ai_importance": 70
  },
  {
   "id": "6b5d018de3",
