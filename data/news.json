@@ -885,6 +885,35 @@
   "sum_pending": false
  },
  {
+  "id": "10844b213f",
+  "slug": "it-s-late-november-how-is-it-so-warm-out-in-montreal-10844b213f",
+  "title": "It’s late November. How is it so warm out in Montreal?",
+  "orig_title": "It’s late November. How is it so warm out in Montreal?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1RnJVeVg0OXlZajhoQTlocnBhZDVGRS10MzRPSDQ5VDZxeG9Oc0YzVk5uSmpJbjlWRWh6Q3UxdkNWRnFkUXJWdktFUU51T29SMmdxZGR5TTI?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1RnJVeVg0OXlZajhoQTlocnBhZDVGRS10MzRPSDQ5VDZxeG9Oc0YzVk5uSmpJbjlWRWh6Q3UxdkNWRnFkUXJWdktFUU51T29SMmdxZGR5TTI",
+  "snippet": "It’s late November. How is it so warm out in Montreal? CBC",
+  "published": "2026-11-21T00:46:14+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T18:11:09.721217+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c9107cf665",
   "slug": "mayor-expecting-major-changes-to-premature-draft-of-bike-lane-bill-c9107cf665",
   "title": "Mayor expecting major changes to ‘premature draft’ of bike lane bill",
