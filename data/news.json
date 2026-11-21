@@ -11340,6 +11340,35 @@
   "sum_pending": false
  },
  {
+  "id": "463a3f97ed",
+  "slug": "robotics-when-machines-clock-in-hosted-by-nyse-wired-463a3f97ed",
+  "title": "Robotics: when machines clock in (Hosted by NYSE Wired)",
+  "orig_title": "Robotics: when machines clock in (Hosted by NYSE Wired)",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "TechCrunch",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmJwTzdBSHllUmg3NGlQN2daeVAzVy1xdWcyWVp0aGZzbVhianMtVGlyaVhEVXBZX3NfQjZucGNGY2EtaEtESkNrcHJJazY2cVBKcDJFNWxQRklYSlZBY1dCcm1lVFpqZXdfQ2FaTXN6NTZ0ckdFNmdQeWhKVnh2V0ZYSzdyd29iVjQ5UmdtMmxWM085Z2FqdHlDU195a3pRcXJwUmNybkpBV3Fi?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmJwTzdBSHllUmg3NGlQN2daeVAzVy1xdWcyWVp0aGZzbVhianMtVGlyaVhEVXBZX3NfQjZucGNGY2EtaEtESkNrcHJJazY2cVBKcDJFNWxQRklYSlZBY1dCcm1lVFpqZXdfQ2FaTXN6NTZ0ckdFNmdQeWhKVnh2V0ZYSzdyd29iVjQ5UmdtMmxWM085Z2FqdHlDU195a3pRcXJwUmNybkpBV3Fi",
+  "snippet": "Robotics: when machines clock in (Hosted by NYSE Wired) TechCrunch",
+  "published": "2026-11-20T00:26:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T19:01:10.833589+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a02dd29332",
   "slug": "officer-says-francique-threw-wrench-in-police-arrest-plan-inquest-hear-a02dd29332",
   "title": "Officer says Francique 'threw wrench' in police arrest plan, inquest hears",
@@ -39797,35 +39826,6 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false
- },
- {
-  "id": "8532ae2c66",
-  "slug": "maersk-and-hapag-lloyd-restore-asia-europe-suez-routes-as-u-s-shippers-8532ae2c66",
-  "title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
-  "orig_title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSF91anlTbURJQXREWjV2WWNRVmQ5Z3VLWVZoSzNkbzZFc3U0aVlsUUV3S1dGWmFGcUpMbndqd1FyRW5RQkR1TTdldWpkZ2E4RFJaYlpvdXZnaU1WamY1R0RnaGEyQWd1SnozaXFCaFJVVkhLS1B2aWdCUzk3eHEyNW1kVjZsZzI1LUc4bUNIR2c0by03eTUyUWdGVm41bjBPYjBHNndQbVdYVnYwVmhNM0F5dHVFSGR5TzhIUHY3WHFoaXdQRC1QXw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSF91anlTbURJQXREWjV2WWNRVmQ5Z3VLWVZoSzNkbzZFc3U0aVlsUUV3S1dGWmFGcUpMbndqd1FyRW5RQkR1TTdldWpkZ2E4RFJaYlpvdXZnaU1WamY1R0RnaGEyQWd1SnozaXFCaFJVVkhLS1B2aWdCUzk3eHEyNW1kVjZsZzI1LUc4bUNIR2c0by03eTUyUWdGVm41bjBPYjBHNndQbVdYVnYwVmhNM0F5dHVFSGR5TzhIUHY3WHFoaXdQRC1QXw",
-  "snippet": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs FreightWaves",
-  "published": "2026-11-17T17:42:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T19:01:10.767252+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "ocean/air freight with no North American trucking link"
-  ],
-  "labels": [],
-  "kind": "rejected",
   "sum_pending": false
  },
  {
