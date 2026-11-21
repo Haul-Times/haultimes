@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:51:02.968043+00:00",
- "hour_now": 2,
+ "updated": "2026-11-21T08:01:12.802380+00:00",
+ "hour_now": 3,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:37 am EST",
+    "updated": "At 2:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -252,7 +252,7 @@
      7,
      0,
      0,
-     2,
+     1,
      0,
      0,
      2,
@@ -278,7 +278,7 @@
      6,
      3,
      6,
-     6,
+     7,
      3,
      2,
      6,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:37 am EST",
+    "updated": "At 2:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:49:46",
+    "updated": "02:59:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -460,11 +460,11 @@
    "ports": "Ogdensburg, NY ↔ Prescott, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "02:49:46",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 4:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -702,7 +702,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      0,
@@ -777,7 +777,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:49:46",
+    "updated": "02:59:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "02:49:46",
+    "updated": "02:59:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:49:46",
+    "updated": "01:59:48",
     "hours": "24 hrs/day"
    },
    "north": {

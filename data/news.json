@@ -20611,6 +20611,35 @@
   "sum_pending": false
  },
  {
+  "id": "47dba9997c",
+  "slug": "oilers-captain-connor-mcdavid-a-man-on-a-mission-as-he-chases-a-200-po-47dba9997c",
+  "title": "Oilers captain Connor McDavid a man on a mission as he chases a 200-point season and the Stanley Cup",
+  "orig_title": "Oilers captain Connor McDavid a man on a mission as he chases a 200-point season and the Stanley Cup",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWV2enNwTktLRFFfeGNNeDhEU0w4SEwwU1hYVmRCbGhaOVdWWm80aFh0T1NGZzQwcmdYYk55bllLblAxZ1gyVjdsZm9VbjVWQ3FBdkVsTkROZ3oxSExmM1pQd0tzQXdnN2I0MTR2Zjg5Q1d0YUlLdU9ONmpqTnQtZlZuRjVxelZiX3BFYWI0TmlkdEcwZElOemhMTDEtUFNVcmFySTRKcENKTE1GYnpWM1I2ZXU1TGJEa1BRTWd2WWl6RzhUaDI1d2xhdllmVWw0bHFXMHNOdWU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWV2enNwTktLRFFfeGNNeDhEU0w4SEwwU1hYVmRCbGhaOVdWWm80aFh0T1NGZzQwcmdYYk55bllLblAxZ1gyVjdsZm9VbjVWQ3FBdkVsTkROZ3oxSExmM1pQd0tzQXdnN2I0MTR2Zjg5Q1d0YUlLdU9ONmpqTnQtZlZuRjVxelZiX3BFYWI0TmlkdEcwZElOemhMTDEtUFNVcmFySTRKcENKTE1GYnpWM1I2ZXU1TGJEa1BRTWd2WWl6RzhUaDI1d2xhdllmVWw0bHFXMHNOdWU",
+  "snippet": "Oilers captain Connor McDavid a man on a mission as he chases a 200-point season and the Stanley Cup CTV News",
+  "published": "2026-11-19T12:38:21+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T08:01:13.037784+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ab418db2aa",
   "slug": "kpmg-canada-says-client-documents-compromised-in-cybersecurity-breach-ab418db2aa",
   "title": "KPMG Canada says client documents compromised in cybersecurity breach",
@@ -42234,35 +42263,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "8eeda6cd6b",
-  "slug": "report-fuel-prices-dip-to-lowest-levels-since-march-8eeda6cd6b",
-  "title": "Report: Fuel prices dip to lowest levels since March",
-  "orig_title": "Report: Fuel prices dip to lowest levels since March",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Michigan Farm News",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGNBRDY3M285UndVVVNRT2xIbG1CSWpBeWlWQ1FQZjd2M3BpeEtoa0tkaHBnWXVMVy1UMnJSRHBCdU9WTlJsU1pKcWpuWHRSMkR1cS1mODY5b205MEFxS0NZbXVhZ2hKbVotQWNabllEV0NaS0J2Wnp2dzNKX0g2Q2tlNGRqb09fS0lfVVNDalFZV3NocGEw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGNBRDY3M285UndVVVNRT2xIbG1CSWpBeWlWQ1FQZjd2M3BpeEtoa0tkaHBnWXVMVy1UMnJSRHBCdU9WTlJsU1pKcWpuWHRSMkR1cS1mODY5b205MEFxS0NZbXVhZ2hKbVotQWNabllEV0NaS0J2Wnp2dzNKX0g2Q2tlNGRqb09fS0lfVVNDalFZV3NocGEw",
-  "snippet": "Report: Fuel prices dip to lowest levels since March Michigan Farm News",
-  "published": "2026-11-16T19:14:12+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T07:59:59.520689+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "4f95e104ca",
