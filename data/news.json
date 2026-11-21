@@ -3523,7 +3523,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 62,
   "source": "US Muslims",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1dnLUlrRVRGaUZ3dnB1T19ub2h5VjdYQW0tTEYydlI4cjVxb2NGbFl3a1luMi1Ed0Uxc042TUtWT0xqOS1lSEo5ZzlXd2hUQUdRS3ZBbnBYcmc1Z0xMY3ZGTE4wTExHRjR3THdZS2lXSmsydmd6bkRDZWF3VXBHUWVIOG1aZG1ILUtCSFZvWl9KcVROSWtJSG1TendlNDRnd2p5c2Rn0gG2AUFVX3lxTE5LRm5zZzlnTWJCRTNUempoSjFvM1cxQ285d2Vud0pRVjZxYk9uZXVoZW1lZVVaRnlEOUdvRzhfdENZd0ZPdWhUM1d1akt6OUxOM29ucE12VkVMaFB3Y2dpaEF0UU5ELXZRWUJzMGxpZWIwLVBCcmZpMGNXTkJHOTZGZjNibTVPUkdndmpNNlY3bVdGSkpxc1c1TWZ6QTZqMGw2UGdJYzJFTk1DR25oN01TMlJ2cERR?oc=5",
@@ -3536,14 +3536,45 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "c02dac559f"
+  "sum_tries": 1,
+  "pub_url": "https://www.usmuslims.com/13-suspects-charged-in-22m-freight-train-cargo-theft-scheme-in-us-382929h.htm",
+  "source_note": "ok · 309 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "cfbf46766512a295",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-21T00:31:16.485767+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "federal indictment unsealed Thursday"
+   },
+   {
+    "sentence": "2",
+    "quote": "targeted more than 36 freight trains"
+   },
+   {
+    "sentence": "3",
+    "quote": "deliberately disabled trains by damaging their braking systems"
+   },
+   {
+    "sentence": "4",
+    "quote": "could face federal prison sentences ranging from five to 20 years"
+   }
+  ],
+  "sum_problems": [
+   "7 sentences but only 4 evidence entries",
+   "copies a 12-word run from the source: 'two also face charges of violence against railroad carriers. if convic'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 55
  },
  {
   "id": "26c44b9d4a",
@@ -4050,10 +4081,10 @@
   "slug": "at-least-36-southern-california-trains-burglarised-in-22-5-million-car-50b1547c4e",
   "title": "At least 36 Southern California trains burglarised in $22.5 million cargo theft racket; 14 accused allege",
   "orig_title": "At least 36 Southern California trains burglarised in $22.5 million cargo theft racket; 14 accused allege",
-  "summary": "",
+  "summary": "The US Department of Justice said 14 people have been indicted over alleged thefts of more than $22.5 million in cargo from freight trains in Southern California. According to the DOJ, the group burglarised at least three dozen trains between February 2024 and August 2026, taking goods that included Nike sneakers and Milwaukee tools. Investigators allege members cut air hoses to force emergency stops, then boarded the trains and removed valuable cargo.\n\nThirteen of the 14 defendants were arrested on Thursday, and the case is a 17-count federal indictment. Investigators allege two defendants sold thousands of pairs of stolen Nike sneakers to a Los Angeles resale business, receiving approximately $1,081,493 between May and October 2025. The alleged leader is identified as Nathan Daniel Angel, 21, of East Los Angeles. All defendants are presumed innocent unless proven guilty in court.",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 63,
   "source": "The Times of India",
   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSmRRaWszUDQ4aWpzT3FnbllLdE9ra2Z3YlJlTFhwdTg3bGdKM1Z4RzZvRnJFNTFwNFB4d0s5YnlYaTdFWVJiXzE4R3BhdEdtd1VuNnVVZlozSHdJay1rcjVUYVJMTm9VNUdlSTRjTkxVb21UcTVvaE9Vb1lzamt6ZWd6QWhxeHQ5VlVRSEo2ZmJRd2FtMnBBd1dZb1NMbUtqRTlXUFVUYVpWWXVWanRYRUtud0RucWUtcVJmMEk0V05WOEJlOUJ4bElpdkFOTExlV1lyb1pzUmtDSWJ2M2dqOXp2LXRMc0p1UHo4Ukd0clUxMnV3RDlBOV96MEE2VWJOWkxVY2Q5aUM3RFpucjViX19acmVXYTdTUU5OQWdJaWFweENIZFl5a0JlcE0zWVl4M3VXZXVaRDcxZWJhTEdWb2M0cGlSQlQzVXhuTzJNOVZYMEFEV3FGNWRqbDg4cmdT0gHmAkFVX3lxTFB2THlDVi1wWmZFLUJtNWc5S2ZVN0Jkdnc2YVdOY0ZtMUJGZW02OTRoRV9RNDV4TjBRWEhUcUJWcFJTYlRmTjlQNEFaaldIQzhJdHVmLWNaTDZIS29JVkJ3RTZEOGEybWNEVHllNi1VWlItaEp5dWhfQ1lzWEZQYjEwcE5ja0hCMHNUYmRoWlg0b3FPcVBLQVZXNm44VEIxT1dha3AybTlqbW5ubUVrZ1JGTjB1dFd4YmJCTXFNZnNGTnFxZms1bFZOalU1OWZIRlhoUW9sSWM5ajZXejgwZGxpemo4WXdiUThTTDJsb2EzZWQ5Y0tLaGdRclFNMjlYVHBTblhVQXFkSkZwSkM0R0gtbU92aTNRYy1FRW0tNDA5SVVRZy1PRkMybEI1emNkSXJ3aUlDQ1YyWjFuVnhQQy1WSl96RmF2VlgzUEdnRVhDejJ0MElvU0k4VEI4VGs2b2hnX1M1ZVE?oc=5",
@@ -4066,14 +4097,54 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "c02dac559f"
+  "sum_tries": 1,
+  "pub_url": "https://timesofindia.indiatimes.com/world/us/at-least-36-trains-burglarised-in-22-5-million-cargo-theft-racket-14-accused-allegedly-stole-nike-sneakers-and-milwaukee-tools-sold-goods-on-black-market-for-over-1-million/articleshow/136033090.cms",
+  "source_note": "ok · 800 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "9e7c02f1acb22d91",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-21T00:31:16.485767+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "14 people have been indicted for allegedly stealing more than $22.5 million"
+   },
+   {
+    "sentence": "2",
+    "quote": "at least three dozen freight trains between February 2024 and August 2026"
+   },
+   {
+    "sentence": "3",
+    "quote": "cut the trains' air hoses, forcing them to make emergency stops"
+   },
+   {
+    "sentence": "4",
+    "quote": "Thirteen of the 14 accused were arrested on Thursday"
+   },
+   {
+    "sentence": "5",
+    "quote": "approximately $1,081,493 from the business"
+   },
+   {
+    "sentence": "6",
+    "quote": "Nathan Daniel Angel, 21, has been identified as the alleged leader"
+   },
+   {
+    "sentence": "7",
+    "quote": "all defendants are presumed innocent unless proven guilty in court"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 60
  },
  {
   "id": "f34257265f",
@@ -4639,6 +4710,72 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "bcf2256ac9",
+  "slug": "dallas-college-goodwill-expand-cdl-training-program-bcf2256ac9",
+  "title": "Dallas College, Goodwill Expand CDL Training Program",
+  "orig_title": "Dallas College, Goodwill Expand CDL Training Program",
+  "summary": "Dallas College and Goodwill Dallas have teamed up with FleetForce Truck Driver Training to widen CDL instruction across Dallas-Fort Worth. The program covers Class A, B and C licenses and combines classroom work with hands-on training, with FleetForce instructors teaching at Goodwill facilities. The Dallas location is FleetForce's 17th in the U.S. The company's Next10,000 campaign aims to train 10,000 students through 2026 and cites about 6,100 local CDL openings in the region. Qualified graduates are guaranteed an interview with a large full-truckload carrier through FleetForce's Pre-Hire network. The article does not yet give enrollment figures or completion and placement rates for Dallas students.",
+  "why": "",
+  "category": "drivers",
+  "region": "US",
+  "importance": 45,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekl2aDM5NnpwVGMwckRSOEtMR0h1MlhaS05FdmtKZ2ZPZnFTTmdMMnRqZF9ZN3QxR2V3QlhScDUzNFlUamlkOFJGd0JQRXk5aDlRd1poMzRnNDVvSV8zbU5iZTllVzdMazl4VTVPeGdDRUxGUE5DcTVFekdYV1JIdURTQ19wcFVGUFl3X1RxSHM4R244SFFZNlBpZm5UMWlBNTVraDNZWU1aUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekl2aDM5NnpwVGMwckRSOEtMR0h1MlhaS05FdmtKZ2ZPZnFTTmdMMnRqZF9ZN3QxR2V3QlhScDUzNFlUamlkOFJGd0JQRXk5aDlRd1poMzRnNDVvSV8zbU5iZTllVzdMazl4VTVPeGdDRUxGUE5DcTVFekdYV1JIdURTQ19wcFVGUFl3X1RxSHM4R244SFFZNlBpZm5UMWlBNTVraDNZWU1aUQ",
+  "snippet": "Dallas College, Goodwill Expand CDL Training Program Wisevoter",
+  "published": "2026-11-20T15:24:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T00:31:16.485767+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://wisevoter.com/world/us/tx/dallas/2026/11/20/dallas-cdl-training-goodwill-dallas-college-fleetforce",
+  "source_note": "ok · 424 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "83adb623ea2cec90",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-21T00:31:16.485767+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "expand commercial driver's license training in Dallas-Fort Worth"
+   },
+   {
+    "sentence": "2",
+    "quote": "Class A, B, or C CDL through classroom and hands-on instruction"
+   },
+   {
+    "sentence": "3",
+    "quote": "FleetForce's Dallas site is its 17th U.S. location"
+   },
+   {
+    "sentence": "4",
+    "quote": "about 6,100 local CDL openings in Dallas-Fort Worth"
+   },
+   {
+    "sentence": "5",
+    "quote": "Qualified graduates are guaranteed an interview"
+   },
+   {
+    "sentence": "6",
+    "quote": "does not yet report how many Dallas students will enroll"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 42
  },
  {
   "id": "8e37be327e",
@@ -8101,10 +8238,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -8149,8 +8284,7 @@
   ],
   "ai_importance": 70,
   "sum_v4": true,
-  "ai_category": "other",
-  "dup_of": "0df12fe063"
+  "ai_category": "other"
  },
  {
   "id": "14c548c16c",

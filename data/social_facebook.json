@@ -4413,7 +4413,10 @@
   "56898566a2": "skipped|importance 61 is below this platform's threshold (65)",
   "c26984b5d7": "skipped|minor item (incident) or low-quality source",
   "35df32a91a": "skipped|importance 63 is below this platform's threshold (65)",
-  "bf2b3afa05": "skipped|importance 45 is below this platform's threshold (65)"
+  "bf2b3afa05": "skipped|importance 45 is below this platform's threshold (65)",
+  "50b1547c4e": "skipped|importance 63 is below this platform's threshold (65)",
+  "e0a2d5aa87": "skipped|importance 62 is below this platform's threshold (65)",
+  "bcf2256ac9": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9243,6 +9246,27 @@
    "at": "2026-11-21T00:07:02.943035+00:00",
    "story_id": "bf2b3afa05",
    "title": "Colorado will start allowing private vendors to offer chain-up services to truckers on I-70 this winter",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T00:32:14.458809+00:00",
+   "story_id": "50b1547c4e",
+   "title": "At least 36 Southern California trains burglarised in $22.5 million cargo theft racket; 14 accused allege",
+   "action": "skipped",
+   "reason": "importance 63 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T00:32:14.458809+00:00",
+   "story_id": "e0a2d5aa87",
+   "title": "13 suspects charged in $22M freight train cargo theft scheme in US",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T00:32:14.458809+00:00",
+   "story_id": "bcf2256ac9",
+   "title": "Dallas College, Goodwill Expand CDL Training Program",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
