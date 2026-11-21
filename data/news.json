@@ -61,6 +61,35 @@
   "sum_pending": false
  },
  {
+  "id": "83291ff119",
+  "slug": "scholarships-this-week-83291ff119",
+  "title": "Scholarships This Week",
+  "orig_title": "Scholarships This Week",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Kashmir Observer",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VQlg3M1B0N3NCVWh6YTVCV1NCbV9VNGp1UTFqUHAwNnpIdXA0VDB6a3dWMUszZFNVX2tqR3VpRld5bmVLTFF2UnNwQ3dSLWdsMXpwaXJuMlBPM2RnYWJGUkN3a1ZHUHAyZW5HYVpMU2VJNUR3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VQlg3M1B0N3NCVWh6YTVCV1NCbV9VNGp1UTFqUHAwNnpIdXA0VDB6a3dWMUszZFNVX2tqR3VpRld5bmVLTFF2UnNwQ3dSLWdsMXpwaXJuMlBPM2RnYWJGUkN3a1ZHUHAyZW5HYVpMU2VJNUR3",
+  "snippet": "Scholarships This Week Kashmir Observer",
+  "published": "2026-11-21T14:17:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T15:01:05.706473+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "cfd66d1192",
   "slug": "dhl-express-makes-customs-clearance-easier-for-small-cross-border-ship-cfd66d1192",
   "title": "DHL Express makes customs clearance easier for small cross-border shippers",
