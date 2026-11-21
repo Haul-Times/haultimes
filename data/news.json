@@ -172,7 +172,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3
  },
  {
@@ -235,6 +235,35 @@
   "source_note": "paywalled: excerpt only · 35 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "fe8543c04f",
+  "slug": "audio-interview-cross-border-regulatory-compliance-challenges-in-europ-fe8543c04f",
+  "title": "Audio interview| Cross-border regulatory compliance challenges in Europe: Trucking solutions",
+  "orig_title": "Audio interview| Cross-border regulatory compliance challenges in Europe: Trucking solutions",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ET Auto",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVEliUHVKMVZnMVhmZU9MUUNiemZqcllocWxnUTM4ZjI1VFBsU1QxaGd1XzB3YXc1LUlhWk9kRW1MTTU5X2psZW5JbmpCejlxdXMwTjVrUFBqdUVmSVdHMWlrQnFaX0hYMG5sXzRjQUhja19jMHg4ZmdpUVlsbEN6c0MxS0ZHMkxnR2U4R2xHblV5N2l1eThqTWZ1dVJrQmtaeEdNUEUwTHlGdk9QX0ctUmNSNjNhNnJ1ZXNZTGZBVDk3MHQ2cUI0MGd6YlpubVl5SW1z0gHOAUFVX3lxTE9pNFBValRFcmU4OXlWb2M0bjA0T3NCNUJ3YjJGc2d1cFNMR2JJLUtvS2E1SjE3Z3FUVXF5NHNIdE1TTDBtcEZfQUs2am55bmMwazNVMVc2VkJjNkNLZFh1c3dSc1JyOHJXb1ZMd1RSQk1YMlppRnU5NUpjaHhuaFFJT2RjODE3ZVJJcjlaeU5NNWJmakt6M3ZMRUpzd01KSzFiczZPM2ZoeEZwc2tpaFNHd2tUVzY0N1BXVU5JeHFteUxleGdSM3FQVzF1UlNB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVEliUHVKMVZnMVhmZU9MUUNiemZqcllocWxnUTM4ZjI1VFBsU1QxaGd1XzB3YXc1LUlhWk9kRW1MTTU5X2psZW5JbmpCejlxdXMwTjVrUFBqdUVmSVdHMWlrQnFaX0hYMG5sXzRjQUhja19jMHg4ZmdpUVlsbEN6c0MxS0ZHMkxnR2U4R2xHblV5N2l1eThqTWZ1dVJrQmtaeEdNUEUwTHlGdk9QX0ctUmNSNjNhNnJ1ZXNZTGZBVDk3MHQ2cUI0MGd6YlpubVl5SW1z0gHOAUFVX3lxTE9pNFBValRFcmU4OXlWb2M0bjA0T3NCNUJ3YjJGc2d1cFNMR2JJLUtvS2E1SjE3Z3FUVXF5NHNIdE1TTDBtcEZfQUs2am55bmMwazNVMVc2VkJjNkNLZFh1c3dSc1JyOHJXb1ZMd1RSQk1YMlppRnU5NUpjaHhuaFFJT2RjODE3ZVJJcjlaeU5NNWJmakt6M3ZMRUpzd01KSzFiczZPM2ZoeEZwc2tpaFNHd2tUVzY0N1BXVU5JeHFteUxleGdSM3FQVzF1UlNB",
+  "snippet": "Audio interview| Cross-border regulatory compliance challenges in Europe: Trucking solutions ET Auto",
+  "published": "2026-11-20T23:35:21+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T01:21:06.387951+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "35df32a91a",
@@ -21164,6 +21193,35 @@
   "source_note": "excerpt only · 14 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "37317217e2",
+  "slug": "stolen-tractors-archives-37317217e2",
+  "title": "stolen tractors Archives",
+  "orig_title": "stolen tractors Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQ1kwdDhSa1pwUC00bEt0UzVOVWJOb3ppODBJYUc5dGlOME9mcjFXNkw5SHV2aHB6VGdzcUFRanlvRThNYlpta3Q3bjJrUk1OdzZDRTFTZzMxMFV2Nkk0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQ1kwdDhSa1pwUC00bEt0UzVOVWJOb3ppODBJYUc5dGlOME9mcjFXNkw5SHV2aHB6VGdzcUFRanlvRThNYlpta3Q3bjJrUk1OdzZDRTFTZzMxMFV2Nkk0",
+  "snippet": "stolen tractors Archives Truck News",
+  "published": "2026-11-19T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T01:21:06.387951+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e5de600d20",
