@@ -1,5 +1,34 @@
 [
  {
+  "id": "cb15bfc730",
+  "slug": "q-a-inuvik-mayor-hopes-defence-investments-allow-for-legacy-projects-cb15bfc730",
+  "title": "Q&A | Inuvik mayor hopes defence investments allow for 'legacy projects'",
+  "orig_title": "Q&A | Inuvik mayor hopes defence investments allow for 'legacy projects'",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaVI4d2NEeEhudGRxNWJUNFo5eVNkR2ZzSGlheVp6bHlVd2RoSkxwektCR2tINWhjc1dsZm5mdjZ2RTFiUHd4V3diTDlSOHpZTDEyWUN4R3F4MzNlcHRfUkk1a0ZmQUFKS3BWdDJtNFpyRFJFN1U1TjZ6MW15UHZoUGhINmNLU3d1SlA1ZmhhQTI5b2M?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaVI4d2NEeEhudGRxNWJUNFo5eVNkR2ZzSGlheVp6bHlVd2RoSkxwektCR2tINWhjc1dsZm5mdjZ2RTFiUHd4V3diTDlSOHpZTDEyWUN4R3F4MzNlcHRfUkk1a0ZmQUFKS3BWdDJtNFpyRFJFN1U1TjZ6MW15UHZoUGhINmNLU3d1SlA1ZmhhQTI5b2M",
+  "snippet": "Q&A | Inuvik mayor hopes defence investments allow for 'legacy projects' CBC",
+  "published": "2026-11-21T10:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T10:21:06.297952+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "5487a067b6",
   "slug": "supply-chain-analyst-in-dearborn-mi-for-penske-truck-leasing-5487a067b6",
   "title": "Supply Chain Analyst in Dearborn, MI for Penske Truck Leasing",
@@ -8795,6 +8824,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "2b7d476a00",
+  "slug": "over-60-vintage-sellers-food-trucks-and-a-massive-record-swap-san-fran-2b7d476a00",
+  "title": "Over 60 vintage sellers, food trucks, and a massive record swap: San Francisco’s Sunset Mercantile hosts its final Secondhand Saturday of the year",
+  "orig_title": "Over 60 vintage sellers, food trucks, and a massive record swap: San Francisco’s Sunset Mercantile hosts its final Secondhand Saturday of the year",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Secret San Francisco",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11U01FWFhEQWVEM1BMbjJuT3dMR0JfUWQzSDB4ZV9KcWNkVm1tT0hKRUNPNnpJdUtpZlNCdEFtQ2hVb1VuUmc0dXFPZzV0cXdGaFhmRXBUMVVqYWp5bTB2QW1yLVotd0oxZ05LekVGNGN4TUxiM0l1dElKbmFFODg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11U01FWFhEQWVEM1BMbjJuT3dMR0JfUWQzSDB4ZV9KcWNkVm1tT0hKRUNPNnpJdUtpZlNCdEFtQ2hVb1VuUmc0dXFPZzV0cXdGaFhmRXBUMVVqYWp5bTB2QW1yLVotd0oxZ05LekVGNGN4TUxiM0l1dElKbmFFODg",
+  "snippet": "Over 60 vintage sellers, food trucks, and a massive record swap: San Francisco’s Sunset Mercantile hosts its final Secondhand Saturday of the year Secret San Francisco",
+  "published": "2026-11-20T05:45:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T10:21:06.297952+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
   ],
   "labels": [],
   "kind": "rejected",
@@ -41672,35 +41730,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/how-ata-wants-to-fix-eld-certification",
   "source_note": "ok · 1413 words"
- },
- {
-  "id": "4d90c7db22",
-  "slug": "what-you-need-to-know-about-a-proposed-quebecor-telus-merger-4d90c7db22",
-  "title": "What you need to know about a proposed Quebecor-Telus merger",
-  "orig_title": "What you need to know about a proposed Quebecor-Telus merger",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "thecanadianpressnews.ca",
-  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ19FcExWakh2Mkk3Ylprc21QY3pPLVRLcUhIVndyZjZvb0l5d2Q4a0pBdEtYZmFFUWU2NnBLMUdOQ0wzc1pyaDVYa0hpQTFTRG9vU2d6YV9QY3BWUDZYQ200WDhWbDJncVg2THpjMXFtN1owZllMd3F3VERGbUlkSmlLQjZ4WEZEN2w1TjRJU3c0NmRxSEphLU5rNTlNZVp5aU8zcnVHZTFwaEFFRjhRelVjSWtKek5nbHFHUmJJTVpUQzRiREIzSW5SaEJqRDVORTRqN19PVUJVTlBMMjJfUWE3MVlnTUZEaXpZ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ19FcExWakh2Mkk3Ylprc21QY3pPLVRLcUhIVndyZjZvb0l5d2Q4a0pBdEtYZmFFUWU2NnBLMUdOQ0wzc1pyaDVYa0hpQTFTRG9vU2d6YV9QY3BWUDZYQ200WDhWbDJncVg2THpjMXFtN1owZllMd3F3VERGbUlkSmlLQjZ4WEZEN2w1TjRJU3c0NmRxSEphLU5rNTlNZVp5aU8zcnVHZTFwaEFFRjhRelVjSWtKek5nbHFHUmJJTVpUQzRiREIzSW5SaEJqRDVORTRqN19PVUJVTlBMMjJfUWE3MVlnTUZEaXpZ",
-  "snippet": "What you need to know about a proposed Quebecor-Telus merger thecanadianpressnews.ca",
-  "published": "2026-11-16T22:50:29+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T10:21:05.226037+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "736ebd8ba5",
