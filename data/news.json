@@ -39130,35 +39130,6 @@
   "dup_of": "d57d869691"
  },
  {
-  "id": "42b7c33ab6",
-  "slug": "fleetwatcher-archives-42b7c33ab6",
-  "title": "FleetWatcher Archives",
-  "orig_title": "FleetWatcher Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcTctSFdNS2t5a21zZVFDUXFONTZaWHZsTnpnN0hyMWxCQy13a29ITElJSF9PbHRRa3Jtb2hyb1hkOUJDbEw2WGIzNVdrZUhZTURRaUpOWXdxUGs?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcTctSFdNS2t5a21zZVFDUXFONTZaWHZsTnpnN0hyMWxCQy13a29ITElJSF9PbHRRa3Jtb2hyb1hkOUJDbEw2WGIzNVdrZUhZTURRaUpOWXdxUGs",
-  "snippet": "FleetWatcher Archives Truck News",
-  "published": "2026-11-17T20:19:36+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T20:21:04.584199+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "b215ee5487",
   "slug": "emergency-stop-from-50-mph-what-it-s-like-in-cab-with-new-dd15-b215ee5487",
   "title": "Emergency stop from 50 mph: What it's like in-cab with new DD15",
