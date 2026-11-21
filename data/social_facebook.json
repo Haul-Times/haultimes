@@ -3317,7 +3317,7 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/gordie-howe-bridge-captures-25-of-commercial-traffic-in-windsor-detroi-b2ba83e34f/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=b2ba83e34f",
    "caption": "Gordie Howe bridge captures 25% of commercial traffic in Windsor-Detroit corridor.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #CrossBorder",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-20T14:21:28.150649+00:00",
    "published": "2026-11-20T14:11:13+00:00",
    "score": 73,
@@ -4380,7 +4380,7 @@
   "826b647147": "skipped|importance 50 is below this platform's threshold (65)",
   "99333524cb": "skipped|importance 55 is below this platform's threshold (65)",
   "0df12fe063": "expired|stale before a slot opened (published 12h ago)",
-  "b2ba83e34f": "queued|importance 73 (threshold 65), Cross-Border, trade publication",
+  "b2ba83e34f": "expired|stale before a slot opened (published 12h ago)",
   "7a504a6a90": "skipped|minor item (press_release) or low-quality source",
   "9a93399240": "expired|stale before a slot opened (published 12h ago)",
   "65e40ffb44": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
@@ -9298,6 +9298,13 @@
    "at": "2026-11-21T02:01:29.937792+00:00",
    "story_id": "0df12fe063",
    "title": "14 charged in $22.5 million cargo theft ring that stopped moving freight trains",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-21T02:11:32.493093+00:00",
+   "story_id": "b2ba83e34f",
+   "title": "Gordie Howe bridge captures 25% of commercial traffic in Windsor-Detroit corridor",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
   }
