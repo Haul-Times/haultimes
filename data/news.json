@@ -16602,6 +16602,35 @@
   "sum_pending": false
  },
  {
+  "id": "ec73bb4cb9",
+  "slug": "bombers-president-and-ceo-speaks-to-reporters-after-team-fires-o-shea-ec73bb4cb9",
+  "title": "Bombers president and CEO speaks to reporters after team fires O'Shea",
+  "orig_title": "Bombers president and CEO speaks to reporters after team fires O'Shea",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tQzlESktqWUlhMGJNNDdNSHFkazlxOFBfUGY3eDJaNlI2bnZIeUJLM1VPQjRnZTR2SVNRTXZ4RUtEU3RUbU5OVUdxN0JlSWpXYlltbWVPalh1Zw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tQzlESktqWUlhMGJNNDdNSHFkazlxOFBfUGY3eDJaNlI2bnZIeUJLM1VPQjRnZTR2SVNRTXZ4RUtEU3RUbU5OVUdxN0JlSWpXYlltbWVPalh1Zw",
+  "snippet": "Bombers president and CEO speaks to reporters after team fires O'Shea CBC",
+  "published": "2026-11-19T17:27:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T01:51:07.987740+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ba0b770201",
   "slug": "30k-worth-of-meat-stolen-in-northeast-philadelphia-cargo-heist-ba0b770201",
   "title": "$30K worth of meat stolen in Northeast Philadelphia cargo heist",
