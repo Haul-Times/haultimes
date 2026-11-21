@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:41:05.735006+00:00",
+ "updated": "2026-11-21T16:51:03.635641+00:00",
  "hour_now": 11,
  "have_us": true,
  "have_ca": true,
@@ -61,7 +61,7 @@
      0,
      0,
      3,
-     11,
+     10,
      35,
      41,
      44,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 11:27 am EST",
+    "updated": "At 11:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-21 11:20 EST"
+    "wait": 5,
+    "status": "5 minutes",
+    "updated": "2026-11-21 11:40 EST"
    },
    "usual": {
     "south": [
@@ -260,7 +260,7 @@
      0,
      0,
      1,
-     4,
+     5,
      3,
      3,
      3,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:27 am EST",
+    "updated": "At 11:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 8,
-    "status": "8 minutes",
-    "updated": "2026-11-21 11:20 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-21 11:40 EST"
    },
    "usual": {
     "south": [
@@ -760,11 +760,11 @@
    "ports": "Highgate Springs, VT ↔ Saint-Armand, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Lanes Closed",
-    "updated": "11:35:30",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "11:35:30",
+    "updated": "11:45:31",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1085,7 +1085,7 @@
      null,
      11,
      8,
-     23,
+     24,
      26,
      12,
      0,
@@ -1286,9 +1286,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 15,
-    "status": "15 minutes",
-    "updated": "2026-11-21 09:20 PDT"
+    "wait": 5,
+    "status": "5 minutes",
+    "updated": "2026-11-21 09:40 PDT"
    },
    "usual": {
     "south": [
@@ -1303,7 +1303,7 @@
      0,
      11,
      15,
-     8,
+     7,
      0,
      0,
      0,
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-21 09:20 PDT"
+    "updated": "2026-11-21 09:40 PDT"
    },
    "usual": {
     "south": [
