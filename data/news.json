@@ -798,6 +798,35 @@
   "sum_pending": false
  },
  {
+  "id": "797126bb79",
+  "slug": "is-edmonton-reclaiming-its-city-of-champions-identity-797126bb79",
+  "title": "Is Edmonton reclaiming its 'City of Champions' identity?",
+  "orig_title": "Is Edmonton reclaiming its 'City of Champions' identity?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NOFRQQ0VqRFQ5N01vQWNiUDcyeHRSdUx0UmtOdGlaQS1tTHE4MER0dG1sbWZsVjI0bXJ2Mk91NzRMZUI2ck92UVdMUm1lZkViRUhETHZqaWo?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NOFRQQ0VqRFQ5N01vQWNiUDcyeHRSdUx0UmtOdGlaQS1tTHE4MER0dG1sbWZsVjI0bXJ2Mk91NzRMZUI2ck92UVdMUm1lZkViRUhETHZqaWo",
+  "snippet": "Is Edmonton reclaiming its 'City of Champions' identity? CBC",
+  "published": "2026-11-21T00:39:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T15:51:04.097377+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "581af2f1b4",
   "slug": "peru-72-hour-truckers-strike-blocks-major-highways-across-the-country-581af2f1b4",
   "title": "Peru: 72-hour truckers strike blocks major highways across the country",
@@ -5827,6 +5856,35 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 60
+ },
+ {
+  "id": "2fbb9c9548",
+  "slug": "parents-sue-town-over-autistic-daughter-s-metal-rooster-statues-2fbb9c9548",
+  "title": "Parents sue town over autistic daughter’s metal rooster statues",
+  "orig_title": "Parents sue town over autistic daughter’s metal rooster statues",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEQwMG1sbHhQUVQ4aTBRWTd1a1J0ZGNsOTk5U04xUlhQV3lLZzhfY0pzTFdCVG4xWWYxTXFYRm1DaXNKUUdfU0ZmNzJSakJlY3VvR0Zud0t3VWRYZC02bU9UYlduQlN2WFdxaXhtODJqMjhqdWtIdzZQVlRLX2JrUFQ5SUNvMy1vZTB4U3RzRGozd0ZOUHBQckZPMERGQlF4VEVBTVRn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEQwMG1sbHhQUVQ4aTBRWTd1a1J0ZGNsOTk5U04xUlhQV3lLZzhfY0pzTFdCVG4xWWYxTXFYRm1DaXNKUUdfU0ZmNzJSakJlY3VvR0Zud0t3VWRYZC02bU9UYlduQlN2WFdxaXhtODJqMjhqdWtIdzZQVlRLX2JrUFQ5SUNvMy1vZTB4U3RzRGozd0ZOUHBQckZPMERGQlF4VEVBTVRn",
+  "snippet": "Parents sue town over autistic daughter’s metal rooster statues CTV News",
+  "published": "2026-11-20T16:15:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T15:51:04.097377+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f34257265f",
