@@ -54,7 +54,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1
+  "sum_tries": 2
  },
  {
   "id": "9bdbf5dc27",
@@ -789,6 +789,35 @@
   ],
   "labels": [],
   "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "54a162d827",
+  "slug": "the-hill-report-119th-congress-vol-2-issue-no-30-54a162d827",
+  "title": "The Hill Report 119th Congress Vol. 2 Issue No. 30",
+  "orig_title": "The Hill Report 119th Congress Vol. 2 Issue No. 30",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "American Trucking Associations",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXRnMXp6UW1EbVdXdGhLM0pKT284dkMxTldVdGdCV0tKV0JTVElBNF9BQWR0YWNpNlJzS05FQ1lSYWVHQnNyamJxd3RWd20wc0FtRGxBVUxuaGdCb2tRVlZOc3BGWG1PdXRmZnFSamhIZS1iaHVPMHJFbURyNk9LamlTWVVPVW5sWEI0?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXRnMXp6UW1EbVdXdGhLM0pKT284dkMxTldVdGdCV0tKV0JTVElBNF9BQWR0YWNpNlJzS05FQ1lSYWVHQnNyamJxd3RWd20wc0FtRGxBVUxuaGdCb2tRVlZOc3BGWG1PdXRmZnFSamhIZS1iaHVPMHJFbURyNk9LamlTWVVPVW5sWEI0",
+  "snippet": "The Hill Report 119th Congress Vol. 2 Issue No. 30 American Trucking Associations",
+  "published": "2026-11-21T07:14:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T21:31:06.155845+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
   "sum_pending": false
  },
  {
@@ -38903,35 +38932,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "04fb7b8c6a",
-  "slug": "hmg-strategy-s-14th-annual-toronto-c-level-technology-04fb7b8c6a",
-  "title": "HMG Strategy’s 14th Annual Toronto C-Level Technology",
-  "orig_title": "HMG Strategy’s 14th Annual Toronto C-Level Technology",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "GlobeNewswire",
-  "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQakdGWE1LWEpMUjJOczZ1UGxjQzdkREZTXzJUYXdDc1JTdms3THNTUERBWFhoc2dnOFBFb3Q4VXYyZ2xaUTI1RWN2V2dqU3NFVE1Lc1p6T3Jib0dMWlFuSFJwTWo1QkprSHhsUEFPLWhleW92Y19NcWhIN2hDNTlBdTk4ZzgzVjFyc0IxRnRYaWFkS191c1ltUGp5S3F3U2tXOUpmSTBfdEFxXzFTbWIyTExQOWpvN0hzUkRlV0xBWG9FajJtSU1xNVllNTJzN3ItSzFZZVdXYWtUWmN2dWxVOEVrVnlyV0ZXMmgyWlFjX3Y4WV9PUzRBRnVLWU91SDh4NGZ3ckJIUzdVQUNQeWFway1yMlJqa1RhcV9fVmpNT0sxbXBWZXgxV3NGLUlfeHpXUUc1MnlXejBSOUl2Y1YwdS1fbW1OVE12TklKSmhUYWt3UQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQakdGWE1LWEpMUjJOczZ1UGxjQzdkREZTXzJUYXdDc1JTdms3THNTUERBWFhoc2dnOFBFb3Q4VXYyZ2xaUTI1RWN2V2dqU3NFVE1Lc1p6T3Jib0dMWlFuSFJwTWo1QkprSHhsUEFPLWhleW92Y19NcWhIN2hDNTlBdTk4ZzgzVjFyc0IxRnRYaWFkS191c1ltUGp5S3F3U2tXOUpmSTBfdEFxXzFTbWIyTExQOWpvN0hzUkRlV0xBWG9FajJtSU1xNVllNTJzN3ItSzFZZVdXYWtUWmN2dWxVOEVrVnlyV0ZXMmgyWlFjX3Y4WV9PUzRBRnVLWU91SDh4NGZ3ckJIUzdVQUNQeWFway1yMlJqa1RhcV9fVmpNT0sxbXBWZXgxV3NGLUlfeHpXUUc1MnlXejBSOUl2Y1YwdS1fbW1OVE12TklKSmhUYWt3UQ",
-  "snippet": "HMG Strategy’s 14th Annual Toronto C-Level Technology GlobeNewswire",
-  "published": "2026-11-17T21:14:25+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T21:21:19.120674+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "aaa63617c5",
   "slug": "how-to-win-more-freight-from-existing-customers-aaa63617c5",
   "title": "How to Win More Freight From Existing Customers",
@@ -39004,35 +39004,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "43e7a9443b",
-  "slug": "mexican-cartel-fuel-trafficking-sparks-new-bills-in-texas-43e7a9443b",
-  "title": "Mexican cartel fuel trafficking sparks new bills in Texas",
-  "orig_title": "Mexican cartel fuel trafficking sparks new bills in Texas",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BbXhjbjhTM0Vxem1xa2ctem5WY3RuZUpGUzF2WEtKemliN0IxNENHcVpTcEkwaWZzRURSOFpjb1Y5dFRqTDBUNDdlcFRnZlNkdmxaUGZPaFhsNkJtNDYxV0NCSUs3NjJIVmxLczk5WQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BbXhjbjhTM0Vxem1xa2ctem5WY3RuZUpGUzF2WEtKemliN0IxNENHcVpTcEkwaWZzRURSOFpjb1Y5dFRqTDBUNDdlcFRnZlNkdmxaUGZPaFhsNkJtNDYxV0NCSUs3NjJIVmxLczk5WQ",
-  "snippet": "Mexican cartel fuel trafficking sparks new bills in Texas Transport Topics",
-  "published": "2026-11-17T21:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T21:31:03.318140+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
   "sum_pending": false
  },
  {
