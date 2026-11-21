@@ -1,5 +1,37 @@
 [
  {
+  "id": "5487a067b6",
+  "slug": "supply-chain-analyst-in-dearborn-mi-for-penske-truck-leasing-5487a067b6",
+  "title": "Supply Chain Analyst in Dearborn, MI for Penske Truck Leasing",
+  "orig_title": "Supply Chain Analyst in Dearborn, MI for Penske Truck Leasing",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOU5jY2pZRHM4WVJxMHNhblZCT2ZqdklpTTVreGVzeHd2UmJ6b1gzYjFPOGRTa2hxbVRoQ002aHI5UDhrUUk4S2ZDQkdpMzRYN2UtbGtlY2NOajJMSHp1VDI1ZU1CZXBQMTVkMGlB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOU5jY2pZRHM4WVJxMHNhblZCT2ZqdklpTTVreGVzeHd2UmJ6b1gzYjFPOGRTa2hxbVRoQ002aHI5UDhrUUk4S2ZDQkdpMzRYN2UtbGtlY2NOajJMSHp1VDI1ZU1CZXBQMTVkMGlB",
+  "snippet": "Supply Chain Analyst in Dearborn, MI for Penske Truck Leasing Transport Topics",
+  "published": "2026-11-21T06:51:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T07:01:04.247855+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://careers.ttnews.com/jobs/22758506/supply-chain-analyst",
+  "source_note": "no usable text",
+  "sum_done": true,
+  "sum_status": "no source text (no usable text)"
+ },
+ {
   "id": "234664814b",
   "slug": "man-couldn-t-afford-late-grandpa-s-beloved-tow-truck-seller-drives-5-h-234664814b",
   "title": "Man couldn’t afford late grandpa’s beloved tow truck. Seller drives 5 hours to give it to him for free",
@@ -507,15 +539,18 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 1,
   "source_note": "publisher refused (403)",
   "sum_done": true,
-  "sum_status": "no source text (publisher refused (403))"
+  "sum_status": "no source text (publisher refused (403))",
+  "dup_of": "c02dac559f"
  },
  {
   "id": "fa632cc7f2",
@@ -4403,8 +4438,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -4447,7 +4484,8 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 70,
-  "sum_v3": true
+  "sum_v3": true,
+  "dup_of": "c02dac559f"
  },
  {
   "id": "26c44b9d4a",
@@ -4970,8 +5008,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -5017,7 +5057,8 @@
   ],
   "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 60
+  "ai_importance": 60,
+  "dup_of": "c02dac559f"
  },
  {
   "id": "f34257265f",
@@ -9030,7 +9071,8 @@
   ],
   "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 60
+  "ai_importance": 60,
+  "followup_of": "47458eb868"
  },
  {
   "id": "846d6e007a",
@@ -9256,8 +9298,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -9302,7 +9346,8 @@
   ],
   "ai_importance": 70,
   "sum_v4": true,
-  "ai_category": "other"
+  "ai_category": "other",
+  "dup_of": "0df12fe063"
  },
  {
   "id": "14c548c16c",
@@ -9383,14 +9428,17 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Illegal Alien Sentenced to 2.5 Years Behind Bars for $7.2M Trucking Cargo Theft Ring in Ca"
+  ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://ng.headtopics.com/news/14-arrested-in-22-5-million-southern-california-cargo-90015946",
-  "source_note": "ok · 566 words"
+  "source_note": "ok · 566 words",
+  "dup_of": "489a260e1f"
  },
  {
   "id": "718873d654",
@@ -17945,6 +17993,35 @@
   "dup_of": "a1d761f58e"
  },
  {
+  "id": "b9c0fec418",
+  "slug": "murphy-s-logic-is-now-a-good-time-to-get-american-alcohol-back-on-the-b9c0fec418",
+  "title": "Murphy’s Logic: Is now a good time to get American alcohol back on the shelves?",
+  "orig_title": "Murphy’s Logic: Is now a good time to get American alcohol back on the shelves?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUFpVFJkU0FtZmd3MXY3RkI0dnhlR2hFclFxcEJuQUNiWTROWUdXS1liTjMzVkMxOHExaE9EeHVjRDN0ZjNVSE14ZTBsYi1FbVhLSHBnTjRBN1poR0hkWHdFUVN5ZThoc2RYZHpmS3ZyTDhuUFh5YmU5Ulo3SWxCbUhMWXBBQ2YtVUVuaGlZOWc0d2pKVE9lVnlwTWlhNk9RWTNQbGtteW5jUS1uZG9kVTRRN2J2RkMwVGxxLUFxTzF5aW1MVlI3bDJENA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUFpVFJkU0FtZmd3MXY3RkI0dnhlR2hFclFxcEJuQUNiWTROWUdXS1liTjMzVkMxOHExaE9EeHVjRDN0ZjNVSE14ZTBsYi1FbVhLSHBnTjRBN1poR0hkWHdFUVN5ZThoc2RYZHpmS3ZyTDhuUFh5YmU5Ulo3SWxCbUhMWXBBQ2YtVUVuaGlZOWc0d2pKVE9lVnlwTWlhNk9RWTNQbGtteW5jUS1uZG9kVTRRN2J2RkMwVGxxLUFxTzF5aW1MVlI3bDJENA",
+  "snippet": "Murphy’s Logic: Is now a good time to get American alcohol back on the shelves? CTV News",
+  "published": "2026-11-19T16:32:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T07:01:04.247855+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "40ee915fd3",
   "slug": "fourth-person-a-32-year-old-woman-pulled-from-burning-burlington-home-40ee915fd3",
   "title": "Fourth person, a 32-year-old woman, pulled from burning Burlington home has died, as family ID victims",
@@ -22288,12 +22365,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contract"
+   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "50baa1f41e"
+  "dup_of": "47458eb868"
  },
  {
   "id": "d908d7af02",
@@ -34747,12 +34824,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
+   "same story as: $7.2M Cargo Theft Ring: IE Man Sentenced To 2 1/2 Years In Federal Prison"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "aa0df11328"
+  "dup_of": "f58fb8543f"
  },
  {
   "id": "1abd29c016",
@@ -36482,10 +36559,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -36533,8 +36608,7 @@
    "copies a 12-word run from the source: 'in a scheme that stole more than $7.2 million in cargo from'"
   ],
   "ai_category": "other",
-  "ai_importance": 60,
-  "dup_of": "aa0df11328"
+  "ai_importance": 60
  },
  {
   "id": "b04b97fd64",
@@ -36879,8 +36953,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
+  ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -36929,7 +37005,8 @@
   ],
   "ai_importance": 68,
   "sum_v4": true,
-  "ai_category": "other"
+  "ai_category": "other",
+  "dup_of": "47458eb868"
  },
  {
   "id": "7f58a7eca4",

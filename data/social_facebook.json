@@ -4420,7 +4420,8 @@
   "0aa4f9b6fb": "skipped|importance 50 is below this platform's threshold (65)",
   "aa938b1d39": "skipped|importance 50 is below this platform's threshold (65)",
   "43dd08328b": "skipped|importance 45 is below this platform's threshold (65)",
-  "5c35d4a1fb": "skipped|importance 50 is below this platform's threshold (65)"
+  "5c35d4a1fb": "skipped|importance 50 is below this platform's threshold (65)",
+  "5487a067b6": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9350,6 +9351,13 @@
    "title": "CH Robinson Slams RICO Claims That It Used 'Illegal' Carriers",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T07:01:24.347360+00:00",
+   "story_id": "5487a067b6",
+   "title": "Supply Chain Analyst in Dearborn, MI for Penske Truck Leasing",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
