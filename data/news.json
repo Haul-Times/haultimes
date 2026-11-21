@@ -1,5 +1,34 @@
 [
  {
+  "id": "8616fbb737",
+  "slug": "ai-takes-the-call-8616fbb737",
+  "title": "AI takes the call",
+  "orig_title": "AI takes the call",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwWGlQTmh1YzV1UEpzVTFiSFdaR21zRmtlT2xBY2hPRTcwVVFZQmd4YzM5d215cEtLajdVOHJHeHpJdTA4djdodHJsVnBiTmlORHNpZnNWUV9MdlZXWVJN?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwWGlQTmh1YzV1UEpzVTFiSFdaR21zRmtlT2xBY2hPRTcwVVFZQmd4YzM5d215cEtLajdVOHJHeHpJdTA4djdodHJsVnBiTmlORHNpZnNWUV9MdlZXWVJN",
+  "snippet": "AI takes the call Transport Topics",
+  "published": "2026-11-21T12:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T12:11:13.680699+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "1e5c2bf070",
   "slug": "ata-driver-of-the-year-archives-1e5c2bf070",
   "title": "ATA Driver of the Year Archives",
@@ -22550,6 +22579,35 @@
   ],
   "labels": [],
   "kind": "review",
+  "sum_pending": false
+ },
+ {
+  "id": "6516b9c4a0",
+  "slug": "ford-reopens-canada-auto-plant-defying-trump-tariffs-6516b9c4a0",
+  "title": "Ford reopens Canada auto plant, defying Trump tariffs",
+  "orig_title": "Ford reopens Canada auto plant, defying Trump tariffs",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ET Manufacturing",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkN6dHZqdlZBRTh2YnRLQnZYVDlhSWVvc0pjaGRYeXlybE9DbjlRZzJieXpKTXRkdHA0UzJ4Z2kwdWtsR01rRU9XODJ4Y295SGk3NmZFUDZJQjB1WmlQQjltaUd5NkNDbDA2ZC1za2tJQmpzZHRTN1lFS3ctaFZjcHJ0cUhXSXpXNWJ0c252S1U0N0lwd3ZDOU5GdExxSk9DUTZ2cW5rUjNWdU9TRWtxUlo5Y3RSLVRDek93Z05hMlhCenRGNmpJb9IBzAFBVV95cUxOQmFUVmxjMWdaTWxOaDJNbDBkeWNrRnYwcnQ2X1E5MjhwWjRzdUtwbFZKc215eHdyVTctVFpTMUUzMVl5V0Z5V2FMZ0FLaTVJQmdPWnU5bGtOeEVmSHZvT2VSVkRic3h5cENTV216bXVNNDJBOS1qSUJJNlVITWJUZS1HemZsb2dHR1V5aWVfMEZIaFcxQi1vdWxFSHlRWHZkc20zaHF2QnhzTzZuZmR6am1KeFdOcjdpTElWbWlYcDQ2OTVmM1h4MFdOeFc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkN6dHZqdlZBRTh2YnRLQnZYVDlhSWVvc0pjaGRYeXlybE9DbjlRZzJieXpKTXRkdHA0UzJ4Z2kwdWtsR01rRU9XODJ4Y295SGk3NmZFUDZJQjB1WmlQQjltaUd5NkNDbDA2ZC1za2tJQmpzZHRTN1lFS3ctaFZjcHJ0cUhXSXpXNWJ0c252S1U0N0lwd3ZDOU5GdExxSk9DUTZ2cW5rUjNWdU9TRWtxUlo5Y3RSLVRDek93Z05hMlhCenRGNmpJb9IBzAFBVV95cUxOQmFUVmxjMWdaTWxOaDJNbDBkeWNrRnYwcnQ2X1E5MjhwWjRzdUtwbFZKc215eHdyVTctVFpTMUUzMVl5V0Z5V2FMZ0FLaTVJQmdPWnU5bGtOeEVmSHZvT2VSVkRic3h5cENTV216bXVNNDJBOS1qSUJJNlVITWJUZS1HemZsb2dHR1V5aWVfMEZIaFcxQi1vdWxFSHlRWHZkc20zaHF2QnhzTzZuZmR6am1KeFdOcjdpTElWbWlYcDQ2OTVmM1h4MFdOeFc",
+  "snippet": "Ford reopens Canada auto plant, defying Trump tariffs ET Manufacturing",
+  "published": "2026-11-19T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T12:11:13.680699+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
