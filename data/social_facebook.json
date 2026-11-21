@@ -3513,7 +3513,7 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/trucking-groups-press-congress-for-lame-duck-action-f71e73d196/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=f71e73d196",
    "caption": "Trucking groups press Congress for lame-duck action.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-20T17:11:28.678537+00:00",
    "published": "2026-11-20T16:59:42+00:00",
    "score": 67,
@@ -4392,7 +4392,7 @@
   "9f32659279": "skipped|minor item (feature) or low-quality source",
   "062a68f0e2": "expired|stale before a slot opened (published 12h ago)",
   "6eaf6190f3": "skipped|importance 55 is below this platform's threshold (65)",
-  "f71e73d196": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "f71e73d196": "expired|stale before a slot opened (published 12h ago)",
   "72fe5a4205": "skipped|minor item (incident) or low-quality source",
   "4300ecbcef": "skipped|minor item (news) or low-quality source",
   "b435c10f48": "skipped|importance 55 is below this platform's threshold (65)",
@@ -9333,6 +9333,13 @@
    "at": "2026-11-21T04:11:32.487575+00:00",
    "story_id": "7db84ccb46",
    "title": "Union Pacific–Norfolk Southern Merger Draws Labor Support, Shipper Concerns",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-21T05:01:31.731923+00:00",
+   "story_id": "f71e73d196",
+   "title": "Trucking groups press Congress for lame-duck action",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
   }
