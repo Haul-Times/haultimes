@@ -19541,6 +19541,35 @@
   "sum_pending": false
  },
  {
+  "id": "f9c97c84a8",
+  "slug": "health-care-professional-orders-urge-quebec-to-rethink-services-for-un-f9c97c84a8",
+  "title": "Health care professional orders urge Quebec to rethink services for unhoused people",
+  "orig_title": "Health care professional orders urge Quebec to rethink services for unhoused people",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc01TdktzYXZhdTNGbkdWUExXdDkyWGpEblZ0VHY5ZmZJZjQwa2pHU3BJMGxGUXI4REpiRkY0N2FvZElYZWRYc3ZTUjhpSGRCMVBSbTd6SlFJdW1fMC1JenVxZUlYOS1iZlpKcmdVbFBEZGYxMjRBSVZEc0FCODJEalV6bGhhYUVja3dwVEJLeWNvejEwWFlhSUJRLUJ6bW5MdUxVcVJHcmdENDhfcXd6VlFmeVlHMEh6OEpqSTR6OTVOQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc01TdktzYXZhdTNGbkdWUExXdDkyWGpEblZ0VHY5ZmZJZjQwa2pHU3BJMGxGUXI4REpiRkY0N2FvZElYZWRYc3ZTUjhpSGRCMVBSbTd6SlFJdW1fMC1JenVxZUlYOS1iZlpKcmdVbFBEZGYxMjRBSVZEc0FCODJEalV6bGhhYUVja3dwVEJLeWNvejEwWFlhSUJRLUJ6bW5MdUxVcVJHcmdENDhfcXd6VlFmeVlHMEh6OEpqSTR6OTVOQQ",
+  "snippet": "Health care professional orders urge Quebec to rethink services for unhoused people CTV News",
+  "published": "2026-11-19T11:27:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T00:11:04.974337+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "db859e1d61",
   "slug": "quebec-bar-association-wants-new-hotline-tax-credit-to-improve-access-db859e1d61",
   "title": "Quebec Bar Association wants new hotline, tax credit to improve access to justice",
