@@ -3373,7 +3373,7 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/canadian-carriers-see-signs-of-recovery-but-tariffs-and-freight-imbala-65e40ffb44/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=65e40ffb44",
    "caption": "Canadian carriers see signs of recovery, but tariffs and freight imbalances cloud 2027 outlook.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #CrossBorder",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-20T14:41:29.541119+00:00",
    "published": "2026-11-20T14:21:42+00:00",
    "score": 78,
@@ -3401,7 +3401,7 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/tca-s-heller-enforcement-crackdown-reshaping-us-trucking-but-fmcsa-nee-aaf6ac14ad/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=aaf6ac14ad",
    "caption": "TCA's Heller: Enforcement crackdown reshaping US trucking, but FMCSA needs more resources.\n\nReported by Truck News. The link has the details and the original article.\n\n#Trucking #FMCSA",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-20T14:41:29.541119+00:00",
    "published": "2026-11-20T14:30:42+00:00",
    "score": 72,
@@ -4383,8 +4383,8 @@
   "b2ba83e34f": "expired|stale before a slot opened (published 12h ago)",
   "7a504a6a90": "skipped|minor item (press_release) or low-quality source",
   "9a93399240": "expired|stale before a slot opened (published 12h ago)",
-  "65e40ffb44": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
-  "aaf6ac14ad": "queued|importance 72 (threshold 65), Regulations, trade publication",
+  "65e40ffb44": "expired|stale before a slot opened (published 12h ago)",
+  "aaf6ac14ad": "expired|stale before a slot opened (published 12h ago)",
   "50baa1f41e": "skipped|minor item (crime) or low-quality source",
   "1788d3d0db": "skipped|importance 55 is below this platform's threshold (65)",
   "7de5f0a5c0": "queued|importance 72 (threshold 65), Industry, trade publication",
@@ -9305,6 +9305,20 @@
    "at": "2026-11-21T02:11:32.493093+00:00",
    "story_id": "b2ba83e34f",
    "title": "Gordie Howe bridge captures 25% of commercial traffic in Windsor-Detroit corridor",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-21T02:31:19.601205+00:00",
+   "story_id": "65e40ffb44",
+   "title": "Canadian carriers see signs of recovery, but tariffs and freight imbalances cloud 2027 outlook",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-21T02:31:19.601205+00:00",
+   "story_id": "aaf6ac14ad",
+   "title": "TCA's Heller: Enforcement crackdown reshaping US trucking, but FMCSA needs more resources",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
   }

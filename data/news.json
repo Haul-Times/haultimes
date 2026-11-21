@@ -1120,6 +1120,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "732cb6d084",
+  "slug": "healing-from-crash-with-suspected-e-scooter-former-red-deer-mayor-welc-732cb6d084",
+  "title": "Healing from crash with suspected e-scooter, former Red Deer mayor welcomes provincewide safety rules",
+  "orig_title": "Healing from crash with suspected e-scooter, former Red Deer mayor welcomes provincewide safety rules",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1p5RFNZeHRvVGhOY0lPd1F6NGdka3pzX24wcUhyUElwdDloNm5UOEtHV0NNYmtpWEt5SnBEU096NDVPY0dTalJ4VFhqRU9HNk9pMURQcDJzcU01WHEtTVk2TWtwaHVzTnBqTWtjeElqRDZVSUN6aS01SU9sTFY4UXB6amZIS0RiZkZlS0J0MjlJUkxxajU4enc4dDhuR2tTUFQ2M3hjMzRMdDNXTE50S0t4SnlYQ0hLaS16UWFLTW80OEh1Yk8zLTBIREx0bzlRN1NYYmd5a0VMa1NPWVpMelJmUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1p5RFNZeHRvVGhOY0lPd1F6NGdka3pzX24wcUhyUElwdDloNm5UOEtHV0NNYmtpWEt5SnBEU096NDVPY0dTalJ4VFhqRU9HNk9pMURQcDJzcU01WHEtTVk2TWtwaHVzTnBqTWtjeElqRDZVSUN6aS01SU9sTFY4UXB6amZIS0RiZkZlS0J0MjlJUkxxajU4enc4dDhuR2tTUFQ2M3hjMzRMdDNXTE50S0t4SnlYQ0hLaS16UWFLTW80OEh1Yk8zLTBIREx0bzlRN1NYYmd5a0VMa1NPWVpMelJmUQ",
+  "snippet": "Healing from crash with suspected e-scooter, former Red Deer mayor welcomes provincewide safety rules CTV News",
+  "published": "2026-11-20T20:30:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T02:31:03.187175+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3929711b11",
   "slug": "semi-driver-in-saskatchewan-dangerously-passes-multiple-vehicles-on-hi-3929711b11",
   "title": "Semi driver in Saskatchewan dangerously passes multiple vehicles on highway shoulder",
@@ -14051,6 +14080,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "415f7507db",
+  "slug": "regulatory-harmonization-not-a-goal-of-associate-membership-for-canada-415f7507db",
+  "title": "Regulatory harmonization not a goal of associate membership for Canada: EU ambassador",
+  "orig_title": "Regulatory harmonization not a goal of associate membership for Canada: EU ambassador",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWmhqb0loRFQyc1luUzgya3c2ZlVJUVpRbjMxeWEwYlZoYzI1QXUtM0o5RG42NjhUNHR3SThNaFJYVjRWcVp3YUUwaVBNQ0lrN042eEFReWg2cVVkdDMteTFscHFmcjJfY1VVWHQ0N0hiMUF6bzZ1dktGRGZMSEhqcHRMX1JNSUM1cEVvVWR1QjBkQmlObDZBNWgzUDV6M2tnNjY2MWpSSk1zYjFMV2E3N0p6Nk5Nanh5V254MmVvZnhXS1U?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWmhqb0loRFQyc1luUzgya3c2ZlVJUVpRbjMxeWEwYlZoYzI1QXUtM0o5RG42NjhUNHR3SThNaFJYVjRWcVp3YUUwaVBNQ0lrN042eEFReWg2cVVkdDMteTFscHFmcjJfY1VVWHQ0N0hiMUF6bzZ1dktGRGZMSEhqcHRMX1JNSUM1cEVvVWR1QjBkQmlObDZBNWgzUDV6M2tnNjY2MWpSSk1zYjFMV2E3N0p6Nk5Nanh5V254MmVvZnhXS1U",
+  "snippet": "Regulatory harmonization not a goal of associate membership for Canada: EU ambassador CTV News",
+  "published": "2026-11-19T20:07:42+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T02:31:03.187175+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c911bf5e7d",
   "slug": "driving-change-german-development-cooperation-and-partners-launch-part-c911bf5e7d",
   "title": "Driving Change: German Development Cooperation and partners launch partnership to increase employment opportunities for women in Ghana's heavy transport and mining sectors",
@@ -22738,6 +22796,35 @@
   "sum_pending": false
  },
  {
+  "id": "ba84359a82",
+  "slug": "school-divisions-divided-on-more-cops-in-classrooms-ba84359a82",
+  "title": "School divisions divided on more cops in classrooms",
+  "orig_title": "School divisions divided on more cops in classrooms",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHdWNUNiMHV0allBa3lSdTFGUC14NWtMb29TZ1RTWWZYMmFEX3BVbUp6aEowaG81OXNGTlJ5YzROdVotOHFmUkQyVk51aTZhNGltRnp1SHJ3dEdaNUE2RFhpTWZqdGRaX0NQMEpOeE5xMEQxc1gyTVMwVENhcXhrZV8ydTdYV1NpaUFTeTdJNWtNM01ZMXpV?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHdWNUNiMHV0allBa3lSdTFGUC14NWtMb29TZ1RTWWZYMmFEX3BVbUp6aEowaG81OXNGTlJ5YzROdVotOHFmUkQyVk51aTZhNGltRnp1SHJ3dEdaNUE2RFhpTWZqdGRaX0NQMEpOeE5xMEQxc1gyTVMwVENhcXhrZV8ydTdYV1NpaUFTeTdJNWtNM01ZMXpV",
+  "snippet": "School divisions divided on more cops in classrooms CTV News",
+  "published": "2026-11-19T01:23:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T02:31:03.187175+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "4c61fadc8c",
   "slug": "joining-hands-to-create-new-opportunities-for-global-economic-growth-4c61fadc8c",
   "title": "Joining hands to create new opportunities for global economic growth",
@@ -29215,6 +29302,35 @@
   ],
   "labels": [],
   "kind": "review",
+  "sum_pending": false
+ },
+ {
+  "id": "fe594b5dec",
+  "slug": "incredibly-heartbreaking-bishop-s-university-cuts-women-s-rugby-men-s-fe594b5dec",
+  "title": "‘Incredibly heartbreaking’: Bishop’s University cuts women’s rugby, men’s lacrosse teams",
+  "orig_title": "‘Incredibly heartbreaking’: Bishop’s University cuts women’s rugby, men’s lacrosse teams",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0dhY2ZzbzJ0Zzd6NWxIOEhOMERPQTZVb0JXNGR0NFNoeENleTNvRHVFbWU5XzRKbTEzdEM5UTZ2aTNyMmVTOGd0SWhOdmlzYTVmYmpaT3pGbXk5VURQSWZBUkx5Q1FiTWNLYkxFbk9WeUZROFdHYXA1R19WcjFFNVRobncxdWZ4ZjR3M3ZPMDFfLWtaN1ZlZTVqZW5TMmtYZlFaMU95OUE0eGRQU1NHS3Q4dndRZ3J4ZGhMU1hkYw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0dhY2ZzbzJ0Zzd6NWxIOEhOMERPQTZVb0JXNGR0NFNoeENleTNvRHVFbWU5XzRKbTEzdEM5UTZ2aTNyMmVTOGd0SWhOdmlzYTVmYmpaT3pGbXk5VURQSWZBUkx5Q1FiTWNLYkxFbk9WeUZROFdHYXA1R19WcjFFNVRobncxdWZ4ZjR3M3ZPMDFfLWtaN1ZlZTVqZW5TMmtYZlFaMU95OUE0eGRQU1NHS3Q4dndRZ3J4ZGhMU1hkYw",
+  "snippet": "‘Incredibly heartbreaking’: Bishop’s University cuts women’s rugby, men’s lacrosse teams CTV News",
+  "published": "2026-11-18T15:36:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T02:31:03.187175+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
