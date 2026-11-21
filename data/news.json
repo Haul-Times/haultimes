@@ -1,5 +1,35 @@
 [
  {
+  "id": "d3a7c7c5b5",
+  "slug": "alberta-bill-proposes-50-000-trucking-fines-d3a7c7c5b5",
+  "title": "Alberta Bill Proposes $50,000 Trucking Fines",
+  "orig_title": "Alberta Bill Proposes $50,000 Trucking Fines",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 45,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTlnOWJiTGVxUzZIOHlDRWdLRTc3WnJIWUltaVlrZU8xZHFUUnotcGQ3SDAwWEs4SlVzcGhPd0IwQXB3dHY2VU1XNXJpUm9jRS1GT1ctX3dDX1QwemVqR0FYN2x6UFFzemF2RDNUZWNSMndNRTFfWWtzbFQ5SUlpOQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTlnOWJiTGVxUzZIOHlDRWdLRTc3WnJIWUltaVlrZU8xZHFUUnotcGQ3SDAwWEs4SlVzcGhPd0IwQXB3dHY2VU1XNXJpUm9jRS1GT1ctX3dDX1QwemVqR0FYN2x6UFFzemF2RDNUZWNSMndNRTFfWWtzbFQ5SUlpOQ",
+  "snippet": "Alberta Bill Proposes $50,000 Trucking Fines Wisevoter",
+  "published": "2026-11-21T23:19:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T23:21:03.544190+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "a9b17e458a"
+ },
+ {
   "id": "a9b17e458a",
   "slug": "alberta-proposes-50k-fines-for-unsafe-trucking-operators-public-naming-a9b17e458a",
   "title": "Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders",
