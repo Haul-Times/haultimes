@@ -41437,35 +41437,6 @@
   "sum_pending": false
  },
  {
-  "id": "09dc03c490",
-  "slug": "groundtruth-archives-09dc03c490",
-  "title": "Groundtruth Archives",
-  "orig_title": "Groundtruth Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UWm45SWhUUllnRnl2QV91emZ5c2ZlSklLQVZSdV83dWVLUHNrX1hNQlFCUTkyT0ZhQUZLSy1WcUNpQmtCbFlWRVRHQ0lQWFF6blhCa05xaGFsZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UWm45SWhUUllnRnl2QV91emZ5c2ZlSklLQVZSdV83dWVLUHNrX1hNQlFCUTkyT0ZhQUZLSy1WcUNpQmtCbFlWRVRHQ0lQWFF6blhCa05xaGFsZw",
-  "snippet": "Groundtruth Archives Truck News",
-  "published": "2026-11-17T07:09:11+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T07:41:07.326411+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "be3e6bdf8e",
   "slug": "oversized-load-strikes-bridge-on-southbound-loop-12-at-irving-boulevar-be3e6bdf8e",
   "title": "Oversized Load Strikes Bridge on Southbound Loop 12 at Irving Boulevard in Dallas",
@@ -41489,35 +41460,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "dc533b8e2d",
-  "slug": "79-of-chileans-backed-the-truckers-kast-s-approval-just-hit-27-dc533b8e2d",
-  "title": "79% of Chileans Backed the Truckers. Kast's Approval Just Hit 27%",
-  "orig_title": "79% of Chileans Backed the Truckers. Kast's Approval Just Hit 27%",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "inkl",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWItS0gza0J6cURRdkxhV25ickUyZjNrU0I5WlhxZnNWTkdaNV82Y2FDdjRNQ0RWYTMtSFN0cklxVjlpLVBvWm1YNDAxRTVwNUd0TTNNSFB5N29oNjNFYTdZLXp6REliQzRmTE9RMHNRSXhkWkFucmNqOXp5ZGx5VXI3X0xzanJfTWRXODZKWGE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWItS0gza0J6cURRdkxhV25ickUyZjNrU0I5WlhxZnNWTkdaNV82Y2FDdjRNQ0RWYTMtSFN0cklxVjlpLVBvWm1YNDAxRTVwNUd0TTNNSFB5N29oNjNFYTdZLXp6REliQzRmTE9RMHNRSXhkWkFucmNqOXp5ZGx5VXI3X0xzanJfTWRXODZKWGE",
-  "snippet": "79% of Chileans Backed the Truckers. Kast's Approval Just Hit 27% inkl",
-  "published": "2026-11-17T06:00:11+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T07:31:16.904541+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
