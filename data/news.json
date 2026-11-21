@@ -18241,6 +18241,33 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "b0428192ee",
+  "slug": "irs-scammer-with-violent-past-also-dabbled-in-trucking-before-his-auth-b0428192ee",
+  "title": "IRS scammer with violent past also dabbled in trucking before his authority was revoked",
+  "orig_title": "IRS scammer with violent past also dabbled in trucking before his authority was revoked",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "CDLLife",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmNfSGFwVE1NZXo1anBkRENTazNBWG9tYnBJM3pxdEZJb0FfdEl2RFhCNXdhaXFvQWZoMlhoQmp6OGdFS1VRVXhDX2pOcVNLd2I0dXR5R0t2WDZGN0hSY0NjUXA5cGFXN2IwUHhYSEExek1kN0VFZzV5WDRXSFpSLXR1LVdncXVDVUphcU5oX09nbm84V0hmSEVMMHNLaEFaNXpEUXlvSVQ1RGlaTjFMRVhzcGZiUk9y?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmNfSGFwVE1NZXo1anBkRENTazNBWG9tYnBJM3pxdEZJb0FfdEl2RFhCNXdhaXFvQWZoMlhoQmp6OGdFS1VRVXhDX2pOcVNLd2I0dXR5R0t2WDZGN0hSY0NjUXA5cGFXN2IwUHhYSEExek1kN0VFZzV5WDRXSFpSLXR1LVdncXVDVUphcU5oX09nbm84V0hmSEVMMHNLaEFaNXpEUXlvSVQ1RGlaTjFMRVhzcGZiUk9y",
+  "snippet": "IRS scammer with violent past also dabbled in trucking before his authority was revoked CDLLife",
+  "published": "2026-11-19T18:16:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T22:41:04.748093+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false
+ },
+ {
   "id": "b18cdc0f16",
   "slug": "huberdeau-assists-wranglers-to-a-4-3-win-over-firebirds-in-return-to-i-b18cdc0f16",
   "title": "Huberdeau assists Wranglers to a 4-3 win over Firebirds in return to ice",
@@ -38285,106 +38312,6 @@
   "sum_pending": false
  },
  {
-  "id": "8ab31682bc",
-  "slug": "over-100-pounds-of-suspected-cocaine-found-in-truckload-of-lettuce-at-8ab31682bc",
-  "title": "Over 100 pounds of suspected cocaine found in truckload of lettuce at Blaine border crossing",
-  "orig_title": "Over 100 pounds of suspected cocaine found in truckload of lettuce at Blaine border crossing",
-  "summary": "",
-  "why": "",
-  "category": "border",
-  "region": "Cross-border",
-  "importance": 45,
-  "source": "My Bellingham Now",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnl2dmhVcmxGS2lMY0xfSy1sa1BER05OUjdPdVBvYmVpa2JoY3FhdkR1REdIY2hfTWxjQkYxc0xGN2Q1WHhaNmJyMkVNYzlsa1k5VkYyNlRlMU5JNEhadzl4cVlpN25GaDN1eEhzVm5WazEyVWFGRUdvclpwQ3NiYWxmcU93YzdfYl9ZN2VBZE1aVzdramFhUTc0MlpTeDRySm9oNjFWbnp0Mnl5eTN2RVlVMGFvSmVWb2dIMHdRZUYzNkV2eWlEWmszMURHQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnl2dmhVcmxGS2lMY0xfSy1sa1BER05OUjdPdVBvYmVpa2JoY3FhdkR1REdIY2hfTWxjQkYxc0xGN2Q1WHhaNmJyMkVNYzlsa1k5VkYyNlRlMU5JNEhadzl4cVlpN25GaDN1eEhzVm5WazEyVWFGRUdvclpwQ3NiYWxmcU93YzdfYl9ZN2VBZE1aVzdramFhUTc0MlpTeDRySm9oNjFWbnp0Mnl5eTN2RVlVMGFvSmVWb2dIMHdRZUYzNkV2eWlEWmszMURHQQ",
-  "snippet": "Over 100 pounds of suspected cocaine found in truckload of lettuce at Blaine border crossing My Bellingham Now",
-  "published": "2026-11-17T22:23:50+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T22:31:04.078830+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Border guards seize 81 kg of cocaine from truck carrying romaine lettuce at B.C. crossing"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://mybellinghamnow.com/news/297792-over-100-pounds-of-suspected-cocaine-found-in-truckload-of-lettuce-at-blaine-border-crossing/",
-  "source_note": "ok · 176 words",
-  "sum_done": true,
-  "sum_status": "withheld",
-  "source_fp": "0f78ee52e92b1f7e",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-17T22:31:04.078830+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "announced that they seized nearly 180 pounds of suspected cocaine"
-   },
-   {
-    "sentence": "2",
-    "quote": "noting concerns about their paperwork"
-   },
-   {
-    "sentence": "3",
-    "quote": "two duffel bags containing 65 packages of suspected cocaine"
-   },
-   {
-    "sentence": "4",
-    "quote": "The driver was arrested and the truck was taken for further examination."
-   },
-   {
-    "sentence": "5",
-    "quote": "nearly 250 pounds of opium in January"
-   },
-   {
-    "sentence": "5",
-    "quote": "over 500 pounds of cocaine from commercial trucks in three separate incidents"
-   }
-  ],
-  "sum_problems": [
-   "copies a 12-word run from the source: 'seized nearly 180 pounds of suspected cocaine at the pacific highway c'"
-  ],
-  "ai_category": "border",
-  "ai_importance": 55,
-  "dup_of": "c5544dd4e0"
- },
- {
-  "id": "4cd1e6708c",
-  "slug": "illegal-indian-migrant-learns-fate-for-7m-socal-cargo-theft-scheme-4cd1e6708c",
-  "title": "Illegal Indian migrant learns fate for $7M SoCal cargo theft scheme",
-  "orig_title": "Illegal Indian migrant learns fate for $7M SoCal cargo theft scheme",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "New York Post",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFZfa0p5ZllpTEktTWlpaV9rZnFWdVQ1dGhLcllWSXFGOWVtUzRaeUpFUHRQWFo5LUI1REEtTWloVHVNNTVWcXUxYTdjenpzM0Y1YXRjaFIxWEdIeXlmeDRGN1VDaUYyQV9JSWJLZU5WUTM2RGRaS3BJUkdRVVM0UDJZZ0FfZE9BVlhiRU9aQnRBeHVqczZvbg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFZfa0p5ZllpTEktTWlpaV9rZnFWdVQ1dGhLcllWSXFGOWVtUzRaeUpFUHRQWFo5LUI1REEtTWloVHVNNTVWcXUxYTdjenpzM0Y1YXRjaFIxWEdIeXlmeDRGN1VDaUYyQV9JSWJLZU5WUTM2RGRaS3BJUkdRVVM0UDJZZ0FfZE9BVlhiRU9aQnRBeHVqczZvbg",
-  "snippet": "Illegal Indian migrant learns fate for $7M SoCal cargo theft scheme New York Post",
-  "published": "2026-11-17T22:21:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T22:31:04.078830+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "dac537a78a",
   "slug": "charity-march-of-dimes-canada-changes-its-name-to-disability-can-dac537a78a",
   "title": "Charity March of Dimes Canada changes its name to Disability Can",
@@ -38830,52 +38757,6 @@
   "source_note": "excerpt only · 24 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "aaa63617c5",
-  "slug": "how-to-win-more-freight-from-existing-customers-aaa63617c5",
-  "title": "How to Win More Freight From Existing Customers",
-  "orig_title": "How to Win More Freight From Existing Customers",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "Other",
-  "importance": 55,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FdEthajROamxTYzZMallOLUdZRzNaVm0wNHdmTzV5Tl93RTVqS3hFM2F1ZmVvaUpJNm1Dc21kXzloTkxHZTc5RkQ3c3JDSUJCVW9qMVlzMnhfWS05S0kxdVhQTUw0ZTNJRDhfaGRMTVJXRjVrMk1RcVd4M19IQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FdEthajROamxTYzZMallOLUdZRzNaVm0wNHdmTzV5Tl93RTVqS3hFM2F1ZmVvaUpJNm1Dc21kXzloTkxHZTc5RkQ3c3JDSUJCVW9qMVlzMnhfWS05S0kxdVhQTUw0ZTNJRDhfaGRMTVJXRjVrMk1RcVd4M19IQQ",
-  "snippet": "How to Win More Freight From Existing Customers Transport Topics",
-  "published": "2026-11-17T21:05:41+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T22:36:33.026703+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://www.ttnews.com/whitepaper/how-win-more-freight-existing-customers",
-  "source_note": "ok · 919 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "f05683dcecfc37ea",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-17T22:36:33.026703+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "Promotional whitepaper content with general sales advice and no news event; no summary produced"
-  ],
-  "ai_category": "other",
-  "ai_importance": 10,
-  "ai_relevant": false
  },
  {
   "id": "1ebb0cb0d0",
