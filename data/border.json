@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T23:51:15.357373+00:00",
- "hour_now": 18,
+ "updated": "2026-11-21T00:01:05.364303+00:00",
+ "hour_now": 19,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -18,9 +18,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 25,
-    "status": "25 minutes",
-    "updated": "2026-11-20 18:44 EST"
+    "wait": 15,
+    "status": "15 minutes",
+    "updated": "2026-11-20 18:53 EST"
    },
    "usual": {
     "south": [
@@ -69,7 +69,7 @@
      28,
      34,
      38,
-     29,
+     27,
      20,
      20,
      3,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 6:37 pm EST",
+    "updated": "At 6:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -268,7 +268,7 @@
      0,
      1,
      8,
-     0,
+     1,
      0,
      0,
      2,
@@ -294,7 +294,7 @@
      12,
      12,
      18,
-     25,
+     23,
      21,
      13,
      2,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:37 pm EST",
+    "updated": "At 6:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -369,7 +369,7 @@
      2,
      6,
      10,
-     35,
+     33,
      44,
      41,
      24,
@@ -418,7 +418,7 @@
      5,
      5,
      5,
-     0,
+     1,
      0,
      0,
      0,
@@ -543,9 +543,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-20 18:30 EST"
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-20 18:53 EST"
    },
    "usual": {
     "south": [
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "18:48:04",
+    "updated": "18:58:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:48:04",
+    "updated": "18:58:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-20 16:15 MDT"
+    "updated": "2026-11-20 17:51 MDT"
    },
    "usual": {
     "south": [
@@ -1236,7 +1236,7 @@
      16,
      15,
      15,
-     53,
+     47,
      60,
      19,
      0,
@@ -1386,7 +1386,7 @@
      7,
      8,
      8,
-     0,
+     2,
      0,
      0,
      0,
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },

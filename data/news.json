@@ -431,7 +431,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 35,
   "source": "Wisevoter",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1dHV0VPTVRxbzM1R2p4OGEteWh0U0JwZ0QxQi1VTWZyVGJXbGxBcW44VlhnZGY3QWVVTFhjMGtaZTRHRkhjYUdCT0R2bHFmeFdWdG1TSDVnaG1mNUVNWnlTeTlxN2tvMzhFejFTWTlEaEdBUWhzcmZyTmI4WmRHSHJB?oc=5",
@@ -450,10 +450,51 @@
    "Company announcement"
   ],
   "kind": "announcement",
-  "sum_pending": true,
-  "sum_tries": 2,
+  "sum_pending": false,
+  "sum_tries": 3,
   "pub_url": "https://wisevoter.com/world/us/2026/11/20/bobit-2027-fleet-fact-book-release",
-  "source_note": "ok · 371 words"
+  "source_note": "ok · 371 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "35f9366ef9a6a809",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-21T00:01:05.497667+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "combining data, surveys, and original research"
+   },
+   {
+    "sentence": "2",
+    "quote": "$55,772 cost per on-the-job crash"
+   },
+   {
+    "sentence": "3",
+    "quote": "nearly $725 million, up 60% from 2024"
+   },
+   {
+    "sentence": "4",
+    "quote": "Government fleet assets average 7.4 years old"
+   },
+   {
+    "sentence": "5",
+    "quote": "used work truck prices and mileage increases recorded"
+   },
+   {
+    "sentence": "6",
+    "quote": "Fleet Pyramid census with Mobility Global"
+   }
+  ],
+  "sum_problems": [
+   "The source does not state the year of the $55,772 per-crash estimate; the only dated crash figure is 2023 for U.S. employers, so the summary omits a year for it.",
+   "The source includes generic advice to fleet operators that is not reporting, so it is excluded from the summary and why_it_matters is left empty."
+  ],
+  "ai_category": "other",
+  "ai_importance": 45,
+  "pending_summary": "Bobit Business Media has released its 2027 Fleet Fact Book, an annual report combining data, surveys and original research on vehicle markets, operating costs, safety, technology and workforce issues across government, commercial, utility and trucking fleets. The report cites an estimated $55,772 cost per on-the-job crash. It also puts 2025 U.S. cargo theft losses at nearly $725 million, up 60% from 2024. Government fleet assets average 7.4 years old and roughly 77,000 miles. The report also records used work truck prices and mileage increases in the second quarter of 2026. Its commercial fleet vehicle count draws on the Fleet Pyramid census with Mobility Global.",
+  "pending_why": ""
  },
  {
   "id": "33a19023a8",
@@ -4946,7 +4987,12 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ctvnews.ca/toronto/article/transport-truck-driver-charged-after-rollerblader-struck-and-killed-in-ajax-police/",
+  "source_note": "excerpt only · 21 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "aaf6ac14ad",
@@ -25672,6 +25718,35 @@
   "published": "2026-11-18T18:11:14+00:00",
   "date_known": true,
   "first_seen": "2026-11-19T22:41:07.213649+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "a79f6055d1",
+  "slug": "manitoba-community-converts-curling-rink-to-grocery-store-a79f6055d1",
+  "title": "Manitoba community converts curling rink to grocery store",
+  "orig_title": "Manitoba community converts curling rink to grocery store",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGJtM2tqVmhNYnItNmtGSXVsZzBiOU5ONG0zX3FTRlctY0pISlBiM3lVZzNFanFBb2hRNmhkZ0NuRU9Fd194cHg4UkZ3TVVfR01FYVFucXl2cVVDZUIxTks5VEk4RlBuRVY3QWk4NE5MMUc3RDU1aUs0a2xEYkFGMkxqZThlVVFmUFBDcmpwWk96MTVFV3pEb2dTdVBOc2s?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGJtM2tqVmhNYnItNmtGSXVsZzBiOU5ONG0zX3FTRlctY0pISlBiM3lVZzNFanFBb2hRNmhkZ0NuRU9Fd194cHg4UkZ3TVVfR01FYVFucXl2cVVDZUIxTks5VEk4RlBuRVY3QWk4NE5MMUc3RDU1aUs0a2xEYkFGMkxqZThlVVFmUFBDcmpwWk96MTVFV3pEb2dTdVBOc2s",
+  "snippet": "Manitoba community converts curling rink to grocery store CTV News",
+  "published": "2026-11-18T18:07:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T00:01:05.497667+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
