@@ -4412,7 +4412,8 @@
   "51ea421b3c": "skipped|minor item (announcement) or low-quality source",
   "56898566a2": "skipped|importance 61 is below this platform's threshold (65)",
   "c26984b5d7": "skipped|minor item (incident) or low-quality source",
-  "35df32a91a": "skipped|importance 63 is below this platform's threshold (65)"
+  "35df32a91a": "skipped|importance 63 is below this platform's threshold (65)",
+  "bf2b3afa05": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9237,6 +9238,13 @@
    "title": "US rail traffic rises 7.3% as intermodal gains 10.7% in latest week",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-21T00:07:02.943035+00:00",
+   "story_id": "bf2b3afa05",
+   "title": "Colorado will start allowing private vendors to offer chain-up services to truckers on I-70 this winter",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
