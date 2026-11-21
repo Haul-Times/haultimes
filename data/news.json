@@ -11582,6 +11582,35 @@
   "sum_pending": false
  },
  {
+  "id": "4d71393684",
+  "slug": "canadians-concerned-about-online-holiday-shopping-scams-heightened-due-4d71393684",
+  "title": "Canadians concerned about online holiday shopping scams heightened due to AI",
+  "orig_title": "Canadians concerned about online holiday shopping scams heightened due to AI",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkVPOWZzSl9NSXJtT0xyY0NkVC0wMVc5OTRpRURPWkVtN1drd3pYRFJEN0JkN09TeUVXSWotNlhxdlBfTWYzODNDa3J1UE11Q0NlUlNsWUR1a2dTVktNSUpDVVhTUmJ0OFFVdFBoTEVuRDlmZXBibDVmbTM5UnkyNzFpSm9yN0NVaC10SG9qeFRSQmZvVi1KYTdQYXhTeTE4TkJibWt2aVA2d3lTLXJVcXlpWjVxMTB1NkpzQ1BGSERROTJfekJIaA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkVPOWZzSl9NSXJtT0xyY0NkVC0wMVc5OTRpRURPWkVtN1drd3pYRFJEN0JkN09TeUVXSWotNlhxdlBfTWYzODNDa3J1UE11Q0NlUlNsWUR1a2dTVktNSUpDVVhTUmJ0OFFVdFBoTEVuRDlmZXBibDVmbTM5UnkyNzFpSm9yN0NVaC10SG9qeFRSQmZvVi1KYTdQYXhTeTE4TkJibWt2aVA2d3lTLXJVcXlpWjVxMTB1NkpzQ1BGSERROTJfekJIaA",
+  "snippet": "Canadians concerned about online holiday shopping scams heightened due to AI CTV News",
+  "published": "2026-11-19T22:17:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T03:51:14.114660+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f5f04c6359",
   "slug": "13-arrested-in-22-5-million-southern-california-train-theft-ring-invol-f5f04c6359",
   "title": "13 arrested in $22.5 million Southern California train theft ring involving Nike sneakers, tools",
