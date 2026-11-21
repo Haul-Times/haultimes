@@ -4416,7 +4416,9 @@
   "bf2b3afa05": "skipped|importance 45 is below this platform's threshold (65)",
   "50b1547c4e": "skipped|importance 63 is below this platform's threshold (65)",
   "e0a2d5aa87": "skipped|importance 62 is below this platform's threshold (65)",
-  "bcf2256ac9": "skipped|importance 45 is below this platform's threshold (65)"
+  "bcf2256ac9": "skipped|importance 45 is below this platform's threshold (65)",
+  "0aa4f9b6fb": "skipped|importance 50 is below this platform's threshold (65)",
+  "aa938b1d39": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9269,6 +9271,20 @@
    "title": "Dallas College, Goodwill Expand CDL Training Program",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T00:51:50.708863+00:00",
+   "story_id": "0aa4f9b6fb",
+   "title": "Sask. family speaks out after dangerous semi-truck encounter",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-21T00:51:50.708863+00:00",
+   "story_id": "aa938b1d39",
+   "title": "New fines facing unsafe trucking operators in Alberta, if legislation passes",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
