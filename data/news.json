@@ -1126,6 +1126,35 @@
   "sum_pending": false
  },
  {
+  "id": "89cef6e34a",
+  "slug": "sask-policy-update-seeks-more-power-generation-from-forestry-waste-89cef6e34a",
+  "title": "Sask. policy update seeks more power generation from forestry waste",
+  "orig_title": "Sask. policy update seeks more power generation from forestry waste",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWxpRGMxMC04aFI0bzV2SjhGejZ0WTdOUVF2TWZHYktQQnkxUG4xOE16MlZGSlVOeVV2YXR6bmRubmVHd2F3cVFqa00wME9HWnFzMEtMX21oVzJ4Ymt3WE00aFY5RVdQQ0tBbmpHd0tJOXpVWE1rZ2J0Zl9Ma0NoOHNfNHIwaXNTQ0syQ0pCeGU3Tnd1aElfQU9YWm1ob3d0SzF6Vnp3UGNRT2JDVnVxQ1htSWJXcnUy?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWxpRGMxMC04aFI0bzV2SjhGejZ0WTdOUVF2TWZHYktQQnkxUG4xOE16MlZGSlVOeVV2YXR6bmRubmVHd2F3cVFqa00wME9HWnFzMEtMX21oVzJ4Ymt3WE00aFY5RVdQQ0tBbmpHd0tJOXpVWE1rZ2J0Zl9Ma0NoOHNfNHIwaXNTQ0syQ0pCeGU3Tnd1aElfQU9YWm1ob3d0SzF6Vnp3UGNRT2JDVnVxQ1htSWJXcnUy",
+  "snippet": "Sask. policy update seeks more power generation from forestry waste CBC",
+  "published": "2026-11-20T21:07:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T09:21:03.871622+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "7c3a46ffad",
   "slug": "dhl-survey-finds-small-business-optimism-for-2027-7c3a46ffad",
   "title": "DHL survey finds small business optimism for 2027",
