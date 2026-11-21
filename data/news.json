@@ -1,5 +1,34 @@
 [
  {
+  "id": "ffd358f268",
+  "slug": "report-flags-criminal-networks-exploiting-indian-origin-punjabi-youth-ffd358f268",
+  "title": "Report flags criminal networks exploiting Indian-origin Punjabi youth in Canada",
+  "orig_title": "Report flags criminal networks exploiting Indian-origin Punjabi youth in Canada",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "IANS LIVE",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXlFdm1ub09kYWJvd0w2d3c3WjRNdjNfRngxX0huMTdOaTF6M0MzdEZ2LVFzQjhCQzIzV1NMUlRqY2RUR1I0OE41YzVPM1pzYy0xMHByUzJNN1lLbEFEalJkSm9XLTBaVloxSGphcHJWRGd2eDgxQTRoNkFaamxPd245eGUxd3Vzei1IMUNqOURyOWNvSm9LQnBlRWl6Ylg1WVJWUnVvYmh3VXF2cHIxSlMxYVFQUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXlFdm1ub09kYWJvd0w2d3c3WjRNdjNfRngxX0huMTdOaTF6M0MzdEZ2LVFzQjhCQzIzV1NMUlRqY2RUR1I0OE41YzVPM1pzYy0xMHByUzJNN1lLbEFEalJkSm9XLTBaVloxSGphcHJWRGd2eDgxQTRoNkFaamxPd245eGUxd3Vzei1IMUNqOURyOWNvSm9LQnBlRWl6Ylg1WVJWUnVvYmh3VXF2cHIxSlMxYVFQUQ",
+  "snippet": "Report flags criminal networks exploiting Indian-origin Punjabi youth in Canada IANS LIVE",
+  "published": "2026-11-21T13:10:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T13:21:07.189301+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "852f30a102",
   "slug": "residents-association-in-durban-calls-for-city-intervention-against-tr-852f30a102",
   "title": "Residents association in Durban calls for City intervention against trucks",
@@ -757,18 +786,15 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 1,
   "source_note": "publisher refused (403)",
   "sum_done": true,
-  "sum_status": "no source text (publisher refused (403))",
-  "dup_of": "c02dac559f"
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "fa632cc7f2",
@@ -4772,10 +4798,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -4818,8 +4842,7 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 70,
-  "sum_v3": true,
-  "dup_of": "c02dac559f"
+  "sum_v3": true
  },
  {
   "id": "26c44b9d4a",
@@ -5371,10 +5394,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -5420,8 +5441,7 @@
   ],
   "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 60,
-  "dup_of": "c02dac559f"
+  "ai_importance": 60
  },
  {
   "id": "f34257265f",
@@ -9521,8 +9541,7 @@
   ],
   "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 60,
-  "followup_of": "47458eb868"
+  "ai_importance": 60
  },
  {
   "id": "846d6e007a",
@@ -9748,10 +9767,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -9796,8 +9813,7 @@
   ],
   "ai_importance": 70,
   "sum_v4": true,
-  "ai_category": "other",
-  "dup_of": "0df12fe063"
+  "ai_category": "other"
  },
  {
   "id": "14c548c16c",
@@ -9878,17 +9894,14 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Illegal Alien Sentenced to 2.5 Years Behind Bars for $7.2M Trucking Cargo Theft Ring in Ca"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://ng.headtopics.com/news/14-arrested-in-22-5-million-southern-california-cargo-90015946",
-  "source_note": "ok · 566 words",
-  "dup_of": "489a260e1f"
+  "source_note": "ok · 566 words"
  },
  {
   "id": "718873d654",
@@ -23048,12 +23061,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
+   "same story as: Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contract"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "47458eb868"
+  "dup_of": "50baa1f41e"
  },
  {
   "id": "d908d7af02",
@@ -25002,6 +25015,35 @@
   "published": "2026-11-18T23:39:29+00:00",
   "date_known": true,
   "first_seen": "2026-11-21T02:21:09.089576+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "ca45874a76",
+  "slug": "fishermen-from-ecuador-sue-trump-administration-over-boat-strike-ca45874a76",
+  "title": "Fishermen from Ecuador sue Trump administration over boat strike",
+  "orig_title": "Fishermen from Ecuador sue Trump administration over boat strike",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQi1xTVczak9qdTF6bm9wMGNhbFJZRk1IeUJMbnR3Qm5pVUtmNVZ0dHRMc2UwWnVVSVVQS1U0RHFocXJ0djViNWlRa1NtYURyU29SdXhWc0x5aV9wWW8yY3M0WFRnbERYRHl3T3lTZ2NWSXRZQ0FrWFpsQnNNX2JqVm1NUThiUjBGSlpHVHg5dkxGUnZ1azRmY254c1JwUDY4ODhKVA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQi1xTVczak9qdTF6bm9wMGNhbFJZRk1IeUJMbnR3Qm5pVUtmNVZ0dHRMc2UwWnVVSVVQS1U0RHFocXJ0djViNWlRa1NtYURyU29SdXhWc0x5aV9wWW8yY3M0WFRnbERYRHl3T3lTZ2NWSXRZQ0FrWFpsQnNNX2JqVm1NUThiUjBGSlpHVHg5dkxGUnZ1azRmY254c1JwUDY4ODhKVA",
+  "snippet": "Fishermen from Ecuador sue Trump administration over boat strike CTV News",
+  "published": "2026-11-18T23:38:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T13:21:07.189301+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -27303,6 +27345,35 @@
   "source_note": "paywalled: excerpt only · 27 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "5aec5497b0",
+  "slug": "u-s-transportation-secretary-sean-duffy-blames-contractor-after-faa-gr-5aec5497b0",
+  "title": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop",
+  "orig_title": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlJyQ2wzazBGeWpZbGdCRlNaZFE1Y3pwWnRkSmMySHlWcWpVekJOSWJINjhwNEh5ZnVudzVCN3ZlZUx3d0trS0c0SGhSamRhWVc3ZTNXMlRmOGtEMlg1djhXTDNUQW5EMUtXTU1obDFxM21LakszRFY3dmZkVkt6V1pTdWtMSlVHRWhJR0xvaFZUQ05hTlM5UE02WDJJcFY4MEVjVXBoeTZidVdHdjlVYkI1LWhxQ00?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlJyQ2wzazBGeWpZbGdCRlNaZFE1Y3pwWnRkSmMySHlWcWpVekJOSWJINjhwNEh5ZnVudzVCN3ZlZUx3d0trS0c0SGhSamRhWVc3ZTNXMlRmOGtEMlg1djhXTDNUQW5EMUtXTU1obDFxM21LakszRFY3dmZkVkt6V1pTdWtMSlVHRWhJR0xvaFZUQ05hTlM5UE02WDJJcFY4MEVjVXBoeTZidVdHdjlVYkI1LWhxQ00",
+  "snippet": "U.S. Transportation Secretary Sean Duffy blames contractor after FAA ground stop CTV News",
+  "published": "2026-11-18T20:00:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T13:21:07.189301+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "9513992904",
@@ -30395,6 +30466,64 @@
   "sum_tries": 3,
   "pub_url": "https://www.thetrucker.com/trucking-news/business/crosscountry-freight-solutions-named-top-10-ltl-carrier-in-2026-mastio-study",
   "source_note": "ok · 397 words"
+ },
+ {
+  "id": "0762ec4422",
+  "slug": "zverev-officially-notified-of-lawsuit-by-ex-partner-in-abuse-case-duri-0762ec4422",
+  "title": "Zverev officially notified of lawsuit by ex-partner in abuse case during ATP Finals",
+  "orig_title": "Zverev officially notified of lawsuit by ex-partner in abuse case during ATP Finals",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ082QVFHdXFxT2RubVFpRG1oU0p5U0tmOTBNbzFWbjJYQkswLUk3azhxZW1pTTNlblVXWFNwNnAxd1dMVkZRZng0eTFqUUs0RFJSZnk2WU9IR1g4M2hKdHNCTHZpcXZHVEdqa3VtRjNjZHBscy0wcGpabkRzbkp2RG5nVkhRbmZxRUNIN3ZkMjFKanJjRG9JYzZMMVIyY1R5UTdSa1owU1VZLU16NXdsdDluNXJ5dVFKT1JyUVV2dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ082QVFHdXFxT2RubVFpRG1oU0p5U0tmOTBNbzFWbjJYQkswLUk3azhxZW1pTTNlblVXWFNwNnAxd1dMVkZRZng0eTFqUUs0RFJSZnk2WU9IR1g4M2hKdHNCTHZpcXZHVEdqa3VtRjNjZHBscy0wcGpabkRzbkp2RG5nVkhRbmZxRUNIN3ZkMjFKanJjRG9JYzZMMVIyY1R5UTdSa1owU1VZLU16NXdsdDluNXJ5dVFKT1JyUVV2dw",
+  "snippet": "Zverev officially notified of lawsuit by ex-partner in abuse case during ATP Finals CTV News",
+  "published": "2026-11-18T16:22:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T13:21:07.189301+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "f71578ee05",
+  "slug": "trump-family-and-top-officials-targeted-in-early-steps-toward-promised-f71578ee05",
+  "title": "Trump family and top officials targeted in early steps toward promised investigations",
+  "orig_title": "Trump family and top officials targeted in early steps toward promised investigations",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzFtaGlkRUwwQWs1RUJMbWpzLW1VUHVqLW1CQXNab1ZSeU1kaVBxcmZhSmVCeWxfb2ZydGp2OU1QRkxjT2VLQ2t4dG5Zb3pUTkU2V2tRbW1tcXJaaFF3S3BGQ251VFUxNUNWeFp0aGUyTUVnVDBhTmZwWnRaSmdsUGRmTi1fWkFXdFBwUVFDUkpta3FfQUpybGV0T19mQXNkal9EY1A1dWRZbWJXYW9uSEljNnlFUWtpR0N6cjV0dWQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzFtaGlkRUwwQWs1RUJMbWpzLW1VUHVqLW1CQXNab1ZSeU1kaVBxcmZhSmVCeWxfb2ZydGp2OU1QRkxjT2VLQ2t4dG5Zb3pUTkU2V2tRbW1tcXJaaFF3S3BGQ251VFUxNUNWeFp0aGUyTUVnVDBhTmZwWnRaSmdsUGRmTi1fWkFXdFBwUVFDUkpta3FfQUpybGV0T19mQXNkal9EY1A1dWRZbWJXYW9uSEljNnlFUWtpR0N6cjV0dWQ",
+  "snippet": "Trump family and top officials targeted in early steps toward promised investigations CTV News",
+  "published": "2026-11-18T16:20:02+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T13:21:07.189301+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "b2a69440f3",
@@ -35681,12 +35810,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: $7.2M Cargo Theft Ring: IE Man Sentenced To 2 1/2 Years In Federal Prison"
+   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "f58fb8543f"
+  "dup_of": "aa0df11328"
  },
  {
   "id": "1abd29c016",
@@ -37416,8 +37545,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo thef"
+  ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -37465,7 +37596,8 @@
    "copies a 12-word run from the source: 'in a scheme that stole more than $7.2 million in cargo from'"
   ],
   "ai_category": "other",
-  "ai_importance": 60
+  "ai_importance": 60,
+  "dup_of": "aa0df11328"
  },
  {
   "id": "b04b97fd64",
@@ -37810,10 +37942,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Trucking companies used in $7.2-million California cargo theft scheme"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -37862,8 +37992,7 @@
   ],
   "ai_importance": 68,
   "sum_v4": true,
-  "ai_category": "other",
-  "dup_of": "47458eb868"
+  "ai_category": "other"
  },
  {
   "id": "7f58a7eca4",
