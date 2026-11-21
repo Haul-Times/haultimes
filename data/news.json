@@ -116,6 +116,35 @@
   "sum_pending": false
  },
  {
+  "id": "51ff973179",
+  "slug": "vitaledge-introduces-vitalpay-for-equipment-dealership-payments-51ff973179",
+  "title": "VitalEdge Introduces VitalPay for Equipment Dealership Payments",
+  "orig_title": "VitalEdge Introduces VitalPay for Equipment Dealership Payments",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Fleet Equipment Magazine",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1la2ZvZGRMbXNJX2RiRDIxeU82Q2stdkZWTzlPM2J4NkhnVlZhOWNEaUFCaUJaeTVybnlsR3Y5UXhLLVY1TFVfOHNZczl5T0J2S1lpLTZrX3VTMnNJcGJ4Wl96aUs4d1p6b3VyRUU0ODVGZUVHTTVCRFZfYUh2UQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1la2ZvZGRMbXNJX2RiRDIxeU82Q2stdkZWTzlPM2J4NkhnVlZhOWNEaUFCaUJaeTVybnlsR3Y5UXhLLVY1TFVfOHNZczl5T0J2S1lpLTZrX3VTMnNJcGJ4Wl96aUs4d1p6b3VyRUU0ODVGZUVHTTVCRFZfYUh2UQ",
+  "snippet": "VitalEdge Introduces VitalPay for Equipment Dealership Payments Fleet Equipment Magazine",
+  "published": "2026-11-21T15:07:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T18:01:04.923431+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "ec2128f24f",
   "slug": "tentative-union-deal-averts-strike-at-port-of-la-long-beach-ec2128f24f",
   "title": "Tentative union deal averts strike at Port of LA-Long Beach",
@@ -766,6 +795,35 @@
   ],
   "labels": [],
   "kind": "review",
+  "sum_pending": false
+ },
+ {
+  "id": "bba1a9c49e",
+  "slug": "tca-heller-bba1a9c49e",
+  "title": "tca heller",
+  "orig_title": "tca heller",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ0xDNjBRS1Z4NHd0aTBhSGJkSlQ0TUNuNXdYTHBtR2N2cUNJOEVyaTlaQlpfTXRiQzRFcWhSUkdxYjNDOExaNENhemk0Ykw5ckxwS3BWV0NMR1RRbDYzWWY0ZUtTTE93QmloY0piZkctNjJhcHYyWmhuNUE1S1Vnc0p4eE9ibENNTDdYNXJjRzlfc3VIZ1B6ODI3OVBWZFJSY1dxQVp5NXc2X2k0UEtmaVZWajZ0eC0wbFJxVFpPRzU2YlpCUENaTmdLeGg0X1ZybXZ6YnQxOHdtOHRQNFJVejRzd2wxbGVuWXlwbjQteXRLdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ0xDNjBRS1Z4NHd0aTBhSGJkSlQ0TUNuNXdYTHBtR2N2cUNJOEVyaTlaQlpfTXRiQzRFcWhSUkdxYjNDOExaNENhemk0Ykw5ckxwS3BWV0NMR1RRbDYzWWY0ZUtTTE93QmloY0piZkctNjJhcHYyWmhuNUE1S1Vnc0p4eE9ibENNTDdYNXJjRzlfc3VIZ1B6ODI3OVBWZFJSY1dxQVp5NXc2X2k0UEtmaVZWajZ0eC0wbFJxVFpPRzU2YlpCUENaTmdLeGg0X1ZybXZ6YnQxOHdtOHRQNFJVejRzd2wxbGVuWXlwbjQteXRLdw",
+  "snippet": "tca heller Truck News",
+  "published": "2026-11-21T02:14:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T18:01:04.923431+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
