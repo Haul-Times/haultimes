@@ -22623,6 +22623,35 @@
   "ai_relevant": false
  },
  {
+  "id": "7c851e8848",
+  "slug": "woman-in-her-40s-dead-after-being-struck-by-lrt-vehicle-in-scarborough-7c851e8848",
+  "title": "Woman in her 40s dead after being struck by LRT vehicle in Scarborough",
+  "orig_title": "Woman in her 40s dead after being struck by LRT vehicle in Scarborough",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGZVcFg2dGprUFpLNE4tb2pfWllGU1FvZFRqMllRZG5ubG1WWmxHckdxbkdNM05VV2Y2bUJab1NpcVJ0d2JpandRbkJkbm9ZWERpY3pQWllkbUptcXp6Rm16enZXSnIxd1lYb0FCUFFUYUJtSkVXcmlWak5nTl9LcjczZ0xQVWZCRDVqOGF4VGQ0dmp5ZkNSVXU1aXA1ZDBqSldFdTFKaWs?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGZVcFg2dGprUFpLNE4tb2pfWllGU1FvZFRqMllRZG5ubG1WWmxHckdxbkdNM05VV2Y2bUJab1NpcVJ0d2JpandRbkJkbm9ZWERpY3pQWllkbUptcXp6Rm16enZXSnIxd1lYb0FCUFFUYUJtSkVXcmlWak5nTl9LcjczZ0xQVWZCRDVqOGF4VGQ0dmp5ZkNSVXU1aXA1ZDBqSldFdTFKaWs",
+  "snippet": "Woman in her 40s dead after being struck by LRT vehicle in Scarborough CTV News",
+  "published": "2026-11-19T04:34:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T08:11:04.944224+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "770a619a94",
   "slug": "two-in-custody-after-high-risk-traffic-stop-in-north-bay-770a619a94",
   "title": "Two in custody after high-risk traffic stop in North Bay",
