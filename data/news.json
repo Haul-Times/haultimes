@@ -856,6 +856,35 @@
   "sum_pending": false
  },
  {
+  "id": "328c844e07",
+  "slug": "hxiiacewoaa-eed-jpeg-328c844e07",
+  "title": "HXiIAcEWoAA-EEd.jpeg",
+  "orig_title": "HXiIAcEWoAA-EEd.jpeg",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "themercury.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3VBUVlXTHFua2xVMjluMUhWd1NDbFVuLS1GZ01HblRnRUY2Wnl5YmRBNkZQZDBBY21NejQ2dEJJREtPR2loRVR4Q1dzS0VWQ0hPanBJcVA5dFIteVJWTWljMlZ0YUJkVUh0b2xvNUFWTmxncVZ2b3ZjUUpLNWw3MXBqZFRERUlUTnp3NDRDZnlJS0RpSFE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3VBUVlXTHFua2xVMjluMUhWd1NDbFVuLS1GZ01HblRnRUY2Wnl5YmRBNkZQZDBBY21NejQ2dEJJREtPR2loRVR4Q1dzS0VWQ0hPanBJcVA5dFIteVJWTWljMlZ0YUJkVUh0b2xvNUFWTmxncVZ2b3ZjUUpLNWw3MXBqZFRERUlUTnp3NDRDZnlJS0RpSFE",
+  "snippet": "HXiIAcEWoAA-EEd.jpeg themercury.com",
+  "published": "2026-11-21T02:04:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-21T19:51:05.278869+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "59479bf950",
   "slug": "geodis-u-s-q3-delivery-costs-rose-three-times-faster-than-inflation-59479bf950",
   "title": "Geodis: U.S. Q3 delivery costs rose three times faster than inflation",
@@ -39382,35 +39411,6 @@
   "ai_category": "other",
   "ai_importance": 8,
   "ai_relevant": false
- },
- {
-  "id": "3c27d588f1",
-  "slug": "transcontinental-merger-of-union-pacific-and-norfolk-southern-divides-3c27d588f1",
-  "title": "Transcontinental merger of Union Pacific and Norfolk Southern divides rail leaders",
-  "orig_title": "Transcontinental merger of Union Pacific and Norfolk Southern divides rail leaders",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXFUOUdyWVBFcXlwVWJ6TUZ3a0Rqc0hreDRva1hiSGE4NlpnVFVZYVhORVVENVJ1TU5Pa2tSZmQ0dF9EaEJNMVBaMkp0d0M0XzV5U0ZoZ1F3T0R4UFZnRzg1dUI0a3M4aV9kU240YlBEWGN5dzBOS2ZNU3BtRm1NQ3JXSEE0RGVOSkQ3UlpGRkNoUHZYUGdraGIwYkQ3WnBFZExhMlFmZjJfd2RHUTl2MUVFc0dxRDg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXFUOUdyWVBFcXlwVWJ6TUZ3a0Rqc0hreDRva1hiSGE4NlpnVFVZYVhORVVENVJ1TU5Pa2tSZmQ0dF9EaEJNMVBaMkp0d0M0XzV5U0ZoZ1F3T0R4UFZnRzg1dUI0a3M4aV9kU240YlBEWGN5dzBOS2ZNU3BtRm1NQ3JXSEE0RGVOSkQ3UlpGRkNoUHZYUGdraGIwYkQ3WnBFZExhMlFmZjJfd2RHUTl2MUVFc0dxRDg",
-  "snippet": "Transcontinental merger of Union Pacific and Norfolk Southern divides rail leaders FreightWaves",
-  "published": "2026-11-17T19:42:57+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T19:51:03.340873+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
  },
  {
   "id": "c32c7d0a46",
