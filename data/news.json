@@ -41361,36 +41361,6 @@
   "sum_pending": false
  },
  {
-  "id": "4a9a8985c4",
-  "slug": "driveshaft-recall-hits-daimler-paccar-trucks-4a9a8985c4",
-  "title": "Driveshaft recall hits Daimler, Paccar trucks",
-  "orig_title": "Driveshaft recall hits Daimler, Paccar trucks",
-  "summary": "",
-  "why": "",
-  "category": "equip",
-  "region": "",
-  "importance": 75,
-  "source": "Commercial Carrier Journal",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVFCcURLQTA5MlI2dE9xSEY3ek1NM0k5MlE2a2RSM0c1RVNFem5sSTJWczk5a1hWODRPQldxRHctRFlvYW15TmpwT1gwalR0Snk3MGgzWDJBZnNlSnZPcjlTUWwwUzI1alM4MC1nMGtzYWsyRkRRQURFU0ZWbUlweVNYYk11Q25HUXZtR2k5d3ZXMHlaT2MxWnVpZGVEUXNyTWc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVFCcURLQTA5MlI2dE9xSEY3ek1NM0k5MlE2a2RSM0c1RVNFem5sSTJWczk5a1hWODRPQldxRHctRFlvYW15TmpwT1gwalR0Snk3MGgzWDJBZnNlSnZPcjlTUWwwUzI1alM4MC1nMGtzYWsyRkRRQURFU0ZWbUlweVNYYk11Q25HUXZtR2k5d3ZXMHlaT2MxWnVpZGVEUXNyTWc",
-  "snippet": "Driveshaft recall hits Daimler, Paccar trucks Commercial Carrier Journal",
-  "published": "2026-11-17T06:28:34+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T06:41:05.801140+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Daimler, Paccar Recall Trucks Over Driveline Defect"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "931b43c9f1"
- },
- {
   "id": "be3e6bdf8e",
   "slug": "oversized-load-strikes-bridge-on-southbound-loop-12-at-irving-boulevar-be3e6bdf8e",
   "title": "Oversized Load Strikes Bridge on Southbound Loop 12 at Irving Boulevard in Dallas",
