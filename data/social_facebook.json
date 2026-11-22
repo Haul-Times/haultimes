@@ -3560,6 +3560,27 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "promo-20261122": {
+   "story_id": "promo-20261122",
+   "title": "Freight Market reminder",
+   "url_key": "promo-20261122",
+   "category": "house:promo",
+   "source": "HaulTimes",
+   "dest": "https://haultimes.com/s/promo-20261122/?utm_source=facebook&utm_medium=organic_social&utm_campaign=freight_market",
+   "caption": "Is that load offer fair? Check any lane against what other carriers reported this week: dry van, reefer, flatbed and step deck, across the US and Canada. Free and anonymous on HaulTimes Freight Market.\n\n#Trucking #FreightRates #OwnerOperator #TruckDrivers",
+   "status": "queued",
+   "created_at": "2026-11-22T15:21:39.677781+00:00",
+   "published": "2026-11-22T15:21:39.677781+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {},
+   "house": "promo",
+   "reason": "HaulTimes update: promo"
   }
  },
  "paused": {
@@ -4459,7 +4480,8 @@
   "b4a5097484": "skipped|importance 50 is below this platform's threshold (65)",
   "72339a475b": "queued|importance 80 (threshold 65), Drivers & Jobs, trade publication",
   "ef1c11a5c8": "skipped|importance 63 is below this platform's threshold (65)",
-  "60dbe22861": "skipped|minor item (crime) or low-quality source"
+  "60dbe22861": "skipped|minor item (crime) or low-quality source",
+  "promo-20261122": "queued|HaulTimes update"
  },
  "decisions": [
   {
@@ -9466,6 +9488,13 @@
    "title": "14 Arrested in $22.5M SoCal Cargo Theft Case",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-22T15:21:39.677781+00:00",
+   "story_id": "promo-20261122",
+   "title": "Freight Market reminder",
+   "action": "queued",
+   "reason": "HaulTimes update: promo"
   }
  ],
  "visibility": {
@@ -9477,5 +9506,5 @@
   "created": "2026-11-16T21:31:54+0000",
   "at": "2026-11-16T21:41:23.476840+00:00"
  },
- "promo_i": 4
+ "promo_i": 1
 }

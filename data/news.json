@@ -1,5 +1,34 @@
 [
  {
+  "id": "790cd40c49",
+  "slug": "haiti-news-zapping-790cd40c49",
+  "title": "Haiti - News : Zapping...",
+  "orig_title": "Haiti - News : Zapping...",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "HaitiLibre.com",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNUVY0MU1tSC00bUUxQkxZckNEbk90VVhxNFdrNWoyNTN6RGlwbnY4V2FCRVV3ODlaR2dCWWJ0Q01lTS0xdEJxcm5DYkdtQi1oOHgtSkxGM2VTX0Q1QXJKbF9ZY1VVV1UxUzBXQ0hPM1pFQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNUVY0MU1tSC00bUUxQkxZckNEbk90VVhxNFdrNWoyNTN6RGlwbnY4V2FCRVV3ODlaR2dCWWJ0Q01lTS0xdEJxcm5DYkdtQi1oOHgtSkxGM2VTX0Q1QXJKbF9ZY1VVV1UxUzBXQ0hPM1pFQQ",
+  "snippet": "Haiti - News : Zapping... HaitiLibre.com",
+  "published": "2026-11-22T15:03:20+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T15:21:03.258078+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "60dbe22861",
   "slug": "14-arrested-in-22-5m-socal-cargo-theft-case-60dbe22861",
   "title": "14 Arrested in $22.5M SoCal Cargo Theft Case",
@@ -250,6 +279,35 @@
   "published": "2026-11-22T12:31:04+00:00",
   "date_known": true,
   "first_seen": "2026-11-22T13:01:11.005440+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "45dbfdadb5",
+  "slug": "warehouse-sponge-fire-in-sidoarjo-45dbfdadb5",
+  "title": "Warehouse sponge fire in Sidoarjo",
+  "orig_title": "Warehouse sponge fire in Sidoarjo",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ANTARA Foto",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxQjhOUXY0T0k4b2RSVktuRnRQYl9WYlJRbF9hTWFvRkQ0YjVlWUNsUXgtWmlKay1XbGFaVDN0Nk1iQ2xmeTBkVU45YS0tVVBtTHFKc1VpenNyZFNDNXZBSkUwa1JzalFjYkEyX1JwMWxWVmJycVJGZHhfb1RlZ9IBgwFBVV95cUxQdkxPem5DNW1NU1Z3NEphdVM0Y2k2VXJieGlNVktXaW1uaG1wd0xrbnBaeWs2SDdLMENIVjNLWFVQdWJJSUVLUFZpTFZFNDloMTZWdmJXN1FCSDN6Q0FfRGVyWm9Ca1J4LWZseko1UzlndmpmOVhaY0hlRWgwMWc5RHZ1dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxQjhOUXY0T0k4b2RSVktuRnRQYl9WYlJRbF9hTWFvRkQ0YjVlWUNsUXgtWmlKay1XbGFaVDN0Nk1iQ2xmeTBkVU45YS0tVVBtTHFKc1VpenNyZFNDNXZBSkUwa1JzalFjYkEyX1JwMWxWVmJycVJGZHhfb1RlZ9IBgwFBVV95cUxQdkxPem5DNW1NU1Z3NEphdVM0Y2k2VXJieGlNVktXaW1uaG1wd0xrbnBaeWs2SDdLMENIVjNLWFVQdWJJSUVLUFZpTFZFNDloMTZWdmJXN1FCSDN6Q0FfRGVyWm9Ca1J4LWZseko1UzlndmpmOVhaY0hlRWgwMWc5RHZ1dw",
+  "snippet": "Warehouse sponge fire in Sidoarjo ANTARA Foto",
+  "published": "2026-11-22T12:26:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T15:21:03.258078+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -1752,7 +1810,7 @@
   "slug": "bot-auto-launches-capacity-grid-with-agreements-for-200-million-miles-6c016a9026",
   "title": "Bot Auto launches ‘Capacity Grid’ with agreements for 200 million miles of driverless trucking",
   "orig_title": "Bot Auto launches ‘Capacity Grid’ with agreements for 200 million miles of driverless trucking",
-  "summary": "",
+  "summary": "Bot Auto has launched Capacity Grid, a network intended to match shipper and broker demand with driverless trucking capacity, and has signed agreements covering 200 million miles of driverless freight operations. Customers can reserve capacity for set routes and time windows at agreed prices, buying transportation by the mile without owning trucks. FreightVana, a logistics company specializing in power-only freight transportation, has a commitment covering 50 million miles.\n\nThe company said a driverless load ran from northeast Houston to Hutchins, near Dallas, on April 29, covering 231 miles for Ryan Transportation. Figures reported by the company put the driverless trip at $1.89 per mile, against $3.78 for a comparable human-driven operation within its business. Bot Auto has not specified when the full 200 million miles will be completed.",
   "why": "",
   "category": "equip",
   "region": "US",
@@ -1779,20 +1837,20 @@
   "pub_url": "https://roboticsandautomationnews.com/2026/11/21/bot-auto-launches-capacity-grid-with-agreements-for-200-million-miles-of-driverless-trucking/107423/",
   "source_note": "ok · 844 words",
   "sum_done": true,
-  "sum_status": "withheld",
+  "sum_status": "published",
   "source_fp": "bbd9e86275d52b79",
   "source_scope": "full_article",
-  "sum_at": "2026-11-22T15:11:05.926919+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-22T15:21:03.258078+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
     "sentence": "1",
-    "quote": "a freight transportation network designed to match customer demand"
+    "quote": "designed to match customer demand with autonomous trucking capacity"
    },
    {
     "sentence": "2",
-    "quote": "reserve driverless trucking capacity in advance, with agreed prices, routes and operating schedules"
+    "quote": "Customers can reserve capacity for specified routes and time windows at agreed prices"
    },
    {
     "sentence": "3",
@@ -1800,19 +1858,21 @@
    },
    {
     "sentence": "4",
-    "quote": "Bot Auto has not specified the timetable for completing the full 200 million miles"
+    "quote": "transported a commercial load from northeast Houston to Hutchins, near Dallas"
    },
    {
     "sentence": "5",
-    "quote": "the driverless journey cost $1.89 per mile, compared with $3.78 per mile"
+    "quote": "According to figures reported by the company, the driverless journey cost $1.89 per mile"
+   },
+   {
+    "sentence": "6",
+    "quote": "Bot Auto has not specified the timetable for completing the full 200 million miles"
    }
   ],
-  "sum_problems": [
-   "name 'Phoenix-based FreightVana' is not in the source",
-   "copies a 12-word run from the source: 'cost $1.89 per mile, compared with $3.78 per mile for a comparable'"
-  ],
+  "sum_problems": [],
   "ai_category": "equip",
-  "ai_importance": 70
+  "ai_importance": 60,
+  "sum_v3": true
  },
  {
   "id": "cfd66d1192",
