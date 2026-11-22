@@ -586,6 +586,35 @@
   "sum_pending": false
  },
  {
+  "id": "5f8fc3c0d3",
+  "slug": "3-automakers-recall-more-than-100-000-cars-suvs-and-pickup-trucks-in-c-5f8fc3c0d3",
+  "title": "3 automakers recall more than 100,000 cars, SUVs and pickup trucks in Canada",
+  "orig_title": "3 automakers recall more than 100,000 cars, SUVs and pickup trucks in Canada",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Inside Halton",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTZtN3U3VHZEeHlodkkzcmhJMEFiTXFuVG9Hd3hKWnNJaUg1RHROZEY4WWJGYWxlNVRFQ2I1azVaYl8yNUtyaEc0VjNvUUk5d3BZbi1UMmJyWkFXLVZna1NfVl9iTWZOeGJaRjRnMjk0VERTVHBURXItUU9ZTk5UZV9aTFNRLVU2WVIxVWVQLXVDeEN6eFBTNDVGajM3RVVZMHZIcnh4ZlBoUDNxOFdORndDSGlRWTZHZXhUV0Yzcw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTZtN3U3VHZEeHlodkkzcmhJMEFiTXFuVG9Hd3hKWnNJaUg1RHROZEY4WWJGYWxlNVRFQ2I1azVaYl8yNUtyaEc0VjNvUUk5d3BZbi1UMmJyWkFXLVZna1NfVl9iTWZOeGJaRjRnMjk0VERTVHBURXItUU9ZTk5UZV9aTFNRLVU2WVIxVWVQLXVDeEN6eFBTNDVGajM3RVVZMHZIcnh4ZlBoUDNxOFdORndDSGlRWTZHZXhUV0Yzcw",
+  "snippet": "3 automakers recall more than 100,000 cars, SUVs and pickup trucks in Canada Inside Halton",
+  "published": "2026-11-22T10:15:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T16:31:05.932920+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3c1444e916",
   "slug": "cooling-boxer-briefs-for-the-testicles-why-does-a-lower-silesian-start-3c1444e916",
   "title": "Cooling Boxer Briefs for the Testicles: Why Does a Lower Silesian Startup Talk About Truck Drivers?",
