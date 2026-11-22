@@ -75,6 +75,35 @@
   "sum_v3": true
  },
  {
+  "id": "5af12fe140",
+  "slug": "syria-prepares-to-upgrade-and-expand-al-bukamal-crossing-enab-baladi-5af12fe140",
+  "title": "Syria Prepares to Upgrade and Expand al-Bukamal Crossing - Enab Baladi",
+  "orig_title": "Syria Prepares to Upgrade and Expand al-Bukamal Crossing - Enab Baladi",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Enab Baladi",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnJqNlVyRTVDT3hiRHVzR0s4eEtKejlkUm1HS1VJQXBvU2U5UjZRTm9rMXd5bDBUWjhpR2RPNXN0V1prcm1Hc1lQaXZZLU1ZOFdZSlQ3dE5fT1RFb01VOGh5aHAwd0NzaWhaME8wN09zcnZ3QUN5cF9yVEVsQVdlVGdWeFBmR1VsczdmRlkzN24xX2FMakdFNmZ1V21hWmpNRGo5WUhnZE_SAa4BQVVfeXFMTVhMblN3a25HU3FSbDFGM0IyY1N1ck04TWg2VnhmZ01FMkMyaWhBYkRlalZIenA1OVBaX28xNlQwMUhKOU96Zkw2M0Q2d1RrVU9kWG5LZko3WE8tSTU2OG5LZF95WmNZdU5IendRYlpGSnFZUmcyOEQ5Z2pOaW8wNVJCY3dmUDVYb09QYnN0cVZpeFY4ZEhrWUl3czVkc0hKY0Y3d1FrSWwyNWRqdzh3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnJqNlVyRTVDT3hiRHVzR0s4eEtKejlkUm1HS1VJQXBvU2U5UjZRTm9rMXd5bDBUWjhpR2RPNXN0V1prcm1Hc1lQaXZZLU1ZOFdZSlQ3dE5fT1RFb01VOGh5aHAwd0NzaWhaME8wN09zcnZ3QUN5cF9yVEVsQVdlVGdWeFBmR1VsczdmRlkzN24xX2FMakdFNmZ1V21hWmpNRGo5WUhnZE_SAa4BQVVfeXFMTVhMblN3a25HU3FSbDFGM0IyY1N1ck04TWg2VnhmZ01FMkMyaWhBYkRlalZIenA1OVBaX28xNlQwMUhKOU96Zkw2M0Q2d1RrVU9kWG5LZko3WE8tSTU2OG5LZF95WmNZdU5IendRYlpGSnFZUmcyOEQ5Z2pOaW8wNVJCY3dmUDVYb09QYnN0cVZpeFY4ZEhrWUl3czVkc0hKY0Y3d1FrSWwyNWRqdzh3",
+  "snippet": "Syria Prepares to Upgrade and Expand al-Bukamal Crossing - Enab Baladi Enab Baladi",
+  "published": "2026-11-22T13:41:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T14:41:02.892856+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3ba7100ea0",
   "slug": "truckers-strike-blackouts-spread-as-blockade-pushes-iran-to-the-brink-3ba7100ea0",
   "title": "Truckers strike, blackouts spread as blockade pushes Iran to the brink",
@@ -3900,41 +3929,37 @@
   "sum_status": "withheld",
   "source_fp": "7c07f36b894b33d3",
   "source_scope": "full_article",
-  "sum_at": "2026-11-22T14:31:02.234070+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-22T14:41:02.892856+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
     "sentence": "1",
-    "quote": "A final independent contractor rule issued by Labor Department"
+    "quote": "a destructive, Biden-era classification standard"
    },
    {
     "sentence": "2",
-    "quote": "over 350,000 independent truckers"
+    "quote": "The final rule marks the restoration of the first Trump Administration’s definition"
    },
    {
     "sentence": "3",
-    "quote": "restoration of the first Trump Administration’s definition for independent contractors"
+    "quote": "more than 16,000 comments during a 60-day comment period"
    },
    {
     "sentence": "4",
-    "quote": "received more than 16,000 comments during a 60-day comment period"
+    "quote": "a monumental, hard-fought victory"
    },
    {
     "sentence": "5",
-    "quote": "I want to thank (Labor) Secretary (Keith) Sonderling"
-   },
-   {
-    "sentence": "6",
     "quote": "Being an independent contractor gives me the power to choose my own routes"
    }
   ],
   "sum_problems": [
-   "name 'The Labor Department' is not in the source",
-   "name 'Labor Secretary Keith Sonderling' is not in the source"
+   "copies a 12-word run from the source: 'on feb. 27, 2026, and received more than 16,000 comments during a'"
   ],
   "ai_category": "regs",
-  "ai_importance": 58
+  "ai_importance": 62,
+  "sum_v3": true
  },
  {
   "id": "5cbd542be1",
@@ -35751,35 +35776,6 @@
   "sum_pending": false
  },
  {
-  "id": "696de267a5",
-  "slug": "hauling-brokers-into-court-liability-under-montgomery-v-caribe-transpo-696de267a5",
-  "title": "Hauling Brokers into Court: Liability Under Montgomery v. Caribe Transport",
-  "orig_title": "Hauling Brokers into Court: Liability Under Montgomery v. Caribe Transport",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "OnLabor",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVRXdncySUZZNnFBUzI3b1JyXzZrVFdwZ0V3LUdES1dKVUpPTkEwX3ZJNmFzSTQ1MDBjMDd4VG1YUDIyRnd2bmpVUW1rem1NRGVzcTdMbkVWenMxakZWRXlWTjk1QjhlR2lvQjVEdFNnN3ZmSlExcmd4alFpLTFJcWw2VU5aLW1EYXNJS25FZ2p2RW5qcHJSVA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVRXdncySUZZNnFBUzI3b1JyXzZrVFdwZ0V3LUdES1dKVUpPTkEwX3ZJNmFzSTQ1MDBjMDd4VG1YUDIyRnd2bmpVUW1rem1NRGVzcTdMbkVWenMxakZWRXlWTjk1QjhlR2lvQjVEdFNnN3ZmSlExcmd4alFpLTFJcWw2VU5aLW1EYXNJS25FZ2p2RW5qcHJSVA",
-  "snippet": "Hauling Brokers into Court: Liability Under Montgomery v. Caribe Transport OnLabor",
-  "published": "2026-11-18T14:21:22+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T14:31:03.399233+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "9d10911ef3",
   "slug": "canadian-freight-volumes-climb-as-us-spot-rates-remain-elevated-9d10911ef3",
   "title": "Canadian freight volumes climb as US spot rates remain elevated",
@@ -35988,35 +35984,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "efd4f3147e",
-  "slug": "lowe-s-raises-full-year-forecast-efd4f3147e",
-  "title": "Lowe's raises full-year forecast",
-  "orig_title": "Lowe's raises full-year forecast",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMNUhYVE1ub3JXRm1venI2VVZOYVNPSWN4REgzM1BUQ1VQYm9ORUg5Y1NkTTcwcjF1ZlRWQVdSYVFxODJPYWpkdVA4VV9nb2FwRk5qbV9TMGVmMzZYSTdnazFXQnI?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMNUhYVE1ub3JXRm1venI2VVZOYVNPSWN4REgzM1BUQ1VQYm9ORUg5Y1NkTTcwcjF1ZlRWQVdSYVFxODJPYWpkdVA4VV9nb2FwRk5qbV9TMGVmMzZYSTdnazFXQnI",
-  "snippet": "Lowe's raises full-year forecast Transport Topics",
-  "published": "2026-11-18T13:55:25+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T14:31:03.399233+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
   "sum_pending": false
  },
  {
@@ -38556,35 +38523,6 @@
   "published": "2026-11-17T23:56:22+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T13:21:04.164660+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "b7da6be1ff",
-  "slug": "oregon-s-loggers-urge-state-action-as-diesel-costs-threaten-rural-busi-b7da6be1ff",
-  "title": "Oregon's loggers urge state action as diesel costs threaten rural businesses",
-  "orig_title": "Oregon's loggers urge state action as diesel costs threaten rural businesses",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The News Guard",
-  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYXdPcVUtQTNoR3loZDZpc19PS3JaaVFTcDFEYVJjQVctdndyT1lCTWNWZnFHWXZmSXpHMUwwMGNWQ0U1eDNrY3NSWFIwWElMTDlSWWRrRHJqTmlNRVRfTHhuSVlVQ19jREJQbjBieVVGZl9BTUx2N0dMbG1nekxTaXZRZmZDdHAxaXVMOG01Q1FGc0MtOC16VWFKY2M1SFdlc1NLVVJHYTBRcWRUd090bFdGd1ZEYVpLZmFxOUlvN2ozVVIyeVZBel9wWDFQSXRUSEVmSUxNVnlvWk5tRmNjajJ4X2p3RmJyS0gySGliVlg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYXdPcVUtQTNoR3loZDZpc19PS3JaaVFTcDFEYVJjQVctdndyT1lCTWNWZnFHWXZmSXpHMUwwMGNWQ0U1eDNrY3NSWFIwWElMTDlSWWRrRHJqTmlNRVRfTHhuSVlVQ19jREJQbjBieVVGZl9BTUx2N0dMbG1nekxTaXZRZmZDdHAxaXVMOG01Q1FGc0MtOC16VWFKY2M1SFdlc1NLVVJHYTBRcWRUd090bFdGd1ZEYVpLZmFxOUlvN2ozVVIyeVZBel9wWDFQSXRUSEVmSUxNVnlvWk5tRmNjajJ4X2p3RmJyS0gySGliVlg",
-  "snippet": "Oregon's loggers urge state action as diesel costs threaten rural businesses The News Guard",
-  "published": "2026-11-17T23:52:36+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T14:37:23.861939+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
