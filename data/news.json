@@ -308,6 +308,35 @@
   "sum_pending": false
  },
  {
+  "id": "d47e32cd47",
+  "slug": "climate-cop31-turkey-d47e32cd47",
+  "title": "Climate COP31 Turkey",
+  "orig_title": "Climate COP31 Turkey",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Messenger-Inquirer",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlFzaWZLMUpjcUxINXc3QVAzQ2VadnlpWXppNWVVZ09iSEhWeWd0QUE5dXBfSWswTmNSUENSVHVPMWV4Q3Vydk5jWV9GWHlXU0xicng3b1lGTmNpcW55MVVaYWpJblM2bnJ0MlV0T29SV3BRbnFCSTlPQlpIYU5RNHlrSlVQN0V1dVFGUWE3b0M1UTYxTkNxa2ZaX1hzN2NQMmJDZmFFQm1vcFRrZ0dQa09OalAyOTRBV2VaUWRRSWgxdGN5UjY4?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlFzaWZLMUpjcUxINXc3QVAzQ2VadnlpWXppNWVVZ09iSEhWeWd0QUE5dXBfSWswTmNSUENSVHVPMWV4Q3Vydk5jWV9GWHlXU0xicng3b1lGTmNpcW55MVVaYWpJblM2bnJ0MlV0T29SV3BRbnFCSTlPQlpIYU5RNHlrSlVQN0V1dVFGUWE3b0M1UTYxTkNxa2ZaX1hzN2NQMmJDZmFFQm1vcFRrZ0dQa09OalAyOTRBV2VaUWRRSWgxdGN5UjY4",
+  "snippet": "Climate COP31 Turkey Messenger-Inquirer",
+  "published": "2026-11-21T16:00:36+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T00:21:06.921558+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a140291c99",
   "slug": "da-nagpatakder-iti-3-cold-storage-ken-nanglukat-iti-fuel-subsidy-iti-p-a140291c99",
   "title": "DA, nagpatakder iti 3 Cold Storage ken nanglukat iti Fuel Subsidy iti probinsia Ilocos Sur Kontra Pagkalugi iti Apit",
@@ -9955,6 +9984,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "84e93e32a1",
+  "slug": "ghana-launches-drive-to-put-women-in-mining-transport-84e93e32a1",
+  "title": "Ghana Launches Drive To Put Women In Mining Transport",
+  "orig_title": "Ghana Launches Drive To Put Women In Mining Transport",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "DailyGuide Network",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNak1OTnpzckxOeDhDcXUwdGtYODZfOUwxUXZ4T01zVUlGdDlxcTRGQjJWaHlDc3p3TDlUdmZ2MkxsR3lnSWZLVW95Zko2VWliVFd0dW5BN0NZaWJlT0VEMFd3eHpINHBkT0d4SEo3U3RKX2ZCdUV5dWY4Wlo0UzhiYWd2TmE3U042Vm5RUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNak1OTnpzckxOeDhDcXUwdGtYODZfOUwxUXZ4T01zVUlGdDlxcTRGQjJWaHlDc3p3TDlUdmZ2MkxsR3lnSWZLVW95Zko2VWliVFd0dW5BN0NZaWJlT0VEMFd3eHpINHBkT0d4SEo3U3RKX2ZCdUV5dWY4Wlo0UzhiYWd2TmE3U042Vm5RUQ",
+  "snippet": "Ghana Launches Drive To Put Women In Mining Transport DailyGuide Network",
+  "published": "2026-11-20T11:19:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T00:21:06.921558+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ce9aec114a",
   "slug": "your-gps-shows-where-the-truck-is-vahn-shows-where-the-money-went-ce9aec114a",
   "title": "Your GPS Shows Where the Truck Is, VAHN Shows Where the Money Went",
@@ -10870,6 +10928,36 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "23c67c75d3",
+  "slug": "more-than-30-semi-trucks-stranded-as-heavy-snow-shuts-down-major-calif-23c67c75d3",
+  "title": "More Than 30 Semi-Trucks Stranded as Heavy Snow Shuts Down Major California Corridor",
+  "orig_title": "More Than 30 Semi-Trucks Stranded as Heavy Snow Shuts Down Major California Corridor",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "NTD News",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDd6ZnRWUDA4cGktcDRpNGFIajg4a2tEb0FlckxtVWdxXzVEZlRGX0NDdXdsVVowRmpQSG1paUdqSjNqcHRxTkJYZUhTbjhmRWRVZllJQzdLRWRldjI4aUl4TVN3NzdaNzdSWS1KUHB0THVkNkQzYTFPZGRsWnRGUGRCaHRXOFZCeE0yTkpBNnNtcnpGdUZPMDFvVlZWR0lYY0tTVVRLcVRyZk5vX2ZvaWVDdl8zMUNj?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDd6ZnRWUDA4cGktcDRpNGFIajg4a2tEb0FlckxtVWdxXzVEZlRGX0NDdXdsVVowRmpQSG1paUdqSjNqcHRxTkJYZUhTbjhmRWRVZllJQzdLRWRldjI4aUl4TVN3NzdaNzdSWS1KUHB0THVkNkQzYTFPZGRsWnRGUGRCaHRXOFZCeE0yTkpBNnNtcnpGdUZPMDFvVlZWR0lYY0tTVVRLcVRyZk5vX2ZvaWVDdl8zMUNj",
+  "snippet": "More Than 30 Semi-Trucks Stranded as Heavy Snow Shuts Down Major California Corridor NTD News",
+  "published": "2026-11-20T04:05:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T00:21:06.921558+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Truck drivers stranded in snow along interstate in California mountains"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "8fab767786"
  },
  {
   "id": "f8c40911a7",
