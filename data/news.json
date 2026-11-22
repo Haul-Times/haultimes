@@ -7461,6 +7461,68 @@
   "sum_pending": false
  },
  {
+  "id": "4d09adbdf3",
+  "slug": "truck-driver-arrested-after-he-was-caught-hauling-oversized-load-at-ni-4d09adbdf3",
+  "title": "Truck driver arrested after he was caught hauling oversized load at night with no permit and suspended CDL, Missouri sheriff says",
+  "orig_title": "Truck driver arrested after he was caught hauling oversized load at night with no permit and suspended CDL, Missouri sheriff says",
+  "summary": "A Platte County Sheriff's Office deputy in Missouri arrested a truck driver after stopping an oversized load on I-29 at night without warning devices or banners. The deputy found the driver's commercial driver license suspended and no oversized load permit from the Missouri Department of Transportation, and the load was reported to be over 13 feet wide. The inspection also recorded eight Federal Motor Carrier Safety Regulation violations, and the Louisiana for-hire motor carrier and driver were placed out of service. Two days after the driver posted bond, the same deputy stopped the same load on Route 92. This time it had warning devices and banners, but still no MoDOT permit, and 15 violations were recorded. A court summons was issued, and the driver was helped to obtain a permit.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 10,
+  "source": "NewsBreak: Local News & Alerts",
+  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVk0tUEFhM3FuR3BQT0N3QU5rSE5yd2swQTBhVS0tMllXY0pLdzFiY0dncGxBaXBqLTZ3VXU2azU2VGg3cjZ5clNMb1FKeXZVcXFodHRkSlBpR09XeFZZYjkxbG13dGZwUmhwSWVLXzEwU2FEY3h4QXhlN1NZclFYY2ZXUDF0RDJseXZMenBWekJ0YVlRU2UzdHpHck83c3Y2V05DNVhGanNydGZzMlBYZGpmekFVdTdOc3pJQ2l6REgwNUFoME1tNzVjV1JScWhBUi0yQThZMkpnSDBmNGxrVjFXczRkRFVIN3hObEU1U3ZsRUMzM18wZ3NEMUYxMUdxYXVTOEJUaFBsMFlwc1ZwX1Rn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVk0tUEFhM3FuR3BQT0N3QU5rSE5yd2swQTBhVS0tMllXY0pLdzFiY0dncGxBaXBqLTZ3VXU2azU2VGg3cjZ5clNMb1FKeXZVcXFodHRkSlBpR09XeFZZYjkxbG13dGZwUmhwSWVLXzEwU2FEY3h4QXhlN1NZclFYY2ZXUDF0RDJseXZMenBWekJ0YVlRU2UzdHpHck83c3Y2V05DNVhGanNydGZzMlBYZGpmekFVdTdOc3pJQ2l6REgwNUFoME1tNzVjV1JScWhBUi0yQThZMkpnSDBmNGxrVjFXczRkRFVIN3hObEU1U3ZsRUMzM18wZ3NEMUYxMUdxYXVTOEJUaFBsMFlwc1ZwX1Rn",
+  "snippet": "Truck driver arrested after he was caught hauling oversized load at night with no permit and suspended CDL, Missouri sheriff says NewsBreak: Local News & Alerts",
+  "published": "2026-11-20T16:02:25+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T05:21:01.929219+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "crime",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.newsbreak.com/cdllife-2245284/5019404780437-truck-driver-arrested-after-he-was-caught-hauling-oversized-load-at-night-with-no-permit-and-suspended-cdl-missouri-sheriff-says",
+  "source_note": "ok · 316 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "83349232f3f8e9cf",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-22T05:21:01.929219+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "the driver was custodially arrested"
+   },
+   {
+    "sentence": "2",
+    "quote": "the truck driver's CDL was suspended"
+   },
+   {
+    "sentence": "3",
+    "quote": "eight Federal Motor Carrier Safety Regulation (FMCSR) violations were discovered"
+   },
+   {
+    "sentence": "4",
+    "quote": "still lacked a MoDOT permit"
+   },
+   {
+    "sentence": "5",
+    "quote": "A court summons was issued"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "regs",
+  "ai_importance": 40
+ },
+ {
   "id": "c02464edfa",
   "slug": "us-labor-department-restores-independent-contractor-rule-drawing-prais-c02464edfa",
   "title": "US Labor Department restores independent contractor rule, drawing praise from ATA",

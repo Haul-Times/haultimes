@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:11:08.294964+00:00",
+ "updated": "2026-11-22T05:21:01.740481+00:00",
  "hour_now": 0,
  "have_us": true,
  "have_ca": true,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:49",
+    "updated": "00:11:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:49",
+    "updated": "00:11:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:49",
+    "lanes": "4",
+    "status": "no delay",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -275,7 +275,7 @@
      0
     ],
     "north": [
-     7,
+     6,
      5,
      7,
      1,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:49",
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 0:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:49",
+    "updated": "00:11:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:49",
+    "updated": "00:11:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -535,17 +535,17 @@
    "ports": "Massena, NY ↔ Cornwall, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:49",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-21 23:26 EST"
+    "updated": "2026-11-22 00:12 EST"
    },
    "usual": {
     "south": [
@@ -688,8 +688,8 @@
     "wait": null,
     "fast_wait": null,
     "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:49",
+    "status": "Lanes Closed",
+    "updated": "00:11:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:49",
+    "updated": "00:11:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -835,11 +835,11 @@
    "ports": "Derby Line, VT ↔ Stanstead, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:01:49",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -901,7 +901,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 1 AM",
+   "best_south": "Usually fastest around 12 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:49",
+    "updated": "00:11:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:01:49",
+    "updated": "00:11:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1438,7 +1438,7 @@
    {
     "name": "Buffalo/Niagara Falls Rainbow Bridge",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Buffalo/Niagara Falls Whirlpool Bridge",
@@ -1482,8 +1482,8 @@
    },
    {
     "name": "Norton",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    }
   ],
   "north": [
