@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:51:04.432249+00:00",
- "hour_now": 20,
+ "updated": "2026-11-22T02:01:02.754564+00:00",
+ "hour_now": 21,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 8:37 pm EST",
+    "status": "delay",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -270,7 +270,7 @@
      8,
      1,
      3,
-     0,
+     2,
      0,
      5
     ],
@@ -296,7 +296,7 @@
      9,
      15,
      11,
-     11,
+     10,
      7,
      7
     ]
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -345,7 +345,7 @@
      0,
      0,
      1,
-     0,
+     2,
      0,
      0
     ],
@@ -420,7 +420,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ],
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-21 18:15 EST"
+    "updated": "2026-11-21 20:48 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:41:24",
+    "updated": "20:56:25",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1213,7 +1213,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-21 19:15 MDT"
+    "updated": "2026-11-21 19:48 MDT"
    },
    "usual": {
     "south": [
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 9 PM"
+   "best_north": "Usually fastest around 11 PM"
   },
   {
    "id": "sumas",
@@ -1414,7 +1414,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null
     ]
