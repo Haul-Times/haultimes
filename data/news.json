@@ -37180,35 +37180,6 @@
   "sum_pending": false
  },
  {
-  "id": "0289229271",
-  "slug": "three-alarm-fire-burns-abandoned-warehouse-in-north-baltimore-0289229271",
-  "title": "Three-alarm fire burns abandoned warehouse in North Baltimore",
-  "orig_title": "Three-alarm fire burns abandoned warehouse in North Baltimore",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CBS News",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2VYYmllS05vV0R1cXpkLTlrMFktUmw0X2NCalZoSllkREFNMkNsa0ZBS0U5Wk8ydlRoR2d3NWd5bzBURzA5T0VzSjAxMUtIZlZ4N3cyWHZaOWhaS3J3S09udUpEUGV2M0ctbDNUTC1SS0ZwcnZKSW1RbnJNa0dib2stRTFPaFFNZ0djdGw0ck9tZ1ZQaGJub2hYSWZZdDBPUTNkMkRLcjd1TW9leHBDaWln?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2VYYmllS05vV0R1cXpkLTlrMFktUmw0X2NCalZoSllkREFNMkNsa0ZBS0U5Wk8ydlRoR2d3NWd5bzBURzA5T0VzSjAxMUtIZlZ4N3cyWHZaOWhaS3J3S09udUpEUGV2M0ctbDNUTC1SS0ZwcnZKSW1RbnJNa0dib2stRTFPaFFNZ0djdGw0ck9tZ1ZQaGJub2hYSWZZdDBPUTNkMkRLcjd1TW9leHBDaWln",
-  "snippet": "Three-alarm fire burns abandoned warehouse in North Baltimore CBS News",
-  "published": "2026-11-18T03:13:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T06:57:47.217798+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "ca186dbc53",
   "slug": "long-queues-freezing-conditions-commuters-bear-brunt-of-zoji-la-gridlo-ca186dbc53",
   "title": "Long queues, freezing conditions: Commuters bear brunt of Zoji La gridlock",
