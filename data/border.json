@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:31:11.234337+00:00",
+ "updated": "2026-11-22T02:41:06.136948+00:00",
  "hour_now": 21,
  "have_us": true,
  "have_ca": true,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-21 20:23 EST"
+    "updated": "2026-11-21 21:30 EST"
    },
    "usual": {
     "south": [
