@@ -36713,35 +36713,6 @@
   "sum_pending": false
  },
  {
-  "id": "75e59ab8e0",
-  "slug": "4-year-old-nvidia-linux-gpu-flaw-lets-users-hijack-entire-shared-serve-75e59ab8e0",
-  "title": "4-Year-Old NVIDIA Linux GPU Flaw Lets Users Hijack Entire Shared Servers",
-  "orig_title": "4-Year-Old NVIDIA Linux GPU Flaw Lets Users Hijack Entire Shared Servers",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CyberSecurityNews",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxbGlWbVhTUGpFMmZKMFpaa0hPVjk1Qmw1NkYxU1FhQlBHa2k1S0hueUYtQnkzd1BYbDFLZU5KMmx4VGpGazh6a1RGNkxCUjAxbGhfNTV3VkxkWFRQZzVFSHJFNkJPSy1HekpfWDd1MlpMVnd5cHfSAXZBVV95cUxQMWxpVm1YU1BqRTJmSjBaWmtIT1Y5NUJsNTZGMVNRYUJQR2tpNUtIbnlGLUJ5M3dQWGwxS2VOSjJseFRqRms4emtURjZMQlIwMWxoXzU1d1ZMZFhUUGc1RUhyRTZCT0stR3pKX1g3dTJaTFZ3eXB3?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxbGlWbVhTUGpFMmZKMFpaa0hPVjk1Qmw1NkYxU1FhQlBHa2k1S0hueUYtQnkzd1BYbDFLZU5KMmx4VGpGazh6a1RGNkxCUjAxbGhfNTV3VkxkWFRQZzVFSHJFNkJPSy1HekpfWDd1MlpMVnd5cHfSAXZBVV95cUxQMWxpVm1YU1BqRTJmSjBaWmtIT1Y5NUJsNTZGMVNRYUJQR2tpNUtIbnlGLUJ5M3dQWGwxS2VOSjJseFRqRms4emtURjZMQlIwMWxoXzU1d1ZMZFhUUGc1RUhyRTZCT0stR3pKX1g3dTJaTFZ3eXB3",
-  "snippet": "4-Year-Old NVIDIA Linux GPU Flaw Lets Users Hijack Entire Shared Servers CyberSecurityNews",
-  "published": "2026-11-18T09:28:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T11:21:04.485834+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "3600f5a667",
   "slug": "us-trucking-companies-targeted-by-fake-carrier-verification-sites-stea-3600f5a667",
   "title": "US Trucking Companies Targeted by Fake Carrier Verification Sites Stealing Passwords and Financial Data",
