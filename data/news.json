@@ -36551,35 +36551,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "2de2db1ce0",
-  "slug": "water-grid-concerns-raised-at-n-s-ai-data-centre-q-a-2de2db1ce0",
-  "title": "Water, grid concerns raised at N.S. AI data centre Q&A",
-  "orig_title": "Water, grid concerns raised at N.S. AI data centre Q&A",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CBC",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWZxVTR1MVh4a2VrOHF3b0xneUxWRUYwYUU4RjhUWUlZM2psdjllOGN6T1ZSYkl0aEo5UU9CTTdKZXdTaE5RRUhZRHVNa3RvSGJpSDJvRzNXYWl6RFVua3pSOHViZ2lscVIwRlpfdmZmNjJfREZhNGRiWUhpcmwzMmZ6UG5LaTlGRnRVNU5SYzE0MFlvUzFIbGNMVGpwdnc0bDF6V2wwenI2dWd2U0E?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWZxVTR1MVh4a2VrOHF3b0xneUxWRUYwYUU4RjhUWUlZM2psdjllOGN6T1ZSYkl0aEo5UU9CTTdKZXdTaE5RRUhZRHVNa3RvSGJpSDJvRzNXYWl6RFVua3pSOHViZ2lscVIwRlpfdmZmNjJfREZhNGRiWUhpcmwzMmZ6UG5LaTlGRnRVNU5SYzE0MFlvUzFIbGNMVGpwdnc0bDF6V2wwenI2dWd2U0E",
-  "snippet": "Water, grid concerns raised at N.S. AI data centre Q&A CBC",
-  "published": "2026-11-18T10:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T10:11:04.702776+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "72f848c19d",
   "slug": "surviving-on-ramen-u-of-s-launches-discount-program-for-students-72f848c19d",
   "title": "‘Surviving on ramen’: U of S launches discount program for students",
@@ -37651,35 +37622,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "1153c84fea",
-  "slug": "mjl-bangladesh-develops-5-acre-green-automated-warehouse-complex-near-1153c84fea",
-  "title": "MJL Bangladesh develops 5-acre green, automated warehouse complex near Ctg Port",
-  "orig_title": "MJL Bangladesh develops 5-acre green, automated warehouse complex near Ctg Port",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnQtdVRvMEtKWU02VHozV21lQXdLRGFLeTFvQkpiS1JUMzZiSXRNSVVBUlpadVpKallrUldES2JlbjZxbk9WYWZnUjJ2RTd5QjZ2UmVnY2xTWkpBWUhqeUlXWEduVEVNWDU0UTRScTdsR0JqbW93RjdhejV2WjBSdkNFbjY3NHhPdEliX1Q1X1h1eGR1a3N2c016YmFUMzVrUUo5Um80TUJKR293ZGFTZVJHMkFTV2FDeVE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnQtdVRvMEtKWU02VHozV21lQXdLRGFLeTFvQkpiS1JUMzZiSXRNSVVBUlpadVpKallrUldES2JlbjZxbk9WYWZnUjJ2RTd5QjZ2UmVnY2xTWkpBWUhqeUlXWEduVEVNWDU0UTRScTdsR0JqbW93RjdhejV2WjBSdkNFbjY3NHhPdEliX1Q1X1h1eGR1a3N2c016YmFUMzVrUUo5Um80TUJKR293ZGFTZVJHMkFTV2FDeVE",
-  "snippet": "MJL Bangladesh develops 5-acre green, automated warehouse complex near Ctg Port The Business Standard",
-  "published": "2026-11-18T01:20:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T10:11:04.702776+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
   ],
   "labels": [],
   "kind": "rejected",
