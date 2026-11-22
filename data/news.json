@@ -1,5 +1,49 @@
 [
  {
+  "id": "cfae81c10f",
+  "slug": "truck-drivers-at-rio-grande-do-norte-freight-carriers-to-strike-indefi-cfae81c10f",
+  "title": "Truck drivers at Rio Grande do Norte freight carriers to strike indefinitely starting Monday (23): approved in Mossoró and Parnamirim, the walkout seeks restoration of health plan terms under the 2026–2028 agreement, after Hapvida was replaced by Unimed w",
+  "orig_title": "Truck drivers at Rio Grande do Norte freight carriers to strike indefinitely starting Monday (23): approved in Mossoró and Parnamirim, the walkout seeks restoration of health plan terms under the 2026–2028 agreement, after Hapvida was replaced by Unimed w",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "Other",
+  "importance": 70,
+  "source": "CPG Click Oil and Gas",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQmxOUlBoa2RTbmdZcVNLenVVR2x5ZFU3R3FMcDdhS0FBVUlvb3phYUVJNkJjZ3R6NXZyQ1U3Yk9WNzFGWlBDeTdDNXBHN0k1V2FoUmwzVHF5ZTlIRUh4amhFNi1qRmZaQUpoWEU1Y0c0VzZJdDYtSEJvTld4TUdaZ3J6dTZGMm9yTHl0SjNIRVpxZkdhdVl0ck5VcFo1dTJ4elY2Y1JlNWtsRzM2N29FMTdoM1NXd2NmU0Z2QTdTYmctaGRDMDM0OFFOY01HYVMtaUlLWGVUVXBjaTRNX1VCZ3VfeEVVanlEeGRzVlBoOV9tUjVINHFuTUljcTIweG9PcWdLeTdlUjRHQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQmxOUlBoa2RTbmdZcVNLenVVR2x5ZFU3R3FMcDdhS0FBVUlvb3phYUVJNkJjZ3R6NXZyQ1U3Yk9WNzFGWlBDeTdDNXBHN0k1V2FoUmwzVHF5ZTlIRUh4amhFNi1qRmZaQUpoWEU1Y0c0VzZJdDYtSEJvTld4TUdaZ3J6dTZGMm9yTHl0SjNIRVpxZkdhdVl0ck5VcFo1dTJ4elY2Y1JlNWtsRzM2N29FMTdoM1NXd2NmU0Z2QTdTYmctaGRDMDM0OFFOY01HYVMtaUlLWGVUVXBjaTRNX1VCZ3VfeEVVanlEeGRzVlBoOV9tUjVINHFuTUljcTIweG9PcWdLeTdlUjRHQQ",
+  "snippet": "Truck drivers at Rio Grande do Norte freight carriers to strike indefinitely starting Monday (23): approved in Mossoró and Parnamirim, the walkout seeks restoration of health plan terms under the 2026–2028 agreement, after Hapvida was replaced by Unimed w CPG Click Oil and Gas",
+  "published": "2026-11-22T15:48:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T16:01:06.230062+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://en.clickpetroleoegas.com.br/truck-drivers-at-rio-grande-do-norte-freight-carriers-to-strike-indefinitely-starting-monday-23-approved-in-mossoro-and-parnamirim-the-davila/",
+  "source_note": "ok · 1023 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "f6f6b21441575e15",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-22T16:01:06.230062+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 8,
+  "ai_relevant": false
+ },
+ {
   "id": "790cd40c49",
   "slug": "haiti-news-zapping-790cd40c49",
   "title": "Haiti - News : Zapping...",
@@ -34843,104 +34887,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "8ef07671a3",
-  "slug": "atri-trucking-s-annual-congestion-costs-reach-128-2b-8ef07671a3",
-  "title": "ATRI: Trucking’s annual congestion costs reach $128.2B",
-  "orig_title": "ATRI: Trucking’s annual congestion costs reach $128.2B",
-  "summary": "The American Transportation Research Institute (ATRI) estimates that highway congestion added $128.2 billion in trucking costs in 2024, according to its latest Cost of Congestion study. That was $4.7 billion more than in 2022 but slightly below the 2023 record of $129.8 billion, which the study linked to a prolonged freight recession that reduced truck mileage. ATRI counted 1.24 billion hours of delay in 2024, with an average congestion cost of $7,973 per truck. Texas, California and Florida had the highest state costs, and the top ten states accounted for 53% of the national total. New York City led metro areas at $7.49 billion, followed by Miami and Chicago. ATRI also estimated that 6.66 billion gallons of diesel were wasted in 2024, adding $25.04 billion in fuel costs.",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 56,
-  "source": "TheTrucker.com",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnZWV1Ata3doUFpvRktSSkFKOVRwNjlPOVc5cHdKTkZZVmtJYm05bHJBMVZqeXRIYk1YeTFIMjJVS19fNlRGX3FJTEFEdHI1c0hsU2pNTXloUG40eVFzZ2dORDRCRl95VUFfSkUyYllXY294RXB5elB3a1JEcV9VZXZXR2Exck9jbTRLNi05R2dja3JEbHN2aWktTzZmNWVlaWhr?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnZWV1Ata3doUFpvRktSSkFKOVRwNjlPOVc5cHdKTkZZVmtJYm05bHJBMVZqeXRIYk1YeTFIMjJVS19fNlRGX3FJTEFEdHI1c0hsU2pNTXloUG40eVFzZ2dORDRCRl95VUFfSkUyYllXY294RXB5elB3a1JEcV9VZXZXR2Exck9jbTRLNi05R2dja3JEbHN2aWktTzZmNWVlaWhr",
-  "snippet": "ATRI: Trucking’s annual congestion costs reach $128.2B TheTrucker.com",
-  "published": "2026-11-18T15:48:14+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T16:01:04.886786+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Highway congestion cost US trucking $128 billion in 2024"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://www.thetrucker.com/trucking-news/business/atri-truckings-annual-congestion-costs-reach-128-2b",
-  "source_note": "ok · 508 words",
-  "sum_done": true,
-  "sum_status": "published",
-  "source_fp": "3790fed33b9f9eae",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-18T16:01:04.886786+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "added $128.2 billion in costs to the trucking industry in 2024"
-   },
-   {
-    "sentence": "2",
-    "quote": "slightly below the record high of $129.8 billion in 2023"
-   },
-   {
-    "sentence": "3",
-    "quote": "1.24 billion hours of delay"
-   },
-   {
-    "sentence": "4",
-    "quote": "led by Texas ($10.92B), California ($10.47B), and Florida ($10.35B)"
-   },
-   {
-    "sentence": "5",
-    "quote": "New York City ($7.49B)"
-   },
-   {
-    "sentence": "6",
-    "quote": "6.66 billion gallons of diesel fuel was wasted in 2024"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 55,
-  "dup_of": "3d9a2e2be3"
- },
- {
-  "id": "7a7d7faeb9",
-  "slug": "final-mile-delivery-costs-rising-three-times-faster-than-inflation-geo-7a7d7faeb9",
-  "title": "Final-mile delivery costs rising three times faster than inflation: Geodis",
-  "orig_title": "Final-mile delivery costs rising three times faster than inflation: Geodis",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjBmc3EtWjBOc0ZiZkJuZURMSW9TaWVDZ0g1UFgzcG9DWC11QWwzM2J5SWh2NVpEM2I2OGhJdlh3TUFWNldlcXNVV2tfQllwNVFJMklxMjJxX21DeDY1dXgzakgxZ0pMdUJ2cVlMaEg1cjRRcTBjVFdXZXlFb2d4N1RucDVWZ25QaTBLdVo4MW9EMTVPV1ZrRmdMQzlxLURQVDZfVGo1RFFzTnVNVFVrNk84d1VNbTJ4MEhjYTUtaXBsZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjBmc3EtWjBOc0ZiZkJuZURMSW9TaWVDZ0g1UFgzcG9DWC11QWwzM2J5SWh2NVpEM2I2OGhJdlh3TUFWNldlcXNVV2tfQllwNVFJMklxMjJxX21DeDY1dXgzakgxZ0pMdUJ2cVlMaEg1cjRRcTBjVFdXZXlFb2d4N1RucDVWZ25QaTBLdVo4MW9EMTVPV1ZrRmdMQzlxLURQVDZfVGo1RFFzTnVNVFVrNk84d1VNbTJ4MEhjYTUtaXBsZw",
-  "snippet": "Final-mile delivery costs rising three times faster than inflation: Geodis Truck News",
-  "published": "2026-11-18T15:40:47+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T15:51:10.657147+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
   "sum_pending": false
  },
  {
