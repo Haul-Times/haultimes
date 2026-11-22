@@ -25193,6 +25193,35 @@
   "dup_of": "b2ba83e34f"
  },
  {
+  "id": "57e13c8847",
+  "slug": "los-angeles-port-police-assist-in-12-5m-meth-bust-and-2m-nike-cargo-th-57e13c8847",
+  "title": "Los Angeles Port Police assist in $12.5m Meth bust and $2m Nike cargo theft investigation",
+  "orig_title": "Los Angeles Port Police assist in $12.5m Meth bust and $2m Nike cargo theft investigation",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Shipping Telegraph",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1MwQnlzV1dBWHhMaXhWNjBBdUZEc0RjX2pEb3k0WEc2Q09QMU8yR1NrZVp1bWItMl9nZDlHU0M5czl1LUN1U19JWVBDenBncHNKaUF2cmFDalFHTlJqSGpscW9XVUV3dm9PTjZxQXUySnVtZXlJazIwcFBkNTlOUF9QblFlV1R6NnZUODJyTUdhYkhEeGZXa19MV29tTXdGYkFzUS1YcktlUHR3aFROMWtoUG11UDU1LVZCaEVqSFFMdC1zNUg4?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1MwQnlzV1dBWHhMaXhWNjBBdUZEc0RjX2pEb3k0WEc2Q09QMU8yR1NrZVp1bWItMl9nZDlHU0M5czl1LUN1U19JWVBDenBncHNKaUF2cmFDalFHTlJqSGpscW9XVUV3dm9PTjZxQXUySnVtZXlJazIwcFBkNTlOUF9QblFlV1R6NnZUODJyTUdhYkhEeGZXa19MV29tTXdGYkFzUS1YcktlUHR3aFROMWtoUG11UDU1LVZCaEVqSFFMdC1zNUg4",
+  "snippet": "Los Angeles Port Police assist in $12.5m Meth bust and $2m Nike cargo theft investigation Shipping Telegraph",
+  "published": "2026-11-19T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T07:21:07.579050+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "non-North American source"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e5de600d20",
   "slug": "truck-crash-claims-require-evidence-to-establish-liability-e5de600d20",
   "title": "Truck Crash Claims Require Evidence to Establish Liability",
@@ -39983,35 +40012,6 @@
   "source_note": "ok · 343 words"
  },
  {
-  "id": "f5f2ffc350",
-  "slug": "paul-harold-fay-f5f2ffc350",
-  "title": "Paul Harold Fay",
-  "orig_title": "Paul Harold Fay",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "McCook Gazette",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12bzVRaGZQZmpIc2ZoMG4xX1BHVVVHSWsyNHFiLXZ3UDI0MlFfX1NCSkVGSjZpNWZySmxKWG8tLUtfMVlhT0Z3c3YwTEgyWTBBbTlMcjlVUkRsdzdXWm42MDg3UVQ5LUFfTHExaVpHRHk4MVdy?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12bzVRaGZQZmpIc2ZoMG4xX1BHVVVHSWsyNHFiLXZ3UDI0MlFfX1NCSkVGSjZpNWZySmxKWG8tLUtfMVlhT0Z3c3YwTEgyWTBBbTlMcjlVUkRsdzdXWm42MDg3UVQ5LUFfTHExaVpHRHk4MVdy",
-  "snippet": "Paul Harold Fay McCook Gazette",
-  "published": "2026-11-17T17:57:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T07:21:05.939753+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "c5544dd4e0",
   "slug": "border-guards-seize-81-kg-of-cocaine-from-truck-carrying-romaine-lettu-c5544dd4e0",
   "title": "Border guards seize 81 kg of cocaine from truck carrying romaine lettuce at B.C. crossing",
@@ -41949,36 +41949,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "3871ffd77b",
-  "slug": "great-horned-owl-rescued-after-being-stuck-in-tractor-trailer-for-70-m-3871ffd77b",
-  "title": "Great Horned Owl rescued after being stuck in tractor-trailer for 70 miles",
-  "orig_title": "Great Horned Owl rescued after being stuck in tractor-trailer for 70 miles",
-  "summary": "",
-  "why": "",
-  "category": "equip",
-  "region": "",
-  "importance": 45,
-  "source": "FOX43",
-  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM0s1bmoxTGZOdDhnUWhseS1ZM0dIN3diWWJaRUo0eUtxWE5JOEhsS1NuVnhnN2xxcUdZTlowOFFaZTYyOHFhTmVxbnVEYk8yNFdFanlzQmJYWGNIemhLN3F4V2otT3FOY25rMmI0YXBZTkJ2MmRDOHpzeURJUUx6M29BaURpWEZacGVRd0g2TWNtVTVlRjJwY0s1NlprZHFYQVVhd1ZWNlB3MmRLSlpwUF9Vd1dCYkhHWEpFYlVjcHBSMUZHMzhMMUwzbWF4VDNXZUNIVU1MVnVwdjZ2LWxZLS1CWmY2d2FNdmF2OQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM0s1bmoxTGZOdDhnUWhseS1ZM0dIN3diWWJaRUo0eUtxWE5JOEhsS1NuVnhnN2xxcUdZTlowOFFaZTYyOHFhTmVxbnVEYk8yNFdFanlzQmJYWGNIemhLN3F4V2otT3FOY25rMmI0YXBZTkJ2MmRDOHpzeURJUUx6M29BaURpWEZacGVRd0g2TWNtVTVlRjJwY0s1NlprZHFYQVVhd1ZWNlB3MmRLSlpwUF9Vd1dCYkhHWEpFYlVjcHBSMUZHMzhMMUwzbWF4VDNXZUNIVU1MVnVwdjZ2LWxZLS1CWmY2d2FNdmF2OQ",
-  "snippet": "Great Horned Owl rescued after being stuck in tractor-trailer for 70 miles FOX43",
-  "published": "2026-11-17T09:57:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T07:21:05.939753+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Great Horned Owl stuck in a tractor-trailer for almost 70 miles before being rescued"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "9182078c69"
  },
  {
   "id": "9b7c99251f",
