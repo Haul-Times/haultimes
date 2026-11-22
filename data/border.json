@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T21:51:01.031059+00:00",
- "hour_now": 16,
+ "updated": "2026-11-22T22:01:04.082449+00:00",
+ "hour_now": 17,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -41,7 +41,7 @@
      5,
      3,
      11,
-     18,
+     17,
      16,
      8,
      4,
@@ -116,7 +116,7 @@
      3,
      4,
      6,
-     0,
+     1,
      0,
      0,
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:37 pm EST",
+    "updated": "At 4:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -292,7 +292,7 @@
      11,
      7,
      5,
-     11,
+     10,
      10,
      11,
      9,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:37 pm EST",
+    "updated": "At 4:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -367,7 +367,7 @@
      2,
      2,
      1,
-     1,
+     0,
      0,
      0,
      1,
@@ -716,7 +716,7 @@
      2,
      4,
      6,
-     14,
+     12,
      5,
      0,
      0,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -817,7 +817,7 @@
      0,
      3,
      12,
-     27,
+     24,
      24,
      5,
      0,
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:46:44",
+    "updated": "16:56:45",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-22 16:52 AST"
+    "updated": "2026-11-22 17:49 AST"
    },
    "usual": {
     "south": [
@@ -1091,7 +1091,7 @@
      27,
      24,
      40,
-     52,
+     50,
      46,
      39,
      25,
@@ -1335,7 +1335,7 @@
      5,
      9,
      19,
-     9,
+     8,
      5,
      14,
      20,
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 20,
-    "status": "20 minutes"
+    "wait": 35,
+    "status": "35 minutes"
    },
    {
     "name": "Gordie Howe International Bridge",
