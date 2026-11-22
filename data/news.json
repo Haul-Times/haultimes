@@ -1,5 +1,34 @@
 [
  {
+  "id": "ae839ad039",
+  "slug": "alberta-premier-says-proof-of-citizenship-voting-law-likely-for-spring-ae839ad039",
+  "title": "Alberta premier says proof-of-citizenship voting law likely for spring 2027",
+  "orig_title": "Alberta premier says proof-of-citizenship voting law likely for spring 2027",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "thecanadianpressnews.ca",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRkhLV25rOWRkcUJQNXpFeURvVGgwZXZNMDdIaE11TER1Z2FWdFh4aWFrVmEyUDI2ZGptVGFSekhBMzYtTkktakRhclBab0VFcU9lSEhhdlVtcjIxM2xQV0xYRnQ1eFNweUEySXNiWGlBaFQtaDA5RG1NU0p0NUtHNTNDOFFPVF9fWWg5Rk1VN05La01pVjktUWNOWXh2Yi12VVFvRkhmZUIxN2xlZktHQUk1bFJIZUphUXBSNm9nTmZONm1nNnJkdms0RkpvV0FFZmxWbGRVZktiZHRKWl9jbktTOU5XVENqeUxfbk52TlV5MExlcWZvT2JJOWF3VXc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRkhLV25rOWRkcUJQNXpFeURvVGgwZXZNMDdIaE11TER1Z2FWdFh4aWFrVmEyUDI2ZGptVGFSekhBMzYtTkktakRhclBab0VFcU9lSEhhdlVtcjIxM2xQV0xYRnQ1eFNweUEySXNiWGlBaFQtaDA5RG1NU0p0NUtHNTNDOFFPVF9fWWg5Rk1VN05La01pVjktUWNOWXh2Yi12VVFvRkhmZUIxN2xlZktHQUk1bFJIZUphUXBSNm9nTmZONm1nNnJkdms0RkpvV0FFZmxWbGRVZktiZHRKWl9jbktTOU5XVENqeUxfbk52TlV5MExlcWZvT2JJOWF3VXc",
+  "snippet": "Alberta premier says proof-of-citizenship voting law likely for spring 2027 thecanadianpressnews.ca",
+  "published": "2026-11-22T19:15:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T20:11:15.565754+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d604a14da3",
   "slug": "indian-national-living-in-san-bernardino-county-sentenced-for-role-in-d604a14da3",
   "title": "Indian National Living In San Bernardino County Sentenced For Role In $7.2 Million Cargo Theft Ring",
@@ -44143,35 +44172,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "511e2591cd",
-  "slug": "retailers-are-stocking-fewer-big-ticket-gifts-this-holiday-as-shipping-511e2591cd",
-  "title": "Retailers are stocking fewer big-ticket gifts this holiday as shipping costs soar",
-  "orig_title": "Retailers are stocking fewer big-ticket gifts this holiday as shipping costs soar",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Quartz",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkppRmFkdXA0cmpBRkdiRjdBbVFiSmNsTER6MHMtbFlUMVdkek5MbjJ0R0M2aWViQVN3QWM3ZDZ4RTIyU0YyRDJlRm1xdVlILU4zY3BEUTRpSWVtY3A2ZDRVOW5PRVdGYzhkNjVaTmRsZ2NRelRPM0VtNk5mSGNzWQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkppRmFkdXA0cmpBRkdiRjdBbVFiSmNsTER6MHMtbFlUMVdkek5MbjJ0R0M2aWViQVN3QWM3ZDZ4RTIyU0YyRDJlRm1xdVlILU4zY3BEUTRpSWVtY3A2ZDRVOW5PRVdGYzhkNjVaTmRsZ2NRelRPM0VtNk5mSGNzWQ",
-  "snippet": "Retailers are stocking fewer big-ticket gifts this holiday as shipping costs soar Quartz",
-  "published": "2026-11-16T13:32:38+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T20:11:04.841873+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "6f17397a00",
   "slug": "kodiak-ai-taps-microvision-lidar-for-driverless-highway-trucking-launc-6f17397a00",
   "title": "Kodiak AI taps MicroVision lidar for driverless highway trucking launch",
@@ -44201,35 +44201,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "df7bc31064",
-  "slug": "retailers-cut-holiday-inventory-as-shipping-costs-surge-df7bc31064",
-  "title": "Retailers Cut Holiday Inventory as Shipping Costs Surge",
-  "orig_title": "Retailers Cut Holiday Inventory as Shipping Costs Surge",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "SuaraGarut.ID",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sYWFMZ3VBZXR3NmRLcTlDR1haYkxYUHdZZUZ0VDBkX0x2VVBHSUQzT3B3TG9va1RCQVBDN1p6dFZMYk80d3EtSlh6bm8yMmJKckRXOGZvelp0eGFuQUk5SzVzWUw5VDQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sYWFMZ3VBZXR3NmRLcTlDR1haYkxYUHdZZUZ0VDBkX0x2VVBHSUQzT3B3TG9va1RCQVBDN1p6dFZMYk80d3EtSlh6bm8yMmJKckRXOGZvelp0eGFuQUk5SzVzWUw5VDQ",
-  "snippet": "Retailers Cut Holiday Inventory as Shipping Costs Surge SuaraGarut.ID",
-  "published": "2026-11-16T13:20:43+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T20:11:04.841873+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "39eda6d31f",
