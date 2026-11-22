@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:31:03.551273+00:00",
+ "updated": "2026-11-22T17:41:02.820912+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 15,
-    "fast_wait": null,
+    "wait": 35,
+    "fast_wait": 35,
     "lanes": "5",
     "status": "delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -36,7 +36,7 @@
      0,
      6,
      9,
-     6,
+     8,
      0,
      0,
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 12:17 pm EST",
+    "updated": "At 12:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:17 pm EST",
+    "updated": "At 12:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -387,9 +387,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "1",
+    "lanes": "3",
     "status": "no delay",
-    "updated": "At 5:00 am EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:23:13",
+    "updated": "12:38:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1086,7 +1086,7 @@
      23,
      18,
      17,
-     33,
+     30,
      58,
      36,
      28,
@@ -1304,7 +1304,7 @@
      0,
      5,
      13,
-     7,
+     6,
      0,
      0,
      0,
@@ -1330,7 +1330,7 @@
      5,
      6,
      5,
-     7,
+     8,
      6,
      5,
      6,
@@ -1462,8 +1462,8 @@
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": 15,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Jackman",

@@ -33591,36 +33591,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "d46767541b",
-  "slug": "over-284-out-of-service-violations-uncovered-in-latest-truck-enforceme-d46767541b",
-  "title": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes",
-  "orig_title": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes",
-  "summary": "",
-  "why": "",
-  "category": "regs",
-  "region": "",
-  "importance": 87,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHNOS01Nd3U3bkdreTFjUnhYaWNkNjZwdVZGeXV5TzFnTFFlNGlkMU5TZk9PSjFvVEtsQ3hIUW5OUUdoQnBGUlk3NXNLM0ZYbVRGbVp3c3NES2tLZkJOZ1RfNk1PaTE1T29jaktLZHF5Rzd0WDJaa1Y5RGxUNTljb3RzZGdjRGpfVnZqTld4bGw1bDhqQUtaQVFZT0M0Y2taNFl6WjhCSGZrdzd4WHhHS3ZrTGs?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHNOS01Nd3U3bkdreTFjUnhYaWNkNjZwdVZGeXV5TzFnTFFlNGlkMU5TZk9PSjFvVEtsQ3hIUW5OUUdoQnBGUlk3NXNLM0ZYbVRGbVp3c3NES2tLZkJOZ1RfNk1PaTE1T29jaktLZHF5Rzd0WDJaa1Y5RGxUNTljb3RzZGdjRGpfVnZqTld4bGw1bDhqQUtaQVFZT0M0Y2taNFl6WjhCSGZrdzd4WHhHS3ZrTGs",
-  "snippet": "Over 284 out-of-service violations uncovered in latest truck enforcement blitzes FreightWaves",
-  "published": "2026-11-18T17:25:46+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T17:31:07.083207+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Six commercial vehicles placed out of service in Ontario during enforcement blitz"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "9f6c87c542"
- },
- {
   "id": "41645af66d",
   "slug": "what-will-saskatoon-s-budget-look-like-41645af66d",
   "title": "What will Saskatoon's budget look like?",
@@ -39506,35 +39476,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "ae1c532eeb",
-  "slug": "man-extradited-from-brazil-pleads-guilty-in-laredo-human-smuggling-cas-ae1c532eeb",
-  "title": "Man extradited from Brazil pleads guilty in Laredo human smuggling case",
-  "orig_title": "Man extradited from Brazil pleads guilty in Laredo human smuggling case",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "KGNS",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTm5GQ0c5YnFJZlBiNloyaWdBTF9vVWgzZFlNNXJ3cDM4dnRJOVFRaEZZbWszQnFVLXk0R3BfM1NVOVFENkhjZEZZdHgxOGowX3c5NlItTkZpZjUxOWIyQWVkOW9wMmlfbV9EME5hcEw1MTVGQUxCaml2X2dJRjZkZE1JWGhwNmx0aDhTaTNDeVA2T25VbTlTbUZIVlgtTjA5d0dXYVU3bjVFZmxCeW840gGvAUFVX3lxTE5ObkZDRzlicUlmUGI2WjJpZ0FMX29VaDNkWU01cndwMzh2dEk5UVFoRlltazNCcVUteTRHcF8zU1U5UUQ2SGNkRll0eDE4ajBfdzk2Ui1ORmlmNTE5YjJBZWQ5b3AyaV9tX0QwTmFwTDUxNUZBTEJqaXZfZ0lGNmRkTUlYaHA2bHRoOFNpM0N5UDZPblVtOVNtRkhWWC1OMDl3R1dhVTduNUVmbEJ5bzg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTm5GQ0c5YnFJZlBiNloyaWdBTF9vVWgzZFlNNXJ3cDM4dnRJOVFRaEZZbWszQnFVLXk0R3BfM1NVOVFENkhjZEZZdHgxOGowX3c5NlItTkZpZjUxOWIyQWVkOW9wMmlfbV9EME5hcEw1MTVGQUxCaml2X2dJRjZkZE1JWGhwNmx0aDhTaTNDeVA2T25VbTlTbUZIVlgtTjA5d0dXYVU3bjVFZmxCeW840gGvAUFVX3lxTE5ObkZDRzlicUlmUGI2WjJpZ0FMX29VaDNkWU01cndwMzh2dEk5UVFoRlltazNCcVUteTRHcF8zU1U5UUQ2SGNkRll0eDE4ajBfdzk2Ui1ORmlmNTE5YjJBZWQ5b3AyaV9tX0QwTmFwTDUxNUZBTEJqaXZfZ0lGNmRkTUlYaHA2bHRoOFNpM0N5UDZPblVtOVNtRkhWWC1OMDl3R1dhVTduNUVmbEJ5bzg",
-  "snippet": "Man extradited from Brazil pleads guilty in Laredo human smuggling case KGNS",
-  "published": "2026-11-17T20:31:38+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T17:39:56.971264+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
