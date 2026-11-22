@@ -4427,7 +4427,8 @@
   "955ef499f1": "skipped|importance 57 is below this platform's threshold (65)",
   "c30d35c995": "skipped|importance 45 is below this platform's threshold (65)",
   "a9b17e458a": "skipped|importance 55 is below this platform's threshold (65)",
-  "7737447226": "skipped|importance 55 is below this platform's threshold (65)"
+  "7737447226": "skipped|importance 55 is below this platform's threshold (65)",
+  "b4a5097484": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9406,6 +9407,13 @@
    "title": "Shippers’ backup plan is getting more expensive",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-22T10:51:20.872852+00:00",
+   "story_id": "b4a5097484",
+   "title": "Road Truckers: New Beginning PC Release Window Set for Q1 2027",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
