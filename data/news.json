@@ -296,6 +296,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "a2ce54dc14",
+  "slug": "img-4439-jpg-a2ce54dc14",
+  "title": "IMG_4439.jpg",
+  "orig_title": "IMG_4439.jpg",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Magnolia Reporter",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUxzMHFzOHBtbTBWQjFuSEx5NnZFUENyS1ZSN2hlWURlU2djRW1maGJFQ3pDb0Q2TUI5THFEOE4yeHl4YmNaQzUzQ1RKVVBxdjhZWDZjS1ZwZlI1ZldIY1M1TWtzU3VtTDAxSHk0UURKV3pubWRzcDJwRVpKd1MxZ29DTFljekU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUxzMHFzOHBtbTBWQjFuSEx5NnZFUENyS1ZSN2hlWURlU2djRW1maGJFQ3pDb0Q2TUI5THFEOE4yeHl4YmNaQzUzQ1RKVVBxdjhZWDZjS1ZwZlI1ZldIY1M1TWtzU3VtTDAxSHk0UURKV3pubWRzcDJwRVpKd1MxZ29DTFljekU",
+  "snippet": "IMG_4439.jpg Magnolia Reporter",
+  "published": "2026-11-21T23:26:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T11:41:04.017238+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d3a7c7c5b5",
   "slug": "alberta-bill-proposes-50-000-trucking-fines-d3a7c7c5b5",
   "title": "Alberta Bill Proposes $50,000 Trucking Fines",
@@ -569,6 +598,35 @@
   "status": "rejected",
   "reasons": [
    "market-research sales page"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "8d7e235fb5",
+  "slug": "iran-fuel-crisis-deepens-amid-war-and-sanctions-8d7e235fb5",
+  "title": "Iran fuel crisis deepens amid war and sanctions",
+  "orig_title": "Iran fuel crisis deepens amid war and sanctions",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "DW.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUs5UENpTE0wZDRNcWxmeVR6cEk4cXJ1ZmhJT21ycG9EdFRMRXdxMEU3ZS1RUng3RFJQelZTN09ZanBtdUY5V2pFdWliZVZLenNpejc5VEt6YmFYZ2dIUEROV0xDUUZVdmp5aWdILVZfS0RKLUxHOEUxc2l0amhzTE1fTGV4TVHSAYcBQVVfeXFMTnZTUXBPQ2stQm0tdGp2TGVuLWt2V1FUdmthSzdBQy1yTlBZbi0zZzZ3VFJWejl3R2VUR2p4cFdoZmVSbWU3QVRLU3hEbUxlV09uNlFUQ25weTF0YXFfZUJ3N1J0NXJqajdUU3pGSmhKUEZ0cVdYMVVxYm1hdE5Zakh0dXdMSnNR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUs5UENpTE0wZDRNcWxmeVR6cEk4cXJ1ZmhJT21ycG9EdFRMRXdxMEU3ZS1RUng3RFJQelZTN09ZanBtdUY5V2pFdWliZVZLenNpejc5VEt6YmFYZ2dIUEROV0xDUUZVdmp5aWdILVZfS0RKLUxHOEUxc2l0amhzTE1fTGV4TVHSAYcBQVVfeXFMTnZTUXBPQ2stQm0tdGp2TGVuLWt2V1FUdmthSzdBQy1yTlBZbi0zZzZ3VFJWejl3R2VUR2p4cFdoZmVSbWU3QVRLU3hEbUxlV09uNlFUQ25weTF0YXFfZUJ3N1J0NXJqajdUU3pGSmhKUEZ0cVdYMVVxYm1hdE5Zakh0dXdMSnNR",
+  "snippet": "Iran fuel crisis deepens amid war and sanctions DW.com",
+  "published": "2026-11-21T17:50:42+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T11:41:04.017238+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -2365,6 +2423,35 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "87aea9f1e4",
+  "slug": "ny-golf-club-s-230k-caddie-wage-deal-rejected-87aea9f1e4",
+  "title": "NY Golf Club's $230K Caddie Wage Deal Rejected",
+  "orig_title": "NY Golf Club's $230K Caddie Wage Deal Rejected",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Law360",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjl3aEJYNGdpd1kzRXlYeXRKY2pHMk9FUnVwMlAycE9XS0ZGdTJucWdMVkU4TG15MXI5V05MVGVFVlkwRng2U3BGSE5RX3RoWlpmMzN5aXA2eENzYXNpZXFQQTVQNnpkY2NGSS1PYUVScEkzZnI5NlBDWmZ2UVdXcHpJaDlEZTg0QXFHMU0tOFlzM2piX2doYU5BM2NrU3ZTV2VIWnc3OXg0elQ5MGd5MjdVR2pnanPSAXJBVV95cUxQQmlqZ3NwNDlialV1cG5wd2hUWW5PNGNCeWJaN0hoZVR4MzhYSXFlZFJPTTJpUXozVnVIcTRSQlAzQjRiV1VTSDBHMXIyOWFvTERpRHQ5NHRvTmVyNHY2U1ZVaWtSaDRYUlQtS2lwZFhkZGc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjl3aEJYNGdpd1kzRXlYeXRKY2pHMk9FUnVwMlAycE9XS0ZGdTJucWdMVkU4TG15MXI5V05MVGVFVlkwRng2U3BGSE5RX3RoWlpmMzN5aXA2eENzYXNpZXFQQTVQNnpkY2NGSS1PYUVScEkzZnI5NlBDWmZ2UVdXcHpJaDlEZTg0QXFHMU0tOFlzM2piX2doYU5BM2NrU3ZTV2VIWnc3OXg0elQ5MGd5MjdVR2pnanPSAXJBVV95cUxQQmlqZ3NwNDlialV1cG5wd2hUWW5PNGNCeWJaN0hoZVR4MzhYSXFlZFJPTTJpUXozVnVIcTRSQlAzQjRiV1VTSDBHMXIyOWFvTERpRHQ5NHRvTmVyNHY2U1ZVaWtSaDRYUlQtS2lwZFhkZGc",
+  "snippet": "NY Golf Club's $230K Caddie Wage Deal Rejected Law360",
+  "published": "2026-11-20T23:32:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T11:41:04.017238+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
