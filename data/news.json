@@ -1176,6 +1176,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "0fb6120b87",
+  "slug": "churchland-varsity-softball-maury-0fb6120b87",
+  "title": "Churchland Varsity Softball @ Maury",
+  "orig_title": "Churchland Varsity Softball @ Maury",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "MaxPreps",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjM0TjlLdkJqbFdZNktiSzZFM3ZoalV1UUhuUWw1M251NDctU1V1WVFWVFItWjJ4U1I3NlNmX0JPejBGTUJjQ04zTENReGZsMmpjOTQyZmRlcm9TVi1qNVRxWW1uVGNrZXd4N0NXOGRfdlQyLWl6SXFvRmhFUkNsZ1M3ZlgtdmtQOTJLbnJJX3ZwaXB6djNuaDNqTkhhcl8xalFGbWZIbzJtcF8tUTQxLWtCS3ptQk0wYzBNVjg5VmsxaXZkZndyeA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjM0TjlLdkJqbFdZNktiSzZFM3ZoalV1UUhuUWw1M251NDctU1V1WVFWVFItWjJ4U1I3NlNmX0JPejBGTUJjQ04zTENReGZsMmpjOTQyZmRlcm9TVi1qNVRxWW1uVGNrZXd4N0NXOGRfdlQyLWl6SXFvRmhFUkNsZ1M3ZlgtdmtQOTJLbnJJX3ZwaXB6djNuaDNqTkhhcl8xalFGbWZIbzJtcF8tUTQxLWtCS3ptQk0wYzBNVjg5VmsxaXZkZndyeA",
+  "snippet": "Churchland Varsity Softball @ Maury MaxPreps",
+  "published": "2026-11-22T00:24:25+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T18:11:03.787054+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "a2ce54dc14",
   "slug": "img-4439-jpg-a2ce54dc14",
   "title": "IMG_4439.jpg",
