@@ -35495,35 +35495,6 @@
   "sum_pending": false
  },
  {
-  "id": "2aab94bb2a",
-  "slug": "target-reports-strongest-quarterly-sales-gain-in-5-years-2aab94bb2a",
-  "title": "Target reports strongest quarterly sales gain in 5 years",
-  "orig_title": "Target reports strongest quarterly sales gain in 5 years",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWF9XMm9fSGpXRkJXSGFMSy1JY3Vrbzc0MUVadE9FVjUzaGlaLWhxMGc2WXNuWUpvNUFjZzVWclJ4eUVoTUlGSndTLXlmMkFCT2VaSXo0WGtjbVA3b0ZSeXotcldwQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWF9XMm9fSGpXRkJXSGFMSy1JY3Vrbzc0MUVadE9FVjUzaGlaLWhxMGc2WXNuWUpvNUFjZzVWclJ4eUVoTUlGSndTLXlmMkFCT2VaSXo0WGtjbVA3b0ZSeXotcldwQQ",
-  "snippet": "Target reports strongest quarterly sales gain in 5 years Transport Topics",
-  "published": "2026-11-18T15:10:32+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T15:37:07.237148+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
- },
- {
   "id": "9435679b3b",
   "slug": "london-police-seek-second-suspect-in-hotel-assault-investigation-9435679b3b",
   "title": "London police seek second suspect in hotel assault investigation",
@@ -40035,63 +40006,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "714939283d",
-  "slug": "cincinnati-to-spend-230k-on-graffiti-removal-trucks-as-vandalism-sprea-714939283d",
-  "title": "Cincinnati to spend $230k on graffiti removal trucks as vandalism spreads",
-  "orig_title": "Cincinnati to spend $230k on graffiti removal trucks as vandalism spreads",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 45,
-  "source": "WCPO 9 News",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakhNanNNcTVnd2UxcXl5Q0Zwc0YwRjlvQ0RwcTVGcG1vdXZXNzVZMHhYRnBHaVJ6T1A3aXViTTBFbjdVMnNldm9fNk5Lc3ZIaTQzVVEyY2MxenF2QnBUUGZhMVVFU2pBN1Y3WWVKU2dTVG1DRkNYMC15U05NcVZ3YlJTY0JGQUlCcG95ZUF0T1p1bkJRSG1OaG13Q0o4dUxadHNwX0dNYWlfMmFxbW9fWnRtNDlsa2s?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakhNanNNcTVnd2UxcXl5Q0Zwc0YwRjlvQ0RwcTVGcG1vdXZXNzVZMHhYRnBHaVJ6T1A3aXViTTBFbjdVMnNldm9fNk5Lc3ZIaTQzVVEyY2MxenF2QnBUUGZhMVVFU2pBN1Y3WWVKU2dTVG1DRkNYMC15U05NcVZ3YlJTY0JGQUlCcG95ZUF0T1p1bkJRSG1OaG13Q0o4dUxadHNwX0dNYWlfMmFxbW9fWnRtNDlsa2s",
-  "snippet": "Cincinnati to spend $230k on graffiti removal trucks as vandalism spreads WCPO 9 News",
-  "published": "2026-11-17T19:48:19+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T15:31:07.198460+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://www.wcpo.com/news/local-news/i-team/cincinnati-to-spend-230k-on-graffiti-removal-trucks-as-vandalism-spreads",
-  "source_note": "ok · 846 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "79b9dccf28f248dc",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-18T15:31:07.198460+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "Cincinnati City Council is set to spend $230,000 on new trucks"
-   },
-   {
-    "sentence": "2",
-    "quote": "City council is expected to approve it on Wednesday."
-   },
-   {
-    "sentence": "3",
-    "quote": "That formally changed in May 2024"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 8,
-  "ai_relevant": false
  },
  {
   "id": "c32c7d0a46",
