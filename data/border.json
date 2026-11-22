@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:01:02.754564+00:00",
+ "updated": "2026-11-22T02:11:06.714191+00:00",
  "hour_now": 21,
  "have_us": true,
  "have_ca": true,
@@ -14,7 +14,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -87,9 +87,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "3",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 16,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 8:47 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-21 20:40 EST"
+    "wait": 4,
+    "status": "4 minutes",
+    "updated": "2026-11-21 21:00 EST"
    },
    "usual": {
     "south": [
@@ -270,7 +270,7 @@
      8,
      1,
      3,
-     2,
+     3,
      0,
      5
     ],
@@ -296,7 +296,7 @@
      9,
      15,
      11,
-     10,
+     9,
      7,
      7
     ]
@@ -310,17 +310,17 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 12,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 8:47 pm EST",
+    "status": "no delay",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 10,
-    "status": "10 minutes",
-    "updated": "2026-11-21 20:40 EST"
+    "wait": 16,
+    "status": "16 minutes",
+    "updated": "2026-11-21 21:00 EST"
    },
    "usual": {
     "south": [
@@ -345,7 +345,7 @@
      0,
      0,
      1,
-     2,
+     1,
      0,
      0
     ],
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:56:25",
+    "updated": "21:06:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm MST",
+    "updated": "At 7:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-21 18:40 PDT"
+    "updated": "2026-11-21 19:00 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-21 18:40 PDT"
+    "updated": "2026-11-21 19:00 PDT"
    },
    "usual": {
     "south": [
