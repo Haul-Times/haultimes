@@ -282,6 +282,35 @@
   "dup_of": "1311c3d8ed"
  },
  {
+  "id": "45ba80fd11",
+  "slug": "biosenter-45ba80fd11",
+  "title": "BIOSENTER",
+  "orig_title": "BIOSENTER",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "themercury.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ19GQmFEMmFtaVFwVDlZR25DOG1FQ3g0T0ViODYtanByNjdTQW9weGhKZXltMTZKZzR5Mk0yTS14UzRuNmpmc1BkU1lzUDBTckNSMFFKOXdTM21CRXZobHpEalhoMjNQbjliQ2pDenFpTTNGSEN5dHpaa3JlX2dJSU9Kc1R3WDA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ19GQmFEMmFtaVFwVDlZR25DOG1FQ3g0T0ViODYtanByNjdTQW9weGhKZXltMTZKZzR5Mk0yTS14UzRuNmpmc1BkU1lzUDBTckNSMFFKOXdTM21CRXZobHpEalhoMjNQbjliQ2pDenFpTTNGSEN5dHpaa3JlX2dJSU9Kc1R3WDA",
+  "snippet": "BIOSENTER themercury.com",
+  "published": "2026-11-21T19:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T07:51:07.119202+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0a177ef696",
   "slug": "quickreads-get-quick-information-on-latest-top-breaking-news-0a177ef696",
   "title": "Quickreads: Get quick information on latest, top breaking news",
