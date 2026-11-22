@@ -926,6 +926,35 @@
   "sum_pending": false
  },
  {
+  "id": "1c088551f2",
+  "slug": "sault-ste-marie-port-and-rail-yard-draw-c-250-million-in-pledges-1c088551f2",
+  "title": "Sault Ste. Marie port and rail yard draw C$250 million in pledges",
+  "orig_title": "Sault Ste. Marie port and rail yard draw C$250 million in pledges",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Railway Supply",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTI3c0liamFCcTZ5OHJVbXlpUXFnODdOTU9KUEtYb0tMbVpiUDNwNE9HVVBadVBEQWs1RWlyeXlYaVAwRnlyZ0puQXoxQjBXVDh3dVVjcGVpNm9aWjdCbU1qTFhpSi12cWlSb1dPSkt1MmF0dzdXN2xWNWM1SGk4U21ZSURwTF9lYThvOXNOc2plYWZxdmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTI3c0liamFCcTZ5OHJVbXlpUXFnODdOTU9KUEtYb0tMbVpiUDNwNE9HVVBadVBEQWs1RWlyeXlYaVAwRnlyZ0puQXoxQjBXVDh3dVVjcGVpNm9aWjdCbU1qTFhpSi12cWlSb1dPSkt1MmF0dzdXN2xWNWM1SGk4U21ZSURwTF9lYThvOXNOc2plYWZxdmc",
+  "snippet": "Sault Ste. Marie port and rail yard draw C$250 million in pledges Railway Supply",
+  "published": "2026-11-22T08:25:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T18:31:05.536334+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "541db6f0e4",
   "slug": "watch-illegally-uprooted-baobabs-find-new-home-to-thrive-after-900km-j-541db6f0e4",
   "title": "WATCH: Illegally uprooted baobabs find new home to thrive after 900km journey",
@@ -33027,36 +33056,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "35e00f9d9c",
-  "slug": "truck-driver-arrested-in-quebec-highway-crash-that-killed-a-mother-and-35e00f9d9c",
-  "title": "Truck driver arrested in Quebec highway crash that killed a mother and son last year",
-  "orig_title": "Truck driver arrested in Quebec highway crash that killed a mother and son last year",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 5,
-  "source": "CBC",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEhLSU5BQTl2Njk1TlljaUc5MmdKdmxQaFdQN1g4VjdseGFOWmxwM0JJQy1MenRQQWwxYUpTbFBZSThGTWJGVnFRV0R1S3dYWTNGTzFvZExDM1d0SEtVd0pXbTJtNGpaejVxUXdidVZGeWxuZlB5WVphZjhUMzVDYWVETnlobzF1bkRxZTJlQ1R3Tm0yM2Z5S2NTeWc0TmVJMEIw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEhLSU5BQTl2Njk1TlljaUc5MmdKdmxQaFdQN1g4VjdseGFOWmxwM0JJQy1MenRQQWwxYUpTbFBZSThGTWJGVnFRV0R1S3dYWTNGTzFvZExDM1d0SEtVd0pXbTJtNGpaejVxUXdidVZGeWxuZlB5WVphZjhUMzVDYWVETnlobzF1bkRxZTJlQ1R3Tm0yM2Z5S2NTeWc0TmVJMEIw",
-  "snippet": "Truck driver arrested in Quebec highway crash that killed a mother and son last year CBC",
-  "published": "2026-11-18T18:18:16+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T18:30:03.918111+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Truck driver arrested after fatal Highway 30 collision that killed mother, son"
-  ],
-  "labels": [],
-  "kind": "crime",
-  "sum_pending": false,
-  "dup_of": "103b0ffbb7"
  },
  {
   "id": "476937e71c",
