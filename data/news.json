@@ -36817,35 +36817,6 @@
   "sum_pending": false
  },
  {
-  "id": "d4365761fd",
-  "slug": "david-w-durham-1944-2026-d4365761fd",
-  "title": "David W. Durham 1944-2026",
-  "orig_title": "David W. Durham 1944-2026",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Vindicator",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZdENja0hWV2tPdzBFQVFMcGNDckJLeXBYcEpWT1FWYmFyMjRGQ2pzYjR5a1lLNHlFTERIYVpDTXFqNk1IV1RSdHhtbGNEM3BITEM4WE5tbm1mUzVpNDZaN2dOb0F6VlFyMjNFdnJkZEdmQUo0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZdENja0hWV2tPdzBFQVFMcGNDckJLeXBYcEpWT1FWYmFyMjRGQ2pzYjR5a1lLNHlFTERIYVpDTXFqNk1IV1RSdHhtbGNEM3BITEM4WE5tbm1mUzVpNDZaN2dOb0F6VlFyMjNFdnJkZEdmQUo0",
-  "snippet": "David W. Durham 1944-2026 The Vindicator",
-  "published": "2026-11-18T07:56:39+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T08:01:02.840517+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "6a801321ec",
   "slug": "hackers-impersonate-freight-booking-platforms-to-deploy-castlerat-malw-6a801321ec",
   "title": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies’ Systems",
@@ -40279,35 +40250,6 @@
   ],
   "ai_category": "border",
   "ai_importance": 55
- },
- {
-  "id": "d6e3de218a",
-  "slug": "let-s-eat-have-you-ever-tried-v8-chicken-d6e3de218a",
-  "title": "Let's Eat! Have You Ever Tried V8 Chicken?",
-  "orig_title": "Let's Eat! Have You Ever Tried V8 Chicken?",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "PJ Media",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51RE1RbUY4ZW9JbWZOMWt5RnJjakdRZWdBMFBtWkgtVmQtNEc0MGlzaXVOdHRHOUcyUjZfQnpvVW4tRUFsY1FGVkpQNU44eWFtakpnLXZOUDB2V29PWGlwT1BjLWJDaWlzMk0yNE5lR0JvTmFkQ0swY18yOA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51RE1RbUY4ZW9JbWZOMWt5RnJjakdRZWdBMFBtWkgtVmQtNEc0MGlzaXVOdHRHOUcyUjZfQnpvVW4tRUFsY1FGVkpQNU44eWFtakpnLXZOUDB2V29PWGlwT1BjLWJDaWlzMk0yNE5lR0JvTmFkQ0swY18yOA",
-  "snippet": "Let's Eat! Have You Ever Tried V8 Chicken? PJ Media",
-  "published": "2026-11-17T17:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T08:11:03.377253+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "f23f0cd77c",
