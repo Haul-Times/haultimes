@@ -4426,7 +4426,8 @@
   "71bc33b849": "skipped|importance 63 is below this platform's threshold (65)",
   "955ef499f1": "skipped|importance 57 is below this platform's threshold (65)",
   "c30d35c995": "skipped|importance 45 is below this platform's threshold (65)",
-  "a9b17e458a": "skipped|importance 55 is below this platform's threshold (65)"
+  "a9b17e458a": "skipped|importance 55 is below this platform's threshold (65)",
+  "7737447226": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9396,6 +9397,13 @@
    "at": "2026-11-21T22:51:51.297449+00:00",
    "story_id": "a9b17e458a",
    "title": "Alberta proposes $50K fines for unsafe trucking operators, public naming of offenders",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-22T01:51:44.049980+00:00",
+   "story_id": "7737447226",
+   "title": "Shippers’ backup plan is getting more expensive",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
