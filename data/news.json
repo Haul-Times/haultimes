@@ -36669,37 +36669,6 @@
   "sum_pending": false
  },
  {
-  "id": "a1c170361b",
-  "slug": "hackers-target-us-trucking-companies-with-fake-freight-portals-to-stea-a1c170361b",
-  "title": "Hackers Target US Trucking Companies With Fake Freight Portals to Steal Credentials and Deploy Malware",
-  "orig_title": "Hackers Target US Trucking Companies With Fake Freight Portals to Steal Credentials and Deploy Malware",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 50,
-  "source": "CyberSecurityNews",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MMnFsaWNrb2hWWkhfYjZYMUJGdUFzS1dMWXVEdVBlbGNPQ3BZX1FVVUE5a3puNndpUEU0aWhwbHRpTnpDVVVjcGswd3hDVXhkaEZlREJjTXNCWEhCdG91MdIBZkFVX3lxTE9hS0JJZHJnb3QwZ0FFcFdJUnNFNTVWTVpIRW41eVNDcnktTHRTSDFCNUk2Yl9WLVhvNUNmTWVwTjJ5NmJ3d2VOcG8xa0RKMXNOZ0hrdkZqZjVhYXVGRFhoWTBoNVJVZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MMnFsaWNrb2hWWkhfYjZYMUJGdUFzS1dMWXVEdVBlbGNPQ3BZX1FVVUE5a3puNndpUEU0aWhwbHRpTnpDVVVjcGswd3hDVXhkaEZlREJjTXNCWEhCdG91MdIBZkFVX3lxTE9hS0JJZHJnb3QwZ0FFcFdJUnNFNTVWTVpIRW41eVNDcnktTHRTSDFCNUk2Yl9WLVhvNUNmTWVwTjJ5NmJ3d2VOcG8xa0RKMXNOZ0hrdkZqZjVhYXVGRFhoWTBoNVJVZw",
-  "snippet": "Hackers Target US Trucking Companies With Fake Freight Portals to Steal Credentials and Deploy Malware CyberSecurityNews",
-  "published": "2026-11-18T09:13:35+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T09:20:12.676954+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Comp"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 3,
-  "dup_of": "6a801321ec"
- },
- {
   "id": "7faacb4334",
   "slug": "shafaq-news-truck-drivers-traders-protest-mandali-crossing-closure-7faacb4334",
   "title": "Shafaq News..Truck drivers, traders protest Mandali crossing closure",
