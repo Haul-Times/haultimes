@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:11:06.198882+00:00",
+ "updated": "2026-11-22T08:21:06.512778+00:00",
  "hour_now": 3,
  "have_us": true,
  "have_ca": true,
@@ -27,7 +27,7 @@
      0,
      0,
      0,
-     1,
+     2,
      0,
      0,
      0,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -545,7 +545,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-22 02:13 EST"
+    "updated": "2026-11-22 03:05 EST"
    },
    "usual": {
     "south": [
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "03:07:16",
+    "updated": "03:17:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "03:07:16",
+    "updated": "03:17:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:07:16",
+    "updated": "02:17:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1321,7 +1321,7 @@
      6,
      6,
      11,
-     9,
+     11,
      8,
      5,
      5,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:07:16",
+    "updated": "00:17:17",
     "hours": "24 hrs/day"
    },
    "north": {
