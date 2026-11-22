@@ -1,5 +1,79 @@
 [
  {
+  "id": "60dbe22861",
+  "slug": "14-arrested-in-22-5m-socal-cargo-theft-case-60dbe22861",
+  "title": "14 Arrested in $22.5M SoCal Cargo Theft Case",
+  "orig_title": "14 Arrested in $22.5M SoCal Cargo Theft Case",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 37,
+  "source": "Palisades News",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGYwemwzVlBiY29JZEg5NThObFlBNTNLUmNxdlp3ajN5dnpjQzY5d0pacXdteU80UHJSS3VqWF9CU3BaSl9ubS05WWxRMFNPN3pYbVlRb1F3SEUza1JJYWFiVmplTEFGRHAtaldmQjA5U3dxaFdPWHRKbGhGQVZpbVVGTTFWNDYyYW81V0djRDdCRW9vQkE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGYwemwzVlBiY29JZEg5NThObFlBNTNLUmNxdlp3ajN5dnpjQzY5d0pacXdteU80UHJSS3VqWF9CU3BaSl9ubS05WWxRMFNPN3pYbVlRb1F3SEUza1JJYWFiVmplTEFGRHAtaldmQjA5U3dxaFdPWHRKbGhGQVZpbVVGTTFWNDYyYW81V0djRDdCRW9vQkE",
+  "snippet": "14 Arrested in $22.5M SoCal Cargo Theft Case Palisades News",
+  "published": "2026-11-22T14:00:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T14:01:04.449717+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "crime",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://palisadesnews.com/14-arrested-in-22-5-million-southern-california-cargo-theft-ring/",
+  "source_note": "ok · 882 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "41a022ea314ac500",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-22T14:01:04.449717+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Fourteen people were arrested Friday"
+   },
+   {
+    "sentence": "2",
+    "quote": "A federal grand jury indicted the suspects on 17 counts"
+   },
+   {
+    "sentence": "3",
+    "quote": "burglarized at least three dozen freight trains between February 2024 and August 2026"
+   },
+   {
+    "sentence": "4",
+    "quote": "stopped trains by cutting air hoses"
+   },
+   {
+    "sentence": "5",
+    "quote": "Authorities say the group used Instagram and other channels to coordinate and sell the stolen goods"
+   },
+   {
+    "sentence": "6",
+    "quote": "identified by authorities as the crew's leader"
+   },
+   {
+    "sentence": "7",
+    "quote": "All 14 face a conspiracy charge"
+   }
+  ],
+  "sum_problems": [
+   "summary longer than 160 words",
+   "name \"LAPD's Cargo Theft Task Force\" is not in the source",
+   "copies a 12-word run from the source: 'homeland security investigations, union pacific railroad police, the c'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 40
+ },
+ {
   "id": "ef1c11a5c8",
   "slug": "five-convicted-in-1-5-million-philadelphia-cargo-theft-ring-ef1c11a5c8",
   "title": "Five Convicted in $1.5 Million Philadelphia Cargo Theft Ring",

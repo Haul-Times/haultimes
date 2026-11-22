@@ -4458,7 +4458,8 @@
   "7737447226": "skipped|importance 55 is below this platform's threshold (65)",
   "b4a5097484": "skipped|importance 50 is below this platform's threshold (65)",
   "72339a475b": "queued|importance 80 (threshold 65), Drivers & Jobs, trade publication",
-  "ef1c11a5c8": "skipped|importance 63 is below this platform's threshold (65)"
+  "ef1c11a5c8": "skipped|importance 63 is below this platform's threshold (65)",
+  "60dbe22861": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -9458,6 +9459,13 @@
    "title": "Five Convicted in $1.5 Million Philadelphia Cargo Theft Ring",
    "action": "skipped",
    "reason": "importance 63 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-22T14:01:55.029743+00:00",
+   "story_id": "60dbe22861",
+   "title": "14 Arrested in $22.5M SoCal Cargo Theft Case",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
