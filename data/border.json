@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:11:03.647688+00:00",
+ "updated": "2026-11-22T18:21:13.263126+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -37,7 +37,7 @@
      6,
      9,
      11,
-     9,
+     12,
      0,
      0,
      12,
@@ -112,7 +112,7 @@
      0,
      0,
      3,
-     13,
+     12,
      6,
      6,
      4,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 12:57 pm EST",
+    "status": "no delay",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:57 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 pm CST",
+    "updated": "At 2:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:01:25",
+    "updated": "13:16:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1087,7 +1087,7 @@
      18,
      17,
      27,
-     44,
+     39,
      36,
      28,
      46,
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 am MST",
+    "updated": "At 11:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1230,7 +1230,7 @@
      8,
      1,
      0,
-     7,
+     6,
      6,
      1,
      0,
@@ -1280,9 +1280,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 am PST",
+    "updated": "At 10:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 221",
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Gordie Howe International Bridge",
