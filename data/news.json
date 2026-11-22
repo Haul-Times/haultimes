@@ -73,6 +73,80 @@
   "sum_pending": false
  },
  {
+  "id": "46294a6900",
+  "slug": "moraine-park-adds-cdl-training-track-in-horicon-wi-46294a6900",
+  "title": "Moraine Park Adds CDL Training Track in Horicon, WI",
+  "orig_title": "Moraine Park Adds CDL Training Track in Horicon, WI",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "US",
+  "importance": 20,
+  "source": "Hoodline",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakxBY21jUlJneHlQS0VDZzF6cFFCYy11X2c5Zlk5UDRwTWVjUzh0eWRUMVQ4WW1SY3ViOThVa2oyU3lnWEZISXNRVENQcm5DOUpQSHk0S1ozRkdrVlRXT1VOc2hHeXo2UVhFb05Ja0NOQVlPX2NSRXM2MnRqdzI5ZGlKUVQ3dnItQXFiUjBOeC1yRFpDYTBvUUttZXhsOTF3WVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakxBY21jUlJneHlQS0VDZzF6cFFCYy11X2c5Zlk5UDRwTWVjUzh0eWRUMVQ4WW1SY3ViOThVa2oyU3lnWEZISXNRVENQcm5DOUpQSHk0S1ozRkdrVlRXT1VOc2hHeXo2UVhFb05Ja0NOQVlPX2NSRXM2MnRqdzI5ZGlKUVQ3dnItQXFiUjBOeC1yRFpDYTBvUUttZXhsOTF3WVE",
+  "snippet": "Moraine Park Adds CDL Training Track in Horicon, WI Hoodline",
+  "published": "2026-11-22T14:47:24+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T16:41:04.861190+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [
+   "Company announcement"
+  ],
+  "kind": "announcement",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://hoodline.com/2026/11/horicon-college-builds-cdl-driving-track-as-wisconsin-truckers-age-out/",
+  "source_note": "ok · 687 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "1f67636826793936",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-22T16:41:04.861190+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "is adding a dedicated commercial driver's license training facility"
+   },
+   {
+    "sentence": "2",
+    "quote": "a full-sized roadway, a roundabout and a loading dock"
+   },
+   {
+    "sentence": "3",
+    "quote": "savings from its earlier referendum-funded construction projects"
+   },
+   {
+    "sentence": "4",
+    "quote": "a 12-week, 9-credit technical diploma"
+   },
+   {
+    "sentence": "5",
+    "quote": "operate a Class A commercial vehicle safely"
+   },
+   {
+    "sentence": "6",
+    "quote": "dropped by more than 20,000, or 8.9%, over the past 15 years"
+   },
+   {
+    "sentence": "7",
+    "quote": "58.7% of Wisconsin CDL holders were at least 50 years old"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'moraine park technical college is adding a dedicated commercial driver'"
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 40
+ },
+ {
   "id": "60dbe22861",
   "slug": "14-arrested-in-22-5m-socal-cargo-theft-case-60dbe22861",
   "title": "14 Arrested in $22.5M SoCal Cargo Theft Case",
@@ -3240,6 +3314,35 @@
   "status": "rejected",
   "reasons": [
    "market-research sales page"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "618633d712",
+  "slug": "trainspro-podcast-intermodal-s-moment-what-comes-next-618633d712",
+  "title": "TrainsPRO Podcast: Intermodal’s moment: what comes next?",
+  "orig_title": "TrainsPRO Podcast: Intermodal’s moment: what comes next?",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Trains Magazine",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTJnN056TDlZRm1ZTEx2OW0tWWUzUW9GS2NyVVVzRTVqM0hhWGhPT1gwVVNPTkxOYnczZUx1VmtweU82eW9RcF9MMWYzVzRLcGJYWXM2Ml9CbklTOE9JWDdVT2FoU25pOFJDbDFCMUxsNzNvaEtaa0IwQms0VWxnRnUyUjJfazFST1ZRNUIwMzBacFRuU0R4RExEYlZaREU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTJnN056TDlZRm1ZTEx2OW0tWWUzUW9GS2NyVVVzRTVqM0hhWGhPT1gwVVNPTkxOYnczZUx1VmtweU82eW9RcF9MMWYzVzRLcGJYWXM2Ml9CbklTOE9JWDdVT2FoU25pOFJDbDFCMUxsNzNvaEtaa0IwQms0VWxnRnUyUjJfazFST1ZRNUIwMzBacFRuU0R4RExEYlZaREU",
+  "snippet": "TrainsPRO Podcast: Intermodal’s moment: what comes next? Trains Magazine",
+  "published": "2026-11-20T22:55:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T16:41:04.861190+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "non-North American source"
   ],
   "labels": [],
   "kind": "rejected",
@@ -34887,35 +34990,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "6684573e9a",
-  "slug": "nissan-s-hybrid-only-models-to-debut-in-u-s-around-2030-6684573e9a",
-  "title": "Nissan’s hybrid-only models to debut in U.S. around 2030",
-  "orig_title": "Nissan’s hybrid-only models to debut in U.S. around 2030",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4SU1jOWc3b0UzWFpNUzI4MVVySkJ4TUt4T3BxODFwSkZlQmRla0E0UFZHMnVNOTBLV1hfNVpnQm5lbmxjV1loSUZFWVFpTlVTLWx4akhlMGNSVGFSRHJkczBJaw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4SU1jOWc3b0UzWFpNUzI4MVVySkJ4TUt4T3BxODFwSkZlQmRla0E0UFZHMnVNOTBLV1hfNVpnQm5lbmxjV1loSUZFWVFpTlVTLWx4akhlMGNSVGFSRHJkczBJaw",
-  "snippet": "Nissan’s hybrid-only models to debut in U.S. around 2030 Transport Topics",
-  "published": "2026-11-18T15:39:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T16:31:06.501218+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
   "sum_pending": false
  },
  {

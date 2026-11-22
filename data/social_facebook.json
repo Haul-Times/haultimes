@@ -4481,7 +4481,8 @@
   "72339a475b": "queued|importance 80 (threshold 65), Drivers & Jobs, trade publication",
   "ef1c11a5c8": "skipped|importance 63 is below this platform's threshold (65)",
   "60dbe22861": "skipped|minor item (crime) or low-quality source",
-  "promo-20261122": "queued|HaulTimes update"
+  "promo-20261122": "queued|HaulTimes update",
+  "46294a6900": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -9495,6 +9496,13 @@
    "title": "Freight Market reminder",
    "action": "queued",
    "reason": "HaulTimes update: promo"
+  },
+  {
+   "at": "2026-11-22T16:41:51.438948+00:00",
+   "story_id": "46294a6900",
+   "title": "Moraine Park Adds CDL Training Track in Horicon, WI",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
