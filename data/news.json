@@ -29722,35 +29722,6 @@
   "sum_pending": false
  },
  {
-  "id": "0e76292794",
-  "slug": "image-0e76292794",
-  "title": "image",
-  "orig_title": "image",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHJZNTFKbUpYZU4wYlpxN2RWNzJwQ1YwNjE3clRjbmdQdTZ3MUloQy1FQV9zdlczaF9VSjVaZ1JraTVadFU0YzJzMFFhT3dDeEI3YTFLUWE3SkVMSTZBbDBFRWpBVTRJR2lqQURKZk94WVBXbWlJTHlBejVmTVpFalB6YktGX3RuYUw5SEE3TmNSSXBwZUxoZERnNDYxQ2h0VXRVODQyNFJIWW1OOFZKOVNRWWZuazRIdFVycC1JTnR6VjJaNnN6WFhSNXp6SFd6S2s5bEhsYVJ1N0F1?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHJZNTFKbUpYZU4wYlpxN2RWNzJwQ1YwNjE3clRjbmdQdTZ3MUloQy1FQV9zdlczaF9VSjVaZ1JraTVadFU0YzJzMFFhT3dDeEI3YTFLUWE3SkVMSTZBbDBFRWpBVTRJR2lqQURKZk94WVBXbWlJTHlBejVmTVpFalB6YktGX3RuYUw5SEE3TmNSSXBwZUxoZERnNDYxQ2h0VXRVODQyNFJIWW1OOFZKOVNRWWZuazRIdFVycC1JTnR6VjJaNnN6WFhSNXp6SFd6S2s5bEhsYVJ1N0F1",
-  "snippet": "image Truck News",
-  "published": "2026-11-18T23:28:22+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T23:31:06.294377+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "2ec91cde77",
   "slug": "raptors-forward-barnes-out-against-wizards-barrett-questionable-2ec91cde77",
   "title": "Raptors forward Barnes out against Wizards, Barrett questionable",
@@ -30619,35 +30590,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "86a30c2b89",
-  "slug": "with-just-18-approval-president-kast-and-chile-s-business-leaders-stay-86a30c2b89",
-  "title": "With Just 18% Approval, President Kast and Chile’s Business Leaders Stay Upbeat Amid Social Crisis",
-  "orig_title": "With Just 18% Approval, President Kast and Chile’s Business Leaders Stay Upbeat Amid Social Crisis",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Left Voice",
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TnAwZndrUzM0TjJBd0RpTUZucDRodnNuN2lVZTJjRkFaRXBSZjFvOEJ5MFVnWHNzUHl4dHJxVGxwZDlsWG0zMlFNdVFEY2UzZm5RZmxST1Z0WVF6cDlaT3NmeXA3RkhWYmdTNG8wTy1BZEtHVHRr?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TnAwZndrUzM0TjJBd0RpTUZucDRodnNuN2lVZTJjRkFaRXBSZjFvOEJ5MFVnWHNzUHl4dHJxVGxwZDlsWG0zMlFNdVFEY2UzZm5RZmxST1Z0WVF6cDlaT3NmeXA3RkhWYmdTNG8wTy1BZEtHVHRr",
-  "snippet": "With Just 18% Approval, President Kast and Chile’s Business Leaders Stay Upbeat Amid Social Crisis Left Voice",
-  "published": "2026-11-18T21:45:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T23:41:02.550960+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -43798,36 +43740,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "54169d4f70",
-  "slug": "q3-2026-cargo-theft-by-states-54169d4f70",
-  "title": "Q3 2026 cargo theft by states",
-  "orig_title": "Q3 2026 cargo theft by states",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 67,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjNUMHJ2cXpORmJ0dnhKQUNMNE5yckVMSU0xWElnalQxWjR2SnhFb0V4S3NzYnVHbkFwVF9uUFNkTGVVdExiOVVmUFZodjZrdDlqcW1iZHduaTNPWDdBeUpoLU9udUVNcVdWazI3RHlsdDl1YWY5c3lZMnYtNEY1dFZzRzZYNVEyOGpJRUo0WkpDVE1CWkZVcURfZEFIU0ZsNXVFalZuWkkyOXlGZU8tRmtwRDN5ZFZ3XzhHQTVsZGx6VDNmWHRhMWhHYw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjNUMHJ2cXpORmJ0dnhKQUNMNE5yckVMSU0xWElnalQxWjR2SnhFb0V4S3NzYnVHbkFwVF9uUFNkTGVVdExiOVVmUFZodjZrdDlqcW1iZHduaTNPWDdBeUpoLU9udUVNcVdWazI3RHlsdDl1YWY5c3lZMnYtNEY1dFZzRzZYNVEyOGpJRUo0WkpDVE1CWkZVcURfZEFIU0ZsNXVFalZuWkkyOXlGZU8tRmtwRDN5ZFZ3XzhHQTVsZGx6VDNmWHRhMWhHYw",
-  "snippet": "Q3 2026 cargo theft by states Truck News",
-  "published": "2026-11-16T08:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T23:31:06.294377+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: AI cargo thefts top $150 million from June 2025 to June 2026"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "b6b847bbf6"
  },
  {
   "id": "d3a9eeefd5",
