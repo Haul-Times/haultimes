@@ -36999,35 +36999,6 @@
   "sum_pending": false
  },
  {
-  "id": "605e6161f9",
-  "slug": "electric-apu-archives-605e6161f9",
-  "title": "electric APU Archives",
-  "orig_title": "electric APU Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Yko1dVFjVFNISmlWbmlpRzlteTFPZmNHalE2eHNCalVsRms1NGZQa0lNYkZ0WWd3Z3pMTzYwMUJoWUZtb2xxR1hMZHFMekpFbXFmUTBrSVNEa2s?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Yko1dVFjVFNISmlWbmlpRzlteTFPZmNHalE2eHNCalVsRms1NGZQa0lNYkZ0WWd3Z3pMTzYwMUJoWUZtb2xxR1hMZHFMekpFbXFmUTBrSVNEa2s",
-  "snippet": "electric APU Archives Truck News",
-  "published": "2026-11-18T02:57:40+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T03:01:01.243665+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "ca186dbc53",
   "slug": "long-queues-freezing-conditions-commuters-bear-brunt-of-zoji-la-gridlo-ca186dbc53",
   "title": "Long queues, freezing conditions: Commuters bear brunt of Zoji La gridlock",
@@ -37051,35 +37022,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "b90b6c4285",
-  "slug": "israel-approves-250-foreign-truck-drivers-in-pilot-program-to-address-b90b6c4285",
-  "title": "Israel approves 250 foreign truck drivers in pilot program to address shortage",
-  "orig_title": "Israel approves 250 foreign truck drivers in pilot program to address shortage",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Jerusalem Post",
-  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PWXEwN05qdnZ3Zkx0VTVFWjlxOFRjUVQyZTFGbWpMSjlVMnJpZEFsZ2RnMkZ5QkEzU0RMQTVybl9RWjl0NnF4WTFndG56cGhreXBMSGMxcHhKM3Ax?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PWXEwN05qdnZ3Zkx0VTVFWjlxOFRjUVQyZTFGbWpMSjlVMnJpZEFsZ2RnMkZ5QkEzU0RMQTVybl9RWjl0NnF4WTFndG56cGhreXBMSGMxcHhKM3Ax",
-  "snippet": "Israel approves 250 foreign truck drivers in pilot program to address shortage The Jerusalem Post",
-  "published": "2026-11-18T02:53:16+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T03:01:01.243665+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
