@@ -32,8 +32,8 @@
   "sum_status": "withheld",
   "source_fp": "41a022ea314ac500",
   "source_scope": "full_article",
-  "sum_at": "2026-11-22T14:01:04.449717+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-22T14:11:12.331831+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
@@ -46,7 +46,7 @@
    },
    {
     "sentence": "3",
-    "quote": "burglarized at least three dozen freight trains between February 2024 and August 2026"
+    "quote": "burglarized at least three dozen freight trains"
    },
    {
     "sentence": "4",
@@ -54,7 +54,7 @@
    },
    {
     "sentence": "5",
-    "quote": "Authorities say the group used Instagram and other channels to coordinate and sell the stolen goods"
+    "quote": "sold thousands of pairs of stolen Nike sneakers"
    },
    {
     "sentence": "6",
@@ -62,16 +62,17 @@
    },
    {
     "sentence": "7",
-    "quote": "All 14 face a conspiracy charge"
+    "quote": "All 14 face a conspiracy charge."
    }
   ],
   "sum_problems": [
    "summary longer than 160 words",
    "name \"LAPD's Cargo Theft Task Force\" is not in the source",
-   "copies a 12-word run from the source: 'homeland security investigations, union pacific railroad police, the c'"
+   "copies a 12-word run from the source: 'a federal grand jury indicted the suspects on 17 counts after a'"
   ],
   "ai_category": "other",
-  "ai_importance": 40
+  "ai_importance": 55,
+  "sum_v3": true
  },
  {
   "id": "ef1c11a5c8",
