@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T06:01:34.956421+00:00",
+ "updated": "2026-11-22T06:11:02.732430+00:00",
  "hour_now": 1,
- "have_us": false,
+ "have_us": true,
  "have_ca": true,
  "crossings": [
   {
@@ -9,7 +9,14 @@
    "name": "Ambassador Bridge",
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "3",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -77,7 +84,14 @@
    "name": "Blue Water Bridge",
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -145,7 +159,14 @@
    "name": "Sault Ste. Marie Bridge",
    "ports": "Sault Ste. Marie, MI ↔ Sault Ste. Marie, ON",
    "region": "on-mi",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "01:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -213,11 +234,18 @@
    "name": "Peace Bridge",
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "4",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
+    "hours": "24 hrs/day"
+   },
    "north": {
-    "wait": 5,
-    "status": "5 minutes",
-    "updated": "2026-11-22 00:40 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-22 01:00 EST"
    },
    "usual": {
     "south": [
@@ -281,11 +309,18 @@
    "name": "Lewiston–Queenston Bridge",
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
+    "hours": "24 hrs/day"
+   },
    "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-22 00:40 EST"
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-22 01:00 EST"
    },
    "usual": {
     "south": [
@@ -349,7 +384,14 @@
    "name": "Thousand Islands Bridge",
    "ports": "Alexandria Bay, NY ↔ Lansdowne, ON",
    "region": "on-ny",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "01:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -417,7 +459,14 @@
    "name": "Ogdensburg–Prescott Bridge",
    "ports": "Ogdensburg, NY ↔ Prescott, ON",
    "region": "on-ny",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "01:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -485,7 +534,14 @@
    "name": "Massena–Cornwall",
    "ports": "Massena, NY ↔ Cornwall, ON",
    "region": "on-ny",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am EST",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -553,7 +609,14 @@
    "name": "International Falls–Fort Frances",
    "ports": "International Falls, MN ↔ Fort Frances, ON",
    "region": "on-mn",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -621,7 +684,14 @@
    "name": "Champlain–Lacolle",
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Lanes Closed",
+    "updated": "01:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -689,7 +759,14 @@
    "name": "Highgate Springs–Saint-Armand",
    "ports": "Highgate Springs, VT ↔ Saint-Armand, QC",
    "region": "qc",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "01:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -757,7 +834,14 @@
    "name": "Derby Line–Stanstead",
    "ports": "Derby Line, VT ↔ Stanstead, QC",
    "region": "qc",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 8:00 am EST",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -825,7 +909,14 @@
    "name": "Houlton–Woodstock",
    "ports": "Houlton, ME ↔ Woodstock, NB",
    "region": "atl",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "01:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -893,11 +984,18 @@
    "name": "Calais–St. Stephen",
    "ports": "Calais, ME ↔ St. Stephen, NB",
    "region": "atl",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "N/A",
+    "updated": "01:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-22 00:53 AST"
+    "updated": "2026-11-22 01:59 AST"
    },
    "usual": {
     "south": [
@@ -961,7 +1059,14 @@
    "name": "Pembina–Emerson",
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
-   "south": null,
+   "south": {
+    "wait": null,
+    "fast_wait": null,
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:06:56",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -1097,7 +1202,14 @@
    "name": "Sweetgrass–Coutts",
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 11:00 pm MST",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
@@ -1165,11 +1277,18 @@
    "name": "Pacific Highway",
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 11:00 pm PST",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-21 22:40 PDT"
+    "updated": "2026-11-21 23:00 PDT"
    },
    "usual": {
     "south": [
@@ -1233,11 +1352,18 @@
    "name": "Sumas–Abbotsford",
    "ports": "Sumas, WA ↔ Abbotsford, BC",
    "region": "bc",
-   "south": null,
+   "south": {
+    "wait": 0,
+    "fast_wait": null,
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 11:00 pm PST",
+    "hours": "24 hrs/day"
+   },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-21 22:40 PDT"
+    "updated": "2026-11-21 23:00 PDT"
    },
    "usual": {
     "south": [
@@ -1298,7 +1424,68 @@
   }
  ],
  "others": {
-  "south": [],
+  "south": [
+   {
+    "name": "Blaine Peace Arch",
+    "wait": null,
+    "status": "N/A"
+   },
+   {
+    "name": "Blaine Point Roberts",
+    "wait": null,
+    "status": "Update Pending"
+   },
+   {
+    "name": "Buffalo/Niagara Falls Rainbow Bridge",
+    "wait": null,
+    "status": "N/A"
+   },
+   {
+    "name": "Buffalo/Niagara Falls Whirlpool Bridge",
+    "wait": null,
+    "status": "Update Pending"
+   },
+   {
+    "name": "Calais International Avenue",
+    "wait": 0,
+    "status": "no delay"
+   },
+   {
+    "name": "Calais Milltown",
+    "wait": null,
+    "status": "N/A"
+   },
+   {
+    "name": "Detroit Gordie Howe International Bridge",
+    "wait": 0,
+    "status": "no delay"
+   },
+   {
+    "name": "Detroit Windsor Tunnel",
+    "wait": null,
+    "status": "Lanes Closed"
+   },
+   {
+    "name": "Jackman",
+    "wait": 0,
+    "status": "no delay"
+   },
+   {
+    "name": "Lynden",
+    "wait": 0,
+    "status": "no delay"
+   },
+   {
+    "name": "Madawaska",
+    "wait": null,
+    "status": "Update Pending"
+   },
+   {
+    "name": "Norton",
+    "wait": 0,
+    "status": "no delay"
+   }
+  ],
   "north": [
    {
     "name": "St. Stephen 3rd Bridge",
