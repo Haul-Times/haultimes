@@ -1,5 +1,106 @@
 [
  {
+  "id": "ef1c11a5c8",
+  "slug": "five-convicted-in-1-5-million-philadelphia-cargo-theft-ring-ef1c11a5c8",
+  "title": "Five Convicted in $1.5 Million Philadelphia Cargo Theft Ring",
+  "orig_title": "Five Convicted in $1.5 Million Philadelphia Cargo Theft Ring",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 63,
+  "source": "MyChesCo",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWNjcEdiek5WZ0V2ZlNRQTY1Y3lMYmQ5WGF5aWVlN3UySGZ3THFhY3phNXpQTWFSZ0RVRldwckFMQkFDU0RjVVE1NHVOdDE3dW9NaWMtWl93aEItWEp4NVFmeW03ZWt2bnRhU3NfZTU2d2FBcEZBWEpiQURzb1RsUjRmT0t3TWZXdjV5MjQ1OGcwVVFkUDg3VWUyYUotS1JzSFg3aW5VeUIydlkxMmFqV2VSQnZ1UkxybkQ4?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWNjcEdiek5WZ0V2ZlNRQTY1Y3lMYmQ5WGF5aWVlN3UySGZ3THFhY3phNXpQTWFSZ0RVRldwckFMQkFDU0RjVVE1NHVOdDE3dW9NaWMtWl93aEItWEp4NVFmeW03ZWt2bnRhU3NfZTU2d2FBcEZBWEpiQURzb1RsUjRmT0t3TWZXdjV5MjQ1OGcwVVFkUDg3VWUyYUotS1JzSFg3aW5VeUIydlkxMmFqV2VSQnZ1UkxybkQ4",
+  "snippet": "Five Convicted in $1.5 Million Philadelphia Cargo Theft Ring MyChesCo",
+  "published": "2026-11-22T13:11:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T13:21:06.926754+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.mychesco.com/a/news/social-issues/crime-safety/five-convicted-in-1-5-million-philadelphia-cargo-theft-ring/",
+  "source_note": "ok · 430 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "fd9b98858f9640d6",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-22T13:21:06.926754+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "federal jury convicted five Philadelphia men Thursday"
+   },
+   {
+    "sentence": "2",
+    "quote": "commercial refrigerators, frozen crab legs, televisions"
+   },
+   {
+    "sentence": "3",
+    "quote": "Federal authorities estimated that the conspiracy resulted in losses exceeding $1.5 million"
+   },
+   {
+    "sentence": "4",
+    "quote": "breaking into unattended trailers, including those parked overnight while drivers slept"
+   },
+   {
+    "sentence": "5",
+    "quote": "conspirators attacked and injured the driver"
+   },
+   {
+    "sentence": "6",
+    "quote": "previously pleaded guilty to participating in the conspiracy"
+   },
+   {
+    "sentence": "7",
+    "quote": "are scheduled for sentencing in March and April 2027"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: \"according to the u.s. attorney's office for the eastern district of pe\""
+  ],
+  "ai_category": "other",
+  "ai_importance": 55
+ },
+ {
+  "id": "6c414927fe",
+  "slug": "truck-drivers-strike-across-iran-over-economic-hardship-6c414927fe",
+  "title": "Truck drivers strike across Iran over economic hardship",
+  "orig_title": "Truck drivers strike across Iran over economic hardship",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Iran International",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01Z01UWU45djBaeHpmYVFtM0dnSlp1RGVhTVBSckE2XzN6SUl6OUNZOUhkNW00M0ZXZlRuRlRfT3A4VGp3T09CcE1remtKRVlqdnc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01Z01UWU45djBaeHpmYVFtM0dnSlp1RGVhTVBSckE2XzN6SUl6OUNZOUhkNW00M0ZXZlRuRlRfT3A4VGp3T09CcE1remtKRVlqdnc",
+  "snippet": "Truck drivers strike across Iran over economic hardship Iran International",
+  "published": "2026-11-22T12:47:08+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T13:21:06.926754+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b919f506c3",
   "slug": "tampered-air-brakes-stash-houses-inside-22-5-million-california-train-b919f506c3",
   "title": "Tampered air brakes, stash houses: Inside $22.5 million California train heist bust",
@@ -36064,35 +36165,6 @@
   "dup_of": "db9d583df8"
  },
  {
-  "id": "8a00506a17",
-  "slug": "gp-transco-enhances-award-winning-planning-technology-8a00506a17",
-  "title": "GP Transco enhances award-winning planning technology",
-  "orig_title": "GP Transco enhances award-winning planning technology",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Commercial Carrier Journal",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmFxcF9VV0owM21vdlhrekZXbl8ycnljWlFmWHhzRURyRXc0SG5naFpuRW1iM3ZiUEp1eTVoUmtOS2wxa1hPVU01cFd5S0pONDVWYWdJbkpQZjlrUDNMRDBVbjB1eW55LXd6d29pZnhQZ09GZFhTTEgxQk5WeTRtQ21PcS0ySjJDNTRKY29ONmNvSEkxLVl4cUxROEMwZzU5Mjd1VGRJVk9GUmNNaTA2Yg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmFxcF9VV0owM21vdlhrekZXbl8ycnljWlFmWHhzRURyRXc0SG5naFpuRW1iM3ZiUEp1eTVoUmtOS2wxa1hPVU01cFd5S0pONDVWYWdJbkpQZjlrUDNMRDBVbjB1eW55LXd6d29pZnhQZ09GZFhTTEgxQk5WeTRtQ21PcS0ySjJDNTRKY29ONmNvSEkxLVl4cUxROEMwZzU5Mjd1VGRJVk9GUmNNaTA2Yg",
-  "snippet": "GP Transco enhances award-winning planning technology Commercial Carrier Journal",
-  "published": "2026-11-18T12:50:22+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T13:21:05.003053+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
- },
- {
   "id": "17f51d20b5",
   "slug": "canoe-trio-arrives-in-vancouver-marking-end-of-8-000-kilometre-cross-c-17f51d20b5",
   "title": "Canoe trio arrives in Vancouver, marking end of 8,000-kilometre cross-Canada journey",
@@ -38702,35 +38774,6 @@
   "published": "2026-11-17T22:30:13+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T09:11:05.069694+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "dac537a78a",
-  "slug": "charity-march-of-dimes-canada-changes-its-name-to-disability-can-dac537a78a",
-  "title": "Charity March of Dimes Canada changes its name to Disability Can",
-  "orig_title": "Charity March of Dimes Canada changes its name to Disability Can",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "thecanadianpressnews.ca",
-  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRVlsV2R3bF82Z2lFczF3Q2N4dXp2TWZXOUN0aFdsNHFKNUZvOEgxWnQ5TkNEYTNNY2NsZ0lWVTkzYzhVZmxMX2xlVkM1TURHMFN2QnREMDUxeFBOeDA1ZVdKTWc3YlRjc3ZtZnBmZUFsd19aemJMdUVuYkFOekk5d002WTRXaFIxNm5HUFNRbENkaUFPdmZZRWVwUnJaMkhVWmx5eXNldG9TZ0ZHRWxmTjd5dnluaDdSc1hKelBIcGRDNkxGank4NkFCTERNdGlxVW5NVkotVjZONG9XbmNLLVVxTmU2Vlh6aHZ6VWNrWmY?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRVlsV2R3bF82Z2lFczF3Q2N4dXp2TWZXOUN0aFdsNHFKNUZvOEgxWnQ5TkNEYTNNY2NsZ0lWVTkzYzhVZmxMX2xlVkM1TURHMFN2QnREMDUxeFBOeDA1ZVdKTWc3YlRjc3ZtZnBmZUFsd19aemJMdUVuYkFOekk5d002WTRXaFIxNm5HUFNRbENkaUFPdmZZRWVwUnJaMkhVWmx5eXNldG9TZ0ZHRWxmTjd5dnluaDdSc1hKelBIcGRDNkxGank4NkFCTERNdGlxVW5NVkotVjZONG9XbmNLLVVxTmU2Vlh6aHZ6VWNrWmY",
-  "snippet": "Charity March of Dimes Canada changes its name to Disability Can thecanadianpressnews.ca",
-  "published": "2026-11-17T22:20:36+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T13:21:05.003053+00:00",
   "image": "",
   "ai": false,
   "lang": "en",

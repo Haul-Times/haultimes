@@ -4457,7 +4457,8 @@
   "a9b17e458a": "skipped|importance 55 is below this platform's threshold (65)",
   "7737447226": "skipped|importance 55 is below this platform's threshold (65)",
   "b4a5097484": "skipped|importance 50 is below this platform's threshold (65)",
-  "72339a475b": "queued|importance 80 (threshold 65), Drivers & Jobs, trade publication"
+  "72339a475b": "queued|importance 80 (threshold 65), Drivers & Jobs, trade publication",
+  "ef1c11a5c8": "skipped|importance 63 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9450,6 +9451,13 @@
    "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
    "action": "queued",
    "reason": "importance 80 (threshold 65), Drivers & Jobs, trade publication"
+  },
+  {
+   "at": "2026-11-22T13:21:59.485573+00:00",
+   "story_id": "ef1c11a5c8",
+   "title": "Five Convicted in $1.5 Million Philadelphia Cargo Theft Ring",
+   "action": "skipped",
+   "reason": "importance 63 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
