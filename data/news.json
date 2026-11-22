@@ -783,6 +783,36 @@
   "sum_pending": false
  },
  {
+  "id": "8fa6b46a4d",
+  "slug": "los-angeles-police-arrest-14-suspects-in-22-5-million-cargo-theft-inve-8fa6b46a4d",
+  "title": "Los Angeles Police Arrest 14 Suspects in $22.5 Million Cargo Theft Investigation in Southern California",
+  "orig_title": "Los Angeles Police Arrest 14 Suspects in $22.5 Million Cargo Theft Investigation in Southern California",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 63,
+  "source": "Sierra Sun Times",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNX1YxYklaWC1ZMDJIelhONFlwVGZ4RHBOZWtJWllHVzBNdzBxejZmMmdFZ3VfTGFXSGZmU2NRNzA0NkpreFVpeFZMV1E2NlFKQk9MU2llSjdmYk1ucG5icEo5V21BbDQwLUw4anlSbTducWZTWWhkS1BFYVk3OW5nWmZTcWdSYVRmTElnSGp6SW56N241TmVKd05KVHF2dkhBaEw2aG9tRUFXT3ItaC1FTTVZalhWY2NVT0xDWWNCMkc4b0NseGhkcFgzUk9mVjVreXZSVDM3RDhBNG1sbFU2OVhDNld0cUgwcEFwdkE0RERoQkh4WWNBeUhSZWs4R1Npa0kw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNX1YxYklaWC1ZMDJIelhONFlwVGZ4RHBOZWtJWllHVzBNdzBxejZmMmdFZ3VfTGFXSGZmU2NRNzA0NkpreFVpeFZMV1E2NlFKQk9MU2llSjdmYk1ucG5icEo5V21BbDQwLUw4anlSbTducWZTWWhkS1BFYVk3OW5nWmZTcWdSYVRmTElnSGp6SW56N241TmVKd05KVHF2dkhBaEw2aG9tRUFXT3ItaC1FTTVZalhWY2NVT0xDWWNCMkc4b0NseGhkcFgzUk9mVjVreXZSVDM3RDhBNG1sbFU2OVhDNld0cUgwcEFwdkE0RERoQkh4WWNBeUhSZWs4R1Npa0kw",
+  "snippet": "Los Angeles Police Arrest 14 Suspects in $22.5 Million Cargo Theft Investigation in Southern California Sierra Sun Times",
+  "published": "2026-11-21T13:19:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T04:01:01.981151+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Paraná Civil Police arrests 13 suspects for belonging to a gang involved in cargo theft an"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "3013e70790"
+ },
+ {
   "id": "ffd358f268",
   "slug": "report-flags-criminal-networks-exploiting-indian-origin-punjabi-youth-ffd358f268",
   "title": "Report flags criminal networks exploiting Indian-origin Punjabi youth in Canada",
