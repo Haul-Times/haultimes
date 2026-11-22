@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:31:03.030303+00:00",
+ "updated": "2026-11-22T06:41:09.858380+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:26:59",
+    "updated": "01:37:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:17 am EST",
+    "updated": "At 1:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -276,7 +276,7 @@
     ],
     "north": [
      5,
-     5,
+     4,
      7,
      1,
      0,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:17 am EST",
+    "updated": "At 1:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:26:59",
+    "updated": "01:37:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:26:59",
+    "updated": "01:37:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "01:26:59",
+    "updated": "01:37:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -826,7 +826,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 6 AM",
+   "best_south": "Usually fastest around 1 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "01:26:59",
+    "updated": "01:37:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:26:59",
+    "updated": "00:37:00",
     "hours": "24 hrs/day"
    },
    "north": {
