@@ -3532,6 +3532,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "72339a475b": {
+   "story_id": "72339a475b",
+   "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
+   "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWU5rX1BTczQ3ODRNY1hUUHVWd3Bac0kyaUd3eldINjJDS1d0VXpXZGJRcThwTHJmcUI5SG9zVTB3cTBnOUlnQk9tMTFiTTdmYXNfM0NiRnU4Zy00ZkJFQ0huZzhaWFAwRGlWMU1EVXI1b2RoamltMjJyQ283QlJkRVBiaUFsNVZvM1JHOFdtUC03TFdRRE1hYVd3UWRtUmN6RU5DVHVwd1dRcGhSV255Z3ZXUWtsSFU2VE9uOERpWXJPQQ",
+   "category": "drivers",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/borderlands-mexico-truckers-secure-29-agreements-on-highway-safety-aft-72339a475b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=72339a475b",
+   "caption": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
+   "status": "queued",
+   "created_at": "2026-11-22T12:11:33.459395+00:00",
+   "published": "2026-11-22T12:00:00+00:00",
+   "score": 80,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/2d995b78b6.png",
+    "og:url": "https://haultimes.com/story/borderlands-mexico-truckers-secure-29-agreements-on-highway-safety-aft-72339a475b/"
+   },
+   "reason": "importance 80 (threshold 65), Drivers & Jobs, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -4428,7 +4456,8 @@
   "c30d35c995": "skipped|importance 45 is below this platform's threshold (65)",
   "a9b17e458a": "skipped|importance 55 is below this platform's threshold (65)",
   "7737447226": "skipped|importance 55 is below this platform's threshold (65)",
-  "b4a5097484": "skipped|importance 50 is below this platform's threshold (65)"
+  "b4a5097484": "skipped|importance 50 is below this platform's threshold (65)",
+  "72339a475b": "queued|importance 80 (threshold 65), Drivers & Jobs, trade publication"
  },
  "decisions": [
   {
@@ -9414,6 +9443,13 @@
    "title": "Road Truckers: New Beginning PC Release Window Set for Q1 2027",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-22T12:11:33.459395+00:00",
+   "story_id": "72339a475b",
+   "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
+   "action": "queued",
+   "reason": "importance 80 (threshold 65), Drivers & Jobs, trade publication"
   }
  ],
  "visibility": {
