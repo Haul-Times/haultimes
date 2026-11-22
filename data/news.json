@@ -75,6 +75,35 @@
   "sum_v3": true
  },
  {
+  "id": "3ba7100ea0",
+  "slug": "truckers-strike-blackouts-spread-as-blockade-pushes-iran-to-the-brink-3ba7100ea0",
+  "title": "Truckers strike, blackouts spread as blockade pushes Iran to the brink",
+  "orig_title": "Truckers strike, blackouts spread as blockade pushes Iran to the brink",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Israel Hayom",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE9sOGE2QzhJZlVrSWJsT0ZZcHp1ZGZaYTM3TGloZTV0cWo2T0tXLTZrYmtmQ0xEQXpfUGRlNURtNFNhM1Q2VEZUQzhqbWVKdHZNajNxekJxSTJpZUtLbU1YNTJqNFVaWUJmR2pqekI5OHFFc2FYTnlSeFduNElfMzJUdHFuZm54QlRTV3c5Z0JWeFNKZlJ1M1NISmhrNUxwVGJjNjdZeEx5SXpNUmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE9sOGE2QzhJZlVrSWJsT0ZZcHp1ZGZaYTM3TGloZTV0cWo2T0tXLTZrYmtmQ0xEQXpfUGRlNURtNFNhM1Q2VEZUQzhqbWVKdHZNajNxekJxSTJpZUtLbU1YNTJqNFVaWUJmR2pqekI5OHFFc2FYTnlSeFduNElfMzJUdHFuZm54QlRTV3c5Z0JWeFNKZlJ1M1NISmhrNUxwVGJjNjdZeEx5SXpNUmc",
+  "snippet": "Truckers strike, blackouts spread as blockade pushes Iran to the brink Israel Hayom",
+  "published": "2026-11-22T13:25:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T14:31:02.234070+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ef1c11a5c8",
   "slug": "five-convicted-in-1-5-million-philadelphia-cargo-theft-ring-ef1c11a5c8",
   "title": "Five Convicted in $1.5 Million Philadelphia Cargo Theft Ring",
@@ -2898,6 +2927,35 @@
   "sum_pending": false
  },
  {
+  "id": "bc121bb403",
+  "slug": "battery-material-handling-equipment-market-to-2035-e-commerce-and-auto-bc121bb403",
+  "title": "Battery Material Handling Equipment Market To 2035: E-Commerce and Automation Drive Growth - News and Statistics",
+  "orig_title": "Battery Material Handling Equipment Market To 2035: E-Commerce and Automation Drive Growth - News and Statistics",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1pDVXI5ekJoVnBrd2s4cUNUX1psZWx0YWpuZTYyVy1vdVdDRXdTWHJMaWJ0UERxLUFSc1NyZ3F2TVhRdTJWOVYwOFFyLTJoZ2pHcHdyQVA4YUVQVktCQm5sYTBaempUYldvcDFhTVdNd0RCSmlQdVEzWUNCd1J6ckg4TjZ0TDdhenJ3U3hmbk9mVmhzMVlkTm9Rb3N2U0dKdFRUT1JHZ1kyZERyVmdXZ3YxcWw4NVBZUmJmLVJxcjdLUjBoUmowQ3ZEbHBvaDlXaXlaZGdVRU5LYUp3R0NsWQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1pDVXI5ekJoVnBrd2s4cUNUX1psZWx0YWpuZTYyVy1vdVdDRXdTWHJMaWJ0UERxLUFSc1NyZ3F2TVhRdTJWOVYwOFFyLTJoZ2pHcHdyQVA4YUVQVktCQm5sYTBaempUYldvcDFhTVdNd0RCSmlQdVEzWUNCd1J6ckg4TjZ0TDdhenJ3U3hmbk9mVmhzMVlkTm9Rb3N2U0dKdFRUT1JHZ1kyZERyVmdXZ3YxcWw4NVBZUmJmLVJxcjdLUjBoUmowQ3ZEbHBvaDlXaXlaZGdVRU5LYUp3R0NsWQ",
+  "snippet": "Battery Material Handling Equipment Market To 2035: E-Commerce and Automation Drive Growth - News and Statistics IndexBox",
+  "published": "2026-11-20T23:06:04+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T14:31:02.234070+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "market-research sales page"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "35df32a91a",
   "slug": "aught-on-camera-14-men-charged-in-22-million-cargo-theft-operation-tar-35df32a91a",
   "title": "aught on camera | 14 men charged in $22 million cargo theft operation targeting California trains",
@@ -3808,6 +3866,75 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "241e56f2fc",
+  "slug": "ata-praises-restoration-of-labor-protections-for-owner-operators-241e56f2fc",
+  "title": "ATA praises restoration of labor protections for owner-operators",
+  "orig_title": "ATA praises restoration of labor protections for owner-operators",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 50,
+  "source": "Logistics Management",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDhSVjB6STQ4RkVEV2c5ai1SRUdIc0lHOUdYeXowdkhGbDRFZ2pvRXdmYjBVcU5TUHR1T0ctd25KbWs3aXFfR2VkemVBdEZtZGFvSVB4ajhERVRVZmNGMUlabk1xZGVfa2Z6NENWWi04Sm15VUNpN2c1WkJ6TWNRTnRJQXVXSVpSNllFT0oyOWNRRTFQTGJUbDBMQ2ZGeTVwT295eQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDhSVjB6STQ4RkVEV2c5ai1SRUdIc0lHOUdYeXowdkhGbDRFZ2pvRXdmYjBVcU5TUHR1T0ctd25KbWs3aXFfR2VkemVBdEZtZGFvSVB4ajhERVRVZmNGMUlabk1xZGVfa2Z6NENWWi04Sm15VUNpN2c1WkJ6TWNRTnRJQXVXSVpSNllFT0oyOWNRRTFQTGJUbDBMQ2ZGeTVwT295eQ",
+  "snippet": "ATA praises restoration of labor protections for owner-operators Logistics Management",
+  "published": "2026-11-20T20:47:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T14:31:02.234070+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.logisticsmgmt.com/article/ata_praises_restoration_of_labor_protections_for_owner_operators",
+  "source_note": "ok · 410 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "7c07f36b894b33d3",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-22T14:31:02.234070+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "A final independent contractor rule issued by Labor Department"
+   },
+   {
+    "sentence": "2",
+    "quote": "over 350,000 independent truckers"
+   },
+   {
+    "sentence": "3",
+    "quote": "restoration of the first Trump Administration’s definition for independent contractors"
+   },
+   {
+    "sentence": "4",
+    "quote": "received more than 16,000 comments during a 60-day comment period"
+   },
+   {
+    "sentence": "5",
+    "quote": "I want to thank (Labor) Secretary (Keith) Sonderling"
+   },
+   {
+    "sentence": "6",
+    "quote": "Being an independent contractor gives me the power to choose my own routes"
+   }
+  ],
+  "sum_problems": [
+   "name 'The Labor Department' is not in the source",
+   "name 'Labor Secretary Keith Sonderling' is not in the source"
+  ],
+  "ai_category": "regs",
+  "ai_importance": 58
  },
  {
   "id": "5cbd542be1",
@@ -8549,6 +8676,79 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "80df7fbced",
+  "slug": "five-good-things-fleet-donations-and-driver-actions-make-a-lasting-imp-80df7fbced",
+  "title": "Five Good Things: Fleet donations and driver actions make a lasting impact",
+  "orig_title": "Five Good Things: Fleet donations and driver actions make a lasting impact",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 55,
+  "source": "FleetOwner",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd2Q1Y0J1LW11anpKcGxLak1xS3FWVnZIV0pscC13aklweGpYMXZUUjc1SXpJc29IcHh2MEtmaGlYcXJXZzhRTjNsR0tEVC10TnBBOWRlVWFEQUoyYU9GdWhOVU05Y0ExanQ3c2k0VVNwbEhQSGtwU3M4MEJ1dnhjNFFYRFZGcmd6djdnM0Y4NmQ1aDBJcnJRYVo4VlNLV3BhbjMwNnVkODdQbXlPLWpZOHJDWDRzdDkwZFBJQ2N5V2JFRVg1RUJtVkZEWXJLdWdLQjZLWWJVaTNHMHNFTlNUZ0ttbF9yOHR0R0p2aU5RcXdiT3RUMHRkNjdn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd2Q1Y0J1LW11anpKcGxLak1xS3FWVnZIV0pscC13aklweGpYMXZUUjc1SXpJc29IcHh2MEtmaGlYcXJXZzhRTjNsR0tEVC10TnBBOWRlVWFEQUoyYU9GdWhOVU05Y0ExanQ3c2k0VVNwbEhQSGtwU3M4MEJ1dnhjNFFYRFZGcmd6djdnM0Y4NmQ1aDBJcnJRYVo4VlNLV3BhbjMwNnVkODdQbXlPLWpZOHJDWDRzdDkwZFBJQ2N5V2JFRVg1RUJtVkZEWXJLdWdLQjZLWWJVaTNHMHNFTlNUZ0ttbF9yOHR0R0p2aU5RcXdiT3RUMHRkNjdn",
+  "snippet": "Five Good Things: Fleet donations and driver actions make a lasting impact FleetOwner",
+  "published": "2026-11-20T15:40:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T14:31:02.234070+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/perspectives/five-good-things/blog/55420338/trucking-companies-support-diesel-technician-training-driver-recognition-and-community-outreach",
+  "source_note": "ok · 1287 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "95bfa13fcf41e2e8",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-22T14:31:02.234070+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "companies and drivers are giving back through equipment donations"
+   },
+   {
+    "sentence": "2",
+    "quote": "Transervice employees are supporting Book Fairies for the 8th consecutive year"
+   },
+   {
+    "sentence": "3",
+    "quote": "Advantage Truck Group (ATG) recently donated a 2011 Freightliner Cascadia truck"
+   },
+   {
+    "sentence": "4",
+    "quote": "Wreaths Across America (WAA) recently recognized McGuire Moving and Storage as the 10th recipient"
+   },
+   {
+    "sentence": "5",
+    "quote": "This year, McGuire plans to ship 11,034 boxes"
+   },
+   {
+    "sentence": "6",
+    "quote": "The Truckload Carriers Association (TCA) recently named Joss Grieb of Running Bear Motor Lines"
+   },
+   {
+    "sentence": "7",
+    "quote": "The nomination period for the Fleetio ASE Scholarship Program is from November 10 through December 1."
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 8,
+  "ai_relevant": false
  },
  {
   "id": "1788d3d0db",
@@ -36853,35 +37053,6 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 35
- },
- {
-  "id": "8e9e9d88aa",
-  "slug": "kion-stock-faces-supervisory-board-chair-change-at-year-end-8e9e9d88aa",
-  "title": "KION stock faces supervisory board chair change at year-end",
-  "orig_title": "KION stock faces supervisory board chair change at year-end",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "ad-hoc-news.de",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamJ3ZGE5N0ZEWWVfNWZsSDJJcEVGOGJuOVlCVEdQbnQ0dVVJRFZUcGNTU3pSVFEyMDRTNU9uWUtHeDFmb3NRNkIyZUlOeFNoNjlOTjU1Q3J4bjB1Y1BUSGlnQWY2NXBKWm5PZzRKMm50VVZNbExmTkFvckM1X1p5LVpnYzFuUHBGU2VPWTI5NnZLR0ZoR3Rna3EwYVdFenY4Vk5paklRWU9sRkdZclowOU9vS05Ob3BlN3pNV3F6RQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamJ3ZGE5N0ZEWWVfNWZsSDJJcEVGOGJuOVlCVEdQbnQ0dVVJRFZUcGNTU3pSVFEyMDRTNU9uWUtHeDFmb3NRNkIyZUlOeFNoNjlOTjU1Q3J4bjB1Y1BUSGlnQWY2NXBKWm5PZzRKMm50VVZNbExmTkFvckM1X1p5LVpnYzFuUHBGU2VPWTI5NnZLR0ZoR3Rna3EwYVdFenY4Vk5paklRWU9sRkdZclowOU9vS05Ob3BlN3pNV3F6RQ",
-  "snippet": "KION stock faces supervisory board chair change at year-end ad-hoc-news.de",
-  "published": "2026-11-18T11:02:47+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T14:21:20.703973+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "79d5567719",
