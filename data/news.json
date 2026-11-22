@@ -484,6 +484,35 @@
   "sum_pending": false
  },
  {
+  "id": "10b8fc5c74",
+  "slug": "gta-6-june-warehouse-key-valuable-locations-10b8fc5c74",
+  "title": "GTA 6: June Warehouse Key Valuable Locations",
+  "orig_title": "GTA 6: June Warehouse Key Valuable Locations",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "GameRant",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rNjJfb3Q0Tk45cHFYSHBTV1hLbFQxRHQxMTBwWldvWDQ5M0VsWnB6SG1nUlB0Ry0tdWJzTTROdW83VXRpMXdEMHJZRU1KNkxMbUV4cVBTOVIwZjFaV056N1JmbmdMckNfQ2JBMlJWdURiWW8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rNjJfb3Q0Tk45cHFYSHBTV1hLbFQxRHQxMTBwWldvWDQ5M0VsWnB6SG1nUlB0Ry0tdWJzTTROdW83VXRpMXdEMHJZRU1KNkxMbUV4cVBTOVIwZjFaV056N1JmbmdMckNfQ2JBMlJWdURiWW8",
+  "snippet": "GTA 6: June Warehouse Key Valuable Locations GameRant",
+  "published": "2026-11-22T13:15:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-22T19:41:11.879597+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ef1c11a5c8",
   "slug": "five-convicted-in-1-5-million-philadelphia-cargo-theft-ring-ef1c11a5c8",
   "title": "Five Convicted in $1.5 Million Philadelphia Cargo Theft Ring",
@@ -32097,36 +32126,6 @@
   "labels": [],
   "kind": "review",
   "sum_pending": false
- },
- {
-  "id": "8b75c67a4c",
-  "slug": "trucker-bathroom-access-act-clears-senate-committee-8b75c67a4c",
-  "title": "Trucker Bathroom Access Act clears Senate committee",
-  "orig_title": "Trucker Bathroom Access Act clears Senate committee",
-  "summary": "",
-  "why": "",
-  "category": "regs",
-  "region": "",
-  "importance": 67,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbnRfSjBXUGNQXzNJcHBfbHFXME5NLXZKOGZDSG1zckNFeDlEUXlkVUlsLTlfOGhDZWJBTHg5MFQzb1BBYUQwbVZJNDhoMVRwSWFWdzBSdkd1NFlZU1NwbS04RnhPQ1o4T2doOENUVTNObDdCdW9BVGhvZ0ZoYjhxZXVRQnhUZVBvUVQybmRHcVJ0QksyWHdUYV96b3B2dWJ4dUpNZVZn?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbnRfSjBXUGNQXzNJcHBfbHFXME5NLXZKOGZDSG1zckNFeDlEUXlkVUlsLTlfOGhDZWJBTHg5MFQzb1BBYUQwbVZJNDhoMVRwSWFWdzBSdkd1NFlZU1NwbS04RnhPQ1o4T2doOENUVTNObDdCdW9BVGhvZ0ZoYjhxZXVRQnhUZVBvUVQybmRHcVJ0QksyWHdUYV96b3B2dWJ4dUpNZVZn",
-  "snippet": "Trucker Bathroom Access Act clears Senate committee Truck News",
-  "published": "2026-11-18T19:34:35+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-18T19:41:05.208545+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Trucker Bathroom Access Act Clears Key Hurdle"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "e02a7f096a"
  },
  {
   "id": "571019ebe0",
