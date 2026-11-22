@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:51:04.129004+00:00",
- "hour_now": 3,
+ "updated": "2026-11-22T09:01:06.233406+00:00",
+ "hour_now": 4,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -28,7 +28,7 @@
      0,
      0,
      4,
-     0,
+     1,
      0,
      0,
      0,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 5:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 4:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:37 am EST",
+    "updated": "At 3:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -279,7 +279,7 @@
      4,
      5,
      2,
-     0,
+     1,
      1,
      4,
      5,
@@ -302,7 +302,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 4 AM"
+   "best_north": "Usually fastest around 5 AM"
   },
   {
    "id": "lewiston",
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:37 am EST",
+    "updated": "At 3:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -403,7 +403,7 @@
      null,
      null,
      0,
-     null,
+     0,
      null,
      null,
      null,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "03:42:19",
+    "updated": "03:57:21",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -778,7 +778,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "03:42:19",
+    "updated": "03:57:21",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:42:19",
+    "updated": "02:57:21",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 am MST",
+    "updated": "At 2:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1322,7 +1322,7 @@
      6,
      11,
      14,
-     8,
+     7,
      5,
      5,
      7,
@@ -1353,11 +1353,11 @@
    "ports": "Sumas, WA ↔ Abbotsford, BC",
    "region": "bc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:42:19",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1397,7 +1397,7 @@
      0,
      0,
      0,
-     null,
+     0,
      null,
      null,
      null,
