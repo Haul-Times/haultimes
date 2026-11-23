@@ -3799,6 +3799,34 @@
     "created": "2026-11-23T20:31:38+0000",
     "at": "2026-11-23T20:41:33.854469+00:00"
    }
+  },
+  "192046fba0": {
+   "story_id": "192046fba0",
+   "title": "Five petitions to FMCSA to allow non-domiciled CDL renewals",
+   "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjh6YUJqWDJGMEtsQ0IyYzYwMDhVaGNzUHNZTmJaeFp6Z1prSmotNUlwR3VHWFIxTnhEMUJfZGNTVWdHSHdza3pWb0o2S19nNHY0VjVsRmhjX0h4cnQ5NER6d1ZOV2c3U1hibEMwNGVwVWZYS2ZidGtoRTA3c1QzMEtzN2ZXMlFkS3Y1VDE5MXBFSnJfMjAwMS1hUEdGZk5fVGVNb1JmZUVpM2RDOE9aQldhT1lYdm9aeWRV",
+   "category": "regs",
+   "source": "eTrucker",
+   "dest": "https://haultimes.com/story/five-petitions-to-fmcsa-to-allow-non-domiciled-cdl-renewals-192046fba0/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=192046fba0",
+   "caption": "Five petitions to FMCSA to allow non-domiciled CDL renewals.\n\nReported by eTrucker. The link has the details and the original article.\n\n#Trucking #FMCSA #TruckDrivers #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-23T21:51:24.241537+00:00",
+   "published": "2026-11-23T21:22:30+00:00",
+   "score": 82,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Five petitions to FMCSA to allow non-domiciled CDL renewals | HaulTimes",
+    "og:description": "Reported by eTrucker. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/cf07e864a7.png",
+    "og:url": "https://haultimes.com/story/five-petitions-to-fmcsa-to-allow-non-domiciled-cdl-renewals-192046fba0/"
+   },
+   "reason": "importance 82 (threshold 65), Regulations, established outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -4772,7 +4800,8 @@
   "6d6c3a6cad": "skipped|minor item (incident) or low-quality source",
   "c9bccac913": "skipped|importance 45 is below this platform's threshold (65)",
   "2f8cd12b98": "skipped|importance 55 is below this platform's threshold (65)",
-  "182ae7741c": "skipped|minor item (announcement) or low-quality source"
+  "182ae7741c": "skipped|minor item (announcement) or low-quality source",
+  "192046fba0": "queued|importance 82 (threshold 65), Regulations, established outlet"
  },
  "decisions": [
   {
@@ -10185,6 +10214,13 @@
    "title": "Vintage Modern Expands Beyond Modern Classic Trucks With Handcrafted Fastback",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-23T21:51:24.241537+00:00",
+   "story_id": "192046fba0",
+   "title": "Five petitions to FMCSA to allow non-domiciled CDL renewals",
+   "action": "queued",
+   "reason": "importance 82 (threshold 65), Regulations, established outlet"
   }
  ],
  "visibility": {
