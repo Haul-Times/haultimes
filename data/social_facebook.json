@@ -4581,7 +4581,8 @@
   "54057a3622": "skipped|importance 57 is below this platform's threshold (65)",
   "e36435843d": "skipped|importance 55 is below this platform's threshold (65)",
   "2a8865c284": "skipped|importance 55 is below this platform's threshold (65)",
-  "a97d84953b": "skipped|importance 55 is below this platform's threshold (65)"
+  "a97d84953b": "skipped|importance 55 is below this platform's threshold (65)",
+  "2df07d65e7": "skipped|minor item (event) or low-quality source"
  },
  "decisions": [
   {
@@ -9805,6 +9806,13 @@
    "title": "E&O One orders 375 Volvo VNLs to expand all-Volvo fleet",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T16:01:35.599830+00:00",
+   "story_id": "2df07d65e7",
+   "title": "TCA seeks nominations for 2027 Professional Drivers of the Year awards",
+   "action": "skipped",
+   "reason": "minor item (event) or low-quality source"
   }
  ],
  "visibility": {
