@@ -4572,7 +4572,10 @@
   "c7a489c6f2": "skipped|minor item (press_release) or low-quality source",
   "f31a1965c1": "skipped|importance 61 is below this platform's threshold (65)",
   "2b9d179882": "skipped|importance 61 is below this platform's threshold (65)",
-  "09ce2fe03a": "skipped|importance 55 is below this platform's threshold (65)"
+  "09ce2fe03a": "skipped|importance 55 is below this platform's threshold (65)",
+  "dc395f2503": "skipped|importance 61 is below this platform's threshold (65)",
+  "0023dcd618": "skipped|importance 57 is below this platform's threshold (65)",
+  "0822dfda88": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9726,6 +9729,27 @@
    "title": "C.H. Robinson: no evidence of racketeering, wants RICO case moved",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:11:23.033885+00:00",
+   "story_id": "dc395f2503",
+   "title": "Small US trucking firms scramble to survive mounting diesel costs",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:11:23.033885+00:00",
+   "story_id": "0023dcd618",
+   "title": "Circle Logistics Lines Up Holiday Capacity for Beverage Brands as Trucks Tighten",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:11:23.033885+00:00",
+   "story_id": "0822dfda88",
+   "title": "Truckload Carriers Open 2027 Bids Asking for Double Digits",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
