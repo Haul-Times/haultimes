@@ -4584,7 +4584,10 @@
   "a97d84953b": "skipped|importance 55 is below this platform's threshold (65)",
   "2df07d65e7": "skipped|minor item (event) or low-quality source",
   "76f408f01c": "skipped|importance 55 is below this platform's threshold (65)",
-  "1fa516b8ee": "skipped|importance 61 is below this platform's threshold (65)"
+  "1fa516b8ee": "skipped|importance 61 is below this platform's threshold (65)",
+  "56d3d63577": "skipped|importance 61 is below this platform's threshold (65)",
+  "1923dc73ea": "skipped|importance 55 is below this platform's threshold (65)",
+  "d3b0f4f924": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9829,6 +9832,27 @@
    "title": "U.S. Bank Freight Payment Index: Shipper costs hit five-year high as freight demand stalls",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T17:01:28.701025+00:00",
+   "story_id": "56d3d63577",
+   "title": "Cargo Thieves Are Chasing AI Hardware Down the Dirt Road to the Data Center",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T17:01:28.701025+00:00",
+   "story_id": "1923dc73ea",
+   "title": "AI Should Make Dispatchers Better, Not Replace Them, Says PCS Software’s Villegas",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T17:01:28.701025+00:00",
+   "story_id": "d3b0f4f924",
+   "title": "More than 60 per cent of truck drivers screened at Malaba found with health conditions",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:51:04.312363+00:00",
- "hour_now": 11,
+ "updated": "2026-11-23T17:01:06.727054+00:00",
+ "hour_now": 12,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -36,7 +36,7 @@
      11,
      8,
      6,
-     2,
+     3,
      0,
      2,
      9,
@@ -111,7 +111,7 @@
      0,
      23,
      40,
-     54,
+     53,
      54,
      46,
      42,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 11:37 am EST",
+    "updated": "At 11:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -261,7 +261,7 @@
      3,
      5,
      2,
-     5,
+     4,
      16,
      14,
      23,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 11:37 am EST",
+    "updated": "At 11:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": 0,
-    "lanes": "1",
-    "status": "delay",
-    "updated": "At 11:00 am EST",
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "11:50:04",
+    "updated": "11:55:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1086,7 +1086,7 @@
      20,
      15,
      20,
-     49,
+     45,
      57,
      57,
      57,
@@ -1229,7 +1229,7 @@
      12,
      14,
      7,
-     15,
+     13,
      15,
      15,
      15,
@@ -1304,7 +1304,7 @@
      16,
      23,
      18,
-     29,
+     25,
      0,
      0,
      0,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "08:50:04",
+    "updated": "08:55:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Aldergrove",
