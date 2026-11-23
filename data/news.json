@@ -1,5 +1,34 @@
 [
  {
+  "id": "0970259a9e",
+  "slug": "spar-scotland-invests-over-1million-in-new-truck-fleet-0970259a9e",
+  "title": "Spar Scotland invests over £1million in new truck fleet",
+  "orig_title": "Spar Scotland invests over £1million in new truck fleet",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Scottish Grocer & Convenience Retailer",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGsyMnFKLS1RaVYyWHBTVmRTcmZ2ZDV5ZkN3dnBPZ01VejhPUDJrMFl3cV9zYWRKaWtPaXdZYVRqMjlmUy0yRHhIaklacHQ2ODVPWlhPclg3QzBwNEI0TU9qakN6S2dBQmQ4SjhrdDBpUnBsaFp4M2kyTmZ6QlE0aWE0MkNmb1lmdzVheUFldjBtOG13Y1ozaXRVZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGsyMnFKLS1RaVYyWHBTVmRTcmZ2ZDV5ZkN3dnBPZ01VejhPUDJrMFl3cV9zYWRKaWtPaXdZYVRqMjlmUy0yRHhIaklacHQ2ODVPWlhPclg3QzBwNEI0TU9qakN6S2dBQmQ4SjhrdDBpUnBsaFp4M2kyTmZ6QlE0aWE0MkNmb1lmdzVheUFldjBtOG13Y1ozaXRVZw",
+  "snippet": "Spar Scotland invests over £1million in new truck fleet Scottish Grocer & Convenience Retailer",
+  "published": "2026-11-23T07:44:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T07:51:02.850229+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country (UK/Europe)"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f241d6aadb",
   "slug": "tradlinx-ai-eta-cuts-near-arrival-vessel-logistics-costs-by-15-5-on-av-f241d6aadb",
   "title": "Tradlinx AI-ETA Cuts Near-Arrival Vessel Logistics Costs by 15.5% on Average",
