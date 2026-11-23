@@ -4750,7 +4750,9 @@
   "464a4eec54": "skipped|importance 50 is below this platform's threshold (65)",
   "4bc269dd28": "posted|importance 82 (threshold 65), Rates & Market, established outlet; waited 40 min in queue",
   "f219319f35": "queued|importance 67 (threshold 65), Industry, trade publication",
-  "576658f9e4": "skipped|importance 55 is below this platform's threshold (65)"
+  "576658f9e4": "skipped|importance 55 is below this platform's threshold (65)",
+  "78fd83d3a8": "skipped|importance 55 is below this platform's threshold (65)",
+  "fc2f8d80fb": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10100,6 +10102,20 @@
    "title": "Port truckers face cargo hurdles as imports hit record",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T20:21:49.740492+00:00",
+   "story_id": "78fd83d3a8",
+   "title": "UPCOMING | Mark Colson’s Vision for ATA and Trucking’s Future",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T20:21:49.740492+00:00",
+   "story_id": "fc2f8d80fb",
+   "title": "Colorado Approves Chain-Up Assistance Program for Truckers",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

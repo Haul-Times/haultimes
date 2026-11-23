@@ -1,5 +1,180 @@
 [
  {
+  "id": "78fd83d3a8",
+  "slug": "upcoming-mark-colson-s-vision-for-ata-and-trucking-s-future-78fd83d3a8",
+  "title": "UPCOMING | Mark Colson’s Vision for ATA and Trucking’s Future",
+  "orig_title": "UPCOMING | Mark Colson’s Vision for ATA and Trucking’s Future",
+  "summary": "Mark Colson has started as president and CEO of American Trucking Associations. In a TT Newsmakers video with Seth Clevenger, he is set to discuss his background, his leadership approach and his priorities for his first year at ATA. The conversation will also cover how ATA can strengthen links between national and state associations and build bipartisan backing in Washington. Viewers can return to the Transport Topics page on December 7 to watch the full discussion.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 55,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90VTdnZnZFTnhtenAzcVZjZkVQU3VmVVFQZUo5X3NSWFJWSUtOYmlXWGFLM0JuaEptSlpodjhkTnZRbUF0SnkyNVVzdi00ejVCeHRrV21COXR1M0RVbWZHS2RqZmNIeW5aRkdXSkJ3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90VTdnZnZFTnhtenAzcVZjZkVQU3VmVVFQZUo5X3NSWFJWSUtOYmlXWGFLM0JuaEptSlpodjhkTnZRbUF0SnkyNVVzdi00ejVCeHRrV21COXR1M0RVbWZHS2RqZmNIeW5aRkdXSkJ3",
+  "snippet": "UPCOMING | Mark Colson’s Vision for ATA and Trucking’s Future Transport Topics",
+  "published": "2026-11-23T20:15:07+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T20:21:02.964952+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/videos/mark-colson-ata-trucking-future",
+  "source_note": "ok · 192 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "2805e6e450d7e8a8",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T20:21:02.964952+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Mark Colson begins his tenure as president and CEO of American Trucking Associations"
+   },
+   {
+    "sentence": "2",
+    "quote": "his priorities for his first year leading ATA"
+   },
+   {
+    "sentence": "3",
+    "quote": "strengthen connections between national and state associations"
+   },
+   {
+    "sentence": "4",
+    "quote": "Return to this page on December 7 to watch the full conversation"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 20
+ },
+ {
+  "id": "fc2f8d80fb",
+  "slug": "colorado-approves-chain-up-assistance-program-for-truckers-fc2f8d80fb",
+  "title": "Colorado Approves Chain-Up Assistance Program for Truckers",
+  "orig_title": "Colorado Approves Chain-Up Assistance Program for Truckers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 45,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkdLNV9BMEZTc3M1R09XZXhXN3d5TXYzRUlORkcyemdxZ2hYOEpKT0Zud3NoWjBoTzhIdHdLMi1nZ2p5TVdRVEs0U2pDa2F1aThrS1lTcTVrQkRyYzFRT2w2S05IUExQNVJnLXJia015T0l5SFJrajdoUklPcEY1NW5Lc3A3R1B4aXVFdnNEaE84SV91?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkdLNV9BMEZTc3M1R09XZXhXN3d5TXYzRUlORkcyemdxZ2hYOEpKT0Zud3NoWjBoTzhIdHdLMi1nZ2p5TVdRVEs0U2pDa2F1aThrS1lTcTVrQkRyYzFRT2w2S05IUExQNVJnLXJia015T0l5SFJrajdoUklPcEY1NW5Lc3A3R1B4aXVFdnNEaE84SV91",
+  "snippet": "Colorado Approves Chain-Up Assistance Program for Truckers Wisevoter",
+  "published": "2026-11-23T20:14:03+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T20:21:02.964952+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://wisevoter.com/world/us/co/2026/11/23/colorado-chain-up-assistance-program-truckers",
+  "source_note": "ok · 520 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "61c5c6f97e075689",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T20:21:02.964952+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "unanimously approved a chain-up assistance program this past week"
+   },
+   {
+    "sentence": "2",
+    "quote": "sell approved traction devices and install them for truckers"
+   },
+   {
+    "sentence": "3",
+    "quote": "very few truckers know how to install tire chains"
+   },
+   {
+    "sentence": "4",
+    "quote": "hold at least $1,000,000 in general liability insurance"
+   },
+   {
+    "sentence": "5",
+    "quote": "who signed SB25-069 into law in May 2025"
+   },
+   {
+    "sentence": "6",
+    "quote": "pricing caps for the new services remain undetermined"
+   },
+   {
+    "sentence": "7",
+    "quote": "could issue its first permits by early 2027"
+   }
+  ],
+  "sum_problems": [
+   "name \"Colorado's Transportation Commission\" is not in the source",
+   "copies a 12-word run from the source: 'sell approved traction devices and install them for truckers at chain-'"
+  ],
+  "ai_category": "regs",
+  "ai_importance": 55
+ },
+ {
+  "id": "d231a9176f",
+  "slug": "freightwaves-chicago-roadshow-2027-d231a9176f",
+  "title": "FreightWaves Chicago Roadshow 2027",
+  "orig_title": "FreightWaves Chicago Roadshow 2027",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 55,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwXzRmdEZxbkxHVVBvZkNyWkVMSnpGRXFiQTNnWkRSUzgxcDBJOTAzTVF0UFpkb2VNSkk4ZmtBSWVSY1diaXViZXd1blhpLVRDNTZNRS1fZTlrTzE1RmswNw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwXzRmdEZxbkxHVVBvZkNyWkVMSnpGRXFiQTNnWkRSUzgxcDBJOTAzTVF0UFpkb2VNSkk4ZmtBSWVSY1diaXViZXd1blhpLVRDNTZNRS1fZTlrTzE1RmswNw",
+  "snippet": "FreightWaves Chicago Roadshow 2027 FreightWaves",
+  "published": "2026-11-23T20:11:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T20:21:02.964952+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://live.freightwaves.com/chicago-roadshow-2027",
+  "source_note": "ok · 256 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "eeaec02e9371cfc6",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T20:21:02.964952+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 8,
+  "ai_relevant": false
+ },
+ {
   "id": "4a86efea10",
   "slug": "why-ai-is-paramount-to-optimizing-air-cargo-4a86efea10",
   "title": "Why AI Is Paramount to Optimizing Air Cargo",
