@@ -273,6 +273,35 @@
   "sum_pending": false
  },
  {
+  "id": "d529c074ac",
+  "slug": "opinion-joining-hands-to-create-new-opportunities-for-global-economic-d529c074ac",
+  "title": "[Opinion] Joining hands to create new opportunities for global economic growth",
+  "orig_title": "[Opinion] Joining hands to create new opportunities for global economic growth",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Korea Post",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcWFLQ0hjcFVhNmFwampMc2p0OHJOWmU3MmdjT1ZUSElGYk81V2c1SGk2SW1QdDR3X0p4eTM3Y3JtbktGSWl0QXp4RjRCMDhVRDRlQ0d1Mk1wc2RyeWhoTFJDUFBuZEhjTXfSAW5BVV95cUxNUTRGUjNoeWRwRmV5bTgxclJKSkVDc1RuUjlnajQ4WlFrZWJlT3lTUTdUN2JjUzRoV21fLWF2ZXRyeHdfcTVCQkhoVGs1c2UxLWhrSEtGUDNBSWJ6d3N5aEVRV3pPc3NucnV2bWFWdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcWFLQ0hjcFVhNmFwampMc2p0OHJOWmU3MmdjT1ZUSElGYk81V2c1SGk2SW1QdDR3X0p4eTM3Y3JtbktGSWl0QXp4RjRCMDhVRDRlQ0d1Mk1wc2RyeWhoTFJDUFBuZEhjTXfSAW5BVV95cUxNUTRGUjNoeWRwRmV5bTgxclJKSkVDc1RuUjlnajQ4WlFrZWJlT3lTUTdUN2JjUzRoV21fLWF2ZXRyeHdfcTVCQkhoVGs1c2UxLWhrSEtGUDNBSWJ6d3N5aEVRV3pPc3NucnV2bWFWdw",
+  "snippet": "[Opinion] Joining hands to create new opportunities for global economic growth The Korea Post",
+  "published": "2026-11-23T07:34:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T12:21:05.826922+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f241d6aadb",
   "slug": "tradlinx-ai-eta-cuts-near-arrival-vessel-logistics-costs-by-15-5-on-av-f241d6aadb",
   "title": "Tradlinx AI-ETA Cuts Near-Arrival Vessel Logistics Costs by 15.5% on Average",
@@ -27127,35 +27156,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "27a8dd4c3b",
-  "slug": "news-us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates-27a8dd4c3b",
-  "title": "News US truckers feel the squeeze as fuel price outpaces freight rates",
-  "orig_title": "News US truckers feel the squeeze as fuel price outpaces freight rates",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Loadstar",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMlB3WmJRQXZ3VHhwaFB3ZVduVEVpVnRhNXRuVDdWeFJTeTU5akR3alZtdnN5YlBETzh0Q05rdThXTk5RVWZRQzFJeFc5X1RFYkJ2Wm94aW1CbnQ2eFJIWWJIYXhnM055RDl2S3laeWMzWXdOYjdWNWY5RnNMVlNNTFZLNF82a21BSHdadDYyU1d6QWQt?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMlB3WmJRQXZ3VHhwaFB3ZVduVEVpVnRhNXRuVDdWeFJTeTU5akR3alZtdnN5YlBETzh0Q05rdThXTk5RVWZRQzFJeFc5X1RFYkJ2Wm94aW1CbnQ2eFJIWWJIYXhnM055RDl2S3laeWMzWXdOYjdWNWY5RnNMVlNNTFZLNF82a21BSHdadDYyU1d6QWQt",
-  "snippet": "News US truckers feel the squeeze as fuel price outpaces freight rates The Loadstar",
-  "published": "2026-11-19T12:11:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T12:21:01.888984+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "freight rates for another transport mode"
   ],
   "labels": [],
   "kind": "rejected",
