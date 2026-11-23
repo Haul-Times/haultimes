@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:41:07.346559+00:00",
+ "updated": "2026-11-23T09:51:03.805116+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -28,7 +28,7 @@
      5,
      7,
      6,
-     7,
+     8,
      0,
      5,
      7,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:27 am EST",
+    "updated": "At 4:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 04:20 EST"
+    "updated": "2026-11-23 04:40 EST"
    },
    "usual": {
     "south": [
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:27 am EST",
+    "updated": "At 4:37 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 04:20 EST"
+    "updated": "2026-11-23 04:40 EST"
    },
    "usual": {
     "south": [
@@ -451,7 +451,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 12 PM",
+   "best_south": "Usually fastest around 4 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:33:35",
+    "updated": "04:48:39",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:33:35",
+    "updated": "04:48:39",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:33:35",
+    "updated": "03:48:39",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-23 02:20 PDT"
+    "updated": "2026-11-23 02:40 PDT"
    },
    "usual": {
     "south": [
@@ -1357,13 +1357,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:33:35",
+    "updated": "01:48:39",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Closed",
-    "updated": "2026-11-23 02:20 PDT"
+    "updated": "2026-11-23 02:40 PDT"
    },
    "usual": {
     "south": [
