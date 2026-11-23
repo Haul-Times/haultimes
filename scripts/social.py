@@ -53,11 +53,11 @@ DEFAULTS = {
     "facebook": {"mode": "dry_run", "min_gap_minutes": 90, "hours": [7, 21], "min_score": 70,
                  "max_age_hours": 12, "topic_gap_hours": 4, "breaking_score": 85, "breaking_max_age_hours": 3,
                  "breaking_min_gap_minutes": 10, "house_posts": True, "promo_every_days": 3,
-                 "border_alert_minutes": 90, "settle_minutes": 10},
+                 "border_alert_minutes": 90, "settle_minutes": 10, "max_per_day": 0},
     "x": {"mode": "dry_run", "min_gap_minutes": 30, "hours": [6, 22], "min_score": 60,
           "max_age_hours": 8, "topic_gap_hours": 0, "breaking_score": 85, "breaking_max_age_hours": 3,
                  "breaking_min_gap_minutes": 10, "house_posts": False, "promo_every_days": 3,
-                 "border_alert_minutes": 90, "settle_minutes": 10},
+                 "border_alert_minutes": 90, "settle_minutes": 10, "max_per_day": 0},
 }
 MAX_ATTEMPTS = 5
 
@@ -73,7 +73,7 @@ def load_settings(path=None):
     out = {}
     for p in PLATFORMS:
         cfg = dict(DEFAULTS[p])
-        cfg.update({k: v for k, v in (raw.get(p) or {}).items() if k in DEFAULTS[p]})  # old "max_per_day" is ignored
+        cfg.update({k: v for k, v in (raw.get(p) or {}).items() if k in DEFAULTS[p]})  # unknown keys are ignored
         if cfg["mode"] not in ("off", "dry_run", "live"):
             cfg["mode"] = "dry_run"
         cfg["skip"] = [x for x in (raw.get("skip") or {}).get(p, []) if isinstance(x, str)]
@@ -740,6 +740,13 @@ def next_item(cfg, st, now, open_routine=True, open_breaking=None, platform="x")
     ready = [r for r in st["items"].values() if r["status"] == "queued"
              and (not r.get("next_attempt_at") or datetime.fromisoformat(r["next_attempt_at"]) <= now)]
     forced = [r for r in ready if r["story_id"] in cfg["publish_now"]]
+    cap = cfg.get("max_per_day") or 0
+    if cap and not forced:
+        today = now.astimezone(EASTERN).date()
+        done = sum(1 for r in st["items"].values() if r.get("posted_at")
+                   and datetime.fromisoformat(r["posted_at"]).astimezone(EASTERN).date() == today)
+        if done >= cap:
+            return None  # daily cap reached; Facebook blocks Pages that post too often
     # Give the site time to publish the page and its share image before Facebook reads it.
     settle = timedelta(minutes=cfg.get("settle_minutes") or 0)
     ready = [r for r in ready if now - datetime.fromisoformat(r["created_at"]) >= settle]
@@ -841,6 +848,8 @@ class FacebookClient:
         err = err or {}
         code = err.get("code")
         msg = "Facebook error %s: %s" % (code or status, err.get("message", "")[:200])
+        if code == 368:  # temporary posting block ("we limit how often you can post"): wait a day, keep credentials
+            raise RateLimited(msg, datetime.now(timezone.utc) + timedelta(hours=24))
         if code in (190, 102, 10, 200, 3) or err.get("type") == "OAuthException" and code not in (1, 2, 4, 17, 32, 613):
             raise AuthError(msg)
         if code in (4, 17, 32, 613, 80001) or status == 429:
@@ -1035,6 +1044,10 @@ def run_platform(platform, stories, cfg, st, now, site_dir, client=None, secret_
         log(st, now, "live mode but credentials are missing")
         return "live: credentials missing (see setup notes)"
     fp = token_fingerprint(secret_values)
+    if st.get("paused") and "error 368" in st["paused"].get("reason", "") \
+            and now - datetime.fromisoformat(st["paused"]["at"]) >= timedelta(hours=24):
+        log(st, now, "temporary Facebook posting block (368) is over 24 hours old, resuming")
+        st["paused"] = None
     if st.get("paused"):
         if st["paused"].get("token") and st["paused"]["token"] != fp:
             log(st, now, "new credentials found, resuming")

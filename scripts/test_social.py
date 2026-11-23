@@ -472,7 +472,8 @@ class ApiClients(unittest.TestCase):
         for body, exc in [({"error": {"code": 190, "type": "OAuthException", "message": "expired"}}, so.AuthError),
                           ({"error": {"code": 4, "message": "limit"}}, so.RateLimited),
                           ({"error": {"code": 2, "is_transient": True, "message": "temp"}}, so.Uncertain),
-                          ({"error": {"code": 368, "message": "blocked"}}, so.Permanent)]:
+                          ({"error": {"code": 368, "message": "blocked"}}, so.RateLimited),
+                          ({"error": {"code": 100, "message": "bad link"}}, so.Permanent)]:
             c = so.FacebookClient("123", "TOKEN", lambda *a, b=body, **k: (400, {}, b))
             with self.assertRaises(exc):
                 c.post("Hello", "https://haultimes.com/")
@@ -592,6 +593,15 @@ class HousePosts(unittest.TestCase):
         self.assertEqual(saved["share.json"]["promo-20261110"]["target"], "/freight-market/#chk")
         self.assertEqual(len([f for f in os.listdir(os.path.join(site, "s", "promo-20261110")) if f.endswith(".png")]), 1)
 
+    def test_daily_cap(self):
+        st = so.new_state()
+        for i in range(3):
+            so._house_item(st, NOW - timedelta(hours=3), "done%d" % i, "S", "t", "https://haultimes.com/x/", 90, "promo")
+            st["items"]["done%d" % i].update(status="posted", posted_at=(NOW - timedelta(hours=2)).isoformat())
+        so._house_item(st, NOW - timedelta(hours=1), "next", "S", "t", "https://haultimes.com/x/", 90, "promo")
+        self.assertIsNone(so.next_item(cfg(max_per_day=3, settle_minutes=0), st, NOW, True, True, "facebook"))
+        self.assertIsNotNone(so.next_item(cfg(max_per_day=4, settle_minutes=0), st, NOW, True, True, "facebook"))
+
     def test_post_waits_for_summary_then_includes_it(self):
         st = so.new_state()
         so._house_item(st, NOW, "s1", "Story", "text", "https://haultimes.com/x/", 90, "promo")
@@ -620,6 +630,25 @@ class HousePosts(unittest.TestCase):
         self.assertEqual(st["items"]["promo-x"]["status"], "queued")      # not dropped for "no longer on the site"
         so.refresh_queue("facebook", [], cfg(), st, NOW + timedelta(hours=25))
         self.assertEqual(st["items"]["promo-x"]["status"], "expired")
+
+
+class FacebookBlock(Base):
+    def test_error_368_is_temporary_not_a_credentials_problem(self):
+        fb = so.FacebookClient("p", "t")
+        with self.assertRaises(so.RateLimited):
+            fb._check(400, {}, {"error": {"code": 368, "type": "OAuthException", "message": "We limit how often you can post"}}, True)
+
+    def test_old_368_pause_lifts_after_24_hours(self):
+        self.st["paused"] = {"reason": "Facebook error 368: We limit how often you can post",
+                             "at": (NOW - timedelta(hours=25)).isoformat(), "token": so.token_fingerprint(["SECRET_TOKEN_123"])}
+        fb = FakePlatform()
+        self.run_live(fb, c=cfg(mode="live", settle_minutes=0))
+        self.assertIsNone(self.st["paused"])
+
+    def test_recent_368_pause_holds(self):
+        self.st["paused"] = {"reason": "Facebook error 368: We limit how often you can post",
+                             "at": (NOW - timedelta(hours=3)).isoformat(), "token": so.token_fingerprint(["SECRET_TOKEN_123"])}
+        self.assertIn("paused", self.run_live(FakePlatform()))
 
 
 if __name__ == "__main__":
