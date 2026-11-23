@@ -3609,6 +3609,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "4c14233b45": {
+   "story_id": "4c14233b45",
+   "title": "ATRI finds highway congestion costs trucking industry $128.2 billion",
+   "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRG9qX2JRQUh0cm9sWjRPNGoxS2g0eVVwLWR4RTNDX1hHQmRBbHkzNEZLVjl6OFliUi12X0FQZ0VjRjZEUXpMWGpDbmFFSDB2eUt6UV9ydDZlSlJzekRSTV82blBneGdJb3dYU05XZFRPVWg5UXV5TXlncDJ1SldQWjIwbWNqUWxpMHgxSWxXUGRMUXlscTY2dy1Rc2ZmeDdxZjBHRnBienVVQkFidUJaY3dlb1BSX0Nq",
+   "category": "other",
+   "source": "FleetOwner",
+   "dest": "https://haultimes.com/story/atri-finds-highway-congestion-costs-trucking-industry-128-2-billion-4c14233b45/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=4c14233b45",
+   "caption": "ATRI finds highway congestion costs trucking industry $128.2 billion.\n\nReported by FleetOwner. The link has the details and the original article.\n\n#Trucking",
+   "status": "queued",
+   "created_at": "2026-11-23T13:51:44.351290+00:00",
+   "published": "2026-11-23T13:46:30+00:00",
+   "score": 66,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "ATRI finds highway congestion costs trucking industry $128.2 billion | HaulTimes",
+    "og:description": "Reported by FleetOwner. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/292cc17402.png",
+    "og:url": "https://haultimes.com/story/atri-finds-highway-congestion-costs-trucking-industry-128-2-billion-4c14233b45/"
+   },
+   "reason": "importance 66 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -4521,7 +4549,8 @@
   "a9d90df6fb": "skipped|importance 50 is below this platform's threshold (65)",
   "76899c2b85": "skipped|importance 61 is below this platform's threshold (65)",
   "7addedbbd8": "skipped|importance 45 is below this platform's threshold (65)",
-  "e3edfb6ba9": "skipped|importance 60 is below this platform's threshold (65)"
+  "e3edfb6ba9": "skipped|importance 60 is below this platform's threshold (65)",
+  "4c14233b45": "queued|importance 66 (threshold 65), Industry, trade publication"
  },
  "decisions": [
   {
@@ -9626,6 +9655,13 @@
    "title": "White-Label ELDs Expose Carriers to Cyber Risk",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T13:51:44.351290+00:00",
+   "story_id": "4c14233b45",
+   "title": "ATRI finds highway congestion costs trucking industry $128.2 billion",
+   "action": "queued",
+   "reason": "importance 66 (threshold 65), Industry, trade publication"
   }
  ],
  "visibility": {

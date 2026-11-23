@@ -1,5 +1,78 @@
 [
  {
+  "id": "4c14233b45",
+  "slug": "atri-finds-highway-congestion-costs-trucking-industry-128-2-billion-4c14233b45",
+  "title": "ATRI finds highway congestion costs trucking industry $128.2 billion",
+  "orig_title": "ATRI finds highway congestion costs trucking industry $128.2 billion",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 66,
+  "source": "FleetOwner",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRG9qX2JRQUh0cm9sWjRPNGoxS2g0eVVwLWR4RTNDX1hHQmRBbHkzNEZLVjl6OFliUi12X0FQZ0VjRjZEUXpMWGpDbmFFSDB2eUt6UV9ydDZlSlJzekRSTV82blBneGdJb3dYU05XZFRPVWg5UXV5TXlncDJ1SldQWjIwbWNqUWxpMHgxSWxXUGRMUXlscTY2dy1Rc2ZmeDdxZjBHRnBienVVQkFidUJaY3dlb1BSX0Nq?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRG9qX2JRQUh0cm9sWjRPNGoxS2g0eVVwLWR4RTNDX1hHQmRBbHkzNEZLVjl6OFliUi12X0FQZ0VjRjZEUXpMWGpDbmFFSDB2eUt6UV9ydDZlSlJzekRSTV82blBneGdJb3dYU05XZFRPVWg5UXV5TXlncDJ1SldQWjIwbWNqUWxpMHgxSWxXUGRMUXlscTY2dy1Rc2ZmeDdxZjBHRnBienVVQkFidUJaY3dlb1BSX0Nq",
+  "snippet": "ATRI finds highway congestion costs trucking industry $128.2 billion FleetOwner",
+  "published": "2026-11-23T13:46:30+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T13:51:10.931365+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetowner.com/safety/traffic/news/55420508/atri-reports-1282-billion-in-annual-trucking-congestion-costs",
+  "source_note": "ok · 339 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "e11d2e22cb586a6a",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T13:51:10.931365+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "used truck GPS data and operational cost metrics"
+   },
+   {
+    "sentence": "2",
+    "quote": "A prolonged freight recession reduced truck mileage"
+   },
+   {
+    "sentence": "3",
+    "quote": "exceeded $120 billion for three consecutive years"
+   },
+   {
+    "sentence": "4",
+    "quote": "1.24 billion hours of delay in 2024"
+   },
+   {
+    "sentence": "5",
+    "quote": "Texas led the states at $10.92 billion"
+   },
+   {
+    "sentence": "6",
+    "quote": "New York City ranked first at $7.49 billion"
+   },
+   {
+    "sentence": "7",
+    "quote": "Trucks consumed an additional 6.66 billion gallons of diesel"
+   }
+  ],
+  "sum_problems": [
+   "summary longer than 160 words",
+   "copies a 12-word run from the source: 'at $10.92 billion, followed by california at $10.47 billion and florid'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 60
+ },
+ {
   "id": "c242af5c52",
   "slug": "delhi-pollution-supreme-court-weighs-bs-vi-only-vehicles-as-it-plans-a-c242af5c52",
   "title": "Delhi pollution: Supreme Court weighs BS-VI-only vehicles as it plans a five-year traffic overhaul",
@@ -26,6 +99,35 @@
   ],
   "labels": [],
   "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "76ab79b9b8",
+  "slug": "oil-prices-dip-as-ample-supply-balances-persian-gulf-tensions-76ab79b9b8",
+  "title": "Oil prices dip as ample supply balances Persian Gulf tensions",
+  "orig_title": "Oil prices dip as ample supply balances Persian Gulf tensions",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUliczV4T1JGTnhYRE9qT0RLZVhRYUE4bnNQYXJPTWUyVmxKQ1BGY0ZYYnlWM0NfM3RFOW1Kal9sV1hQTkozLWZXZEF6SEt0WGZQdzFHbjVvQndpN19QdE0ydGZDLVZvb0E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUliczV4T1JGTnhYRE9qT0RLZVhRYUE4bnNQYXJPTWUyVmxKQ1BGY0ZYYnlWM0NfM3RFOW1Kal9sV1hQTkozLWZXZEF6SEt0WGZQdzFHbjVvQndpN19QdE0ydGZDLVZvb0E",
+  "snippet": "Oil prices dip as ample supply balances Persian Gulf tensions Transport Topics",
+  "published": "2026-11-23T13:15:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T13:51:10.931365+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
   "sum_pending": false
  },
  {
@@ -27051,35 +27153,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "936ecc22da",
-  "slug": "trump-xi-and-putin-reach-agreements-on-oil-936ecc22da",
-  "title": "Trump, Xi and Putin reach agreements on oil",
-  "orig_title": "Trump, Xi and Putin reach agreements on oil",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LT19RNjJoM0RHVTQyMnYyak0xWHNWUU1ubUZJbnAza2VqLVNxX0tveHQ3djJsbUV1SWtaN3p0YktjNUltOTV4eGZyMU5wcmpRZElKWFpMcnZTTHpkWDhMWXZRdnhPUEU?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LT19RNjJoM0RHVTQyMnYyak0xWHNWUU1ubUZJbnAza2VqLVNxX0tveHQ3djJsbUV1SWtaN3p0YktjNUltOTV4eGZyMU5wcmpRZElKWFpMcnZTTHpkWDhMWXZRdnhPUEU",
-  "snippet": "Trump, Xi and Putin reach agreements on oil Transport Topics",
-  "published": "2026-11-19T13:19:57+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T13:51:06.132640+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
   "sum_pending": false
  },
  {
