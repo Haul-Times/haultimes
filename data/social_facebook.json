@@ -4520,7 +4520,8 @@
   "304b11b770": "skipped|importance 45 is below this platform's threshold (65)",
   "a9d90df6fb": "skipped|importance 50 is below this platform's threshold (65)",
   "76899c2b85": "skipped|importance 61 is below this platform's threshold (65)",
-  "7addedbbd8": "skipped|importance 45 is below this platform's threshold (65)"
+  "7addedbbd8": "skipped|importance 45 is below this platform's threshold (65)",
+  "e3edfb6ba9": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9618,6 +9619,13 @@
    "title": "Why America’s Trucks Still Run on Diesel Despite Record Fuel Prices",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T13:41:20.609859+00:00",
+   "story_id": "e3edfb6ba9",
+   "title": "White-Label ELDs Expose Carriers to Cyber Risk",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
