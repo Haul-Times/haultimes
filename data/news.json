@@ -41636,35 +41636,6 @@
   "ai_importance": 55
  },
  {
-  "id": "28e0d61d18",
-  "slug": "spindle-archives-28e0d61d18",
-  "title": "spindle Archives",
-  "orig_title": "spindle Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YRkdUTkNXSXpGakNJM2I3Vms5ODZidnVlMWlNaDBnem9QWTY3TjVyckhwX0tiVEVHRGRmUDlUdWNWZFN2ZV90Qml5alMxa1VTUFYyTg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YRkdUTkNXSXpGakNJM2I3Vms5ODZidnVlMWlNaDBnem9QWTY3TjVyckhwX0tiVEVHRGRmUDlUdWNWZFN2ZV90Qml5alMxa1VTUFYyTg",
-  "snippet": "spindle Archives Truck News",
-  "published": "2026-11-17T08:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T02:01:05.053140+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "fb4af71bba",
   "slug": "dominic-laurin-fb4af71bba",
   "title": "Dominic Laurin",
