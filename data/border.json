@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T01:51:05.398500+00:00",
- "hour_now": 20,
+ "updated": "2026-11-23T02:00:17.152569+00:00",
+ "hour_now": 21,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 21,
+    "wait": 25,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -270,7 +270,7 @@
      0,
      0,
      4,
-     2,
+     4,
      1,
      0
     ],
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:47:07",
+    "updated": "20:52:09",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1095,7 +1095,7 @@
      25,
      23,
      17,
-     32,
+     29,
      50,
      51
     ],
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 15,
-    "status": "15 minutes"
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Gordie Howe International Bridge",
