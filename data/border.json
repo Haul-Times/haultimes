@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T05:51:12.706776+00:00",
- "hour_now": 0,
+ "updated": "2026-11-23T06:01:04.175762+00:00",
+ "hour_now": 1,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -25,7 +25,7 @@
    "usual": {
     "south": [
      6,
-     0,
+     1,
      0,
      0,
      0,
@@ -76,7 +76,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 1 AM",
+   "best_south": "Usually fastest around 2 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 0:37 am EST",
+    "updated": "At 0:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -276,7 +276,7 @@
     ],
     "north": [
      12,
-     21,
+     19,
      8,
      2,
      4,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 0:37 am EST",
+    "updated": "At 0:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:47:53",
+    "updated": "00:57:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:47:53",
+    "updated": "00:57:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -545,7 +545,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 00:10 EST"
+    "updated": "2026-11-23 00:52 EST"
    },
    "usual": {
     "south": [
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:47:53",
+    "updated": "00:57:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -760,11 +760,11 @@
    "ports": "Highgate Springs, VT ↔ Saint-Armand, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:47:53",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:47:53",
+    "updated": "00:57:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:47:53",
+    "updated": "00:57:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:47:53",
+    "updated": "00:57:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1075,7 +1075,7 @@
    "usual": {
     "south": [
      27,
-     29,
+     19,
      null,
      0,
      0,
@@ -1244,7 +1244,7 @@
     ],
     "north": [
      7,
-     13,
+     11,
      15,
      13,
      13,
