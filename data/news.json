@@ -527,6 +527,35 @@
   "ai_importance": 40
  },
  {
+  "id": "36bbb250fc",
+  "slug": "man-s-car-gets-hit-a-tow-truck-shows-up-then-the-alarm-bells-start-goi-36bbb250fc",
+  "title": "Man’s Car Gets Hit. A Tow Truck Shows Up. Then The Alarm Bells Start Going Off: ‘Don't Let It Take Your Car’",
+  "orig_title": "Man’s Car Gets Hit. A Tow Truck Shows Up. Then The Alarm Bells Start Going Off: ‘Don't Let It Take Your Car’",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Motor1.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za19sZXJGeXRRNFI2RUFSSXp2SmFyRlBwRXlqYk9Fc2NJRUxXend6QXJBUDJReXhrMERlSFhhdWxZcEpTM0hiNHVkemJBQ0RpdTk5QjdNQVAwY3FtZm1ldkV3eGlnWmc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za19sZXJGeXRRNFI2RUFSSXp2SmFyRlBwRXlqYk9Fc2NJRUxXend6QXJBUDJReXhrMERlSFhhdWxZcEpTM0hiNHVkemJBQ0RpdTk5QjdNQVAwY3FtZm1ldkV3eGlnWmc",
+  "snippet": "Man’s Car Gets Hit. A Tow Truck Shows Up. Then The Alarm Bells Start Going Off: ‘Don't Let It Take Your Car’ Motor1.com",
+  "published": "2026-11-22T14:38:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T03:01:06.777111+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e2d8828ef6",
   "slug": "14-people-charged-in-alleged-22-5-million-train-cargo-theft-e2d8828ef6",
   "title": "14 people charged in alleged $22.5 million train cargo theft",
