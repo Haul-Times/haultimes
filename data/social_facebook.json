@@ -4582,7 +4582,8 @@
   "e36435843d": "skipped|importance 55 is below this platform's threshold (65)",
   "2a8865c284": "skipped|importance 55 is below this platform's threshold (65)",
   "a97d84953b": "skipped|importance 55 is below this platform's threshold (65)",
-  "2df07d65e7": "skipped|minor item (event) or low-quality source"
+  "2df07d65e7": "skipped|minor item (event) or low-quality source",
+  "76f408f01c": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9813,6 +9814,13 @@
    "title": "TCA seeks nominations for 2027 Professional Drivers of the Year awards",
    "action": "skipped",
    "reason": "minor item (event) or low-quality source"
+  },
+  {
+   "at": "2026-11-23T16:21:41.006108+00:00",
+   "story_id": "76f408f01c",
+   "title": "St. Christopher Truckers Relief Fund raises more than $800K ahead of 20th anniversary",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
