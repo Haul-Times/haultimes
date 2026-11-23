@@ -4579,7 +4579,9 @@
   "2f79aef02a": "skipped|importance 55 is below this platform's threshold (65)",
   "41fbd5562b": "skipped|importance 45 is below this platform's threshold (65)",
   "54057a3622": "skipped|importance 57 is below this platform's threshold (65)",
-  "e36435843d": "skipped|importance 55 is below this platform's threshold (65)"
+  "e36435843d": "skipped|importance 55 is below this platform's threshold (65)",
+  "2a8865c284": "skipped|importance 55 is below this platform's threshold (65)",
+  "a97d84953b": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9787,6 +9789,20 @@
    "at": "2026-11-23T15:31:46.911578+00:00",
    "story_id": "e36435843d",
    "title": "Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:41:25.159733+00:00",
+   "story_id": "2a8865c284",
+   "title": "Trucking Cybersecurity Threats: WhiteArmor, Cargo Fraud & ELD Risks",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:41:25.159733+00:00",
+   "story_id": "a97d84953b",
+   "title": "E&O One orders 375 Volvo VNLs to expand all-Volvo fleet",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
