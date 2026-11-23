@@ -28242,35 +28242,6 @@
   "ai_relevant": false
  },
  {
-  "id": "e721eec86f",
-  "slug": "grand-junction-attorney-chadwick-mcgrady-details-who-may-be-liable-whe-e721eec86f",
-  "title": "Grand Junction Attorney Chadwick McGrady Details Who May Be Liable When Icy Roads Lead to Winter Crashes in Colorado",
-  "orig_title": "Grand Junction Attorney Chadwick McGrady Details Who May Be Liable When Icy Roads Lead to Winter Crashes in Colorado",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Detroit News",
-  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2M5bEh3SGxmQzRLVlNtY1I1c1I1MzJRWXRmZEJ6MENYODNqMy1ZbFNENmQ4T05YdHpBMF9mNjJmc0tWcTltZG5tMVBBVVBkSjREXzYwWDh5TXd0bjM3VHFvNTdmRGI0akF5QWhUVTNTODFGMWt3Q29LUnZUYURLNmpRS3g5c3JrNTBLLXN5SmZPc0N3OUh3R2lKY3d1VzhEOENiUFM2RXBEdXZkaXFVUmhZa3d4VDFNcVhWRUtTc2szZGc2VGF2R0k5UVV3YlJJREt2YW9qaFJOdEpBc05XSVJ5SnNnZ2c5VWFDOXI1Y0g1MUpCOGNudmR2M25tWE9ZMkE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2M5bEh3SGxmQzRLVlNtY1I1c1I1MzJRWXRmZEJ6MENYODNqMy1ZbFNENmQ4T05YdHpBMF9mNjJmc0tWcTltZG5tMVBBVVBkSjREXzYwWDh5TXd0bjM3VHFvNTdmRGI0akF5QWhUVTNTODFGMWt3Q29LUnZUYURLNmpRS3g5c3JrNTBLLXN5SmZPc0N3OUh3R2lKY3d1VzhEOENiUFM2RXBEdXZkaXFVUmhZa3d4VDFNcVhWRUtTc2szZGc2VGF2R0k5UVV3YlJJREt2YW9qaFJOdEpBc05XSVJ5SnNnZ2c5VWFDOXI1Y0g1MUpCOGNudmR2M25tWE9ZMkE",
-  "snippet": "Grand Junction Attorney Chadwick McGrady Details Who May Be Liable When Icy Roads Lead to Winter Crashes in Colorado The Detroit News",
-  "published": "2026-11-19T06:42:03+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T07:01:09.120119+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "7952021a68",
   "slug": "bridge-collapses-on-patiala-sangrur-bathinda-highway-2-trucks-left-han-7952021a68",
   "title": "Bridge collapses on Patiala-Sangrur-Bathinda highway, 2 trucks left hanging",
@@ -39037,36 +39008,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "a239da19d5",
-  "slug": "ice-road-truckers-deadliest-roads-series-2-episode-9-a239da19d5",
-  "title": "Ice Road Truckers - Deadliest Roads - Series 2 - Episode 9",
-  "orig_title": "Ice Road Truckers - Deadliest Roads - Series 2 - Episode 9",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 45,
-  "source": "ITVX",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemNnUC10UUlzMXhHSDFJVElOZXluUWhMZTd3VE9ZaldxUHAzMldaSzVpekh6TnV6VkxlVGU0MlBfQ0NNS2lFNFU4eTgxc3lncGpfaWdnalZQWVJyOFlFZ1VERThTWENfYXlpbDZfazRkMDFQeF8wLWc0UFQ5UUFTUG0yaGFkTnc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemNnUC10UUlzMXhHSDFJVElOZXluUWhMZTd3VE9ZaldxUHAzMldaSzVpekh6TnV6VkxlVGU0MlBfQ0NNS2lFNFU4eTgxc3lncGpfaWdnalZQWVJyOFlFZ1VERThTWENfYXlpbDZfazRkMDFQeF8wLWc0UFQ5UUFTUG0yaGFkTnc",
-  "snippet": "Ice Road Truckers - Deadliest Roads - Series 2 - Episode 9 ITVX",
-  "published": "2026-11-17T20:13:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T07:11:10.266773+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Ice Road Truckers - Deadliest Roads - Series 2 - Episode 8"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "a46fc02f10"
  },
  {
   "id": "0005566f1c",
