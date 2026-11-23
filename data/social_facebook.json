@@ -4770,7 +4770,9 @@
   "8380fc313d": "skipped|importance 55 is below this platform's threshold (65)",
   "4ec53e188d": "skipped|importance 45 is below this platform's threshold (65)",
   "6d6c3a6cad": "skipped|minor item (incident) or low-quality source",
-  "c9bccac913": "skipped|importance 45 is below this platform's threshold (65)"
+  "c9bccac913": "skipped|importance 45 is below this platform's threshold (65)",
+  "2f8cd12b98": "skipped|importance 55 is below this platform's threshold (65)",
+  "182ae7741c": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -10169,6 +10171,20 @@
    "title": "Illegal immigrant truckers expose a deadly licensing problem",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T21:31:29.164083+00:00",
+   "story_id": "2f8cd12b98",
+   "title": "Little victories: Small fleets take trucking challenges head-on",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T21:31:29.164083+00:00",
+   "story_id": "182ae7741c",
+   "title": "Vintage Modern Expands Beyond Modern Classic Trucks With Handcrafted Fastback",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
