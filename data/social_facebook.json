@@ -3569,7 +3569,7 @@
    "source": "HaulTimes",
    "dest": "https://haultimes.com/s/promo-20261122/?utm_source=facebook&utm_medium=organic_social&utm_campaign=freight_market",
    "caption": "Is that load offer fair? Check any lane against what other carriers reported this week: dry van, reefer, flatbed and step deck, across the US and Canada. Free and anonymous on HaulTimes Freight Market.\n\n#Trucking #FreightRates #OwnerOperator #TruckDrivers",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-22T15:21:39.677781+00:00",
    "published": "2026-11-22T15:21:39.677781+00:00",
    "score": 65,
@@ -4555,7 +4555,7 @@
   "72339a475b": "expired|stale before a slot opened (published 12h ago)",
   "ef1c11a5c8": "skipped|importance 63 is below this platform's threshold (65)",
   "60dbe22861": "skipped|minor item (crime) or low-quality source",
-  "promo-20261122": "queued|HaulTimes update",
+  "promo-20261122": "expired|no slot opened in time",
   "46294a6900": "skipped|minor item (announcement) or low-quality source",
   "d3853ba36b": "expired|stale before a slot opened (published 12h ago)",
   "be8983422d": "skipped|importance 55 is below this platform's threshold (65)",
@@ -4575,7 +4575,9 @@
   "09ce2fe03a": "skipped|importance 55 is below this platform's threshold (65)",
   "dc395f2503": "skipped|importance 61 is below this platform's threshold (65)",
   "0023dcd618": "skipped|importance 57 is below this platform's threshold (65)",
-  "0822dfda88": "skipped|importance 50 is below this platform's threshold (65)"
+  "0822dfda88": "skipped|importance 50 is below this platform's threshold (65)",
+  "2f79aef02a": "skipped|importance 55 is below this platform's threshold (65)",
+  "41fbd5562b": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9750,6 +9752,27 @@
    "title": "Truckload Carriers Open 2027 Bids Asking for Double Digits",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:21:46.450614+00:00",
+   "story_id": "promo-20261122",
+   "title": "Freight Market reminder",
+   "action": "expired",
+   "reason": "no slot opened in time"
+  },
+  {
+   "at": "2026-11-23T15:21:46.450614+00:00",
+   "story_id": "2f79aef02a",
+   "title": "Werner Enterprises works to restore its PowerLink network",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:21:46.450614+00:00",
+   "story_id": "41fbd5562b",
+   "title": "ATL Partners Completes Partial Exit of Arrive Logistics Investment Through Mubadala Capital Recapitalization",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

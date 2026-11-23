@@ -1,5 +1,104 @@
 [
  {
+  "id": "41fbd5562b",
+  "slug": "atl-partners-completes-partial-exit-of-arrive-logistics-investment-thr-41fbd5562b",
+  "title": "ATL Partners Completes Partial Exit of Arrive Logistics Investment Through Mubadala Capital Recapitalization",
+  "orig_title": "ATL Partners Completes Partial Exit of Arrive Logistics Investment Through Mubadala Capital Recapitalization",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 45,
+  "source": "citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRWVuRlBSNnhvSEhncG54cnVOcHRwLXFRUnRWMl9FZmJCVFA4VENtd3NmYkdlS0dYLVFDY2NDVWQwTFAzZWhzbERDZHB1aWJLRUV1T0F3Q1BJXzl5MUszSmhxODBla1ZXVmg0d3B0SlZUQXYyclFVMGxWRnVLZWVvQ04xSkprUWg1MFFqZkJNeWNGN3FvdkRuRkR2RHhvS0tJRnRhZkFvbkxuQWFiaW9XZXZjZS1mR1dUWjE4Rng2ejBPMGpVN0ZoaWl1a0pIS1Bqa0ZvSVg1eGptclVOc1Qyag?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRWVuRlBSNnhvSEhncG54cnVOcHRwLXFRUnRWMl9FZmJCVFA4VENtd3NmYkdlS0dYLVFDY2NDVWQwTFAzZWhzbERDZHB1aWJLRUV1T0F3Q1BJXzl5MUszSmhxODBla1ZXVmg0d3B0SlZUQXYyclFVMGxWRnVLZWVvQ04xSkprUWg1MFFqZkJNeWNGN3FvdkRuRkR2RHhvS0tJRnRhZkFvbkxuQWFiaW9XZXZjZS1mR1dUWjE4Rng2ejBPMGpVN0ZoaWl1a0pIS1Bqa0ZvSVg1eGptclVOc1Qyag",
+  "snippet": "ATL Partners Completes Partial Exit of Arrive Logistics Investment Through Mubadala Capital Recapitalization citybiz",
+  "published": "2026-11-23T15:13:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T15:21:04.053111+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.citybiz.co/article/937433/atl-partners-completes-partial-exit-of-arrive-logistics-investment-through-mubadala-capital-recapitalization/",
+  "source_note": "ok · 416 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "ab7a5afba5f72dcf",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T15:21:04.053111+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "partially exiting its position in the North American truckload brokerage"
+   },
+   {
+    "sentence": "2",
+    "quote": "Financial terms were not disclosed."
+   },
+   {
+    "sentence": "3",
+    "quote": "committed more than $300 million through primary and secondary equity investments"
+   },
+   {
+    "sentence": "4",
+    "quote": "maintains relationships with 10,000 core carriers"
+   },
+   {
+    "sentence": "5",
+    "quote": "Pyatt said ATL's continued investment will allow the companies to maintain their relationship"
+   },
+   {
+    "sentence": "6",
+    "quote": "In 2025, the private equity firm sold a majority stake in Global Critical Logistics"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'an investor group that committed more than $300 million through primar'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 50
+ },
+ {
+  "id": "2f79aef02a",
+  "slug": "werner-enterprises-works-to-restore-its-powerlink-network-2f79aef02a",
+  "title": "Werner Enterprises works to restore its PowerLink network",
+  "orig_title": "Werner Enterprises works to restore its PowerLink network",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "Trucking Dive",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1FEdGVfVHN0NDJlVG90bU1fYnRRSGJ1djZFTXRCYkVrY3ZFZ3FXYlhZV2NseXp0T3F2QTYtODZYR21IYlBUdGxURGZZNmgxWDEyaDh1Tmh2endDY1dMV2FSeExfSDZFOXBSZzBZdld0UDloT1Yya29YM1VQT0F2Q0x6dVZ5X1JnMlpzYjlUSE9PdHJtM0RuN001dTdudmNl?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1FEdGVfVHN0NDJlVG90bU1fYnRRSGJ1djZFTXRCYkVrY3ZFZ3FXYlhZV2NseXp0T3F2QTYtODZYR21IYlBUdGxURGZZNmgxWDEyaDh1Tmh2endDY1dMV2FSeExfSDZFOXBSZzBZdld0UDloT1Yya29YM1VQT0F2Q0x6dVZ5X1JnMlpzYjlUSE9PdHJtM0RuN001dTdudmNl",
+  "snippet": "Werner Enterprises works to restore its PowerLink network Trucking Dive",
+  "published": "2026-11-23T15:11:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T15:21:04.053111+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "dc395f2503",
   "slug": "small-us-trucking-firms-scramble-to-survive-mounting-diesel-costs-dc395f2503",
   "title": "Small US trucking firms scramble to survive mounting diesel costs",
@@ -61,6 +160,35 @@
   "source_note": "paywalled: excerpt only · 22 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "8c77166425",
+  "slug": "diesel-prices-trucking-8c77166425",
+  "title": "Diesel Prices Trucking",
+  "orig_title": "Diesel Prices Trucking",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "WV News",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSl81X1lCVktmalpKcWc2T0VYel9sUUdnMlRjUkNiNkdjeDRoYWo4bFZQbktXNVZvOWVEUUlXRjBFTUowQ0FUbDFFb0I4Z3dDWExOOVd1WVhoaENETGVSOWxEMVVuRlBqYlpmbERHcVh0YjY5X2VVOEY3YURPQmdLREhCX1hHUnVFejJCRG8yMEYzNnZxd2wzMTAxS0d6Zk90RVB0VlJlS2w?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSl81X1lCVktmalpKcWc2T0VYel9sUUdnMlRjUkNiNkdjeDRoYWo4bFZQbktXNVZvOWVEUUlXRjBFTUowQ0FUbDFFb0I4Z3dDWExOOVd1WVhoaENETGVSOWxEMVVuRlBqYlpmbERHcVh0YjY5X2VVOEY3YURPQmdLREhCX1hHUnVFejJCRG8yMEYzNnZxd2wzMTAxS0d6Zk90RVB0VlJlS2w",
+  "snippet": "Diesel Prices Trucking WV News",
+  "published": "2026-11-23T14:53:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T15:21:04.053111+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a6f8abff84",
@@ -26579,35 +26707,6 @@
   "sum_status": "no source text (publisher refused (402))"
  },
  {
-  "id": "67290eda62",
-  "slug": "content-authored-by-anton-l-delgado-67290eda62",
-  "title": "Content Authored By Anton L. Delgado",
-  "orig_title": "Content Authored By Anton L. Delgado",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUTNNdk1wb2JURWI1VzVsS1pQNzJjb2VNbWdxYkhQbFFoZkhpdVJFcFBtMjlDNDgtVGlfMEpwQlNXdGZLN3R0a3o2Vk9MVUM1VEozR3ZvbUNDQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUTNNdk1wb2JURWI1VzVsS1pQNzJjb2VNbWdxYkhQbFFoZkhpdVJFcFBtMjlDNDgtVGlfMEpwQlNXdGZLN3R0a3o2Vk9MVUM1VEozR3ZvbUNDQQ",
-  "snippet": "Content Authored By Anton L. Delgado Transport Topics",
-  "published": "2026-11-19T15:10:14+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T15:11:05.005036+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
- },
- {
   "id": "78da8460d6",
   "slug": "costello-shrinking-capacity-not-stronger-freight-demand-driving-trucki-78da8460d6",
   "title": "Costello: Shrinking capacity, not stronger freight demand, driving trucking recovery",
@@ -26902,35 +27001,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "880da947ef",
-  "slug": "iea-says-no-going-back-to-pre-iran-war-s-energy-shock-880da947ef",
-  "title": "IEA says no going back to pre-Iran war's energy shock",
-  "orig_title": "IEA says no going back to pre-Iran war's energy shock",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Cc3hxaU53dGR1ZldQakQzRnMwVzhUNF9US1ZURFRnUWpOdGFOSllWeTVhaUROTWhWc3JkTUhpdmNMcnN2QWQ3cHZhbjJjUGZmdDVERUxycHRWZElvZ3lhb3owSk1lcG5wTEYzaQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Cc3hxaU53dGR1ZldQakQzRnMwVzhUNF9US1ZURFRnUWpOdGFOSllWeTVhaUROTWhWc3JkTUhpdmNMcnN2QWQ3cHZhbjJjUGZmdDVERUxycHRWZElvZ3lhb3owSk1lcG5wTEYzaQ",
-  "snippet": "IEA says no going back to pre-Iran war's energy shock Transport Topics",
-  "published": "2026-11-19T14:39:04+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T15:11:05.005036+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "41a8d8ff39",
@@ -35754,35 +35824,6 @@
   "sum_problems": [],
   "ai_category": "regs",
   "ai_importance": 62
- },
- {
-  "id": "df4353fa2f",
-  "slug": "geodis-launches-u-s-final-mile-index-as-delivery-costs-rise-three-time-df4353fa2f",
-  "title": "GEODIS Launches U.S. Final Mile Index as Delivery Costs Rise Three Times Faster Than Inflation",
-  "orig_title": "GEODIS Launches U.S. Final Mile Index as Delivery Costs Rise Three Times Faster Than Inflation",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Manila Times",
-  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT3gtY0xta2pqdUFyOXFTRlBTN0F2YXgwV05UZ1RtU0xTMUp6S3ZQeE5pN2VJbFNwQmpVRVZSQW1icnMwN2V3dVZsYVV5aFp2TV9zalZaZTBSN3R1V3hjeGdmTV9ZWWZDR3A4RVdIcnVyOUFVSWgtRG0xbjl6bDNDMUVkVTNxaGtXWWJXQ2dSaGpuaVB4NUF2NnI3RHd1NHVUcXdFVWJyUlcwVmtfa3VYR1NPMHVqV3c3TXBhWTB2TTlYWEdIUHRJalA5WlIwcjlpclY2Zk1aMzJiSWxVVEg0UkxJQVNSVHV5RGx6WDRUVDZFYTRCOFNQcEd30gH_AUFVX3lxTE5QNkRkSVc2T3NBOFR6bjJ4bEpUU3FCYm5SS2cwUkZkLWdubFRIX19DX0pRQ0ZXVkpValZKSUY3bTZ4ckM3UkRPNHpoS1oySVpmRjBVVV8yY3BHNkVzY1FmWFZITHpfMDgzNUpkMjh2RVdobmx6UFR2elM2TTJpWEdvSFQ2eW44cXpxUU1WZ253cUlEZUp3NjM5MklDZTNtcDlWRkd1bWxHUnZNVTFSdWJ6UjB4QUI2WXRkRUZ1dEV0QWdjYnVFQTdTdElVT1U4SzVzWjdCMzVVa2VtOVJpRi1odnhzbXZSRGNXN0V3VmVJd3VwaGdxVGs2Z0dnaWQ3aw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT3gtY0xta2pqdUFyOXFTRlBTN0F2YXgwV05UZ1RtU0xTMUp6S3ZQeE5pN2VJbFNwQmpVRVZSQW1icnMwN2V3dVZsYVV5aFp2TV9zalZaZTBSN3R1V3hjeGdmTV9ZWWZDR3A4RVdIcnVyOUFVSWgtRG0xbjl6bDNDMUVkVTNxaGtXWWJXQ2dSaGpuaVB4NUF2NnI3RHd1NHVUcXdFVWJyUlcwVmtfa3VYR1NPMHVqV3c3TXBhWTB2TTlYWEdIUHRJalA5WlIwcjlpclY2Zk1aMzJiSWxVVEg0UkxJQVNSVHV5RGx6WDRUVDZFYTRCOFNQcEd30gH_AUFVX3lxTE5QNkRkSVc2T3NBOFR6bjJ4bEpUU3FCYm5SS2cwUkZkLWdubFRIX19DX0pRQ0ZXVkpValZKSUY3bTZ4ckM3UkRPNHpoS1oySVpmRjBVVV8yY3BHNkVzY1FmWFZITHpfMDgzNUpkMjh2RVdobmx6UFR2elM2TTJpWEdvSFQ2eW44cXpxUU1WZ253cUlEZUp3NjM5MklDZTNtcDlWRkd1bWxHUnZNVTFSdWJ6UjB4QUI2WXRkRUZ1dEV0QWdjYnVFQTdTdElVT1U4SzVzWjdCMzVVa2VtOVJpRi1odnhzbXZSRGNXN0V3VmVJd3VwaGdxVGs2Z0dnaWQ3aw",
-  "snippet": "GEODIS Launches U.S. Final Mile Index as Delivery Costs Rise Three Times Faster Than Inflation The Manila Times",
-  "published": "2026-11-18T15:17:59+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T15:11:05.005036+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "b96154dc2a",
