@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:01:15.800252+00:00",
+ "updated": "2026-11-23T23:11:07.182064+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -117,7 +117,7 @@
      43,
      28,
      18,
-     33,
+     30,
      35,
      12,
      9,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:47 pm EST",
+    "updated": "At 5:57 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-23 17:40 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-23 18:00 EST"
    },
    "usual": {
     "south": [
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:47 pm EST",
+    "updated": "At 5:57 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 1,
-    "status": "1 minute",
-    "updated": "2026-11-23 17:40 EST"
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-23 18:00 EST"
    },
    "usual": {
     "south": [
@@ -417,7 +417,7 @@
      0,
      4,
      8,
-     12,
+     11,
      0,
      0,
      0,
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 17:15 EST"
+    "updated": "2026-11-23 16:15 EST"
    },
    "usual": {
     "south": [
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:00:30",
+    "updated": "18:05:31",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "1",
-    "status": "delay",
-    "updated": "At 4:00 pm CST",
+    "status": "no delay",
+    "updated": "At 5:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1092,7 +1092,7 @@
      30,
      40,
      35,
-     39,
+     36,
      83,
      111,
      94,
@@ -1235,7 +1235,7 @@
      8,
      8,
      8,
-     19,
+     17,
      9,
      15,
      2,
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-23 15:40 PDT"
+    "updated": "2026-11-23 16:00 PDT"
    },
    "usual": {
     "south": [
@@ -1336,7 +1336,7 @@
      9,
      8,
      7,
-     12,
+     11,
      7,
      6,
      5,
@@ -1357,13 +1357,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "15:00:30",
+    "updated": "15:05:31",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 15:40 PDT"
+    "updated": "2026-11-23 16:00 PDT"
    },
    "usual": {
     "south": [
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 221",
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },
