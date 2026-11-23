@@ -4511,7 +4511,8 @@
   "60dbe22861": "skipped|minor item (crime) or low-quality source",
   "promo-20261122": "queued|HaulTimes update",
   "46294a6900": "skipped|minor item (announcement) or low-quality source",
-  "d3853ba36b": "queued|importance 82 (threshold 65), Regulations, established outlet"
+  "d3853ba36b": "queued|importance 82 (threshold 65), Regulations, established outlet",
+  "be8983422d": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9546,6 +9547,13 @@
    "title": "Calls for overpass safety crackdown as semi-trailer accidents spike",
    "action": "queued",
    "reason": "importance 82 (threshold 65), Regulations, established outlet"
+  },
+  {
+   "at": "2026-11-23T03:51:45.748311+00:00",
+   "story_id": "be8983422d",
+   "title": "EDITORIAL: Why Proactive Safety and Smart Efficiency Must Define Ontario Trucking’s Next Chapter",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

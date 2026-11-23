@@ -29,6 +29,72 @@
   "sum_pending": false
  },
  {
+  "id": "be8983422d",
+  "slug": "editorial-why-proactive-safety-and-smart-efficiency-must-define-ontari-be8983422d",
+  "title": "EDITORIAL: Why Proactive Safety and Smart Efficiency Must Define Ontario Trucking’s Next Chapter",
+  "orig_title": "EDITORIAL: Why Proactive Safety and Smart Efficiency Must Define Ontario Trucking’s Next Chapter",
+  "summary": "In an editorial, Michael Anderson, who is stepping into the role of chair of the Ontario Trucking Association, outlined his priorities for the group. His main focus is moving truck safety oversight in Ontario toward a proactive regime. He said Transportation Minister Prabmeet Sarkaria's recent address to members suggested the province shares that goal.\n\nAnderson said driver training standards must keep pace as Ontario moves toward proactive enforcement. He also called for trip permits to be issued promptly, free from unnecessary bureaucratic red tape. He argued the province must not view proactive enforcement as a financial burden on the sector.",
+  "why": "",
+  "category": "other",
+  "region": "Canada",
+  "importance": 55,
+  "source": "Ontario Trucking Association",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGFtenRra0RtZnhWLUJRd2c0Rkp5aUFlWHA1ZWF6OWI1ZEUxOGkxbU0tQXdWVUtBLURWdDFmeGI3QVpmQ1h0dnByZGN6Q1pBdUtUU0xpeVNodFlGZ0lXNm5TVWswQy12ZjRNaC03dnhxTFNkSjhxTEhCbnVzN0FRdmhQbkFKNTNnamR1WXJjbzBCbWlwcnRYdHlvR3N2ZFVDQzJzT0REbUs0ZkFpQmZ2Tktka3drdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGFtenRra0RtZnhWLUJRd2c0Rkp5aUFlWHA1ZWF6OWI1ZEUxOGkxbU0tQXdWVUtBLURWdDFmeGI3QVpmQ1h0dnByZGN6Q1pBdUtUU0xpeVNodFlGZ0lXNm5TVWswQy12ZjRNaC03dnhxTFNkSjhxTEhCbnVzN0FRdmhQbkFKNTNnamR1WXJjbzBCbWlwcnRYdHlvR3N2ZFVDQzJzT0REbUs0ZkFpQmZ2Tktka3drdw",
+  "snippet": "EDITORIAL: Why Proactive Safety and Smart Efficiency Must Define Ontario Trucking’s Next Chapter Ontario Trucking Association",
+  "published": "2026-11-23T02:15:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T03:51:03.744900+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://ontruck.org/editorial-why-proactive-safety-and-smart-efficiency-must-define-ontario-truckings-next-chapter/",
+  "source_note": "ok · 695 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "5188f5e6ddb6e3b2",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T03:51:03.744900+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "As I step into the role of Chair"
+   },
+   {
+    "sentence": "2",
+    "quote": "truly proactive regime"
+   },
+   {
+    "sentence": "3",
+    "quote": "signaled that the province shares this vision"
+   },
+   {
+    "sentence": "4",
+    "quote": "driver training standards keep pace"
+   },
+   {
+    "sentence": "5",
+    "quote": "We need trip permits issued promptly"
+   },
+   {
+    "sentence": "6",
+    "quote": "must not view proactive enforcement as a financial burden"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "regs",
+  "ai_importance": 40
+ },
+ {
   "id": "d3853ba36b",
   "slug": "calls-for-overpass-safety-crackdown-as-semi-trailer-accidents-spike-d3853ba36b",
   "title": "Calls for overpass safety crackdown as semi-trailer accidents spike",
