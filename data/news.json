@@ -82,11 +82,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": false,
+  "sum_pending": true,
   "sum_tries": 1,
   "pub_url": "https://wisevoter.com/world/us/co/2026/11/23/colorado-chain-up-assistance-program-truckers",
   "source_note": "ok · 520 words",
-  "sum_done": true,
+  "sum_done": false,
   "sum_status": "withheld",
   "source_fp": "61c5c6f97e075689",
   "source_scope": "full_article",
@@ -128,7 +128,8 @@
    "copies a 12-word run from the source: 'sell approved traction devices and install them for truckers at chain-'"
   ],
   "ai_category": "regs",
-  "ai_importance": 55
+  "ai_importance": 55,
+  "sum_v3": true
  },
  {
   "id": "d231a9176f",

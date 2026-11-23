@@ -3770,14 +3770,14 @@
    "source": "Commercial Carrier Journal",
    "dest": "https://haultimes.com/story/freight-fraud-and-cargo-theft-shift-ahead-of-2026-peak-season-f219319f35/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=f219319f35",
    "caption": "Freight Fraud and Cargo Theft Shift Ahead of 2026 Peak Season.\n\nReported by Commercial Carrier Journal. The link has the details and the original article.\n\n#Trucking #Freight #CargoTheft #FreightFraud #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-23T19:41:39.723485+00:00",
    "published": "2026-11-23T19:20:55+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122111455125544428",
+   "posted_at": "2026-11-23T20:31:38.148866+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Freight Fraud and Cargo Theft Shift Ahead of 2026 Peak Season | HaulTimes",
@@ -3788,7 +3788,9 @@
    "reason": "importance 67 (threshold 65), Industry, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-23T20:31:38.148866+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122111455125544428"
   }
  },
  "paused": null,
@@ -4097,6 +4099,10 @@
   {
    "at": "2026-11-23T19:41:39.723485+00:00",
    "msg": "posted 4bc269dd28"
+  },
+  {
+   "at": "2026-11-23T20:31:38.148866+00:00",
+   "msg": "posted f219319f35"
   }
  ],
  "decided": {
@@ -4749,7 +4755,7 @@
   "f8953c6c2b": "skipped|importance 55 is below this platform's threshold (65)",
   "464a4eec54": "skipped|importance 50 is below this platform's threshold (65)",
   "4bc269dd28": "posted|importance 82 (threshold 65), Rates & Market, established outlet; waited 40 min in queue",
-  "f219319f35": "queued|importance 67 (threshold 65), Industry, trade publication",
+  "f219319f35": "posted|importance 67 (threshold 65), Industry, trade publication; waited 49 min in queue",
   "576658f9e4": "skipped|importance 55 is below this platform's threshold (65)",
   "78fd83d3a8": "skipped|importance 55 is below this platform's threshold (65)",
   "fc2f8d80fb": "skipped|importance 45 is below this platform's threshold (65)"
@@ -10116,6 +10122,13 @@
    "title": "Colorado Approves Chain-Up Assistance Program for Truckers",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T20:31:38.148866+00:00",
+   "story_id": "f219319f35",
+   "title": "Freight Fraud and Cargo Theft Shift Ahead of 2026 Peak Season",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Industry, trade publication; waited 49 min in queue"
   }
  ],
  "visibility": {
