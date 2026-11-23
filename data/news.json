@@ -30,6 +30,35 @@
   "dup_of": "192046fba0"
  },
  {
+  "id": "500efca026",
+  "slug": "stolen-liquor-worth-rs-37l-recovered-in-charaideo-4-arrested-500efca026",
+  "title": "Stolen liquor worth Rs 37L recovered in Charaideo, 4 arrested",
+  "orig_title": "Stolen liquor worth Rs 37L recovered in Charaideo, 4 arrested",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObHViRVVZZHFRUnBwa0t1STRXNlZNQ1FxYVR3ekxlMGxrTGlGYmxmZWc2anM0M0ZHRFZqSW9ZazRTaTNJZDlNcHhBektqanZxNTJ6dU5wcjVwSlRRX2lsWTA5NzM4UXhtTHRNMlJ5RUx5UUhqZGhsTWVQdUltUy1yWFhJS1NCa3gyUXVxUG5pSnREdHoyYUg4OXE1MFlRWlVScEVZTEdOcUw3dmNRUng4SC13MW42YmR2SzRtNmt3NTlxejY5WjZBUWdramNhTGlCYjZseTdsQdIB1wFBVV95cUxObHViRVVZZHFRUnBwa0t1STRXNlZNQ1FxYVR3ekxlMGxrTGlGYmxmZWc2anM0M0ZHRFZqSW9ZazRTaTNJZDlNcHhBektqanZxNTJ6dU5wcjVwSlRRX2lsWTA5NzM4UXhtTHRNMlJ5RUx5UUhqZGhsTWVQdUltUy1yWFhJS1NCa3gyUXVxUG5pSnREdHoyYUg4OXE1MFlRWlVScEVZTEdOcUw3dmNRUng4SC13MW42YmR2SzRtNmt3NTlxejY5WjZBUWdramNhTGlCYjZseTdsQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObHViRVVZZHFRUnBwa0t1STRXNlZNQ1FxYVR3ekxlMGxrTGlGYmxmZWc2anM0M0ZHRFZqSW9ZazRTaTNJZDlNcHhBektqanZxNTJ6dU5wcjVwSlRRX2lsWTA5NzM4UXhtTHRNMlJ5RUx5UUhqZGhsTWVQdUltUy1yWFhJS1NCa3gyUXVxUG5pSnREdHoyYUg4OXE1MFlRWlVScEVZTEdOcUw3dmNRUng4SC13MW42YmR2SzRtNmt3NTlxejY5WjZBUWdramNhTGlCYjZseTdsQdIB1wFBVV95cUxObHViRVVZZHFRUnBwa0t1STRXNlZNQ1FxYVR3ekxlMGxrTGlGYmxmZWc2anM0M0ZHRFZqSW9ZazRTaTNJZDlNcHhBektqanZxNTJ6dU5wcjVwSlRRX2lsWTA5NzM4UXhtTHRNMlJ5RUx5UUhqZGhsTWVQdUltUy1yWFhJS1NCa3gyUXVxUG5pSnREdHoyYUg4OXE1MFlRWlVScEVZTEdOcUw3dmNRUng4SC13MW42YmR2SzRtNmt3NTlxejY5WjZBUWdramNhTGlCYjZseTdsQQ",
+  "snippet": "Stolen liquor worth Rs 37L recovered in Charaideo, 4 arrested The Times of India",
+  "published": "2026-11-23T22:35:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T23:31:04.085384+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "non-North American source"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "27efc28a47",
   "slug": "tsx-venture-composite-index-jx-profile-press-releases-27efc28a47",
   "title": "TSX Venture Composite Index (JX) Profile - Press Releases",
@@ -2281,7 +2310,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.ajot.com/premium/ajot-refrigerated-trucking-rates-rising-for-the-holidays-despite-falling-produce-volumes",
   "source_note": "ok · 1393 words"
  },
