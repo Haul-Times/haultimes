@@ -3618,14 +3618,14 @@
    "source": "FleetOwner",
    "dest": "https://haultimes.com/story/atri-finds-highway-congestion-costs-trucking-industry-128-2-billion-4c14233b45/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=4c14233b45",
    "caption": "ATRI finds highway congestion costs trucking industry $128.2 billion.\n\nReported by FleetOwner. The link has the details and the original article.\n\n#Trucking",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-23T13:51:44.351290+00:00",
    "published": "2026-11-23T13:46:30+00:00",
    "score": 66,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122111335371544428",
+   "posted_at": "2026-11-23T14:33:31.304265+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "ATRI finds highway congestion costs trucking industry $128.2 billion | HaulTimes",
@@ -3636,17 +3636,15 @@
    "reason": "importance 66 (threshold 65), Industry, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-23T14:33:31.304265+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122111335371544428"
   }
  },
- "paused": {
-  "reason": "Facebook error 368: We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More",
-  "at": "2026-11-16T22:21:28.069212+00:00",
-  "token": "45e47322b1f3"
- },
+ "paused": null,
  "account": {
   "name": "HaulTimes",
-  "checked_at": "2026-11-16T03:51:24.705027+00:00",
+  "checked_at": "2026-11-23T14:33:31.304265+00:00",
   "checked_fp": "45e47322b1f3"
  },
  "log": [
@@ -3925,6 +3923,18 @@
   {
    "at": "2026-11-16T21:31:54.478821+00:00",
    "msg": "posted fc0b58075a"
+  },
+  {
+   "at": "2026-11-23T14:33:31.304265+00:00",
+   "msg": "temporary Facebook posting block (368) is over 24 hours old, resuming"
+  },
+  {
+   "at": "2026-11-23T14:33:31.304265+00:00",
+   "msg": "credentials OK: connected to HaulTimes"
+  },
+  {
+   "at": "2026-11-23T14:33:31.304265+00:00",
+   "msg": "posted 4c14233b45"
   }
  ],
  "decided": {
@@ -4550,7 +4560,8 @@
   "76899c2b85": "skipped|importance 61 is below this platform's threshold (65)",
   "7addedbbd8": "skipped|importance 45 is below this platform's threshold (65)",
   "e3edfb6ba9": "skipped|importance 60 is below this platform's threshold (65)",
-  "4c14233b45": "queued|importance 66 (threshold 65), Industry, trade publication"
+  "4c14233b45": "posted|importance 66 (threshold 65), Industry, trade publication; waited 41 min in queue",
+  "c7a489c6f2": "skipped|minor item (press_release) or low-quality source"
  },
  "decisions": [
   {
@@ -9669,6 +9680,20 @@
    "title": "Calls for overpass safety crackdown as semi-trailer accidents spike",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-23T14:33:31.304265+00:00",
+   "story_id": "c7a489c6f2",
+   "title": "Werner® Named No. 1 Transportation Provider on Military Times’ Best for Vets List and Earns Two Top-3 Military Friendly® Rankings",
+   "action": "skipped",
+   "reason": "minor item (press_release) or low-quality source"
+  },
+  {
+   "at": "2026-11-23T14:33:31.304265+00:00",
+   "story_id": "4c14233b45",
+   "title": "ATRI finds highway congestion costs trucking industry $128.2 billion",
+   "action": "posted",
+   "reason": "importance 66 (threshold 65), Industry, trade publication; waited 41 min in queue"
   }
  ],
  "visibility": {
