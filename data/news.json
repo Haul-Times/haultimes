@@ -56,6 +56,35 @@
   "pending_why": ""
  },
  {
+  "id": "c5b0ae0f4a",
+  "slug": "there-s-been-a-generational-shift-from-daily-drinking-to-daily-cannabi-c5b0ae0f4a",
+  "title": "There's been a 'generational shift' from daily drinking to daily cannabis use: study",
+  "orig_title": "There's been a 'generational shift' from daily drinking to daily cannabis use: study",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "thecanadianpressnews.ca",
+  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeXh1WE55ZDlLWWVHMmFCR0xWOWZRdm02TDFuNTJNNzRtdDZ5RDJhSHAtVkRPQ1kyM29oTXZQdEV1ZnJHTDhHVEhEdU9hS19yNzBTeVRHclhCeDF0U2E2YXk4eGNId1NjQ2lBNWtUYUdYU0xnZVo0eE9UdlRMWmlCN0d6OGdUUkRVUDRMSW5ST0pmWXdFbGt2WUo4RzRuZzhXLWdkU2ZubWxTS19jT09BeGo4NXY4MklSY2tTWUJkQjNBZzhJN0hnbi16UTFuRVpwczRnUFBLbDJTNE9aZ3VxREV5TXI4eV9oV2hkMkZpanVRY1RGbVhDWWN4VnBwSFVTT2dDcUln?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeXh1WE55ZDlLWWVHMmFCR0xWOWZRdm02TDFuNTJNNzRtdDZ5RDJhSHAtVkRPQ1kyM29oTXZQdEV1ZnJHTDhHVEhEdU9hS19yNzBTeVRHclhCeDF0U2E2YXk4eGNId1NjQ2lBNWtUYUdYU0xnZVo0eE9UdlRMWmlCN0d6OGdUUkRVUDRMSW5ST0pmWXdFbGt2WUo4RzRuZzhXLWdkU2ZubWxTS19jT09BeGo4NXY4MklSY2tTWUJkQjNBZzhJN0hnbi16UTFuRVpwczRnUFBLbDJTNE9aZ3VxREV5TXI4eV9oV2hkMkZpanVRY1RGbVhDWWN4VnBwSFVTT2dDcUln",
+  "snippet": "There's been a 'generational shift' from daily drinking to daily cannabis use: study thecanadianpressnews.ca",
+  "published": "2026-11-23T05:01:02+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T06:11:06.033004+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "ee0cf73f2d",
   "slug": "act-research-reports-7-4-month-trailer-backlog-ratio-ee0cf73f2d",
   "title": "ACT Research Reports 7.4-Month Trailer Backlog Ratio",
@@ -28085,35 +28114,6 @@
   "sum_pending": false
  },
  {
-  "id": "0f02600b5b",
-  "slug": "uk-issues-new-travel-alert-for-kenya-warns-against-visits-to-several-r-0f02600b5b",
-  "title": "UK Issues New Travel Alert For Kenya, Warns Against Visits To Several Regions",
-  "orig_title": "UK Issues New Travel Alert For Kenya, Warns Against Visits To Several Regions",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Kenya Times",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTEFjLW9uUDlrZC1YdG1ZZXAzNjNlNXNEQ3VNNmRWekVaN0xiSWtLek1kbjFra1JURkY2a2xuazRseFJ1cGNzV281aEtVaURISG1sSGs2cl8yenJEc3FSSUZXeEI1MjJ4QUlkYUM2Y3JKcU1MQmtqel9idmtpQk0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTEFjLW9uUDlrZC1YdG1ZZXAzNjNlNXNEQ3VNNmRWekVaN0xiSWtLek1kbjFra1JURkY2a2xuazRseFJ1cGNzV281aEtVaURISG1sSGs2cl8yenJEc3FSSUZXeEI1MjJ4QUlkYUM2Y3JKcU1MQmtqel9idmtpQk0",
-  "snippet": "UK Issues New Travel Alert For Kenya, Warns Against Visits To Several Regions The Kenya Times",
-  "published": "2026-11-19T05:50:32+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T06:01:06.512374+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "7952021a68",
   "slug": "bridge-collapses-on-patiala-sangrur-bathinda-highway-2-trucks-left-han-7952021a68",
   "title": "Bridge collapses on Patiala-Sangrur-Bathinda highway, 2 trucks left hanging",
@@ -28144,36 +28144,6 @@
   "source_note": "paywalled: excerpt only · 11 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "ae3bee733b",
-  "slug": "man-sentenced-to-prison-for-7-2-million-cargo-theft-scheme-in-southern-ae3bee733b",
-  "title": "Man sentenced to prison for $7.2 million cargo theft scheme in Southern California",
-  "orig_title": "Man sentenced to prison for $7.2 million cargo theft scheme in Southern California",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 43,
-  "source": "KTLA",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQeW5SQkJld0xBU2NURlY1V2FsbnBlZ0g4TUp3eTJqUU54WmV0NXBQUnNRZUg1dlJPN21vbGl0ajl3MmJxNXhwcUhtZVpZMXpFSnNscnZvLXRraFFLRmtvT1JyMWNZTkpqTVhUMUhBZ1pxM0hGT1NkeEZqUzPSAYIBQVVfeXFMUFZIZkU4bzNMc1cxRkRpYWRxdVNvakN5WTF4OTVyYXlOSzJQV2g4V3dwejNmaGkzUktKSjhKcUYwaEFMVE5STVpSdkwyNFQycU05M3Fpc2ZybUV5S3ZOaHVQd2tDekpzOW5SUkd6NmIwS3hFY1VjWDYxWGlhTjZvVVJiQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQeW5SQkJld0xBU2NURlY1V2FsbnBlZ0g4TUp3eTJqUU54WmV0NXBQUnNRZUg1dlJPN21vbGl0ajl3MmJxNXhwcUhtZVpZMXpFSnNscnZvLXRraFFLRmtvT1JyMWNZTkpqTVhUMUhBZ1pxM0hGT1NkeEZqUzPSAYIBQVVfeXFMUFZIZkU4bzNMc1cxRkRpYWRxdVNvakN5WTF4OTVyYXlOSzJQV2g4V3dwejNmaGkzUktKSjhKcUYwaEFMVE5STVpSdkwyNFQycU05M3Fpc2ZybUV5S3ZOaHVQd2tDekpzOW5SUkd6NmIwS3hFY1VjWDYxWGlhTjZvVVJiQQ",
-  "snippet": "Man sentenced to prison for $7.2 million cargo theft scheme in Southern California KTLA",
-  "published": "2026-11-19T05:34:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T06:01:06.512374+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contract"
-  ],
-  "labels": [],
-  "kind": "crime",
-  "sum_pending": false,
-  "dup_of": "50baa1f41e"
  },
  {
   "id": "ed024c8ad3",
