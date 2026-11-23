@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:11:18.264720+00:00",
+ "updated": "2026-11-23T19:21:03.140541+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -38,7 +38,7 @@
      6,
      6,
      1,
-     5,
+     6,
      9,
      21,
      17,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:57 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -263,7 +263,7 @@
      2,
      4,
      8,
-     11,
+     10,
      23,
      16,
      1,
@@ -289,7 +289,7 @@
      2,
      2,
      1,
-     3,
+     2,
      4,
      5,
      6,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:57 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 pm CST",
+    "updated": "At 3:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:05:12",
+    "updated": "14:20:13",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At Noon CST",
+    "updated": "At 1:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1088,7 +1088,7 @@
      20,
      26,
      28,
-     44,
+     40,
      57,
      56,
      57,
@@ -1231,7 +1231,7 @@
      7,
      8,
      7,
-     12,
+     10,
      15,
      15,
      15,
@@ -1278,11 +1278,11 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "3",
-    "status": "delay",
-    "updated": "At 10:00 am PST",
+    "status": "no delay",
+    "updated": "At 11:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:05:12",
+    "updated": "11:20:14",
     "hours": "24 hrs/day"
    },
    "north": {
