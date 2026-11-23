@@ -1,5 +1,34 @@
 [
  {
+  "id": "572f2751a5",
+  "slug": "garmin-d-zl-headset-210-discounted-to-299-99-572f2751a5",
+  "title": "Garmin dēzl™ Headset 210 discounted to $299.99",
+  "orig_title": "Garmin dēzl™ Headset 210 discounted to $299.99",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Technobezz",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTDZsUjVLR3RKaWhmUzdtcGc3VVdoeGtfTHhZaWpCMXYtLXJITGFNelNjYk1HVEFCcHZIRlU1MzlHVGxYeWdWYkNHTldFaFV5X3IxUHUxVnowVHBHNld2elI2OXNGQ3Z3OGhKR0R4NWRDem4yVlhTUW0zZDVZRjVZWjdR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTDZsUjVLR3RKaWhmUzdtcGc3VVdoeGtfTHhZaWpCMXYtLXJITGFNelNjYk1HVEFCcHZIRlU1MzlHVGxYeWdWYkNHTldFaFV5X3IxUHUxVnowVHBHNld2elI2OXNGQ3Z3OGhKR0R4NWRDem4yVlhTUW0zZDVZRjVZWjdR",
+  "snippet": "Garmin dēzl™ Headset 210 discounted to $299.99 Technobezz",
+  "published": "2026-11-23T13:57:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T14:11:07.237874+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "4c14233b45",
   "slug": "atri-finds-highway-congestion-costs-trucking-industry-128-2-billion-4c14233b45",
   "title": "ATRI finds highway congestion costs trucking industry $128.2 billion",
@@ -1274,6 +1303,72 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "e2a5d02a95",
+  "slug": "winter-road-conditions-across-the-midwest-how-truckers-and-dispatchers-e2a5d02a95",
+  "title": "Winter Road Conditions Across the Midwest: How Truckers and Dispatchers Check Routes Before Departure",
+  "orig_title": "Winter Road Conditions Across the Midwest: How Truckers and Dispatchers Check Routes Before Departure",
+  "summary": "This Container News guide explains how drivers and dispatchers can check winter road conditions before leaving on trips through Ohio, Indiana and Kentucky. It says snow and freezing rain in Ohio can affect freight headed west hours after a driver has left, so dispatchers should build those changes into routing and scheduling. The article lists OHGO, GoKY, INDOT Traffic Wise, weather alerts and Trucker Guide camera views as tools for checking routes.\n\nThe article notes that state crews do not maintain county, township or city roads, so the final miles to a delivery site may not be clear even when the highway is. It also cautions that traffic cameras show only specific spots and do not replace official reports of closures, crashes or restrictions. Dispatchers are advised to keep tracking conditions after departure and to put safety ahead of on-time arrival if a route turns hazardous.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 45,
+  "source": "Container News",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTUhxZk5zVWVXdXZ5VlJsOXBMNnNFSV92NUZqclB1SnB1ZkVnb2VYSHdiWHBMcjg2MHA2bmVBZVRLRnREQ2FvT1RNWGpDSHFHWmNYMWUyWmhEa0VEOXV5UF9CZEwyendhYW5lejE4VVNYRFNEZGRjYWZyX0JnSm9OdzF1SGdYVDJ5VkpVMXF4TF9DRU1kdDlObkxMU0RXR05IdloyX3JaclVsNmI5TjFhNzNUV19vemRkMDhoSVhRbGxIdS1KZTVF?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTUhxZk5zVWVXdXZ5VlJsOXBMNnNFSV92NUZqclB1SnB1ZkVnb2VYSHdiWHBMcjg2MHA2bmVBZVRLRnREQ2FvT1RNWGpDSHFHWmNYMWUyWmhEa0VEOXV5UF9CZEwyendhYW5lejE4VVNYRFNEZGRjYWZyX0JnSm9OdzF1SGdYVDJ5VkpVMXF4TF9DRU1kdDlObkxMU0RXR05IdloyX3JaclVsNmI5TjFhNzNUV19vemRkMDhoSVhRbGxIdS1KZTVF",
+  "snippet": "Winter Road Conditions Across the Midwest: How Truckers and Dispatchers Check Routes Before Departure Container News",
+  "published": "2026-11-22T22:56:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T14:11:07.237874+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://container-news.com/winter-road-conditions-across-the-midwest-how-truckers-and-dispatchers-check-routes-before-departure/",
+  "source_note": "ok · 777 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "03b4d7749a72b2af",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T14:11:07.237874+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Indiana, Kentucky, and other areas of the Midwest"
+   },
+   {
+    "sentence": "2",
+    "quote": "these changes can occur hours after the driver has left"
+   },
+   {
+    "sentence": "3",
+    "quote": "OHGO, GoKY, INDOT Traffic Wise, weather alerts, and Trucker Guide"
+   },
+   {
+    "sentence": "4",
+    "quote": "County roads, township roads, city streets, and some other routes are not maintained by state crews"
+   },
+   {
+    "sentence": "5",
+    "quote": "Images may not update continuously, and they do not replace official reports"
+   },
+   {
+    "sentence": "6",
+    "quote": "If the route becomes hazardous, arriving on time should take a backseat"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 30
  },
  {
   "id": "fb7b213e87",
