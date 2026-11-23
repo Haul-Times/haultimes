@@ -1,5 +1,35 @@
 [
  {
+  "id": "e20c389966",
+  "slug": "small-trucking-firms-absorb-rising-diesel-costs-e20c389966",
+  "title": "Small Trucking Firms Absorb Rising Diesel Costs",
+  "orig_title": "Small Trucking Firms Absorb Rising Diesel Costs",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 51,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmZaV25VRjA1SU9DZkpqYWVIR0RmUXVwZUZ4bThmR3huVlFDWGVvWGwzdW1ONTZUVHZqY2tTckxLNnFUR3Ffelp3X0NDb2lma2FmQ1NGem5mSjYwMVpvQjROY0FXRHExVGRUaFVrWk5FRldpclE5Y2VIc2tsZXRTbXl0WVNBNkFKTHhJbDZR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmZaV25VRjA1SU9DZkpqYWVIR0RmUXVwZUZ4bThmR3huVlFDWGVvWGwzdW1ONTZUVHZqY2tTckxLNnFUR3Ffelp3X0NDb2lma2FmQ1NGem5mSjYwMVpvQjROY0FXRHExVGRUaFVrWk5FRldpclE5Y2VIc2tsZXRTbXl0WVNBNkFKTHhJbDZR",
+  "snippet": "Small Trucking Firms Absorb Rising Diesel Costs Wisevoter",
+  "published": "2026-11-23T15:59:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T16:11:13.059245+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Small US trucking firms scramble to survive mounting diesel costs"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "dc395f2503"
+ },
+ {
   "id": "2df07d65e7",
   "slug": "tca-seeks-nominations-for-2027-professional-drivers-of-the-year-awards-2df07d65e7",
   "title": "TCA seeks nominations for 2027 Professional Drivers of the Year awards",
@@ -26375,35 +26405,6 @@
   "source_note": "no publisher address: google page HTTPError",
   "sum_done": true,
   "sum_status": "no source text (no publisher address: google page HTTPError)"
- },
- {
-  "id": "98ff852e2e",
-  "slug": "driving-from-the-comfort-of-a-vr-headset-98ff852e2e",
-  "title": "Driving from the comfort of a VR headset",
-  "orig_title": "Driving from the comfort of a VR headset",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "ODT",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWMyekU2ZTNVMUJFUk1lUnpfNENfWUc0Mk9faFp1SVRlbG1oYlpzdm9aUjZpQzFrVkRZUXZyeTg4VWsyd0tkSTJ1T2wwWEJhemVtZEVUUzRibFNVVXFoaWtQOV9WQXZxZ2dwMk95T2Jzc0xRNFY5Njk4dHJMMXkxdkkxa1lOdHNXaUthaTNVVQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWMyekU2ZTNVMUJFUk1lUnpfNENfWUc0Mk9faFp1SVRlbG1oYlpzdm9aUjZpQzFrVkRZUXZyeTg4VWsyd0tkSTJ1T2wwWEJhemVtZEVUUzRibFNVVXFoaWtQOV9WQXZxZ2dwMk95T2Jzc0xRNFY5Njk4dHJMMXkxdkkxa1lOdHNXaUthaTNVVQ",
-  "snippet": "Driving from the comfort of a VR headset ODT",
-  "published": "2026-11-19T16:08:49+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T16:11:04.481277+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "6317db88ec",
