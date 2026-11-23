@@ -3581,6 +3581,34 @@
    "preview": {},
    "house": "promo",
    "reason": "HaulTimes update: promo"
+  },
+  "d3853ba36b": {
+   "story_id": "d3853ba36b",
+   "title": "Calls for overpass safety crackdown as semi-trailer accidents spike",
+   "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONV9HTFpPSkd5V1ZFRUd4ZW9YZTR2cWFySExsaUVEYXFCV0RKc2diMENDTGpLUEw1UmNCTkhLRWpseVdMQVE2OEJKX184MFd5cVFucnpuZlVhWkpOQS0wcDRuVnRILU1NOElOZDM1dG5OZHdWRUIxOWdpT1MyRFpuY3lvT2I1RDQ2VnE2UmRoUjR2eUhMcGZOR0VKSmZvM3lIUXI1SWNRamw",
+   "category": "regs",
+   "source": "Global News",
+   "dest": "https://haultimes.com/story/calls-for-overpass-safety-crackdown-as-semi-trailer-accidents-spike-d3853ba36b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=d3853ba36b",
+   "caption": "Calls for overpass safety crackdown as semi-trailer accidents spike.\n\nReported by Global News. The link has the details and the original article.\n\n#CanadianTrucking",
+   "status": "queued",
+   "created_at": "2026-11-23T02:41:31.247634+00:00",
+   "published": "2026-11-23T01:52:38+00:00",
+   "score": 82,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Calls for overpass safety crackdown as semi-trailer accidents spike | HaulTimes",
+    "og:description": "Reported by Global News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/3c72359076.png",
+    "og:url": "https://haultimes.com/story/calls-for-overpass-safety-crackdown-as-semi-trailer-accidents-spike-d3853ba36b/"
+   },
+   "reason": "importance 82 (threshold 65), Regulations, established outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": {
@@ -4482,7 +4510,8 @@
   "ef1c11a5c8": "skipped|importance 63 is below this platform's threshold (65)",
   "60dbe22861": "skipped|minor item (crime) or low-quality source",
   "promo-20261122": "queued|HaulTimes update",
-  "46294a6900": "skipped|minor item (announcement) or low-quality source"
+  "46294a6900": "skipped|minor item (announcement) or low-quality source",
+  "d3853ba36b": "queued|importance 82 (threshold 65), Regulations, established outlet"
  },
  "decisions": [
   {
@@ -9510,6 +9539,13 @@
    "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-23T02:41:31.247634+00:00",
+   "story_id": "d3853ba36b",
+   "title": "Calls for overpass safety crackdown as semi-trailer accidents spike",
+   "action": "queued",
+   "reason": "importance 82 (threshold 65), Regulations, established outlet"
   }
  ],
  "visibility": {
