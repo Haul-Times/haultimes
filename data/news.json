@@ -27928,35 +27928,6 @@
   "sum_pending": false
  },
  {
-  "id": "ec89504f09",
-  "slug": "it-s-costing-you-less-to-fill-up-your-gas-tank-what-s-behind-falling-p-ec89504f09",
-  "title": "It's costing you less to fill up your gas tank. What's behind falling pump prices?",
-  "orig_title": "It's costing you less to fill up your gas tank. What's behind falling pump prices?",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CBC",
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2QjZlbzJuRVRKZHowRDBVd1hwdENtT003LU9PeVRta3ptbkE4VHR1aWhJVjBfbDdmTnROMUZuNFBqOV95cjNMMHE0bG9zaGdwTzgzQVFJV0hJYWF2dUtDTldTeTdWS2tTNFZUbHA2aU9SNXUtbHpr?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2QjZlbzJuRVRKZHowRDBVd1hwdENtT003LU9PeVRta3ptbkE4VHR1aWhJVjBfbDdmTnROMUZuNFBqOV95cjNMMHE0bG9zaGdwTzgzQVFJV0hJYWF2dUtDTldTeTdWS2tTNFZUbHA2aU9SNXUtbHpr",
-  "snippet": "It's costing you less to fill up your gas tank. What's behind falling pump prices? CBC",
-  "published": "2026-11-19T09:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T09:11:03.804230+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "e9c335151a",
   "slug": "japan-tests-automated-logistics-road-at-narita-airport-with-unmanned-c-e9c335151a",
   "title": "Japan tests 'automated logistics road' at Narita Airport, with unmanned carts to haul cargo 24 hours a day",
