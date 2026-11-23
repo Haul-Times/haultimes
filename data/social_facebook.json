@@ -4583,7 +4583,8 @@
   "2a8865c284": "skipped|importance 55 is below this platform's threshold (65)",
   "a97d84953b": "skipped|importance 55 is below this platform's threshold (65)",
   "2df07d65e7": "skipped|minor item (event) or low-quality source",
-  "76f408f01c": "skipped|importance 55 is below this platform's threshold (65)"
+  "76f408f01c": "skipped|importance 55 is below this platform's threshold (65)",
+  "1fa516b8ee": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9821,6 +9822,13 @@
    "title": "St. Christopher Truckers Relief Fund raises more than $800K ahead of 20th anniversary",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T16:51:20.604546+00:00",
+   "story_id": "1fa516b8ee",
+   "title": "U.S. Bank Freight Payment Index: Shipper costs hit five-year high as freight demand stalls",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
