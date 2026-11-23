@@ -4769,7 +4769,8 @@
   "fc2f8d80fb": "skipped|importance 45 is below this platform's threshold (65)",
   "8380fc313d": "skipped|importance 55 is below this platform's threshold (65)",
   "4ec53e188d": "skipped|importance 45 is below this platform's threshold (65)",
-  "6d6c3a6cad": "skipped|minor item (incident) or low-quality source"
+  "6d6c3a6cad": "skipped|minor item (incident) or low-quality source",
+  "c9bccac913": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10161,6 +10162,13 @@
    "title": "Child killed in crash involving SUV, semi-truck on Regina Bypass",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-23T21:12:03.451913+00:00",
+   "story_id": "c9bccac913",
+   "title": "Illegal immigrant truckers expose a deadly licensing problem",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
