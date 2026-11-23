@@ -6883,6 +6883,35 @@
   "sum_pending": false
  },
  {
+  "id": "8d99856f26",
+  "slug": "u-s-stocks-tumble-and-the-s-p-500-drops-as-the-sell-off-for-ai-stocks-8d99856f26",
+  "title": "U.S. stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates",
+  "orig_title": "U.S. stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTBhXzVMQVRmRWROdHEzblVub2RqTGNrbGVWTDZsdl9TNm9fM2pmaklZMzlvTmJ4LVVDUkVfbDM5M1R5SWF0TlpuMmZhYzFKQ2s4alpsb2xZcmd2UFE3OXZ1X3VwcldPSWUtdFl3c20zLXkyakVHN3hBbktQMkhlbDEyYmlUeG54MGhEeVNna3VZUnhlcVpmZU10T1dKMzlNTjdUMDdERWx4bENqWmhNY1FSSUxqSWJzYnFncWFidjk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTBhXzVMQVRmRWROdHEzblVub2RqTGNrbGVWTDZsdl9TNm9fM2pmaklZMzlvTmJ4LVVDUkVfbDM5M1R5SWF0TlpuMmZhYzFKQ2s4alpsb2xZcmd2UFE3OXZ1X3VwcldPSWUtdFl3c20zLXkyakVHN3hBbktQMkhlbDEyYmlUeG54MGhEeVNna3VZUnhlcVpmZU10T1dKMzlNTjdUMDdERWx4bENqWmhNY1FSSUxqSWJzYnFncWFidjk",
+  "snippet": "U.S. stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates CTV News",
+  "published": "2026-11-20T19:06:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T08:01:06.644297+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d48aea6f2d",
   "slug": "police-didn-t-consider-key-factors-in-francique-arrest-plan-inquest-he-d48aea6f2d",
   "title": "Police didn't consider key factors in Francique arrest plan, inquest hears",
@@ -31413,36 +31442,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "55916bac5b",
-  "slug": "oregon-logging-group-calls-on-kotek-lawmakers-to-address-high-diesel-p-55916bac5b",
-  "title": "Oregon logging group calls on Kotek, lawmakers to address high diesel prices",
-  "orig_title": "Oregon logging group calls on Kotek, lawmakers to address high diesel prices",
-  "summary": "",
-  "why": "",
-  "category": "fuel",
-  "region": "",
-  "importance": 57,
-  "source": "AOL.com",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnVjcThYbk80QUh0ZUtkMWN4c0JFOXJWTUZickFTbTdpY0wzbFdFZFROU0NsVmMzTTcxajJiWUQ2U2RCZVlscjEySGhLeS04cWxvZ3Q0QUtoaGdmcjctNjB1ZFBpeFFqLTNfaWlyN1VlejZHTFhSQkt5QzlFdF9SYVlB?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnVjcThYbk80QUh0ZUtkMWN4c0JFOXJWTUZickFTbTdpY0wzbFdFZFROU0NsVmMzTTcxajJiWUQ2U2RCZVlscjEySGhLeS04cWxvZ3Q0QUtoaGdmcjctNjB1ZFBpeFFqLTNfaWlyN1VlejZHTFhSQkt5QzlFdF9SYVlB",
-  "snippet": "Oregon logging group calls on Kotek, lawmakers to address high diesel prices AOL.com",
-  "published": "2026-11-18T20:17:07+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T07:51:05.492586+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Oregon logging union calls on Kotek, lawmakers to address high diesel prices"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "88c5a6a00e"
  },
  {
   "id": "4b71d1d8d2",
