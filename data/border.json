@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:11:09.032409+00:00",
+ "updated": "2026-11-23T21:21:07.832331+00:00",
  "hour_now": 16,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": 0,
-    "lanes": "8",
-    "status": "no delay",
-    "updated": "At 3:00 pm EST",
+    "lanes": "7",
+    "status": "delay",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -40,7 +40,7 @@
      1,
      7,
      6,
-     17,
+     16,
      17,
      11,
      4,
@@ -115,7 +115,7 @@
      51,
      46,
      43,
-     29,
+     28,
      36,
      36,
      35,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 65,
+    "wait": 66,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 3:57 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -265,7 +265,7 @@
      8,
      8,
      16,
-     22,
+     27,
      1,
      0,
      0,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:57 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -715,7 +715,7 @@
      0,
      1,
      5,
-     3,
+     4,
      1,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:05:22",
+    "updated": "16:15:22",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 0,
+    "wait": 32,
     "fast_wait": null,
     "lanes": "1",
-    "status": "no delay",
-    "updated": "At 2:00 pm CST",
+    "status": "delay",
+    "updated": "At 3:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1090,7 +1090,7 @@
      28,
      30,
      30,
-     44,
+     43,
      57,
      42,
      83,
@@ -1233,7 +1233,7 @@
      7,
      8,
      8,
-     12,
+     10,
      15,
      20,
      9,
@@ -1334,7 +1334,7 @@
      8,
      8,
      9,
-     9,
+     8,
      10,
      12,
      7,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "13:05:22",
+    "updated": "13:15:23",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1462,8 +1462,8 @@
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": 0,
-    "status": "no delay"
+    "wait": null,
+    "status": "Lanes Closed"
    },
    {
     "name": "Jackman",

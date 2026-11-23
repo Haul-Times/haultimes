@@ -1,5 +1,34 @@
 [
  {
+  "id": "0d0812605c",
+  "slug": "hope-for-restart-grows-as-nackawic-n-b-feels-effects-of-mill-shutdown-0d0812605c",
+  "title": "Hope for restart grows as Nackawic, N.B. feels effects of mill shutdown",
+  "orig_title": "Hope for restart grows as Nackawic, N.B. feels effects of mill shutdown",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwRU9ZRU1ieEMxRzh0dzJVUlltSnZBT3AxRERwU1NHdktYWXVuaDZsY3JpS2JhcTY1SEpCS3FNdkdMRUdGdFA0Ql9MaVZXVVJ6LTB3d3BmRlJfdHNBaG10dEpIT3g3WVJOWmw5QW01NUZuWVdrWk9iRjAyMk4?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwRU9ZRU1ieEMxRzh0dzJVUlltSnZBT3AxRERwU1NHdktYWXVuaDZsY3JpS2JhcTY1SEpCS3FNdkdMRUdGdFA0Ql9MaVZXVVJ6LTB3d3BmRlJfdHNBaG10dEpIT3g3WVJOWmw5QW01NUZuWVdrWk9iRjAyMk4",
+  "snippet": "Hope for restart grows as Nackawic, N.B. feels effects of mill shutdown Global News",
+  "published": "2026-11-23T21:15:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T21:21:07.971655+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c9bccac913",
   "slug": "illegal-immigrant-truckers-expose-a-deadly-licensing-problem-c9bccac913",
   "title": "Illegal immigrant truckers expose a deadly licensing problem",
@@ -117,7 +146,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2
+  "sum_tries": 3
  },
  {
   "id": "78fd83d3a8",
@@ -725,7 +754,7 @@
   "labels": [],
   "kind": "incident",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://globalnews.ca/news/12162570/regina-bypass-fatal-crash-child/",
   "source_note": "ok · 155 words"
  },
@@ -3998,6 +4027,35 @@
   "published": "2026-11-22T21:00:00+00:00",
   "date_known": true,
   "first_seen": "2026-11-22T21:11:04.305066+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "7a3d78a6e4",
+  "slug": "one-mom-s-race-one-little-girl-s-big-wish-harbor-half-marathon-celebra-7a3d78a6e4",
+  "title": "One mom's race, one little girl's big wish: Harbor Half marathon celebrating more than just runners",
+  "orig_title": "One mom's race, one little girl's big wish: Harbor Half marathon celebrating more than just runners",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "NewsBreak: Local News & Alerts",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb1BPQjR2UDcyVGRLWThSTEE4cER3dUNqT1otYWRrS2RINGJyOUhBWUhWN0JlMTdqTWhzZzRpa1ZWTy1YQmtBczBNdi0yYzhkNG84RVJPNFRRM1J6YjR6VGRsSlk3cF9UWkFWOUpXckJ3QWRBY0NXVnlISzZtYkpNNF9CTzB6bW5XRmVwaGEzVnoxVGgwNkl4YUl6OHN6QXlUdW94Ymp3ZlZieXlmQy1jVWw5YVltdS1rMnlMZE14UTZZNWZPaFo3dHc1MnNGN2NUalR2T0pCMmVER0dEcVdBWDB3QmhDME5CY2ZZ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb1BPQjR2UDcyVGRLWThSTEE4cER3dUNqT1otYWRrS2RINGJyOUhBWUhWN0JlMTdqTWhzZzRpa1ZWTy1YQmtBczBNdi0yYzhkNG84RVJPNFRRM1J6YjR6VGRsSlk3cF9UWkFWOUpXckJ3QWRBY0NXVnlISzZtYkpNNF9CTzB6bW5XRmVwaGEzVnoxVGgwNkl4YUl6OHN6QXlUdW94Ymp3ZlZieXlmQy1jVWw5YVltdS1rMnlMZE14UTZZNWZPaFo3dHc1MnNGN2NUalR2T0pCMmVER0dEcVdBWDB3QmhDME5CY2ZZ",
+  "snippet": "One mom's race, one little girl's big wish: Harbor Half marathon celebrating more than just runners NewsBreak: Local News & Alerts",
+  "published": "2026-11-22T19:29:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T21:21:07.971655+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
