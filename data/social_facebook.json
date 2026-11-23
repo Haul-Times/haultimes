@@ -4861,7 +4861,8 @@
   "a87be16531": "skipped|importance 62 is below this platform's threshold (65)",
   "5de46895ec": "skipped|importance 55 is below this platform's threshold (65)",
   "2a483d4342": "posted|importance 70 (threshold 65), Equipment, established outlet; waited 45 min in queue",
-  "ec39d44703": "skipped|importance 50 is below this platform's threshold (65)"
+  "ec39d44703": "skipped|importance 50 is below this platform's threshold (65)",
+  "0e4452b890": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10323,6 +10324,13 @@
    "title": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths",
    "action": "posted",
    "reason": "importance 70 (threshold 65), Equipment, established outlet; waited 45 min in queue"
+  },
+  {
+   "at": "2026-11-23T23:21:30.095683+00:00",
+   "story_id": "0e4452b890",
+   "title": "Refrigerated trucking rates rising for the holidays despite falling produce volumes",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
