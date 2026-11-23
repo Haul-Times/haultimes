@@ -358,6 +358,74 @@
   "ai_importance": 40
  },
  {
+  "id": "1dd6c6245a",
+  "slug": "odot-weigh-station-operations-cite-138-truckers-1dd6c6245a",
+  "title": "ODOT Weigh Station Operations Cite 138 Truckers",
+  "orig_title": "ODOT Weigh Station Operations Cite 138 Truckers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 45,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkNWdWJYMnZfWkJxeVZyNjQ2WUlQM21SYURmSXQ2bXN3MGlMNnJHUjJYcGY0NE1heWVtN1BkckhaUi1NMWFMbEhmZENmU25KaTB4ZXBlZE1rRWMtWnRzUjZQQlNMNTE0S0kxR2hpQjhLeFEwVEtUV09BeV81Ql9kOU1XcXNweXlwOU4wd2hOMHBIenBSRXhFNnVB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkNWdWJYMnZfWkJxeVZyNjQ2WUlQM21SYURmSXQ2bXN3MGlMNnJHUjJYcGY0NE1heWVtN1BkckhaUi1NMWFMbEhmZENmU25KaTB4ZXBlZE1rRWMtWnRzUjZQQlNMNTE0S0kxR2hpQjhLeFEwVEtUV09BeV81Ql9kOU1XcXNweXlwOU4wd2hOMHBIenBSRXhFNnVB",
+  "snippet": "ODOT Weigh Station Operations Cite 138 Truckers Wisevoter",
+  "published": "2026-11-23T01:54:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T06:31:03.127230+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://wisevoter.com/world/us/or/2026/11/23/oregon-weigh-station-operations-cite-138-truckers",
+  "source_note": "ok · 418 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "7b7a7ad69f2aa40e",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T06:31:03.127230+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "conducted three weigh station enforcement operations in October and November 2026, stopping 149 semitrucks"
+   },
+   {
+    "sentence": "2",
+    "quote": "Law enforcement issued 138 citations for 223 violations"
+   },
+   {
+    "sentence": "3",
+    "quote": "Oct. 5-7, 2026: Umatilla Port of Entry weigh station operation"
+   },
+   {
+    "sentence": "4",
+    "quote": "38 trucks and seven drivers placed out of service at Umatilla alone"
+   },
+   {
+    "sentence": "5",
+    "quote": "Citations included illegal scale bypass, speeding, driving while suspended"
+   },
+   {
+    "sentence": "6",
+    "quote": "Drivers placed out of service must correct all critical violations before continuing their trips."
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'the oregon department of transportation conducted three weigh station '"
+  ],
+  "ai_category": "regs",
+  "ai_importance": 60
+ },
+ {
   "id": "d3853ba36b",
   "slug": "calls-for-overpass-safety-crackdown-as-semi-trailer-accidents-spike-d3853ba36b",
   "title": "Calls for overpass safety crackdown as semi-trailer accidents spike",
