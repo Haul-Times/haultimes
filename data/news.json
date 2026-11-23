@@ -1031,6 +1031,35 @@
   "sum_pending": false
  },
  {
+  "id": "8721ff4a69",
+  "slug": "fire-at-a-foam-warehouse-in-sidoarjo-8721ff4a69",
+  "title": "Fire at a foam warehouse in Sidoarjo",
+  "orig_title": "Fire at a foam warehouse in Sidoarjo",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "ANTARA Foto",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWgwTFN2VDhORDFDRTlFcTROWnFLS3BjNUU3bWI0Zm5jekYxa3Y2RllXdVlMZ0FBZ2wwZ3lkVjMxTTQ0bEI5bllXZkdpSGJmRDlMeHllcXNvTDBHU05abVNzRlNNdXkydS1VYXUzOEdzWnNjcEtjeXBzbWMybElTQTJVZGFUSU3SAYcBQVVfeXFMT0loMExTdlQ4TkQxQ0U5RXE0TlpxS0twYzVFN21iNGZuY3pGMWt2NkZZV3VZTGdBQWdsMGd5ZFYzMU00NGxCOW5ZV2ZHaUhiZkQ5THh5ZXFzb0wwR1NOWm1Tc0ZTTXV5MnUtVWF1MzhHc1pzY3BLY3lwc21jMmxJU0EyVWRhVElN?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWgwTFN2VDhORDFDRTlFcTROWnFLS3BjNUU3bWI0Zm5jekYxa3Y2RllXdVlMZ0FBZ2wwZ3lkVjMxTTQ0bEI5bllXZkdpSGJmRDlMeHllcXNvTDBHU05abVNzRlNNdXkydS1VYXUzOEdzWnNjcEtjeXBzbWMybElTQTJVZGFUSU3SAYcBQVVfeXFMT0loMExTdlQ4TkQxQ0U5RXE0TlpxS0twYzVFN21iNGZuY3pGMWt2NkZZV3VZTGdBQWdsMGd5ZFYzMU00NGxCOW5ZV2ZHaUhiZkQ5THh5ZXFzb0wwR1NOWm1Tc0ZTTXV5MnUtVWF1MzhHc1pzY3BLY3lwc21jMmxJU0EyVWRhVElN",
+  "snippet": "Fire at a foam warehouse in Sidoarjo ANTARA Foto",
+  "published": "2026-11-22T12:26:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T04:11:06.381390+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3a9c5e9a09",
   "slug": "kirkuk-checkpoint-closures-become-daily-occurrence-drivers-say-3a9c5e9a09",
   "title": "Kirkuk Checkpoint Closures Become Daily Occurrence, Drivers Say",
@@ -28427,35 +28456,6 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "2de8a29ece"
- },
- {
-  "id": "24d5d27abd",
-  "slug": "geodis-archives-24d5d27abd",
-  "title": "Geodis Archives",
-  "orig_title": "Geodis Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzLXRjalJBNGUtZ29zcldFTzJpbWVSWWxmbjFKWnB5bXJFY0tmWWhmQmx1MUY1QnZSQUY4c2p6TzJJY01MTHVtUnQ4RExPRjRnXzlr?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzLXRjalJBNGUtZ29zcldFTzJpbWVSWWxmbjFKWnB5bXJFY0tmWWhmQmx1MUY1QnZSQUY4c2p6TzJJY01MTHVtUnQ4RExPRjRnXzlr",
-  "snippet": "Geodis Archives Truck News",
-  "published": "2026-11-19T04:05:26+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T04:11:03.639644+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "fa32d78cd2",
