@@ -120,6 +120,55 @@ def hashtags(s, limit=2):
     return tags[:limit]
 
 
+# Topic tags for Facebook: added only when the headline or checked summary mentions the topic.
+TOPIC_TAGS = [
+    (["cargo theft", "stolen cargo", "cargonet", "theft"], "#CargoTheft"),
+    (["freight fraud", "double brokering", "double-brokering", "identity theft", "fraud", "scam"], "#FreightFraud"),
+    (["broker", "brokerage", "brokers"], "#FreightBrokers"),
+    (["owner-operator", "owner operator", "owner-operators", "small carrier", "small carriers"], "#OwnerOperator"),
+    (["truck driver", "truck drivers", "drivers", "driver", "trucker", "truckers", "cdl"], "#TruckDrivers"),
+    (["diesel"], "#Diesel"),
+    (["fuel price", "fuel prices", "fuel costs", "gas prices"], "#FuelPrices"),
+    (["tariff", "tariffs", "cusma", "usmca"], "#Tariffs"),
+    (["border", "cbsa", "customs", "cbp", "crossing"], "#CrossBorder"),
+    (["fmcsa"], "#FMCSA"),
+    (["eld", "elds", "electronic logging", "hours of service", "hours-of-service"], "#ELD"),
+    (["safety", "crash", "crashes", "inspection", "out of service", "out-of-service", "cvsa"], "#TruckSafety"),
+    (["freight rates", "spot rate", "spot rates", "contract rates", "rates", "load board", "dat ", "truckstop"], "#FreightRates"),
+    (["freight market", "freight demand", "freight volumes", "capacity", "tonnage"], "#FreightMarket"),
+    (["supply chain"], "#SupplyChain"),
+    (["cyber", "cyberattack", "ransomware", "hackers", "data breach"], "#Cybersecurity"),
+    (["trailer", "trailers", "class 8", "truck orders", "tractor orders", "backlog"], "#TruckingEquipment"),
+    (["acquires", "acquisition", "acquire", "merger", "buy", "buys", "bankruptcy", "earnings", "revenue"], "#TruckingBusiness"),
+    (["port", "ports", "warehouse", "warehouses", "distribution center", "rail", "intermodal", "congestion"], "#Logistics"),
+    (["electric truck", "electric trucks", "battery-electric", "zero-emission", "hydrogen", "ev "], "#ElectricTrucks"),
+    (["autonomous", "driverless", "self-driving"], "#AutonomousTrucks"),
+    (["insurance", "nuclear verdict", "nuclear verdicts", "lawsuit", "verdict"], "#TruckingInsurance"),
+    (["ontario", "toronto"], "#Ontario"),
+    (["quebec", "montreal"], "#Quebec"),
+    (["alberta", "calgary", "edmonton"], "#Alberta"),
+    (["british columbia", "b.c.", "vancouver"], "#BritishColumbia"),
+]
+
+
+def facebook_hashtags(s, limit=5):
+    """3-5 relevant tags for a Facebook story post: the broad tag(s), the story's topic tags, and #HaulTimes.
+    Every topic tag comes from a word in the headline or the checked summary, never from guesswork."""
+    t = " %s " % ((s.get("orig_title") or s.get("title", "")) + " " + (s.get("summary") or "")).lower()
+    tags = hashtags(s)
+    if tags[0] == "#CanadianTrucking":
+        tags.insert(1, "#Trucking")
+    for words_, tag in TOPIC_TAGS:
+        if len(tags) >= limit - 1:
+            break
+        if tag not in tags and editorial._has(t, words_):
+            tags.append(tag)
+    if len(tags) < 3:
+        tags.append("#TruckingNews")
+    tags.append("#HaulTimes")
+    return tags[:limit]
+
+
 def publisher(s):
     """Publisher name as readers know it. Domain-style names lose their ending so X/Facebook
     don't turn them into a second link ("TheTrucker.com" -> "TheTrucker")."""
@@ -204,9 +253,9 @@ def shorten_headline(text, budget):
 # ------------------------------------------------------------------ captions
 
 def facebook_caption(s, override=None):
-    """Factual opening line, one or two supported sentences, attribution, 0-2 hashtags.
+    """Factual opening line, one or two supported sentences, attribution, 3-5 hashtags.
     The HaulTimes link is attached as the post's link (with its preview card)."""
-    tags = " ".join(hashtags(s))
+    tags = " ".join(facebook_hashtags(s))
     if override:
         return override.strip() + ("\n\n" + tags if tags and "#" not in override else "")
     pub = publisher(s)
@@ -574,7 +623,7 @@ def diesel_caption(e, o=None):
             parts.append("In Ontario, diesel averaged %.1f¢ a litre (week of %s)." % (
                 o["prices"][k], datetime.fromisoformat(o["week"]).strftime("%B %-d")))
     parts.append("Every state and province on the HaulTimes diesel map.")
-    return "\n\n".join([" ".join(parts[:2]), " ".join(parts[2:]), "#Diesel #Trucking #FuelPrices"]).replace("\n\n\n\n", "\n\n")
+    return "\n\n".join([" ".join(parts[:2]), " ".join(parts[2:]), "#Diesel #Trucking #FuelPrices #FreightRates #HaulTimes"]).replace("\n\n\n\n", "\n\n")
 
 
 def border_alerts(border, minutes):
@@ -640,7 +689,7 @@ def queue_house(platform, cfg, st, now):
         if recent:
             continue
         hid = "border-%s-%s" % (key, local.strftime("%Y%m%d%H"))
-        _house_item(st, now, hid, text[:90], text + "\n\nLive waits at every crossing on HaulTimes.\n\n#CrossBorder #Trucking",
+        _house_item(st, now, hid, text[:90], text + "\n\nLive waits at every crossing on HaulTimes.\n\n#CrossBorder #Trucking #CanadianTrucking #BorderWaitTimes #HaulTimes",
                     _house_share(platform, hid, "/border-wait-times/", "border", "Truck border delay", text,
                                  border_alerts.info.get(key), now),
                     cfg.get("breaking_score", 85), "border")

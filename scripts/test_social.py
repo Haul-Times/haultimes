@@ -140,7 +140,7 @@ class Captions(unittest.TestCase):
         c = so.facebook_caption(s)
         self.assertTrue(c.startswith("FMCSA finalizes English proficiency rule for truck drivers."))
         self.assertIn("Reported by Truck News.", c)
-        self.assertLessEqual(len([w for w in c.split() if w.startswith("#")]), 2)
+        self.assertLessEqual(len([w for w in c.split() if w.startswith("#")]), 5)
         self.assertIn("#FMCSA", c)
         self.assertNotIn("http", c)  # the link goes in Facebook's link field (with preview card)
 
@@ -556,7 +556,7 @@ class HousePosts(unittest.TestCase):
         self.assertIn("US diesel averaged $6.29 a gallon for the week of November 2, up 4¢", t)
         self.assertIn("Highest: California at $8.08. Lowest: Lower Atlantic at $5.81.", t)
         self.assertIn("243.1¢ a litre", t)
-        self.assertTrue(t.rstrip().endswith("#Diesel #Trucking #FuelPrices"))
+        self.assertTrue(t.rstrip().endswith("#Diesel #Trucking #FuelPrices #FreightRates #HaulTimes"))
 
     def test_border_alert_only_when_unusual(self):
         usual = [20] * 24
@@ -630,6 +630,25 @@ class HousePosts(unittest.TestCase):
         self.assertEqual(st["items"]["promo-x"]["status"], "queued")      # not dropped for "no longer on the site"
         so.refresh_queue("facebook", [], cfg(), st, NOW + timedelta(hours=25))
         self.assertEqual(st["items"]["promo-x"]["status"], "expired")
+
+
+class FacebookTags(unittest.TestCase):
+    def test_three_to_five_relevant_tags(self):
+        t = so.facebook_hashtags(story(1, "14 Arrested in $22.5M SoCal Cargo Theft Case"))
+        self.assertTrue(3 <= len(t) <= 5)
+        self.assertEqual(t[-1], "#HaulTimes")
+        self.assertIn("#Trucking", t)
+        self.assertIn("#CargoTheft", t)
+        self.assertNotIn("#FMCSA", t)
+
+    def test_canadian_story_gets_both_broad_tags(self):
+        t = so.facebook_hashtags(story(1, "Alberta proposes $50K fines for unsafe trucking operators"))
+        self.assertEqual(t[:2], ["#CanadianTrucking", "#Trucking"])
+        self.assertIn("#Alberta", t)
+        self.assertLessEqual(len(t), 5)
+
+    def test_x_keeps_two(self):
+        self.assertLessEqual(len(so.hashtags(story(1, "14 Arrested in $22.5M SoCal Cargo Theft Case"))), 2)
 
 
 class FacebookBlock(Base):
