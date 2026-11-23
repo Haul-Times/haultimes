@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T21:51:05.229747+00:00",
- "hour_now": 16,
+ "updated": "2026-11-23T22:01:04.469096+00:00",
+ "hour_now": 17,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -41,7 +41,7 @@
      7,
      6,
      16,
-     17,
+     16,
      11,
      4,
      0,
@@ -85,17 +85,17 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 26,
-    "fast_wait": 9,
-    "lanes": "5",
-    "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "wait": 0,
+    "fast_wait": 0,
+    "lanes": "3",
+    "status": "no delay",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 16:16 EST"
+    "updated": "2026-11-23 16:46 EST"
    },
    "usual": {
     "south": [
@@ -116,7 +116,7 @@
      46,
      43,
      28,
-     36,
+     32,
      36,
      35,
      12,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 15,
+    "wait": 16,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 4:37 pm EST",
+    "updated": "At 4:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -266,7 +266,7 @@
      8,
      16,
      27,
-     1,
+     3,
      0,
      0,
      4,
@@ -292,7 +292,7 @@
      2,
      3,
      4,
-     6,
+     5,
      6,
      8,
      11,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 18,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 4:37 pm EST",
+    "status": "delay",
+    "updated": "At 4:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -341,7 +341,7 @@
      1,
      0,
      1,
-     1,
+     3,
      0,
      0,
      0,
@@ -367,7 +367,7 @@
      3,
      2,
      2,
-     7,
+     6,
      3,
      2,
      9,
@@ -416,7 +416,7 @@
      0,
      0,
      4,
-     16,
+     14,
      13,
      0,
      0,
@@ -716,7 +716,7 @@
      1,
      5,
      5,
-     1,
+     2,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:50:24",
+    "updated": "17:00:26",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1091,7 +1091,7 @@
      30,
      30,
      40,
-     57,
+     54,
      42,
      83,
      111,
@@ -1234,7 +1234,7 @@
      8,
      8,
      8,
-     15,
+     13,
      20,
      9,
      15,
@@ -1260,7 +1260,7 @@
      0,
      0,
      0,
-     3,
+     2,
      0,
      0,
      0,
@@ -1335,7 +1335,7 @@
      8,
      9,
      8,
-     10,
+     9,
      12,
      7,
      6,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "13:50:24",
+    "updated": "14:00:27",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 5,
+    "status": "5 minutes"
    },
    {
     "name": "Aldergrove",
