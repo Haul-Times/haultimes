@@ -3846,14 +3846,14 @@
    "source": "eTrucker",
    "dest": "https://haultimes.com/story/aeb-false-positives-prompt-recall-of-6k-peterbilts-kenworths-2a483d4342/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2a483d4342",
    "caption": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths.\n\nReported by eTrucker. The link has the details and the original article.\n\n#Trucking #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-23T22:15:33.166234+00:00",
    "published": "2026-11-23T21:27:30+00:00",
    "score": 70,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122111499867544428",
+   "posted_at": "2026-11-23T23:01:32.509407+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths | HaulTimes",
@@ -3864,7 +3864,9 @@
    "reason": "importance 70 (threshold 65), Equipment, established outlet",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-23T23:01:32.509407+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122111499867544428"
   }
  },
  "paused": null,
@@ -4181,6 +4183,10 @@
   {
    "at": "2026-11-23T22:11:33.968499+00:00",
    "msg": "posted 192046fba0"
+  },
+  {
+   "at": "2026-11-23T23:01:32.509407+00:00",
+   "msg": "posted 2a483d4342"
   }
  ],
  "decided": {
@@ -4846,7 +4852,7 @@
   "192046fba0": "posted|importance 82 (threshold 65), Regulations, established outlet; waited 20 min in queue",
   "a87be16531": "skipped|importance 62 is below this platform's threshold (65)",
   "5de46895ec": "skipped|importance 55 is below this platform's threshold (65)",
-  "2a483d4342": "queued|importance 70 (threshold 65), Equipment, established outlet",
+  "2a483d4342": "posted|importance 70 (threshold 65), Equipment, established outlet; waited 45 min in queue",
   "ec39d44703": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
@@ -10302,6 +10308,13 @@
    "title": "Trucker who suddenly went blind center of fundraiser to get his family through the holidays",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T23:01:32.509407+00:00",
+   "story_id": "2a483d4342",
+   "title": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths",
+   "action": "posted",
+   "reason": "importance 70 (threshold 65), Equipment, established outlet; waited 45 min in queue"
   }
  ],
  "visibility": {
