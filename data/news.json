@@ -157,6 +157,35 @@
   "ai_importance": 55
  },
  {
+  "id": "c7c5f36c7b",
+  "slug": "cyprus-police-issue-166-complaints-to-truck-and-bus-drivers-in-a-week-c7c5f36c7b",
+  "title": "Cyprus police issue 166 complaints to truck and bus drivers in a week of nationwide checks",
+  "orig_title": "Cyprus police issue 166 complaints to truck and bus drivers in a week of nationwide checks",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Cyprus Inform",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZW5DcGwtcmF5cS1WR1J1SW9tLTdyLS1qUXRFSWlJam1hVzBIaWhRazJMQ09sNVl4ejJXb2JnZVdodXNtLUp6dFhWR2h0RmtMakF1RDhJMlZPOVUxLWpmdnByUUY4c1pOZXRGV0pac1gyVHlJX0ZRT0Z5QXN2ckd0N254RU5OcDIyZ2plWlp0WjEzbnp4Q29Xb2plLXVjZzBrd2pOSHNXaWROQ0VEYk4yaHJ4cjljUUx5WjNpYXBrSGlybldt?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZW5DcGwtcmF5cS1WR1J1SW9tLTdyLS1qUXRFSWlJam1hVzBIaWhRazJMQ09sNVl4ejJXb2JnZVdodXNtLUp6dFhWR2h0RmtMakF1RDhJMlZPOVUxLWpmdnByUUY4c1pOZXRGV0pac1gyVHlJX0ZRT0Z5QXN2ckd0N254RU5OcDIyZ2plWlp0WjEzbnp4Q29Xb2plLXVjZzBrd2pOSHNXaWROQ0VEYk4yaHJ4cjljUUx5WjNpYXBrSGlybldt",
+  "snippet": "Cyprus police issue 166 complaints to truck and bus drivers in a week of nationwide checks Cyprus Inform",
+  "published": "2026-11-23T09:06:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T11:21:01.532496+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0970259a9e",
   "slug": "spar-scotland-invests-over-1million-in-new-truck-fleet-0970259a9e",
   "title": "Spar Scotland invests over £1million in new truck fleet",
