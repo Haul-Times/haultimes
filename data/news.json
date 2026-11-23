@@ -85,7 +85,8 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1
  },
  {
   "id": "78fd83d3a8",
@@ -170,7 +171,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://wisevoter.com/world/us/co/2026/11/23/colorado-chain-up-assistance-program-truckers",
   "source_note": "ok · 520 words",
@@ -692,7 +693,10 @@
   "reasons": [],
   "labels": [],
   "kind": "incident",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://globalnews.ca/news/12162570/regina-bypass-fatal-crash-child/",
+  "source_note": "ok · 155 words"
  },
  {
   "id": "c2aedca561",
@@ -24113,35 +24117,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "1292d04f22",
-  "slug": "we-follow-through-1292d04f22",
-  "title": "We Follow Through",
-  "orig_title": "We Follow Through",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "News 5 Cleveland WEWS",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hbFVIbVpqYWQ1ekpkUENSN0t6amFQTjhDTnNVMUo1SVBWdHhVbjFEdno0TkVkWk9VXzhTeFhCRnFuOUpBYkxSMDJic09JRXhaX2FDZVhwOC1HRWxGb2N2NkkzaU1NR2NRdlZ0WlpnY0ZTZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hbFVIbVpqYWQ1ekpkUENSN0t6amFQTjhDTnNVMUo1SVBWdHhVbjFEdno0TkVkWk9VXzhTeFhCRnFuOUpBYkxSMDJic09JRXhaX2FDZVhwOC1HRWxGb2N2NkkzaU1NR2NRdlZ0WlpnY0ZTZw",
-  "snippet": "We Follow Through News 5 Cleveland WEWS",
-  "published": "2026-11-19T19:39:19+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T21:01:04.742490+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
   ],
   "labels": [],
   "kind": "rejected",
