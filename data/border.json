@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:11:19.034372+00:00",
+ "updated": "2026-11-23T17:21:07.761261+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -36,7 +36,7 @@
      11,
      8,
      6,
-     4,
+     5,
      0,
      2,
      9,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 11:15 EST"
+    "updated": "2026-11-23 12:06 EST"
    },
    "usual": {
     "south": [
@@ -111,7 +111,7 @@
      0,
      23,
      40,
-     52,
+     51,
      54,
      46,
      42,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 11:57 am EST",
+    "status": "no delay",
+    "updated": "At 12:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -261,7 +261,7 @@
      3,
      5,
      2,
-     5,
+     4,
      16,
      14,
      23,
@@ -287,7 +287,7 @@
      2,
      1,
      2,
-     3,
+     2,
      2,
      3,
      4,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 11:57 am EST",
+    "status": "delay",
+    "updated": "At 12:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -336,7 +336,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0,
      1,
      0,
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 11:00 am CST",
+    "updated": "At 1:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:05:06",
+    "updated": "12:15:06",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1086,7 +1086,7 @@
      20,
      15,
      20,
-     39,
+     35,
      57,
      57,
      57,
@@ -1229,7 +1229,7 @@
      12,
      14,
      7,
-     12,
+     10,
      15,
      15,
      15,
@@ -1304,7 +1304,7 @@
      16,
      23,
      18,
-     22,
+     20,
      0,
      0,
      0,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 12 PM"
+   "best_north": "Usually fastest around 9 PM"
   },
   {
    "id": "sumas",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "09:05:06",
+    "updated": "09:15:06",
     "hours": "24 hrs/day"
    },
    "north": {
