@@ -28350,67 +28350,6 @@
   "sum_v3": true
  },
  {
-  "id": "2be54580f4",
-  "slug": "specsavers-gta-stunt-swaps-game-hype-for-trucking-2be54580f4",
-  "title": "Specsavers GTA stunt swaps game hype for trucking",
-  "orig_title": "Specsavers GTA stunt swaps game hype for trucking",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "Other",
-  "importance": 45,
-  "source": "ContentGrip",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BVUpuc3pkUHZ1ZVFsYWR1U19fMGIzdnZ1VjJTSlBwblExZUdab1lLb0tZdGcta0wtQVdkU3FXMWNRWFhCbE5rQWtFNmtubTQzbDZydHpjVDMzZDJKaGtyUURLeHJpR1Jmc3Vr?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BVUpuc3pkUHZ1ZVFsYWR1U19fMGIzdnZ1VjJTSlBwblExZUdab1lLb0tZdGcta0wtQVdkU3FXMWNRWFhCbE5rQWtFNmtubTQzbDZydHpjVDMzZDJKaGtyUURLeHJpR1Jmc3Vr",
-  "snippet": "Specsavers GTA stunt swaps game hype for trucking ContentGrip",
-  "published": "2026-11-19T02:44:40+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T02:51:05.064858+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://www.contentgrip.com/specsavers-gta-transport-stunt/",
-  "source_note": "ok · 1048 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "e4a96cacb536a871",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-19T02:51:05.064858+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "It was GTA Transport Ltd, a road haulage business in Leicester, England."
-   },
-   {
-    "sentence": "2",
-    "quote": "Specsavers is sponsoring the business and offering its drivers free eye tests."
-   },
-   {
-    "sentence": "3",
-    "quote": "Specsavers made the reveal on November 18, ahead of the game's scheduled November 19 arrival."
-   },
-   {
-    "sentence": "4",
-    "quote": "Specsavers has not announced a partnership with Rockstar"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 6,
-  "ai_relevant": false
- },
- {
   "id": "5974bfaec0",
   "slug": "a-cincinnati-suburb-erupts-over-trucks-mosque-and-uzbeks-5974bfaec0",
   "title": "A Cincinnati suburb erupts over trucks, mosque and Uzbeks",
@@ -28465,35 +28404,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "5e0dffacdb",
-  "slug": "talisker-provides-ore-sorter-facility-construction-update-for-the-bral-5e0dffacdb",
-  "title": "Talisker Provides Ore Sorter Facility Construction Update for the Bralorne Gold Project",
-  "orig_title": "Talisker Provides Ore Sorter Facility Construction Update for the Bralorne Gold Project",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUlM5LW9oMzNLS3hxYkZodUkwMUNzWXh0MHJ3eTFyQ1M2ZGJjVy04WlFyQnZGaUNBNTNLa1NoMXp1QVkwM1pCSzlxTFRPU3JhSnhfZl8xWVlYdnBNeHZoVzFMdHdsVC1vU1lqYzVEY0R6UXRDaVROT0NTdVctUFFOaGM5T3oyRjdGamxOVkhyZjhfZ1U3dXg0czUtZjAtUGxSMG5tWTlNZnlMc1dxZUo2WUNtZXotTUFZZUFKc2R5T1FET1ZJRlJlb1BCaHRFT0RPNDRYWFItVUFHd3F2UHdCd3U3LTJSeDZjbmNQaTBHSC1yUzlJWlRNUkZTOGtxNF9qWDZz?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUlM5LW9oMzNLS3hxYkZodUkwMUNzWXh0MHJ3eTFyQ1M2ZGJjVy04WlFyQnZGaUNBNTNLa1NoMXp1QVkwM1pCSzlxTFRPU3JhSnhfZl8xWVlYdnBNeHZoVzFMdHdsVC1vU1lqYzVEY0R6UXRDaVROT0NTdVctUFFOaGM5T3oyRjdGamxOVkhyZjhfZ1U3dXg0czUtZjAtUGxSMG5tWTlNZnlMc1dxZUo2WUNtZXotTUFZZUFKc2R5T1FET1ZJRlJlb1BCaHRFT0RPNDRYWFItVUFHd3F2UHdCd3U3LTJSeDZjbmNQaTBHSC1yUzlJWlRNUkZTOGtxNF9qWDZz",
-  "snippet": "Talisker Provides Ore Sorter Facility Construction Update for the Bralorne Gold Project The Globe and Mail",
-  "published": "2026-11-19T02:23:11+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T02:51:05.064858+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
@@ -36539,35 +36449,6 @@
   "published": "2026-11-18T11:18:31+00:00",
   "date_known": true,
   "first_seen": "2026-11-20T20:11:11.625864+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "96ba941652",
-  "slug": "speedy-boarding-for-automated-loading-96ba941652",
-  "title": "Speedy Boarding for Automated Loading",
-  "orig_title": "Speedy Boarding for Automated Loading",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Logistics Business",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXloUVVDRmhoT1lkbkdzdjNNdVRyN1loTUFmMjJZTi1iWERXUGM2VTM3T1l4QWJjMFE5SThMeXF4QnpKNEdDMW9kLWZKTTNiazAtNjBWZTBYZWJqNnNLZVdNdHF4NDNJcW1nOGRrSEFudXc0MjluT09mWkRPby05QURFVFcycUMwUThiQ0FETDFjSUFvZC1N?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXloUVVDRmhoT1lkbkdzdjNNdVRyN1loTUFmMjJZTi1iWERXUGM2VTM3T1l4QWJjMFE5SThMeXF4QnpKNEdDMW9kLWZKTTNiazAtNjBWZTBYZWJqNnNLZVdNdHF4NDNJcW1nOGRrSEFudXc0MjluT09mWkRPby05QURFVFcycUMwUThiQ0FETDFjSUFvZC1N",
-  "snippet": "Speedy Boarding for Automated Loading Logistics Business",
-  "published": "2026-11-18T11:12:33+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T02:41:17.422237+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
