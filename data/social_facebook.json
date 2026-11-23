@@ -4846,7 +4846,8 @@
   "192046fba0": "posted|importance 82 (threshold 65), Regulations, established outlet; waited 20 min in queue",
   "a87be16531": "skipped|importance 62 is below this platform's threshold (65)",
   "5de46895ec": "skipped|importance 55 is below this platform's threshold (65)",
-  "2a483d4342": "queued|importance 70 (threshold 65), Equipment, established outlet"
+  "2a483d4342": "queued|importance 70 (threshold 65), Equipment, established outlet",
+  "ec39d44703": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10294,6 +10295,13 @@
    "title": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths",
    "action": "queued",
    "reason": "importance 70 (threshold 65), Equipment, established outlet"
+  },
+  {
+   "at": "2026-11-23T22:31:32.881702+00:00",
+   "story_id": "ec39d44703",
+   "title": "Trucker who suddenly went blind center of fundraiser to get his family through the holidays",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

@@ -206,10 +206,40 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/four-truckers-with-100-collective-years-of-driving-successfully-deliver-this-years-us-capitol-christmas-tree/?amp",
   "source_note": "ok · 251 words"
+ },
+ {
+  "id": "ec39d44703",
+  "slug": "trucker-who-suddenly-went-blind-center-of-fundraiser-to-get-his-family-ec39d44703",
+  "title": "Trucker who suddenly went blind center of fundraiser to get his family through the holidays",
+  "orig_title": "Trucker who suddenly went blind center of fundraiser to get his family through the holidays",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 50,
+  "source": "CDLLife",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbmpNcHJlSHllQ0d3cmxTVmNKSTJfXzVuRWk3TkdaanhTd1F5NVhBOFMxRmhfWEhnUHFKYS04OHc4c3pBX0s2d2NTRzB2cmlCeDhITW1GbGtDMXljOHl3MnlJNU5aSmttblZEX1RNWkJBZUpZV0FhTlVLNDlMTWdfZmt4b01pelVXejlrdUV3MkZSSXFYRHRKLTRuOXZoSFJIRW5aZ1FtYlZ4NVZNdzc3OW0xTDhhQjMyVWY4MXVn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbmpNcHJlSHllQ0d3cmxTVmNKSTJfXzVuRWk3TkdaanhTd1F5NVhBOFMxRmhfWEhnUHFKYS04OHc4c3pBX0s2d2NTRzB2cmlCeDhITW1GbGtDMXljOHl3MnlJNU5aSmttblZEX1RNWkJBZUpZV0FhTlVLNDlMTWdfZmt4b01pelVXejlrdUV3MkZSSXFYRHRKLTRuOXZoSFJIRW5aZ1FtYlZ4NVZNdzc3OW0xTDhhQjMyVWY4MXVn",
+  "snippet": "Trucker who suddenly went blind center of fundraiser to get his family through the holidays CDLLife",
+  "published": "2026-11-23T20:54:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T22:31:06.468099+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://cdllife.com/2026/trucker-who-suddenly-went-blind-center-of-fundraiser-to-get-his-family-through-the-holidays/?amp",
+  "source_note": "ok · 376 words"
  },
  {
   "id": "2c54e09c1f",
@@ -13214,8 +13244,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -13258,7 +13290,8 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 70,
-  "sum_v3": true
+  "sum_v3": true,
+  "dup_of": "c02dac559f"
  },
  {
   "id": "26c44b9d4a",
@@ -18946,8 +18979,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -18992,7 +19027,8 @@
   ],
   "ai_importance": 70,
   "sum_v4": true,
-  "ai_category": "other"
+  "ai_category": "other",
+  "dup_of": "0df12fe063"
  },
  {
   "id": "14c548c16c",
@@ -26580,8 +26616,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -26625,7 +26663,8 @@
   "ai_category": "other",
   "ai_importance": 60,
   "pending_summary": "Four men from Brampton, Ont., have been charged and two more are wanted in an alleged theft and trafficking network for tractors, trailers and other heavy equipment in the Greater Toronto Area. York Regional Police said the investigation, called Project Nashville, started in August 2026 with the Auto Cargo Theft Unit and involved six people allegedly selling stolen semi-tractors and 53-foot trailers to transportation companies in the GTA and elsewhere in North America. On Oct. 7, officers executed a search warrant at a commercial trucking yard in Brampton and seized 17 stolen or re-vinned tractors and 20 stolen or re-vinned 53-foot trailers, valued at an estimated $3.6 million combined. Police said many vehicles had new decals and stickers. Gurlal Singh, 35, and Preetam Rattan, 32, are wanted, and police urged both to seek legal counsel and turn themselves in.",
-  "pending_why": ""
+  "pending_why": "",
+  "dup_of": "c02dac559f"
  },
  {
   "id": "f0c48de5e6",
