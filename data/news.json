@@ -1,5 +1,34 @@
 [
  {
+  "id": "e17134ecfb",
+  "slug": "recalls-pistachio-crashes-the-cadbury-favourites-box-plus-bmw-ford-and-e17134ecfb",
+  "title": "Recalls: Pistachio crashes the Cadbury Favourites box, plus BMW, Ford and Hyundai",
+  "orig_title": "Recalls: Pistachio crashes the Cadbury Favourites box, plus BMW, Ford and Hyundai",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "haligonia.ca",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1h1X194VXZlSTFwbUMyUGkyMjlCLWtENmNKd19PNXROQ2pOa1d3bW5tOTFSNkIzUGl4N2l4Qnpxa01PWi11U3ZkUmNPT194LUVpcXVKZldWTlhyWGZ2QmdyMjdKZHhfRl9lc3ZWSDRTSldmbTJ6MmFuWHJNZzJoRHNEWHVuTjJGa1ZaUXE1WEtKLTBzd2pfVmJ3VlJHd29heFdycHAwUEdLNjUxZHAxMQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1h1X194VXZlSTFwbUMyUGkyMjlCLWtENmNKd19PNXROQ2pOa1d3bW5tOTFSNkIzUGl4N2l4Qnpxa01PWi11U3ZkUmNPT194LUVpcXVKZldWTlhyWGZ2QmdyMjdKZHhfRl9lc3ZWSDRTSldmbTJ6MmFuWHJNZzJoRHNEWHVuTjJGa1ZaUXE1WEtKLTBzd2pfVmJ3VlJHd29heFdycHAwUEdLNjUxZHAxMQ",
+  "snippet": "Recalls: Pistachio crashes the Cadbury Favourites box, plus BMW, Ford and Hyundai haligonia.ca",
+  "published": "2026-11-23T12:02:24+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T12:11:07.740690+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "48e32de94b",
   "slug": "news-final-mile-costs-rising-faster-than-revenue-say-hard-pressed-carr-48e32de94b",
   "title": "News Final-mile costs rising faster than revenue, say hard-pressed carriers",
@@ -27234,35 +27263,6 @@
   "ai_relevant": false
  },
  {
-  "id": "a82c9d6ba2",
-  "slug": "grupa-ywiec-redesigns-brewery-logistics-a82c9d6ba2",
-  "title": "Grupa Żywiec Redesigns Brewery Logistics",
-  "orig_title": "Grupa Żywiec Redesigns Brewery Logistics",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Logistics Business",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSTVVWHJ5Q3c4NkJIbW5ZTTgyMWVERGsxUFpxQ0piZUw4V0Y5eEFQYXB0VzRiZFRoWmJqZFliSVVBUmJReTV4NnNCSjBrRmt0X244OU5WN2NfdFRrY1pQX0N6Qm1heU1KV2lldGRkSWhOcnJvTE9FNHhydlluUmtNWFpvQWEySndFeXNSS3BjMGhjaFFyekJVanJyMA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSTVVWHJ5Q3c4NkJIbW5ZTTgyMWVERGsxUFpxQ0piZUw4V0Y5eEFQYXB0VzRiZFRoWmJqZFliSVVBUmJReTV4NnNCSjBrRmt0X244OU5WN2NfdFRrY1pQX0N6Qm1heU1KV2lldGRkSWhOcnJvTE9FNHhydlluUmtNWFpvQWEySndFeXNSS3BjMGhjaFFyekJVanJyMA",
-  "snippet": "Grupa Żywiec Redesigns Brewery Logistics Logistics Business",
-  "published": "2026-11-19T12:01:25+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T12:11:03.309053+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "aab3bd2f4e",
   "slug": "sen-tim-kaine-says-he-will-force-votes-on-human-rights-consequences-of-aab3bd2f4e",
   "title": "Sen. Tim Kaine says he will force votes on human rights consequences of US policies in Russia",
@@ -27286,35 +27286,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "9f666688e1",
-  "slug": "entertainment-listings-20-22-9f666688e1",
-  "title": "Entertainment Listings: 20-22",
-  "orig_title": "Entertainment Listings: 20-22",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "sanmarcosrecord.com",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXNJR1BpQzdaT2diR1NacmdQeFI5YWRjbE9YVXdPMVliTHFUNUM2VldKUlhlektqd3dvRU84OUFZQXM4UDNuZDdvZlNYbjRXTW1rdkxfRHF1U0UzaHloaHhDVnFXVzlQVVdBU2dwUDRmVGtZbmVILWFrVFgtalhmYVFXNHJsanJ5NG8wUm4xMVE2Umph?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXNJR1BpQzdaT2diR1NacmdQeFI5YWRjbE9YVXdPMVliTHFUNUM2VldKUlhlektqd3dvRU84OUFZQXM4UDNuZDdvZlNYbjRXTW1rdkxfRHF1U0UzaHloaHhDVnFXVzlQVVdBU2dwUDRmVGtZbmVILWFrVFgtalhmYVFXNHJsanJ5NG8wUm4xMVE2Umph",
-  "snippet": "Entertainment Listings: 20-22 sanmarcosrecord.com",
-  "published": "2026-11-19T12:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T12:11:03.309053+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
