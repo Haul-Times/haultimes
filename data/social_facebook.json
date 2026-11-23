@@ -3694,14 +3694,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/bank-challenges-trucking-ceo-s-8-5m-florida-estate-amid-bankruptcy-baad5f3dc7/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=baad5f3dc7",
    "caption": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckingBusiness #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-23T18:21:32.913368+00:00",
    "published": "2026-11-23T18:16:37+00:00",
    "score": 75,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122111423175544428",
+   "posted_at": "2026-11-23T18:51:49.266746+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy | HaulTimes",
@@ -3712,7 +3712,9 @@
    "reason": "importance 75 (threshold 65), Industry, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-23T18:51:49.266746+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122111423175544428"
   }
  },
  "paused": null,
@@ -4013,6 +4015,10 @@
   {
    "at": "2026-11-23T18:01:22.609850+00:00",
    "msg": "posted d02f76afc7"
+  },
+  {
+   "at": "2026-11-23T18:51:49.266746+00:00",
+   "msg": "posted baad5f3dc7"
   }
  ],
  "decided": {
@@ -4661,7 +4667,9 @@
   "5f125efbdc": "skipped|importance 61 is below this platform's threshold (65)",
   "d02f76afc7": "posted|importance 67 (threshold 65), Industry, trade publication; waited 19 min in queue",
   "be8e1e697a": "skipped|importance 61 is below this platform's threshold (65)",
-  "baad5f3dc7": "queued|importance 75 (threshold 65), Industry, trade publication"
+  "baad5f3dc7": "posted|importance 75 (threshold 65), Industry, trade publication; waited 30 min in queue",
+  "f8953c6c2b": "skipped|importance 55 is below this platform's threshold (65)",
+  "464a4eec54": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9962,6 +9970,27 @@
    "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
    "action": "queued",
    "reason": "importance 75 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-23T18:51:49.266746+00:00",
+   "story_id": "f8953c6c2b",
+   "title": "Trucking industry rallies behind SCF to celebrate 20 years of helping truckers",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T18:51:49.266746+00:00",
+   "story_id": "464a4eec54",
+   "title": "Oregon sheriff says several truck drivers admitted to skipping the weigh station after seeing 'open' sign",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T18:51:49.266746+00:00",
+   "story_id": "baad5f3dc7",
+   "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
+   "action": "posted",
+   "reason": "importance 75 (threshold 65), Industry, trade publication; waited 30 min in queue"
   }
  ],
  "visibility": {
