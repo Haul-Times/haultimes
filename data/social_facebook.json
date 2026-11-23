@@ -3541,7 +3541,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/borderlands-mexico-truckers-secure-29-agreements-on-highway-safety-aft-72339a475b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=72339a475b",
    "caption": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckDrivers",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-22T12:11:33.459395+00:00",
    "published": "2026-11-22T12:00:00+00:00",
    "score": 80,
@@ -4478,7 +4478,7 @@
   "a9b17e458a": "skipped|importance 55 is below this platform's threshold (65)",
   "7737447226": "skipped|importance 55 is below this platform's threshold (65)",
   "b4a5097484": "skipped|importance 50 is below this platform's threshold (65)",
-  "72339a475b": "queued|importance 80 (threshold 65), Drivers & Jobs, trade publication",
+  "72339a475b": "expired|stale before a slot opened (published 12h ago)",
   "ef1c11a5c8": "skipped|importance 63 is below this platform's threshold (65)",
   "60dbe22861": "skipped|minor item (crime) or low-quality source",
   "promo-20261122": "queued|HaulTimes update",
@@ -9503,6 +9503,13 @@
    "title": "Moraine Park Adds CDL Training Track in Horicon, WI",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-23T00:01:18.585493+00:00",
+   "story_id": "72339a475b",
+   "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {
