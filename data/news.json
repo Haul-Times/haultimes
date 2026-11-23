@@ -87,6 +87,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "5722eb13ff",
+  "slug": "here-s-the-gas-station-adjacent-steakhouse-in-jackpot-that-idaho-and-n-5722eb13ff",
+  "title": "Here's The Gas-Station-Adjacent Steakhouse In Jackpot That Idaho And Nevada Ranchers Both Swear By",
+  "orig_title": "Here's The Gas-Station-Adjacent Steakhouse In Jackpot That Idaho And Nevada Ranchers Both Swear By",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Fast Food Club",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHM5WW1ra180MWJvTVZUNDh5T2lub0gzQVNjYmwzcTM2YmRvRHBFWlRaSWNFbW1zb3ZnMDlfcFJaUVZrQlI5SHBoV2RBZlkxajh4dDV1aElTcFpJWmxQNGpqQmpodGJvSXF2Vm0tdVUxSUJkWURIZzBxa25nNEE5ejBTWU1vVGhSSmtYUVJOTXoxeC01MUFzZHR4ZGJyREc3TWRraWFYMjgzWW9fUjhzWkdXaXJaUFl3TEZjZzFkVzFxRm8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHM5WW1ra180MWJvTVZUNDh5T2lub0gzQVNjYmwzcTM2YmRvRHBFWlRaSWNFbW1zb3ZnMDlfcFJaUVZrQlI5SHBoV2RBZlkxajh4dDV1aElTcFpJWmxQNGpqQmpodGJvSXF2Vm0tdVUxSUJkWURIZzBxa25nNEE5ejBTWU1vVGhSSmtYUVJOTXoxeC01MUFzZHR4ZGJyREc3TWRraWFYMjgzWW9fUjhzWkdXaXJaUFl3TEZjZzFkVzFxRm8",
+  "snippet": "Here's The Gas-Station-Adjacent Steakhouse In Jackpot That Idaho And Nevada Ranchers Both Swear By Fast Food Club",
+  "published": "2026-11-23T03:27:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T05:41:02.924775+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "019cf3d6a6",
   "slug": "bogot-transport-protest-nov-23-which-carrera-s-ptima-blocks-to-avoid-019cf3d6a6",
   "title": "Bogotá Transport Protest Nov. 23: Which Carrera Séptima Blocks to Avoid",
@@ -28245,35 +28274,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "bfebe5cb12",
-  "slug": "truck-drivers-stranded-at-kenya-ethiopia-border-after-ethnic-clashes-p-bfebe5cb12",
-  "title": "Truck drivers stranded at Kenya-Ethiopia border after ethnic clashes paralyse key trade route",
-  "orig_title": "Truck drivers stranded at Kenya-Ethiopia border after ethnic clashes paralyse key trade route",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Citizen Digital",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEZRV05yemlVdTdaWkxGZHU5ekduODB4N2ZCMXRKVVJQSU5uNVNsQTVCSWRkX2RSNGVXNVlWZDNkRWZLWm5LaWhMNm1rY25GaXFDUFNzQ1FpaHl2R0RONFJVNkJNSExJVV9iUFE2MHUyVGVLVlhMc1QyX2Z4cTkzY2J3T0t6TmtvazNRWVNFaFY0RE44MFR2WHJMMjhDSVdKQlhZYm5XQ1lERlpsZGdNRV9UZGJzRm56NkRaeWN0QzJ0SklvN3RDQWFjc2FqZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEZRV05yemlVdTdaWkxGZHU5ekduODB4N2ZCMXRKVVJQSU5uNVNsQTVCSWRkX2RSNGVXNVlWZDNkRWZLWm5LaWhMNm1rY25GaXFDUFNzQ1FpaHl2R0RONFJVNkJNSExJVV9iUFE2MHUyVGVLVlhMc1QyX2Z4cTkzY2J3T0t6TmtvazNRWVNFaFY0RE44MFR2WHJMMjhDSVdKQlhZYm5XQ1lERlpsZGdNRV9UZGJzRm56NkRaeWN0QzJ0SklvN3RDQWFjc2FqZw",
-  "snippet": "Truck drivers stranded at Kenya-Ethiopia border after ethnic clashes paralyse key trade route Citizen Digital",
-  "published": "2026-11-19T04:16:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T05:41:01.772460+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
