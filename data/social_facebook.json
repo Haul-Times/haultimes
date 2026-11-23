@@ -3875,6 +3875,34 @@
     "created": "2026-11-23T23:01:32+0000",
     "at": "2026-11-23T23:11:42.003830+00:00"
    }
+  },
+  "5c25dc2917": {
+   "story_id": "5c25dc2917",
+   "title": "Diesel prices soar as Silicon Valley startup unveils cab-less trucking solution",
+   "url_key": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15NXFJanduTXFQM1R1clZmVkV5U013TVlwcW1UY0RDQ3M0NG1nUmZCVHpROVZ1dXpuTHhoR1l0Y0xmUTJJTndYV2ZKaFpJYk91bzUySlRCd1RXUjQ",
+   "category": "fuel",
+   "source": "Fox Business",
+   "dest": "https://haultimes.com/story/diesel-prices-soar-as-silicon-valley-startup-unveils-cab-less-trucking-5c25dc2917/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=5c25dc2917",
+   "caption": "Diesel prices soar as Silicon Valley startup unveils cab-less trucking solution.\n\nReported by Fox Business. The link has the details and the original article.\n\n#Trucking #Diesel #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-23T23:41:32.728626+00:00",
+   "published": "2026-11-23T23:27:06+00:00",
+   "score": 82,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Diesel prices soar as Silicon Valley startup unveils cab-less trucking solution | HaulTimes",
+    "og:description": "Reported by Fox Business. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/c925378115.png",
+    "og:url": "https://haultimes.com/story/diesel-prices-soar-as-silicon-valley-startup-unveils-cab-less-trucking-5c25dc2917/"
+   },
+   "reason": "importance 82 (threshold 65), Fuel, established outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -4862,7 +4890,8 @@
   "5de46895ec": "skipped|importance 55 is below this platform's threshold (65)",
   "2a483d4342": "posted|importance 70 (threshold 65), Equipment, established outlet; waited 45 min in queue",
   "ec39d44703": "skipped|importance 50 is below this platform's threshold (65)",
-  "0e4452b890": "skipped|importance 51 is below this platform's threshold (65)"
+  "0e4452b890": "skipped|importance 51 is below this platform's threshold (65)",
+  "5c25dc2917": "queued|importance 82 (threshold 65), Fuel, established outlet"
  },
  "decisions": [
   {
@@ -10331,6 +10360,13 @@
    "title": "Refrigerated trucking rates rising for the holidays despite falling produce volumes",
    "action": "skipped",
    "reason": "importance 51 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T23:41:32.728626+00:00",
+   "story_id": "5c25dc2917",
+   "title": "Diesel prices soar as Silicon Valley startup unveils cab-less trucking solution",
+   "action": "queued",
+   "reason": "importance 82 (threshold 65), Fuel, established outlet"
   }
  ],
  "visibility": {
