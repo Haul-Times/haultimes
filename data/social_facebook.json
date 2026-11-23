@@ -4569,7 +4569,10 @@
   "7addedbbd8": "skipped|importance 45 is below this platform's threshold (65)",
   "e3edfb6ba9": "skipped|importance 60 is below this platform's threshold (65)",
   "4c14233b45": "posted|importance 66 (threshold 65), Industry, trade publication; waited 41 min in queue",
-  "c7a489c6f2": "skipped|minor item (press_release) or low-quality source"
+  "c7a489c6f2": "skipped|minor item (press_release) or low-quality source",
+  "f31a1965c1": "skipped|importance 61 is below this platform's threshold (65)",
+  "2b9d179882": "skipped|importance 61 is below this platform's threshold (65)",
+  "09ce2fe03a": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9702,6 +9705,27 @@
    "title": "ATRI finds highway congestion costs trucking industry $128.2 billion",
    "action": "posted",
    "reason": "importance 66 (threshold 65), Industry, trade publication; waited 41 min in queue"
+  },
+  {
+   "at": "2026-11-23T14:52:03.583149+00:00",
+   "story_id": "f31a1965c1",
+   "title": "Split Lanes: Same border, different outlooks",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T14:52:03.583149+00:00",
+   "story_id": "2b9d179882",
+   "title": "Trucknews.com Fleet Outlook Report reveals buying plans, cost pressures and a divided recovery",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T14:52:03.583149+00:00",
+   "story_id": "09ce2fe03a",
+   "title": "C.H. Robinson: no evidence of racketeering, wants RICO case moved",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
