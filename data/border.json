@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:33:11.494448+00:00",
+ "updated": "2026-11-23T14:41:10.094533+00:00",
  "hour_now": 9,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 20,
+    "wait": 15,
     "fast_wait": 10,
     "lanes": "5",
     "status": "delay",
-    "updated": "At 8:00 am EST",
+    "updated": "At 9:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -33,7 +33,7 @@
      9,
      12,
      10,
-     9,
+     10,
      2,
      2,
      2,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 09:15 EST"
+    "updated": "2026-11-23 09:30 EST"
    },
    "usual": {
     "south": [
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 9:17 am EST",
+    "updated": "At 9:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:17 am EST",
+    "updated": "At 9:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "09:24:46",
+    "updated": "09:39:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1083,7 +1083,7 @@
      0,
      14,
      40,
-     23,
+     21,
      30,
      31,
      49,
@@ -1278,11 +1278,11 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 5:00 am PST",
+    "lanes": "2",
+    "status": "delay",
+    "updated": "At 6:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1301,7 +1301,7 @@
      8,
      8,
      14,
-     18,
+     17,
      36,
      34,
      29,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:24:46",
+    "updated": "06:39:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1457,13 +1457,13 @@
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
-    "wait": 20,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": 10,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Jackman",
