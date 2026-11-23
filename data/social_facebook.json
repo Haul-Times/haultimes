@@ -3685,6 +3685,34 @@
     "created": "2026-11-23T18:01:22+0000",
     "at": "2026-11-23T18:11:26.759990+00:00"
    }
+  },
+  "baad5f3dc7": {
+   "story_id": "baad5f3dc7",
+   "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
+   "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUh5V3JFZXdUQ2d2S1ZkUXdxem1veTczbHhlbDlnVXo4QW5pUlpra0pkck92dFBOamJWdWtsOUR4TEpRd2xfMTBQcW1yWGNsNTZtdUYtZTlTN1FoZDFERHVRUXNEOUVGRXRuY2RLeE5PTXVKWERHZW9CWjYzS211eUtMd0djaUd6V21ydVNSQzEwSkxpUlo4bEQ2bGtsakc1",
+   "category": "other",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/bank-challenges-trucking-ceo-s-8-5m-florida-estate-amid-bankruptcy-baad5f3dc7/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=baad5f3dc7",
+   "caption": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckingBusiness #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-23T18:21:32.913368+00:00",
+   "published": "2026-11-23T18:16:37+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/c77afe6ebe.png",
+    "og:url": "https://haultimes.com/story/bank-challenges-trucking-ceo-s-8-5m-florida-estate-amid-bankruptcy-baad5f3dc7/"
+   },
+   "reason": "importance 75 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -4632,7 +4660,8 @@
   "d3b0f4f924": "skipped|importance 45 is below this platform's threshold (65)",
   "5f125efbdc": "skipped|importance 61 is below this platform's threshold (65)",
   "d02f76afc7": "posted|importance 67 (threshold 65), Industry, trade publication; waited 19 min in queue",
-  "be8e1e697a": "skipped|importance 61 is below this platform's threshold (65)"
+  "be8e1e697a": "skipped|importance 61 is below this platform's threshold (65)",
+  "baad5f3dc7": "queued|importance 75 (threshold 65), Industry, trade publication"
  },
  "decisions": [
   {
@@ -9926,6 +9955,13 @@
    "title": "Lufthansa Cargo to buy out 2nd ground agent at Frankfurt airport",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Industry, trade publication; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-23T18:21:32.913368+00:00",
+   "story_id": "baad5f3dc7",
+   "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
+   "action": "queued",
+   "reason": "importance 75 (threshold 65), Industry, trade publication"
   }
  ],
  "visibility": {
