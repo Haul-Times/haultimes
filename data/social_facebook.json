@@ -4518,7 +4518,8 @@
   "cbf24c41f1": "skipped|importance 45 is below this platform's threshold (65)",
   "1dd6c6245a": "skipped|importance 45 is below this platform's threshold (65)",
   "304b11b770": "skipped|importance 45 is below this platform's threshold (65)",
-  "a9d90df6fb": "skipped|importance 50 is below this platform's threshold (65)"
+  "a9d90df6fb": "skipped|importance 50 is below this platform's threshold (65)",
+  "76899c2b85": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9602,6 +9603,13 @@
    "title": "'It helps a lot': Charlotte program trains aspiring truck drivers in face of national shortage, Trump restrictions",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T13:11:36.053826+00:00",
+   "story_id": "76899c2b85",
+   "title": "Perspective: High diesel costs warrant invoking Stafford Act",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
