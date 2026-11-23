@@ -1,5 +1,114 @@
 [
  {
+  "id": "e36435843d",
+  "slug": "prosecutors-uncover-trucking-playbook-in-multimillion-dollar-port-smug-e36435843d",
+  "title": "Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme",
+  "orig_title": "Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX09tamthTF9pTDJISHdaZmZQd2otSnlYeDVrdktKMDlDZFFOUXBTV0xORm1EYWZZQlBxSERpVEllQUh0R1VDMExCMkI5WVNtUGI5aVVIRkZEN0dib25LU2ZWMXNxR1BKemxjTFcxTkhweU9uSERFcm9ZOERTQzF6XzVjMzNic2hfMUN5ekVTRnR4M2hodlc3bUs2MmJ2enRubzRXLXluVmFTeXFJdkZtX1ZfYmREclU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX09tamthTF9pTDJISHdaZmZQd2otSnlYeDVrdktKMDlDZFFOUXBTV0xORm1EYWZZQlBxSERpVEllQUh0R1VDMExCMkI5WVNtUGI5aVVIRkZEN0dib25LU2ZWMXNxR1BKemxjTFcxTkhweU9uSERFcm9ZOERTQzF6XzVjMzNic2hfMUN5ekVTRnR4M2hodlc3bUs2MmJ2enRubzRXLXluVmFTeXFJdkZtX1ZfYmREclU",
+  "snippet": "Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme FreightWaves",
+  "published": "2026-11-23T15:22:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T15:31:05.208525+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.freightwaves.com/news/prosecutors-uncover-trucking-playbook-in-multimillion-dollar-port-smuggling-scheme",
+  "source_note": "paywalled: excerpt only · 30 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "54057a3622",
+  "slug": "trucker-bathroom-bill-now-eligible-for-senate-floor-vote-54057a3622",
+  "title": "Trucker Bathroom Bill Now Eligible For Senate Floor Vote",
+  "orig_title": "Trucker Bathroom Bill Now Eligible For Senate Floor Vote",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "US",
+  "importance": 57,
+  "source": "Legis1",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9odTM0eXRxS2gtby15TFp0M1djbDhPcVYza202NFgyREJIcWNYTERiTk5KMlgwZ0VKRFBhenNjaDJvUjNDMUZDdG1vTTJWYTRFN1hVWW5WWkJ6TnZyRjNmT3FPOHhlY3Y0OHFRWGROR3NYbmktSC00Zg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9odTM0eXRxS2gtby15TFp0M1djbDhPcVYza202NFgyREJIcWNYTERiTk5KMlgwZ0VKRFBhenNjaDJvUjNDMUZDdG1vTTJWYTRFN1hVWW5WWkJ6TnZyRjNmT3FPOHhlY3Y0OHFRWGROR3NYbmktSC00Zg",
+  "snippet": "Trucker Bathroom Bill Now Eligible For Senate Floor Vote Legis1",
+  "published": "2026-11-23T15:21:44+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T15:31:05.208525+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://legis1.com/news/trucker-bathroom-bill-now-eligible-for-senate",
+  "source_note": "ok · 431 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "73214e0329175ce5",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T15:31:05.208525+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "is on the Senate calendar after clearing committee Nov. 20"
+   },
+   {
+    "sentence": "2",
+    "quote": "port and rail terminals to provide restrooms for short-haul drivers"
+   },
+   {
+    "sentence": "3",
+    "quote": "It exempts very small facilities"
+   },
+   {
+    "sentence": "4",
+    "quote": "businesses do not have to alter their restrooms"
+   },
+   {
+    "sentence": "5",
+    "quote": "The bill carries no funding and no implementation timeline"
+   },
+   {
+    "sentence": "6",
+    "quote": "Sen. Deb Fischer (R-NE) is the only cosponsor"
+   },
+   {
+    "sentence": "7",
+    "quote": "calls it a bipartisan bill"
+   },
+   {
+    "sentence": "8",
+    "quote": "would still need to pass the full Senate and House"
+   }
+  ],
+  "sum_problems": [
+   "summary longer than 160 words",
+   "copies a 12-word run from the source: 'access would create an obvious health, safety or security risk, and bu'"
+  ],
+  "ai_category": "regs",
+  "ai_importance": 55
+ },
+ {
   "id": "41fbd5562b",
   "slug": "atl-partners-completes-partial-exit-of-arrive-logistics-investment-thr-41fbd5562b",
   "title": "ATL Partners Completes Partial Exit of Arrive Logistics Investment Through Mubadala Capital Recapitalization",

@@ -4577,7 +4577,9 @@
   "0023dcd618": "skipped|importance 57 is below this platform's threshold (65)",
   "0822dfda88": "skipped|importance 50 is below this platform's threshold (65)",
   "2f79aef02a": "skipped|importance 55 is below this platform's threshold (65)",
-  "41fbd5562b": "skipped|importance 45 is below this platform's threshold (65)"
+  "41fbd5562b": "skipped|importance 45 is below this platform's threshold (65)",
+  "54057a3622": "skipped|importance 57 is below this platform's threshold (65)",
+  "e36435843d": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9773,6 +9775,20 @@
    "title": "ATL Partners Completes Partial Exit of Arrive Logistics Investment Through Mubadala Capital Recapitalization",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:31:46.911578+00:00",
+   "story_id": "54057a3622",
+   "title": "Trucker Bathroom Bill Now Eligible For Senate Floor Vote",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T15:31:46.911578+00:00",
+   "story_id": "e36435843d",
+   "title": "Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
