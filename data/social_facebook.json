@@ -4514,7 +4514,8 @@
   "d3853ba36b": "queued|importance 82 (threshold 65), Regulations, established outlet",
   "be8983422d": "skipped|importance 55 is below this platform's threshold (65)",
   "ee0cf73f2d": "skipped|importance 51 is below this platform's threshold (65)",
-  "2d83b6f712": "skipped|importance 57 is below this platform's threshold (65)"
+  "2d83b6f712": "skipped|importance 57 is below this platform's threshold (65)",
+  "cbf24c41f1": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9570,6 +9571,13 @@
    "title": "Saia plans to buy former Overnite terminal",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T06:21:20.817457+00:00",
+   "story_id": "cbf24c41f1",
+   "title": "Truck driver shortage could affect delivery times during holidays",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

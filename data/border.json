@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:11:05.850817+00:00",
+ "updated": "2026-11-23T06:21:02.404650+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -25,7 +25,7 @@
    "usual": {
     "south": [
      6,
-     2,
+     3,
      0,
      0,
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:00 am EST",
+    "updated": "At 1:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -276,7 +276,7 @@
     ],
     "north": [
      12,
-     17,
+     15,
      8,
      2,
      4,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:00 am EST",
+    "updated": "At 1:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:57",
+    "updated": "01:17:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:57",
+    "updated": "01:17:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:07:57",
+    "updated": "00:17:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:57",
+    "updated": "01:17:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -901,7 +901,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 6 AM",
+   "best_south": "Usually fastest around 1 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:07:57",
+    "updated": "01:17:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -988,14 +988,14 @@
     "wait": null,
     "fast_wait": null,
     "lanes": "",
-    "status": "Update Pending",
-    "updated": "01:07:57",
+    "status": "N/A",
+    "updated": "01:17:58",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-23 00:15 AST"
+    "updated": "2026-11-23 02:06 AST"
    },
    "usual": {
     "south": [
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:07:57",
+    "updated": "00:17:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1244,7 +1244,7 @@
     ],
     "north": [
      7,
-     10,
+     9,
      15,
      13,
      13,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 pm PST",
+    "updated": "At 11:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1447,13 +1447,13 @@
    },
    {
     "name": "Calais International Avenue",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Calais Milltown",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Detroit Gordie Howe International Bridge",
