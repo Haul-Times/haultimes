@@ -1,5 +1,67 @@
 [
  {
+  "id": "304b11b770",
+  "slug": "impel-transport-looking-to-grow-its-team-of-drivers-as-cross-border-de-304b11b770",
+  "title": "Impel Transport looking to grow its team of drivers as cross-border demand continues",
+  "orig_title": "Impel Transport looking to grow its team of drivers as cross-border demand continues",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Cross-border",
+  "importance": 45,
+  "source": "PembinaValleyOnline",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHRSU1pyV1c5eW95TTN1TS10MkFUYUVTY0lXOHJHUTg5aTU3ZDJGaW9RSnZLVzBnSmkzd25ubjJpelFwTGFDcmxrYnR0YzlWODgyYm93RDAyMGVQT1g0d215bERtOW5rYVh2ZjFnYU95ZkVOdHloWFBtUmFxam1ESUlTN3N2d0RmZHVQTHlrbTBGMV9DdXhDcmFjaWtyZVFtVG1WTzEzdXRWWEdxTUhCQkFtVEl5RzFZaW9xR2VCYUI1NGM?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHRSU1pyV1c5eW95TTN1TS10MkFUYUVTY0lXOHJHUTg5aTU3ZDJGaW9RSnZLVzBnSmkzd25ubjJpelFwTGFDcmxrYnR0YzlWODgyYm93RDAyMGVQT1g0d215bERtOW5rYVh2ZjFnYU95ZkVOdHloWFBtUmFxam1ESUlTN3N2d0RmZHVQTHlrbTBGMV9DdXhDcmFjaWtyZVFtVG1WTzEzdXRWWEdxTUhCQkFtVEl5RzFZaW9xR2VCYUI1NGM",
+  "snippet": "Impel Transport looking to grow its team of drivers as cross-border demand continues PembinaValleyOnline",
+  "published": "2026-11-23T10:05:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T10:11:04.584528+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://pembinavalleyonline.com/articles/impel-transport-looking-to-grow-its-team-of-drivers-as-cross-border-demand-continues",
+  "source_note": "ok · 622 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "b0acb1c44013a660",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T10:11:04.584528+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "looking to add drivers to its growing fleet"
+   },
+   {
+    "sentence": "2",
+    "quote": "accommodate increasing freight volumes"
+   },
+   {
+    "sentence": "3",
+    "quote": "hauling open-deck freight"
+   },
+   {
+    "sentence": "4",
+    "quote": "Class 1 licence and dry van experience"
+   }
+  ],
+  "sum_problems": [
+   "Source is a company-sourced recruitment feature; claims about fleet size and service are company statements."
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 20,
+  "pending_summary": "Winkler-based Impel Transport is recruiting drivers to join its fleet, which the company says has about 35 trucks running across Canada and the United States. Operations manager Ryan Hamm said the hiring is meant to handle rising freight volumes without adding strain to current drivers. The carrier hauls open-deck freight, such as agricultural equipment, construction machinery and vehicles, on step-deck trailers, with established routes to California, Texas, Florida and North Carolina. Drivers with a Class 1 licence and dry van experience who want to move into step-deck hauling are encouraged to apply, and new hires receive orientation and hands-on training.",
+  "pending_why": ""
+ },
+ {
   "id": "0970259a9e",
   "slug": "spar-scotland-invests-over-1million-in-new-truck-fleet-0970259a9e",
   "title": "Spar Scotland invests over £1million in new truck fleet",

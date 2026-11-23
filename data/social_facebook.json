@@ -4516,7 +4516,8 @@
   "ee0cf73f2d": "skipped|importance 51 is below this platform's threshold (65)",
   "2d83b6f712": "skipped|importance 57 is below this platform's threshold (65)",
   "cbf24c41f1": "skipped|importance 45 is below this platform's threshold (65)",
-  "1dd6c6245a": "skipped|importance 45 is below this platform's threshold (65)"
+  "1dd6c6245a": "skipped|importance 45 is below this platform's threshold (65)",
+  "304b11b770": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9584,6 +9585,13 @@
    "at": "2026-11-23T06:31:49.516424+00:00",
    "story_id": "1dd6c6245a",
    "title": "ODOT Weigh Station Operations Cite 138 Truckers",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T10:11:31.243460+00:00",
+   "story_id": "304b11b770",
+   "title": "Impel Transport looking to grow its team of drivers as cross-border demand continues",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
