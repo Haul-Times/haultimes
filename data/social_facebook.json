@@ -3828,7 +3828,43 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-23T22:11:33.968499+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122111486613544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122111486613544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122111486613544428",
+    "created": "2026-11-23T22:11:34+0000",
+    "at": "2026-11-23T22:15:33.166234+00:00"
+   }
+  },
+  "2a483d4342": {
+   "story_id": "2a483d4342",
+   "title": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths",
+   "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTdxaWpnN2pzMXVUU3FWSzZOVmpRODAtcUlNTWphMzFGMko5NGhKZXRJOXdaQ0hMZzlvT0VELVM3dlI2aGlSbGdNSDRKSGpRc3FiWXk2VHVGRU1PM0JiZTM2MTNmNG5qbHdXMG05eXBjMzJNa09mZWREWVFLc3dSRTFQRElZWXNlclNuRWtRS21mdksxQ3FLcVZJaGhYdVJ3T3FzNHprcTJQeHdzenVSbHpZbXFJTnpVS2dj",
+   "category": "equip",
+   "source": "eTrucker",
+   "dest": "https://haultimes.com/story/aeb-false-positives-prompt-recall-of-6k-peterbilts-kenworths-2a483d4342/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2a483d4342",
+   "caption": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths.\n\nReported by eTrucker. The link has the details and the original article.\n\n#Trucking #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-23T22:15:33.166234+00:00",
+   "published": "2026-11-23T21:27:30+00:00",
+   "score": 70,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths | HaulTimes",
+    "og:description": "Reported by eTrucker. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/eb9e3de05c.png",
+    "og:url": "https://haultimes.com/story/aeb-false-positives-prompt-recall-of-6k-peterbilts-kenworths-2a483d4342/"
+   },
+   "reason": "importance 70 (threshold 65), Equipment, established outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -4809,7 +4845,8 @@
   "182ae7741c": "skipped|minor item (announcement) or low-quality source",
   "192046fba0": "posted|importance 82 (threshold 65), Regulations, established outlet; waited 20 min in queue",
   "a87be16531": "skipped|importance 62 is below this platform's threshold (65)",
-  "5de46895ec": "skipped|importance 55 is below this platform's threshold (65)"
+  "5de46895ec": "skipped|importance 55 is below this platform's threshold (65)",
+  "2a483d4342": "queued|importance 70 (threshold 65), Equipment, established outlet"
  },
  "decisions": [
   {
@@ -10250,16 +10287,23 @@
    "title": "Five petitions to FMCSA to allow non-domiciled CDL renewals",
    "action": "posted",
    "reason": "importance 82 (threshold 65), Regulations, established outlet; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-23T22:15:33.166234+00:00",
+   "story_id": "2a483d4342",
+   "title": "AEB 'false positives' prompt recall of 6K Peterbilts, Kenworths",
+   "action": "queued",
+   "reason": "importance 70 (threshold 65), Equipment, established outlet"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122111455125544428",
+  "post": "1476615495528085_122111486613544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122111455125544428",
-  "created": "2026-11-23T20:31:38+0000",
-  "at": "2026-11-23T20:41:33.854469+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122111486613544428",
+  "created": "2026-11-23T22:11:34+0000",
+  "at": "2026-11-23T22:15:33.166234+00:00"
  },
  "promo_i": 1
 }
