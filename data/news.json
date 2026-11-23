@@ -84,6 +84,35 @@
   "ai_relevant": false
  },
  {
+  "id": "0f4ec284bb",
+  "slug": "s-p-tsx-composite-up-nearly-1-000-points-u-s-stock-markets-also-rally-0f4ec284bb",
+  "title": "S&P/TSX composite up nearly 1,000 points, U.S. stock markets also rally",
+  "orig_title": "S&P/TSX composite up nearly 1,000 points, U.S. stock markets also rally",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "thecanadianpressnews.ca",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbEhQaVp6WFZWT0ZtTnp5T21vdXhZR2NBNnJmcUw2UzFlSWdURjdseS12WGtIWElNNE9HNFBEbEpOWlpqS2F6LWw4RUwyY2I5RlFjd19JQ0I2TV84Vmp2enEwb2g1MjN6RWk0V29SVl80UzJfREs3Q1FBV0RtSGpyMmxHVVV1a2xsZU5vd21xVUMtbXIxWk5oZnlLWDk3Zl80bnJKaENqRVRYQkh0eXdxbXNtRFl2Nkg1QnJtRUtuVnVXUzRGWHcwUm1Od2VOSE1JMWdVUDdrUko3X2JOb0duaXVwTktVaHVPUVV0UXVVU1oyQ0FPU1Fz?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbEhQaVp6WFZWT0ZtTnp5T21vdXhZR2NBNnJmcUw2UzFlSWdURjdseS12WGtIWElNNE9HNFBEbEpOWlpqS2F6LWw4RUwyY2I5RlFjd19JQ0I2TV84Vmp2enEwb2g1MjN6RWk0V29SVl80UzJfREs3Q1FBV0RtSGpyMmxHVVV1a2xsZU5vd21xVUMtbXIxWk5oZnlLWDk3Zl80bnJKaENqRVRYQkh0eXdxbXNtRFl2Nkg1QnJtRUtuVnVXUzRGWHcwUm1Od2VOSE1JMWdVUDdrUko3X2JOb0duaXVwTktVaHVPUVV0UXVVU1oyQ0FPU1Fz",
+  "snippet": "S&P/TSX composite up nearly 1,000 points, U.S. stock markets also rally thecanadianpressnews.ca",
+  "published": "2026-11-23T16:01:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T16:31:07.399442+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e20c389966",
   "slug": "small-trucking-firms-absorb-rising-diesel-costs-e20c389966",
   "title": "Small Trucking Firms Absorb Rising Diesel Costs",
