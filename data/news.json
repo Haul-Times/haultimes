@@ -62,6 +62,72 @@
   "pending_why": ""
  },
  {
+  "id": "a9d90df6fb",
+  "slug": "it-helps-a-lot-charlotte-program-trains-aspiring-truck-drivers-in-face-a9d90df6fb",
+  "title": "'It helps a lot': Charlotte program trains aspiring truck drivers in face of national shortage, Trump restrictions",
+  "orig_title": "'It helps a lot': Charlotte program trains aspiring truck drivers in face of national shortage, Trump restrictions",
+  "summary": "A training program run by NCIA in Charlotte currently enrolls about a dozen people in a commercial driver's license course. The Baltimore-based group serves people who face employment barriers, and through a partnership with Transtech CDL Training, enrollees get about four weeks of instruction. People in hardship, such as food stamp recipients and survivors of domestic violence, have their license costs covered, which can otherwise run five to six thousand dollars.\n\nThe U.S. Bureau of Labor Statistics projects about 214,500 openings a year over the next decade as drivers retire or leave the field. In February, Transportation Secretary Sean Duffy issued a rule that makes immigrants ineligible for CDLs when states cannot check their driving records. Duffy said the rule closes a loophole that lets non-citizens obtain CDLs with federal Employment Authorization Documents.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 50,
+  "source": "WFAE",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUZvWjZhcDA1akJCOUh2RHQtYXplOEJ5eXl2QXNmSUJQdGJ1WXJSRi1xRlMyX0FDOHRLMHVvcmVueE9hX0dEcmlRaU9PeEV3Y0I1RHdwZXlQdEdPdEkyR3BydTk0STRIN2k0ZXg0N0diWFdibnBaRTlvOEFUd3JzbXZlVmJEY3pqNWtSVjFPTThHQ1dXQm1WbGFfZjhSNWV6dVRsQVlobjlhNjlRY1JSdXdyaExXVjVmOFlYRjBUWWNxX0FDLVo0OEZReWxYdTFpN0tiU0JfLXZ5RHhZbm55VGFIR2U5bW85UVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUZvWjZhcDA1akJCOUh2RHQtYXplOEJ5eXl2QXNmSUJQdGJ1WXJSRi1xRlMyX0FDOHRLMHVvcmVueE9hX0dEcmlRaU9PeEV3Y0I1RHdwZXlQdEdPdEkyR3BydTk0STRIN2k0ZXg0N0diWFdibnBaRTlvOEFUd3JzbXZlVmJEY3pqNWtSVjFPTThHQ1dXQm1WbGFfZjhSNWV6dVRsQVlobjlhNjlRY1JSdXdyaExXVjVmOFlYRjBUWWNxX0FDLVo0OEZReWxYdTFpN0tiU0JfLXZ5RHhZbm55VGFIR2U5bW85UVE",
+  "snippet": "'It helps a lot': Charlotte program trains aspiring truck drivers in face of national shortage, Trump restrictions WFAE",
+  "published": "2026-11-23T10:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-23T10:31:16.970347+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.wfae.org/race-equity/2026-11-23/it-helps-a-lot-charlotte-program-trains-aspiring-truck-drivers-in-face-of-national-shortage-trump-restrictions",
+  "source_note": "ok · 770 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "5a85a368afbee521",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-23T10:31:16.970347+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "about a dozen people enrolled in a commercial driver's license program run by NCIA"
+   },
+   {
+    "sentence": "2",
+    "quote": "enrollees receive about four weeks of instruction"
+   },
+   {
+    "sentence": "3",
+    "quote": "NCIA covers the cost for people in hardship"
+   },
+   {
+    "sentence": "4",
+    "quote": "projects about 214,500 openings each year for the next decade"
+   },
+   {
+    "sentence": "5",
+    "quote": "issued a rule in February that makes immigrants ineligible for CDLs"
+   },
+   {
+    "sentence": "6",
+    "quote": "closes a loophole that allows non-citizens to obtain CDLs"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 55
+ },
+ {
   "id": "0970259a9e",
   "slug": "spar-scotland-invests-over-1million-in-new-truck-fleet-0970259a9e",
   "title": "Spar Scotland invests over £1million in new truck fleet",
@@ -27695,50 +27761,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "a6bebf32cf",
-  "slug": "six-south-carolina-waffle-and-grits-counters-where-truckers-have-stopp-a6bebf32cf",
-  "title": "Six South Carolina Waffle-And-Grits Counters Where Truckers Have Stopped Since Dawn For Years",
-  "orig_title": "Six South Carolina Waffle-And-Grits Counters Where Truckers Have Stopped Since Dawn For Years",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 30,
-  "source": "Fast Food Club",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFBJT1hXQm8zTWdPQTJjREdlX3ZWbWdsQ3R2X1BXMlVlcUxEVGNkUGNITnZwWWJ5WVNBNWJMemxNWHdoWkVoaWRhS3kxNlBrTlVTMFhXYjZLQTNIR2lTZDVtVmJyY182Wk5IUkQxNVVya29nWnpwODhPdmdMWXFzdXhSOGVzRDlYelpZMHRVa2FIeVhPRWlhcThJZ2hXa0MyQjdVSmZYNWlyendKb19pUGVOX0xxSXR2cWlpb0F4SEl6ZDdRZ2kwZG5R?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFBJT1hXQm8zTWdPQTJjREdlX3ZWbWdsQ3R2X1BXMlVlcUxEVGNkUGNITnZwWWJ5WVNBNWJMemxNWHdoWkVoaWRhS3kxNlBrTlVTMFhXYjZLQTNIR2lTZDVtVmJyY182Wk5IUkQxNVVya29nWnpwODhPdmdMWXFzdXhSOGVzRDlYelpZMHRVa2FIeVhPRWlhcThJZ2hXa0MyQjdVSmZYNWlyendKb19pUGVOX0xxSXR2cWlpb0F4SEl6ZDdRZ2kwZG5R",
-  "snippet": "Six South Carolina Waffle-And-Grits Counters Where Truckers Have Stopped Since Dawn For Years Fast Food Club",
-  "published": "2026-11-19T10:13:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T10:21:08.105040+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://fastfoodclub.com/p/six-south-carolina-waffle-and-grits-counters-where-truckers-have-stopped-since-dawn-for-years-8d32963c/",
-  "source_note": "ok · 1133 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "8b9651aaf0ff939d",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-19T10:21:08.105040+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 3,
-  "ai_relevant": false
  },
  {
   "id": "5254d6f2cd",

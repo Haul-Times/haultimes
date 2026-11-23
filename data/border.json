@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:21:06.756990+00:00",
+ "updated": "2026-11-23T10:31:16.715420+00:00",
  "hour_now": 5,
  "have_us": true,
  "have_ca": true,
@@ -29,7 +29,7 @@
      7,
      6,
      8,
-     5,
+     6,
      5,
      7,
      0,
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:07 am EST",
+    "updated": "At 5:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 05:00 EST"
+    "updated": "2026-11-23 05:20 EST"
    },
    "usual": {
     "south": [
@@ -280,7 +280,7 @@
      5,
      7,
      4,
-     3,
+     2,
      4,
      3,
      4,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:07 am EST",
+    "updated": "At 5:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 05:00 EST"
+    "updated": "2026-11-23 05:20 EST"
    },
    "usual": {
     "south": [
@@ -395,7 +395,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 03:15 EST"
+    "updated": "2026-11-23 05:15 EST"
    },
    "usual": {
     "south": [
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 03:15 EST"
+    "updated": "2026-11-23 05:15 EST"
    },
    "usual": {
     "south": [
@@ -545,7 +545,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 05:05 EST"
+    "updated": "2026-11-23 05:15 EST"
    },
    "usual": {
     "south": [
@@ -689,13 +689,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "05:13:48",
+    "updated": "05:23:51",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 03:15 EST"
+    "updated": "2026-11-23 05:15 EST"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 03:15 EST"
+    "updated": "2026-11-23 05:15 EST"
    },
    "usual": {
     "south": [
@@ -845,7 +845,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 03:15 EST"
+    "updated": "2026-11-23 05:15 EST"
    },
    "usual": {
     "south": [
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "05:13:48",
+    "updated": "05:23:51",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-23 06:00 AST"
+    "updated": "2026-11-23 06:15 AST"
    },
    "usual": {
     "south": [
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:13:48",
+    "updated": "04:23:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,13 +1282,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 am PST",
+    "updated": "At 2:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-23 03:00 PDT"
+    "updated": "2026-11-23 03:20 PDT"
    },
    "usual": {
     "south": [
@@ -1357,13 +1357,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:13:48",
+    "updated": "02:23:51",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Closed",
-    "updated": "2026-11-23 03:00 PDT"
+    "updated": "2026-11-23 03:20 PDT"
    },
    "usual": {
     "south": [
