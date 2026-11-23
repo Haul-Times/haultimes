@@ -4512,7 +4512,8 @@
   "promo-20261122": "queued|HaulTimes update",
   "46294a6900": "skipped|minor item (announcement) or low-quality source",
   "d3853ba36b": "queued|importance 82 (threshold 65), Regulations, established outlet",
-  "be8983422d": "skipped|importance 55 is below this platform's threshold (65)"
+  "be8983422d": "skipped|importance 55 is below this platform's threshold (65)",
+  "ee0cf73f2d": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -9554,6 +9555,13 @@
    "title": "EDITORIAL: Why Proactive Safety and Smart Efficiency Must Define Ontario Trucking’s Next Chapter",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-23T05:01:27.269581+00:00",
+   "story_id": "ee0cf73f2d",
+   "title": "ACT Research Reports 7.4-Month Trailer Backlog Ratio",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
