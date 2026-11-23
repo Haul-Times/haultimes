@@ -7,7 +7,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 57,
   "source": "The Gaffney Ledger",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMENBX0lNeWhIaWdCNTJUMkhrZV9VUHlpWlU4TVNCRE5idkhPYkdZNmVvLWpOd1NnNTZlVlhnTDRoT3IwWEZNUVFBZm56YTYwT1VibVYzdG0wNlA1UElITmhXM19HcDZjamxEMWttVGhtenB3bFl4MDlEeEVHVzBOQmd4VHJuRnZNTmc?oc=5",
@@ -24,8 +24,36 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
-  "sum_tries": 1
+  "sum_pending": false,
+  "sum_tries": 2,
+  "pub_url": "https://www.gaffneyledger.com/articles/saia-plans-to-buy-former-overnite-terminal/",
+  "source_note": "paywalled: excerpt only · 61 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "ab1a57de4d58ab35",
+  "source_scope": "excerpt",
+  "sum_at": "2026-11-23T05:21:06.473176+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "is expected to purchase the Overnite trucking facility"
+   },
+   {
+    "sentence": "2",
+    "quote": "59-acre site at 129 Pleasant School Road"
+   }
+  ],
+  "sum_problems": [
+   "Source is a truncated excerpt; the rest of the article is not available.",
+   "Source describes Saia as Texas-based, which I could not verify from the excerpt, so that detail was left out.",
+   "Purchase is described as expected, not completed; confirm deal status before publishing."
+  ],
+  "ai_category": "other",
+  "ai_importance": 35,
+  "pending_summary": "Saia is expected to buy the former Overnite trucking facility off I-85, according to a Public Notice ad. The South Carolina Department of Environmental Services signed off on a voluntary cleanup contract with Saia covering 59 acres at 129 Pleasant School Road.",
+  "pending_why": ""
  },
  {
   "id": "ee0cf73f2d",
@@ -28164,65 +28192,6 @@
   "published": "2026-11-19T05:22:25+00:00",
   "date_known": true,
   "first_seen": "2026-11-19T05:31:02.417876+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "d145c1e413",
-  "slug": "trucking-congestion-costs-reach-128-billion-d145c1e413",
-  "title": "Trucking Congestion Costs Reach $128 Billion",
-  "orig_title": "Trucking Congestion Costs Reach $128 Billion",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 51,
-  "source": "Material Handling & Logistics",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXpvczJUd1VfSzYxSm5yLXlDYWM0WE11a256cW5xRHEyTEdVeXJ5NU5sakdQWXp0Q0lzS0lzYlFYbVpzRnp3MkpYd250TnBIWGZpR3RNR3N0bmw1MTEzMm9CdnY0aXduZTVyTnZnYVFINElrSWJ3bWw1MFVXcnNxano4bFdIYzZFdHZtZXN5TzhtWWpjWGl3VmM2QnRtYWhvcEJUSHVLbDdoQXdldmc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXpvczJUd1VfSzYxSm5yLXlDYWM0WE11a256cW5xRHEyTEdVeXJ5NU5sakdQWXp0Q0lzS0lzYlFYbVpzRnp3MkpYd250TnBIWGZpR3RNR3N0bmw1MTEzMm9CdnY0aXduZTVyTnZnYVFINElrSWJ3bWw1MFVXcnNxano4bFdIYzZFdHZtZXN5TzhtWWpjWGl3VmM2QnRtYWhvcEJUSHVLbDdoQXdldmc",
-  "snippet": "Trucking Congestion Costs Reach $128 Billion Material Handling & Logistics",
-  "published": "2026-11-19T05:09:47+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T05:21:03.012260+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Highway congestion cost US trucking $128 billion in 2024"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "3d9a2e2be3"
- },
- {
-  "id": "da7a626d36",
-  "slug": "truck-waiting-times-why-digital-systems-fall-short-da7a626d36",
-  "title": "Truck waiting times: why digital systems fall short",
-  "orig_title": "Truck waiting times: why digital systems fall short",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Trans.INFO",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3BFY05jN1B6cVN3ZGc2RDJVbEFpT0h2N3RhS055c2RyR1NvQ3M2Q2x0dm9uMmFJYmpuRnlfeGNBRklCX0RfZi1EVnpSeE8wTUgwOWktTk5mOHlmcFNKdHF3ZEdhbGx5aVdzd09fa1RPTmhSS3pRWGhEUEZqX1JHb1RjZXo1YzRiaEN3MGFhRkN3RWRJRDJBMWdwZ1FKd1hNc0xUNjRhamhpODdTMHc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3BFY05jN1B6cVN3ZGc2RDJVbEFpT0h2N3RhS055c2RyR1NvQ3M2Q2x0dm9uMmFJYmpuRnlfeGNBRklCX0RfZi1EVnpSeE8wTUgwOWktTk5mOHlmcFNKdHF3ZEdhbGx5aVdzd09fa1RPTmhSS3pRWGhEUEZqX1JHb1RjZXo1YzRiaEN3MGFhRkN3RWRJRDJBMWdwZ1FKd1hNc0xUNjRhamhpODdTMHc",
-  "snippet": "Truck waiting times: why digital systems fall short Trans.INFO",
-  "published": "2026-11-19T05:04:37+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-19T05:11:04.566056+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
