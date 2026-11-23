@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T09:51:03.805116+00:00",
- "hour_now": 4,
+ "updated": "2026-11-23T10:01:07.354007+00:00",
+ "hour_now": 5,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -29,7 +29,7 @@
      7,
      6,
      8,
-     0,
+     2,
      5,
      7,
      0,
@@ -76,7 +76,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 5 AM",
+   "best_south": "Usually fastest around 8 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 13,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 4:37 am EST",
+    "status": "delay",
+    "updated": "At 4:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -254,7 +254,7 @@
      0,
      2,
      0,
-     0,
+     2,
      0,
      0,
      14,
@@ -280,7 +280,7 @@
      5,
      7,
      4,
-     4,
+     3,
      4,
      3,
      4,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:37 am EST",
+    "updated": "At 4:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:48:39",
+    "updated": "04:58:42",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 3:00 am EST",
+    "updated": "At 4:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:48:39",
+    "updated": "04:58:42",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:48:39",
+    "updated": "03:58:42",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am MST",
+    "updated": "At 3:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1248,7 +1248,7 @@
      7,
      7,
      6,
-     4,
+     3,
      0,
      0,
      0,
@@ -1323,7 +1323,7 @@
      5,
      5,
      5,
-     6,
+     5,
      5,
      5,
      5,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:48:39",
+    "updated": "01:58:42",
     "hours": "24 hrs/day"
    },
    "north": {
