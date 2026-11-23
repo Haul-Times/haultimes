@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:31:02.539460+00:00",
+ "updated": "2026-11-23T09:41:07.346559+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -28,7 +28,7 @@
      5,
      7,
      6,
-     6,
+     7,
      0,
      5,
      7,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:17 am EST",
+    "updated": "At 4:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:17 am EST",
+    "updated": "At 4:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -385,11 +385,11 @@
    "ports": "Alexandria Bay, NY ↔ Lansdowne, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "04:23:34",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:23:34",
+    "updated": "04:33:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:23:34",
+    "updated": "04:33:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:23:34",
+    "updated": "03:33:35",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1247,7 +1247,7 @@
      6,
      7,
      7,
-     7,
+     6,
      4,
      0,
      0,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:23:34",
+    "updated": "01:33:35",
     "hours": "24 hrs/day"
    },
    "north": {
