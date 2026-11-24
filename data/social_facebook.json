@@ -4048,6 +4048,90 @@
     "created": "2026-11-24T17:21:52+0000",
     "at": "2026-11-24T17:31:44.659530+00:00"
    }
+  },
+  "c5c2fbf307": {
+   "story_id": "c5c2fbf307",
+   "title": "Diesel Price Surge Squeezes Small U.S. Trucking Companies",
+   "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQanhUZVh5T0JHaFZ2MUZvTGdvWTBIbXVaZ0szT2V3NU5QME1Sc0RDd3o4NlJ3cEtxbkxpbzF3NFV6RWJReDRvUkNuZ1lvaXdJUTIxNWx4c1lwWl9WMmZGYTZTSllwSFl6Q3FBZ0RIS1h3SVpIdHhoOUVpWXZ5TGVyTnF4dUU4QW1WNXVoYTRMVk90WFpFd2Q3WFJ2N21tUW1heXlPakdoRDAxUFFI",
+   "category": "fuel",
+   "source": "La Voce di New York",
+   "dest": "https://haultimes.com/story/diesel-price-surge-squeezes-small-u-s-trucking-companies-c5c2fbf307/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=c5c2fbf307",
+   "caption": "Diesel Price Surge Squeezes Small U.S. Trucking Companies.\n\nReported by La Voce di New York. The link has the details and the original article.\n\n#Trucking #Diesel #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T18:01:42.474581+00:00",
+   "published": "2026-11-24T17:48:47+00:00",
+   "score": 82,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Diesel Price Surge Squeezes Small U.S. Trucking Companies | HaulTimes",
+    "og:description": "Reported by La Voce di New York. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/22dc7a525f.png",
+    "og:url": "https://haultimes.com/story/diesel-price-surge-squeezes-small-u-s-trucking-companies-c5c2fbf307/"
+   },
+   "reason": "importance 82 (threshold 65), Fuel, local/other outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
+  },
+  "834f2e1f07": {
+   "story_id": "834f2e1f07",
+   "title": "Harbinger to ramp up truck production, expand manufacturing capacity",
+   "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE82eG9iajc4MnNvczFocHN6MTZIRWpoZDdQNGp3a2xvbDB0UURFMmJ1OWdTdFRVSjFuNm14VWtSSzl2d0RPMXlBYlBkZlVyaGRGZ19rMEctY3FiN3ZmeTRHcnpHc1JUemJpMkhMWEZRS2ttbnQ5Um40QkVIMHdYS09KaHdjY0NoUjlRTlBGbnJyTEx0MzltN3owd1JTcHFwODk3Nm1YaldmclRkeklLN3hjZERJemdtamZuRw",
+   "category": "equip",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/harbinger-to-ramp-up-truck-production-expand-manufacturing-capacity-834f2e1f07/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=834f2e1f07",
+   "caption": "Harbinger to ramp up truck production, expand manufacturing capacity.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #FreightMarket #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T18:01:42.474581+00:00",
+   "published": "2026-11-24T17:57:58+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Harbinger to ramp up truck production, expand manufacturing capacity | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/36442b6259.png",
+    "og:url": "https://haultimes.com/story/harbinger-to-ramp-up-truck-production-expand-manufacturing-capacity-834f2e1f07/"
+   },
+   "reason": "importance 67 (threshold 65), Equipment, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
+  },
+  "923bddca0b": {
+   "story_id": "923bddca0b",
+   "title": "US truck tonnage slips 1.8% in October",
+   "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbFJmZFZIUTVVOWgyOEZFc05YRGVWQnpaMUloWjRWaFUwUkJxdGxkOWtWWmhfWkFiVUVWMTVVQ1BZRUk0RzZyLWVoMFdJUS1BR3c3QkZ4LWF5QU93SjFtLUgzN1ZqSVJtWE1pUklvaGxkZjBGSXJMVHlQVG5WaWxNclFqRm5CdjBVZUsxbHJKanVYd3JvQm5tZkZyOA",
+   "category": "other",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/us-truck-tonnage-slips-1-8-in-october-923bddca0b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=923bddca0b",
+   "caption": "US truck tonnage slips 1.8% in October.\n\nReported by Truck News. The link has the details and the original article.\n\n#Trucking #FreightMarket #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T18:01:42.474581+00:00",
+   "published": "2026-11-24T17:52:08+00:00",
+   "score": 66,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "US truck tonnage slips 1.8% in October | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/56ad8e3900.png",
+    "og:url": "https://haultimes.com/story/us-truck-tonnage-slips-1-8-in-october-923bddca0b/"
+   },
+   "reason": "importance 66 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5081,7 +5165,11 @@
   "72cf486b3c": "skipped|importance 55 is below this platform's threshold (65)",
   "diesel-2026-11-23": "posted|HaulTimes update",
   "70ef424ae5": "skipped|importance 62 is below this platform's threshold (65)",
-  "e14ab2ad14": "skipped|importance 45 is below this platform's threshold (65)"
+  "e14ab2ad14": "skipped|importance 45 is below this platform's threshold (65)",
+  "c5c2fbf307": "queued|importance 82 (threshold 65), Fuel, local/other outlet",
+  "834f2e1f07": "queued|importance 67 (threshold 65), Equipment, trade publication",
+  "923bddca0b": "queued|importance 66 (threshold 65), Industry, trade publication",
+  "cc9a9379c0": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10765,6 +10853,34 @@
    "at": "2026-11-24T17:51:45.651263+00:00",
    "story_id": "e14ab2ad14",
    "title": "Safe truck parking falls on list of industry concerns while CSA climbs",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T18:01:42.474581+00:00",
+   "story_id": "c5c2fbf307",
+   "title": "Diesel Price Surge Squeezes Small U.S. Trucking Companies",
+   "action": "queued",
+   "reason": "importance 82 (threshold 65), Fuel, local/other outlet"
+  },
+  {
+   "at": "2026-11-24T18:01:42.474581+00:00",
+   "story_id": "834f2e1f07",
+   "title": "Harbinger to ramp up truck production, expand manufacturing capacity",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Equipment, trade publication"
+  },
+  {
+   "at": "2026-11-24T18:01:42.474581+00:00",
+   "story_id": "923bddca0b",
+   "title": "US truck tonnage slips 1.8% in October",
+   "action": "queued",
+   "reason": "importance 66 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-24T18:01:42.474581+00:00",
+   "story_id": "cc9a9379c0",
+   "title": "This holiday, thank a struggling truck driver | GUEST COMMENTARY",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
