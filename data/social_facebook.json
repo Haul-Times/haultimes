@@ -4938,7 +4938,8 @@
   "f8a9ee82be": "skipped|importance 45 is below this platform's threshold (65)",
   "45b25d6ef5": "skipped|importance 45 is below this platform's threshold (65)",
   "2e343b6e1c": "expired|stale before a slot opened (published 12h ago)",
-  "a2b6ef683e": "skipped|minor item (announcement) or low-quality source"
+  "a2b6ef683e": "skipped|minor item (announcement) or low-quality source",
+  "f52b94b9f7": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10463,6 +10464,13 @@
    "title": "One by one, non-domiciled CDL holders seek exemption",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-24T08:11:24.456912+00:00",
+   "story_id": "f52b94b9f7",
+   "title": "Connected Fleet Tech: Cutting Truck Downtime & Maintenance Costs",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
