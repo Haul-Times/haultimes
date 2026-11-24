@@ -1,5 +1,36 @@
 [
  {
+  "id": "fb05f474c5",
+  "slug": "alta-equipment-group-to-acquire-jackson-group-peterbilt-for-399-millio-fb05f474c5",
+  "title": "Alta Equipment Group to acquire Jackson Group Peterbilt for $399 million",
+  "orig_title": "Alta Equipment Group to acquire Jackson Group Peterbilt for $399 million",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "",
+  "importance": 73,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa09BbHFzNmxwMzZtN1FWXzNFOHJ6YlM4N3V5MENkQm9vaks2UF9xMGR3Zks1TmgwSGlwOGViREM2QnZOcDV5QlFGaWN5bTZ1d09rY1FZRkJLODZCMm03dkU1YUJvcWhsemg3Z3FHQUZWOU1wZzlIM29hSGw3N3Z3OXJuRnFOdnZHS1lwWVNxWmFSWUk3c1BsaFU5VU83ZXRaMVdJWlhhQUZWTHM2WHdjR1JUNWVRNWVpNm9HZk5FeW9oZmtTSGNRdA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa09BbHFzNmxwMzZtN1FWXzNFOHJ6YlM4N3V5MENkQm9vaks2UF9xMGR3Zks1TmgwSGlwOGViREM2QnZOcDV5QlFGaWN5bTZ1d09rY1FZRkJLODZCMm03dkU1YUJvcWhsemg3Z3FHQUZWOU1wZzlIM29hSGw3N3Z3OXJuRnFOdnZHS1lwWVNxWmFSWUk3c1BsaFU5VU83ZXRaMVdJWlhhQUZWTHM2WHdjR1JUNWVRNWVpNm9HZk5FeW9oZmtTSGNRdA",
+  "snippet": "Alta Equipment Group to acquire Jackson Group Peterbilt for $399 million Truck News",
+  "published": "2026-11-24T20:33:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T20:41:17.910946+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "7fc42a1641",
   "slug": "ice-road-truckers-deadliest-roads-series-2-episode-11-7fc42a1641",
   "title": "Ice Road Truckers - Deadliest Roads - Series 2 - Episode 11",
@@ -563,7 +594,12 @@
   "reasons": [],
   "labels": [],
   "kind": "crime",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://cdllife.com/2026/truck-driver-posts-bond-after-shooting-at-homeowner-who-wanted-him-out-of-their-driveway/?amp",
+  "source_note": "excerpt only · 26 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
  },
  {
   "id": "fba45bb0d3",
@@ -2182,10 +2218,10 @@
   "slug": "attention-truckers-brace-for-thanksgiving-traffic-as-nearly-73-million-afae035d53",
   "title": "Attention truckers: Brace for Thanksgiving traffic as nearly 73 million travelers hit the road",
   "orig_title": "Attention truckers: Brace for Thanksgiving traffic as nearly 73 million travelers hit the road",
-  "summary": "",
+  "summary": "AAA projects that nearly 73 million Americans will travel by car between Nov. 24-30, and the National Safety Council estimates 428 people could die in motor vehicle crashes during the Thanksgiving holiday period. That fatality estimate is 2% lower than last year's, but the council also projects 48,800 people could suffer injuries needing medical attention. INRIX expects the two days before Thanksgiving, Tuesday and Wednesday, plus Sunday and Monday afterward, to be busiest, with Thanksgiving Day itself lighter. The article advises truck drivers to add time to trip plans, expect sudden lane changes and sudden braking, leave extra following distance, and plan parking, fuel and meal stops around possible holiday closures. The council also estimates 104 more lives could be saved if all vehicle occupants wore seat belts.",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 36,
   "source": "NewsBreak: Local News & Alerts",
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWTJ4cGV3elE5X19FNkdUYUpSX25DWWRsbGdaakVGZkE4MEsxb1dGbXR3QzNSZl94SHFrcERZMzdDVm5jeGJvd3JjeTQ0NXBIRlkzeXJHdFpCU1dubjY4bFdCZDBQLURqRWVJcmV2akVHaWYyd3JnTko5TmlfY3BCaEEzTFp6UE5WMDBJR2Q0LTlMNEVwTzRtQWxHZlNlcmM4cWpMbDhDX0phaFI4UUV5VEhLbTJwMXdHQ21Ha01KblNQeVFtVnktMU1pdGtCdDFfTmNRTGh4OE9oUUdSd2JIUlAta25EaS1MUGxFVkJvbw?oc=5",
@@ -2202,23 +2238,51 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
-  "sum_tries": 0,
+  "sum_pending": false,
+  "sum_tries": 1,
   "pub_url": "https://www.newsbreak.com/thetrucker-com-315850146/5026589534492-attention-truckers-brace-for-thanksgiving-traffic-as-nearly-73-million-travelers-hit-the-road",
   "source_note": "ok · 456 words",
-  "sum_done": false,
-  "sum_status": "withheld",
+  "sum_done": true,
+  "sum_status": "published",
   "source_fp": "8bb5a90a3d5c330a",
   "source_scope": "full_article",
-  "sum_at": "2026-11-24T20:21:06.291356+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-24T20:41:17.910946+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "nearly 73 million Americans will travel by car"
+   },
+   {
+    "sentence": "2",
+    "quote": "428 people could lose their lives in motor vehicle crashes"
+   },
+   {
+    "sentence": "3",
+    "quote": "48,800 people could suffer injuries requiring medical attention"
+   },
+   {
+    "sentence": "4",
+    "quote": "the Tuesday and Wednesday before Thanksgiving"
+   },
+   {
+    "sentence": "5",
+    "quote": "Thanksgiving Day itself is expected to see lighter traffic"
+   },
+   {
+    "sentence": "6",
+    "quote": "Build extra time into trip plans to account for congestion and potential delays"
+   },
+   {
+    "sentence": "7",
+    "quote": "104 lives could be saved during this year's Thanksgiving holiday period if all vehicle occupants wore seat belts"
+   }
   ],
-  "ai_importance": 36,
-  "sum_v4": true
+  "sum_problems": [],
+  "ai_importance": 35,
+  "sum_v4": true,
+  "ai_category": "drivers"
  },
  {
   "id": "27e8552dbb",
@@ -14052,35 +14116,6 @@
   "published": "2026-11-20T20:30:54+00:00",
   "date_known": true,
   "first_seen": "2026-11-21T02:31:03.187175+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "3929711b11",
-  "slug": "semi-driver-in-saskatchewan-dangerously-passes-multiple-vehicles-on-hi-3929711b11",
-  "title": "Semi driver in Saskatchewan dangerously passes multiple vehicles on highway shoulder",
-  "orig_title": "Semi driver in Saskatchewan dangerously passes multiple vehicles on highway shoulder",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWsyTTI1Q0dKN3NBNVptME04cGtjcGdhUUxaakNWTkJ5dWdRSXVZYUZtd1pOQjQ2S2stWnlVb2M0Uzg5YnlkTDl2aFF3cm43TkFXZk4xd3FyRWpHMWpwYlp3QVA5WUVNSjdhYUN5a1hjR3dpdmhIZlVGTWk5anRDc0pNTUZ6aWZKVTlBeGNyQjFxRnMtdmJvWmlsSllVZ1Y2WXNzRFRkeDJfeTI3NTZsUERKQUNsRFlIakd4Qk84bE0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWsyTTI1Q0dKN3NBNVptME04cGtjcGdhUUxaakNWTkJ5dWdRSXVZYUZtd1pOQjQ2S2stWnlVb2M0Uzg5YnlkTDl2aFF3cm43TkFXZk4xd3FyRWpHMWpwYlp3QVA5WUVNSjdhYUN5a1hjR3dpdmhIZlVGTWk5anRDc0pNTUZ6aWZKVTlBeGNyQjFxRnMtdmJvWmlsSllVZ1Y2WXNzRFRkeDJfeTI3NTZsUERKQUNsRFlIakd4Qk84bE0",
-  "snippet": "Semi driver in Saskatchewan dangerously passes multiple vehicles on highway shoulder CTV News",
-  "published": "2026-11-20T20:30:26+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T20:41:03.467934+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
