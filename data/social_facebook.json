@@ -4905,7 +4905,8 @@
   "2a483d4342": "posted|importance 70 (threshold 65), Equipment, established outlet; waited 45 min in queue",
   "ec39d44703": "skipped|importance 50 is below this platform's threshold (65)",
   "0e4452b890": "skipped|importance 51 is below this platform's threshold (65)",
-  "5c25dc2917": "posted|importance 82 (threshold 65), Fuel, established outlet; waited 10 min in queue"
+  "5c25dc2917": "posted|importance 82 (threshold 65), Fuel, established outlet; waited 10 min in queue",
+  "dcc5f006b3": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10388,6 +10389,13 @@
    "title": "Diesel prices soar as Silicon Valley startup unveils cab-less trucking solution",
    "action": "posted",
    "reason": "importance 82 (threshold 65), Fuel, established outlet; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-24T01:11:34.628341+00:00",
+   "story_id": "dcc5f006b3",
+   "title": "CRST Drivers Win $1.8M In Truck Lease Case",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
