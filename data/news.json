@@ -25,7 +25,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.truckinginfo.com/news/truck-tonnage-slips-after-september-jump",
   "source_note": "ok · 670 words"
  },
@@ -4109,6 +4109,35 @@
   "status": "rejected",
   "reasons": [
    "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "300ed09bd3",
+  "slug": "janus-electric-joins-australian-trucking-association-300ed09bd3",
+  "title": "Janus Electric Joins Australian Trucking Association",
+  "orig_title": "Janus Electric Joins Australian Trucking Association",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHc1UGhOczI4SlYzTHpRTGNxLTE5NUZ6RDNTRlN6Q0pxSThoRTZTS20wd3JNOTluc3FvRnNlY3cxdVFNRTAyYmh2bU5IQjlwZlJ0aVBXOS1BMDg2MDRoTTlVQXlEeVAwX2JvT0NyZDdURnZ4Ukg1WDVyMFo2TzJNTC10ZkxadDhEYUo5RTl6YXhqY2t3RVJjQ3BR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHc1UGhOczI4SlYzTHpRTGNxLTE5NUZ6RDNTRlN6Q0pxSThoRTZTS20wd3JNOTluc3FvRnNlY3cxdVFNRTAyYmh2bU5IQjlwZlJ0aVBXOS1BMDg2MDRoTTlVQXlEeVAwX2JvT0NyZDdURnZ4Ukg1WDVyMFo2TzJNTC10ZkxadDhEYUo5RTl6YXhqY2t3RVJjQ3BR",
+  "snippet": "Janus Electric Joins Australian Trucking Association Wisevoter",
+  "published": "2026-11-24T00:13:18+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T23:31:03.999022+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
