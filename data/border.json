@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:11:10.078206+00:00",
+ "updated": "2026-11-24T09:21:15.826480+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -28,7 +28,7 @@
      32,
      26,
      19,
-     7,
+     10,
      3,
      4,
      1,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 4:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 4:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -385,11 +385,11 @@
    "ports": "Alexandria Bay, NY ↔ Lansdowne, ON",
    "region": "on-ny",
    "south": {
-    "wait": null,
+    "wait": 10,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "04:06:45",
+    "lanes": "1",
+    "status": "delay",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -403,7 +403,7 @@
      null,
      null,
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 5:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:06:45",
+    "updated": "04:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:06:45",
+    "updated": "04:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:06:46",
+    "updated": "03:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:06:46",
+    "updated": "02:16:48",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1296,7 +1296,7 @@
      0,
      0,
      9,
-     13,
+     12,
      17,
      18,
      24,
