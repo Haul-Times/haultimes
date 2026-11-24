@@ -5315,7 +5315,8 @@
   "08096d293c": "skipped|importance 60 is below this platform's threshold (65)",
   "cb5127494b": "queued|importance 73 (threshold 65), Industry, trade publication",
   "e913a2bb1c": "skipped|minor item (press_release) or low-quality source",
-  "ed3d435a6d": "queued|importance 67 (threshold 65), Industry, trade publication"
+  "ed3d435a6d": "queued|importance 67 (threshold 65), Industry, trade publication",
+  "d75a175090": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -11085,6 +11086,13 @@
    "title": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-24T19:41:38.391489+00:00",
+   "story_id": "d75a175090",
+   "title": "Peterbilt expands Red Oval Certified Pre-Owned Program",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
