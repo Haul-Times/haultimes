@@ -4132,6 +4132,62 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "a5be8b825e": {
+   "story_id": "a5be8b825e",
+   "title": "Reefer spot rates surge ahead of Thanksgiving",
+   "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjlIX05qTHZyekY0ejVtb2pDR2tJekVaY0ZJWE5MbTNxdEhvUThkTzI5NTdFQ2V2MGRzOFExOHA1Ri0xMkpvaUF3SE1YRVJuN3NrMU8zX1MxMUtiU0Y5bWdPRTNNVHk0eW9XLVN0REU1OWRTQ2IwRWY4Nm5SQ2RUc1VrYTJnLWx6RHBfcDFRY3V6X3NmNWJsUXJZTTl4LXBVNVhHeXJ3",
+   "category": "rates",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/reefer-spot-rates-surge-ahead-of-thanksgiving-a5be8b825e/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=a5be8b825e",
+   "caption": "Reefer spot rates surge ahead of Thanksgiving.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #Freight #FreightRates #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T18:11:20.855818+00:00",
+   "published": "2026-11-24T18:02:08+00:00",
+   "score": 87,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Reefer spot rates surge ahead of Thanksgiving | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/bb347dcdcb.png",
+    "og:url": "https://haultimes.com/story/reefer-spot-rates-surge-ahead-of-thanksgiving-a5be8b825e/"
+   },
+   "reason": "importance 87 (threshold 65), Rates & Market, trade publication",
+   "breaking": "breaking: importance 87, reported by a trade publication of record",
+   "edited": false,
+   "wait_summary": false
+  },
+  "7ee0c01dac": {
+   "story_id": "7ee0c01dac",
+   "title": "Reefer Rejections DOUBLE YoY: Holiday Capacity Crisis Looms",
+   "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHJXZUZVQWd1TFhPSmpWN3hkdlRfbTlTNHFuMXNCNml6LU1iUTZHSFJjOEVHZ0hmTWxBN0tMNmJtNDFvSGhDOHNKbXZlVG5RZWVYQjYxM25XSk43MEM4N2E3MXJ6eUFRRWdqeVBJY1dDRkUxMTZnQ0JrZHlvSEJla3RkdmRnZnBtMmZEVDM3b0RTTEx5Mktz",
+   "category": "rates",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/reefer-rejections-double-yoy-holiday-capacity-crisis-looms-7ee0c01dac/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=7ee0c01dac",
+   "caption": "Reefer Rejections DOUBLE YoY: Holiday Capacity Crisis Looms.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight #FreightMarket #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T18:11:20.855818+00:00",
+   "published": "2026-11-24T17:50:59+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Reefer Rejections DOUBLE YoY: Holiday Capacity Crisis Looms | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/a5f825797f.png",
+    "og:url": "https://haultimes.com/story/reefer-rejections-double-yoy-holiday-capacity-crisis-looms-7ee0c01dac/"
+   },
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5169,7 +5225,10 @@
   "c5c2fbf307": "queued|importance 82 (threshold 65), Fuel, local/other outlet",
   "834f2e1f07": "queued|importance 67 (threshold 65), Equipment, trade publication",
   "923bddca0b": "queued|importance 66 (threshold 65), Industry, trade publication",
-  "cc9a9379c0": "skipped|importance 45 is below this platform's threshold (65)"
+  "cc9a9379c0": "skipped|importance 45 is below this platform's threshold (65)",
+  "a5be8b825e": "queued|importance 87 (threshold 65), Rates & Market, trade publication",
+  "7ee0c01dac": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
+  "08096d293c": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10883,6 +10942,27 @@
    "title": "This holiday, thank a struggling truck driver | GUEST COMMENTARY",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T18:11:20.855818+00:00",
+   "story_id": "a5be8b825e",
+   "title": "Reefer spot rates surge ahead of Thanksgiving",
+   "action": "queued",
+   "reason": "importance 87 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-24T18:11:20.855818+00:00",
+   "story_id": "7ee0c01dac",
+   "title": "Reefer Rejections DOUBLE YoY: Holiday Capacity Crisis Looms",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
+  },
+  {
+   "at": "2026-11-24T18:11:20.855818+00:00",
+   "story_id": "08096d293c",
+   "title": "Trucking industry to deliver wreaths to Arlington National Cemetery",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
