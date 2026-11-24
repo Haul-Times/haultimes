@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:31:18.621946+00:00",
+ "updated": "2026-11-24T11:41:04.153642+00:00",
  "hour_now": 6,
  "have_us": true,
  "have_ca": true,
@@ -105,7 +105,7 @@
      3,
      1,
      0,
-     4,
+     3,
      6,
      13,
      30,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:17 am EST",
+    "updated": "At 6:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:17 am EST",
+    "updated": "At 6:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -405,7 +405,7 @@
      0,
      4,
      5,
-     4,
+     5,
      0,
      0,
      0,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "06:27:03",
+    "updated": "06:37:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 am EST",
+    "updated": "At 6:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 am EST",
+    "updated": "At 7:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "06:27:03",
+    "updated": "06:37:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:27:03",
+    "updated": "05:37:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:27:03",
+    "updated": "04:37:04",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1298,7 +1298,7 @@
      9,
      10,
      11,
-     13,
+     12,
      24,
      30,
      35,
