@@ -4255,14 +4255,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/j-b-hunt-urges-stb-to-reject-union-pacific-norfolk-southern-merger-ed3d435a6d/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ed3d435a6d",
    "caption": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckingBusiness #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-24T19:31:31.546935+00:00",
    "published": "2026-11-24T19:24:27+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122111952177544428",
+   "posted_at": "2026-11-24T20:51:32.442977+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger | HaulTimes",
@@ -4273,7 +4273,9 @@
    "reason": "importance 67 (threshold 65), Industry, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-24T20:51:32.442977+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122111952177544428"
   },
   "fb05f474c5": {
    "story_id": "fb05f474c5",
@@ -4654,6 +4656,10 @@
   {
    "at": "2026-11-24T20:01:19.337261+00:00",
    "msg": "posted cb5127494b"
+  },
+  {
+   "at": "2026-11-24T20:51:32.442977+00:00",
+   "msg": "posted ed3d435a6d"
   }
  ],
  "decided": {
@@ -5357,7 +5363,7 @@
   "08096d293c": "skipped|importance 60 is below this platform's threshold (65)",
   "cb5127494b": "posted|importance 73 (threshold 65), Industry, trade publication; waited 99 min in queue",
   "e913a2bb1c": "skipped|minor item (press_release) or low-quality source",
-  "ed3d435a6d": "queued|importance 67 (threshold 65), Industry, trade publication",
+  "ed3d435a6d": "posted|importance 67 (threshold 65), Industry, trade publication; waited 80 min in queue",
   "d75a175090": "skipped|minor item (announcement) or low-quality source",
   "74f1a0fa9b": "skipped|minor item (incident) or low-quality source",
   "1477dd8615": "skipped|importance 55 is below this platform's threshold (65)",
@@ -11222,6 +11228,13 @@
    "title": "Alta Equipment Group to acquire Jackson Group Peterbilt for $399 million",
    "action": "queued",
    "reason": "importance 73 (threshold 65), Equipment, trade publication"
+  },
+  {
+   "at": "2026-11-24T20:51:32.442977+00:00",
+   "story_id": "ed3d435a6d",
+   "title": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Industry, trade publication; waited 80 min in queue"
   }
  ],
  "visibility": {
