@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:31:05.802077+00:00",
+ "updated": "2026-11-24T17:40:27.286106+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 12:17 pm EST",
+    "updated": "At 12:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:17 pm EST",
+    "updated": "At 12:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -411,7 +411,7 @@
      5,
      5,
      5,
-     4,
+     5,
      0,
      0,
      0,
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 am EST",
+    "updated": "At 10:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At Noon EST",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-24 12:15 EST"
+    "updated": "2026-11-24 11:15 EST"
    },
    "usual": {
     "south": [
@@ -770,7 +770,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-24 12:15 EST"
+    "updated": "2026-11-24 12:28 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:27:50",
+    "updated": "12:37:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1330,7 +1330,7 @@
      5,
      5,
      6,
-     9,
+     10,
      5,
      5,
      5,
@@ -1472,8 +1472,8 @@
    },
    {
     "name": "Lynden",
-    "wait": 10,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Madawaska",
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 221",
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },
