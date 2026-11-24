@@ -1,5 +1,34 @@
 [
  {
+  "id": "716e476b28",
+  "slug": "paybyphone-charging-users-for-sms-reminders-716e476b28",
+  "title": "PayByPhone charging users for SMS reminders",
+  "orig_title": "PayByPhone charging users for SMS reminders",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkhkVm82Ykw0RUtDZmtTcWFPdHRlaFF3OE01X01tWmJwZXBPQk9zWmJhX3dVUVdKZnhkbF9uZ1FEX3QwMjlkSXY3TXJVc2FaZGdEVmxNVnBEbEowWFFaSmdUcWRUeWl3eXpsWlUzUkFiQkVRNzIyMnRCUEx5ZnVlR2lPdTQ4RGxC?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkhkVm82Ykw0RUtDZmtTcWFPdHRlaFF3OE01X01tWmJwZXBPQk9zWmJhX3dVUVdKZnhkbF9uZ1FEX3QwMjlkSXY3TXJVc2FaZGdEVmxNVnBEbEowWFFaSmdUcWRUeWl3eXpsWlUzUkFiQkVRNzIyMnRCUEx5ZnVlR2lPdTQ4RGxC",
+  "snippet": "PayByPhone charging users for SMS reminders Global News",
+  "published": "2026-11-24T23:41:02+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T23:51:04.213273+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "79084dab06",
   "slug": "truck-tonnage-slips-carrier-outlook-improves-79084dab06",
   "title": "Truck Tonnage Slips, Carrier Outlook Improves",
@@ -24,7 +53,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/truck-tonnage-slips-after-september-jump",
   "source_note": "ok · 670 words"
@@ -54,7 +83,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://www.truckinginfo.com/articles/where-electric-trucks-can-charge-now",
+  "source_note": "ok · 1563 words"
  },
  {
   "id": "a8533f7e47",
@@ -23462,35 +23494,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "9fdf81a71d",
-  "slug": "highly-classified-u-s-national-security-communications-network-goes-do-9fdf81a71d",
-  "title": "Highly classified U.S. national security communications network goes down, CNN sources say",
-  "orig_title": "Highly classified U.S. national security communications network goes down, CNN sources say",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmM0OVAzNFU2XzMxN2VyR0h4VF9FRTRsaXp3NDhQdGM0bmRxZlpMUHhidGtDMnVJUjNLT21QY29lLU93VmlaYlYzT01PZEVxUHhiQkZLRzJjOU5zbmFEY0ZQUkJiazZVZU93WGdIbVNqckNRbFNfcm8tUHN4VC1kZlU1U3VmTWlra3lYMUtNcmdoYTJmVzhZOHdhY1VVSENZdG9ieFpMY2F2ZkxmV3dCNUVFRVNuWXB0R1h2cVB3bFRRWmM?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmM0OVAzNFU2XzMxN2VyR0h4VF9FRTRsaXp3NDhQdGM0bmRxZlpMUHhidGtDMnVJUjNLT21QY29lLU93VmlaYlYzT01PZEVxUHhiQkZLRzJjOU5zbmFEY0ZQUkJiazZVZU93WGdIbVNqckNRbFNfcm8tUHN4VC1kZlU1U3VmTWlra3lYMUtNcmdoYTJmVzhZOHdhY1VVSENZdG9ieFpMY2F2ZkxmV3dCNUVFRVNuWXB0R1h2cVB3bFRRWmM",
-  "snippet": "Highly classified U.S. national security communications network goes down, CNN sources say CTV News",
-  "published": "2026-11-18T12:29:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T23:41:05.619839+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "478c487ccd",
