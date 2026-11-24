@@ -5026,7 +5026,8 @@
   "28c418424e": "posted|importance 72 (threshold 65), Cross-Border, trade publication; waited 10 min in queue",
   "c903afebfc": "skipped|importance 55 is below this platform's threshold (65)",
   "22bc3f624f": "queued|importance 67 (threshold 65), Regulations, trade publication",
-  "84295bfa13": "skipped|importance 55 is below this platform's threshold (65)"
+  "84295bfa13": "skipped|importance 55 is below this platform's threshold (65)",
+  "0acecd0bcd": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10654,6 +10655,13 @@
    "at": "2026-11-24T16:01:21.590752+00:00",
    "story_id": "84295bfa13",
    "title": "NACFE fuel study sees fleets bust myths, spread benefits",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T16:11:21.540113+00:00",
+   "story_id": "0acecd0bcd",
+   "title": "Port of Oakland charging up 300 Tesla Semi trucks for zero-emission freight corridor",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
