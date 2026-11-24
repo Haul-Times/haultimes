@@ -5041,7 +5041,8 @@
   "c903afebfc": "skipped|importance 55 is below this platform's threshold (65)",
   "22bc3f624f": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 20 min in queue",
   "84295bfa13": "skipped|importance 55 is below this platform's threshold (65)",
-  "0acecd0bcd": "skipped|importance 55 is below this platform's threshold (65)"
+  "0acecd0bcd": "skipped|importance 55 is below this platform's threshold (65)",
+  "abb98258af": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10685,6 +10686,13 @@
    "title": "Court bars FMCSA from withholding $73M from New York",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-24T16:51:41.493009+00:00",
+   "story_id": "abb98258af",
+   "title": "Uber, Nuro to start driverless testing of Lucid robotaxis",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
