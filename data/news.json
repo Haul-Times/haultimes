@@ -146,7 +146,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://mexicobusiness.news/logistics/news/us-visa-revocations-pressure-mexicos-cross-border-trucking",
   "source_note": "ok · 639 words"
  },
@@ -19777,36 +19777,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "370c1282f3",
-  "slug": "trucking-s-annual-congestion-costs-reach-128-2b-370c1282f3",
-  "title": "Trucking’s annual congestion costs reach $128.2B",
-  "orig_title": "Trucking’s annual congestion costs reach $128.2B",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 51,
-  "source": "American Journal of Transportation",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04U3ktQmlCMWo4QkZ2OVBHejVyLUpfUWxPRlRWYU81ek1iLWJXQUtBSXBQSUZwak0yS1JIQkFodjJ0SS1Wb0Z1M2RzV1V5VURPaFlDa2JXdlNqSUpBalQ3WTdBWnhGMFpNR3BtNURzYWk1Ry1oUHR2MHBYRzA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04U3ktQmlCMWo4QkZ2OVBHejVyLUpfUWxPRlRWYU81ek1iLWJXQUtBSXBQSUZwak0yS1JIQkFodjJ0SS1Wb0Z1M2RzV1V5VURPaFlDa2JXdlNqSUpBalQ3WTdBWnhGMFpNR3BtNURzYWk1Ry1oUHR2MHBYRzA",
-  "snippet": "Trucking’s annual congestion costs reach $128.2B American Journal of Transportation",
-  "published": "2026-11-19T13:44:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T22:51:14.344956+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Highway congestion cost US trucking $128 billion in 2024"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "3d9a2e2be3"
  },
  {
   "id": "2308c68700",
