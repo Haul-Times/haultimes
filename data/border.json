@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:11:02.541572+00:00",
+ "updated": "2026-11-24T18:21:05.469680+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 1:00 pm EST",
+    "status": "no delay",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -262,7 +262,7 @@
      2,
      0,
      1,
-     3,
+     2,
      1,
      0,
      0,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -412,7 +412,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-24 12:15 EST"
+    "updated": "2026-11-24 11:15 EST"
    },
    "usual": {
     "south": [
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-24 13:15 AST"
+    "updated": "2026-11-24 14:15 AST"
    },
    "usual": {
     "south": [
@@ -937,7 +937,7 @@
      0,
      0,
      1,
-     4,
+     3,
      0,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:07:54",
+    "updated": "13:12:54",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1087,7 +1087,7 @@
      29,
      18,
      13,
-     10,
+     13,
      0,
      0,
      0,
@@ -1305,7 +1305,7 @@
      28,
      23,
      14,
-     9,
+     10,
      2,
      0,
      0,
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 221",
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },
