@@ -1,5 +1,34 @@
 [
  {
+  "id": "352c0ce2d7",
+  "slug": "amcham-urges-stronger-security-coordination-in-mexico-352c0ce2d7",
+  "title": "AmCham Urges Stronger Security Coordination in Mexico",
+  "orig_title": "AmCham Urges Stronger Security Coordination in Mexico",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Mexico Business News",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXNPbnpXNFVLcDVBRm02Y2I2Yl9UNzd3S1dpREdhUWtqb1lQMXFRcTUtRUsxMXNoRjFsT0g1QnEzZnBwdkxvdUZyRGZ1elprQ3FIU2U5U0RLVTlIRHEwenZVR3YxWWFSNVpEQVdCWXNRSDF6bGoyY25PcVFzcnp1b0p3OEdibHZ2VGp0ZmV4bFdRQ0ZPeHJMM0VUdEhETnZ6UnBGUi0zaw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXNPbnpXNFVLcDVBRm02Y2I2Yl9UNzd3S1dpREdhUWtqb1lQMXFRcTUtRUsxMXNoRjFsT0g1QnEzZnBwdkxvdUZyRGZ1elprQ3FIU2U5U0RLVTlIRHEwenZVR3YxWWFSNVpEQVdCWXNRSDF6bGoyY25PcVFzcnp1b0p3OEdibHZ2VGp0ZmV4bFdRQ0ZPeHJMM0VUdEhETnZ6UnBGUi0zaw",
+  "snippet": "AmCham Urges Stronger Security Coordination in Mexico Mexico Business News",
+  "published": "2026-11-24T16:05:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T16:21:05.835405+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9e174daa16",
   "slug": "the-coming-shopping-war-amazon-vs-openai-9e174daa16",
   "title": "The Coming Shopping War - Amazon vs. OpenAI",
@@ -17533,35 +17562,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "b4737c5beb",
-  "slug": "thanksgiving-holiday-prompts-warning-to-cargo-shippers-b4737c5beb",
-  "title": "Thanksgiving Holiday Prompts Warning to Cargo Shippers",
-  "orig_title": "Thanksgiving Holiday Prompts Warning to Cargo Shippers",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Carrier Management",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lSWM4Vk5mOF8zSUlHcVM5TENaWktma0R5ZVhuS3VIcm1IZnJsdHFsaldlMUdETUZoTGRuR05wVXMwcTJka1NxLTFJUVhFRWNuWVA2MEp2eWFpNnVodTFUX1JnN1l2dG82dGhkVg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lSWM4Vk5mOF8zSUlHcVM5TENaWktma0R5ZVhuS3VIcm1IZnJsdHFsaldlMUdETUZoTGRuR05wVXMwcTJka1NxLTFJUVhFRWNuWVA2MEp2eWFpNnVodTFUX1JnN1l2dG82dGhkVg",
-  "snippet": "Thanksgiving Holiday Prompts Warning to Cargo Shippers Carrier Management",
-  "published": "2026-11-20T15:26:53+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T16:11:17.668051+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",

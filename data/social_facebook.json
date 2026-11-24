@@ -3988,14 +3988,14 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/court-bars-fmcsa-from-withholding-73m-from-new-york-22bc3f624f/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=22bc3f624f",
    "caption": "Court bars FMCSA from withholding $73M from New York.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #FMCSA #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-24T16:01:21.590752+00:00",
    "published": "2026-11-24T15:35:00+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122111879751544428",
+   "posted_at": "2026-11-24T16:21:26.871837+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Court bars FMCSA from withholding $73M from New York | HaulTimes",
@@ -4006,7 +4006,9 @@
    "reason": "importance 67 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-24T16:21:26.871837+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122111879751544428"
   }
  },
  "paused": null,
@@ -4339,6 +4341,10 @@
   {
    "at": "2026-11-24T15:01:43.743654+00:00",
    "msg": "posted 28c418424e"
+  },
+  {
+   "at": "2026-11-24T16:21:26.871837+00:00",
+   "msg": "posted 22bc3f624f"
   }
  ],
  "decided": {
@@ -5025,7 +5031,7 @@
   "57fd7abc12": "skipped|minor item (announcement) or low-quality source",
   "28c418424e": "posted|importance 72 (threshold 65), Cross-Border, trade publication; waited 10 min in queue",
   "c903afebfc": "skipped|importance 55 is below this platform's threshold (65)",
-  "22bc3f624f": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "22bc3f624f": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 20 min in queue",
   "84295bfa13": "skipped|importance 55 is below this platform's threshold (65)",
   "0acecd0bcd": "skipped|importance 55 is below this platform's threshold (65)"
  },
@@ -10664,6 +10670,13 @@
    "title": "Port of Oakland charging up 300 Tesla Semi trucks for zero-emission freight corridor",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T16:21:26.871837+00:00",
+   "story_id": "22bc3f624f",
+   "title": "Court bars FMCSA from withholding $73M from New York",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 20 min in queue"
   }
  ],
  "visibility": {
