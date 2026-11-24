@@ -1,5 +1,78 @@
 [
  {
+  "id": "d2cc05bead",
+  "slug": "truckers-strike-spreads-to-15-iranian-cities-as-official-denies-walkou-d2cc05bead",
+  "title": "Truckers' Strike Spreads To 15 Iranian Cities As Official Denies Walkout",
+  "orig_title": "Truckers' Strike Spreads To 15 Iranian Cities As Official Denies Walkout",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "Other",
+  "importance": 65,
+  "source": "IranWire",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2lsZWJ6Y0tDUnJ2a01Ba1FYTjVRdFNlRFdrTFpKV2h2dEFvVWZVOE9QQnhOcG1pRmdrWkZhaUpWMFRQT09JS0ViRlk2WWZCWGttR1dIaTVpaDlaVEdGOVVvNXpMRVIxd0daZjNETTVMcWJtcTdzbGpBT3AtODBlUUdGb3hMRUd3Y3l1UzR3TkdORW1KMFlJcUVQRHByRkhELVM1UWl5dFJLYzlx?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2lsZWJ6Y0tDUnJ2a01Ba1FYTjVRdFNlRFdrTFpKV2h2dEFvVWZVOE9QQnhOcG1pRmdrWkZhaUpWMFRQT09JS0ViRlk2WWZCWGttR1dIaTVpaDlaVEdGOVVvNXpMRVIxd0daZjNETTVMcWJtcTdzbGpBT3AtODBlUUdGb3hMRUd3Y3l1UzR3TkdORW1KMFlJcUVQRHByRkhELVM1UWl5dFJLYzlx",
+  "snippet": "Truckers' Strike Spreads To 15 Iranian Cities As Official Denies Walkout IranWire",
+  "published": "2026-11-24T14:35:42+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T14:41:05.823334+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://iranwire.com/en/news/160694-truckers-strike-spreads-to-15-iranian-cities-as-official-denies-walkout/",
+  "source_note": "ok · 338 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "2868b7b7f7e5ceda",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-24T14:41:05.823334+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "reporting that truck activity has stopped in at least 10 cities"
+   },
+   {
+    "sentence": "2",
+    "quote": "The strike began Sunday, Nov. 22, 2026"
+   },
+   {
+    "sentence": "3",
+    "quote": "Drivers cite low freight rates relative to their costs"
+   },
+   {
+    "sentence": "4",
+    "quote": "40 liters of engine oil and five filters now cost 62 million tomans"
+   },
+   {
+    "sentence": "5",
+    "quote": "denied that a strike had taken shape"
+   },
+   {
+    "sentence": "6",
+    "quote": "He announced a meeting with the president and a working group"
+   },
+   {
+    "sentence": "7",
+    "quote": "No independent figures on the decline in freight movement during the strike have been published yet."
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 12,
+  "ai_relevant": false
+ },
+ {
   "id": "57fd7abc12",
   "slug": "piston-expands-cardless-fleet-fueling-network-to-246-refuel-locations-57fd7abc12",
   "title": "Piston expands cardless fleet fueling network to 246 Refuel locations",
@@ -31,6 +104,64 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "4e8c084a32",
+  "slug": "air-cargo-s-squeeze-makes-the-case-for-ai-driven-cargo-technology-4e8c084a32",
+  "title": "Air cargo’s squeeze makes the case for AI-driven cargo technology",
+  "orig_title": "Air cargo’s squeeze makes the case for AI-driven cargo technology",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVV3cEZFakZoZTNKdkl2WU1UMzh3SVpvVVREcF9PREptVkFfU18wMzkzaTdMdm1FU0JOenVXU2FMZnVTeGVraDFGeHlodkxkR0tzcW9aclRoanZ1eEUyQ0VLOFpGNk5qSkZ3M3NIbXQ1aDNkcU5ETDU5UXlqWWQxRGpDLTUxTlBOSjRBclJ5cEE3ejBtNjc0ckJ6dTVfU0k?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVV3cEZFakZoZTNKdkl2WU1UMzh3SVpvVVREcF9PREptVkFfU18wMzkzaTdMdm1FU0JOenVXU2FMZnVTeGVraDFGeHlodkxkR0tzcW9aclRoanZ1eEUyQ0VLOFpGNk5qSkZ3M3NIbXQ1aDNkcU5ETDU5UXlqWWQxRGpDLTUxTlBOSjRBclJ5cEE3ejBtNjc0ckJ6dTVfU0k",
+  "snippet": "Air cargo’s squeeze makes the case for AI-driven cargo technology FreightWaves",
+  "published": "2026-11-24T14:13:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T14:41:05.823334+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "ocean/air freight with no North American trucking link"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "62bb95dac9",
+  "slug": "subprime-auto-dealer-america-s-car-mart-files-for-chapter-11-62bb95dac9",
+  "title": "Subprime auto dealer America’s Car-Mart files for Chapter 11",
+  "orig_title": "Subprime auto dealer America’s Car-Mart files for Chapter 11",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOXpWNHpRZkhiUEdlWUlEa2F2Vldva2F1NWNfWjFLM2ppRUlBa09zUlZZOHY4V0RWLU41eVZwLWY4SlRGMVQzbXZPUFFFbkFOQTBjLXVhOUQ3cWZLckc0TVNBOHpodHh1N3hYSg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOXpWNHpRZkhiUEdlWUlEa2F2Vldva2F1NWNfWjFLM2ppRUlBa09zUlZZOHY4V0RWLU41eVZwLWY4SlRGMVQzbXZPUFFFbkFOQTBjLXVhOUQ3cWZLckc0TVNBOHpodHh1N3hYSg",
+  "snippet": "Subprime auto dealer America’s Car-Mart files for Chapter 11 Transport Topics",
+  "published": "2026-11-24T14:09:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T14:41:05.823334+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "6783264813",
@@ -4577,6 +4708,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "49d90caa76",
+  "slug": "burns-hilanders-shut-out-kennedy-14-0-punch-ticket-to-state-championsh-49d90caa76",
+  "title": "Burns Hilanders shut out Kennedy 14-0, punch ticket to state championship against Vale",
+  "orig_title": "Burns Hilanders shut out Kennedy 14-0, punch ticket to state championship against Vale",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "NewsBreak: Local News & Alerts",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVR1b0dMZTlFMHdTWk54RDU4OXR4TW9TOURTeGZBWDB5Qy1McnpHa1lvNXFyZWlnVkxMWUZQTWlXbUhtTFgwRmxCWXJmalcwNjVsOUgwdzBLejMxVEVDQ19GSURsbTNqRGowWU00UzlsTmEwakQ0WEp0bk5GdC1IQjN4d29pdzkwalJocnktTGp1SlFNVERpaXRYcU9pTlVmeVI3Qlo3dmNodHFkQk1uaTJBWTR5dGVCdjc5UUhOVnp5SU5FQnhkNUJ3?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVR1b0dMZTlFMHdTWk54RDU4OXR4TW9TOURTeGZBWDB5Qy1McnpHa1lvNXFyZWlnVkxMWUZQTWlXbUhtTFgwRmxCWXJmalcwNjVsOUgwdzBLejMxVEVDQ19GSURsbTNqRGowWU00UzlsTmEwakQ0WEp0bk5GdC1IQjN4d29pdzkwalJocnktTGp1SlFNVERpaXRYcU9pTlVmeVI3Qlo3dmNodHFkQk1uaTJBWTR5dGVCdjc5UUhOVnp5SU5FQnhkNUJ3",
+  "snippet": "Burns Hilanders shut out Kennedy 14-0, punch ticket to state championship against Vale NewsBreak: Local News & Alerts",
+  "published": "2026-11-23T14:27:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T14:41:05.823334+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "2793823705",
   "slug": "tca-opens-nominations-for-elevate-young-leadership-program-2793823705",
   "title": "TCA Opens Nominations for Elevate Young Leadership Program",
@@ -7041,6 +7201,35 @@
   "ai_category": "other",
   "ai_importance": 55,
   "sum_v3": true
+ },
+ {
+  "id": "c2c82d1d55",
+  "slug": "surveillance-video-refutes-altercation-rumors-in-santa-monica-pier-dro-c2c82d1d55",
+  "title": "Surveillance Video Refutes Altercation Rumors in Santa Monica Pier Drowning",
+  "orig_title": "Surveillance Video Refutes Altercation Rumors in Santa Monica Pier Drowning",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Yo! Venice!",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY2VYTVJ0UjBtSlh1R0pHQTlSZUF6V1B6U19jTVZqYTc3eFRFOWJfeEwxY0VxS1dkZmtmZWk5N19kdm9KR3BLcVlycHJfbV8yTVpkSFJUbm9PbkRMMjZVTXp6ZjhienhUdFZ0dDl4MzFXeFlGTEh3alZCR21WYmRHcmtpZy12N3ZQQVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY2VYTVJ0UjBtSlh1R0pHQTlSZUF6V1B6U19jTVZqYTc3eFRFOWJfeEwxY0VxS1dkZmtmZWk5N19kdm9KR3BLcVlycHJfbV8yTVpkSFJUbm9PbkRMMjZVTXp6ZjhienhUdFZ0dDl4MzFXeFlGTEh3alZCR21WYmRHcmtpZy12N3ZQQVE",
+  "snippet": "Surveillance Video Refutes Altercation Rumors in Santa Monica Pier Drowning Yo! Venice!",
+  "published": "2026-11-22T14:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T14:41:05.823334+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "d6f31649cf",
