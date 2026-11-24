@@ -4275,7 +4275,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-24T20:51:32.442977+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122111952177544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122111952177544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122111952177544428",
+    "created": "2026-11-24T20:51:32+0000",
+    "at": "2026-11-24T21:01:25.410765+00:00"
+   }
   },
   "fb05f474c5": {
    "story_id": "fb05f474c5",
@@ -5374,7 +5382,8 @@
   "9399a9955b": "skipped|minor item (news) or low-quality source",
   "8c96129662": "skipped|minor item (incident) or low-quality source",
   "2c5a6f7161": "skipped|minor item (crime) or low-quality source",
-  "fb05f474c5": "queued|importance 73 (threshold 65), Equipment, trade publication"
+  "fb05f474c5": "queued|importance 73 (threshold 65), Equipment, trade publication",
+  "3add49d499": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11235,16 +11244,23 @@
    "title": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Industry, trade publication; waited 80 min in queue"
+  },
+  {
+   "at": "2026-11-24T21:01:25.410765+00:00",
+   "story_id": "3add49d499",
+   "title": "Imports bolster October freight market flows",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122111940297544428",
+  "post": "1476615495528085_122111952177544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122111940297544428",
-  "created": "2026-11-24T20:01:19+0000",
-  "at": "2026-11-24T20:11:27.172370+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122111952177544428",
+  "created": "2026-11-24T20:51:32+0000",
+  "at": "2026-11-24T21:01:25.410765+00:00"
  },
  "promo_i": 1
 }

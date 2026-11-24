@@ -1,5 +1,37 @@
 [
  {
+  "id": "3add49d499",
+  "slug": "imports-bolster-october-freight-market-flows-3add49d499",
+  "title": "Imports bolster October freight market flows",
+  "orig_title": "Imports bolster October freight market flows",
+  "summary": "",
+  "why": "",
+  "category": "rates",
+  "region": "",
+  "importance": 55,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6X0VxTkdhSHo4WlZtb05WZHduZ2ZiZ29JLUJTUDMyaEV6ejBEWXlZQ1J1OEhXaWFpUk84VkNnRGU4T2xCVEFZRXpZNEdlVzFIazJRdlF0ejV5bjZVTVlTSnd0ZGExQ1U?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6X0VxTkdhSHo4WlZtb05WZHduZ2ZiZ29JLUJTUDMyaEV6ejBEWXlZQ1J1OEhXaWFpUk84VkNnRGU4T2xCVEFZRXpZNEdlVzFIazJRdlF0ejV5bjZVTVlTSnd0ZGExQ1U",
+  "snippet": "Imports bolster October freight market flows Transport Topics",
+  "published": "2026-11-24T20:51:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T21:01:04.622939+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ttnews.com/articles/ata-tonnage-october-2026",
+  "source_note": "excerpt only · 28 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "fb05f474c5",
   "slug": "alta-equipment-group-to-acquire-jackson-group-peterbilt-for-399-millio-fb05f474c5",
   "title": "Alta Equipment Group to acquire Jackson Group Peterbilt for $399 million",
@@ -7756,6 +7788,35 @@
   "sum_pending": false
  },
  {
+  "id": "72af97097f",
+  "slug": "nippon-express-singapore-opens-expanded-logistics-hub-in-tuas-poised-t-72af97097f",
+  "title": "NIPPON EXPRESS (SINGAPORE) opens expanded logistics hub in Tuas, poised to support businesses in the JS-SEZ",
+  "orig_title": "NIPPON EXPRESS (SINGAPORE) opens expanded logistics hub in Tuas, poised to support businesses in the JS-SEZ",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Singapore Economic Development Board (EDB)",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0Rpa3QzbVBhTldOODZWU3ZOcDZFWUUyczFzbFk3R2VMbGlvcGRGSk56aW5ucGsyQ2RRYnNMUV9BM0VaTmprMDJWcWJCanJaNHgzNjdYbmg1TFpvVk1oY0o2QXY1N0I3RExxbGVrRW5LV1c2WVZ2d0p6S3k5QjRQTzRndDFKOE54dVlFeVMxc2p5VVUwUkJ2V0FDZnpheUpmOWlJbjQzOWtWYll3OHpnNEhXSQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0Rpa3QzbVBhTldOODZWU3ZOcDZFWUUyczFzbFk3R2VMbGlvcGRGSk56aW5ucGsyQ2RRYnNMUV9BM0VaTmprMDJWcWJCanJaNHgzNjdYbmg1TFpvVk1oY0o2QXY1N0I3RExxbGVrRW5LV1c2WVZ2d0p6S3k5QjRQTzRndDFKOE54dVlFeVMxc2p5VVUwUkJ2V0FDZnpheUpmOWlJbjQzOWtWYll3OHpnNEhXSQ",
+  "snippet": "NIPPON EXPRESS (SINGAPORE) opens expanded logistics hub in Tuas, poised to support businesses in the JS-SEZ Singapore Economic Development Board (EDB)",
+  "published": "2026-11-23T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T21:01:04.622939+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9d7780ef44",
   "slug": "how-old-material-handling-equipment-is-exposing-warehouses-to-cyber-ri-9d7780ef44",
   "title": "How Old Material-Handling Equipment Is Exposing Warehouses to Cyber Risk",
@@ -10627,12 +10688,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: 14 Arrested in $22.5 Million Southern California Cargo Theft Ring"
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "1311c3d8ed"
+  "dup_of": "0df12fe063"
  },
  {
   "id": "45ba80fd11",
@@ -11295,8 +11356,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -11304,7 +11367,8 @@
   "pub_url": "https://www.modernghana.com/videonews/cgtn/1/758500",
   "source_note": "excerpt only · 11 words",
   "sum_done": true,
-  "sum_status": "excerpt too short to summarize"
+  "sum_status": "excerpt too short to summarize",
+  "dup_of": "c02dac559f"
  },
  {
   "id": "2f340a7218",
@@ -12695,12 +12759,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: aught on camera | 14 men charged in $22 million cargo theft operation targeting California"
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "35df32a91a"
+  "dup_of": "0df12fe063"
  },
  {
   "id": "fe8543c04f",
@@ -12868,15 +12932,18 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 1,
   "source_note": "publisher refused (403)",
   "sum_done": true,
-  "sum_status": "no source text (publisher refused (403))"
+  "sum_status": "no source text (publisher refused (403))",
+  "dup_of": "0df12fe063"
  },
  {
   "id": "efbf4f3a38",
@@ -15526,7 +15593,7 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
   ],
   "labels": [],
   "kind": "news",
@@ -15571,7 +15638,7 @@
   "ai_category": "other",
   "ai_importance": 70,
   "sum_v3": true,
-  "dup_of": "c02dac559f"
+  "dup_of": "0df12fe063"
  },
  {
   "id": "6f5daed45e",
@@ -15752,76 +15819,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "50b1547c4e",
-  "slug": "at-least-36-southern-california-trains-burglarised-in-22-5-million-car-50b1547c4e",
-  "title": "At least 36 Southern California trains burglarised in $22.5 million cargo theft racket; 14 accused allege",
-  "orig_title": "At least 36 Southern California trains burglarised in $22.5 million cargo theft racket; 14 accused allege",
-  "summary": "The US Department of Justice said 14 people have been indicted over alleged thefts of more than $22.5 million in cargo from freight trains in Southern California. According to the DOJ, the group burglarised at least three dozen trains between February 2024 and August 2026, taking goods that included Nike sneakers and Milwaukee tools. Investigators allege members cut air hoses to force emergency stops, then boarded the trains and removed valuable cargo.\n\nThirteen of the 14 defendants were arrested on Thursday, and the case is a 17-count federal indictment. Investigators allege two defendants sold thousands of pairs of stolen Nike sneakers to a Los Angeles resale business, receiving approximately $1,081,493 between May and October 2025. The alleged leader is identified as Nathan Daniel Angel, 21, of East Los Angeles. All defendants are presumed innocent unless proven guilty in court.",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 63,
-  "source": "The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSmRRaWszUDQ4aWpzT3FnbllLdE9ra2Z3YlJlTFhwdTg3bGdKM1Z4RzZvRnJFNTFwNFB4d0s5YnlYaTdFWVJiXzE4R3BhdEdtd1VuNnVVZlozSHdJay1rcjVUYVJMTm9VNUdlSTRjTkxVb21UcTVvaE9Vb1lzamt6ZWd6QWhxeHQ5VlVRSEo2ZmJRd2FtMnBBd1dZb1NMbUtqRTlXUFVUYVpWWXVWanRYRUtud0RucWUtcVJmMEk0V05WOEJlOUJ4bElpdkFOTExlV1lyb1pzUmtDSWJ2M2dqOXp2LXRMc0p1UHo4Ukd0clUxMnV3RDlBOV96MEE2VWJOWkxVY2Q5aUM3RFpucjViX19acmVXYTdTUU5OQWdJaWFweENIZFl5a0JlcE0zWVl4M3VXZXVaRDcxZWJhTEdWb2M0cGlSQlQzVXhuTzJNOVZYMEFEV3FGNWRqbDg4cmdT0gHmAkFVX3lxTFB2THlDVi1wWmZFLUJtNWc5S2ZVN0Jkdnc2YVdOY0ZtMUJGZW02OTRoRV9RNDV4TjBRWEhUcUJWcFJTYlRmTjlQNEFaaldIQzhJdHVmLWNaTDZIS29JVkJ3RTZEOGEybWNEVHllNi1VWlItaEp5dWhfQ1lzWEZQYjEwcE5ja0hCMHNUYmRoWlg0b3FPcVBLQVZXNm44VEIxT1dha3AybTlqbW5ubUVrZ1JGTjB1dFd4YmJCTXFNZnNGTnFxZms1bFZOalU1OWZIRlhoUW9sSWM5ajZXejgwZGxpemo4WXdiUThTTDJsb2EzZWQ5Y0tLaGdRclFNMjlYVHBTblhVQXFkSkZwSkM0R0gtbU92aTNRYy1FRW0tNDA5SVVRZy1PRkMybEI1emNkSXJ3aUlDQ1YyWjFuVnhQQy1WSl96RmF2VlgzUEdnRVhDejJ0MElvU0k4VEI4VGs2b2hnX1M1ZVE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSmRRaWszUDQ4aWpzT3FnbllLdE9ra2Z3YlJlTFhwdTg3bGdKM1Z4RzZvRnJFNTFwNFB4d0s5YnlYaTdFWVJiXzE4R3BhdEdtd1VuNnVVZlozSHdJay1rcjVUYVJMTm9VNUdlSTRjTkxVb21UcTVvaE9Vb1lzamt6ZWd6QWhxeHQ5VlVRSEo2ZmJRd2FtMnBBd1dZb1NMbUtqRTlXUFVUYVpWWXVWanRYRUtud0RucWUtcVJmMEk0V05WOEJlOUJ4bElpdkFOTExlV1lyb1pzUmtDSWJ2M2dqOXp2LXRMc0p1UHo4Ukd0clUxMnV3RDlBOV96MEE2VWJOWkxVY2Q5aUM3RFpucjViX19acmVXYTdTUU5OQWdJaWFweENIZFl5a0JlcE0zWVl4M3VXZXVaRDcxZWJhTEdWb2M0cGlSQlQzVXhuTzJNOVZYMEFEV3FGNWRqbDg4cmdT0gHmAkFVX3lxTFB2THlDVi1wWmZFLUJtNWc5S2ZVN0Jkdnc2YVdOY0ZtMUJGZW02OTRoRV9RNDV4TjBRWEhUcUJWcFJTYlRmTjlQNEFaaldIQzhJdHVmLWNaTDZIS29JVkJ3RTZEOGEybWNEVHllNi1VWlItaEp5dWhfQ1lzWEZQYjEwcE5ja0hCMHNUYmRoWlg0b3FPcVBLQVZXNm44VEIxT1dha3AybTlqbW5ubUVrZ1JGTjB1dFd4YmJCTXFNZnNGTnFxZms1bFZOalU1OWZIRlhoUW9sSWM5ajZXejgwZGxpemo4WXdiUThTTDJsb2EzZWQ5Y0tLaGdRclFNMjlYVHBTblhVQXFkSkZwSkM0R0gtbU92aTNRYy1FRW0tNDA5SVVRZy1PRkMybEI1emNkSXJ3aUlDQ1YyWjFuVnhQQy1WSl96RmF2VlgzUEdnRVhDejJ0MElvU0k4VEI4VGs2b2hnX1M1ZVE",
-  "snippet": "At least 36 Southern California trains burglarised in $22.5 million cargo theft racket; 14 accused allege The Times of India",
-  "published": "2026-11-20T16:18:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T16:31:12.440037+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://timesofindia.indiatimes.com/world/us/at-least-36-trains-burglarised-in-22-5-million-cargo-theft-racket-14-accused-allegedly-stole-nike-sneakers-and-milwaukee-tools-sold-goods-on-black-market-for-over-1-million/articleshow/136033090.cms",
-  "source_note": "ok · 800 words",
-  "sum_done": true,
-  "sum_status": "published",
-  "source_fp": "9e7c02f1acb22d91",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-21T00:31:16.485767+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "14 people have been indicted for allegedly stealing more than $22.5 million"
-   },
-   {
-    "sentence": "2",
-    "quote": "at least three dozen freight trains between February 2024 and August 2026"
-   },
-   {
-    "sentence": "3",
-    "quote": "cut the trains' air hoses, forcing them to make emergency stops"
-   },
-   {
-    "sentence": "4",
-    "quote": "Thirteen of the 14 accused were arrested on Thursday"
-   },
-   {
-    "sentence": "5",
-    "quote": "approximately $1,081,493 from the business"
-   },
-   {
-    "sentence": "6",
-    "quote": "Nathan Daniel Angel, 21, has been identified as the alleged leader"
-   },
-   {
-    "sentence": "7",
-    "quote": "all defendants are presumed innocent unless proven guilty in court"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 60
  },
  {
   "id": "2fbb9c9548",
@@ -17800,7 +17797,8 @@
   ],
   "sum_problems": [],
   "ai_category": "other",
-  "ai_importance": 60
+  "ai_importance": 60,
+  "followup_of": "47458eb868"
  },
  {
   "id": "f4c69a6650",
@@ -17859,36 +17857,6 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
- },
- {
-  "id": "1311c3d8ed",
-  "slug": "14-arrested-in-22-5-million-southern-california-cargo-theft-ring-1311c3d8ed",
-  "title": "14 Arrested in $22.5 Million Southern California Cargo Theft Ring",
-  "orig_title": "14 Arrested in $22.5 Million Southern California Cargo Theft Ring",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 43,
-  "source": "Head Topics",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFBBdkN1MVZKUzZiN3FoNHM0TmJNNm9FT0J6NEVDbXdMcUVKN19sMUNUMFFOSzVRdkxQQXpRc3JpYVg3cXpfcWtDQ3lIMncyS0pHcEJUeVFERThzZHRybURmd0N5Uy1mc0FHcjZ0ZHlxX0tTV3I1TnN6SHhnR0tqdS1fcGd1Sl95MFhWRVRvZkpnV1Y2NnJDXw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFBBdkN1MVZKUzZiN3FoNHM0TmJNNm9FT0J6NEVDbXdMcUVKN19sMUNUMFFOSzVRdkxQQXpRc3JpYVg3cXpfcWtDQ3lIMncyS0pHcEJUeVFERThzZHRybURmd0N5Uy1mc0FHcjZ0ZHlxX0tTV3I1TnN6SHhnR0tqdS1fcGd1Sl95MFhWRVRvZkpnV1Y2NnJDXw",
-  "snippet": "14 Arrested in $22.5 Million Southern California Cargo Theft Ring Head Topics",
-  "published": "2026-11-20T02:10:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T05:01:04.823496+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
-  "labels": [],
-  "kind": "crime",
-  "sum_pending": false,
-  "sum_tries": 3,
-  "pub_url": "https://ng.headtopics.com/news/14-arrested-in-22-5-million-southern-california-cargo-90015946",
-  "source_note": "ok · 566 words"
  },
  {
   "id": "5eacd6a5fb",
@@ -25120,79 +25088,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "aa0df11328",
-  "slug": "rancho-cucamonga-man-sentenced-to-30-months-in-7-2-million-southern-ca-aa0df11328",
-  "title": "Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo theft scheme",
-  "orig_title": "Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo theft scheme",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "US",
-  "importance": 43,
-  "source": "KESQ",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX08ySFRobDJQa1kzMk1GOHhReC1oLUFUR1I5VktHdUdRSjRUQWlTNFJNRTQ0Wll4M2FZV2czbWhncjdzNkdhRXRrOUl4U2RETGM3eDlURGYtaFNseXdkWjE4SVpCc3dRTDk1ZGY0T0FGc2ZIbXFXWHoxaFdKZl84eGhYeUkyOXFFWHhJOWczaVVxUFhQU1ZtX3RCQnBkLU9YdlNTSkRvbU9uM2ZWYTYyc3VNb0tVazJTVXlNVDV3QlBmVVBfbG5sMEdrSQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX08ySFRobDJQa1kzMk1GOHhReC1oLUFUR1I5VktHdUdRSjRUQWlTNFJNRTQ0Wll4M2FZV2czbWhncjdzNkdhRXRrOUl4U2RETGM3eDlURGYtaFNseXdkWjE4SVpCc3dRTDk1ZGY0T0FGc2ZIbXFXWHoxaFdKZl84eGhYeUkyOXFFWHhJOWczaVVxUFhQU1ZtX3RCQnBkLU9YdlNTSkRvbU9uM2ZWYTYyc3VNb0tVazJTVXlNVDV3QlBmVVBfbG5sMEdrSQ",
-  "snippet": "Rancho Cucamonga man sentenced to 30 months in $7.2 million Southern California cargo theft scheme KESQ",
-  "published": "2026-11-17T20:11:09+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-17T20:21:04.584199+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
-  "labels": [],
-  "kind": "crime",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://kesq.com/news/2026/11/17/rancho-cucamonga-man-sentenced-to-30-months-in-7-2-million-southern-california-cargo-theft-scheme/",
-  "source_note": "ok · 231 words",
-  "sum_done": true,
-  "sum_status": "withheld",
-  "source_fp": "f72b0dee5cba0495",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-17T20:31:08.278228+00:00",
-  "sum_version": 2,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "sentenced to 2½ years in federal prison"
-   },
-   {
-    "sentence": "2",
-    "quote": "ordered him to pay $2,210,055 in restitution"
-   },
-   {
-    "sentence": "3",
-    "quote": "pleaded guilty on August 13"
-   },
-   {
-    "sentence": "4",
-    "quote": "operated or purchased trucking companies"
-   },
-   {
-    "sentence": "5",
-    "quote": "failed to deliver the shipments to their intended destinations"
-   },
-   {
-    "sentence": "6",
-    "quote": "The scheme operated from September 2021 through March 2025"
-   },
-   {
-    "sentence": "7",
-    "quote": "scheduled to stand trial in March 2027"
-   }
-  ],
-  "sum_problems": [
-   "copies a 12-word run from the source: 'to pay $2,210,055 in restitution. singh pleaded guilty on august 13 to'"
-  ],
-  "ai_importance": 68,
-  "sum_v4": true,
-  "ai_category": "other"
  },
  {
   "id": "cf805c78a2",
