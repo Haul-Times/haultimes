@@ -5432,7 +5432,9 @@
   "0b3d668851": "skipped|importance 50 is below this platform's threshold (65)",
   "d5d24517d6": "skipped|importance 62 is below this platform's threshold (65)",
   "817fe092c4": "skipped|importance 50 is below this platform's threshold (65)",
-  "a8533f7e47": "skipped|importance 45 is below this platform's threshold (65)"
+  "a8533f7e47": "skipped|importance 45 is below this platform's threshold (65)",
+  "79084dab06": "skipped|importance 61 is below this platform's threshold (65)",
+  "8ae0367a6a": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11356,6 +11358,20 @@
    "title": "Trucks & coffee drive great community event",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T23:21:34.947433+00:00",
+   "story_id": "79084dab06",
+   "title": "Truck Tonnage Slips, Carrier Outlook Improves",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T23:21:34.947433+00:00",
+   "story_id": "8ae0367a6a",
+   "title": "Where Electric Trucks Can Charge Now",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
