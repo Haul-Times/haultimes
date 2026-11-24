@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:01:16.655309+00:00",
+ "updated": "2026-11-24T06:07:31.727589+00:00",
  "hour_now": 1,
  "have_us": true,
  "have_ca": true,
@@ -25,7 +25,7 @@
    "usual": {
     "south": [
      24,
-     17,
+     20,
      11,
      1,
      0,
@@ -160,11 +160,11 @@
    "ports": "Sault Ste. Marie, MI ↔ Sault Ste. Marie, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:56:14",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At Midnight EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -175,7 +175,7 @@
    "usual": {
     "south": [
      0,
-     null,
+     0,
      0,
      0,
      0,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 17,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 0:47 am EST",
+    "status": "no delay",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 0:47 am EST",
+    "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:56:14",
+    "updated": "01:06:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:56:14",
+    "updated": "01:06:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -610,11 +610,11 @@
    "ports": "International Falls, MN ↔ Fort Frances, ON",
    "region": "on-mn",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 11:00 pm CST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:06:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "00:56:14",
+    "updated": "01:06:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:56:14",
+    "updated": "01:06:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:56:14",
+    "updated": "01:06:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:56:14",
+    "updated": "01:06:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 7:00 pm CST",
+    "lanes": "",
+    "status": "Update Pending",
+    "updated": "00:06:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm MST",
+    "updated": "At 11:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
