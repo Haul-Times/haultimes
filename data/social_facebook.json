@@ -4937,7 +4937,8 @@
   "dcc5f006b3": "skipped|importance 45 is below this platform's threshold (65)",
   "f8a9ee82be": "skipped|importance 45 is below this platform's threshold (65)",
   "45b25d6ef5": "skipped|importance 45 is below this platform's threshold (65)",
-  "2e343b6e1c": "queued|importance 75 (threshold 65), Regulations, trade publication"
+  "2e343b6e1c": "queued|importance 75 (threshold 65), Regulations, trade publication",
+  "a2b6ef683e": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -10448,6 +10449,13 @@
    "title": "One by one, non-domiciled CDL holders seek exemption",
    "action": "queued",
    "reason": "importance 75 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-24T05:41:25.960220+00:00",
+   "story_id": "a2b6ef683e",
+   "title": "Trucker Path app launches free CB radio feature",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
