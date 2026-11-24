@@ -5334,7 +5334,12 @@
   "74f1a0fa9b": "skipped|minor item (incident) or low-quality source",
   "1477dd8615": "skipped|importance 55 is below this platform's threshold (65)",
   "e036662536": "skipped|minor item (announcement) or low-quality source",
-  "afae035d53": "skipped|minor item (news) or low-quality source"
+  "afae035d53": "skipped|minor item (news) or low-quality source",
+  "fe8c0dd2ce": "skipped|importance 62 is below this platform's threshold (65)",
+  "df4b5b94a9": "skipped|importance 55 is below this platform's threshold (65)",
+  "9399a9955b": "skipped|minor item (news) or low-quality source",
+  "8c96129662": "skipped|minor item (incident) or low-quality source",
+  "2c5a6f7161": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -11146,6 +11151,41 @@
    "title": "Attention truckers: Brace for Thanksgiving traffic as nearly 73 million travelers hit the road",
    "action": "skipped",
    "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-24T20:31:44.281432+00:00",
+   "story_id": "fe8c0dd2ce",
+   "title": "Diesel prices down in Nova Scotia, P.E.I.",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T20:31:44.281432+00:00",
+   "story_id": "df4b5b94a9",
+   "title": "Stop Fleet Fraud! AI Voice Agents Streamline Repairs",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T20:31:44.281432+00:00",
+   "story_id": "9399a9955b",
+   "title": "RICO Lawsuit: Are Major Freight Brokers Manipulating the Market?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-24T20:31:44.281432+00:00",
+   "story_id": "8c96129662",
+   "title": "Staged Crashes and Litigation Funding Drive Trucking Verdicts, ILR says",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-24T20:31:44.281432+00:00",
+   "story_id": "2c5a6f7161",
+   "title": "Truck driver posts bond after shooting at homeowner who wanted him out of their driveway",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
