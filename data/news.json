@@ -1,5 +1,34 @@
 [
  {
+  "id": "7a3891176c",
+  "slug": "dow-jones-industrial-average-dowi-profile-press-releases-7a3891176c",
+  "title": "Dow Jones Industrial Average (DOWI) Profile - Press Releases",
+  "orig_title": "Dow Jones Industrial Average (DOWI) Profile - Press Releases",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2NLNnNhV0ZYR2IyTlZwRjBFX2R0OFBVY2drSDRScTVKTlpCWjk4QTlZNWV5VzI2em9UN1NSemZpaGRVQWZscDNzWjRGYnlSMk9CU2dub1VtdUJ2aWhZc1pmR29ob3hfVHNlUlYtWGtRamhOcklvV0tsMnVXTVNGSXJXVQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2NLNnNhV0ZYR2IyTlZwRjBFX2R0OFBVY2drSDRScTVKTlpCWjk4QTlZNWV5VzI2em9UN1NSemZpaGRVQWZscDNzWjRGYnlSMk9CU2dub1VtdUJ2aWhZc1pmR29ob3hfVHNlUlYtWGtRamhOcklvV0tsMnVXTVNGSXJXVQ",
+  "snippet": "Dow Jones Industrial Average (DOWI) Profile - Press Releases The Globe and Mail",
+  "published": "2026-11-24T07:34:32+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T07:51:05.031639+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fb37166015",
   "slug": "firm-fined-300k-over-truck-driver-s-death-during-log-unloading-fb37166015",
   "title": "Firm fined $300k over truck driver's death during log unloading",
@@ -20396,35 +20425,6 @@
   "ai_importance": 45,
   "pending_summary": "A truck driver on Interstate 80 in California described having his rig towed out of snow on the mountain. According to the report, the snow has left dozens of trucks stuck on the highway.",
   "pending_why": ""
- },
- {
-  "id": "03f621dc6f",
-  "slug": "university-of-waterloo-study-examines-link-between-boredom-and-poor-sl-03f621dc6f",
-  "title": "University of Waterloo study examines link between boredom and poor sleep",
-  "orig_title": "University of Waterloo study examines link between boredom and poor sleep",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnhDZDJRaXJORURQeFJLR3doNHZRNHpJY3llR3BXUWc3LWt4TlVGSnpFbDdjUEk0VFdDRHJKR1lHbG5pSHpoS01DZExDZFdiaERjU21kSkJ5alhsU01DZVJ0VjdreXRMYUU2WnEwd05RYWR3THVKd2dRd0Y2MzA4VXRPalI2RTZiTUEtVFI2OW5BRm5WTV9YZWM4MlRWZ3JaaGJXXzdIQ0VieTlpZVBmN0RRck15Zw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnhDZDJRaXJORURQeFJLR3doNHZRNHpJY3llR3BXUWc3LWt4TlVGSnpFbDdjUEk0VFdDRHJKR1lHbG5pSHpoS01DZExDZFdiaERjU21kSkJ5alhsU01DZVJ0VjdreXRMYUU2WnEwd05RYWR3THVKd2dRd0Y2MzA4VXRPalI2RTZiTUEtVFI2OW5BRm5WTV9YZWM4MlRWZ3JaaGJXXzdIQ0VieTlpZVBmN0RRck15Zw",
-  "snippet": "University of Waterloo study examines link between boredom and poor sleep CTV News",
-  "published": "2026-11-19T23:51:28+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T07:41:06.263388+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "1be71934ef",
