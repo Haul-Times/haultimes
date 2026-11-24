@@ -5427,7 +5427,9 @@
   "fb05f474c5": "posted|importance 73 (threshold 65), Equipment, trade publication; waited 61 min in queue",
   "3add49d499": "skipped|importance 55 is below this platform's threshold (65)",
   "b00cab0323": "skipped|importance 60 is below this platform's threshold (65)",
-  "1c8f335dde": "queued|importance 67 (threshold 65), Fuel, trade publication"
+  "1c8f335dde": "queued|importance 67 (threshold 65), Fuel, trade publication",
+  "033ad2067e": "skipped|importance 55 is below this platform's threshold (65)",
+  "0b3d668851": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11316,6 +11318,20 @@
    "title": "Diesel price declines picking up pace",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Fuel, trade publication"
+  },
+  {
+   "at": "2026-11-24T22:31:25.092338+00:00",
+   "story_id": "033ad2067e",
+   "title": "Who is hauling all the cheap freight? ELD fraud, trucking impacts",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T22:31:25.092338+00:00",
+   "story_id": "0b3d668851",
+   "title": "US Visa Revocations Pressure Mexico’s Cross-Border Trucking",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
