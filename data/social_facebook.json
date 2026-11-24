@@ -5080,7 +5080,8 @@
   "abb98258af": "skipped|importance 55 is below this platform's threshold (65)",
   "72cf486b3c": "skipped|importance 55 is below this platform's threshold (65)",
   "diesel-2026-11-23": "posted|HaulTimes update",
-  "70ef424ae5": "skipped|importance 62 is below this platform's threshold (65)"
+  "70ef424ae5": "skipped|importance 62 is below this platform's threshold (65)",
+  "e14ab2ad14": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10759,6 +10760,13 @@
    "title": "Diesel prices, week of 2026-11-23",
    "action": "posted",
    "reason": "HaulTimes update: diesel; waited 15 min in queue"
+  },
+  {
+   "at": "2026-11-24T17:51:45.651263+00:00",
+   "story_id": "e14ab2ad14",
+   "title": "Safe truck parking falls on list of industry concerns while CSA climbs",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
