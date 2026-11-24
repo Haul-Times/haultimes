@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:31:04.176883+00:00",
+ "updated": "2026-11-24T09:41:05.039473+00:00",
  "hour_now": 4,
  "have_us": true,
  "have_ca": true,
@@ -28,7 +28,7 @@
      32,
      26,
      19,
-     13,
+     15,
      3,
      4,
      1,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:17 am EST",
+    "updated": "At 4:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:17 am EST",
+    "updated": "At 4:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -377,7 +377,7 @@
     ]
    },
    "best_south": "Usually fastest around 1 AM",
-   "best_north": "Usually fastest around 4 AM"
+   "best_north": "Usually fastest around 2 AM"
   },
   {
    "id": "thousand-islands",
@@ -403,7 +403,7 @@
      null,
      null,
      0,
-     2,
+     3,
      0,
      0,
      0,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "04:26:49",
+    "updated": "04:36:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "04:26:49",
+    "updated": "04:36:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:26:49",
+    "updated": "03:36:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:26:49",
+    "updated": "02:36:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1296,7 +1296,7 @@
      0,
      0,
      9,
-     12,
+     11,
      17,
      18,
      24,
@@ -1322,7 +1322,7 @@
      8,
      5,
      5,
-     6,
+     7,
      5,
      5,
      6,
