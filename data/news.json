@@ -333,12 +333,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Five petitions to FMCSA to allow non-domiciled CDL renewals"
+   "same story as: One by one, non-domiciled CDL holders seek exemption"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "192046fba0"
+  "dup_of": "2e343b6e1c"
  },
  {
   "id": "500efca026",
@@ -510,15 +510,18 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: One by one, non-domiciled CDL holders seek exemption"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 1,
   "source_note": "publisher refused (403)",
   "sum_done": true,
-  "sum_status": "no source text (publisher refused (403))"
+  "sum_status": "no source text (publisher refused (403))",
+  "dup_of": "2e343b6e1c"
  },
  {
   "id": "0d0812605c",
@@ -993,6 +996,38 @@
   "sum_pending": false
  },
  {
+  "id": "2e343b6e1c",
+  "slug": "one-by-one-non-domiciled-cdl-holders-seek-exemption-2e343b6e1c",
+  "title": "One by one, non-domiciled CDL holders seek exemption",
+  "orig_title": "One by one, non-domiciled CDL holders seek exemption",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 75,
+  "source": "Land Line Media",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY25kb2E2NlFxTXB1U2gxZXcxN21kYjRUNzZMRy1GNEhZY2RuaURxSldNRlNtbWZVNWJnZW9nTkd3dk1BbGszNHNhSVktXzJxNFpKZUlGTWN3aVZCMHBxYjIyM1NXTXV5V3kzRHRzMkQ0OUxnYUFjcHZLamJDSHFDMw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY25kb2E2NlFxTXB1U2gxZXcxN21kYjRUNzZMRy1GNEhZY2RuaURxSldNRlNtbWZVNWJnZW9nTkd3dk1BbGszNHNhSVktXzJxNFpKZUlGTWN3aVZCMHBxYjIyM1NXTXV5V3kzRHRzMkQ0OUxnYUFjcHZLamJDSHFDMw",
+  "snippet": "One by one, non-domiciled CDL holders seek exemption Land Line Media",
+  "published": "2026-11-23T19:26:49+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T04:11:13.764273+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://landline.media/one-by-one-non-domiciled-cdl-holders-seek-exemption/",
+  "source_note": "excerpt only · 26 words",
+  "sum_done": true,
+  "sum_status": "excerpt too short to summarize"
+ },
+ {
   "id": "4a86efea10",
   "slug": "why-ai-is-paramount-to-optimizing-air-cargo-4a86efea10",
   "title": "Why AI Is Paramount to Optimizing Air Cargo",
@@ -1294,15 +1329,18 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: One by one, non-domiciled CDL holders seek exemption"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 1,
   "source_note": "publisher refused (403)",
   "sum_done": true,
-  "sum_status": "no source text (publisher refused (403))"
+  "sum_status": "no source text (publisher refused (403))",
+  "dup_of": "2e343b6e1c"
  },
  {
   "id": "f8953c6c2b",
@@ -2244,6 +2282,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "9e4d031adb",
+  "slug": "mitchell-1-unveils-redesigned-website-for-repair-professionals-9e4d031adb",
+  "title": "Mitchell 1 Unveils Redesigned Website for Repair Professionals",
+  "orig_title": "Mitchell 1 Unveils Redesigned Website for Repair Professionals",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Trucks, Parts, Service",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMFlOZE9nNEFWNXQ1anVUYldJNHk0ODFIVWl3aV9FWDZiSUNhVllJVjlZcWZMdEk3aExvRFdqNl82NmZDbnI5amx0U3c0LTFjUDh2Z3JrM2JVMEtCUmlnVXJkaEJSTU9Nb0h5SURlS2xjNVVRUGtuSDY4X2dTcjBiNlRkVkJ4d2IzSVBTRU1MRzJtUmtXOEt6VjZzYUhkR1RFbk1OUHlYdWMySDdvcERZSmtydTJsN0xxSzgwY0RvRnl5NU96X2JHMHJJRXVkQ0VyNHM1Y05YQmNtZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMFlOZE9nNEFWNXQ1anVUYldJNHk0ODFIVWl3aV9FWDZiSUNhVllJVjlZcWZMdEk3aExvRFdqNl82NmZDbnI5amx0U3c0LTFjUDh2Z3JrM2JVMEtCUmlnVXJkaEJSTU9Nb0h5SURlS2xjNVVRUGtuSDY4X2dTcjBiNlRkVkJ4d2IzSVBTRU1MRzJtUmtXOEt6VjZzYUhkR1RFbk1OUHlYdWMySDdvcERZSmtydTJsN0xxSzgwY0RvRnl5NU96X2JHMHJJRXVkQ0VyNHM1Y05YQmNtZw",
+  "snippet": "Mitchell 1 Unveils Redesigned Website for Repair Professionals Trucks, Parts, Service",
+  "published": "2026-11-23T16:05:52+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T04:11:13.764273+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "596ab7ae42",

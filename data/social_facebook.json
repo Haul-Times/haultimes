@@ -3913,6 +3913,34 @@
     "created": "2026-11-23T23:51:39+0000",
     "at": "2026-11-24T00:01:22.309222+00:00"
    }
+  },
+  "2e343b6e1c": {
+   "story_id": "2e343b6e1c",
+   "title": "One by one, non-domiciled CDL holders seek exemption",
+   "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY25kb2E2NlFxTXB1U2gxZXcxN21kYjRUNzZMRy1GNEhZY2RuaURxSldNRlNtbWZVNWJnZW9nTkd3dk1BbGszNHNhSVktXzJxNFpKZUlGTWN3aVZCMHBxYjIyM1NXTXV5V3kzRHRzMkQ0OUxnYUFjcHZLamJDSHFDMw",
+   "category": "regs",
+   "source": "Land Line Media",
+   "dest": "https://haultimes.com/story/one-by-one-non-domiciled-cdl-holders-seek-exemption-2e343b6e1c/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2e343b6e1c",
+   "caption": "One by one, non-domiciled CDL holders seek exemption.\n\nReported by Land Line Media. The link has the details and the original article.\n\n#Trucking #TruckDrivers #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T04:12:01.374841+00:00",
+   "published": "2026-11-23T19:26:49+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "One by one, non-domiciled CDL holders seek exemption | HaulTimes",
+    "og:description": "Reported by Land Line Media. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/e2b232886f.png",
+    "og:url": "https://haultimes.com/story/one-by-one-non-domiciled-cdl-holders-seek-exemption-2e343b6e1c/"
+   },
+   "reason": "importance 75 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -4908,7 +4936,8 @@
   "5c25dc2917": "posted|importance 82 (threshold 65), Fuel, established outlet; waited 10 min in queue",
   "dcc5f006b3": "skipped|importance 45 is below this platform's threshold (65)",
   "f8a9ee82be": "skipped|importance 45 is below this platform's threshold (65)",
-  "45b25d6ef5": "skipped|importance 45 is below this platform's threshold (65)"
+  "45b25d6ef5": "skipped|importance 45 is below this platform's threshold (65)",
+  "2e343b6e1c": "queued|importance 75 (threshold 65), Regulations, trade publication"
  },
  "decisions": [
   {
@@ -10412,6 +10441,13 @@
    "title": "WEX Fleet One - Fuel Payments for Truckers",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T04:12:01.374841+00:00",
+   "story_id": "2e343b6e1c",
+   "title": "One by one, non-domiciled CDL holders seek exemption",
+   "action": "queued",
+   "reason": "importance 75 (threshold 65), Regulations, trade publication"
   }
  ],
  "visibility": {
