@@ -1,5 +1,35 @@
 [
  {
+  "id": "9ee4ba24d8",
+  "slug": "driver-retention-drives-375-truck-volvo-order-9ee4ba24d8",
+  "title": "Driver Retention Drives 375-Truck Volvo Order",
+  "orig_title": "Driver Retention Drives 375-Truck Volvo Order",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "",
+  "importance": 55,
+  "source": "Heavy Duty Trucking",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlpOMnQxQ3JPdnRkU0xISDd3U0hZaTJFakdYT3BDb2FqYlNUWWxyc0lNMDBxcXhYakRfMGJYRUpBeFUxQVd0Y1c3UGZMMjBBcUJiRHQ5NVdLeXJTZEN1TGgwTUM2OEE2dUN0amRNYUlHa1diVDhmOVhNdGNlU3RvQk9xaV9aUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlpOMnQxQ3JPdnRkU0xISDd3U0hZaTJFakdYT3BDb2FqYlNUWWxyc0lNMDBxcXhYakRfMGJYRUpBeFUxQVd0Y1c3UGZMMjBBcUJiRHQ5NVdLeXJTZEN1TGgwTUM2OEE2dUN0amRNYUlHa1diVDhmOVhNdGNlU3RvQk9xaV9aUQ",
+  "snippet": "Driver Retention Drives 375-Truck Volvo Order Heavy Duty Trucking",
+  "published": "2026-11-24T15:15:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T15:21:06.639453+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: E&O One orders 375 Volvo VNLs to expand all-Volvo fleet"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "a97d84953b"
+ },
+ {
   "id": "dc3322d31a",
   "slug": "largest-us-port-terminal-operator-appoints-maersk-veteran-as-ceo-dc3322d31a",
   "title": "Largest US port terminal operator appoints Maersk veteran as CEO",
@@ -312,6 +342,35 @@
   ],
   "labels": [],
   "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "04692f58a9",
+  "slug": "your-bonus-structure-is-also-a-cybersecurity-control-04692f58a9",
+  "title": "Your bonus structure is also a cybersecurity control",
+  "orig_title": "Your bonus structure is also a cybersecurity control",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "FleetOwner",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRml3OUx5ME9FSG12VDlkOE5peUpSN3NrMjhFNXViVTdPdVlhRHp6czZucFMyMzJOQXFpd2VTcnFPX3lKZlVYck1WQmRUbWxLV2JxOXVqZTJMRGJ3c0E2NG9ZbElZaU9iUWxfSVBiYnBnVHFoZERCQi1mLVhpZlBYbFR3OFVaUlBueHBmSm1seUZaWTlBUzc2bjQzM3NUWkRDMkVtdFEzR2tTVFhuUjBSM1NpOTZWTmJHRmdEWmpsNGpYSVE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRml3OUx5ME9FSG12VDlkOE5peUpSN3NrMjhFNXViVTdPdVlhRHp6czZucFMyMzJOQXFpd2VTcnFPX3lKZlVYck1WQmRUbWxLV2JxOXVqZTJMRGJ3c0E2NG9ZbElZaU9iUWxfSVBiYnBnVHFoZERCQi1mLVhpZlBYbFR3OFVaUlBueHBmSm1seUZaWTlBUzc2bjQzM3NUWkRDMkVtdFEzR2tTVFhuUjBSM1NpOTZWTmJHRmdEWmpsNGpYSVE",
+  "snippet": "Your bonus structure is also a cybersecurity control FleetOwner",
+  "published": "2026-11-24T14:11:38+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T15:21:06.639453+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
   "sum_pending": false
  },
  {
