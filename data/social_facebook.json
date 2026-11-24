@@ -4322,6 +4322,34 @@
     "created": "2026-11-24T21:43:46+0000",
     "at": "2026-11-24T21:51:24.955826+00:00"
    }
+  },
+  "1c8f335dde": {
+   "story_id": "1c8f335dde",
+   "title": "Diesel price declines picking up pace",
+   "url_key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xcVRab3U5U2sxbjBseXhEVWdGaHYwMjlTd3BQZjNVbk93MjFNbUJ5ODZ0TzBrU0xBMVBvM2g0R3RGNHhLdkhKci0wczByVDA2SHhSUlNYNHpYOHRUMGpoeEFDY0lfamtJLU9KYXY2Zi1VamJVeWR1dHFBZw",
+   "category": "fuel",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/diesel-price-declines-picking-up-pace-1c8f335dde/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=1c8f335dde",
+   "caption": "Diesel price declines picking up pace.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Diesel #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T22:01:19.209940+00:00",
+   "published": "2026-11-24T21:49:41+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Diesel price declines picking up pace | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/2f18f46456.png",
+    "og:url": "https://haultimes.com/story/diesel-price-declines-picking-up-pace-1c8f335dde/"
+   },
+   "reason": "importance 67 (threshold 65), Fuel, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5398,7 +5426,8 @@
   "2c5a6f7161": "skipped|minor item (crime) or low-quality source",
   "fb05f474c5": "posted|importance 73 (threshold 65), Equipment, trade publication; waited 61 min in queue",
   "3add49d499": "skipped|importance 55 is below this platform's threshold (65)",
-  "b00cab0323": "skipped|importance 60 is below this platform's threshold (65)"
+  "b00cab0323": "skipped|importance 60 is below this platform's threshold (65)",
+  "1c8f335dde": "queued|importance 67 (threshold 65), Fuel, trade publication"
  },
  "decisions": [
   {
@@ -11280,6 +11309,13 @@
    "title": "DTNA weighs Texas option for largest U.S. plant",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T22:01:19.209940+00:00",
+   "story_id": "1c8f335dde",
+   "title": "Diesel price declines picking up pace",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Fuel, trade publication"
   }
  ],
  "visibility": {
