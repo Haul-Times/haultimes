@@ -1199,8 +1199,22 @@
  },
  "eia_diesel": {
   "status": "ok",
-  "week": "2026-11-16",
+  "week": "2026-11-23",
   "prices": {
+   "US": 5.695,
+   "1": 5.619,
+   "1A": 6.064,
+   "1B": 6.146,
+   "1C": 5.378,
+   "2": 5.671,
+   "3": 5.294,
+   "4": 5.772,
+   "5": 6.709,
+   "5XCA": 6.079,
+   "CA": 7.436
+  },
+  "prev_week": "2026-11-16",
+  "prev_prices": {
    "US": 5.937,
    "1": 5.782,
    "1A": 6.225,
@@ -1213,30 +1227,16 @@
    "5XCA": 6.269,
    "CA": 7.733
   },
-  "prev_week": "2026-11-09",
-  "prev_prices": {
-   "US": 6.127,
-   "1": 5.92,
-   "1A": 6.349,
-   "1B": 6.412,
-   "1C": 5.694,
-   "2": 6.201,
-   "3": 5.741,
-   "4": 6.206,
-   "5": 7.11,
-   "5XCA": 6.429,
-   "CA": 7.897
-  },
   "units": "US$ per gallon",
-  "retrieved_at": "2026-11-24T11:01:38.957338+00:00",
-  "last_attempt_at": "2026-11-24T11:01:38.957338+00:00",
+  "retrieved_at": "2026-11-24T17:06:28.766324+00:00",
+  "last_attempt_at": "2026-11-24T17:06:28.766324+00:00",
   "last_error": null,
   "source_url": "https://www.eia.gov/petroleum/gasdiesel/",
   "parser": 3,
   "debug": {
    "tables": [
     {
-     "us": 3.805,
+     "us": 3.642,
      "regions": [
       "1",
       "1A",
@@ -1250,10 +1250,10 @@
       "US"
      ],
      "diesel_heading": true,
-     "before": "  November 17, 2026    Next Release Date:  November 24, 2026      Diesel Fuel Release Date:  November 17, 2026    Next Release Date:  November 24, 2026         "
+     "before": "e:  November 24, 2026    Next Release Date:  December 1, 2026      Diesel Fuel Release Date:  November 24, 2026    Next Release Date:  December 1, 2026         "
     },
     {
-     "us": 5.937,
+     "us": 5.695,
      "regions": [
       "1",
       "1A",

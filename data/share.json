@@ -169,5 +169,34 @@
   },
   "target": "/freight-market/#chk",
   "created": "2026-11-22T15:21:39.677781+00:00"
+ },
+ "diesel-2026-11-23": {
+  "title": "US & Canada diesel prices: week of November 23",
+  "desc": "US diesel averaged $5.70 a gallon for the week of November 23, down 24¢ from the week before, according to the US Energy Information Administration. Highest: California at $7.44. Lowest: Gulf Coast at $5.29.",
+  "card": {
+   "type": "stat",
+   "kicker": "Diesel",
+   "big": "$5.70",
+   "label": "US average per gallon, week of Nov 23 (US EIA)",
+   "footer": "Weekly diesel prices · US & Canada",
+   "details": [
+    [
+     "Highest",
+     "California $7.44"
+    ],
+    [
+     "Lowest",
+     "Gulf Coast $5.29"
+    ],
+    [
+     "Ontario",
+     "225.3¢/L"
+    ]
+   ],
+   "change": "24¢",
+   "dir": "down"
+  },
+  "target": "/freight-market/#fuel-h",
+  "created": "2026-11-24T17:06:29.329389+00:00"
  }
 }
