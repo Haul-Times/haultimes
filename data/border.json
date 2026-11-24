@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T01:51:11.888948+00:00",
- "hour_now": 20,
+ "updated": "2026-11-24T02:01:06.995656+00:00",
+ "hour_now": 21,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -45,7 +45,7 @@
      8,
      2,
      0,
-     3,
+     2,
      3,
      13
     ],
@@ -120,7 +120,7 @@
      22,
      19,
      15,
-     9,
+     11,
      18,
      2
     ],
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -270,7 +270,7 @@
      0,
      0,
      6,
-     3,
+     4,
      4,
      6
     ],
@@ -296,7 +296,7 @@
      5,
      5,
      8,
-     5,
+     6,
      4,
      4
     ]
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -371,7 +371,7 @@
      2,
      3,
      19,
-     18,
+     19,
      14,
      10
     ]
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:50:46",
+    "updated": "20:55:47",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1095,7 +1095,7 @@
      27,
      54,
      61,
-     94,
+     84,
      16,
      0
     ],
@@ -1313,7 +1313,7 @@
      0,
      0,
      0,
-     3,
+     2,
      3,
      3
     ],
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 9 PM"
+   "best_north": "Usually fastest around 10 PM"
   },
   {
    "id": "sumas",
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 10,
-    "status": "10 minutes"
+    "wait": 5,
+    "status": "5 minutes"
    },
    {
     "name": "Aldergrove",

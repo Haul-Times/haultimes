@@ -1,5 +1,35 @@
 [
  {
+  "id": "59e56a9652",
+  "slug": "refrigerated-spot-rates-jump-18-cents-before-thanksgiving-59e56a9652",
+  "title": "Refrigerated Spot Rates Jump 18 Cents Before Thanksgiving",
+  "orig_title": "Refrigerated Spot Rates Jump 18 Cents Before Thanksgiving",
+  "summary": "",
+  "why": "",
+  "category": "rates",
+  "region": "",
+  "importance": 57,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRTdSZzlOdUNEdGVzcUVuakFueFRNVXUwb1VEMnI0TUtKRVBNYWx2Vy0zSWhZOElnZENKMkNvV2JhdG1BUFBTOHY0NkEzR1hXZnVlcFVwNWlFTDFHaW1HeUFab1k3Rl9tajFxWGZ2Sk50TjI5ekh1T0hqQ0ZkSDNEdVJmVzhnR2lPUEI3OWRDelFyYUdy?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRTdSZzlOdUNEdGVzcUVuakFueFRNVXUwb1VEMnI0TUtKRVBNYWx2Vy0zSWhZOElnZENKMkNvV2JhdG1BUFBTOHY0NkEzR1hXZnVlcFVwNWlFTDFHaW1HeUFab1k3Rl9tajFxWGZ2Sk50TjI5ekh1T0hqQ0ZkSDNEdVJmVzhnR2lPUEI3OWRDelFyYUdy",
+  "snippet": "Refrigerated Spot Rates Jump 18 Cents Before Thanksgiving Wisevoter",
+  "published": "2026-11-24T00:52:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T02:01:07.149097+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Truckstop, FTR: Refrigerated spot rates surge beyond seasonal expectations"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "4bc269dd28"
+ },
+ {
   "id": "1baa9bda26",
   "slug": "antt-plans-changes-to-minimum-freight-rates-after-finding-16-regulator-1baa9bda26",
   "title": "ANTT plans changes to minimum freight rates after finding 16 regulatory issues, potentially impacting truckers, industries, and carriers across Brazil",
@@ -26941,35 +26971,6 @@
   "source_note": "ok · 921 words"
  },
  {
-  "id": "616925a74a",
-  "slug": "saskatchewan-homeowners-encouraged-to-check-furnaces-ahead-of-winter-s-616925a74a",
-  "title": "Saskatchewan homeowners encouraged to check furnaces ahead of winter’s arrival",
-  "orig_title": "Saskatchewan homeowners encouraged to check furnaces ahead of winter’s arrival",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlV3QnJReGJrenQ5NXg1TEZBWGRBbUN2dUVfNnhKaGF6X0VpMk5UV29NckJ6dFBaU21qQTVSRTNqRnVNRUlad29lNVNlU19fcHg0SHNVVHJGa0JnWGozT1pCQ2YwalM5ZXVGR0dlZHQ1cmNoZW9oVEdyblA0bS1Fc3VYSDV0c09TVlppTWZHYWF0cGdNT3Z5MHFVM0RQYzB0eXBhLVB4WGVQcHA3Rkgtb0stWnhMQU0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlV3QnJReGJrenQ5NXg1TEZBWGRBbUN2dUVfNnhKaGF6X0VpMk5UV29NckJ6dFBaU21qQTVSRTNqRnVNRUlad29lNVNlU19fcHg0SHNVVHJGa0JnWGozT1pCQ2YwalM5ZXVGR0dlZHQ1cmNoZW9oVEdyblA0bS1Fc3VYSDV0c09TVlppTWZHYWF0cGdNT3Z5MHFVM0RQYzB0eXBhLVB4WGVQcHA3Rkgtb0stWnhMQU0",
-  "snippet": "Saskatchewan homeowners encouraged to check furnaces ahead of winter’s arrival CTV News",
-  "published": "2026-11-18T22:27:31+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T01:59:59.365541+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "a292944e7e",
   "slug": "ontario-targets-noisy-vehicles-with-new-steeper-fines-these-are-the-pe-a292944e7e",
   "title": "Ontario targets noisy vehicles with new steeper fines. These are the penalties drivers could face",
@@ -29660,35 +29661,6 @@
   "source_note": "paywalled: excerpt only · 42 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "6530797090",
-  "slug": "impaired-charges-laid-in-rollover-crash-wps-6530797090",
-  "title": "Impaired charges laid in rollover crash: WPS",
-  "orig_title": "Impaired charges laid in rollover crash: WPS",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDZkOVJONjVCdGJGXzhHVExybkxNWmVtOU8wSnhuLTNha1NBY3VTejZQallpNWQwWk9qRjREVHgwNzlfNnBrNWE2VWVxb0dmWEs2Z0cxMnNBajlIWFVxbF9lZWhnNHMzQ2pvVWNQVDVfUWlNckFDdmVJLUl3R0tXYmhVLTRvWFJyUFFR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDZkOVJONjVCdGJGXzhHVExybkxNWmVtOU8wSnhuLTNha1NBY3VTejZQallpNWQwWk9qRjREVHgwNzlfNnBrNWE2VWVxb0dmWEs2Z0cxMnNBajlIWFVxbF9lZWhnNHMzQ2pvVWNQVDVfUWlNckFDdmVJLUl3R0tXYmhVLTRvWFJyUFFR",
-  "snippet": "Impaired charges laid in rollover crash: WPS CTV News",
-  "published": "2026-11-18T16:54:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T01:59:59.365541+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "8eb720dd13",
