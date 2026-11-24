@@ -5431,7 +5431,8 @@
   "033ad2067e": "skipped|importance 55 is below this platform's threshold (65)",
   "0b3d668851": "skipped|importance 50 is below this platform's threshold (65)",
   "d5d24517d6": "skipped|importance 62 is below this platform's threshold (65)",
-  "817fe092c4": "skipped|importance 50 is below this platform's threshold (65)"
+  "817fe092c4": "skipped|importance 50 is below this platform's threshold (65)",
+  "a8533f7e47": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11348,6 +11349,13 @@
    "title": "Diesel-tax evasion scheme lands California man in prison",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T23:11:29.727995+00:00",
+   "story_id": "a8533f7e47",
+   "title": "Trucks & coffee drive great community event",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
