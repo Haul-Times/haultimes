@@ -4236,6 +4236,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "ed3d435a6d": {
+   "story_id": "ed3d435a6d",
+   "title": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger",
+   "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTlDSE9MOXhUWnl3QzlmcC1NVTc5NVhPOTRueU1HWW03TmVETFgtakFlVTNya1laRVhiTGRNUlVVWjZ3eFBsa3dIUDZzT0RQWVpLcFFEM2dxcURhcDAtbGFUN2ZjQWhrbjh0TS1yb09iYmM2X2p1aHRYTmRnOVlyWmFfY21mdERGMkFQWWFLSEhiQWhReHJDMzZBT05qVzY1d0E",
+   "category": "other",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/j-b-hunt-urges-stb-to-reject-union-pacific-norfolk-southern-merger-ed3d435a6d/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ed3d435a6d",
+   "caption": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckingBusiness #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T19:31:31.546935+00:00",
+   "published": "2026-11-24T19:24:27+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/e2edbf522b.png",
+    "og:url": "https://haultimes.com/story/j-b-hunt-urges-stb-to-reject-union-pacific-norfolk-southern-merger-ed3d435a6d/"
+   },
+   "reason": "importance 67 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5286,7 +5314,8 @@
   "7ee0c01dac": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
   "08096d293c": "skipped|importance 60 is below this platform's threshold (65)",
   "cb5127494b": "queued|importance 73 (threshold 65), Industry, trade publication",
-  "e913a2bb1c": "skipped|minor item (press_release) or low-quality source"
+  "e913a2bb1c": "skipped|minor item (press_release) or low-quality source",
+  "ed3d435a6d": "queued|importance 67 (threshold 65), Industry, trade publication"
  },
  "decisions": [
   {
@@ -11049,6 +11078,13 @@
    "title": "Diesel Price Surge Squeezes Small U.S. Trucking Companies",
    "action": "posted",
    "reason": "importance 82 (threshold 65), Fuel, local/other outlet; waited 70 min in queue"
+  },
+  {
+   "at": "2026-11-24T19:31:31.546935+00:00",
+   "story_id": "ed3d435a6d",
+   "title": "J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Industry, trade publication"
   }
  ],
  "visibility": {
