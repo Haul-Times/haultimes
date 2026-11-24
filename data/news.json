@@ -1,5 +1,66 @@
 [
  {
+  "id": "f7a3d94f87",
+  "slug": "dangote-cement-rewards-35-truck-drivers-f7a3d94f87",
+  "title": "Dangote Cement Rewards 35 Truck Drivers",
+  "orig_title": "Dangote Cement Rewards 35 Truck Drivers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Other",
+  "importance": 45,
+  "source": "thefact.ng",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJTGtreXU2QTc4b25ZZG4wd0VWZ09KM3VubkdRRGFqeGZNbGR0RmYtRWw1a1p5dlpCZHUzNXEwMWNJQi15d2FfSzZxcF9fZk5KeTc4TVhzdjRRSWV4NEMxTHZiWl9OSmNRNjlr?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJTGtreXU2QTc4b25ZZG4wd0VWZ09KM3VubkdRRGFqeGZNbGR0RmYtRWw1a1p5dlpCZHUzNXEwMWNJQi15d2FfSzZxcF9fZk5KeTc4TVhzdjRRSWV4NEMxTHZiWl9OSmNRNjlr",
+  "snippet": "Dangote Cement Rewards 35 Truck Drivers thefact.ng",
+  "published": "2026-11-24T18:56:19+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T19:01:06.994618+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://thefact.ng/dangote-cement-rewards-35-truck-drivers/",
+  "source_note": "ok · 625 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "f204adc04876cf09",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-24T19:01:06.994618+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "held in Abuja on Tuesday, November 24, 2026"
+   },
+   {
+    "sentence": "2",
+    "quote": "cutting road traffic accidents by 60 per cent"
+   },
+   {
+    "sentence": "3",
+    "quote": "about 3,000 truck drivers received specialised training"
+   },
+   {
+    "sentence": "4",
+    "quote": "grown from an initial fleet of 469 trucks in 2017"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 5,
+  "ai_relevant": false
+ },
+ {
   "id": "fba45bb0d3",
   "slug": "sonar-ppi-outlook-holds-strong-at-76-despite-narrowing-rate-spread-fba45bb0d3",
   "title": "SONAR PPI Outlook Holds Strong at 76 Despite Narrowing Rate Spread",
