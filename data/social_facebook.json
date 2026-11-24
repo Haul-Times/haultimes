@@ -4906,7 +4906,8 @@
   "ec39d44703": "skipped|importance 50 is below this platform's threshold (65)",
   "0e4452b890": "skipped|importance 51 is below this platform's threshold (65)",
   "5c25dc2917": "posted|importance 82 (threshold 65), Fuel, established outlet; waited 10 min in queue",
-  "dcc5f006b3": "skipped|importance 45 is below this platform's threshold (65)"
+  "dcc5f006b3": "skipped|importance 45 is below this platform's threshold (65)",
+  "f8a9ee82be": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10394,6 +10395,13 @@
    "at": "2026-11-24T01:11:34.628341+00:00",
    "story_id": "dcc5f006b3",
    "title": "CRST Drivers Win $1.8M In Truck Lease Case",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T02:21:26.212472+00:00",
+   "story_id": "f8a9ee82be",
+   "title": "Thousands of “Dangerous Truckers” Busted by DOT are Illegal Aliens or Can’t Read English",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
