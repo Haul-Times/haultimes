@@ -1,5 +1,34 @@
 [
  {
+  "id": "dc3322d31a",
+  "slug": "largest-us-port-terminal-operator-appoints-maersk-veteran-as-ceo-dc3322d31a",
+  "title": "Largest US port terminal operator appoints Maersk veteran as CEO",
+  "orig_title": "Largest US port terminal operator appoints Maersk veteran as CEO",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWElkd1oxUUtZbVo3OEJ5QVBwOVdhME9walpJbTE3dVl0cnUybVZUYkp1T1ctLXgzZDE1bUFjVFphczZaWi12TmxvTXJCcmRmN2V5cUp4OUNyNnV4amhhay1EVU8xbkYyRUVWeWlibENrSEk3ZFV1b0xsWXdUYVFTSGtLRHUxNWdzUmNFZDRBdlh5dXZycEVmOWdYSURfOVk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWElkd1oxUUtZbVo3OEJ5QVBwOVdhME9walpJbTE3dVl0cnUybVZUYkp1T1ctLXgzZDE1bUFjVFphczZaWi12TmxvTXJCcmRmN2V5cUp4OUNyNnV4amhhay1EVU8xbkYyRUVWeWlibENrSEk3ZFV1b0xsWXdUYVFTSGtLRHUxNWdzUmNFZDRBdlh5dXZycEVmOWdYSURfOVk",
+  "snippet": "Largest US port terminal operator appoints Maersk veteran as CEO FreightWaves",
+  "published": "2026-11-24T15:07:12+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T15:11:03.544861+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "ocean/air freight with no North American trucking link"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c903afebfc",
   "slug": "uber-freight-makes-a-very-public-break-with-gartner-s-quadrant-c903afebfc",
   "title": "Uber Freight makes a very public break with Gartner’s Quadrant",
@@ -30,6 +59,35 @@
   "source_note": "paywalled: excerpt only · 23 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "e779e7d1be",
+  "slug": "amazon-launches-satellites-for-network-to-rival-starlink-e779e7d1be",
+  "title": "Amazon launches satellites for network to rival Starlink",
+  "orig_title": "Amazon launches satellites for network to rival Starlink",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bUhhZUxZamdXcVltaEU4cHNxaGlzVU92Y0VWa1V0Z2JFTXJmWVFQcU8wWXVYLW40SzZfdmloMldYeGphT0hLUmhKcDFrQjExamJOS3k5WXB6ZllBQzM1VjBFRUxYcEZr?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bUhhZUxZamdXcVltaEU4cHNxaGlzVU92Y0VWa1V0Z2JFTXJmWVFQcU8wWXVYLW40SzZfdmloMldYeGphT0hLUmhKcDFrQjExamJOS3k5WXB6ZllBQzM1VjBFRUxYcEZr",
+  "snippet": "Amazon launches satellites for network to rival Starlink Transport Topics",
+  "published": "2026-11-24T14:46:07+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T15:11:03.544861+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
  },
  {
   "id": "880b9fc21f",
@@ -17450,35 +17508,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "c2185926f4",
-  "slug": "winnipeg-eatery-named-among-best-new-restaurants-in-canada-c2185926f4",
-  "title": "Winnipeg eatery named among best new restaurants in Canada",
-  "orig_title": "Winnipeg eatery named among best new restaurants in Canada",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3dQOGh4M0J5VDBsdTB6OGx3dUdsdzFJUzlPYzZ3OFkwbTdRMld0cU5POElPSW95cXkyX1IwaEQwM0NPRk5LcEVHZEFseVEtWkV2NFRGS2J1dGdoelRZVEhvT2c5S19NVVREX21PTEhXSGNrMFZjaHVyVksxdkR4c1NkRzlYM1F6a0d3MUVsNWtBR0VOaUNuUEJVaERZZEVL?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3dQOGh4M0J5VDBsdTB6OGx3dUdsdzFJUzlPYzZ3OFkwbTdRMld0cU5POElPSW95cXkyX1IwaEQwM0NPRk5LcEVHZEFseVEtWkV2NFRGS2J1dGdoelRZVEhvT2c5S19NVVREX21PTEhXSGNrMFZjaHVyVksxdkR4c1NkRzlYM1F6a0d3MUVsNWtBR0VOaUNuUEJVaERZZEVL",
-  "snippet": "Winnipeg eatery named among best new restaurants in Canada CTV News",
-  "published": "2026-11-20T15:03:43+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T15:11:03.462983+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "consumer vehicle / lifestyle story"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "50baa1f41e",
   "slug": "trucker-sentenced-in-7-2-million-cargo-theft-scheme-involving-legitima-50baa1f41e",
   "title": "Trucker sentenced in $7.2 million cargo theft scheme involving legitimate freight contracts",
@@ -22932,35 +22961,6 @@
   "sum_pending": false
  },
  {
-  "id": "7e2852307d",
-  "slug": "30k-worth-of-meat-stolen-in-north-philadelphia-cargo-heist-7e2852307d",
-  "title": "$30K worth of meat stolen in North Philadelphia cargo heist",
-  "orig_title": "$30K worth of meat stolen in North Philadelphia cargo heist",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "6abc Philadelphia",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzdraEkyWkFTMF9Ic2h0S2JyZkIyU3hNdmd1dTNHUjJmUHZ5V3hYaHJ6M05uRmFHdEdtOUp6ZlJxalVDc0Q1eWpyUVQ5WEs5S0JjUUc4M1RBX3pTd1lZSFBNaDlKUGlqSTQyeHJPMTdJSUxQYlg1YXN5dkxXN1ZUM2Z6VHAydnA5WEV5cg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzdraEkyWkFTMF9Ic2h0S2JyZkIyU3hNdmd1dTNHUjJmUHZ5V3hYaHJ6M05uRmFHdEdtOUp6ZlJxalVDc0Q1eWpyUVQ5WEs5S0JjUUc4M1RBX3pTd1lZSFBNaDlKUGlqSTQyeHJPMTdJSUxQYlg1YXN5dkxXN1ZUM2Z6VHAydnA5WEV5cg",
-  "snippet": "$30K worth of meat stolen in North Philadelphia cargo heist 6abc Philadelphia",
-  "published": "2026-11-19T17:26:09+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T15:11:03.462983+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "8c7e00cdf3",
   "slug": "overnight-house-fire-sparks-multi-department-response-in-port-alberni-8c7e00cdf3",
   "title": "Overnight house fire sparks multi-department response in Port Alberni",
@@ -26481,35 +26481,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/news/truck-snow-removal-fines-arent-the-only-risk",
   "source_note": "ok · 1569 words"
- },
- {
-  "id": "93708b9848",
-  "slug": "calgary-convenience-store-loses-vaping-retailer-licence-over-sales-to-93708b9848",
-  "title": "Calgary convenience store loses vaping retailer licence over sales to minors",
-  "orig_title": "Calgary convenience store loses vaping retailer licence over sales to minors",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRm50MWlqNTNFbkhoNVRVRXJOVnQzWnh4U1NKdFZWTEczcHNuM01CUDlJTWxVcm1Xejg0eEdXZHQzQmdBZkR6dHAyby0xREIzdVdRVGlpdHFRbXhvNXNfNHN2QkJDWGFrajBOMTYxUXYxbW5nYW5QdVFhc2FVREh5c04zUmdTT3J4U19BemRhUklLVHB0SUVwQzlteV9RcksxOHFpME44M2s0bzYtN1FSeUJjRnM2aVk?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRm50MWlqNTNFbkhoNVRVRXJOVnQzWnh4U1NKdFZWTEczcHNuM01CUDlJTWxVcm1Xejg0eEdXZHQzQmdBZkR6dHAyby0xREIzdVdRVGlpdHFRbXhvNXNfNHN2QkJDWGFrajBOMTYxUXYxbW5nYW5QdVFhc2FVREh5c04zUmdTT3J4U19BemRhUklLVHB0SUVwQzlteV9RcksxOHFpME44M2s0bzYtN1FSeUJjRnM2aVk",
-  "snippet": "Calgary convenience store loses vaping retailer licence over sales to minors CTV News",
-  "published": "2026-11-18T17:48:26+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T15:11:03.462983+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "6094eee181",
