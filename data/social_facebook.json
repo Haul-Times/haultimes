@@ -4939,7 +4939,9 @@
   "45b25d6ef5": "skipped|importance 45 is below this platform's threshold (65)",
   "2e343b6e1c": "expired|stale before a slot opened (published 12h ago)",
   "a2b6ef683e": "skipped|minor item (announcement) or low-quality source",
-  "f52b94b9f7": "skipped|importance 61 is below this platform's threshold (65)"
+  "f52b94b9f7": "skipped|importance 61 is below this platform's threshold (65)",
+  "d2796de249": "skipped|importance 56 is below this platform's threshold (65)",
+  "c8f15cfef9": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10471,6 +10473,20 @@
    "title": "Connected Fleet Tech: Cutting Truck Downtime & Maintenance Costs",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T09:11:40.056240+00:00",
+   "story_id": "d2796de249",
+   "title": "Motor carriers hurt by diesel costs",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T09:11:40.056240+00:00",
+   "story_id": "c8f15cfef9",
+   "title": "Truck Drivers Stage Protests Over Alleged Harassment",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
