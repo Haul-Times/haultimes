@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T00:51:07.682521+00:00",
- "hour_now": 19,
+ "updated": "2026-11-24T01:01:14.192120+00:00",
+ "hour_now": 20,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -119,7 +119,7 @@
      18,
      22,
      19,
-     12,
+     11,
      9,
      18,
      2
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 7:37 pm EST",
+    "status": "delay",
+    "updated": "At 7:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -269,7 +269,7 @@
      7,
      0,
      0,
-     4,
+     5,
      3,
      4,
      6
@@ -295,7 +295,7 @@
      4,
      5,
      5,
-     11,
+     10,
      5,
      4,
      4
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:37 pm EST",
+    "updated": "At 7:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-23 18:15 EST"
+    "updated": "2026-11-23 19:15 EST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:50:39",
+    "updated": "20:00:40",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1094,7 +1094,7 @@
      35,
      27,
      54,
-     111,
+     100,
      94,
      16,
      0
@@ -1237,7 +1237,7 @@
      8,
      13,
      5,
-     15,
+     14,
      2,
      0,
      3
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm PST",
+    "updated": "At 6:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1498,7 +1498,7 @@
     "status": "No Delay"
    },
    {
-    "name": "Lacolle: Route 223",
+    "name": "Lacolle: Route 221",
     "wait": 0,
     "status": "No Delay"
    },
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 5,
-    "status": "5 minutes"
+    "wait": 10,
+    "status": "10 minutes"
    },
    {
     "name": "Aldergrove",
