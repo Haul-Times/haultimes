@@ -4237,7 +4237,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-24T20:01:19.337261+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122111940297544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122111940297544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122111940297544428",
+    "created": "2026-11-24T20:01:19+0000",
+    "at": "2026-11-24T20:11:27.172370+00:00"
+   }
   },
   "ed3d435a6d": {
    "story_id": "ed3d435a6d",
@@ -5323,7 +5331,8 @@
   "e913a2bb1c": "skipped|minor item (press_release) or low-quality source",
   "ed3d435a6d": "queued|importance 67 (threshold 65), Industry, trade publication",
   "d75a175090": "skipped|minor item (announcement) or low-quality source",
-  "74f1a0fa9b": "skipped|minor item (incident) or low-quality source"
+  "74f1a0fa9b": "skipped|minor item (incident) or low-quality source",
+  "1477dd8615": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11114,16 +11123,23 @@
    "title": "Rail Merger Risks Soaring Costs for Small Shippers",
    "action": "posted",
    "reason": "importance 73 (threshold 65), Industry, trade publication; waited 99 min in queue"
+  },
+  {
+   "at": "2026-11-24T20:11:27.172370+00:00",
+   "story_id": "1477dd8615",
+   "title": "Trucking Tightens as Rail Volume Surges",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122111927247544428",
+  "post": "1476615495528085_122111940297544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122111927247544428",
-  "created": "2026-11-24T19:11:54+0000",
-  "at": "2026-11-24T19:21:25.055553+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122111940297544428",
+  "created": "2026-11-24T20:01:19+0000",
+  "at": "2026-11-24T20:11:27.172370+00:00"
  },
  "promo_i": 1
 }
