@@ -5316,7 +5316,8 @@
   "cb5127494b": "queued|importance 73 (threshold 65), Industry, trade publication",
   "e913a2bb1c": "skipped|minor item (press_release) or low-quality source",
   "ed3d435a6d": "queued|importance 67 (threshold 65), Industry, trade publication",
-  "d75a175090": "skipped|minor item (announcement) or low-quality source"
+  "d75a175090": "skipped|minor item (announcement) or low-quality source",
+  "74f1a0fa9b": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -11093,6 +11094,13 @@
    "title": "Peterbilt expands Red Oval Certified Pre-Owned Program",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-24T19:51:43.902581+00:00",
+   "story_id": "74f1a0fa9b",
+   "title": "Walmart, Nova Lines Truckers Face Homicide Charges In Icy I-80 Crash Near Evanston",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {

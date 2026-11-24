@@ -1,5 +1,78 @@
 [
  {
+  "id": "74f1a0fa9b",
+  "slug": "walmart-nova-lines-truckers-face-homicide-charges-in-icy-i-80-crash-ne-74f1a0fa9b",
+  "title": "Walmart, Nova Lines Truckers Face Homicide Charges In Icy I-80 Crash Near Evanston",
+  "orig_title": "Walmart, Nova Lines Truckers Face Homicide Charges In Icy I-80 Crash Near Evanston",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 20,
+  "source": "Cowboy State Daily",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY1I1TUpiZldjMmdVbFNUUEluSG1wbUNRckFKTS1FYlRGd3JyNDIwb2M3WTVtbTRoSlFyNjJKbjJIY05uOEVCMDFHeDRaX3EzSUpYMk1NbXlGdEYxOHktZVJxT2dPUS05WGhGdFV4UVJvYjhkVW5KU2tzVmlic1Y5cUxWNktOYjUxdUgtYVJfODFRWU5TSFpDZDNIeXY4NHZ4OERZVS1FNk9rZ1cyVUtLOHU4OU5reE94T2lyLUF3bw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY1I1TUpiZldjMmdVbFNUUEluSG1wbUNRckFKTS1FYlRGd3JyNDIwb2M3WTVtbTRoSlFyNjJKbjJIY05uOEVCMDFHeDRaX3EzSUpYMk1NbXlGdEYxOHktZVJxT2dPUS05WGhGdFV4UVJvYjhkVW5KU2tzVmlic1Y5cUxWNktOYjUxdUgtYVJfODFRWU5TSFpDZDNIeXY4NHZ4OERZVS1FNk9rZ1cyVUtLOHU4OU5reE94T2lyLUF3bw",
+  "snippet": "Walmart, Nova Lines Truckers Face Homicide Charges In Icy I-80 Crash Near Evanston Cowboy State Daily",
+  "published": "2026-11-24T19:43:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T19:51:04.585847+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "incident",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://cowboystatedaily.com/2026/11/24/walmart-nova-lines-truckers-face-homicide-charges-in-icy-i-80-crash-near-evanston/",
+  "source_note": "ok · 954 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "4a8c77bb783bd964",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-24T19:51:04.585847+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Criminal charges have been filed against two truck drivers"
+   },
+   {
+    "sentence": "2",
+    "quote": "warrants were issued Wednesday"
+   },
+   {
+    "sentence": "3",
+    "quote": "aggravated homicide by vehicle, a felony punishable by up to 20 years in prison"
+   },
+   {
+    "sentence": "4",
+    "quote": "a wrongful death lawsuit filed July 7 in Wyoming federal court names 10 defendants"
+   },
+   {
+    "sentence": "5",
+    "quote": "John Howard Lengyel of Grafton, Ohio, was killed"
+   },
+   {
+    "sentence": "6",
+    "quote": "denied that Smith was driving too fast for the conditions"
+   },
+   {
+    "sentence": "7",
+    "quote": "An initial pretrial conference in the federal lawsuit is scheduled for Jan. 19."
+   }
+  ],
+  "sum_problems": [
+   "summary longer than 160 words",
+   "copies a 12-word run from the source: 'both men are charged with aggravated homicide by vehicle, a felony pun'"
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 55
+ },
+ {
   "id": "d75a175090",
   "slug": "peterbilt-expands-red-oval-certified-pre-owned-program-d75a175090",
   "title": "Peterbilt expands Red Oval Certified Pre-Owned Program",
@@ -216,6 +289,35 @@
   "ai_category": "drivers",
   "ai_importance": 5,
   "ai_relevant": false
+ },
+ {
+  "id": "5d34fd7384",
+  "slug": "walgreens-contractor-plans-about-69-layoffs-in-windsor-5d34fd7384",
+  "title": "Walgreens Contractor Plans About 69 Layoffs In Windsor",
+  "orig_title": "Walgreens Contractor Plans About 69 Layoffs In Windsor",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Patch",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS2tDamV2cllkVXBja3V4TEViaWRNYU1oSDJmMktnSExHZEc2eUV2NjlFNzVvUnQ0UDJ0OW5tQTdoNmdMR0llWFZRV3d3anVxbUZXQl9kNDQydXc1Ui1lSFpkNklPVmFiNzRBVDM5UkhqVVFuQUFrX0N1V2g1MW5CMXlVTUdTWWtFNzhn0gGoAUFVX3lxTE1mQjJNMXVGaUt5M01Ha2Q4YXRJcWp0ekE2cDlnYnctVkpJR2pfQ2swZkFZc0c1RFBwV1lZN25yZTRyRFJ2ekZFUm5ib0VWTFdrMWJENWVsWXVqRkowWUN2RE9pNERwblhBYlcyekpOSVZsS2xnU0tnY3c1d0RJaEdRSzFpSU81dVl3NVFFOHVIM0pNRGVGclJILTJwR2YyQVRzMG9zd2Mydg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS2tDamV2cllkVXBja3V4TEViaWRNYU1oSDJmMktnSExHZEc2eUV2NjlFNzVvUnQ0UDJ0OW5tQTdoNmdMR0llWFZRV3d3anVxbUZXQl9kNDQydXc1Ui1lSFpkNklPVmFiNzRBVDM5UkhqVVFuQUFrX0N1V2g1MW5CMXlVTUdTWWtFNzhn0gGoAUFVX3lxTE1mQjJNMXVGaUt5M01Ha2Q4YXRJcWp0ekE2cDlnYnctVkpJR2pfQ2swZkFZc0c1RFBwV1lZN25yZTRyRFJ2ekZFUm5ib0VWTFdrMWJENWVsWXVqRkowWUN2RE9pNERwblhBYlcyekpOSVZsS2xnU0tnY3c1d0RJaEdRSzFpSU81dVl3NVFFOHVIM0pNRGVGclJILTJwR2YyQVRzMG9zd2Mydg",
+  "snippet": "Walgreens Contractor Plans About 69 Layoffs In Windsor Patch",
+  "published": "2026-11-24T18:49:11+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T19:51:04.585847+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "fba45bb0d3",
