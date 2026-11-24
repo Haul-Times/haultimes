@@ -4057,14 +4057,14 @@
    "source": "La Voce di New York",
    "dest": "https://haultimes.com/story/diesel-price-surge-squeezes-small-u-s-trucking-companies-c5c2fbf307/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=c5c2fbf307",
    "caption": "Diesel Price Surge Squeezes Small U.S. Trucking Companies.\n\nReported by La Voce di New York. The link has the details and the original article.\n\n#Trucking #Diesel #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-24T18:01:42.474581+00:00",
    "published": "2026-11-24T17:48:47+00:00",
    "score": 82,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122111927247544428",
+   "posted_at": "2026-11-24T19:11:54.789441+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Diesel Price Surge Squeezes Small U.S. Trucking Companies | HaulTimes",
@@ -4075,7 +4075,9 @@
    "reason": "importance 82 (threshold 65), Fuel, local/other outlet",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-24T19:11:54.789441+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122111927247544428"
   },
   "834f2e1f07": {
    "story_id": "834f2e1f07",
@@ -4570,6 +4572,10 @@
   {
    "at": "2026-11-24T18:21:50.079527+00:00",
    "msg": "posted a5be8b825e"
+  },
+  {
+   "at": "2026-11-24T19:11:54.789441+00:00",
+   "msg": "posted c5c2fbf307"
   }
  ],
  "decided": {
@@ -5264,14 +5270,15 @@
   "diesel-2026-11-23": "posted|HaulTimes update",
   "70ef424ae5": "skipped|importance 62 is below this platform's threshold (65)",
   "e14ab2ad14": "skipped|importance 45 is below this platform's threshold (65)",
-  "c5c2fbf307": "queued|importance 82 (threshold 65), Fuel, local/other outlet",
+  "c5c2fbf307": "posted|importance 82 (threshold 65), Fuel, local/other outlet; waited 70 min in queue",
   "834f2e1f07": "queued|importance 67 (threshold 65), Equipment, trade publication",
   "923bddca0b": "queued|importance 66 (threshold 65), Industry, trade publication",
   "cc9a9379c0": "skipped|importance 45 is below this platform's threshold (65)",
   "a5be8b825e": "posted|breaking",
   "7ee0c01dac": "queued|importance 67 (threshold 65), Rates & Market, trade publication",
   "08096d293c": "skipped|importance 60 is below this platform's threshold (65)",
-  "cb5127494b": "queued|importance 73 (threshold 65), Industry, trade publication"
+  "cb5127494b": "queued|importance 73 (threshold 65), Industry, trade publication",
+  "e913a2bb1c": "skipped|minor item (press_release) or low-quality source"
  },
  "decisions": [
   {
@@ -11020,6 +11027,20 @@
    "title": "Reefer spot rates surge ahead of Thanksgiving",
    "action": "posted",
    "reason": "breaking: importance 87, reported by a trade publication of record; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-24T19:11:54.789441+00:00",
+   "story_id": "e913a2bb1c",
+   "title": "Thanksgiving Cargo Theft Doubles from 2021 as Verisk",
+   "action": "skipped",
+   "reason": "minor item (press_release) or low-quality source"
+  },
+  {
+   "at": "2026-11-24T19:11:54.789441+00:00",
+   "story_id": "c5c2fbf307",
+   "title": "Diesel Price Surge Squeezes Small U.S. Trucking Companies",
+   "action": "posted",
+   "reason": "importance 82 (threshold 65), Fuel, local/other outlet; waited 70 min in queue"
   }
  ],
  "visibility": {

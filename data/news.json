@@ -1,5 +1,67 @@
 [
  {
+  "id": "e913a2bb1c",
+  "slug": "thanksgiving-cargo-theft-doubles-from-2021-as-verisk-e913a2bb1c",
+  "title": "Thanksgiving Cargo Theft Doubles from 2021 as Verisk",
+  "orig_title": "Thanksgiving Cargo Theft Doubles from 2021 as Verisk",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 42,
+  "source": "GlobeNewswire",
+  "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdUVlRnJ2UzFoZjZZMjNNY0tIck1xOFJYZVlWb3hXYTk0YTlHc052d290V2JhYVg2N1VLYU9PUnRBajJjZnA5WFk0VzZxanpWLTNEcWNuSm5qdnBibmtpNDNaN1BIWTZGTDMtZDYtWmtfVWFQTUJGQjFoUFJhUGdWQlBYSGI4SlpkMkJENm1zSTdMaEM4YlpFa1dQSUE5VjZLTm1Qb0Q3blo2STlXQjVid1hDbnY3amNmNUJ1dzdJWFZuVm5ZWDJ4LUJ3dDlkMjBMQTNTYVhTa3FxZ2FFeXJoaDR6bXFHLWFNaHhCRjRDY0FkLS1GWm1tTVNrd2d2bERTNVVEeHYtNU5CdTZxclQ1UVhWdm10a3lMNnA2UENUelR3eU5VVlE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdUVlRnJ2UzFoZjZZMjNNY0tIck1xOFJYZVlWb3hXYTk0YTlHc052d290V2JhYVg2N1VLYU9PUnRBajJjZnA5WFk0VzZxanpWLTNEcWNuSm5qdnBibmtpNDNaN1BIWTZGTDMtZDYtWmtfVWFQTUJGQjFoUFJhUGdWQlBYSGI4SlpkMkJENm1zSTdMaEM4YlpFa1dQSUE5VjZLTm1Qb0Q3blo2STlXQjVid1hDbnY3amNmNUJ1dzdJWFZuVm5ZWDJ4LUJ3dDlkMjBMQTNTYVhTa3FxZ2FFeXJoaDR6bXFHLWFNaHhCRjRDY0FkLS1GWm1tTVNrd2d2bERTNVVEeHYtNU5CdTZxclQ1UVhWdm10a3lMNnA2UENUelR3eU5VVlE",
+  "snippet": "Thanksgiving Cargo Theft Doubles from 2021 as Verisk GlobeNewswire",
+  "published": "2026-11-24T19:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T19:11:16.493559+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [
+   "Press release"
+  ],
+  "kind": "press_release",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.globenewswire.com/news-release/2026/11/24/3409816/0/en/thanksgiving-cargo-theft-doubles-from-2021-as-verisk-cargonet-warns-of-fraudulent-hires-and-data-center-hardware-being-targeted.html",
+  "source_note": "ok · 845 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "79c416460980c6dd",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-24T19:11:16.493559+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "252 cargo theft incidents in the United States during the Thanksgiving holiday"
+   },
+   {
+    "sentence": "2",
+    "quote": "Annual counts rose from 29 in 2021 to a five-year high of 79 in 2024"
+   },
+   {
+    "sentence": "3",
+    "quote": "cybercriminals posing as drivers and dispatchers respond to carriers' job postings on social media"
+   },
+   {
+    "sentence": "4",
+    "quote": "recommends that shippers, brokers and carriers tighten security and verification"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'during the thanksgiving holiday periods from 2021 through 2025, with a'"
+  ],
+  "ai_category": "other",
+  "ai_importance": 70
+ },
+ {
   "id": "f7a3d94f87",
   "slug": "dangote-cement-rewards-35-truck-drivers-f7a3d94f87",
   "title": "Dangote Cement Rewards 35 Truck Drivers",
@@ -14588,64 +14650,6 @@
   "sum_pending": false
  },
  {
-  "id": "d48aea6f2d",
-  "slug": "police-didn-t-consider-key-factors-in-francique-arrest-plan-inquest-he-d48aea6f2d",
-  "title": "Police didn't consider key factors in Francique arrest plan, inquest hears",
-  "orig_title": "Police didn't consider key factors in Francique arrest plan, inquest hears",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV1lKVWxHdnQ5WXZQMXZGMUJuM3pHQmlkdnl6REtrWG1sUzdnWnBfaDBFbFZ2Zl9wM0x2X0c4OW55Y25wUXJzY1JHZkZHMFpDUE5uM09UYzliVlhLUFoxUV9ZUE9rbU50enJYSDl1Zmtrc1pmSVV6Ymp6QTBlUjFvWkNKQkpCcnlxaUp3QUJ6VkdGRTUwOFZSVWRBOGhBRDlxMjNDOGlrbmZaUHVRbjVaOHVabThTN1IwRF9GYThBODI?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV1lKVWxHdnQ5WXZQMXZGMUJuM3pHQmlkdnl6REtrWG1sUzdnWnBfaDBFbFZ2Zl9wM0x2X0c4OW55Y25wUXJzY1JHZkZHMFpDUE5uM09UYzliVlhLUFoxUV9ZUE9rbU50enJYSDl1Zmtrc1pmSVV6Ymp6QTBlUjFvWkNKQkpCcnlxaUp3QUJ6VkdGRTUwOFZSVWRBOGhBRDlxMjNDOGlrbmZaUHVRbjVaOHVabThTN1IwRF9GYThBODI",
-  "snippet": "Police didn't consider key factors in Francique arrest plan, inquest hears CTV News",
-  "published": "2026-11-20T19:06:26+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T19:11:04.787615+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "4055339027",
-  "slug": "two-in-timmins-charged-after-joint-drug-investigation-4055339027",
-  "title": "Two in Timmins charged after joint drug investigation",
-  "orig_title": "Two in Timmins charged after joint drug investigation",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGdCVEpaUkJMQWpUcXU2X0NhR0FINmxmLVZiUlE5M05PNnktWkpLOXlTREJNZGpFOVM1Ny13VVMzM3V4eWRjWlRHaGprcmkzSm5SS3pYaW5yVDc3bHdxUU8zVXFDUWNvNWtWeG40amtMYTlwdEtad3RQZERESTNNZDFZa19feWI0Z2Vpd3NPMXVOMW85QUN1Y0p1d0pvbEo4bEY5ZQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGdCVEpaUkJMQWpUcXU2X0NhR0FINmxmLVZiUlE5M05PNnktWkpLOXlTREJNZGpFOVM1Ny13VVMzM3V4eWRjWlRHaGprcmkzSm5SS3pYaW5yVDc3bHdxUU8zVXFDUWNvNWtWeG40amtMYTlwdEtad3RQZERESTNNZDFZa19feWI0Z2Vpd3NPMXVOMW85QUN1Y0p1d0pvbEo4bEY5ZQ",
-  "snippet": "Two in Timmins charged after joint drug investigation CTV News",
-  "published": "2026-11-20T19:05:42+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T19:11:04.787615+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "821abf3c89",
   "slug": "streetfighterbandicoot-featured-821abf3c89",
   "title": "streetfighterbandicoot_featured",
@@ -14785,35 +14789,6 @@
   "status": "rejected",
   "reasons": [
    "consumer vehicle / lifestyle story"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "871af22c42",
-  "slug": "saskatoon-zoo-welcomes-africa-s-spotted-hyena-871af22c42",
-  "title": "Saskatoon zoo welcomes Africa’s spotted hyena",
-  "orig_title": "Saskatoon zoo welcomes Africa’s spotted hyena",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3g4QmRIa3YwTkNXa0s5cEZweGp3cUZmNzBLOC1xejRDRFE4d0V2QkgtU3hLNjQ2RmFvZmFlV1d0QlRkdGFsTnpLZDQxbFZNdEd2YUNHYTlhR0Y3UVczSHNZRVQ4ckNJV3lBSE1OZ0U3cVdySTBoekw1NzZXTVZILXlrZ1c5S0prOFJ3ZkhLYw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3g4QmRIa3YwTkNXa0s5cEZweGp3cUZmNzBLOC1xejRDRFE4d0V2QkgtU3hLNjQ2RmFvZmFlV1d0QlRkdGFsTnpLZDQxbFZNdEd2YUNHYTlhR0Y3UVczSHNZRVQ4ckNJV3lBSE1OZ0U3cVdySTBoekw1NzZXTVZILXlrZ1c5S0prOFJ3ZkhLYw",
-  "snippet": "Saskatoon zoo welcomes Africa’s spotted hyena CTV News",
-  "published": "2026-11-20T18:49:38+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T19:11:04.787615+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
@@ -16829,35 +16804,6 @@
   "sum_pending": false
  },
  {
-  "id": "e052eae716",
-  "slug": "bryan-adams-to-make-stop-in-edmundston-n-b-as-part-of-new-tour-e052eae716",
-  "title": "Bryan Adams to make stop in Edmundston, N.B., as part of new tour",
-  "orig_title": "Bryan Adams to make stop in Edmundston, N.B., as part of new tour",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW5GNnZXQ0JESVBkUG9udzZ6RHJ4aW5WUEZKV1ZrbWVtVGY3SVhIRXZKN09tdFBLVkVOVG4zM1lMVXo2ZEJDWEdyWVFQWU1ZYXFKYWc5QS1fWHVsekNxZGE1NWhaTTdXbmVzZlBjOG13X2FCN2tHdzNiSmJrTUY3WTRtWndWTzVFSHRVUmJxaEplUWZZV3lOLWtETzU?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW5GNnZXQ0JESVBkUG9udzZ6RHJ4aW5WUEZKV1ZrbWVtVGY3SVhIRXZKN09tdFBLVkVOVG4zM1lMVXo2ZEJDWEdyWVFQWU1ZYXFKYWc5QS1fWHVsekNxZGE1NWhaTTdXbmVzZlBjOG13X2FCN2tHdzNiSmJrTUY3WTRtWndWTzVFSHRVUmJxaEplUWZZV3lOLWtETzU",
-  "snippet": "Bryan Adams to make stop in Edmundston, N.B., as part of new tour CTV News",
-  "published": "2026-11-20T14:39:44+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T19:11:04.787615+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "ea4394a0c5",
   "slug": "eight-officials-arrested-in-maysan-during-anti-corruption-operation-ea4394a0c5",
   "title": "Eight officials arrested in Maysan during anti-corruption operation",
@@ -17791,35 +17737,6 @@
   "sum_pending": false
  },
  {
-  "id": "279dbe1211",
-  "slug": "sunny-mild-weather-before-rain-moves-in-279dbe1211",
-  "title": "Sunny, mild weather before rain moves in",
-  "orig_title": "Sunny, mild weather before rain moves in",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1plV2JfbFluMTc2U0h0cXkwSzE4QmVvajRpV0hCV19mOVVJWEdzcy1iNWNVaFhWdmExU0NOaC1OTjQ2WU52dWVtSWxYS1FtbU01S2VKb2pudDUwSWl1WXlPSnVOaEsyOUtMbnJLNnc1YzFKYlJjRG9CQmNha0Judk5mQjc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1plV2JfbFluMTc2U0h0cXkwSzE4QmVvajRpV0hCV19mOVVJWEdzcy1iNWNVaFhWdmExU0NOaC1OTjQ2WU52dWVtSWxYS1FtbU01S2VKb2pudDUwSWl1WXlPSnVOaEsyOUtMbnJLNnc1YzFKYlJjRG9CQmNha0Judk5mQjc",
-  "snippet": "Sunny, mild weather before rain moves in CTV News",
-  "published": "2026-11-20T11:00:01+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T19:11:04.787615+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "f7bba64d16",
   "slug": "mayor-mamdani-moves-to-curb-truck-impacts-with-warehouse-regulations-f7bba64d16",
   "title": "Mayor Mamdani Moves To Curb Truck Impacts With Warehouse Regulations",
@@ -18700,35 +18617,6 @@
   "sum_problems": [],
   "ai_category": "border",
   "ai_importance": 70
- },
- {
-  "id": "81868058b4",
-  "slug": "permeable-pavement-and-freezing-the-rideau-canal-how-ottawa-is-combatt-81868058b4",
-  "title": "Permeable pavement and freezing the Rideau Canal: How Ottawa is combatting climate change",
-  "orig_title": "Permeable pavement and freezing the Rideau Canal: How Ottawa is combatting climate change",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGpqSkZWeU91NkNnTklVZG9wY3ZWYjFtOXcyV01fR1M1NTJVYmNFV2xEZGJEdnZmdzRqYUNFakNfb0JqNkZSaE5nNnRPbnpCS0NHbW1QbmdSeTBHOEZiLTl1UmZqbTZOT0xHQXR5Q05YbEY0UTBtS1pKblprRjFuVDNDLVJYemZhVkl6S1pEUFNWRFFwaHg5R0lqNVVXakdUb0lXWWFuY2ZralVkclNYUnVJcTNUUlVhSnpENTV0YlYzVXdHUXc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGpqSkZWeU91NkNnTklVZG9wY3ZWYjFtOXcyV01fR1M1NTJVYmNFV2xEZGJEdnZmdzRqYUNFakNfb0JqNkZSaE5nNnRPbnpCS0NHbW1QbmdSeTBHOEZiLTl1UmZqbTZOT0xHQXR5Q05YbEY0UTBtS1pKblprRjFuVDNDLVJYemZhVkl6S1pEUFNWRFFwaHg5R0lqNVVXakdUb0lXWWFuY2ZralVkclNYUnVJcTNUUlVhSnpENTV0YlYzVXdHUXc",
-  "snippet": "Permeable pavement and freezing the Rideau Canal: How Ottawa is combatting climate change CTV News",
-  "published": "2026-11-20T00:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T19:11:04.787615+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "8fab767786",
@@ -26143,35 +26031,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "8bf5e35c6f",
-  "slug": "u-s-homeland-security-mullin-defends-use-of-government-plane-to-go-to-8bf5e35c6f",
-  "title": "U.S. Homeland Security Mullin defends use of government plane to go to LSU-Texas game after ground stop",
-  "orig_title": "U.S. Homeland Security Mullin defends use of government plane to go to LSU-Texas game after ground stop",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT29vTmxEMjV2WmFPWkpjYll2NTJ2VUlKSkxWZXRzOHN3Tml4YnFXUE1nOHFaNVVVa2RuYUMySFEyZnVPQ2t5MG5mS3dFd3Njc3pZemVnS1paUkRwWWZ0aVR6TVZ0VzBmeGdPcWNSNDdIbGdkTUVlMlRCZWlkcldTX0xuZWp1SWJQaGVrX3Q0RGhzbncwT1NUZTZtdWZSYWprQmhRdUY5ZERKLVlaZHoyN2l0blQ5R3hZeEtKaVBrZ3NlWGE2R3R0djRWaWJoUVREN2FKZWZB?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT29vTmxEMjV2WmFPWkpjYll2NTJ2VUlKSkxWZXRzOHN3Tml4YnFXUE1nOHFaNVVVa2RuYUMySFEyZnVPQ2t5MG5mS3dFd3Njc3pZemVnS1paUkRwWWZ0aVR6TVZ0VzBmeGdPcWNSNDdIbGdkTUVlMlRCZWlkcldTX0xuZWp1SWJQaGVrX3Q0RGhzbncwT1NUZTZtdWZSYWprQmhRdUY5ZERKLVlaZHoyN2l0blQ5R3hZeEtKaVBrZ3NlWGE2R3R0djRWaWJoUVREN2FKZWZB",
-  "snippet": "U.S. Homeland Security Mullin defends use of government plane to go to LSU-Texas game after ground stop CTV News",
-  "published": "2026-11-17T19:31:41+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T19:01:07.749486+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "0257a021aa",
