@@ -22300,35 +22300,6 @@
   "sum_pending": false
  },
  {
-  "id": "fe069df51b",
-  "slug": "scientists-succeed-in-growing-potatoes-in-simulated-moon-soil-fe069df51b",
-  "title": "Scientists succeed in growing potatoes in simulated moon soil",
-  "orig_title": "Scientists succeed in growing potatoes in simulated moon soil",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0o3M1c3OFZ3U0ljRHNVZ2ZUbXUzN3pabERaemFrWFB2MUZ3aEN4bTA4bWw2RVNyQ2Z0b1hqRmZ6REx0QWswREp3UWpyb2Z6WVFRNG92MTdDOTNGT3FrZG5FdGVTdXBxQ0JBWnMtc1N3RUR1MzVxQmhkRHBjdThqSFNiRE1ZU09WeC1hU2VIbzZYZkdXR0NLZWFYbXBXVnhjVmRQSQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0o3M1c3OFZ3U0ljRHNVZ2ZUbXUzN3pabERaemFrWFB2MUZ3aEN4bTA4bWw2RVNyQ2Z0b1hqRmZ6REx0QWswREp3UWpyb2Z6WVFRNG92MTdDOTNGT3FrZG5FdGVTdXBxQ0JBWnMtc1N3RUR1MzVxQmhkRHBjdThqSFNiRE1ZU09WeC1hU2VIbzZYZkdXR0NLZWFYbXBXVnhjVmRQSQ",
-  "snippet": "Scientists succeed in growing potatoes in simulated moon soil CTV News",
-  "published": "2026-11-19T18:57:20+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T03:51:04.844256+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "76134946b6",
   "slug": "resident-loses-5-200-in-bank-investigator-scam-76134946b6",
   "title": "Resident loses $5,200 in bank investigator scam",
@@ -24663,35 +24634,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "2b55f392fb",
-  "slug": "6-takeaways-from-carney-s-tour-of-asia-ireland-2b55f392fb",
-  "title": "6 takeaways from Carney’s tour of Asia, Ireland",
-  "orig_title": "6 takeaways from Carney’s tour of Asia, Ireland",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzJqNUxMMV9aMXlvRzVQaFZpdHNqa3FpZU9qaE54NzdpNXVReVZHZ3UzSWtOMFhySk5seDB3VFREMS0xN2ZGZF9Ca3RjYk5wZ1BUUzVmSHRGaDhhQzM1bjZmTVlGUGxXYzJkSVR2WTllbWx3TWJLdlkzU1BJaVZab0s2LU1aWGRlbnFJMkNpWQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzJqNUxMMV9aMXlvRzVQaFZpdHNqa3FpZU9qaE54NzdpNXVReVZHZ3UzSWtOMFhySk5seDB3VFREMS0xN2ZGZF9Ca3RjYk5wZ1BUUzVmSHRGaDhhQzM1bjZmTVlGUGxXYzJkSVR2WTllbWx3TWJLdlkzU1BJaVZab0s2LU1aWGRlbnFJMkNpWQ",
-  "snippet": "6 takeaways from Carney’s tour of Asia, Ireland CTV News",
-  "published": "2026-11-19T11:00:52+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T03:51:04.844256+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
