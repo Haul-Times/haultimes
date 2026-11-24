@@ -26880,35 +26880,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "b4a662d062",
-  "slug": "suspects-identified-in-apple-pay-account-fraud-cps-b4a662d062",
-  "title": "Suspects identified in Apple Pay account fraud: CPS",
-  "orig_title": "Suspects identified in Apple Pay account fraud: CPS",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHFHT2ZyMThJZkR2cjcwbUtiVlNlOElQUlc0OG03cXI0bFRiTnptN2JycHBldVpMUWNERi1hczROZEhYMlVKLWlEczN2d09oOVF3NE9jNENjcFFLUTZSQkljdjFIbkFlVFdubnZRWFE5QjEzQzllYUtrREVhdUZudDBNcWVxaDdBVnVaTExSc0VJR3NG?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHFHT2ZyMThJZkR2cjcwbUtiVlNlOElQUlc0OG03cXI0bFRiTnptN2JycHBldVpMUWNERi1hczROZEhYMlVKLWlEczN2d09oOVF3NE9jNENjcFFLUTZSQkljdjFIbkFlVFdubnZRWFE5QjEzQzllYUtrREVhdUZudDBNcWVxaDdBVnVaTExSc0VJR3NG",
-  "snippet": "Suspects identified in Apple Pay account fraud: CPS CTV News",
-  "published": "2026-11-18T18:51:57+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T11:11:05.150628+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "c7dbd2f0a4",
   "slug": "abf-freight-workers-uncover-1-5m-drug-shipment-headed-to-ohio-c7dbd2f0a4",
   "title": "ABF Freight workers uncover $1.5M drug shipment headed to Ohio",
