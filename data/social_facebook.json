@@ -4943,7 +4943,9 @@
   "d2796de249": "skipped|importance 56 is below this platform's threshold (65)",
   "c8f15cfef9": "skipped|importance 45 is below this platform's threshold (65)",
   "f6f89a3054": "skipped|importance 50 is below this platform's threshold (65)",
-  "a0443343ed": "skipped|importance 55 is below this platform's threshold (65)"
+  "a0443343ed": "skipped|importance 55 is below this platform's threshold (65)",
+  "6783264813": "skipped|importance 55 is below this platform's threshold (65)",
+  "335f0fc202": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10501,6 +10503,20 @@
    "at": "2026-11-24T10:51:39.828055+00:00",
    "story_id": "a0443343ed",
    "title": "Commercial Driver's License: Nick Castello; Application for Exemption",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T14:11:32.544436+00:00",
+   "story_id": "6783264813",
+   "title": "Good faith in trucking insurance claims",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T14:11:32.544436+00:00",
+   "story_id": "335f0fc202",
+   "title": "Trucker-built directory tops 12,000 listings as roadside repair network expands",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
