@@ -4313,7 +4313,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-24T21:43:46.282596+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122111968743544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122111968743544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122111968743544428",
+    "created": "2026-11-24T21:43:46+0000",
+    "at": "2026-11-24T21:51:24.955826+00:00"
+   }
   }
  },
  "paused": null,
@@ -5389,7 +5397,8 @@
   "8c96129662": "skipped|minor item (incident) or low-quality source",
   "2c5a6f7161": "skipped|minor item (crime) or low-quality source",
   "fb05f474c5": "posted|importance 73 (threshold 65), Equipment, trade publication; waited 61 min in queue",
-  "3add49d499": "skipped|importance 55 is below this platform's threshold (65)"
+  "3add49d499": "skipped|importance 55 is below this platform's threshold (65)",
+  "b00cab0323": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11264,16 +11273,23 @@
    "title": "Alta Equipment Group to acquire Jackson Group Peterbilt for $399 million",
    "action": "posted",
    "reason": "importance 73 (threshold 65), Equipment, trade publication; waited 61 min in queue"
+  },
+  {
+   "at": "2026-11-24T21:51:24.955826+00:00",
+   "story_id": "b00cab0323",
+   "title": "DTNA weighs Texas option for largest U.S. plant",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122111952177544428",
+  "post": "1476615495528085_122111968743544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122111952177544428",
-  "created": "2026-11-24T20:51:32+0000",
-  "at": "2026-11-24T21:01:25.410765+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122111968743544428",
+  "created": "2026-11-24T21:43:46+0000",
+  "at": "2026-11-24T21:51:24.955826+00:00"
  },
  "promo_i": 1
 }
