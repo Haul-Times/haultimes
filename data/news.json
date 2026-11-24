@@ -8335,6 +8335,35 @@
   "ai_relevant": false
  },
  {
+  "id": "87dd6a4784",
+  "slug": "global-news-morning-bc-watch-global-news-morning-bc-news-program-onlin-87dd6a4784",
+  "title": "Global News Morning BC | Watch Global News Morning BC News Program Online - Full Episodes",
+  "orig_title": "Global News Morning BC | Watch Global News Morning BC News Program Online - Full Episodes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81N3c5OUlNbTlpaklmM3c2OEVyNWtMMWhWTmhoaXlDTkJiYXFYZGNDencxQzQ3MkhUNjZfMjQ1NnFPQ2RHRWxHbTJMd2NpRzY3UmZXSm82ZWVGVEx3UFhkN052dHIzQi0zYWh2NUhMeDA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81N3c5OUlNbTlpaklmM3c2OEVyNWtMMWhWTmhoaXlDTkJiYXFYZGNDencxQzQ3MkhUNjZfMjQ1NnFPQ2RHRWxHbTJMd2NpRzY3UmZXSm82ZWVGVEx3UFhkN052dHIzQi0zYWh2NUhMeDA",
+  "snippet": "Global News Morning BC | Watch Global News Morning BC News Program Online - Full Episodes Global News",
+  "published": "2026-11-22T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T15:41:05.630973+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b9bc6a30db",
   "slug": "container-movement-to-resume-at-vallarpadam-on-november-23-as-truck-dr-b9bc6a30db",
   "title": "Container movement to resume at Vallarpadam on November 23 as truck drivers end scanner boycott over health risks",
@@ -17626,35 +17655,6 @@
   "source_note": "paywalled: excerpt only · 37 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "ef6f4e749b",
-  "slug": "lawmakers-near-deal-to-ban-chinese-cars-spare-mercedes-ef6f4e749b",
-  "title": "Lawmakers near deal to ban Chinese cars, spare Mercedes",
-  "orig_title": "Lawmakers near deal to ban Chinese cars, spare Mercedes",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EY2FfVThNVGRFakZ1YXZiWWMwc1lTS0lUbi1fQ3ZxVE5YaFpIRG4yT2JDN052MTBQVHZwUUMxWGFHM25hVW9oa3dieU8zU2dOU0loUjRBamdZbklYTnI5LWdwZW16ZE1BbFE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EY2FfVThNVGRFakZ1YXZiWWMwc1lTS0lUbi1fQ3ZxVE5YaFpIRG4yT2JDN052MTBQVHZwUUMxWGFHM25hVW9oa3dieU8zU2dOU0loUjRBamdZbklYTnI5LWdwZW16ZE1BbFE",
-  "snippet": "Lawmakers near deal to ban Chinese cars, spare Mercedes Transport Topics",
-  "published": "2026-11-20T14:55:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T15:41:01.342539+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "93535285c2",
