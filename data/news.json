@@ -1,5 +1,34 @@
 [
  {
+  "id": "3cd190d2e8",
+  "slug": "cartels-loot-cargo-trains-across-southwest-3cd190d2e8",
+  "title": "Cartels Loot Cargo Trains Across Southwest",
+  "orig_title": "Cartels Loot Cargo Trains Across Southwest",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUgyUkg0MEM0SnNsYWFSVWJCNU9VSFlwaEZlUUVOVmJ1UEVqR0dpZnd0Q3Q4SVA0bkpiSFc0dHY5N0dLb09QXzJhQkhOTzc2MUdvbzZibmN0Q0tsaG9rNlZvZ0hQT1o0VWIyNktqa3U2and1NG8wRm45UmdQWGgzakpUMA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUgyUkg0MEM0SnNsYWFSVWJCNU9VSFlwaEZlUUVOVmJ1UEVqR0dpZnd0Q3Q4SVA0bkpiSFc0dHY5N0dLb09QXzJhQkhOTzc2MUdvbzZibmN0Q0tsaG9rNlZvZ0hQT1o0VWIyNktqa3U2and1NG8wRm45UmdQWGgzakpUMA",
+  "snippet": "Cartels Loot Cargo Trains Across Southwest Wisevoter",
+  "published": "2026-11-24T03:32:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T04:21:02.398784+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3504d445de",
   "slug": "fleet-outlook-archives-3504d445de",
   "title": "Fleet Outlook Archives",
