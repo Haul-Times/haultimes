@@ -29,44 +29,46 @@
   "pub_url": "https://www.thetrucker.com/trucking-news/business/overhaul-thanksgiving-week-brings-potential-cargo-theft-risks",
   "source_note": "ok · 522 words",
   "sum_done": true,
-  "sum_status": "withheld",
+  "sum_status": "review",
   "source_fp": "961a00730bb7b249",
   "source_scope": "full_article",
-  "sum_at": "2026-11-24T17:21:08.583815+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-24T17:31:05.942662+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
     "sentence": "1",
-    "quote": "confirm the holiday hours of operation"
+    "quote": "confirm the holiday hours of operation for all receiving facilities"
    },
    {
     "sentence": "2",
-    "quote": "cargo will be left unattended for extended durations"
+    "quote": "trailers staged outside of receiving facilities, including big box store locations"
    },
    {
     "sentence": "3",
-    "quote": "double brokering, fraudulent carrier identities"
+    "quote": "Deception remains a dominant method, with tactics including double brokering"
    },
    {
     "sentence": "4",
-    "quote": "up 7.3 percentage points"
+    "quote": "Electronics accounted for 23.3% of thefts in the third quarter of 2026"
    },
    {
     "sentence": "5",
-    "quote": "use GPS tracking devices, secure parking locations"
+    "quote": "It is recommended that shippers use GPS tracking devices, secure parking locations"
    },
    {
     "sentence": "6",
-    "quote": "real time transportation visibility platforms"
+    "quote": "Drivers who do not match their CDL photo"
    }
   ],
   "sum_problems": [
-   "number 3 is not in the source",
-   "name 'CDLs' is not in the source"
+   "Vendor-issued content; theft statistics and recommendations come from Overhaul and are not independently verified in the source"
   ],
   "ai_category": "other",
-  "ai_importance": 55
+  "ai_importance": 55,
+  "sum_v3": true,
+  "pending_summary": "Overhaul, a cargo security company, is urging US shippers to check holiday hours at receiving facilities before loads due between Nov. 23 and Nov. 29 leave origin. The company said trailers staged outside receivers, including big-box stores, are likely targets for pilferage or outright theft, and that the long weekend can give thieves more time before a loss is discovered. It said deception tactics such as double brokering, fraudulent carrier identities and falsified paperwork remain common. Overhaul reported that electronics made up 23.3% of thefts in the third quarter of 2026, a rise of 7.3 percentage points from a year earlier. Recommended steps include GPS tracking, secure parking, vetting brokers and drivers, and avoiding extended staging. Overhaul also said drivers whose photos do not match their CDL, or whose equipment has temporary placards or painted-over logos, should not depart with a load.",
+  "pending_why": ""
  },
  {
   "id": "979269424e",
