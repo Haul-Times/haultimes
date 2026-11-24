@@ -5429,7 +5429,8 @@
   "b00cab0323": "skipped|importance 60 is below this platform's threshold (65)",
   "1c8f335dde": "queued|importance 67 (threshold 65), Fuel, trade publication",
   "033ad2067e": "skipped|importance 55 is below this platform's threshold (65)",
-  "0b3d668851": "skipped|importance 50 is below this platform's threshold (65)"
+  "0b3d668851": "skipped|importance 50 is below this platform's threshold (65)",
+  "d5d24517d6": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11332,6 +11333,13 @@
    "title": "US Visa Revocations Pressure Mexico’s Cross-Border Trucking",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T22:41:30.642077+00:00",
+   "story_id": "d5d24517d6",
+   "title": "Diesel price drop good news for Maritime truckers",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
