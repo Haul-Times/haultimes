@@ -1,5 +1,34 @@
 [
  {
+  "id": "acea126515",
+  "slug": "u-s-consumer-confidence-soars-with-elections-in-the-rearview-mirror-an-acea126515",
+  "title": "U.S. consumer confidence soars with elections in the rearview mirror and gas prices in decline",
+  "orig_title": "U.S. consumer confidence soars with elections in the rearview mirror and gas prices in decline",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEdsZmVOdUI4VjZtNUdUNkFteTFabWhNeGpnQ0tqR0FBSC00bGNndGpXLUVGUjUxTllHZFpRME5JYk1FY3hMbHc5YU5ncWZ4Yk1SSjNGSUFyeEVMVS1TRjJFeXR6T3U4am5xMWUtbE9LLTBKTklpSzlTQ0R2T05UUWFBSHl2ZFduN0VhcktpNVFOc1FUbmYxYlRHSkpfWGxKaHRMa2FVY2FhcEpYYk9TZnZCYTRjSTlFYmR4YzlUTDJPbWlmNl9FZ1RB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEdsZmVOdUI4VjZtNUdUNkFteTFabWhNeGpnQ0tqR0FBSC00bGNndGpXLUVGUjUxTllHZFpRME5JYk1FY3hMbHc5YU5ncWZ4Yk1SSjNGSUFyeEVMVS1TRjJFeXR6T3U4am5xMWUtbE9LLTBKTklpSzlTQ0R2T05UUWFBSHl2ZFduN0VhcktpNVFOc1FUbmYxYlRHSkpfWGxKaHRMa2FVY2FhcEpYYk9TZnZCYTRjSTlFYmR4YzlUTDJPbWlmNl9FZ1RB",
+  "snippet": "U.S. consumer confidence soars with elections in the rearview mirror and gas prices in decline CTV News",
+  "published": "2026-11-24T15:44:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T15:51:04.543767+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9ee4ba24d8",
   "slug": "driver-retention-drives-375-truck-volvo-order-9ee4ba24d8",
   "title": "Driver Retention Drives 375-Truck Volvo Order",
