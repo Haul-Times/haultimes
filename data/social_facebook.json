@@ -3922,7 +3922,7 @@
    "source": "Land Line Media",
    "dest": "https://haultimes.com/story/one-by-one-non-domiciled-cdl-holders-seek-exemption-2e343b6e1c/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=2e343b6e1c",
    "caption": "One by one, non-domiciled CDL holders seek exemption.\n\nReported by Land Line Media. The link has the details and the original article.\n\n#Trucking #TruckDrivers #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-24T04:12:01.374841+00:00",
    "published": "2026-11-23T19:26:49+00:00",
    "score": 75,
@@ -4937,7 +4937,7 @@
   "dcc5f006b3": "skipped|importance 45 is below this platform's threshold (65)",
   "f8a9ee82be": "skipped|importance 45 is below this platform's threshold (65)",
   "45b25d6ef5": "skipped|importance 45 is below this platform's threshold (65)",
-  "2e343b6e1c": "queued|importance 75 (threshold 65), Regulations, trade publication",
+  "2e343b6e1c": "expired|stale before a slot opened (published 12h ago)",
   "a2b6ef683e": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
@@ -10456,6 +10456,13 @@
    "title": "Trucker Path app launches free CB radio feature",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-24T07:31:35.599234+00:00",
+   "story_id": "2e343b6e1c",
+   "title": "One by one, non-domiciled CDL holders seek exemption",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {
