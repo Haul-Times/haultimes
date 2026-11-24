@@ -4946,7 +4946,9 @@
   "a0443343ed": "skipped|importance 55 is below this platform's threshold (65)",
   "6783264813": "skipped|importance 55 is below this platform's threshold (65)",
   "335f0fc202": "skipped|importance 55 is below this platform's threshold (65)",
-  "89f2ac98fb": "skipped|importance 51 is below this platform's threshold (65)"
+  "89f2ac98fb": "skipped|importance 51 is below this platform's threshold (65)",
+  "c80bf8c1dc": "skipped|importance 50 is below this platform's threshold (65)",
+  "57fd7abc12": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -10527,6 +10529,20 @@
    "title": "60pc of Northern Corridor truck drivers sick: Report",
    "action": "skipped",
    "reason": "importance 51 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T14:31:29.768750+00:00",
+   "story_id": "c80bf8c1dc",
+   "title": "How Physical AI Can Help Control What Truckers Burn",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T14:31:29.768750+00:00",
+   "story_id": "57fd7abc12",
+   "title": "Piston expands cardless fleet fueling network to 246 Refuel locations",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
