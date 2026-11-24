@@ -25,7 +25,36 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2
+  "sum_tries": 3
+ },
+ {
+  "id": "59c4b8f1d9",
+  "slug": "russian-forces-launch-90-drones-in-overnight-attack-against-ukraine-59c4b8f1d9",
+  "title": "Russian forces launch 90+ drones in overnight attack against Ukraine",
+  "orig_title": "Russian forces launch 90+ drones in overnight attack against Ukraine",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The New Voice of Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXRyLWtRYUotQTNIWVNjYU1ZRmplZXNXWHdlSlpKOTFCSTR4RWVaX3pXSWhFM3BaZHJieTVwTzNsZ0k4TG9YQVY5UWlqREt3Um5hQnB6Ym9mNGk4TVZYNnpYa21HSDk1VFhPOXlyZTJRamw0dkdIbzdzeTIxdHIyZDFQLTlSMHBXd1BNSnA5Zlp3Sk5OQVFjU1o4Vy1Vb242akHSAaIBQVVfeXFMTS10ci1rUWFKLUEzSFlTY2FNWUZqZWVzV1h3ZUpaSjkxQkk0eEVlWl96V0loRTNwWmRyYnk1cE8zbGdJOExvWEFWOVFpakRLd1JuYUJwemJvZjRpOE1WWDZ6WGttR0g5NVRYTzl5cmUyUWpsNHZHSG83c3kyMXRyMmQxUC05UjBwV3dQTUpwOWZad0pOTkFRY1NaOFctVW9uNmpB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXRyLWtRYUotQTNIWVNjYU1ZRmplZXNXWHdlSlpKOTFCSTR4RWVaX3pXSWhFM3BaZHJieTVwTzNsZ0k4TG9YQVY5UWlqREt3Um5hQnB6Ym9mNGk4TVZYNnpYa21HSDk1VFhPOXlyZTJRamw0dkdIbzdzeTIxdHIyZDFQLTlSMHBXd1BNSnA5Zlp3Sk5OQVFjU1o4Vy1Vb242akHSAaIBQVVfeXFMTS10ci1rUWFKLUEzSFlTY2FNWUZqZWVzV1h3ZUpaSjkxQkk0eEVlWl96V0loRTNwWmRyYnk1cE8zbGdJOExvWEFWOVFpakRLd1JuYUJwemJvZjRpOE1WWDZ6WGttR0g5NVRYTzl5cmUyUWpsNHZHSG83c3kyMXRyMmQxUC05UjBwV3dQTUpwOWZad0pOTkFRY1NaOFctVW9uNmpB",
+  "snippet": "Russian forces launch 90+ drones in overnight attack against Ukraine The New Voice of Ukraine",
+  "published": "2026-11-24T09:14:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-24T10:21:03.198477+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e550875079",
@@ -23777,35 +23806,6 @@
   "ai_relevant": false
  },
  {
-  "id": "16e16b31bd",
-  "slug": "strong-mayor-powers-spark-debate-as-london-council-selects-committee-c-16e16b31bd",
-  "title": "Strong mayor powers spark debate as London council selects committee chairs",
-  "orig_title": "Strong mayor powers spark debate as London council selects committee chairs",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDA1bVhaSVRXVUlESWl2dWc5Tm0tWTcyN0lLM2IyMG9FeHZyazRnQ0pEY3lDTHlWRVNPd25YX2V6M1ZQazNKUUlUZldfU3VURUhYT0lzY1FiMlBEMXBZSXBCVXJzellqYXZGb0Y0cURWd0o0bkxrMDZVQ0dqTEVlMFVGUTA4eVB2TWY2bjBHaVhidF9xcEc3RndSU1ZjR1FSdlhyMHV2R2plR2lROElkYTlWbG8?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDA1bVhaSVRXVUlESWl2dWc5Tm0tWTcyN0lLM2IyMG9FeHZyazRnQ0pEY3lDTHlWRVNPd25YX2V6M1ZQazNKUUlUZldfU3VURUhYT0lzY1FiMlBEMXBZSXBCVXJzellqYXZGb0Y0cURWd0o0bkxrMDZVQ0dqTEVlMFVGUTA4eVB2TWY2bjBHaVhidF9xcEc3RndSU1ZjR1FSdlhyMHV2R2plR2lROElkYTlWbG8",
-  "snippet": "Strong mayor powers spark debate as London council selects committee chairs CTV News",
-  "published": "2026-11-19T11:30:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T10:21:03.059408+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "f9c97c84a8",
   "slug": "health-care-professional-orders-urge-quebec-to-rethink-services-for-un-f9c97c84a8",
   "title": "Health care professional orders urge Quebec to rethink services for unhoused people",
@@ -28393,35 +28393,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "9435679b3b",
-  "slug": "london-police-seek-second-suspect-in-hotel-assault-investigation-9435679b3b",
-  "title": "London police seek second suspect in hotel assault investigation",
-  "orig_title": "London police seek second suspect in hotel assault investigation",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdllBeTE1c0g0OUREamJqYnE0Z2I5X1JNbEl5emp5enZEeTNQcjFoR3VTdl8wU0o2RmxsamQzY0dJamliLVZXZllNazJfUGdoNFZua1Rxa01OMEs4UUpDMk5mRW1jb3NlcVNURGd2WUx4OExQejE2ZVlUX1hJTUpEeHQtSllqMndPbzlzakx5a0h1YmItQU9jeDFxSGxOXzRhbHBTQlZB?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdllBeTE1c0g0OUREamJqYnE0Z2I5X1JNbEl5emp5enZEeTNQcjFoR3VTdl8wU0o2RmxsamQzY0dJamliLVZXZllNazJfUGdoNFZua1Rxa01OMEs4UUpDMk5mRW1jb3NlcVNURGd2WUx4OExQejE2ZVlUX1hJTUpEeHQtSllqMndPbzlzakx5a0h1YmItQU9jeDFxSGxOXzRhbHBTQlZB",
-  "snippet": "London police seek second suspect in hotel assault investigation CTV News",
-  "published": "2026-11-18T15:09:42+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-20T10:21:03.059408+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "29e9043a6b",
