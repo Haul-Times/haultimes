@@ -4942,7 +4942,8 @@
   "f52b94b9f7": "skipped|importance 61 is below this platform's threshold (65)",
   "d2796de249": "skipped|importance 56 is below this platform's threshold (65)",
   "c8f15cfef9": "skipped|importance 45 is below this platform's threshold (65)",
-  "f6f89a3054": "skipped|importance 50 is below this platform's threshold (65)"
+  "f6f89a3054": "skipped|importance 50 is below this platform's threshold (65)",
+  "a0443343ed": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10495,6 +10496,13 @@
    "title": "'Keep that car until you are on the first-name basis with the tow truck drivers.'",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T10:51:39.828055+00:00",
+   "story_id": "a0443343ed",
+   "title": "Commercial Driver's License: Nick Castello; Application for Exemption",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
