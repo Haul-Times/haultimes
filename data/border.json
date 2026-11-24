@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:31:04.363282+00:00",
+ "updated": "2026-11-24T10:41:06.383997+00:00",
  "hour_now": 5,
  "have_us": true,
  "have_ca": true,
@@ -29,7 +29,7 @@
      26,
      19,
      18,
-     13,
+     14,
      4,
      1,
      5,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 17,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 5:17 am EST",
+    "updated": "At 5:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -254,7 +254,7 @@
      2,
      2,
      4,
-     3,
+     4,
      10,
      7,
      14,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:17 am EST",
+    "updated": "At 5:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -404,7 +404,7 @@
      null,
      0,
      4,
-     4,
+     5,
      0,
      0,
      0,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "05:26:57",
+    "updated": "05:31:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 am EST",
+    "updated": "At 5:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "05:26:57",
+    "updated": "05:31:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:26:57",
+    "updated": "04:31:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:26:57",
+    "updated": "03:31:58",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1297,7 +1297,7 @@
      0,
      9,
      10,
-     12,
+     11,
      18,
      24,
      30,
