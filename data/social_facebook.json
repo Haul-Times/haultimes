@@ -4941,7 +4941,8 @@
   "a2b6ef683e": "skipped|minor item (announcement) or low-quality source",
   "f52b94b9f7": "skipped|importance 61 is below this platform's threshold (65)",
   "d2796de249": "skipped|importance 56 is below this platform's threshold (65)",
-  "c8f15cfef9": "skipped|importance 45 is below this platform's threshold (65)"
+  "c8f15cfef9": "skipped|importance 45 is below this platform's threshold (65)",
+  "f6f89a3054": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -10487,6 +10488,13 @@
    "title": "Truck Drivers Stage Protests Over Alleged Harassment",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-24T10:01:41.558015+00:00",
+   "story_id": "f6f89a3054",
+   "title": "'Keep that car until you are on the first-name basis with the tow truck drivers.'",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
