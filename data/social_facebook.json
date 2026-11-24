@@ -3941,6 +3941,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "28c418424e": {
+   "story_id": "28c418424e",
+   "title": "U.S. readies tariff hike on China, EU goods",
+   "url_key": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pejlGYVhNemFHSVFoVGpYRFJXRmozUjd0eU1YcmhhQUROOWY2VzNoZkg0SW45cGNXTGtLSlVwNlJtTVhOQV9oYjRYOWpqd1N4SUlBR1BucmhIbVJhb0JVLWdMd1dJRUg4QV83ZWVR",
+   "category": "border",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/u-s-readies-tariff-hike-on-china-eu-goods-28c418424e/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=28c418424e",
+   "caption": "U.S. readies tariff hike on China, EU goods.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder #Tariffs #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-24T14:51:20.386466+00:00",
+   "published": "2026-11-24T14:31:08+00:00",
+   "score": 72,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "U.S. readies tariff hike on China, EU goods | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/c02a9c2ef0.png",
+    "og:url": "https://haultimes.com/story/u-s-readies-tariff-hike-on-china-eu-goods-28c418424e/"
+   },
+   "reason": "importance 72 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -4952,7 +4980,8 @@
   "335f0fc202": "skipped|importance 55 is below this platform's threshold (65)",
   "89f2ac98fb": "skipped|importance 51 is below this platform's threshold (65)",
   "c80bf8c1dc": "skipped|importance 50 is below this platform's threshold (65)",
-  "57fd7abc12": "skipped|minor item (announcement) or low-quality source"
+  "57fd7abc12": "skipped|minor item (announcement) or low-quality source",
+  "28c418424e": "queued|importance 72 (threshold 65), Cross-Border, trade publication"
  },
  "decisions": [
   {
@@ -10547,6 +10576,13 @@
    "title": "Piston expands cardless fleet fueling network to 246 Refuel locations",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-24T14:51:20.386466+00:00",
+   "story_id": "28c418424e",
+   "title": "U.S. readies tariff hike on China, EU goods",
+   "action": "queued",
+   "reason": "importance 72 (threshold 65), Cross-Border, trade publication"
   }
  ],
  "visibility": {
