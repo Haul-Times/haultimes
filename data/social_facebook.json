@@ -5783,7 +5783,8 @@
   "8b7ec0862a": "skipped|importance 50 is below this platform's threshold (65)",
   "69595cd964": "skipped|importance 45 is below this platform's threshold (65)",
   "3efee35725": "skipped|importance 62 is below this platform's threshold (65)",
-  "d235de001c": "skipped|importance 45 is below this platform's threshold (65)"
+  "d235de001c": "skipped|importance 45 is below this platform's threshold (65)",
+  "69b81dfdf0": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12015,6 +12016,13 @@
    "title": "Tuesday Girls Basketball; Chiefs Power Past Truckers Behind Rebounds And Assists",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T19:11:26.846414+00:00",
+   "story_id": "69b81dfdf0",
+   "title": "New US certification system needed for ELDs to shrink growing shadow fleet",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
