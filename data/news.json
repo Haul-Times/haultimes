@@ -1,5 +1,34 @@
 [
  {
+  "id": "e1e1a64ad1",
+  "slug": "iran-s-regime-warns-of-internal-collapse-as-truckers-strike-spreads-an-e1e1a64ad1",
+  "title": "Iran’s Regime Warns of Internal Collapse as Truckers’ Strike Spreads and Rial Hits New Low",
+  "orig_title": "Iran’s Regime Warns of Internal Collapse as Truckers’ Strike Spreads and Rial Hits New Low",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "National Council of Resistance of Iran - NCRI",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlFPWENXYXp2ck92aERNQXFQN0lhTjFnN3d2ZFRhU24zTWVKWlI2ZWk1SnNrSGQ1R2dHakFBMkgwRXVNb3ppMFF3bTBMTlI2LURfN2llZ1RCN09haTEwUDFfcUtoS3pzZGUwVXNQZnBfc0tabTBpUVJ3LTNyOWlTdGR3cDJKSzljdU1NUEYwMHZ4ek16eVFKVklWYzBCRk4yQm5pOEhzejZuc1ptelpxU0Q3SU1jOHlfbVBtZ0lmY19ILTZ1cGk2R2lldEZSV292ZHc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlFPWENXYXp2ck92aERNQXFQN0lhTjFnN3d2ZFRhU24zTWVKWlI2ZWk1SnNrSGQ1R2dHakFBMkgwRXVNb3ppMFF3bTBMTlI2LURfN2llZ1RCN09haTEwUDFfcUtoS3pzZGUwVXNQZnBfc0tabTBpUVJ3LTNyOWlTdGR3cDJKSzljdU1NUEYwMHZ4ek16eVFKVklWYzBCRk4yQm5pOEhzejZuc1ptelpxU0Q3SU1jOHlfbVBtZ0lmY19ILTZ1cGk2R2lldEZSV292ZHc",
+  "snippet": "Iran’s Regime Warns of Internal Collapse as Truckers’ Strike Spreads and Rial Hits New Low National Council of Resistance of Iran - NCRI",
+  "published": "2026-11-25T19:26:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T19:31:16.732701+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6541cdac2b",
   "slug": "thrc-sets-2027-women-with-drive-summit-for-march-11-6541cdac2b",
   "title": "THRC sets 2027 Women with Drive summit for March 11",
@@ -140,7 +169,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.tchdailynews.com/tuesday-girls-basketball-chiefs-power-past-truckers-behind-rebounds-and-assists/",
   "source_note": "ok · 205 words"
@@ -4945,7 +4974,10 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": true,
+  "sum_tries": 1,
+  "pub_url": "https://thenigerianpost.com.ng/dangote-honours-five-top-performing-customers-truck-drivers-in-north-central/",
+  "source_note": "excerpt only · 54 words"
  },
  {
   "id": "979269424e",
