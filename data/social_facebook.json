@@ -5765,7 +5765,9 @@
   "968968526d": "skipped|importance 50 is below this platform's threshold (65)",
   "fd42d0f7eb": "skipped|minor item (news) or low-quality source",
   "97bd671e09": "skipped|importance 57 is below this platform's threshold (65)",
-  "5c78e75390": "posted|breaking"
+  "5c78e75390": "posted|breaking",
+  "8b7ec0862a": "skipped|importance 50 is below this platform's threshold (65)",
+  "69595cd964": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11962,6 +11964,20 @@
    "title": "Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike",
    "action": "posted",
    "reason": "breaking: importance 92, reported by a trade publication of record; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-25T18:01:27.621588+00:00",
+   "story_id": "8b7ec0862a",
+   "title": "Truckers’ NYC Congestion Pricing Appeal Arrives at Dubious Court",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T18:01:27.621588+00:00",
+   "story_id": "69595cd964",
+   "title": "After 93 years, Galva’s Bell Trucking passes the baton to new owner",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
