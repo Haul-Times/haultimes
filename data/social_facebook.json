@@ -5471,7 +5471,8 @@
   "c3200155fa": "skipped|minor item (incident) or low-quality source",
   "0432ac6450": "skipped|importance 55 is below this platform's threshold (65)",
   "d246bab939": "skipped|importance 45 is below this platform's threshold (65)",
-  "956555d6d9": "skipped|importance 57 is below this platform's threshold (65)"
+  "956555d6d9": "skipped|importance 57 is below this platform's threshold (65)",
+  "7f86818477": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11507,6 +11508,13 @@
    "title": "Diesel price declines picking up pace",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-25T11:11:54.068853+00:00",
+   "story_id": "7f86818477",
+   "title": "Surrey to audit how truck parking, retail cannabis permits awarded",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
