@@ -63,7 +63,7 @@
   "slug": "where-electric-trucks-can-charge-now-8ae0367a6a",
   "title": "Where Electric Trucks Can Charge Now",
   "orig_title": "Where Electric Trucks Can Charge Now",
-  "summary": "",
+  "summary": "Heavy Duty Trucking reported that electric trucks gained several new charging sites in 2026, with most of the growth in California. WattEV opened its eighth California depot at the Port of Oakland in November, following a June opening in Fresno. EV Realty opened a 76-port, 9-megawatt hub in San Bernardino in April, and Prologis added a 32-port hub in Vernon in June. Tesla expanded its network to Hodgkins, Illinois, and Mesquite, Texas, in November. Several projects target 2027. Zeem plans to open its Terminal Island depot at the Port of Long Beach in the first quarter, and Nevoya expects to start a Houston–Dallas operation with 63 Class 8 electric trucks in early 2027. The article also cites a NACFE long-haul model that found diesel remained the lowest-cost option through 2028.",
   "why": "",
   "category": "equip",
   "region": "US",
@@ -88,19 +88,72 @@
   "pub_url": "https://www.truckinginfo.com/articles/where-electric-trucks-can-charge-now",
   "source_note": "ok · 1563 words",
   "sum_done": true,
-  "sum_status": "withheld",
+  "sum_status": "published",
   "source_fp": "5350c68ea7c181bf",
   "source_scope": "full_article",
-  "sum_at": "2026-11-25T00:11:09.363862+00:00",
-  "sum_version": 2,
+  "sum_at": "2026-11-25T00:21:06.301784+00:00",
+  "sum_version": 3,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Much of the year’s progress was in California"
+   },
+   {
+    "sentence": "2",
+    "quote": "WattEV opened its eighth California charging depot in November"
+   },
+   {
+    "sentence": "3",
+    "quote": "Prologis opened a 32-port hub in Vernon in June"
+   },
+   {
+    "sentence": "4",
+    "quote": "Zeem is aiming for the first quarter"
+   },
+   {
+    "sentence": "5",
+    "quote": "63 Class 8 electric trucks planned for the operation"
+   },
+   {
+    "sentence": "6",
+    "quote": "diesel remained the lowest-cost option through 2028"
+   }
   ],
+  "sum_problems": [],
   "ai_category": "equip",
   "ai_importance": 55,
-  "sum_v3": true
+  "sum_v3": true,
+  "sum_v4": true
+ },
+ {
+  "id": "ed5bd20f4d",
+  "slug": "emcor-and-d-r-horton-have-been-highlighted-as-zacks-bull-and-bear-of-t-ed5bd20f4d",
+  "title": "EMCOR and D.R. Horton have been highlighted as Zacks Bull and Bear of the Day",
+  "orig_title": "EMCOR and D.R. Horton have been highlighted as Zacks Bull and Bear of the Day",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdDlMQlhzSmVONXZiMXFidFRkLVhOYlNGc1RsMGhRd0xYOXBtRVdDcXVpbkNLVk10LXpoal9xbmRaendXRy1FTTNRVW5OVkxnREYtZk9VUF9SOXJqQ0hsd0Mzc01wQXp5VU9KT2RMVTJjdGpwVnppU1BpcjhtMDhDczN2OUZzdnh5ZFJiM1VyMlJiYm1DUGRJckRCVDExTnN6Mm5tc2YzSDBYLUxhcHh3Nl9SbkJtQklRQ3AzclJWT29IOHNBSjFzUnRrSk92dE1EcDcybUlEZ0dzS2dneEpxcDIyVjRENWtKNGx0b19Ca3Q?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdDlMQlhzSmVONXZiMXFidFRkLVhOYlNGc1RsMGhRd0xYOXBtRVdDcXVpbkNLVk10LXpoal9xbmRaendXRy1FTTNRVW5OVkxnREYtZk9VUF9SOXJqQ0hsd0Mzc01wQXp5VU9KT2RMVTJjdGpwVnppU1BpcjhtMDhDczN2OUZzdnh5ZFJiM1VyMlJiYm1DUGRJckRCVDExTnN6Mm5tc2YzSDBYLUxhcHh3Nl9SbkJtQklRQ3AzclJWT29IOHNBSjFzUnRrSk92dE1EcDcybUlEZ0dzS2dneEpxcDIyVjRENWtKNGx0b19Ca3Q",
+  "snippet": "EMCOR and D.R. Horton have been highlighted as Zacks Bull and Bear of the Day The Globe and Mail",
+  "published": "2026-11-24T23:13:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T00:21:06.301784+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "a8533f7e47",
