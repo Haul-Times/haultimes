@@ -122,6 +122,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "a2c58075cc",
+  "slug": "ua-p-expo-features-logistics-technology-a2c58075cc",
+  "title": "UA&P expo features logistics technology",
+  "orig_title": "UA&P expo features logistics technology",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Manila Times",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2NMaGoxTDRka1BhUnAyZXM5MTc0cldMOVJ4c2JUZG5RdnE2NWtMd3pXcEliNTkzTFlTdjduQ3p5TEVPaGpmXzJlWWp0NG00Z0gzemczTmZGb1FnYVJVZTJEaHFvRzdtdXdPQUJ6M0xZYV9wN2F4ZnVwQXg3ZndhMlJERWk0d25YNEFOdDc2Z0ZDTFVvNXZBai1WRzV1TEU?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2NMaGoxTDRka1BhUnAyZXM5MTc0cldMOVJ4c2JUZG5RdnE2NWtMd3pXcEliNTkzTFlTdjduQ3p5TEVPaGpmXzJlWWp0NG00Z0gzemczTmZGb1FnYVJVZTJEaHFvRzdtdXdPQUJ6M0xZYV9wN2F4ZnVwQXg3ZndhMlJERWk0d25YNEFOdDc2Z0ZDTFVvNXZBai1WRzV1TEU",
+  "snippet": "UA&P expo features logistics technology The Manila Times",
+  "published": "2026-11-25T16:01:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T17:51:03.959639+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "97bd671e09",
   "slug": "truckers-still-adjusting-to-ongoing-diesel-price-shifts-97bd671e09",
   "title": "Truckers Still Adjusting To Ongoing Diesel Price Shifts",
