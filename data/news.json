@@ -4184,7 +4184,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://www.newsbreak.com/thetrucker-com-315850146/5024890538508-nhtsa-reports-recalls-for-over-8000-trucks",
   "source_note": "ok · 325 words"
