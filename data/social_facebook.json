@@ -5791,7 +5791,8 @@
   "45a5018525": "skipped|importance 50 is below this platform's threshold (65)",
   "5cf0d6bbad": "skipped|importance 55 is below this platform's threshold (65)",
   "1155ee97f6": "skipped|importance 55 is below this platform's threshold (65)",
-  "2835b01586": "skipped|importance 55 is below this platform's threshold (65)"
+  "2835b01586": "skipped|importance 55 is below this platform's threshold (65)",
+  "4d58617126": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12079,6 +12080,13 @@
    "title": "Used-truck pricing up in October with big jumps expected in 2027",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T22:21:28.869473+00:00",
+   "story_id": "4d58617126",
+   "title": "Broker Picks for LTL and FTL Shippers Who Want a Named Team",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

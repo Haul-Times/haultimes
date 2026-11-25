@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:11:04.076666+00:00",
+ "updated": "2026-11-25T22:21:06.342222+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -18,9 +18,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 20,
-    "status": "20 minutes",
-    "updated": "2026-11-25 15:57 EST"
+    "wait": 25,
+    "status": "25 minutes",
+    "updated": "2026-11-25 17:11 EST"
    },
    "usual": {
     "south": [
@@ -67,7 +67,7 @@
      10,
      14,
      16,
-     12,
+     13,
      17,
      26,
      27,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -292,7 +292,7 @@
      4,
      5,
      8,
-     7,
+     8,
      5,
      8,
      7,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:09:45",
+    "updated": "17:19:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 am CST",
+    "updated": "At 4:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1091,7 +1091,7 @@
      3,
      19,
      24,
-     30,
+     27,
      7,
      5,
      1,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 1:00 pm PST",
+    "updated": "At 2:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "14:09:45",
+    "updated": "14:19:46",
     "hours": "24 hrs/day"
    },
    "north": {
