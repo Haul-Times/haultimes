@@ -1,5 +1,99 @@
 [
  {
+  "id": "2f26b1ece2",
+  "slug": "american-watertek-owner-says-no-flammable-goods-were-in-warehouse-fire-2f26b1ece2",
+  "title": "American Watertek owner says no flammable goods were in warehouse fire",
+  "orig_title": "American Watertek owner says no flammable goods were in warehouse fire",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KUAM",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNkRvcGRZbU5SNW51SmJvNFpMZDFvS1AtZWJnT1VMNDNCMHRfVXlNakVISkd3RS05MFdPRUFKUlNYaTJzRVRBV09FWjBEZjF1QU1RVnpUdVhZQWRRUUQxcjhtYm5xRmMxODI3WjVUTjRLeEIxV3JSZlFiamZBNmFvbjlrcGNYLTNrT0otUEFkWndrUzFCR3RFTTJmVy1Ta1lqTE41OWtIa0tmZ0E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNkRvcGRZbU5SNW51SmJvNFpMZDFvS1AtZWJnT1VMNDNCMHRfVXlNakVISkd3RS05MFdPRUFKUlNYaTJzRVRBV09FWjBEZjF1QU1RVnpUdVhZQWRRUUQxcjhtYm5xRmMxODI3WjVUTjRLeEIxV3JSZlFiamZBNmFvbjlrcGNYLTNrT0otUEFkWndrUzFCR3RFTTJmVy1Ta1lqTE41OWtIa0tmZ0E",
+  "snippet": "American Watertek owner says no flammable goods were in warehouse fire KUAM",
+  "published": "2026-11-25T06:11:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T06:21:03.972558+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "6ccaaf0228",
+  "slug": "high-diesel-prices-squeeze-small-truckers-6ccaaf0228",
+  "title": "High diesel prices squeeze small truckers",
+  "orig_title": "High diesel prices squeeze small truckers",
+  "summary": "",
+  "why": "",
+  "category": "fuel",
+  "region": "US",
+  "importance": 57,
+  "source": "Jamaica Gleaner",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajNhajN5LUFkMXRlSXhLZGc3UG5RM3pxdlE4VGFjdkFrOVRLWG1BaksyZDhHRlFrWHRXWkdxRmVucDRDZXFLVHl4TmI3TnRWTi1RWWFkV294ZloxaE1KMlRsQXhkaWhfclNtYTJlc3lhaUlnQU1Sd0EzSFZVSDd0OG1Ib0czN3RVNkhHYVlCNmRQNlY1UncyT1FyMA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajNhajN5LUFkMXRlSXhLZGc3UG5RM3pxdlE4VGFjdkFrOVRLWG1BaksyZDhHRlFrWHRXWkdxRmVucDRDZXFLVHl4TmI3TnRWTi1RWWFkV294ZloxaE1KMlRsQXhkaWhfclNtYTJlc3lhaUlnQU1Sd0EzSFZVSDd0OG1Ib0czN3RVNkhHYVlCNmRQNlY1UncyT1FyMA",
+  "snippet": "High diesel prices squeeze small truckers Jamaica Gleaner",
+  "published": "2026-11-25T06:09:45+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T06:21:03.972558+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://jamaica-gleaner.com/article/business/20261125/high-diesel-prices-squeeze-small-truckers",
+  "source_note": "ok · 1124 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "be0ff334d3ccbfd0",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-25T06:21:03.972558+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Otto added a fuel surcharge to every job for the first time"
+   },
+   {
+    "sentence": "2",
+    "quote": "tied it to the government’s weekly Midwest diesel average"
+   },
+   {
+    "sentence": "3",
+    "quote": "On-highway diesel hit a record national average of US$6.53 a gallon"
+   },
+   {
+    "sentence": "4",
+    "quote": "it raised its 2027 forecast by 54 cents"
+   },
+   {
+    "sentence": "5",
+    "quote": "44 to 48 per cent higher in September"
+   }
+  ],
+  "sum_problems": [
+   "name 'Small US' is not in the source",
+   "copies a 12-word run from the source: 'for individual loads were 44 to 48 per cent higher in september,'"
+  ],
+  "ai_category": "fuel",
+  "ai_importance": 72
+ },
+ {
   "id": "4952e5d06e",
   "slug": "business-man-hand-change-wooden-cube-block-with-trust-and-truth-busine-4952e5d06e",
   "title": "Business man hand change wooden cube block with TRUST and TRUTH business word on table background. Trustworthy, faith, beliefs and honesty concept",
@@ -15269,35 +15363,6 @@
   "sum_pending": false
  },
  {
-  "id": "3f80b33917",
-  "slug": "rhoades-on-the-boards-3f80b33917",
-  "title": "Rhoades on the boards",
-  "orig_title": "Rhoades on the boards",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Journal-Patriot",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzE1UmcyaGZhckZaWXE3ODJJODJ4ajBSNVhCQUdFWTRrUEhObDNheFFYaW9FTDFlU0hXZ0pKZ1hXQWttR1ZrRno5TTNoc2FqM0wwYmpTaFpRMnp6a0NsLWdqdXZCaXN6Z09SbzBudDB2aXN5RjRNYjFEZXNhQkl0R1cxS3NzTjhsZjB4Nm9DV2NqZjlwM1hxUHVIdEROMjdaWXc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzE1UmcyaGZhckZaWXE3ODJJODJ4ajBSNVhCQUdFWTRrUEhObDNheFFYaW9FTDFlU0hXZ0pKZ1hXQWttR1ZrRno5TTNoc2FqM0wwYmpTaFpRMnp6a0NsLWdqdXZCaXN6Z09SbzBudDB2aXN5RjRNYjFEZXNhQkl0R1cxS3NzTjhsZjB4Nm9DV2NqZjlwM1hxUHVIdEROMjdaWXc",
-  "snippet": "Rhoades on the boards Journal-Patriot",
-  "published": "2026-11-20T19:04:14+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T06:21:02.913333+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "f64af0b06a",
   "slug": "a-former-kahnawake-grand-chief-made-the-list-of-time-magazine-climate-f64af0b06a",
   "title": "A former Kahnawake grand chief made the list of TIME Magazine climate leaders",
@@ -19921,50 +19986,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "c51ae39bc0",
-  "slug": "bailey-bridge-over-bhakra-canal-collapses-in-punjab-2-trucks-trapped-n-c51ae39bc0",
-  "title": "Bailey Bridge Over Bhakra Canal Collapses In Punjab, 2 Trucks Trapped; No Casualties Reported",
-  "orig_title": "Bailey Bridge Over Bhakra Canal Collapses In Punjab, 2 Trucks Trapped; No Casualties Reported",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "Other",
-  "importance": 51,
-  "source": "Curly Tales",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFdZWDRLX3BsUlV6T2JvaE5GWkVTR3U0czJkQnZtOEMxYS00TjNnUVE5MThrMUVNRUhHcmoxeXlBc05iMG1rV1FqWHBRUXZJQm9DSTlSX1N5TnZJMEpqMzU5cEVQa2JGLU9Sdmhrem8tYTRKRmxuUEVDaVZncHlHSmIyV19IZDlJeHlFZHdQV2duMWdBWGxKamJXbmJ1N3BOakFCZ0RKUkJNWkliTGN2WnZVQ3ZmVFFkM2xaOFBUWC1kenZaYnJr0gHMAUFVX3lxTE54X3N5eWV1QlFCRk81bndpeDVEdW1sbnBNM2UzdlZJT0tSVGl2bHZsMVZ6NF9oMUladzQ1SzRUR2tUa1ZZekhTWWhLWExOeFVwa1Zxajg3M3ZFTEo5Q3RWbFVodGZyM2w1U2dDUHNCcGUtNnYzNUR0ejN2eU5vdGpHYlRPT250NDJNOEh1VDNsU3E1RXlKQnlTbkhRWXpTRmxIOGtBd2RPV05VdDhkd1JHOG9qNnkzbk9pWlQtbldKRkRaMEUzRjlMQ00zMA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFdZWDRLX3BsUlV6T2JvaE5GWkVTR3U0czJkQnZtOEMxYS00TjNnUVE5MThrMUVNRUhHcmoxeXlBc05iMG1rV1FqWHBRUXZJQm9DSTlSX1N5TnZJMEpqMzU5cEVQa2JGLU9Sdmhrem8tYTRKRmxuUEVDaVZncHlHSmIyV19IZDlJeHlFZHdQV2duMWdBWGxKamJXbmJ1N3BOakFCZ0RKUkJNWkliTGN2WnZVQ3ZmVFFkM2xaOFBUWC1kenZaYnJr0gHMAUFVX3lxTE54X3N5eWV1QlFCRk81bndpeDVEdW1sbnBNM2UzdlZJT0tSVGl2bHZsMVZ6NF9oMUladzQ1SzRUR2tUa1ZZekhTWWhLWExOeFVwa1Zxajg3M3ZFTEo5Q3RWbFVodGZyM2w1U2dDUHNCcGUtNnYzNUR0ejN2eU5vdGpHYlRPT250NDJNOEh1VDNsU3E1RXlKQnlTbkhRWXpTRmxIOGtBd2RPV05VdDhkd1JHOG9qNnkzbk9pWlQtbldKRkRaMEUzRjlMQ00zMA",
-  "snippet": "Bailey Bridge Over Bhakra Canal Collapses In Punjab, 2 Trucks Trapped; No Casualties Reported Curly Tales",
-  "published": "2026-11-19T09:58:26+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T06:21:02.913333+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://curlytales.com/india/trending/bailey-bridge-over-bhakra-canal-collapses-in-punjab-trucks-trapped-no-casualties-reported/",
-  "source_note": "ok · 360 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "61d4848ba15d4349",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-21T06:21:02.913333+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [],
-  "ai_category": "other",
-  "ai_importance": 5,
-  "ai_relevant": false
  },
  {
   "id": "c58524de0e",

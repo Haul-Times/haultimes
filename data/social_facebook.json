@@ -5466,7 +5466,8 @@
   "4fa34f3502": "skipped|importance 50 is below this platform's threshold (65)",
   "938bce4458": "expired|stale before a slot opened (published 12h ago)",
   "0366727d9b": "skipped|minor item (crime) or low-quality source",
-  "ac6e13a91f": "skipped|importance 45 is below this platform's threshold (65)"
+  "ac6e13a91f": "skipped|importance 45 is below this platform's threshold (65)",
+  "6ccaaf0228": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11460,6 +11461,13 @@
    "title": "US truck tonnage slips 1.8% in October",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-25T06:21:43.420188+00:00",
+   "story_id": "6ccaaf0228",
+   "title": "High diesel prices squeeze small truckers",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
