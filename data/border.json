@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:11:09.762992+00:00",
+ "updated": "2026-11-25T12:21:05.745017+00:00",
  "hour_now": 7,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:57 am EST",
+    "updated": "At 7:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 6:57 am EST",
+    "updated": "At 7:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -406,7 +406,7 @@
      10,
      9,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "07:03:50",
+    "updated": "07:13:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "07:03:50",
+    "updated": "07:13:51",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,11 +1060,11 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "06:03:50",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 6:00 am CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1081,7 +1081,7 @@
      0,
      0,
      0,
-     8,
+     7,
      15,
      15,
      6,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "04:03:50",
+    "updated": "04:13:51",
     "hours": "24 hrs/day"
    },
    "north": {
