@@ -4378,6 +4378,34 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "ad714947cb": {
+   "story_id": "ad714947cb",
+   "title": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing",
+   "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVhEc191cjl3djljUnJzN1Q1V2MwVmk0WTlaZE5Od0tBbGRaMHFDTG5yMTY4TWtIbThKLTdWMHNsYlNMY2ZEWVJ0QV91R0I2YnFWQ2xIODNIT1RLZTVtdWFleHZaSVNCeGIwT0ZmSkxwYkxaOFJUMzltZUs5RHZFVW5kZFFiMWlSUDVUbE9rZUZxdmx5LXBFbk05aGtkWGVtcWJxNVJ4XzJmZ2xUazhKYg",
+   "category": "drivers",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/pre-holiday-layoffs-hit-over-7-600-workers-in-trucking-logistics-manuf-ad714947cb/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ad714947cb",
+   "caption": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckDrivers #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-25T13:11:28.367000+00:00",
+   "published": "2026-11-25T13:00:00+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/a3065094df.png",
+    "og:url": "https://haultimes.com/story/pre-holiday-layoffs-hit-over-7-600-workers-in-trucking-logistics-manuf-ad714947cb/"
+   },
+   "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5474,7 +5502,9 @@
   "956555d6d9": "skipped|importance 57 is below this platform's threshold (65)",
   "7f86818477": "skipped|importance 50 is below this platform's threshold (65)",
   "871bb19014": "skipped|importance 62 is below this platform's threshold (65)",
-  "4d31ed5a4a": "skipped|importance 61 is below this platform's threshold (65)"
+  "4d31ed5a4a": "skipped|importance 61 is below this platform's threshold (65)",
+  "ad714947cb": "queued|importance 67 (threshold 65), Drivers & Jobs, trade publication",
+  "9ad6207e16": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
   {
@@ -11531,6 +11561,20 @@
    "title": "HTEC receives $7.78 million to deploy 25 hydrogen trucks in B.C.",
    "action": "skipped",
    "reason": "importance 61 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T13:11:28.367000+00:00",
+   "story_id": "ad714947cb",
+   "title": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication"
+  },
+  {
+   "at": "2026-11-25T13:11:28.367000+00:00",
+   "story_id": "9ad6207e16",
+   "title": "Milton Collier CEO of Freight Broker 911 Introduces the \"Broker Employment Partner\" Opportunity",
+   "action": "skipped",
+   "reason": "minor item (announcement) or low-quality source"
   }
  ],
  "visibility": {
