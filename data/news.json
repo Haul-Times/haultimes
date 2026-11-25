@@ -111,6 +111,35 @@
   "sum_pending": false
  },
  {
+  "id": "1c15f7c0e1",
+  "slug": "family-business-summit-1c15f7c0e1",
+  "title": "Family Business Summit",
+  "orig_title": "Family Business Summit",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHUWktZG5MTFU2SDNWMmdOY2F5UWJmUkd5ZUNybHNSTWNmUGRpWnVwZ1F6VU1HTm5QQjEwLWR1bEprdUF4cEF0c1hndy1UQ2dkTVpIczZTMl96dDUtNXhLd3JLRnFLZGRJ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHUWktZG5MTFU2SDNWMmdOY2F5UWJmUkd5ZUNybHNSTWNmUGRpWnVwZ1F6VU1HTm5QQjEwLWR1bEprdUF4cEF0c1hndy1UQ2dkTVpIczZTMl96dDUtNXhLd3JLRnFLZGRJ",
+  "snippet": "Family Business Summit FreightWaves",
+  "published": "2026-11-25T02:14:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T04:11:18.036642+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "dbeb18931e",
   "slug": "john-william-skip-douglas-jr-dbeb18931e",
   "title": "John William “Skip” Douglas Jr.",
@@ -755,6 +784,35 @@
   "sum_tries": 3,
   "pub_url": "https://mexicobusiness.news/logistics/news/us-visa-revocations-pressure-mexicos-cross-border-trucking",
   "source_note": "ok · 639 words"
+ },
+ {
+  "id": "bfcff810b4",
+  "slug": "man-pleads-guilty-to-assaulting-man-with-machete-strangling-woman-with-bfcff810b4",
+  "title": "Man pleads guilty to assaulting man with machete, strangling woman with extension cord",
+  "orig_title": "Man pleads guilty to assaulting man with machete, strangling woman with extension cord",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "WHP Harrisburg",
+  "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxORUVfZ1RUaDZLQzhLVEpwRkg2NUl3dWtfLUFZbUlld2xMNFFsWUtfT3VxWXg4UWl1ZFFCM0VfclYwVDBzaVNhTVN2WUZvRGxOLUdBMzNHekdYTmU5Z1hVVF9PbmNibXpjNmpvNGlXUjV1VTFLeFY1SzlYdUFtV0lLcnBTX0Nnc1pqdGtubkRVMXN5a1ZYUzZMN3pkR3VLZWc3blVZVWtPbnFBODAzTjVybUg3QjRYOHAxd0JrMlRIcXJqc0xOcndBUFFuNWFQSWlDRFYwYkFjWF9rWjVaNkpPaFhDUk5ZaVBLSUtkc0FhWS0yRlpoaXltTXF3Umw2UDFYMk9uak83UGxaMXluY3QxZ2FxUkJxMUFVSmdWbE4zMXJvU05TbXljVVFwb3g4VjhqeWRDVWRVa1VrV1A4X2F5cQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxORUVfZ1RUaDZLQzhLVEpwRkg2NUl3dWtfLUFZbUlld2xMNFFsWUtfT3VxWXg4UWl1ZFFCM0VfclYwVDBzaVNhTVN2WUZvRGxOLUdBMzNHekdYTmU5Z1hVVF9PbmNibXpjNmpvNGlXUjV1VTFLeFY1SzlYdUFtV0lLcnBTX0Nnc1pqdGtubkRVMXN5a1ZYUzZMN3pkR3VLZWc3blVZVWtPbnFBODAzTjVybUg3QjRYOHAxd0JrMlRIcXJqc0xOcndBUFFuNWFQSWlDRFYwYkFjWF9rWjVaNkpPaFhDUk5ZaVBLSUtkc0FhWS0yRlpoaXltTXF3Umw2UDFYMk9uak83UGxaMXluY3QxZ2FxUkJxMUFVSmdWbE4zMXJvU05TbXljVVFwb3g4VjhqeWRDVWRVa1VrV1A4X2F5cQ",
+  "snippet": "Man pleads guilty to assaulting man with machete, strangling woman with extension cord WHP Harrisburg",
+  "published": "2026-11-24T22:02:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T04:11:18.036642+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "1c8f335dde",
@@ -22452,35 +22510,6 @@
   "source_note": "paywalled: excerpt only · 23 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "a55471e894",
-  "slug": "voyager-1-the-farthest-human-made-object-is-now-one-light-day-from-ear-a55471e894",
-  "title": "Voyager 1, the farthest human-made object, is now one light-day from Earth",
-  "orig_title": "Voyager 1, the farthest human-made object, is now one light-day from Earth",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkJLOVZGQUwyVWlZZ2FtLThERjRsT1dMdWg2aDBIMko3V1Q2WHpDRDQzU2dZNE15NmlVY3BwWGhaald3TnJhZWxBcVdYcXZJdHVIcHNKVGwzSXJfb0hVTlRhS2xYZXA0N1JnRzZSUWhEYjdvRlZXOGg3QS1STl9OQ0RyMXVUX2ZZbnVoQnI3MUNMYjBCcXJTeTNsUW5YdDlKcXpJZGduc1Zva25VaTF1SXpNNA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkJLOVZGQUwyVWlZZ2FtLThERjRsT1dMdWg2aDBIMko3V1Q2WHpDRDQzU2dZNE15NmlVY3BwWGhaald3TnJhZWxBcVdYcXZJdHVIcHNKVGwzSXJfb0hVTlRhS2xYZXA0N1JnRzZSUWhEYjdvRlZXOGg3QS1STl9OQ0RyMXVUX2ZZbnVoQnI3MUNMYjBCcXJTeTNsUW5YdDlKcXpJZGduc1Zva25VaTF1SXpNNA",
-  "snippet": "Voyager 1, the farthest human-made object, is now one light-day from Earth CTV News",
-  "published": "2026-11-18T14:25:09+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T04:11:08.429698+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "9d10911ef3",
