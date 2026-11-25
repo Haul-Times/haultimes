@@ -4331,7 +4331,7 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/diesel-price-declines-picking-up-pace-1c8f335dde/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=1c8f335dde",
    "caption": "Diesel price declines picking up pace.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Diesel #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-24T22:01:19.209940+00:00",
    "published": "2026-11-24T21:49:41+00:00",
    "score": 67,
@@ -5455,7 +5455,7 @@
   "fb05f474c5": "posted|importance 73 (threshold 65), Equipment, trade publication; waited 61 min in queue",
   "3add49d499": "skipped|importance 55 is below this platform's threshold (65)",
   "b00cab0323": "skipped|importance 60 is below this platform's threshold (65)",
-  "1c8f335dde": "queued|importance 67 (threshold 65), Fuel, trade publication",
+  "1c8f335dde": "expired|stale before a slot opened (published 12h ago)",
   "033ad2067e": "skipped|importance 55 is below this platform's threshold (65)",
   "0b3d668851": "skipped|importance 50 is below this platform's threshold (65)",
   "d5d24517d6": "skipped|importance 62 is below this platform's threshold (65)",
@@ -11500,6 +11500,13 @@
    "title": "Gas and diesel prices fall ahead of Thanksgiving, offering relief to truckers and travelers",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T09:51:31.790018+00:00",
+   "story_id": "1c8f335dde",
+   "title": "Diesel price declines picking up pace",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
   }
  ],
  "visibility": {

@@ -25,7 +25,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.wtxl.com/news/local-news/in-your-neighborhood/gadsden-county/gas-and-diesel-prices-fall-ahead-of-thanksgiving-offering-relief-to-truckers-and-travelers",
   "source_note": "ok · 470 words"
  },
@@ -16630,35 +16630,6 @@
   "source_note": "paywalled: excerpt only · 19 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "52420b4528",
-  "slug": "giz-and-partners-launch-initiative-to-close-skills-gap-create-jobs-inc-52420b4528",
-  "title": "GIZ and partners launch initiative to close skills gap, create jobs, increase women’s participation in Ghana’s mining transport industry",
-  "orig_title": "GIZ and partners launch initiative to close skills gap, create jobs, increase women’s participation in Ghana’s mining transport industry",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "3News",
-  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVWV5ZFBiMU5xVXBhQ21leF90SEtCRURYNURhSHhfSm9OTFg4b0dLS3lvWlhCZkpJNF9NLWZZMDJ4R1RUa1F4X051WE9jYy1Vc3lZeHpVVEk3NXF4WGhlbURTaW5oWW5qSE9wQW9YWVlEakM5bjJHMFNaNDhLMm1pSWtSdWZ5SHRhTzJSeTVxQTFLUm53ZGFJcml1WGswS01VVjczeGFDcEp6YU96TkRQbkJ6SG5fTFV1Tl9FWm9lR0F1SXRvQmcwTUNSUllQeVJmdlBRRk4tTHpSSGk2a1N2UkRhX1hPZDAtVGIw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVWV5ZFBiMU5xVXBhQ21leF90SEtCRURYNURhSHhfSm9OTFg4b0dLS3lvWlhCZkpJNF9NLWZZMDJ4R1RUa1F4X051WE9jYy1Vc3lZeHpVVEk3NXF4WGhlbURTaW5oWW5qSE9wQW9YWVlEakM5bjJHMFNaNDhLMm1pSWtSdWZ5SHRhTzJSeTVxQTFLUm53ZGFJcml1WGswS01VVjczeGFDcEp6YU96TkRQbkJ6SG5fTFV1Tl9FWm9lR0F1SXRvQmcwTUNSUllQeVJmdlBRRk4tTHpSSGk2a1N2UkRhX1hPZDAtVGIw",
-  "snippet": "GIZ and partners launch initiative to close skills gap, create jobs, increase women’s participation in Ghana’s mining transport industry 3News",
-  "published": "2026-11-20T15:30:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T09:51:07.514814+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "bcf2256ac9",
