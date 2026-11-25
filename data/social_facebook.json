@@ -5789,7 +5789,8 @@
   "256a6c4ec7": "skipped|importance 55 is below this platform's threshold (65)",
   "18cf5abff4": "skipped|importance 55 is below this platform's threshold (65)",
   "45a5018525": "skipped|importance 50 is below this platform's threshold (65)",
-  "5cf0d6bbad": "skipped|importance 55 is below this platform's threshold (65)"
+  "5cf0d6bbad": "skipped|importance 55 is below this platform's threshold (65)",
+  "1155ee97f6": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12061,6 +12062,13 @@
    "at": "2026-11-25T20:21:32.716912+00:00",
    "story_id": "5cf0d6bbad",
    "title": "Bosch Truck Group to close Kelowna dealership, partners with Tridem",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T20:31:34.020971+00:00",
+   "story_id": "1155ee97f6",
+   "title": "5 Auto Transport Metrics to Track for Better Lane Profitability",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
   }
