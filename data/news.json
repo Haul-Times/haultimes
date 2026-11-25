@@ -719,6 +719,35 @@
   "sum_pending": false
  },
  {
+  "id": "76357ba7bf",
+  "slug": "ontario-changed-out-of-country-health-care-rules-in-bad-faith-patients-76357ba7bf",
+  "title": "Ontario changed out-of-country health care rules in bad faith, patients’ lawyers say",
+  "orig_title": "Ontario changed out-of-country health care rules in bad faith, patients’ lawyers say",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkVEWks0bGxXalhkZVREdGVTZ2FXdVA3SDNJWmVpbXI4NVBURnlaU2dUT2ZOcjVSX2FBM2M5R0hYWGRuQVp5NnBQQmhZSWpRdTZDT1JFbFZVSmhjSXBOOTA3UXpYTXpBNTJjTVRCRzBKbmh4VTFEQWQ0ODVDM3VZa3lKdzVGd1I5blBWYmJESnJyVlpsMG5wbWhtZE1ROG9pcjRfbkhqcWhHajdCSHc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkVEWks0bGxXalhkZVREdGVTZ2FXdVA3SDNJWmVpbXI4NVBURnlaU2dUT2ZOcjVSX2FBM2M5R0hYWGRuQVp5NnBQQmhZSWpRdTZDT1JFbFZVSmhjSXBOOTA3UXpYTXpBNTJjTVRCRzBKbmh4VTFEQWQ0ODVDM3VZa3lKdzVGd1I5blBWYmJESnJyVlpsMG5wbWhtZE1ROG9pcjRfbkhqcWhHajdCSHc",
+  "snippet": "Ontario changed out-of-country health care rules in bad faith, patients’ lawyers say The Globe and Mail",
+  "published": "2026-11-25T00:16:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T07:41:11.840458+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "716e476b28",
   "slug": "paybyphone-charging-users-for-sms-reminders-716e476b28",
   "title": "PayByPhone charging users for SMS reminders",
@@ -4156,7 +4185,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://www.newsbreak.com/thetrucker-com-315850146/5024890538508-nhtsa-reports-recalls-for-over-8000-trucks",
   "source_note": "ok · 325 words"
  },
