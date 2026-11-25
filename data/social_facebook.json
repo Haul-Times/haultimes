@@ -4095,7 +4095,7 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/harbinger-to-ramp-up-truck-production-expand-manufacturing-capacity-834f2e1f07/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=834f2e1f07",
    "caption": "Harbinger to ramp up truck production, expand manufacturing capacity.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #FreightMarket #HaulTimes",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-24T18:01:42.474581+00:00",
    "published": "2026-11-24T17:57:58+00:00",
    "score": 67,
@@ -4123,7 +4123,7 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/us-truck-tonnage-slips-1-8-in-october-923bddca0b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=923bddca0b",
    "caption": "US truck tonnage slips 1.8% in October.\n\nReported by Truck News. The link has the details and the original article.\n\n#Trucking #FreightMarket #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "expired",
    "created_at": "2026-11-24T18:01:42.474581+00:00",
    "published": "2026-11-24T17:52:08+00:00",
    "score": 66,
@@ -5433,8 +5433,8 @@
   "70ef424ae5": "skipped|importance 62 is below this platform's threshold (65)",
   "e14ab2ad14": "skipped|importance 45 is below this platform's threshold (65)",
   "c5c2fbf307": "posted|importance 82 (threshold 65), Fuel, local/other outlet; waited 70 min in queue",
-  "834f2e1f07": "queued|importance 67 (threshold 65), Equipment, trade publication",
-  "923bddca0b": "queued|importance 66 (threshold 65), Industry, trade publication",
+  "834f2e1f07": "expired|stale before a slot opened (published 12h ago)",
+  "923bddca0b": "expired|stale before a slot opened (published 12h ago)",
   "cc9a9379c0": "skipped|importance 45 is below this platform's threshold (65)",
   "a5be8b825e": "posted|breaking",
   "7ee0c01dac": "expired|stale before a slot opened (published 12h ago)",
@@ -11444,6 +11444,20 @@
    "at": "2026-11-25T05:51:24.692683+00:00",
    "story_id": "938bce4458",
    "title": "GRAND THEFT FREIGHT: THE TRUCKERS STRIKE BACK! | BRAKE CHECK - YouTube",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-25T06:01:29.959935+00:00",
+   "story_id": "834f2e1f07",
+   "title": "Harbinger to ramp up truck production, expand manufacturing capacity",
+   "action": "expired",
+   "reason": "stale before a slot opened (published 12h ago)"
+  },
+  {
+   "at": "2026-11-25T06:01:29.959935+00:00",
+   "story_id": "923bddca0b",
+   "title": "US truck tonnage slips 1.8% in October",
    "action": "expired",
    "reason": "stale before a slot opened (published 12h ago)"
   }

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T05:51:04.100828+00:00",
- "hour_now": 0,
+ "updated": "2026-11-25T06:01:13.343661+00:00",
+ "hour_now": 1,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -25,7 +25,7 @@
    "usual": {
     "south": [
      10,
-     6,
+     7,
      7,
      13,
      24,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:42:46",
+    "updated": "00:52:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -160,11 +160,11 @@
    "ports": "Sault Ste. Marie, MI ↔ Sault Ste. Marie, ON",
    "region": "on-mi",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:42:46",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 0:37 am EST",
+    "updated": "At 0:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -250,7 +250,7 @@
    "usual": {
     "south": [
      2,
-     7,
+     6,
      0,
      4,
      3,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 0:37 am EST",
+    "updated": "At 0:47 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:42:45",
+    "updated": "00:52:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:42:46",
+    "updated": "00:52:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "00:42:46",
+    "updated": "00:52:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:42:46",
+    "updated": "00:52:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:42:46",
+    "updated": "00:52:46",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "00:42:46",
+    "updated": "00:52:46",
     "hours": "24 hrs/day"
    },
    "north": {
