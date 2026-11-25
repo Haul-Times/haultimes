@@ -5782,7 +5782,8 @@
   "5c78e75390": "posted|breaking",
   "8b7ec0862a": "skipped|importance 50 is below this platform's threshold (65)",
   "69595cd964": "skipped|importance 45 is below this platform's threshold (65)",
-  "3efee35725": "skipped|importance 62 is below this platform's threshold (65)"
+  "3efee35725": "skipped|importance 62 is below this platform's threshold (65)",
+  "d235de001c": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12007,6 +12008,13 @@
    "title": "Freight Market reminder",
    "action": "posted",
    "reason": "HaulTimes update: promo; waited 177 min in queue"
+  },
+  {
+   "at": "2026-11-25T19:01:26.853004+00:00",
+   "story_id": "d235de001c",
+   "title": "Tuesday Girls Basketball; Chiefs Power Past Truckers Behind Rebounds And Assists",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
