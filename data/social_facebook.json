@@ -4387,14 +4387,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/pre-holiday-layoffs-hit-over-7-600-workers-in-trucking-logistics-manuf-ad714947cb/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ad714947cb",
    "caption": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckDrivers #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-25T13:11:28.367000+00:00",
    "published": "2026-11-25T13:00:00+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122112265881544428",
+   "posted_at": "2026-11-25T13:31:43.444625+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing | HaulTimes",
@@ -4405,7 +4405,9 @@
    "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-25T13:31:43.444625+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122112265881544428"
   }
  },
  "paused": null,
@@ -4766,6 +4768,10 @@
   {
    "at": "2026-11-24T21:43:46.282596+00:00",
    "msg": "posted fb05f474c5"
+  },
+  {
+   "at": "2026-11-25T13:31:43.444625+00:00",
+   "msg": "posted ad714947cb"
   }
  ],
  "decided": {
@@ -5503,7 +5509,7 @@
   "7f86818477": "skipped|importance 50 is below this platform's threshold (65)",
   "871bb19014": "skipped|importance 62 is below this platform's threshold (65)",
   "4d31ed5a4a": "skipped|importance 61 is below this platform's threshold (65)",
-  "ad714947cb": "queued|importance 67 (threshold 65), Drivers & Jobs, trade publication",
+  "ad714947cb": "posted|importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 20 min in queue",
   "9ad6207e16": "skipped|minor item (announcement) or low-quality source"
  },
  "decisions": [
@@ -11575,6 +11581,13 @@
    "title": "Milton Collier CEO of Freight Broker 911 Introduces the \"Broker Employment Partner\" Opportunity",
    "action": "skipped",
    "reason": "minor item (announcement) or low-quality source"
+  },
+  {
+   "at": "2026-11-25T13:31:43.444625+00:00",
+   "story_id": "ad714947cb",
+   "title": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 20 min in queue"
   }
  ],
  "visibility": {
