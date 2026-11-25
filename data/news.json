@@ -1544,6 +1544,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "28aaac61ca",
+  "slug": "truck-drivers-strike-in-iran-spreads-to-15-cities-on-third-day-28aaac61ca",
+  "title": "Truck Drivers' Strike in Iran Spreads to 15 Cities on Third Day",
+  "orig_title": "Truck Drivers' Strike in Iran Spreads to 15 Cities on Third Day",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Iran Focus",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekFudzVrX0xUMzFXNVU2YjR3ZkM0S2c0TGt6TVpMSC16bTFfWXM5QXkzNndzRDVSTTRJaUZXZDB3ZEk1VUw3eHRNMFdKSWx4SVlBUzVTaXVDNndnVUFpZ0NZZEdmNkFNUTF6Tmg1MFlmTW9welY1Z3FLLTNVbU5BT20xLW1hU0tac1k1TS12WkxOcEJuUGU5bkxzc2c0UnJxdnfSAacBQVVfeXFMT0VDbk1KX1JSdnpJa1dGZ0VEVnRDcU9vcUhtbE15TFFmMlpfM0phZ1J0R014MTRQSkZLekNvNlhNWDBoQVdKMDJDZ0F0SWhKNThzYkFxNC1kZ3ltNmVFZjA5d0VySjdhYjUxYzREcktiWDlRR1NtcG1UR2FRbU5jRWx4UElyMTAyUnVCZzNUUUxJbm1sVy1mY2xPbEpHaVhqbFpfdm52SGM?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekFudzVrX0xUMzFXNVU2YjR3ZkM0S2c0TGt6TVpMSC16bTFfWXM5QXkzNndzRDVSTTRJaUZXZDB3ZEk1VUw3eHRNMFdKSWx4SVlBUzVTaXVDNndnVUFpZ0NZZEdmNkFNUTF6Tmg1MFlmTW9welY1Z3FLLTNVbU5BT20xLW1hU0tac1k1TS12WkxOcEJuUGU5bkxzc2c0UnJxdnfSAacBQVVfeXFMT0VDbk1KX1JSdnpJa1dGZ0VEVnRDcU9vcUhtbE15TFFmMlpfM0phZ1J0R014MTRQSkZLekNvNlhNWDBoQVdKMDJDZ0F0SWhKNThzYkFxNC1kZ3ltNmVFZjA5d0VySjdhYjUxYzREcktiWDlRR1NtcG1UR2FRbU5jRWx4UElyMTAyUnVCZzNUUUxJbm1sVy1mY2xPbEpHaVhqbFpfdm52SGM",
+  "snippet": "Truck Drivers' Strike in Iran Spreads to 15 Cities on Third Day Iran Focus",
+  "published": "2026-11-24T20:05:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T08:41:03.470978+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9399a9955b",
   "slug": "rico-lawsuit-are-major-freight-brokers-manipulating-the-market-9399a9955b",
   "title": "RICO Lawsuit: Are Major Freight Brokers Manipulating the Market?",

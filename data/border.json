@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:31:12.573241+00:00",
+ "updated": "2026-11-25T08:41:03.360189+00:00",
  "hour_now": 3,
  "have_us": true,
  "have_ca": true,
@@ -27,7 +27,7 @@
      10,
      9,
      5,
-     10,
+     9,
      24,
      23,
      8,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:28:05",
+    "updated": "03:38:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:17 am EST",
+    "updated": "At 3:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -252,7 +252,7 @@
      2,
      4,
      0,
-     3,
+     2,
      3,
      1,
      3,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:17 am EST",
+    "updated": "At 3:27 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:28:05",
+    "updated": "03:38:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "03:28:04",
+    "updated": "03:38:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "03:28:04",
+    "updated": "03:38:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:28:05",
+    "updated": "02:38:05",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1321,7 +1321,7 @@
      7,
      10,
      9,
-     12,
+     13,
      8,
      6,
      5,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:28:05",
+    "updated": "00:38:06",
     "hours": "24 hrs/day"
    },
    "north": {
