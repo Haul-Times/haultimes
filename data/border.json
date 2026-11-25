@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:31:03.870313+00:00",
+ "updated": "2026-11-25T17:41:04.647326+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -36,7 +36,7 @@
      0,
      0,
      0,
-     4,
+     3,
      10,
      12,
      13,
@@ -62,7 +62,7 @@
      4,
      10,
      12,
-     17,
+     16,
      18,
      9,
      15,
@@ -85,11 +85,11 @@
    "ports": "Port Huron, MI ↔ Sarnia, ON",
    "region": "on-mi",
    "south": {
-    "wait": 60,
+    "wait": 45,
     "fast_wait": 0,
-    "lanes": "3",
+    "lanes": "4",
     "status": "delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -111,7 +111,7 @@
      8,
      17,
      28,
-     25,
+     27,
      0,
      3,
      3,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 12:07 pm EST",
+    "updated": "At 12:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 12:07 pm EST",
+    "updated": "At 12:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -362,7 +362,7 @@
      6,
      4,
      5,
-     3,
+     4,
      2,
      3,
      2,
@@ -411,7 +411,7 @@
      5,
      5,
      5,
-     4,
+     5,
      0,
      0,
      0,
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At Noon EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "12:19:14",
+    "updated": "12:34:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1304,7 +1304,7 @@
      7,
      7,
      1,
-     6,
+     7,
      12,
      11,
      4,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "09:19:14",
+    "updated": "09:34:16",
     "hours": "24 hrs/day"
    },
    "north": {

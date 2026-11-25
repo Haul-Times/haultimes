@@ -666,6 +666,35 @@
   "sum_pending": false
  },
  {
+  "id": "e05be841d3",
+  "slug": "immigrants-more-likely-to-be-overqualified-for-their-jobs-report-says-e05be841d3",
+  "title": "Immigrants more likely to be overqualified for their jobs, report says",
+  "orig_title": "Immigrants more likely to be overqualified for their jobs, report says",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Global News",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SS1VJRF9fcDlvSWdxOGpxUVV4X3RMTFJJeDQyNm9UUGhmVEp6UDJBZ2NlODFJZ0FtYlJLVUtXWTBjcWFRUW1fX3J6VG4yeDZFM0RYS3ZVZFRxSFRva3RhejFlWFhqc1NtQ0hRa3dBYjJjaEwz?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SS1VJRF9fcDlvSWdxOGpxUVV4X3RMTFJJeDQyNm9UUGhmVEp6UDJBZ2NlODFJZ0FtYlJLVUtXWTBjcWFRUW1fX3J6VG4yeDZFM0RYS3ZVZFRxSFRva3RhejFlWFhqc1NtQ0hRa3dBYjJjaEwz",
+  "snippet": "Immigrants more likely to be overqualified for their jobs, report says Global News",
+  "published": "2026-11-25T13:17:55+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T17:41:04.804586+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "9ad6207e16",
   "slug": "milton-collier-ceo-of-freight-broker-911-introduces-the-broker-employm-9ad6207e16",
   "title": "Milton Collier CEO of Freight Broker 911 Introduces the \"Broker Employment Partner\" Opportunity",
@@ -819,6 +848,35 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
+ },
+ {
+  "id": "aa8076f646",
+  "slug": "emergent-cold-latam-opens-8-000-pallet-cold-storage-warehouse-in-colom-aa8076f646",
+  "title": "Emergent Cold LatAm Opens 8,000-Pallet Cold Storage Warehouse in Colombia",
+  "orig_title": "Emergent Cold LatAm Opens 8,000-Pallet Cold Storage Warehouse in Colombia",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Refindustry",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3R0eE1UMFZUaW9HTnlnMjBwbVplaWpES0pjUVV6c3hwV1hwYkdFOGRSVHdtbFNMV0RaTk0wRVdlWnhSVWxrSFNTVzkxREd1TGZmWHhpdkNXcW82WW1fVnJVZnlDc0hMa3pXRlJuTW9fN3dNS2NsVW5vTEFJcUc2SDVHeGJDWU1GdUhCcjFmY0NKQVpsejFOcEdEci05R3oxcnVsUw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3R0eE1UMFZUaW9HTnlnMjBwbVplaWpES0pjUVV6c3hwV1hwYkdFOGRSVHdtbFNMV0RaTk0wRVdlWnhSVWxrSFNTVzkxREd1TGZmWHhpdkNXcW82WW1fVnJVZnlDc0hMa3pXRlJuTW9fN3dNS2NsVW5vTEFJcUc2SDVHeGJDWU1GdUhCcjFmY0NKQVpsejFOcEdEci05R3oxcnVsUw",
+  "snippet": "Emergent Cold LatAm Opens 8,000-Pallet Cold Storage Warehouse in Colombia Refindustry",
+  "published": "2026-11-25T12:33:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T17:41:04.804586+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "4d9762a4b3",

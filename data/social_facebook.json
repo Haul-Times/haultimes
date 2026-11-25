@@ -4580,7 +4580,15 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-25T17:31:25.819862+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122112411999544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122112411999544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122112411999544428",
+    "created": "2026-11-25T17:31:25+0000",
+    "at": "2026-11-25T17:41:26.062460+00:00"
+   }
   },
   "5c78e75390": {
    "story_id": "5c78e75390",
@@ -4590,14 +4598,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/asia-us-west-coast-container-spot-rates-fall-below-8-000-as-us-avoids-5c78e75390/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=5c78e75390",
    "caption": "Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Freight #FreightRates #Logistics #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-25T17:31:25.819862+00:00",
    "published": "2026-11-25T17:18:32+00:00",
    "score": 92,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122112414933544428",
+   "posted_at": "2026-11-25T17:41:26.062460+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike | HaulTimes",
@@ -4608,7 +4616,9 @@
    "reason": "importance 92 (threshold 65), Rates & Market, trade publication",
    "breaking": "breaking: importance 92, reported by a trade publication of record",
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-25T17:41:26.062460+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122112414933544428"
   }
  },
  "paused": null,
@@ -4993,6 +5003,10 @@
   {
    "at": "2026-11-25T17:31:25.819862+00:00",
    "msg": "posted 7934b9d570"
+  },
+  {
+   "at": "2026-11-25T17:41:26.062460+00:00",
+   "msg": "posted 5c78e75390"
   }
  ],
  "decided": {
@@ -5743,7 +5757,7 @@
   "968968526d": "skipped|importance 50 is below this platform's threshold (65)",
   "fd42d0f7eb": "skipped|minor item (news) or low-quality source",
   "97bd671e09": "skipped|importance 57 is below this platform's threshold (65)",
-  "5c78e75390": "queued|importance 92 (threshold 65), Rates & Market, trade publication"
+  "5c78e75390": "posted|breaking"
  },
  "decisions": [
   {
@@ -11933,16 +11947,23 @@
    "title": "OTA calls for stronger enforcement to combat truck and trailer thefts",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Equipment, trade publication; waited 79 min in queue"
+  },
+  {
+   "at": "2026-11-25T17:41:26.062460+00:00",
+   "story_id": "5c78e75390",
+   "title": "Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike",
+   "action": "posted",
+   "reason": "breaking: importance 92, reported by a trade publication of record; waited 10 min in queue"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122112400533544428",
+  "post": "1476615495528085_122112411999544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122112400533544428",
-  "created": "2026-11-25T16:41:24+0000",
-  "at": "2026-11-25T16:54:24.491263+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122112411999544428",
+  "created": "2026-11-25T17:31:25+0000",
+  "at": "2026-11-25T17:41:26.062460+00:00"
  },
  "promo_i": 2
 }
