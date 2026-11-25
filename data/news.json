@@ -1,5 +1,74 @@
 [
  {
+  "id": "4fa34f3502",
+  "slug": "fuel-prices-top-trucking-industry-concerns-list-4fa34f3502",
+  "title": "Fuel Prices Top Trucking Industry Concerns List",
+  "orig_title": "Fuel Prices Top Trucking Industry Concerns List",
+  "summary": "",
+  "why": "",
+  "category": "fuel",
+  "region": "US",
+  "importance": 50,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnNYa015a21nakZEdFgyR2VNVTBqa3ROc0lsT2M1VU82bThBOHFsYll6MFZwRHRxM0o5ZzZRd1ZpZ1JUeldVZlVlbFZHbk85SVNWanBIbnZOTkFtOEpYcUdOY2dGSnltOElPZEx0aERXUzdBU2o3WGYxUWROR19aeVFhcXdwUnBUalM0cExR?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnNYa015a21nakZEdFgyR2VNVTBqa3ROc0lsT2M1VU82bThBOHFsYll6MFZwRHRxM0o5ZzZRd1ZpZ1JUeldVZlVlbFZHbk85SVNWanBIbnZOTkFtOEpYcUdOY2dGSnltOElPZEx0aERXUzdBU2o3WGYxUWROR19aeVFhcXdwUnBUalM0cExR",
+  "snippet": "Fuel Prices Top Trucking Industry Concerns List Wisevoter",
+  "published": "2026-11-25T01:17:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T01:21:12.929153+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://wisevoter.com/world/us/2026/11/25/fuel-prices-top-trucking-concerns-list-2026",
+  "source_note": "ok · 485 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "bb6e4450b77ae2d1",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-25T01:21:12.929153+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "fuel prices ranking first"
+   },
+   {
+    "sentence": "2",
+    "quote": "survey of nearly 3,100 stakeholders, including drivers"
+   },
+   {
+    "sentence": "3",
+    "quote": "Safe truck parking fell to No. 11 from No. 4 in 2025"
+   },
+   {
+    "sentence": "4",
+    "quote": "ATRI is working with the Federal Motor Carrier Safety Administration on an online calculator"
+   },
+   {
+    "sentence": "5",
+    "quote": "do not quantify the dollar impact of fuel prices or parking shortages"
+   },
+   {
+    "sentence": "6",
+    "quote": "Compliance, Safety, Accountability system climbed to third from seventh"
+   }
+  ],
+  "sum_problems": [
+   "number 1 is not in the source",
+   "copies a 12-word run from the source: 'nearly 3,100 stakeholders, including drivers, motor carriers, supplier'"
+  ],
+  "ai_category": "fuel",
+  "ai_importance": 70
+ },
+ {
   "id": "7d25dd3892",
   "slug": "how-jungheinrich-helps-businesses-navigate-warehouse-automation-7d25dd3892",
   "title": "How Jungheinrich helps businesses navigate warehouse automation",
@@ -13550,35 +13619,6 @@
   "dup_of": "0df12fe063"
  },
  {
-  "id": "fe8543c04f",
-  "slug": "audio-interview-cross-border-regulatory-compliance-challenges-in-europ-fe8543c04f",
-  "title": "Audio interview| Cross-border regulatory compliance challenges in Europe: Trucking solutions",
-  "orig_title": "Audio interview| Cross-border regulatory compliance challenges in Europe: Trucking solutions",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "ET Auto",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVEliUHVKMVZnMVhmZU9MUUNiemZqcllocWxnUTM4ZjI1VFBsU1QxaGd1XzB3YXc1LUlhWk9kRW1MTTU5X2psZW5JbmpCejlxdXMwTjVrUFBqdUVmSVdHMWlrQnFaX0hYMG5sXzRjQUhja19jMHg4ZmdpUVlsbEN6c0MxS0ZHMkxnR2U4R2xHblV5N2l1eThqTWZ1dVJrQmtaeEdNUEUwTHlGdk9QX0ctUmNSNjNhNnJ1ZXNZTGZBVDk3MHQ2cUI0MGd6YlpubVl5SW1z0gHOAUFVX3lxTE9pNFBValRFcmU4OXlWb2M0bjA0T3NCNUJ3YjJGc2d1cFNMR2JJLUtvS2E1SjE3Z3FUVXF5NHNIdE1TTDBtcEZfQUs2am55bmMwazNVMVc2VkJjNkNLZFh1c3dSc1JyOHJXb1ZMd1RSQk1YMlppRnU5NUpjaHhuaFFJT2RjODE3ZVJJcjlaeU5NNWJmakt6M3ZMRUpzd01KSzFiczZPM2ZoeEZwc2tpaFNHd2tUVzY0N1BXVU5JeHFteUxleGdSM3FQVzF1UlNB?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVEliUHVKMVZnMVhmZU9MUUNiemZqcllocWxnUTM4ZjI1VFBsU1QxaGd1XzB3YXc1LUlhWk9kRW1MTTU5X2psZW5JbmpCejlxdXMwTjVrUFBqdUVmSVdHMWlrQnFaX0hYMG5sXzRjQUhja19jMHg4ZmdpUVlsbEN6c0MxS0ZHMkxnR2U4R2xHblV5N2l1eThqTWZ1dVJrQmtaeEdNUEUwTHlGdk9QX0ctUmNSNjNhNnJ1ZXNZTGZBVDk3MHQ2cUI0MGd6YlpubVl5SW1z0gHOAUFVX3lxTE9pNFBValRFcmU4OXlWb2M0bjA0T3NCNUJ3YjJGc2d1cFNMR2JJLUtvS2E1SjE3Z3FUVXF5NHNIdE1TTDBtcEZfQUs2am55bmMwazNVMVc2VkJjNkNLZFh1c3dSc1JyOHJXb1ZMd1RSQk1YMlppRnU5NUpjaHhuaFFJT2RjODE3ZVJJcjlaeU5NNWJmakt6M3ZMRUpzd01KSzFiczZPM2ZoeEZwc2tpaFNHd2tUVzY0N1BXVU5JeHFteUxleGdSM3FQVzF1UlNB",
-  "snippet": "Audio interview| Cross-border regulatory compliance challenges in Europe: Trucking solutions ET Auto",
-  "published": "2026-11-20T23:35:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T01:21:06.387951+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "87aea9f1e4",
   "slug": "ny-golf-club-s-230k-caddie-wage-deal-rejected-87aea9f1e4",
   "title": "NY Golf Club's $230K Caddie Wage Deal Rejected",
@@ -19925,35 +19965,6 @@
   "source_note": "excerpt only · 14 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "37317217e2",
-  "slug": "stolen-tractors-archives-37317217e2",
-  "title": "stolen tractors Archives",
-  "orig_title": "stolen tractors Archives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Truck News",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQ1kwdDhSa1pwUC00bEt0UzVOVWJOb3ppODBJYUc5dGlOME9mcjFXNkw5SHV2aHB6VGdzcUFRanlvRThNYlpta3Q3bjJrUk1OdzZDRTFTZzMxMFV2Nkk0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQ1kwdDhSa1pwUC00bEt0UzVOVWJOb3ppODBJYUc5dGlOME9mcjFXNkw5SHV2aHB6VGdzcUFRanlvRThNYlpta3Q3bjJrUk1OdzZDRTFTZzMxMFV2Nkk0",
-  "snippet": "stolen tractors Archives Truck News",
-  "published": "2026-11-19T08:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T01:21:06.387951+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "d3e7112b45",

@@ -5434,7 +5434,8 @@
   "817fe092c4": "skipped|importance 50 is below this platform's threshold (65)",
   "a8533f7e47": "skipped|importance 45 is below this platform's threshold (65)",
   "79084dab06": "skipped|importance 61 is below this platform's threshold (65)",
-  "8ae0367a6a": "skipped|importance 55 is below this platform's threshold (65)"
+  "8ae0367a6a": "skipped|importance 55 is below this platform's threshold (65)",
+  "4fa34f3502": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11372,6 +11373,13 @@
    "title": "Where Electric Trucks Can Charge Now",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T01:21:44.920698+00:00",
+   "story_id": "4fa34f3502",
+   "title": "Fuel Prices Top Trucking Industry Concerns List",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
