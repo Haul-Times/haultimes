@@ -17402,35 +17402,6 @@
   "sum_pending": false
  },
  {
-  "id": "aac6dc6293",
-  "slug": "provincial-government-launches-design-study-for-hwy-17-expansion-in-ea-aac6dc6293",
-  "title": "Provincial government launches design study for Hwy. 17 expansion in eastern Ontario",
-  "orig_title": "Provincial government launches design study for Hwy. 17 expansion in eastern Ontario",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWElfazBDaXllUkxnVEFHMVlCbHBoeWtURXlNUGdLdmQwVHE4LW52MDd1RFdmdC1HczdSaEE3Nk9xVHZNWWowQ1YwbFQ5elNFX3ZEeFcwWkY5OTVqRGpwVzhxa3dXa0dsdXRrQ0ZFWkZVNEwzN0tzV1ZZbWExYmxHMVlOY1JSaGVYUTRxdmlBRkFIbnIyTDBYYmZMVDNhbWh6U0xFR0VtX0pYOVNRYnV6MlVoMTU4RVR4RGhaTE4zMmpXdlZvRXdvMktDNWx5dXM?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWElfazBDaXllUkxnVEFHMVlCbHBoeWtURXlNUGdLdmQwVHE4LW52MDd1RFdmdC1HczdSaEE3Nk9xVHZNWWowQ1YwbFQ5elNFX3ZEeFcwWkY5OTVqRGpwVzhxa3dXa0dsdXRrQ0ZFWkZVNEwzN0tzV1ZZbWExYmxHMVlOY1JSaGVYUTRxdmlBRkFIbnIyTDBYYmZMVDNhbWh6U0xFR0VtX0pYOVNRYnV6MlVoMTU4RVR4RGhaTE4zMmpXdlZvRXdvMktDNWx5dXM",
-  "snippet": "Provincial government launches design study for Hwy. 17 expansion in eastern Ontario CTV News",
-  "published": "2026-11-20T17:54:35+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T22:11:02.370386+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "e165c06f69",
   "slug": "groundtruth-launches-ai-platform-to-automate-freight-billing-with-j-b-e165c06f69",
   "title": "Groundtruth launches AI platform to automate freight billing with J.B. Hunt partnership",
