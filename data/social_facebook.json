@@ -5784,7 +5784,9 @@
   "69595cd964": "skipped|importance 45 is below this platform's threshold (65)",
   "3efee35725": "skipped|importance 62 is below this platform's threshold (65)",
   "d235de001c": "skipped|importance 45 is below this platform's threshold (65)",
-  "69b81dfdf0": "skipped|importance 60 is below this platform's threshold (65)"
+  "69b81dfdf0": "skipped|importance 60 is below this platform's threshold (65)",
+  "b7fefbdd3c": "skipped|importance 57 is below this platform's threshold (65)",
+  "256a6c4ec7": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12023,6 +12025,20 @@
    "title": "New US certification system needed for ELDs to shrink growing shadow fleet",
    "action": "skipped",
    "reason": "importance 60 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T19:41:29.656519+00:00",
+   "story_id": "b7fefbdd3c",
+   "title": "USMCA, Trade, and the Character Issue",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T19:41:29.656519+00:00",
+   "story_id": "256a6c4ec7",
+   "title": "Collingwood, Ont., truck inspections yield 14 charges",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
