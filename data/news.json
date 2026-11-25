@@ -115,7 +115,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://woai.iheart.com/featured/san-antonios-first-news/content/2026-11-24-truckers-still-adjusting-to-ongoing-diesel-price-shifts/",
   "source_note": "ok · 224 words"
  },
@@ -931,6 +931,35 @@
   "kind": "news",
   "sum_pending": false,
   "dup_of": "e036662536"
+ },
+ {
+  "id": "7f249f0382",
+  "slug": "kazakh-coal-grows-more-expensive-before-reaching-uzbekistan-entreprene-7f249f0382",
+  "title": "Kazakh coal grows more expensive before reaching Uzbekistan. Entrepreneurs complain of high transport costs",
+  "orig_title": "Kazakh coal grows more expensive before reaching Uzbekistan. Entrepreneurs complain of high transport costs",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Qalampir.uz",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV3VuXzI4ZnpybVNsaTFULWpWU05hVU11UFRpTXZjNnNxWGVuLUM5UWl1aVhCcTJ1NGg0WjV6aFBsQzhWNXFMZE9oZnZMTjlFeWpTeFVRbVNpSEJ1ZUs4QXAydkktTE5ZQTlvOXAwR0ZkTVh2NUx3QTh2U2d3TVowclJQUnJwamE4SFMzUjFPS3RLUi1KbUtiZGQ4MjNGM3NQZEdsMk5BdlFMYkNhZnYzYXdya0tkRWJHSlN3TmxBT3o5RVMzeHhrellxVlFzam9RR2swcHlXNjQ0SUw4dTNrV2drXzhuZlVpTXc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV3VuXzI4ZnpybVNsaTFULWpWU05hVU11UFRpTXZjNnNxWGVuLUM5UWl1aVhCcTJ1NGg0WjV6aFBsQzhWNXFMZE9oZnZMTjlFeWpTeFVRbVNpSEJ1ZUs4QXAydkktTE5ZQTlvOXAwR0ZkTVh2NUx3QTh2U2d3TVowclJQUnJwamE4SFMzUjFPS3RLUi1KbUtiZGQ4MjNGM3NQZEdsMk5BdlFMYkNhZnYzYXdya0tkRWJHSlN3TmxBT3o5RVMzeHhrellxVlFzam9RR2swcHlXNjQ0SUw4dTNrV2drXzhuZlVpTXc",
+  "snippet": "Kazakh coal grows more expensive before reaching Uzbekistan. Entrepreneurs complain of high transport costs Qalampir.uz",
+  "published": "2026-11-25T10:32:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T16:41:05.065684+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "f4cd270969",
