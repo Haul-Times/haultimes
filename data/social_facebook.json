@@ -5465,7 +5465,8 @@
   "8ae0367a6a": "skipped|importance 55 is below this platform's threshold (65)",
   "4fa34f3502": "skipped|importance 50 is below this platform's threshold (65)",
   "938bce4458": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
-  "0366727d9b": "skipped|minor item (crime) or low-quality source"
+  "0366727d9b": "skipped|minor item (crime) or low-quality source",
+  "ac6e13a91f": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11424,6 +11425,13 @@
    "title": "Ohio truck driver sentenced for sexually assaulting 13-year-old girl in Cumberland County",
    "action": "skipped",
    "reason": "minor item (crime) or low-quality source"
+  },
+  {
+   "at": "2026-11-25T05:41:22.042622+00:00",
+   "story_id": "ac6e13a91f",
+   "title": "Truck drivers can now send bedtime stories from the road",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
