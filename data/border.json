@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T21:51:02.977752+00:00",
- "hour_now": 16,
+ "updated": "2026-11-25T22:01:05.642028+00:00",
+ "hour_now": 17,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -67,7 +67,7 @@
      10,
      14,
      16,
-     10,
+     11,
      17,
      26,
      27,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 4:37 pm EST",
+    "updated": "At 4:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:37 pm EST",
+    "updated": "At 4:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -367,7 +367,7 @@
      3,
      3,
      5,
-     2,
+     3,
      4,
      18,
      19,
@@ -989,13 +989,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:44:43",
+    "updated": "16:54:44",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-25 17:02 AST"
+    "updated": "2026-11-25 17:50 AST"
    },
    "usual": {
     "south": [
@@ -1091,7 +1091,7 @@
      3,
      19,
      24,
-     36,
+     33,
      7,
      5,
      1,
@@ -1234,7 +1234,7 @@
      4,
      2,
      2,
-     5,
+     4,
      14,
      2,
      0,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "13:44:44",
+    "updated": "13:54:44",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 10,
-    "status": "10 minutes"
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Aldergrove",
