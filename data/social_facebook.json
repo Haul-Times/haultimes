@@ -5792,7 +5792,9 @@
   "5cf0d6bbad": "skipped|importance 55 is below this platform's threshold (65)",
   "1155ee97f6": "skipped|importance 55 is below this platform's threshold (65)",
   "2835b01586": "skipped|importance 55 is below this platform's threshold (65)",
-  "4d58617126": "skipped|importance 45 is below this platform's threshold (65)"
+  "4d58617126": "skipped|importance 45 is below this platform's threshold (65)",
+  "54a51ecfb0": "skipped|importance 62 is below this platform's threshold (65)",
+  "78e3e84d5b": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12085,6 +12087,20 @@
    "at": "2026-11-25T22:21:28.869473+00:00",
    "story_id": "4d58617126",
    "title": "Broker Picks for LTL and FTL Shippers Who Want a Named Team",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T23:11:19.204120+00:00",
+   "story_id": "54a51ecfb0",
+   "title": "Citizen complaints spur Nebraska police into active truck driver Jake brake enforcement",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T23:11:19.204120+00:00",
+   "story_id": "78e3e84d5b",
+   "title": "Northeast Notebook 11/25/26: Truckers against congestion pricing, a school closure, and gratitude",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
