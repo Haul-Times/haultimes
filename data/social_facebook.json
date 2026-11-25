@@ -5787,7 +5787,8 @@
   "69b81dfdf0": "skipped|importance 60 is below this platform's threshold (65)",
   "b7fefbdd3c": "skipped|importance 57 is below this platform's threshold (65)",
   "256a6c4ec7": "skipped|importance 55 is below this platform's threshold (65)",
-  "18cf5abff4": "skipped|importance 55 is below this platform's threshold (65)"
+  "18cf5abff4": "skipped|importance 55 is below this platform's threshold (65)",
+  "45a5018525": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12047,6 +12048,13 @@
    "title": "Don’t be a turkey: Protect your cargo this Thanksgiving",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T20:01:29.975685+00:00",
+   "story_id": "45a5018525",
+   "title": "Eight trucks inspected: one pulled off the road in Collingwood",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
