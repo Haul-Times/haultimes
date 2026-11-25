@@ -32,41 +32,42 @@
   "sum_status": "withheld",
   "source_fp": "bb6e4450b77ae2d1",
   "source_scope": "full_article",
-  "sum_at": "2026-11-25T01:21:12.929153+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-25T01:31:04.273235+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
     "sentence": "1",
-    "quote": "fuel prices ranking first"
+    "quote": "fuel prices ranking first and displacing the state of the economy"
    },
    {
     "sentence": "2",
-    "quote": "survey of nearly 3,100 stakeholders, including drivers"
+    "quote": "marking the first time since 2012 it has finished outside the top 10"
    },
    {
     "sentence": "3",
-    "quote": "Safe truck parking fell to No. 11 from No. 4 in 2025"
+    "quote": "survey of nearly 3,100 stakeholders, including drivers, motor carriers"
    },
    {
     "sentence": "4",
-    "quote": "ATRI is working with the Federal Motor Carrier Safety Administration on an online calculator"
+    "quote": "The Compliance, Safety, Accountability system climbed to third from seventh"
    },
    {
     "sentence": "5",
-    "quote": "do not quantify the dollar impact of fuel prices or parking shortages"
+    "quote": "working with the Federal Motor Carrier Safety Administration on an online calculator"
    },
    {
     "sentence": "6",
-    "quote": "Compliance, Safety, Accountability system climbed to third from seventh"
+    "quote": "do not quantify the dollar impact of fuel prices or parking shortages"
    }
   ],
   "sum_problems": [
    "number 1 is not in the source",
-   "copies a 12-word run from the source: 'nearly 3,100 stakeholders, including drivers, motor carriers, supplier'"
+   "copies a 12-word run from the source: 'of the economy, which had held the top spot for three straight'"
   ],
   "ai_category": "fuel",
-  "ai_importance": 70
+  "ai_importance": 70,
+  "sum_v3": true
  },
  {
   "id": "7d25dd3892",
