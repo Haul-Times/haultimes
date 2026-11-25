@@ -84,44 +84,23 @@
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 2,
+  "sum_tries": 1,
   "pub_url": "https://www.truckinginfo.com/articles/where-electric-trucks-can-charge-now",
   "source_note": "ok · 1563 words",
   "sum_done": true,
   "sum_status": "withheld",
   "source_fp": "5350c68ea7c181bf",
   "source_scope": "full_article",
-  "sum_at": "2026-11-25T00:01:07.450182+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-25T00:11:09.363862+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "Much of the year’s progress was in California"
-   },
-   {
-    "sentence": "2",
-    "quote": "WattEV opened its eighth California charging depot in November at the Port of Oakland"
-   },
-   {
-    "sentence": "3",
-    "quote": "Tesla also expanded its own network in November to Hodgkins, Illinois"
-   },
-   {
-    "sentence": "4",
-    "quote": "Nevoya aims to begin running between Houston and Dallas in early 2027"
-   },
-   {
-    "sentence": "5",
-    "quote": "Zeem is aiming for the first quarter at its Terminal Island depot"
-   }
-  ],
+  "sum_evidence": [],
   "sum_problems": [
-   "name \"Heavy Duty Trucking's\" is not in the source",
-   "copies a 12-word run from the source: 'ev realty opened a 76-port, 9-megawatt hub in san bernardino in april.'"
+   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
   ],
   "ai_category": "equip",
-  "ai_importance": 45
+  "ai_importance": 55,
+  "sum_v3": true
  },
  {
   "id": "a8533f7e47",
@@ -13368,35 +13347,6 @@
   "sum_pending": false
  },
  {
-  "id": "1bda6b3db8",
-  "slug": "he-wears-a-300-sensor-glove-to-train-the-robot-that-will-take-his-ware-1bda6b3db8",
-  "title": "He Wears a $300 Sensor Glove to Train the Robot That Will Take His Warehouse Job. Social Security Starts at 62 at the Earliest, So Losing the Job Leaves Two Years and $110,000 of Pay to Replace",
-  "orig_title": "He Wears a $300 Sensor Glove to Train the Robot That Will Take His Warehouse Job. Social Security Starts at 62 at the Earliest, So Losing the Job Leaves Two Years and $110,000 of Pay to Replace",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPR196ZWF6cTBIcm9XaFlmelpYc3ZhRGE3SWJsODQxeGRHS3lwRzJqdFpvVVpTZkpLTHQ2cWZBMkhpWi1VeXdYczRfdi1LTll3T0dvaW82ckRNelpWaUJQVmwtb2ktUk56dkdjTXZNVGc3bTZWWFdUa0g1TFNKaThaQW0xeUY2QmxZNUJJRHdaaXFJUVZTbzh3UE5rTmYydEhGblF1TzFjMXk4dGJCOFVjMEJoZGFnWmY2UTlJSVJuVmVmNUFZUUVUUGl5VU9QSlBmTmtLNDBFT2JxTTh4N0xFenhBVnVHQ2tCX1pRT3hJQktuT3hEY0hETXptNkpjMngwbmNEb0VpZjFRaFBDN0h0d2hmN3lUd1BQMHhtc3VNeUxPU0ZJcUh2OWN6N1pYeHdXZjVEN0RNelBIWUV0NkxOR3h1Q0lNdjdRNGFRZGVxbVFNUHNsQVRxdkxhdWNhVkhreTdPdk00QWswTEg0WGVnVA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPR196ZWF6cTBIcm9XaFlmelpYc3ZhRGE3SWJsODQxeGRHS3lwRzJqdFpvVVpTZkpLTHQ2cWZBMkhpWi1VeXdYczRfdi1LTll3T0dvaW82ckRNelpWaUJQVmwtb2ktUk56dkdjTXZNVGc3bTZWWFdUa0g1TFNKaThaQW0xeUY2QmxZNUJJRHdaaXFJUVZTbzh3UE5rTmYydEhGblF1TzFjMXk4dGJCOFVjMEJoZGFnWmY2UTlJSVJuVmVmNUFZUUVUUGl5VU9QSlBmTmtLNDBFT2JxTTh4N0xFenhBVnVHQ2tCX1pRT3hJQktuT3hEY0hETXptNkpjMngwbmNEb0VpZjFRaFBDN0h0d2hmN3lUd1BQMHhtc3VNeUxPU0ZJcUh2OWN6N1pYeHdXZjVEN0RNelBIWUV0NkxOR3h1Q0lNdjdRNGFRZGVxbVFNUHNsQVRxdkxhdWNhVkhreTdPdk00QWswTEg0WGVnVA",
-  "snippet": "He Wears a $300 Sensor Glove to Train the Robot That Will Take His Warehouse Job. Social Security Starts at 62 at the Earliest, So Losing the Job Leaves Two Years and $110,000 of Pay to Replace 24/7 Wall St.",
-  "published": "2026-11-21T00:02:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T00:06:18.984045+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "bf2b3afa05",
   "slug": "colorado-will-start-allowing-private-vendors-to-offer-chain-up-service-bf2b3afa05",
   "title": "Colorado will start allowing private vendors to offer chain-up services to truckers on I-70 this winter",
@@ -14084,35 +14034,6 @@
   "sum_tries": 3,
   "pub_url": "https://wisevoter.com/world/us/fl/tampa/2026/11/20/truckers-against-trafficking-exhibit-tampa",
   "source_note": "ok · 433 words"
- },
- {
-  "id": "f44266b099",
-  "slug": "ford-launches-canadian-super-duty-production-despite-tariff-pressures-f44266b099",
-  "title": "Ford Launches Canadian Super Duty Production Despite Tariff Pressures",
-  "orig_title": "Ford Launches Canadian Super Duty Production Despite Tariff Pressures",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Motor Illustrated",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEpiRWpWU2VmZWxJNEtfZHh6VnEyYVZsS3FnQnUxOHZrNW9TeGdnUEZKaGs5TEVsUzBmSEZnVlZvaWV5QTkxbTQ5NjRYMjliNnBpMUFGMjk0RVdRTVZoZ1ZmbDMwX2pqM2VsMERCV0xhbjFFUk5JV3I3UV9zY1VveHFHV0NqSmZOMFY0UGtfYm9EOHdDZThfai1FMEpSeDhBSUpqMUgyYktYUdIBrwFBVV95cUxPVDJNeE84T1lUMHpmbGtzQUlRU1JtNVh2bTNCZzlvNlg5QmNkRDRkV2ptcFFBTDlWUUpkekc1MnJiLTJONnZOVG51Y1E4bmpTNFo2d0JseG14OUNhRUxrbWM0M0dBcy1wWEJnMlBfdkY1cmRQR0s0WXg4QmNVOTF4N1NnUkJnTUhrRTVtMDZOY3pQeE15Ri1xZEdnOS1Ob25FTVNZR2xtMU9aVXM5VWpN?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEpiRWpWU2VmZWxJNEtfZHh6VnEyYVZsS3FnQnUxOHZrNW9TeGdnUEZKaGs5TEVsUzBmSEZnVlZvaWV5QTkxbTQ5NjRYMjliNnBpMUFGMjk0RVdRTVZoZ1ZmbDMwX2pqM2VsMERCV0xhbjFFUk5JV3I3UV9zY1VveHFHV0NqSmZOMFY0UGtfYm9EOHdDZThfai1FMEpSeDhBSUpqMUgyYktYUdIBrwFBVV95cUxPVDJNeE84T1lUMHpmbGtzQUlRU1JtNVh2bTNCZzlvNlg5QmNkRDRkV2ptcFFBTDlWUUpkekc1MnJiLTJONnZOVG51Y1E4bmpTNFo2d0JseG14OUNhRUxrbWM0M0dBcy1wWEJnMlBfdkY1cmRQR0s0WXg4QmNVOTF4N1NnUkJnTUhrRTVtMDZOY3pQeE15Ri1xZEdnOS1Ob25FTVNZR2xtMU9aVXM5VWpN",
-  "snippet": "Ford Launches Canadian Super Duty Production Despite Tariff Pressures Motor Illustrated",
-  "published": "2026-11-20T21:26:50+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T00:06:18.984045+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "eb3d90cfed",
@@ -20162,35 +20083,6 @@
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 3
- },
- {
-  "id": "f9c97c84a8",
-  "slug": "health-care-professional-orders-urge-quebec-to-rethink-services-for-un-f9c97c84a8",
-  "title": "Health care professional orders urge Quebec to rethink services for unhoused people",
-  "orig_title": "Health care professional orders urge Quebec to rethink services for unhoused people",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc01TdktzYXZhdTNGbkdWUExXdDkyWGpEblZ0VHY5ZmZJZjQwa2pHU3BJMGxGUXI4REpiRkY0N2FvZElYZWRYc3ZTUjhpSGRCMVBSbTd6SlFJdW1fMC1JenVxZUlYOS1iZlpKcmdVbFBEZGYxMjRBSVZEc0FCODJEalV6bGhhYUVja3dwVEJLeWNvejEwWFlhSUJRLUJ6bW5MdUxVcVJHcmdENDhfcXd6VlFmeVlHMEh6OEpqSTR6OTVOQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc01TdktzYXZhdTNGbkdWUExXdDkyWGpEblZ0VHY5ZmZJZjQwa2pHU3BJMGxGUXI4REpiRkY0N2FvZElYZWRYc3ZTUjhpSGRCMVBSbTd6SlFJdW1fMC1JenVxZUlYOS1iZlpKcmdVbFBEZGYxMjRBSVZEc0FCODJEalV6bGhhYUVja3dwVEJLeWNvejEwWFlhSUJRLUJ6bW5MdUxVcVJHcmdENDhfcXd6VlFmeVlHMEh6OEpqSTR6OTVOQQ",
-  "snippet": "Health care professional orders urge Quebec to rethink services for unhoused people CTV News",
-  "published": "2026-11-19T11:27:43+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T00:11:04.974337+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "5254d6f2cd",
