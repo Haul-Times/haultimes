@@ -1242,6 +1242,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "5cdf62e5aa",
+  "slug": "investigation-into-dangerous-semi-pass-continues-no-arrests-charges-la-5cdf62e5aa",
+  "title": "Investigation into dangerous semi pass continues, no arrests, charges laid",
+  "orig_title": "Investigation into dangerous semi pass continues, no arrests, charges laid",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9zSVZ2S1BodVZ0eW56YmEtLXpXRHZjcmZnRlFwVUJsazk0RmtTbnZwbU0xZVhLZkhveEZ0QXBYczRYNTFkckkzcVd0YVNVVXNMaUIwZElUUTlTR3dwaFExMUdBMkxadUM5OTFCN1ZvUGlobVc5M3hZcHpXS3N6eGVhSlN5cTFOZHVkVV9MQTB1UUx4c0c1Z01vdU9wZmJuMEdMNzhZZjYycUVoVk1xeg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9zSVZ2S1BodVZ0eW56YmEtLXpXRHZjcmZnRlFwVUJsazk0RmtTbnZwbU0xZVhLZkhveEZ0QXBYczRYNTFkckkzcVd0YVNVVXNMaUIwZElUUTlTR3dwaFExMUdBMkxadUM5OTFCN1ZvUGlobVc5M3hZcHpXS3N6eGVhSlN5cTFOZHVkVV9MQTB1UUx4c0c1Z01vdU9wZmJuMEdMNzhZZjYycUVoVk1xeg",
+  "snippet": "Investigation into dangerous semi pass continues, no arrests, charges laid CTV News",
+  "published": "2026-11-24T18:41:27+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T01:01:09.292099+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fba45bb0d3",
   "slug": "sonar-ppi-outlook-holds-strong-at-76-despite-narrowing-rate-spread-fba45bb0d3",
   "title": "SONAR PPI Outlook Holds Strong at 76 Despite Narrowing Rate Spread",
