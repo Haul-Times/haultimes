@@ -13994,10 +13994,8 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: 14 charged in $22.5 million cargo theft ring that stopped moving freight trains"
-  ],
+  "status": "ok",
+  "reasons": [],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
@@ -14045,8 +14043,7 @@
    "copies a 12-word run from the source: \"according to the u.s. attorney's office for the eastern district of pe\""
   ],
   "ai_category": "other",
-  "ai_importance": 55,
-  "dup_of": "0df12fe063"
+  "ai_importance": 55
  },
  {
   "id": "6c414927fe",
@@ -15740,12 +15737,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: At least 14 charged in alleged $22.5 million California train cargo theft scheme"
+   "same story as: Paraná Civil Police arrests 13 suspects for belonging to a gang involved in cargo theft an"
   ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "dup_of": "c02dac559f"
+  "dup_of": "3013e70790"
  },
  {
   "id": "fd36b79254",
