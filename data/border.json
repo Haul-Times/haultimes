@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:11:03.712390+00:00",
+ "updated": "2026-11-25T19:21:03.979536+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -11,10 +11,10 @@
    "region": "on-mi",
    "south": {
     "wait": 0,
-    "fast_wait": 5,
-    "lanes": "3",
+    "fast_wait": 0,
+    "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -64,7 +64,7 @@
      12,
      16,
      15,
-     9,
+     10,
      15,
      13,
      10,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 2:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -413,7 +413,7 @@
      5,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 11:00 am EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "14:09:28",
+    "updated": "14:19:28",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:09:28",
+    "updated": "14:19:28",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1231,7 +1231,7 @@
      6,
      4,
      4,
-     6,
+     5,
      4,
      3,
      5,
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 10:00 am PST",
+    "updated": "At 11:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:09:28",
+    "updated": "11:19:28",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 15,
+    "status": "delay"
    },
    {
     "name": "Norton",
