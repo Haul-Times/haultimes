@@ -4463,14 +4463,14 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/here-are-the-proposed-u-s-tariff-rates-by-economy-67cc540c3a/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=67cc540c3a",
    "caption": "Here are the proposed U.S. tariff rates by economy.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder #Tariffs #FreightRates #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-25T15:21:23.308593+00:00",
    "published": "2026-11-25T14:44:48+00:00",
    "score": 78,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122112365067544428",
+   "posted_at": "2026-11-25T15:51:40.177791+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Here are the proposed U.S. tariff rates by economy | HaulTimes",
@@ -4481,7 +4481,9 @@
    "reason": "importance 78 (threshold 65), Cross-Border, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-25T15:51:40.177791+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122112365067544428"
   },
   "promo-20261125": {
    "story_id": "promo-20261125",
@@ -4503,6 +4505,34 @@
    "preview": {},
    "house": "promo",
    "reason": "HaulTimes update: promo"
+  },
+  "7768d9bb4f": {
+   "story_id": "7768d9bb4f",
+   "title": "Asian steel gains ground in U.S. despite 50% tariffs",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jN2R3Z2g2clVwZms2TklHX1IwbXZ0WnpMeTZyMWxCRTFfZ2V6ei1NblFkOE03QldGVnBaT0tkeDQ4Z25xTW9LbERINmpnMkVmZkNSV1NqRk41c0xmQmJWaHl0MERBY0xPRTFUVQ",
+   "category": "other",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/asian-steel-gains-ground-in-u-s-despite-50-tariffs-7768d9bb4f/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=7768d9bb4f",
+   "caption": "Asian steel gains ground in U.S. despite 50% tariffs.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #Tariffs #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-25T15:51:40.177791+00:00",
+   "published": "2026-11-25T15:18:16+00:00",
+   "score": 78,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Asian steel gains ground in U.S. despite 50% tariffs | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/71cfc292db.png",
+    "og:url": "https://haultimes.com/story/asian-steel-gains-ground-in-u-s-despite-50-tariffs-7768d9bb4f/"
+   },
+   "reason": "importance 78 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -4875,6 +4905,10 @@
   {
    "at": "2026-11-25T15:02:38.517243+00:00",
    "msg": "posted ee6a5a7588"
+  },
+  {
+   "at": "2026-11-25T15:51:40.177791+00:00",
+   "msg": "posted 67cc540c3a"
   }
  ],
  "decided": {
@@ -5616,9 +5650,11 @@
   "9ad6207e16": "skipped|minor item (announcement) or low-quality source",
   "2c9771f227": "skipped|importance 61 is below this platform's threshold (65)",
   "ee6a5a7588": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 11 min in queue",
-  "67cc540c3a": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
+  "67cc540c3a": "posted|importance 78 (threshold 65), Cross-Border, trade publication; waited 30 min in queue",
   "1b06afab29": "skipped|importance 45 is below this platform's threshold (65)",
-  "promo-20261125": "queued|HaulTimes update"
+  "promo-20261125": "queued|HaulTimes update",
+  "7768d9bb4f": "queued|importance 78 (threshold 65), Industry, trade publication",
+  "e518328046": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -11738,6 +11774,27 @@
    "title": "Freight Market reminder",
    "action": "queued",
    "reason": "HaulTimes update: promo"
+  },
+  {
+   "at": "2026-11-25T15:51:40.177791+00:00",
+   "story_id": "7768d9bb4f",
+   "title": "Asian steel gains ground in U.S. despite 50% tariffs",
+   "action": "queued",
+   "reason": "importance 78 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-25T15:51:40.177791+00:00",
+   "story_id": "e518328046",
+   "title": "Before Sunrise, Truckers And Farmers Fill These 8 Mississippi Highway Truck Stop Cafes",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-25T15:51:40.177791+00:00",
+   "story_id": "67cc540c3a",
+   "title": "Here are the proposed U.S. tariff rates by economy",
+   "action": "posted",
+   "reason": "importance 78 (threshold 65), Cross-Border, trade publication; waited 30 min in queue"
   }
  ],
  "visibility": {
