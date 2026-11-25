@@ -5467,7 +5467,8 @@
   "938bce4458": "expired|stale before a slot opened (published 12h ago)",
   "0366727d9b": "skipped|minor item (crime) or low-quality source",
   "ac6e13a91f": "skipped|importance 45 is below this platform's threshold (65)",
-  "6ccaaf0228": "skipped|importance 57 is below this platform's threshold (65)"
+  "6ccaaf0228": "skipped|importance 57 is below this platform's threshold (65)",
+  "c3200155fa": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -11468,6 +11469,13 @@
    "title": "High diesel prices squeeze small truckers",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T06:31:42.025450+00:00",
+   "story_id": "c3200155fa",
+   "title": "Iranian truckers strike threatens to crash regime’s faltering economy",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {

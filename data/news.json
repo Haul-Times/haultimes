@@ -61,37 +61,37 @@
   "sum_status": "withheld",
   "source_fp": "be0ff334d3ccbfd0",
   "source_scope": "full_article",
-  "sum_at": "2026-11-25T06:21:03.972558+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-25T06:31:02.869404+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [
    {
     "sentence": "1",
-    "quote": "Otto added a fuel surcharge to every job for the first time"
+    "quote": "Fuel is one of their largest and least avoidable daily costs"
    },
    {
     "sentence": "2",
-    "quote": "tied it to the government’s weekly Midwest diesel average"
+    "quote": "starting at 5 per cent and eventually raising it to 12.5 per cent"
    },
    {
     "sentence": "3",
-    "quote": "On-highway diesel hit a record national average of US$6.53 a gallon"
+    "quote": "For the week of November 16, it averaged US$5.94"
+   },
+   {
+    "sentence": "3",
+    "quote": "In November, however, it raised its 2027 forecast by 54 cents"
    },
    {
     "sentence": "4",
-    "quote": "it raised its 2027 forecast by 54 cents"
-   },
-   {
-    "sentence": "5",
-    "quote": "44 to 48 per cent higher in September"
+    "quote": "we have survived. We have not profited any money"
    }
   ],
   "sum_problems": [
-   "name 'Small US' is not in the source",
-   "copies a 12-word run from the source: 'for individual loads were 44 to 48 per cent higher in september,'"
+   "name 'Small US' is not in the source"
   ],
   "ai_category": "fuel",
-  "ai_importance": 72
+  "ai_importance": 70,
+  "sum_v3": true
  },
  {
   "id": "4952e5d06e",
@@ -211,6 +211,38 @@
   "labels": [],
   "kind": "rejected",
   "sum_pending": false
+ },
+ {
+  "id": "c3200155fa",
+  "slug": "iranian-truckers-strike-threatens-to-crash-regime-s-faltering-economy-c3200155fa",
+  "title": "Iranian truckers strike threatens to crash regime’s faltering economy",
+  "orig_title": "Iranian truckers strike threatens to crash regime’s faltering economy",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "",
+  "importance": 40,
+  "source": "The Australian",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa2NGMUNWWEJlODJVczVOZE5aOVNoeVgxZ3paQkFDSGN2UEVlQ2JsMU9VRUx0TURFalpweGVRZG9WQXE5bDJ1T3dfQmwzRXUwdjd6emVCU2lEb2x5d0R0WmVoemlfZFNrX2JPbUZ5UmN5XzFROFhkRDBsdnQyNGxicFpDVTNlaUt2dVFMVk5mdTlTVjY4MVpfamVCTl94b1RqUkJBQ0dwT2ZvMUhUOU9Bay14SDdCYVFjWlNiWFNhX3BVTDhWcUlnaVFIUHYyMDUtYmNfb1ZkUXJ4eEcxZDlLOGN0QQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa2NGMUNWWEJlODJVczVOZE5aOVNoeVgxZ3paQkFDSGN2UEVlQ2JsMU9VRUx0TURFalpweGVRZG9WQXE5bDJ1T3dfQmwzRXUwdjd6emVCU2lEb2x5d0R0WmVoemlfZFNrX2JPbUZ5UmN5XzFROFhkRDBsdnQyNGxicFpDVTNlaUt2dVFMVk5mdTlTVjY4MVpfamVCTl94b1RqUkJBQ0dwT2ZvMUhUOU9Bay14SDdCYVFjWlNiWFNhX3BVTDhWcUlnaVFIUHYyMDUtYmNfb1ZkUXJ4eEcxZDlLOGN0QQ",
+  "snippet": "Iranian truckers strike threatens to crash regime’s faltering economy The Australian",
+  "published": "2026-11-25T03:26:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T06:31:02.869404+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "incident",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.theaustralian.com.au/world/iranian-truck-drivers-strike-over-soaring-costs-and-fuel-shortages/news-story/caeeec664af337005fde922062718dc4",
+  "source_note": "robots.txt disallows",
+  "sum_done": true,
+  "sum_status": "no source text (robots.txt disallows)"
  },
  {
   "id": "0366727d9b",
