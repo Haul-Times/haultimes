@@ -5473,7 +5473,8 @@
   "d246bab939": "skipped|importance 45 is below this platform's threshold (65)",
   "956555d6d9": "skipped|importance 57 is below this platform's threshold (65)",
   "7f86818477": "skipped|importance 50 is below this platform's threshold (65)",
-  "871bb19014": "skipped|importance 62 is below this platform's threshold (65)"
+  "871bb19014": "skipped|importance 62 is below this platform's threshold (65)",
+  "4d31ed5a4a": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11523,6 +11524,13 @@
    "title": "CDL training organizations welcome tighter FMCSA oversight",
    "action": "skipped",
    "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T13:01:26.820633+00:00",
+   "story_id": "4d31ed5a4a",
+   "title": "HTEC receives $7.78 million to deploy 25 hydrogen trucks in B.C.",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
