@@ -4815,6 +4815,36 @@
   "sum_pending": false
  },
  {
+  "id": "c598d3cb0e",
+  "slug": "eight-years-in-prison-and-4-6-million-in-restitution-for-multi-year-sc-c598d3cb0e",
+  "title": "Eight years in prison and $4.6 million in restitution for multi-year scheme to illegally sell farm diesel to truckers",
+  "orig_title": "Eight years in prison and $4.6 million in restitution for multi-year scheme to illegally sell farm diesel to truckers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 36,
+  "source": "NewsBreak: Local News & Alerts",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWDFfWlZhOHB5R2lweHg1d21valhiVGMxMmRFQjc1Q2NUeUJ5amRQOVdlZFc4LTgwb1cwU3hhWDRQMnMwc3BUT0RpWElMMkxrRHdwcFR2c05tR2NqWWQ4cVpjQUltT2Jsd2NRbnQ5RzduR0lKX25Sb3lKdGNlR2pBNExwM1BYQWhBYkFTOE03MnEwNWFsWnAyQjZwVDZGTEx2OTF4TUJNbFgxLXFhSkNOVV9TMWplTUZJcjloOE9WZTQ3NzdwaUM5bDFZd0dxZWEweGtncm1GLXpmVzlZY2FKbU1wb2U3UDlwc0lONXE1RkhtS19oYnNTaTZ1TVJKbl93YkE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWDFfWlZhOHB5R2lweHg1d21valhiVGMxMmRFQjc1Q2NUeUJ5amRQOVdlZFc4LTgwb1cwU3hhWDRQMnMwc3BUT0RpWElMMkxrRHdwcFR2c05tR2NqWWQ4cVpjQUltT2Jsd2NRbnQ5RzduR0lKX25Sb3lKdGNlR2pBNExwM1BYQWhBYkFTOE03MnEwNWFsWnAyQjZwVDZGTEx2OTF4TUJNbFgxLXFhSkNOVV9TMWplTUZJcjloOE9WZTQ3NzdwaUM5bDFZd0dxZWEweGtncm1GLXpmVzlZY2FKbU1wb2U3UDlwc0lONXE1RkhtS19oYnNTaTZ1TVJKbl93YkE",
+  "snippet": "Eight years in prison and $4.6 million in restitution for multi-year scheme to illegally sell farm diesel to truckers NewsBreak: Local News & Alerts",
+  "published": "2026-11-23T23:33:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T02:51:05.674258+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Diesel-tax evasion scheme lands California man in prison"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "817fe092c4"
+ },
+ {
   "id": "5c25dc2917",
   "slug": "diesel-prices-soar-as-silicon-valley-startup-unveils-cab-less-trucking-5c25dc2917",
   "title": "Diesel prices soar as Silicon Valley startup unveils cab-less trucking solution",
