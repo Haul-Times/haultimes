@@ -16057,35 +16057,6 @@
   "sum_pending": false
  },
  {
-  "id": "54a162d827",
-  "slug": "the-hill-report-119th-congress-vol-2-issue-no-30-54a162d827",
-  "title": "The Hill Report 119th Congress Vol. 2 Issue No. 30",
-  "orig_title": "The Hill Report 119th Congress Vol. 2 Issue No. 30",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "American Trucking Associations",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXRnMXp6UW1EbVdXdGhLM0pKT284dkMxTldVdGdCV0tKV0JTVElBNF9BQWR0YWNpNlJzS05FQ1lSYWVHQnNyamJxd3RWd20wc0FtRGxBVUxuaGdCb2tRVlZOc3BGWG1PdXRmZnFSamhIZS1iaHVPMHJFbURyNk9LamlTWVVPVW5sWEI0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXRnMXp6UW1EbVdXdGhLM0pKT284dkMxTldVdGdCV0tKV0JTVElBNF9BQWR0YWNpNlJzS05FQ1lSYWVHQnNyamJxd3RWd20wc0FtRGxBVUxuaGdCb2tRVlZOc3BGWG1PdXRmZnFSamhIZS1iaHVPMHJFbURyNk9LamlTWVVPVW5sWEI0",
-  "snippet": "The Hill Report 119th Congress Vol. 2 Issue No. 30 American Trucking Associations",
-  "published": "2026-11-21T07:14:33+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T21:31:06.155845+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
- },
- {
   "id": "bc2ca9341e",
   "slug": "one-killed-over-10-injured-in-eldoret-to-webuye-highway-crash-involvin-bc2ca9341e",
   "title": "One Killed, Over 10 Injured in Eldoret to Webuye Highway Crash Involving KCSE Candidates",
@@ -17927,35 +17898,6 @@
   "source_note": "paywalled: excerpt only · 25 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "a39b106f38",
-  "slug": "carriers-juggle-india-usec-vessel-moves-amid-capacity-utilization-decl-a39b106f38",
-  "title": "Carriers juggle India-USEC vessel moves amid capacity utilization declines",
-  "orig_title": "Carriers juggle India-USEC vessel moves amid capacity utilization declines",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Journal of Commerce",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHZtMlNNNHhpM2tDUENKdDV3bGpBSUJUQy1iVVBXVVpUa0dFQTg0N0poS1FoWHhSWGJobzFiTnpxOFFueXR3R1B4Y21lSGhRejVQUm9YMTBwU0owSVYxeEFZRFVkV0VoYTFsMTdiY0xUWndUSUdKR2FiWWhHYVJKWmpFZ2dJaXZhaHpDWmlEckxCa3QzVG1nRjN2aFBoa2dVaUE4UFRCNFFkbldLc2Vr?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHZtMlNNNHhpM2tDUENKdDV3bGpBSUJUQy1iVVBXVVpUa0dFQTg0N0poS1FoWHhSWGJobzFiTnpxOFFueXR3R1B4Y21lSGhRejVQUm9YMTBwU0owSVYxeEFZRFVkV0VoYTFsMTdiY0xUWndUSUdKR2FiWWhHYVJKWmpFZ2dJaXZhaHpDWmlEckxCa3QzVG1nRjN2aFBoa2dVaUE4UFRCNFFkbldLc2Vr",
-  "snippet": "Carriers juggle India-USEC vessel moves amid capacity utilization declines Journal of Commerce",
-  "published": "2026-11-20T15:59:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T21:21:07.169602+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "9f32659279",
