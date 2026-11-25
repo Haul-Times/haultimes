@@ -14145,35 +14145,6 @@
   "source_note": "ok · 1409 words"
  },
  {
-  "id": "cbce4742be",
-  "slug": "chinese-national-busted-in-sophisticated-scheme-to-smuggle-tens-of-mil-cbce4742be",
-  "title": "Chinese national busted in sophisticated scheme to smuggle tens of millions of dollars in counterfeit goods through LA",
-  "orig_title": "Chinese national busted in sophisticated scheme to smuggle tens of millions of dollars in counterfeit goods through LA",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "New York Post",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdk42UnZXUFJTdEF2QktKb0wyRHlTRC1jNDdRaUhMQ1c5Ym9KeE1fS1BhZVBNb052dkpiekthYlJldTdLNTNTMWNmcTdTQ051V2FOUC01UmlCeDg3NUFsaTk2bVdKcUt3OV9SUnFzSU9pUThjeVVZS3RfMmxEeEoydWplaTRlSlRaRGFZeE5Rczd6aE5UVFhZMmphT2dJSjlCU0dkOW9n?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdk42UnZXUFJTdEF2QktKb0wyRHlTRC1jNDdRaUhMQ1c5Ym9KeE1fS1BhZVBNb052dkpiekthYlJldTdLNTNTMWNmcTdTQ051V2FOUC01UmlCeDg3NUFsaTk2bVdKcUt3OV9SUnFzSU9pUThjeVVZS3RfMmxEeEoydWplaTRlSlRaRGFZeE5Rczd6aE5UVFhZMmphT2dJSjlCU0dkOW9n",
-  "snippet": "Chinese national busted in sophisticated scheme to smuggle tens of millions of dollars in counterfeit goods through LA New York Post",
-  "published": "2026-11-20T22:29:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T05:01:07.728435+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "7ad6dd71f6",
   "slug": "what-could-trump-s-data-centre-comments-mean-as-meta-builds-in-alberta-7ad6dd71f6",
   "title": "What could Trump’s data centre comments mean as Meta builds in Alberta?",
@@ -15289,35 +15260,6 @@
   "status": "rejected",
   "reasons": [
    "consumer vehicle / lifestyle story"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "02870f34ee",
-  "slug": "six-lanes-now-open-on-i94-between-monticello-and-albertville-02870f34ee",
-  "title": "Six Lanes Now Open on I94 Between Monticello and Albertville",
-  "orig_title": "Six Lanes Now Open on I94 Between Monticello and Albertville",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "WJON",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLSGNPVkliMmdtM0QwQmRqM3BSNFotVXZNUGlnUTBfTTdIaTRhUG9nWUotT1Nyc0hUdm44TUV2Vml0ZXRzT3RON3puVS1DVmp0R2VuMGl0ZXhLckJncHVOa0FBSVA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLSGNPVkliMmdtM0QwQmRqM3BSNFotVXZNUGlnUTBfTTdIaTRhUG9nWUotT1Nyc0hUdm44TUV2Vml0ZXRzT3RON3puVS1DVmp0R2VuMGl0ZXhLckJncHVOa0FBSVA",
-  "snippet": "Six Lanes Now Open on I94 Between Monticello and Albertville WJON",
-  "published": "2026-11-20T18:42:25+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T05:01:07.728435+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
