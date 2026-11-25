@@ -5692,7 +5692,9 @@
   "7768d9bb4f": "queued|importance 78 (threshold 65), Industry, trade publication",
   "e518328046": "skipped|minor item (news) or low-quality source",
   "7934b9d570": "queued|importance 67 (threshold 65), Equipment, trade publication",
-  "968968526d": "skipped|importance 50 is below this platform's threshold (65)"
+  "968968526d": "skipped|importance 50 is below this platform's threshold (65)",
+  "fd42d0f7eb": "skipped|minor item (news) or low-quality source",
+  "97bd671e09": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11847,6 +11849,20 @@
    "title": "How to steal a truckload of bourbon and not get caught : Planet Money",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T16:21:29.099359+00:00",
+   "story_id": "fd42d0f7eb",
+   "title": "Freight Volatility Moved to the P&L. Is Your2027 Budget Ready?",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
+  },
+  {
+   "at": "2026-11-25T16:21:29.099359+00:00",
+   "story_id": "97bd671e09",
+   "title": "Truckers Still Adjusting To Ongoing Diesel Price Shifts",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
