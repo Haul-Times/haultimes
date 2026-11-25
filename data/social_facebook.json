@@ -5469,7 +5469,8 @@
   "ac6e13a91f": "skipped|importance 45 is below this platform's threshold (65)",
   "6ccaaf0228": "skipped|importance 57 is below this platform's threshold (65)",
   "c3200155fa": "skipped|minor item (incident) or low-quality source",
-  "0432ac6450": "skipped|importance 55 is below this platform's threshold (65)"
+  "0432ac6450": "skipped|importance 55 is below this platform's threshold (65)",
+  "d246bab939": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11484,6 +11485,13 @@
    "title": "New tactics from cargo thieves make Thanksgiving operations more vulnerable",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T09:31:25.223190+00:00",
+   "story_id": "d246bab939",
+   "title": "Truckload Prices Climb and the Intermodal Discount Widens Sharply",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
