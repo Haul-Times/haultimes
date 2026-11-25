@@ -25,7 +25,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "pub_url": "https://gisuser.com/2026/11/best-freight-brokers-in-the-usa-for-ltl-and-truckload-shippers-2027-list/",
   "source_note": "ok · 684 words"
  },
@@ -3103,6 +3103,35 @@
   "sum_v4": true,
   "ai_category": "drivers",
   "dup_of": "a97936c08d"
+ },
+ {
+  "id": "1c51036174",
+  "slug": "ebola-aid-cuts-put-regional-trade-corridors-under-pressure-1c51036174",
+  "title": "Ebola, aid cuts put regional trade corridors under pressure",
+  "orig_title": "Ebola, aid cuts put regional trade corridors under pressure",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Star, Kenya",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemlpTmR6SDQ2czE0Tng4d2ZTQ3JJd2lrRU0wWFZqY0JuVFdGZlhIMXg5OFdXcmx5Vm4tenlVVGUxZVU3ZklmNlIwOTU1Ym1zcmZ6QkVRTmZUcEZEZGpxekJpUWI0T2FCMVlpdEQ3aFBBVmN1MkxHVTRKWHlpSXZZWUlfcVVKZ1UxSGlFM3AwdV9Qbm9kaldpS2dtdXVrSk5vVmNkWkhMYUc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemlpTmR6SDQ2czE0Tng4d2ZTQ3JJd2lrRU0wWFZqY0JuVFdGZlhIMXg5OFdXcmx5Vm4tenlVVGUxZVU3ZklmNlIwOTU1Ym1zcmZ6QkVRTmZUcEZEZGpxekJpUWI0T2FCMVlpdEQ3aFBBVmN1MkxHVTRKWHlpSXZZWUlfcVVKZ1UxSGlFM3AwdV9Qbm9kaldpS2dtdXVrSk5vVmNkWkhMYUc",
+  "snippet": "Ebola, aid cuts put regional trade corridors under pressure The Star, Kenya",
+  "published": "2026-11-25T02:45:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T22:41:04.675095+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "8f8cbfb1b1",
