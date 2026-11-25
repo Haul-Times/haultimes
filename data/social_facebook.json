@@ -4425,14 +4425,14 @@
    "source": "Transport Topics",
    "dest": "https://haultimes.com/story/trump-rebuilds-tariff-wall-with-new-import-taxes-ee6a5a7588/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=ee6a5a7588",
    "caption": "Trump rebuilds tariff wall with new import taxes.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder #Tariffs #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-25T14:51:22.431888+00:00",
    "published": "2026-11-25T14:25:57+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122112309249544428",
+   "posted_at": "2026-11-25T15:02:38.517243+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Trump rebuilds tariff wall with new import taxes | HaulTimes",
@@ -4443,7 +4443,9 @@
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-25T15:02:38.517243+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122112309249544428"
   }
  },
  "paused": null,
@@ -4812,6 +4814,10 @@
   {
    "at": "2026-11-25T14:51:22.431888+00:00",
    "msg": "credentials OK: connected to HaulTimes"
+  },
+  {
+   "at": "2026-11-25T15:02:38.517243+00:00",
+   "msg": "posted ee6a5a7588"
   }
  ],
  "decided": {
@@ -5552,7 +5558,7 @@
   "ad714947cb": "posted|importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 20 min in queue",
   "9ad6207e16": "skipped|minor item (announcement) or low-quality source",
   "2c9771f227": "skipped|importance 61 is below this platform's threshold (65)",
-  "ee6a5a7588": "queued|importance 67 (threshold 65), Cross-Border, trade publication"
+  "ee6a5a7588": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 11 min in queue"
  },
  "decisions": [
   {
@@ -11644,6 +11650,13 @@
    "title": "Trump rebuilds tariff wall with new import taxes",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-25T15:02:38.517243+00:00",
+   "story_id": "ee6a5a7588",
+   "title": "Trump rebuilds tariff wall with new import taxes",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 11 min in queue"
   }
  ],
  "visibility": {

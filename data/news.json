@@ -1,5 +1,34 @@
 [
  {
+  "id": "977f9a68d8",
+  "slug": "real-credentials-wrong-hands-977f9a68d8",
+  "title": "REAL CREDENTIALS, WRONG HANDS",
+  "orig_title": "REAL CREDENTIALS, WRONG HANDS",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "FreightWaves",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LT2hSbTlQUnF4MzlfNlNVRUNlb1IxTmVaSEpITDR3SEpXTlhXRVRfd19TSzBXUzZoRTdFS3NMdnYwVFM2SzBlNmNSdlVtVDhNVGlhd3ZxcTI5MWZudzAzVlpUOXZUdkdZekR5VFVVbw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LT2hSbTlQUnF4MzlfNlNVRUNlb1IxTmVaSEpITDR3SEpXTlhXRVRfd19TSzBXUzZoRTdFS3NMdnYwVFM2SzBlNmNSdlVtVDhNVGlhd3ZxcTI5MWZudzAzVlpUOXZUdkdZekR5VFVVbw",
+  "snippet": "REAL CREDENTIALS, WRONG HANDS FreightWaves",
+  "published": "2026-11-25T14:43:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T15:02:17.347737+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "5cdc31e452",
   "slug": "days-around-thanksgiving-not-the-holiday-attract-most-cargo-thieves-5cdc31e452",
   "title": "Days around Thanksgiving -- not the holiday -- attract most cargo thieves",
@@ -14262,35 +14291,6 @@
   ],
   "ai_category": "other",
   "ai_importance": 40
- },
- {
-  "id": "83291ff119",
-  "slug": "scholarships-this-week-83291ff119",
-  "title": "Scholarships This Week",
-  "orig_title": "Scholarships This Week",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Kashmir Observer",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VQlg3M1B0N3NCVWh6YTVCV1NCbV9VNGp1UTFqUHAwNnpIdXA0VDB6a3dWMUszZFNVX2tqR3VpRld5bmVLTFF2UnNwQ3dSLWdsMXpwaXJuMlBPM2RnYWJGUkN3a1ZHUHAyZW5HYVpMU2VJNUR3?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VQlg3M1B0N3NCVWh6YTVCV1NCbV9VNGp1UTFqUHAwNnpIdXA0VDB6a3dWMUszZFNVX2tqR3VpRld5bmVLTFF2UnNwQ3dSLWdsMXpwaXJuMlBPM2RnYWJGUkN3a1ZHUHAyZW5HYVpMU2VJNUR3",
-  "snippet": "Scholarships This Week Kashmir Observer",
-  "published": "2026-11-21T14:17:50+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T15:01:05.706473+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "6c016a9026",
