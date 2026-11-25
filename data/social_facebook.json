@@ -5472,7 +5472,8 @@
   "0432ac6450": "skipped|importance 55 is below this platform's threshold (65)",
   "d246bab939": "skipped|importance 45 is below this platform's threshold (65)",
   "956555d6d9": "skipped|importance 57 is below this platform's threshold (65)",
-  "7f86818477": "skipped|importance 50 is below this platform's threshold (65)"
+  "7f86818477": "skipped|importance 50 is below this platform's threshold (65)",
+  "871bb19014": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11515,6 +11516,13 @@
    "title": "Surrey to audit how truck parking, retail cannabis permits awarded",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T11:21:27.244117+00:00",
+   "story_id": "871bb19014",
+   "title": "CDL training organizations welcome tighter FMCSA oversight",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
