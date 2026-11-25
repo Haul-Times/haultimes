@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:21:02.516353+00:00",
+ "updated": "2026-11-25T17:31:03.870313+00:00",
  "hour_now": 12,
  "have_us": true,
  "have_ca": true,
@@ -20,7 +20,7 @@
    "north": {
     "wait": 10,
     "status": "10 minutes",
-    "updated": "2026-11-25 08:25 EST"
+    "updated": "2026-11-25 12:21 EST"
    },
    "usual": {
     "south": [
@@ -111,7 +111,7 @@
      8,
      17,
      28,
-     23,
+     25,
      0,
      3,
      3,
@@ -170,7 +170,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-25 10:15 EST"
+    "updated": "2026-11-25 12:15 EST"
    },
    "usual": {
     "south": [
@@ -245,7 +245,7 @@
    "north": {
     "wait": 2,
     "status": "2 minutes",
-    "updated": "2026-11-25 12:00 EST"
+    "updated": "2026-11-25 12:20 EST"
    },
    "usual": {
     "south": [
@@ -318,9 +318,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-25 12:00 EST"
+    "wait": 8,
+    "status": "8 minutes",
+    "updated": "2026-11-25 12:20 EST"
    },
    "usual": {
     "south": [
@@ -395,7 +395,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-25 10:15 EST"
+    "updated": "2026-11-25 12:15 EST"
    },
    "usual": {
     "south": [
@@ -411,7 +411,7 @@
      5,
      5,
      5,
-     3,
+     4,
      0,
      0,
      0,
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-25 12:06 EST"
+    "updated": "2026-11-25 12:15 EST"
    },
    "usual": {
     "south": [
@@ -695,7 +695,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-25 10:15 EST"
+    "updated": "2026-11-25 12:15 EST"
    },
    "usual": {
     "south": [
@@ -920,7 +920,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-25 11:15 AST"
+    "updated": "2026-11-25 13:15 AST"
    },
    "usual": {
     "south": [
@@ -995,7 +995,7 @@
    "north": {
     "wait": null,
     "status": "Not Applicable",
-    "updated": "2026-11-25 13:11 AST"
+    "updated": "2026-11-25 13:15 AST"
    },
    "usual": {
     "south": [
@@ -1229,7 +1229,7 @@
      0,
      15,
      6,
-     5,
+     4,
      6,
      7,
      4,
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-25 10:00 PDT"
+    "updated": "2026-11-25 10:20 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-25 10:00 PDT"
+    "updated": "2026-11-25 10:20 PDT"
    },
    "usual": {
     "south": [
