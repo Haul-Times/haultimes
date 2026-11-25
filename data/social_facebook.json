@@ -4501,18 +4501,20 @@
    "source": "HaulTimes",
    "dest": "https://haultimes.com/s/promo-20261125/?utm_source=facebook&utm_medium=organic_social&utm_campaign=freight_market",
    "caption": "How's your market this week? Tell us in one tap: Hot, Normal or Slow. Every answer adds to a live load-market map for the US and Canada. No name, no email.\n\n#Trucking #CanadianTrucking #Flatbed #Reefer",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-25T15:33:31.187085+00:00",
    "published": "2026-11-25T15:33:31.187085+00:00",
    "score": 65,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122112432177544428",
+   "posted_at": "2026-11-25T18:31:29.945110+00:00",
    "next_attempt_at": null,
    "preview": {},
    "house": "promo",
-   "reason": "HaulTimes update: promo"
+   "reason": "HaulTimes update: promo",
+   "last_attempt_at": "2026-11-25T18:31:29.945110+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122112432177544428"
   },
   "7768d9bb4f": {
    "story_id": "7768d9bb4f",
@@ -5015,6 +5017,10 @@
   {
    "at": "2026-11-25T17:41:26.062460+00:00",
    "msg": "posted 5c78e75390"
+  },
+  {
+   "at": "2026-11-25T18:31:29.945110+00:00",
+   "msg": "posted promo-20261125"
   }
  ],
  "decided": {
@@ -5758,7 +5764,7 @@
   "ee6a5a7588": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 11 min in queue",
   "67cc540c3a": "posted|importance 78 (threshold 65), Cross-Border, trade publication; waited 30 min in queue",
   "1b06afab29": "skipped|importance 45 is below this platform's threshold (65)",
-  "promo-20261125": "queued|HaulTimes update",
+  "promo-20261125": "posted|HaulTimes update",
   "7768d9bb4f": "posted|importance 78 (threshold 65), Industry, trade publication; waited 49 min in queue",
   "e518328046": "skipped|minor item (news) or low-quality source",
   "7934b9d570": "posted|importance 67 (threshold 65), Equipment, trade publication; waited 79 min in queue",
@@ -11986,6 +11992,13 @@
    "title": "FMCSA denies hazmat response company’s request for hours-of-service exemption",
    "action": "skipped",
    "reason": "importance 62 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T18:31:29.945110+00:00",
+   "story_id": "promo-20261125",
+   "title": "Freight Market reminder",
+   "action": "posted",
+   "reason": "HaulTimes update: promo; waited 177 min in queue"
   }
  ],
  "visibility": {
