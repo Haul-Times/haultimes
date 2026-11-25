@@ -1386,6 +1386,35 @@
   "dup_of": "e036662536"
  },
  {
+  "id": "48c2b84e7b",
+  "slug": "dangote-cement-honours-35-top-performing-customer-drivers-48c2b84e7b",
+  "title": "Dangote cement honours 35 top-performing customer drivers",
+  "orig_title": "Dangote cement honours 35 top-performing customer drivers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Blueprint Newspapers",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU1I3SEY1YmdxUXhicjRiQzI3cGMyaWhwZnFRUGwtSlhHNzN2MmxmNm9YYnRyTXVhR1RZY0NGbGNwTGlWa0ZHMEQtNENfUFQ1bDZvb0ZGcmtLWTJCa2lQUkptU3FrVHM5OG1fS0NIbmRkVEJXNl9tMGtxNU01VllUd1dxZzJJdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU1I3SEY1YmdxUXhicjRiQzI3cGMyaWhwZnFRUGwtSlhHNzN2MmxmNm9YYnRyTXVhR1RZY0NGbGNwTGlWa0ZHMEQtNENfUFQ1bDZvb0ZGcmtLWTJCa2lQUkptU3FrVHM5OG1fS0NIbmRkVEJXNl9tMGtxNU01VllUd1dxZzJJdw",
+  "snippet": "Dangote cement honours 35 top-performing customer drivers Blueprint Newspapers",
+  "published": "2026-11-24T19:03:29+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T04:01:06.399997+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "4ce26f192c",
   "slug": "access-newswire-press-releases-4ce26f192c",
   "title": "ACCESS Newswire Press Releases",
@@ -18066,35 +18095,6 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 40
- },
- {
-  "id": "4d71393684",
-  "slug": "canadians-concerned-about-online-holiday-shopping-scams-heightened-due-4d71393684",
-  "title": "Canadians concerned about online holiday shopping scams heightened due to AI",
-  "orig_title": "Canadians concerned about online holiday shopping scams heightened due to AI",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkVPOWZzSl9NSXJtT0xyY0NkVC0wMVc5OTRpRURPWkVtN1drd3pYRFJEN0JkN09TeUVXSWotNlhxdlBfTWYzODNDa3J1UE11Q0NlUlNsWUR1a2dTVktNSUpDVVhTUmJ0OFFVdFBoTEVuRDlmZXBibDVmbTM5UnkyNzFpSm9yN0NVaC10SG9qeFRSQmZvVi1KYTdQYXhTeTE4TkJibWt2aVA2d3lTLXJVcXlpWjVxMTB1NkpzQ1BGSERROTJfekJIaA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkVPOWZzSl9NSXJtT0xyY0NkVC0wMVc5OTRpRURPWkVtN1drd3pYRFJEN0JkN09TeUVXSWotNlhxdlBfTWYzODNDa3J1UE11Q0NlUlNsWUR1a2dTVktNSUpDVVhTUmJ0OFFVdFBoTEVuRDlmZXBibDVmbTM5UnkyNzFpSm9yN0NVaC10SG9qeFRSQmZvVi1KYTdQYXhTeTE4TkJibWt2aVA2d3lTLXJVcXlpWjVxMTB1NkpzQ1BGSERROTJfekJIaA",
-  "snippet": "Canadians concerned about online holiday shopping scams heightened due to AI CTV News",
-  "published": "2026-11-19T22:17:13+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-21T03:51:14.114660+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "6343e27282",
