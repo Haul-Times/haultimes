@@ -5464,7 +5464,8 @@
   "79084dab06": "skipped|importance 61 is below this platform's threshold (65)",
   "8ae0367a6a": "skipped|importance 55 is below this platform's threshold (65)",
   "4fa34f3502": "skipped|importance 50 is below this platform's threshold (65)",
-  "938bce4458": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  "938bce4458": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+  "0366727d9b": "skipped|minor item (crime) or low-quality source"
  },
  "decisions": [
   {
@@ -11416,6 +11417,13 @@
    "title": "GRAND THEFT FREIGHT: THE TRUCKERS STRIKE BACK! | BRAKE CHECK - YouTube",
    "action": "queued",
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
+  },
+  {
+   "at": "2026-11-25T03:31:41.035006+00:00",
+   "story_id": "0366727d9b",
+   "title": "Ohio truck driver sentenced for sexually assaulting 13-year-old girl in Cumberland County",
+   "action": "skipped",
+   "reason": "minor item (crime) or low-quality source"
   }
  ],
  "visibility": {
