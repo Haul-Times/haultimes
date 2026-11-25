@@ -7,7 +7,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 25,
   "source": "WGAL",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMHNDdTZ5M2tDcDFzUTR3Y19mV1l5QkVudnNJQ1prWTU3d0pGTU5uU0tnUHZ4aHFYTzJHODF0b3ZzWkQ2eGIzdUNZRUhGLWY5cDRIU19sV19oeFhpZG1oYWtMTzQ5dTlZRGV3MHBoOWF4bUNYQi1YVVJkdUlfX1d3MXV6al84bnUwRHpyeGQtd2lpbWxfM1E?oc=5",
@@ -32,14 +32,54 @@
   "sum_status": "withheld",
   "source_fp": "dd60d93ed565703f",
   "source_scope": "full_article",
-  "sum_at": "2026-11-25T03:31:04.244062+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-25T03:41:07.131983+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [],
-  "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "sentenced Tuesday to 5½ to 11 years in state prison"
+   },
+   {
+    "sentence": "2",
+    "quote": "pleaded guilty to involuntary deviate sexual intercourse"
+   },
+   {
+    "sentence": "3",
+    "quote": "began searching for the girl on March 4"
+   },
+   {
+    "sentence": "4",
+    "quote": "identified a trucking company’s name in the background of a photo posted on social media"
+   },
+   {
+    "sentence": "5",
+    "quote": "The mother contacted Shaffer Trucking, based in Lincoln, Nebraska"
+   },
+   {
+    "sentence": "6",
+    "quote": "When company employees questioned Hawk about an unauthorized passenger"
+   },
+   {
+    "sentence": "7",
+    "quote": "arrived at a local truck stop as the girl was about to leave"
+   },
+   {
+    "sentence": "8",
+    "quote": "met the girl through social media and arranged a ride"
+   },
+   {
+    "sentence": "9",
+    "quote": "credited the girl’s mother, the trucking company and police for their response"
+   }
   ],
-  "ai_importance": 25
+  "sum_problems": [
+   "summary longer than 160 words",
+   "copies a 12-word run from the source: 'register as a sex offender for life. middlesex township police began s'"
+  ],
+  "ai_importance": 40,
+  "sum_v4": true,
+  "ai_category": "drivers"
  },
  {
   "id": "8f8cbfb1b1",
@@ -1228,6 +1268,63 @@
   "source_note": "paywalled: excerpt only · 17 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "1314c91479",
+  "slug": "locals-still-pull-up-to-these-5-old-north-carolina-truck-stop-diners-t-1314c91479",
+  "title": "Locals Still Pull Up to These 5 Old North Carolina Truck Stop Diners That Feel Like 1970",
+  "orig_title": "Locals Still Pull Up to These 5 Old North Carolina Truck Stop Diners That Feel Like 1970",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 30,
+  "source": "Fast Food Club",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0Rxd0FtUklHeEFtWGtrWHUzT2NQMDNWX2hDYk5jY0hSQzNuR3dicVdLNlEwVFY0dnk2Y2NKODdSZ0p4SlRoMm41S2J4YjNZNmhpZElGbm9ONmNyWkhuSmV5ZGRLVWdmVDVwbGttLVA0R1NmZGFDaF9jdDZ0VFB1cWpkOVJWb1ZoOGhpTjBpa3hacDI0SS1FTGtxTm9rR2RqQVV3bTA3M1c4dlNrVDN3WU5qOWN5em8?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0Rxd0FtUklHeEFtWGtrWHUzT2NQMDNWX2hDYk5jY0hSQzNuR3dicVdLNlEwVFY0dnk2Y2NKODdSZ0p4SlRoMm41S2J4YjNZNmhpZElGbm9ONmNyWkhuSmV5ZGRLVWdmVDVwbGttLVA0R1NmZGFDaF9jdDZ0VFB1cWpkOVJWb1ZoOGhpTjBpa3hacDI0SS1FTGtxTm9rR2RqQVV3bTA3M1c4dlNrVDN3WU5qOWN5em8",
+  "snippet": "Locals Still Pull Up to These 5 Old North Carolina Truck Stop Diners That Feel Like 1970 Fast Food Club",
+  "published": "2026-11-24T19:24:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T03:41:07.131983+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://fastfoodclub.com/p/locals-still-pull-up-to-these-5-old-north-carolina-truck-stop-diners-that-feel-like-1970/",
+  "source_note": "ok · 776 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "a03db3295a2cdadd",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-25T03:41:07.131983+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "These five spots stretch from the mountains near Asheville"
+   },
+   {
+    "sentence": "2",
+    "quote": "The diner stays open 24 hours a day, seven days a week"
+   },
+   {
+    "sentence": "3",
+    "quote": "It opens at 6 a.m. on weekdays and 7 a.m."
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 6,
+  "ai_relevant": false
  },
  {
   "id": "cc1e8c08a6",
