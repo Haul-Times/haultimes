@@ -206,7 +206,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/fmcsa-denies-hazmat-response-companys-request-for-hour-of-service-exemption/?amp",
   "source_note": "ok · 361 words"
@@ -842,7 +842,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://kewaneevoice.com/after-93-years-galvas-bell-trucking-passes-the-baton-to-new-owner/",
   "source_note": "ok · 1283 words"
  },
