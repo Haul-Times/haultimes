@@ -789,6 +789,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "4d9762a4b3",
+  "slug": "clyde-patrick-mikeska-4d9762a4b3",
+  "title": "Clyde Patrick Mikeska",
+  "orig_title": "Clyde Patrick Mikeska",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Burleson County Tribune",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yb01ZenhwTERleDNuVWdnTlpjUWJ5VmlCbXpBZGhKVW5UeElwdUlockpsMHVtdlladGVHek5uTEFvdWE0cmJEVWxoelpPa1hBQVZxMnBzUVU0RDd1ODNsekVPek1qM0hkbEE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yb01ZenhwTERleDNuVWdnTlpjUWJ5VmlCbXpBZGhKVW5UeElwdUlockpsMHVtdlladGVHek5uTEFvdWE0cmJEVWxoelpPa1hBQVZxMnBzUVU0RDd1ODNsekVPek1qM0hkbEE",
+  "snippet": "Clyde Patrick Mikeska Burleson County Tribune",
+  "published": "2026-11-25T12:07:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T17:11:06.530599+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "54075b44c3",
   "slug": "j-b-hunt-comes-out-against-union-pacific-norfolk-southern-merger-54075b44c3",
   "title": "J.B. Hunt Comes Out Against Union Pacific-Norfolk Southern Merger",
@@ -1341,7 +1370,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3,
   "source_note": "no publisher address: google page HTTPError",
   "sum_status": "retrying (no publisher address: google page HTTPError)"
