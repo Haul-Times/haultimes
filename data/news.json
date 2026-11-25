@@ -181,6 +181,35 @@
   "sum_pending": false
  },
  {
+  "id": "32d1c2b849",
+  "slug": "harbinger-manufacturing-03-32d1c2b849",
+  "title": "Harbinger-Manufacturing-03",
+  "orig_title": "Harbinger-Manufacturing-03",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdFE4YVRGcFphcDlDcTh0X1NSVVVVYmdQV2hoVkpHUmZEY05hU3ZnVVl4RVRxbkZFaGZsN0NqWFhoUm5RbFQ4SFNXbmpUTXk2Uk5maUVKMVFueV9nQmE1RERpMkFlN1lmZzNNdm9MRXdaVm83ZHU5eTJha0VDcnZlNHU3TXYtandyZXpLMHJ4bk8xZEFTenZFNG9Cb1B4aUlEMnlocHpnTGxhWDZmUmZhd2MydUFvaVNpLUJuTE5rUFc5TV9OMDVMNGItVjhTdTlQWHYwQjFtNHBlQXF4SjV1Y3NabkV5eDFMbXpyTGxrTQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdFE4YVRGcFphcDlDcTh0X1NSVVVVYmdQV2hoVkpHUmZEY05hU3ZnVVl4RVRxbkZFaGZsN0NqWFhoUm5RbFQ4SFNXbmpUTXk2Uk5maUVKMVFueV9nQmE1RERpMkFlN1lmZzNNdm9MRXdaVm83ZHU5eTJha0VDcnZlNHU3TXYtandyZXpLMHJ4bk8xZEFTenZFNG9Cb1B4aUlEMnlocHpnTGxhWDZmUmZhd2MydUFvaVNpLUJuTE5rUFc5TV9OMDVMNGItVjhTdTlQWHYwQjFtNHBlQXF4SjV1Y3NabkV5eDFMbXpyTGxrTQ",
+  "snippet": "Harbinger-Manufacturing-03 Truck News",
+  "published": "2026-11-25T05:53:09+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T08:01:03.341060+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "bef1357c48",
   "slug": "wreaths-bef1357c48",
   "title": "wreaths",
