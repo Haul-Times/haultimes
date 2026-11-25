@@ -1,5 +1,35 @@
 [
  {
+  "id": "4bdba9a87f",
+  "slug": "verisk-report-thanksgiving-cargo-theft-doubled-from-2021-company-warns-4bdba9a87f",
+  "title": "Verisk report: Thanksgiving cargo theft doubled from 2021; company warns of new schemes",
+  "orig_title": "Verisk report: Thanksgiving cargo theft doubled from 2021; company warns of new schemes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 63,
+  "source": "ROI-NJ",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDFoZW1CblJ3V29Hc0RlaTFTUGhIMnpyMmFmOVJnNFVKOGMxMzFmQVNzV1FCU0ppNHdoRmVEYWd1R1ZTbm9QYW5HSFVVX2JqMkxkRklSM3NIamd5VEtZWURlZktWUzBaNnRrb212cVpLU2NfMzdiQUhGWDFIcU5lM2JBMEVZdlhvNFlqWW1tM1hKTC1JUHRTdm5RTWxPMnFrd3ZpRTJOUkF5bWNfQVJ4OV9CYXlVMTBJNWxfM0lQNENiQTZUY19fQUZB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDFoZW1CblJ3V29Hc0RlaTFTUGhIMnpyMmFmOVJnNFVKOGMxMzFmQVNzV1FCU0ppNHdoRmVEYWd1R1ZTbm9QYW5HSFVVX2JqMkxkRklSM3NIamd5VEtZWURlZktWUzBaNnRrb212cVpLU2NfMzdiQUhGWDFIcU5lM2JBMEVZdlhvNFlqWW1tM1hKTC1JUHRTdm5RTWxPMnFrd3ZpRTJOUkF5bWNfQVJ4OV9CYXlVMTBJNWxfM0lQNENiQTZUY19fQUZB",
+  "snippet": "Verisk report: Thanksgiving cargo theft doubled from 2021; company warns of new schemes ROI-NJ",
+  "published": "2026-11-25T10:32:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T10:41:07.536674+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: CargoNet warns of fraudulent hires, high-value freight theft ahead of Thanksgiving"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "e036662536"
+ },
+ {
   "id": "c1e585de41",
   "slug": "eu-adjusts-ukraine-accession-stance-to-accommodate-polish-farm-and-tra-c1e585de41",
   "title": "EU adjusts Ukraine accession stance to accommodate Polish farm and transport demands",
@@ -617,12 +647,12 @@
   "source_type": "reporting",
   "status": "duplicate",
   "reasons": [
-   "same story as: Ohio truck driver sentenced for sexually assaulting 13-year-old girl in Cumberland County"
+   "same story as: Ohio truck driver sentenced up to 11 years in prison for having sex with 13-year-old in Cu"
   ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
-  "dup_of": "0366727d9b"
+  "dup_of": "a97936c08d"
  },
  {
   "id": "c3200155fa",
@@ -677,8 +707,10 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Ohio truck driver sentenced up to 11 years in prison for having sex with 13-year-old in Cu"
+  ],
   "labels": [],
   "kind": "crime",
   "sum_pending": false,
@@ -736,7 +768,8 @@
   ],
   "ai_importance": 40,
   "sum_v4": true,
-  "ai_category": "drivers"
+  "ai_category": "drivers",
+  "dup_of": "a97936c08d"
  },
  {
   "id": "8f8cbfb1b1",
@@ -1592,6 +1625,37 @@
   "source_note": "excerpt only · 24 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "a97936c08d",
+  "slug": "ohio-truck-driver-sentenced-up-to-11-years-in-prison-for-having-sex-wi-a97936c08d",
+  "title": "Ohio truck driver sentenced up to 11 years in prison for having sex with 13-year-old in Cumberland County",
+  "orig_title": "Ohio truck driver sentenced up to 11 years in prison for having sex with 13-year-old in Cumberland County",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 25,
+  "source": "FOX43",
+  "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQOEgxWl9oYmcyWFctSlAxZ0dlcnNTdWNnNHpBMGRDQjRaWVptNWlZUC1ZQ3o5d2doelBqNWlnVld2YXByeXc3RFc1ZndvMHd1UDB6amhXUXFVNVBBTnBaQm5pVDNKQklDRFRjUWllcVZILU5zR3dkUFhrRGcwdEhsZUp3VWJpdjlCSGtpbnFuOW12N2lzclVocm1rbURQb3NWZ3pUUGk2aFI3VG0yRnZfdTEwQjJ6cTVoRDZOYmdKWUF4enJZMkVyQ2w0LUkyQlRlaVhVb1k3WlQyZHlTN2ZWdVk2aG4tbldFbi1CWkppblotYS1OcTF5dTRsTXBneFJTTkdwZ3hCUXRfM1NhR1UyTmlYZjJGUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQOEgxWl9oYmcyWFctSlAxZ0dlcnNTdWNnNHpBMGRDQjRaWVptNWlZUC1ZQ3o5d2doelBqNWlnVld2YXByeXc3RFc1ZndvMHd1UDB6amhXUXFVNVBBTnBaQm5pVDNKQklDRFRjUWllcVZILU5zR3dkUFhrRGcwdEhsZUp3VWJpdjlCSGtpbnFuOW12N2lzclVocm1rbURQb3NWZ3pUUGk2aFI3VG0yRnZfdTEwQjJ6cTVoRDZOYmdKWUF4enJZMkVyQ2w0LUkyQlRlaVhVb1k3WlQyZHlTN2ZWdVk2aG4tbldFbi1CWkppblotYS1OcTF5dTRsTXBneFJTTkdwZ3hCUXRfM1NhR1UyTmlYZjJGUQ",
+  "snippet": "Ohio truck driver sentenced up to 11 years in prison for having sex with 13-year-old in Cumberland County FOX43",
+  "published": "2026-11-24T21:28:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T10:41:07.536674+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "crime",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "4857439351",
