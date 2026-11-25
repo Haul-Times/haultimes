@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:11:06.656165+00:00",
+ "updated": "2026-11-25T13:21:04.889003+00:00",
  "hour_now": 8,
  "have_us": true,
  "have_ca": true,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 14,
+    "wait": 23,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 8:00 am EST",
+    "updated": "At 8:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -257,7 +257,7 @@
      0,
      2,
      1,
-     12,
+     13,
      17,
      9,
      4,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:00 am EST",
+    "updated": "At 8:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -407,7 +407,7 @@
      9,
      5,
      5,
-     2,
+     3,
      0,
      0,
      0,
@@ -685,11 +685,11 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": null,
-    "fast_wait": null,
-    "lanes": "",
-    "status": "Lanes Closed",
-    "updated": "08:08:55",
+    "wait": 0,
+    "fast_wait": 0,
+    "lanes": "2",
+    "status": "no delay",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "08:08:55",
+    "updated": "08:18:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1082,7 +1082,7 @@
      0,
      0,
      5,
-     12,
+     11,
      15,
      6,
      4,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 8 AM"
+   "best_north": "Usually fastest around 9 AM"
   },
   {
    "id": "sumas",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "05:08:55",
+    "updated": "05:18:55",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1494,6 +1494,11 @@
    },
    {
     "name": "Edmundston",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Lacolle: Route 223",
     "wait": 0,
     "status": "No Delay"
    },
