@@ -5767,7 +5767,8 @@
   "97bd671e09": "skipped|importance 57 is below this platform's threshold (65)",
   "5c78e75390": "posted|breaking",
   "8b7ec0862a": "skipped|importance 50 is below this platform's threshold (65)",
-  "69595cd964": "skipped|importance 45 is below this platform's threshold (65)"
+  "69595cd964": "skipped|importance 45 is below this platform's threshold (65)",
+  "3efee35725": "skipped|importance 62 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11978,6 +11979,13 @@
    "title": "After 93 years, Galva’s Bell Trucking passes the baton to new owner",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T18:11:26.438620+00:00",
+   "story_id": "3efee35725",
+   "title": "FMCSA denies hazmat response company’s request for hours-of-service exemption",
+   "action": "skipped",
+   "reason": "importance 62 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
