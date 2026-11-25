@@ -5518,7 +5518,8 @@
   "871bb19014": "skipped|importance 62 is below this platform's threshold (65)",
   "4d31ed5a4a": "skipped|importance 61 is below this platform's threshold (65)",
   "ad714947cb": "posted|importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 20 min in queue",
-  "9ad6207e16": "skipped|minor item (announcement) or low-quality source"
+  "9ad6207e16": "skipped|minor item (announcement) or low-quality source",
+  "2c9771f227": "skipped|importance 61 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11596,6 +11597,13 @@
    "title": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-25T14:31:29.339890+00:00",
+   "story_id": "2c9771f227",
+   "title": "Descartes says new platform can quote 90% of freight requests within 30 seconds",
+   "action": "skipped",
+   "reason": "importance 61 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
