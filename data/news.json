@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "cd4f91d7c8",
+  "slug": "fresh-faces-fuel-the-future-of-transport-cd4f91d7c8",
+  "title": "Fresh faces fuel the future of transport",
+  "orig_title": "Fresh faces fuel the future of transport",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "NBN News",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGljTFlWbXVzdWtFSzkzMF9ndnZTNE1KYmtRT1FqZ3gwTndldTRDekhmd05Jb3Q4N1pQdF9oLUhrNXlZeFpqNmdvSjdvSDdLSC1iMzJhY0lWT1NZa2JjTWRUTWxiWHNnR0tVc3ZSTEZpaDFxalBlYnRrcEQ4SDJXN1k2dFZUQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGljTFlWbXVzdWtFSzkzMF9ndnZTNE1KYmtRT1FqZ3gwTndldTRDekhmd05Jb3Q4N1pQdF9oLUhrNXlZeFpqNmdvSjdvSDdLSC1iMzJhY0lWT1NZa2JjTWRUTWxiWHNnR0tVc3ZSTEZpaDFxalBlYnRrcEQ4SDJXN1k2dFZUQQ",
+  "snippet": "Fresh faces fuel the future of transport NBN News",
+  "published": "2026-11-25T06:30:34+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T07:31:07.643183+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "2f26b1ece2",
   "slug": "american-watertek-owner-says-no-flammable-goods-were-in-warehouse-fire-2f26b1ece2",
   "title": "American Watertek owner says no flammable goods were in warehouse fire",
@@ -4127,7 +4156,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1,
+  "sum_tries": 2,
   "pub_url": "https://www.newsbreak.com/thetrucker-com-315850146/5024890538508-nhtsa-reports-recalls-for-over-8000-trucks",
   "source_note": "ok · 325 words"
  },
