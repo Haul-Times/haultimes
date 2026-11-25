@@ -5794,7 +5794,9 @@
   "2835b01586": "skipped|importance 55 is below this platform's threshold (65)",
   "4d58617126": "skipped|importance 45 is below this platform's threshold (65)",
   "54a51ecfb0": "skipped|importance 62 is below this platform's threshold (65)",
-  "78e3e84d5b": "skipped|importance 45 is below this platform's threshold (65)"
+  "78e3e84d5b": "skipped|importance 45 is below this platform's threshold (65)",
+  "0d875d8070": "skipped|importance 55 is below this platform's threshold (65)",
+  "045b121bab": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12101,6 +12103,20 @@
    "at": "2026-11-25T23:11:19.204120+00:00",
    "story_id": "78e3e84d5b",
    "title": "Northeast Notebook 11/25/26: Truckers against congestion pricing, a school closure, and gratitude",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T23:41:25.761980+00:00",
+   "story_id": "0d875d8070",
+   "title": "Dolly Parton and the Tennessean Truckstop",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-25T23:41:25.761980+00:00",
+   "story_id": "045b121bab",
+   "title": "Trucking company confirms driver’s role in Amtrak derailment",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
