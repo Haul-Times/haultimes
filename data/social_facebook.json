@@ -5468,7 +5468,8 @@
   "0366727d9b": "skipped|minor item (crime) or low-quality source",
   "ac6e13a91f": "skipped|importance 45 is below this platform's threshold (65)",
   "6ccaaf0228": "skipped|importance 57 is below this platform's threshold (65)",
-  "c3200155fa": "skipped|minor item (incident) or low-quality source"
+  "c3200155fa": "skipped|minor item (incident) or low-quality source",
+  "0432ac6450": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11476,6 +11477,13 @@
    "title": "Iranian truckers strike threatens to crash regime’s faltering economy",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-25T08:31:31.312643+00:00",
+   "story_id": "0432ac6450",
+   "title": "New tactics from cargo thieves make Thanksgiving operations more vulnerable",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
