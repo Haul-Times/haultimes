@@ -198,5 +198,22 @@
   },
   "target": "/freight-market/#fuel-h",
   "created": "2026-11-24T17:06:29.329389+00:00"
+ },
+ "promo-20261125": {
+  "title": "HaulTimes Freight Market: How's your market this week?",
+  "desc": "How's your market this week? Tell us in one tap: Hot, Normal or Slow. Every answer adds to a live load-market map for the US and Canada. No name, no email.",
+  "card": {
+   "type": "promo",
+   "kicker": "Freight Market",
+   "headline": "How's your market this week?",
+   "sub": "Hot, normal or slow? One tap adds to the live load-market map.",
+   "chips": [
+    "Hot",
+    "Normal",
+    "Slow"
+   ]
+  },
+  "target": "/freight-market/#poll",
+  "created": "2026-11-25T15:33:31.187085+00:00"
  }
 }
