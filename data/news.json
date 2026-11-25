@@ -1,5 +1,35 @@
 [
  {
+  "id": "54075b44c3",
+  "slug": "j-b-hunt-comes-out-against-union-pacific-norfolk-southern-merger-54075b44c3",
+  "title": "J.B. Hunt Comes Out Against Union Pacific-Norfolk Southern Merger",
+  "orig_title": "J.B. Hunt Comes Out Against Union Pacific-Norfolk Southern Merger",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 57,
+  "source": "WWD",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFYwTG56ak5rdDNqLXVYeUloNVVUODRKdGltNGtfclJHZW5HWENHc3I4LUhZY0hzenZha2tCcG5YMkROZVR6QWNYRjBzZ0NnalpFdnI5VW82blZraVp0MENwbTJIcVZTbzhuTlMwRmxHUG5YOXlNcUNDaFFyYndyRldaWk95b1pkd0s3UzRGZnBXRk8zWXMzcHJqVG4ybkt4aEFsVWsxZ1ZHWV9NWXlwOVRCckJKdnlqbGswdFF4TVpXOHJPMnc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFYwTG56ak5rdDNqLXVYeUloNVVUODRKdGltNGtfclJHZW5HWENHc3I4LUhZY0hzenZha2tCcG5YMkROZVR6QWNYRjBzZ0NnalpFdnI5VW82blZraVp0MENwbTJIcVZTbzhuTlMwRmxHUG5YOXlNcUNDaFFyYndyRldaWk95b1pkd0s3UzRGZnBXRk8zWXMzcHJqVG4ybkt4aEFsVWsxZ1ZHWV9NWXlwOVRCckJKdnlqbGswdFF4TVpXOHJPMnc",
+  "snippet": "J.B. Hunt Comes Out Against Union Pacific-Norfolk Southern Merger WWD",
+  "published": "2026-11-25T12:04:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-25T12:11:09.986881+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: J.B. Hunt urges STB to reject Union Pacific–Norfolk Southern merger"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "ed3d435a6d"
+ },
+ {
   "id": "249bbf66a5",
   "slug": "news-brazil-s-biggest-air-cargo-gateway-hit-by-backlog-as-trucks-wait-249bbf66a5",
   "title": "News Brazil’s biggest air cargo gateway hit by backlog as trucks wait days to unload",
@@ -53,7 +83,7 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
+  "sum_pending": false,
   "sum_tries": 3
  },
  {
