@@ -1342,7 +1342,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2,
+  "sum_tries": 3,
   "source_note": "no publisher address: google page HTTPError",
   "sum_status": "retrying (no publisher address: google page HTTPError)"
  },
