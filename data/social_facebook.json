@@ -4454,6 +4454,34 @@
     "created": "2026-11-25T15:02:38+0000",
     "at": "2026-11-25T15:11:31.625995+00:00"
    }
+  },
+  "67cc540c3a": {
+   "story_id": "67cc540c3a",
+   "title": "Here are the proposed U.S. tariff rates by economy",
+   "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DSkRBT2laZy1IUzNXdFRMQUdKcWRDUzZNWkZUemxyaTdjNW9XM3dRMV80WUh1VDh4eVduaDNHMndqYlNhcGZxR2FIczFJeHlPLUVJQ1c5NzdBSjlWdjhaejJ2Zk55d04wanUxN19HTjVEdw",
+   "category": "border",
+   "source": "Transport Topics",
+   "dest": "https://haultimes.com/story/here-are-the-proposed-u-s-tariff-rates-by-economy-67cc540c3a/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=67cc540c3a",
+   "caption": "Here are the proposed U.S. tariff rates by economy.\n\nReported by Transport Topics. The link has the details and the original article.\n\n#Trucking #CrossBorder #Tariffs #FreightRates #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-25T15:21:23.308593+00:00",
+   "published": "2026-11-25T14:44:48+00:00",
+   "score": 78,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Here are the proposed U.S. tariff rates by economy | HaulTimes",
+    "og:description": "Reported by Transport Topics. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/b49720a1fc.png",
+    "og:url": "https://haultimes.com/story/here-are-the-proposed-u-s-tariff-rates-by-economy-67cc540c3a/"
+   },
+   "reason": "importance 78 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5566,7 +5594,9 @@
   "ad714947cb": "posted|importance 67 (threshold 65), Drivers & Jobs, trade publication; waited 20 min in queue",
   "9ad6207e16": "skipped|minor item (announcement) or low-quality source",
   "2c9771f227": "skipped|importance 61 is below this platform's threshold (65)",
-  "ee6a5a7588": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 11 min in queue"
+  "ee6a5a7588": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 11 min in queue",
+  "67cc540c3a": "queued|importance 78 (threshold 65), Cross-Border, trade publication",
+  "1b06afab29": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -11665,6 +11695,20 @@
    "title": "Trump rebuilds tariff wall with new import taxes",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 11 min in queue"
+  },
+  {
+   "at": "2026-11-25T15:21:23.308593+00:00",
+   "story_id": "67cc540c3a",
+   "title": "Here are the proposed U.S. tariff rates by economy",
+   "action": "queued",
+   "reason": "importance 78 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-25T15:21:23.308593+00:00",
+   "story_id": "1b06afab29",
+   "title": "Mom's Social Media Sleuthing Leads To Truck Driver's Conviction For Abusing Cumberland Girl",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
