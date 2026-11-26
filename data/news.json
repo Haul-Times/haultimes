@@ -793,6 +793,78 @@
   "sum_pending": false
  },
  {
+  "id": "5a1243b734",
+  "slug": "iranian-farmers-join-truck-drivers-strike-5a1243b734",
+  "title": "Iranian Farmers Join Truck Drivers' Strike",
+  "orig_title": "Iranian Farmers Join Truck Drivers' Strike",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "Other",
+  "importance": 65,
+  "source": "Iran Focus",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0dfRk5LdE5nelFxemVJQXVLeVRMWHA0Qk9IQVY0ZWg2a181ZXF5R3k3QnBxZFdDUTRmbWJ1dGRXTE5mYy0zeXBEamFYY3pGVmRVellSR0xVSzFTR1FrSERmR2tnUGdyam9jOEdiNThHM19OQ3NzT1lER3NLUEhzcE9YWk5Od9IBiwFBVV95cUxOUWNacDhuWndJbzcwRUluMjQtTXprVkI0czlFbnpRVzUzX2pKdjNRZ3VxWEFodzNYWndSWkZFX3hJcmlvUXJTWXdfalY4TXctQXIzbWNaamNJM1dIUl9GSHNyQ2pBWm5qZUNhc0ZrSnZvVEV0UUFwZll6UDlsTDg4TmU2VDZZSnZFNmdJ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0dfRk5LdE5nelFxemVJQXVLeVRMWHA0Qk9IQVY0ZWg2a181ZXF5R3k3QnBxZFdDUTRmbWJ1dGRXTE5mYy0zeXBEamFYY3pGVmRVellSR0xVSzFTR1FrSERmR2tnUGdyam9jOEdiNThHM19OQ3NzT1lER3NLUEhzcE9YWk5Od9IBiwFBVV95cUxOUWNacDhuWndJbzcwRUluMjQtTXprVkI0czlFbnpRVzUzX2pKdjNRZ3VxWEFodzNYWndSWkZFX3hJcmlvUXJTWXdfalY4TXctQXIzbWNaamNJM1dIUl9GSHNyQ2pBWm5qZUNhc0ZrSnZvVEV0UUFwZll6UDlsTDg4TmU2VDZZSnZFNmdJ",
+  "snippet": "Iranian Farmers Join Truck Drivers' Strike Iran Focus",
+  "published": "2026-11-25T19:44:04+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T03:51:03.370373+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://iranfocus.com/protests/59358-iranian-farmers-join-truck-drivers-strike/",
+  "source_note": "ok · 632 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "c1d75808b6a43e2f",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-26T03:51:03.370373+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "issued a statement on Monday, November 23"
+   },
+   {
+    "sentence": "2",
+    "quote": "some drivers of cargo pickup trucks joined the strike in 10 cities"
+   },
+   {
+    "sentence": "3",
+    "quote": "increase freight rates by approximately 22%"
+   },
+   {
+    "sentence": "4",
+    "quote": "Tire prices have also reached approximately 3.5 billion rials"
+   },
+   {
+    "sentence": "5",
+    "quote": "a group of farmers voiced their support"
+   },
+   {
+    "sentence": "6",
+    "quote": "denied the drivers' strike at a press conference on December 14"
+   }
+  ],
+  "sum_problems": [
+   "Source dates are inconsistent: the strike statement is dated November 23, but the official denial is dated December 14, and the headline refers to a third day.",
+   "Participant numbers are unverified and the source contains editorial language about the government; summary keeps to reported facts."
+  ],
+  "ai_category": "rates",
+  "ai_importance": 15,
+  "ai_relevant": false
+ },
+ {
   "id": "1f6d2d8207",
   "slug": "iranian-cities-start-rationing-bread-as-economic-conditions-continue-t-1f6d2d8207",
   "title": "Iranian Cities Start Rationing Bread as Economic Conditions Continue to Worsen",
@@ -8040,6 +8112,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "718956ecf8",
+  "slug": "alta-equipment-group-archives-718956ecf8",
+  "title": "Alta Equipment Group Archives",
+  "orig_title": "Alta Equipment Group Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54a2J3OW80WExSa3FvYkgzcEp0eGRxT0NyMzR0OUdYRjEtb1JWQldnRUFEbUhRVmg3NGlIOElkbDhxaGpLWlB2OHA2c1F5NHNSa1lLMU9VRjBLdk82N1R1bVY2LWtNdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54a2J3OW80WExSa3FvYkgzcEp0eGRxT0NyMzR0OUdYRjEtb1JWQldnRUFEbUhRVmg3NGlIOElkbDhxaGpLWlB2OHA2c1F5NHNSa1lLMU9VRjBLdk82N1R1bVY2LWtNdw",
+  "snippet": "Alta Equipment Group Archives Truck News",
+  "published": "2026-11-24T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T03:51:03.370373+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
   ],
   "labels": [],
   "kind": "rejected",
