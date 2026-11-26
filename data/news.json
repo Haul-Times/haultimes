@@ -1,5 +1,34 @@
 [
  {
+  "id": "54d82d84d4",
+  "slug": "corning-archives-54d82d84d4",
+  "title": "Corning Archives",
+  "orig_title": "Corning Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVzBaeThYekMwbExJZzRaMEgtLVZwVjdtODk5dUtCbk1RTldhNm1IZmNrM3AxU1M0VTNpTjZ5d1M5cXpZTjBjN19KYkxWTUlrODJ1cQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVzBaeThYekMwbExJZzRaMEgtLVZwVjdtODk5dUtCbk1RTldhNm1IZmNrM3AxU1M0VTNpTjZ5d1M5cXpZTjBjN19KYkxWTUlrODJ1cQ",
+  "snippet": "Corning Archives Truck News",
+  "published": "2026-11-26T15:14:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T15:31:02.749581+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "0aa914cd63",
   "slug": "charges-laid-by-the-cbsa-in-connection-with-the-illegal-importation-of-0aa914cd63",
   "title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
@@ -18249,35 +18278,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "5a3e6879d0",
-  "slug": "players-ignore-mlb-s-international-draft-proposal-ask-for-higher-bonus-5a3e6879d0",
-  "title": "Players ignore MLB's international draft proposal; ask for higher bonus pools, aid to small markets",
-  "orig_title": "Players ignore MLB's international draft proposal; ask for higher bonus pools, aid to small markets",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVF5eEpQUEJBOE04NWdXSkhHOFRwVWFjYnh5MHYzbWl0WGdGek5TR3NKeEZTMHc0RFgwQl85Y0ZQNjF1QUpqa0dHM2txbHRtUmFwOVVtdlZoOG81Q0RGS3VOeFBZMS1ESHNsOFFmb0JUUC1mSW85VFd2NUc1b3R2VEpEejZDSW1IUlJ4MFZIMG5MN1M5b0JYQWVPWHdPSlpnZlNHUldneWJwdU1JN3lnakhyZW5lYnE5WXZSXzh4TzJRZTg3ckN5WThEMU92VWV2YWVNQg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVF5eEpQUEJBOE04NWdXSkhHOFRwVWFjYnh5MHYzbWl0WGdGek5TR3NKeEZTMHc0RFgwQl85Y0ZQNjF1QUpqa0dHM2txbHRtUmFwOVVtdlZoOG81Q0RGS3VOeFBZMS1ESHNsOFFmb0JUUC1mSW85VFd2NUc1b3R2VEpEejZDSW1IUlJ4MFZIMG5MN1M5b0JYQWVPWHdPSlpnZlNHUldneWJwdU1JN3lnakhyZW5lYnE5WXZSXzh4TzJRZTg3ckN5WThEMU92VWV2YWVNQg",
-  "snippet": "Players ignore MLB's international draft proposal; ask for higher bonus pools, aid to small markets CTV News",
-  "published": "2026-11-20T18:54:57+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T15:31:02.731107+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "consumer vehicle / lifestyle story"
   ],
   "labels": [],
   "kind": "rejected",
