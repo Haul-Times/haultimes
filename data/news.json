@@ -119,6 +119,35 @@
   "sum_pending": false
  },
  {
+  "id": "88cd210e0c",
+  "slug": "ua-p-engineering-expo-spotlights-supply-chain-innovation-and-solutions-88cd210e0c",
+  "title": "UA&P Engineering Expo spotlights supply chain innovation and solutions",
+  "orig_title": "UA&P Engineering Expo spotlights supply chain innovation and solutions",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Metro News Central",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNU5OdlZuTHFHTTBrR1NfZVN3eENhMGZsT3MzWXJYblZoYnJyWno2ZjlSSS03UHNZeDg4LU5pc18wb0pQRkVWYVM0TGdDOXpLSHVWOWZhQzhzZkNGYnkwMU9Ca05XUDZMa0ZBYmt5ODZoaDRqRDZZU1hraUI3MFA2eVJ6WkpXVTFtT1NMelBXVHpFbWpmMmRSNmFkeElRcDlMTktYZFF0Q3BOOVBCd3N3RUdCYTdiT2M?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNU5OdlZuTHFHTTBrR1NfZVN3eENhMGZsT3MzWXJYblZoYnJyWno2ZjlSSS03UHNZeDg4LU5pc18wb0pQRkVWYVM0TGdDOXpLSHVWOWZhQzhzZkNGYnkwMU9Ca05XUDZMa0ZBYmt5ODZoaDRqRDZZU1hraUI3MFA2eVJ6WkpXVTFtT1NMelBXVHpFbWpmMmRSNmFkeElRcDlMTktYZFF0Q3BOOVBCd3N3RUdCYTdiT2M",
+  "snippet": "UA&P Engineering Expo spotlights supply chain innovation and solutions Metro News Central",
+  "published": "2026-11-26T18:50:21+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T21:51:04.345363+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "25bdff0335",
   "slug": "keeping-watch-over-the-well-being-of-truckers-25bdff0335",
   "title": "Keeping watch over the well-being of truckers",
