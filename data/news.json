@@ -24,7 +24,11 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
  },
  {
   "id": "0d875d8070",
@@ -34,7 +38,7 @@
   "summary": "",
   "why": "",
   "category": "other",
-  "region": "",
+  "region": "US",
   "importance": 55,
   "source": "Heavy Duty Trucking",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREFyX3dBcFRRZGU5LUI0R3I2X0lmRUJSc3VHTHJoWEdwek9ia2tTLWlOSXp4R01FOEpxSGltVXVoY1dIY2hFeFZLWld1VUhicmpFamRiUkZJQzZwZnZYT0V4WjNiVU5ZRml3RU9RN2dKQUpQM21SeFhBSkRYY28zUXlfOTFFUVU?oc=5",
@@ -51,10 +55,48 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true,
-  "sum_tries": 2,
+  "sum_pending": false,
+  "sum_tries": 3,
   "pub_url": "https://www.truckinginfo.com/blogposts/dolly-parton-and-the-tennessean-truckstop",
-  "source_note": "ok · 1233 words"
+  "source_note": "ok · 1233 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "f6e4ddcb6784df46",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-26T00:01:03.439497+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "the transformation to Dolly's Tennessean Travel Plaza"
+   },
+   {
+    "sentence": "2",
+    "quote": "it opened in early 2024"
+   },
+   {
+    "sentence": "3",
+    "quote": "The grand opening was her last public appearance."
+   },
+   {
+    "sentence": "4",
+    "quote": "reportedly room for 200 trucks"
+   },
+   {
+    "sentence": "5",
+    "quote": "nice new truckers' lounge with recliners and big-screen TVs"
+   },
+   {
+    "sentence": "6",
+    "quote": "It's a travel stop, not a truckstop."
+   }
+  ],
+  "sum_problems": [
+   "name \"Dolly Parton's\" is not in the source"
+  ],
+  "ai_category": "other",
+  "ai_importance": 25
  },
  {
   "id": "045b121bab",
@@ -81,7 +123,12 @@
   "reasons": [],
   "labels": [],
   "kind": "news",
-  "sum_pending": true
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.acadiananewsfirst.com/video/2026/11/25/trucking-company-confirms-drivers-role-amtrak-derailment/",
+  "source_note": "no usable text",
+  "sum_done": true,
+  "sum_status": "no source text (no usable text)"
  },
  {
   "id": "b51c130a8f",
