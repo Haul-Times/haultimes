@@ -321,6 +321,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "87a8eed1f7",
+  "slug": "connecticut-s-new-distracted-driving-law-elevates-cell-phone-use-in-wo-87a8eed1f7",
+  "title": "Connecticut's New Distracted Driving Law Elevates Cell Phone Use in Work Zones to Reckless Driving",
+  "orig_title": "Connecticut's New Distracted Driving Law Elevates Cell Phone Use in Work Zones to Reckless Driving",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "citybuzz -",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMW4zVWVtcktvV0xDcTBJMFZ0cFY0dVVLSFBtYXp5NkFRSURxVVBpMXgweFVySzA0RkxrcEY0ekRtSkl1OFZ1UklwT25GaFVNcVRfNkxUX09VaDhlY2hjQ0VwWk9ocGFQRF9JaXpNVEExdUozNXF1S1ZpVzlsaUNwbHVTN3FYdzl2ZDV2Skcwdzh3LWpRRnctVFcxeDd3S0lXd1g5TFRvcVBYdTJGNVp4b0N2djJVdDZIM3hhRk1seVNCQ0Z3TDdQRDlaRHBMQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMW4zVWVtcktvV0xDcTBJMFZ0cFY0dVVLSFBtYXp5NkFRSURxVVBpMXgweFVySzA0RkxrcEY0ekRtSkl1OFZ1UklwT25GaFVNcVRfNkxUX09VaDhlY2hjQ0VwWk9ocGFQRF9JaXpNVEExdUozNXF1S1ZpVzlsaUNwbHVTN3FYdzl2ZDV2Skcwdzh3LWpRRnctVFcxeDd3S0lXd1g5TFRvcVBYdTJGNVp4b0N2djJVdDZIM3hhRk1seVNCQ0Z3TDdQRDlaRHBMQQ",
+  "snippet": "Connecticut's New Distracted Driving Law Elevates Cell Phone Use in Work Zones to Reckless Driving citybuzz -",
+  "published": "2026-11-26T15:24:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T18:41:03.355426+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "54d82d84d4",
   "slug": "corning-archives-54d82d84d4",
   "title": "Corning Archives",

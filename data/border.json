@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:31:08.092027+00:00",
+ "updated": "2026-11-26T18:41:03.227986+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -112,7 +112,7 @@
      3,
      3,
      13,
-     13,
+     12,
      21,
      18,
      29,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:17 pm EST",
+    "updated": "At 1:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:17 pm EST",
+    "updated": "At 1:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -412,7 +412,7 @@
      5,
      5,
      3,
-     4,
+     3,
      5,
      6,
      5,
@@ -712,7 +712,7 @@
      5,
      5,
      0,
-     3,
+     2,
      5,
      3,
      5,
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At Noon EST",
+    "updated": "At 2:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:21:43",
+    "updated": "13:31:43",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:00 am PST",
+    "updated": "At 10:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "10:21:43",
+    "updated": "10:31:44",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1462,8 +1462,8 @@
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": 10,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Jackman",
@@ -1477,8 +1477,8 @@
    },
    {
     "name": "Madawaska",
-    "wait": 15,
-    "status": "delay"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Norton",
