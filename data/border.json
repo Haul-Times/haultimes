@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T03:51:03.166409+00:00",
- "hour_now": 22,
+ "updated": "2026-11-26T04:01:04.964275+00:00",
+ "hour_now": 23,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -47,7 +47,7 @@
      5,
      3,
      7,
-     10
+     9
     ],
     "north": [
      0,
@@ -73,7 +73,7 @@
      38,
      30,
      25,
-     0
+     5
     ]
    },
    "best_south": "Usually fastest around 8 AM",
@@ -148,7 +148,7 @@
      7,
      4,
      4,
-     0
+     1
     ]
    },
    "best_south": "Usually fastest around 12 AM",
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 46,
+    "wait": 34,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 10:37 pm EST",
+    "updated": "At 10:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -272,7 +272,7 @@
      5,
      7,
      17,
-     0
+     3
     ],
     "north": [
      7,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 10:37 pm EST",
+    "status": "no delay",
+    "updated": "At 10:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -347,7 +347,7 @@
      3,
      1,
      5,
-     4
+     3
     ],
     "north": [
      7,
@@ -373,7 +373,7 @@
      30,
      27,
      26,
-     6
+     11
     ]
    },
    "best_south": "Usually fastest around 2 AM",
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "22:45:08",
+    "updated": "22:55:08",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1068,9 +1068,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 0,
-    "status": "No Delay",
-    "updated": "2026-11-25 22:15 CDT"
+    "wait": 20,
+    "status": "20 minutes",
+    "updated": "2026-11-25 22:46 CDT"
    },
    "usual": {
     "south": [
@@ -1123,7 +1123,7 @@
      4,
      7,
      2,
-     0
+     2
     ]
    },
    "best_south": "Usually fastest around 1 AM",
@@ -1240,7 +1240,7 @@
      23,
      29,
      25,
-     0
+     5
     ],
     "north": [
      0,
@@ -1341,7 +1341,7 @@
      9,
      7,
      11,
-     10
+     9
     ]
    },
    "best_south": "Usually fastest around 12 AM",
