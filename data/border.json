@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:11:02.297382+00:00",
+ "updated": "2026-11-26T22:21:12.041387+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 15,
+    "wait": 10,
     "fast_wait": null,
-    "lanes": "2",
+    "lanes": "3",
     "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -41,7 +41,7 @@
      5,
      13,
      20,
-     22,
+     21,
      28,
      11,
      8,
@@ -116,7 +116,7 @@
      13,
      11,
      18,
-     15,
+     14,
      5,
      0,
      0,
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 30,
+    "wait": 34,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -266,7 +266,7 @@
      0,
      0,
      6,
-     4,
+     6,
      0,
      0,
      8,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:07:00",
+    "updated": "17:17:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1234,7 +1234,7 @@
      11,
      10,
      11,
-     15,
+     14,
      30,
      11,
      7,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "14:07:00",
+    "updated": "14:17:01",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1519,8 +1519,8 @@
    },
    {
     "name": "Windsor and Detroit Tunnel",
-    "wait": 0,
-    "status": "No Delay"
+    "wait": 15,
+    "status": "15 minutes"
    },
    {
     "name": "Gordie Howe International Bridge",
