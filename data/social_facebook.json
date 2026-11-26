@@ -4859,6 +4859,34 @@
     "created": "2026-11-26T17:31:26+0000",
     "at": "2026-11-26T17:41:23.670245+00:00"
    }
+  },
+  "74863be98b": {
+   "story_id": "74863be98b",
+   "title": "CBSA Reopens Courier Low Value Shipment Program Applications",
+   "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWdUQVVSVDBpWjVGNi1aX2Q3SkI1RWF5OG1Kbm1CRGlCcHhpRERWXzlUVlBNNFlDWjdxR2VkSS1UT3M5bGltNFA0dkFjTUp2OHBHN3JXQ1phTHVBVF9tdHlyeHZyTmpUTndyQzFZTGgzRHFSaVNwWlBzY1pjaUhLc0NBZHFrRVlC",
+   "category": "border",
+   "source": "Ontario Trucking Association",
+   "dest": "https://haultimes.com/story/cbsa-reopens-courier-low-value-shipment-program-applications-74863be98b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=74863be98b",
+   "caption": "CBSA Reopens Courier Low Value Shipment Program Applications.\n\nReported by Ontario Trucking Association. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #CrossBorder #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-26T19:31:22.057959+00:00",
+   "published": "2026-11-26T18:10:55+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "CBSA Reopens Courier Low Value Shipment Program Applications | HaulTimes",
+    "og:description": "Reported by Ontario Trucking Association. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/4e01eeb51e.png",
+    "og:url": "https://haultimes.com/story/cbsa-reopens-courier-low-value-shipment-program-applications-74863be98b/"
+   },
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -6065,7 +6093,8 @@
   "0a142420a3": "skipped|importance 55 is below this platform's threshold (65)",
   "6c9389dd1a": "skipped|importance 51 is below this platform's threshold (65)",
   "6bda17dfce": "skipped|importance 55 is below this platform's threshold (65)",
-  "80f7379008": "skipped|importance 50 is below this platform's threshold (65)"
+  "80f7379008": "skipped|importance 50 is below this platform's threshold (65)",
+  "74863be98b": "queued|importance 67 (threshold 65), Cross-Border, trade publication"
  },
  "decisions": [
   {
@@ -12563,6 +12592,13 @@
    "title": "Coaldale, Lethbridge County release results of 2-month commercial vehicle inspections",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-26T19:31:22.057959+00:00",
+   "story_id": "74863be98b",
+   "title": "CBSA Reopens Courier Low Value Shipment Program Applications",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication"
   }
  ],
  "visibility": {
