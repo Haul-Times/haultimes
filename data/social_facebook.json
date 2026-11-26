@@ -5864,7 +5864,8 @@
   "27bf059e6f": "skipped|importance 55 is below this platform's threshold (65)",
   "1701013257": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 19 min in queue",
   "border-sweetgrass-south-2026112521": "queued|HaulTimes update",
-  "8cf8cf1d65": "skipped|importance 45 is below this platform's threshold (65)"
+  "8cf8cf1d65": "skipped|importance 45 is below this platform's threshold (65)",
+  "a3f9494e1b": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12220,6 +12221,13 @@
    "at": "2026-11-26T02:41:32.844540+00:00",
    "story_id": "8cf8cf1d65",
    "title": "Tom Still: Just catching up: Some follow-ups on past columns and news",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-26T04:21:20.539129+00:00",
+   "story_id": "a3f9494e1b",
+   "title": "Dawson seeks estimates for possible ABR Trucking cleanup",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
