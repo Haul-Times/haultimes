@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "18a1787210",
+  "slug": "duplicate-photo-18a1787210",
+  "title": "Duplicate photo",
+  "orig_title": "Duplicate photo",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Denton Record-Chronicle",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTVWTXkyT3dvVHBKTjJqSU5vMHNuNXFoSGJMbzRSbnRqaTBhcnhZb0xJd3EzX3pDbm5RM005V0plTi1sbURVMHhhbU5YZjdTaFlYak4xSnBRUWd0dXJBc2pfT1BFS3VGR1loeDYzR3RMTW5kTkJmTzJaejVvTlB4YlhGaE1wdVdPalZycw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTVWTXkyT3dvVHBKTjJqSU5vMHNuNXFoSGJMbzRSbnRqaTBhcnhZb0xJd3EzX3pDbm5RM005V0plTi1sbURVMHhhbU5YZjdTaFlYak4xSnBRUWd0dXJBc2pfT1BFS3VGR1loeDYzR3RMTW5kTkJmTzJaejVvTlB4YlhGaE1wdVdPalZycw",
+  "snippet": "Duplicate photo Denton Record-Chronicle",
+  "published": "2026-11-26T05:03:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T06:01:11.134880+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b991f1d5ef",
   "slug": "aldo-espinosa-s-el-toro-loco-expands-with-first-express-location-in-cu-b991f1d5ef",
   "title": "Aldo Espinosa's El Toro Loco Expands with First Express Location in Cutler Bay",
