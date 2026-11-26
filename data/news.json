@@ -32,14 +32,15 @@
   "sum_status": "withheld",
   "source_fp": "1a47691c8c6277dd",
   "source_scope": "full_article",
-  "sum_at": "2026-11-26T15:11:05.358111+00:00",
-  "sum_version": 1,
+  "sum_at": "2026-11-26T15:21:06.498952+00:00",
+  "sum_version": 2,
   "sum_model": "claude-haiku-5-5",
   "sum_evidence": [],
   "sum_problems": [
-   "your answer could not be read as complete JSON (max_tokens: {\n  \"relevant\": true,\n  \"na_connection\": \"\",\n  \"); answer with the JSON object only, keep evidence quotes short"
+   "your answer could not be read as complete JSON (max_tokens: ); answer with the JSON object only, keep evidence quotes short"
   ],
-  "ai_importance": 67
+  "ai_importance": 67,
+  "sum_v4": true
  },
  {
   "id": "17a0ce25a4",
@@ -16332,35 +16333,6 @@
   "sum_pending": false
  },
  {
-  "id": "790cd40c49",
-  "slug": "haiti-news-zapping-790cd40c49",
-  "title": "Haiti - News : Zapping...",
-  "orig_title": "Haiti - News : Zapping...",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "HaitiLibre.com",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNUVY0MU1tSC00bUUxQkxZckNEbk90VVhxNFdrNWoyNTN6RGlwbnY4V2FCRVV3ODlaR2dCWWJ0Q01lTS0xdEJxcm5DYkdtQi1oOHgtSkxGM2VTX0Q1QXJKbF9ZY1VVV1UxUzBXQ0hPM1pFQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNUVY0MU1tSC00bUUxQkxZckNEbk90VVhxNFdrNWoyNTN6RGlwbnY4V2FCRVV3ODlaR2dCWWJ0Q01lTS0xdEJxcm5DYkdtQi1oOHgtSkxGM2VTX0Q1QXJKbF9ZY1VVV1UxUzBXQ0hPM1pFQQ",
-  "snippet": "Haiti - News : Zapping... HaitiLibre.com",
-  "published": "2026-11-22T15:03:20+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T15:21:03.258078+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "46294a6900",
   "slug": "moraine-park-adds-cdl-training-track-in-horicon-wi-46294a6900",
   "title": "Moraine Park Adds CDL Training Track in Horicon, WI",
@@ -16643,35 +16615,6 @@
   "published": "2026-11-22T13:15:48+00:00",
   "date_known": true,
   "first_seen": "2026-11-22T19:41:11.879597+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "45dbfdadb5",
-  "slug": "warehouse-sponge-fire-in-sidoarjo-45dbfdadb5",
-  "title": "Warehouse sponge fire in Sidoarjo",
-  "orig_title": "Warehouse sponge fire in Sidoarjo",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "ANTARA Foto",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxQjhOUXY0T0k4b2RSVktuRnRQYl9WYlJRbF9hTWFvRkQ0YjVlWUNsUXgtWmlKay1XbGFaVDN0Nk1iQ2xmeTBkVU45YS0tVVBtTHFKc1VpenNyZFNDNXZBSkUwa1JzalFjYkEyX1JwMWxWVmJycVJGZHhfb1RlZ9IBgwFBVV95cUxQdkxPem5DNW1NU1Z3NEphdVM0Y2k2VXJieGlNVktXaW1uaG1wd0xrbnBaeWs2SDdLMENIVjNLWFVQdWJJSUVLUFZpTFZFNDloMTZWdmJXN1FCSDN6Q0FfRGVyWm9Ca1J4LWZseko1UzlndmpmOVhaY0hlRWgwMWc5RHZ1dw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxQjhOUXY0T0k4b2RSVktuRnRQYl9WYlJRbF9hTWFvRkQ0YjVlWUNsUXgtWmlKay1XbGFaVDN0Nk1iQ2xmeTBkVU45YS0tVVBtTHFKc1VpenNyZFNDNXZBSkUwa1JzalFjYkEyX1JwMWxWVmJycVJGZHhfb1RlZ9IBgwFBVV95cUxQdkxPem5DNW1NU1Z3NEphdVM0Y2k2VXJieGlNVktXaW1uaG1wd0xrbnBaeWs2SDdLMENIVjNLWFVQdWJJSUVLUFZpTFZFNDloMTZWdmJXN1FCSDN6Q0FfRGVyWm9Ca1J4LWZseko1UzlndmpmOVhaY0hlRWgwMWc5RHZ1dw",
-  "snippet": "Warehouse sponge fire in Sidoarjo ANTARA Foto",
-  "published": "2026-11-22T12:26:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T15:21:03.258078+00:00",
   "image": "",
   "ai": false,
   "lang": "en",
@@ -18130,36 +18073,6 @@
   "ai_category": "regs",
   "ai_importance": 62,
   "sum_v3": true
- },
- {
-  "id": "1315d3dbc2",
-  "slug": "8-finalists-named-for-professional-tank-truck-driver-of-the-year-award-1315d3dbc2",
-  "title": "8 finalists named for Professional Tank Truck Driver of the Year award",
-  "orig_title": "8 finalists named for Professional Tank Truck Driver of the Year award",
-  "summary": "",
-  "why": "",
-  "category": "drivers",
-  "region": "",
-  "importance": 30,
-  "source": "Truckers News",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMm80bkRPbnE0Vkp6Vm51Yk00TExBaDdoaFFWVk9ETmVrd0MtY2wxZWFOcWNObGlDaWRxSGY5RElrdFhZN0Roa2tDcHhib2FJYWYxWElpOHZiUmhTblEwNkVObmNfNUtjLUVCZmZRSlpWdTFEVHh5Ti1uNW9nbWFlTFMzTHFoalo1UVNZbkwxWHNwMS1SOHY2bGlXQ1NyZk9qRzJsN1pVaUhDemtiRUVZMHZMMnQ0V3g2UEF3UHRR?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMm80bkRPbnE0Vkp6Vm51Yk00TExBaDdoaFFWVk9ETmVrd0MtY2wxZWFOcWNObGlDaWRxSGY5RElrdFhZN0Roa2tDcHhib2FJYWYxWElpOHZiUmhTblEwNkVObmNfNUtjLUVCZmZRSlpWdTFEVHh5Ti1uNW9nbWFlTFMzTHFoalo1UVNZbkwxWHNwMS1SOHY2bGlXQ1NyZk9qRzJsN1pVaUhDemtiRUVZMHZMMnQ0V3g2UEF3UHRR",
-  "snippet": "8 finalists named for Professional Tank Truck Driver of the Year award Truckers News",
-  "published": "2026-11-20T20:39:07+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T15:11:05.926919+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: ATA names five finalists for 2026 National Driver of the Year award"
-  ],
-  "labels": [],
-  "kind": "feature",
-  "sum_pending": false,
-  "dup_of": "9f32659279"
  },
  {
   "id": "aecd35c526",
