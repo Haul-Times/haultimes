@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:31:02.920276+00:00",
+ "updated": "2026-11-26T19:41:01.888480+00:00",
  "hour_now": 14,
  "have_us": true,
  "have_ca": true,
@@ -113,7 +113,7 @@
      3,
      13,
      11,
-     15,
+     14,
      18,
      29,
      18,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:17 pm EST",
+    "updated": "At 2:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:17 pm EST",
+    "updated": "At 2:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -413,7 +413,7 @@
      5,
      3,
      3,
-     4,
+     3,
      6,
      5,
      5,
@@ -713,7 +713,7 @@
      5,
      0,
      2,
-     4,
+     3,
      3,
      5,
      5,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "14:21:48",
+    "updated": "14:31:49",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1088,7 +1088,7 @@
      19,
      11,
      12,
-     14,
+     13,
      15,
      1,
      0,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "11:21:48",
+    "updated": "11:31:49",
     "hours": "24 hrs/day"
    },
    "north": {
