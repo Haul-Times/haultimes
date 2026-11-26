@@ -215,5 +215,30 @@
   },
   "target": "/freight-market/#poll",
   "created": "2026-11-25T15:33:31.187085+00:00"
+ },
+ "border-sweetgrass-south-2026112521": {
+  "title": "Truck border delay",
+  "desc": "Long truck wait at the Sweetgrass–Coutts (Sweetgrass, MT - Coutts, AB): about 1 hr 30 min for commercial vehicles entering the US, per CBP, against a usual 14 min at this hour.",
+  "card": {
+   "type": "stat",
+   "kicker": "Border delay",
+   "big": "1 h 30 min",
+   "label": "Sweetgrass–Coutts (Sweetgrass, MT – Coutts, AB), trucks entering the US",
+   "details": [
+    [
+     "Usual at this hour",
+     "14 min"
+    ],
+    [
+     "Source",
+     "CBP"
+    ]
+   ],
+   "footer": "Live truck border waits",
+   "change": "+1 h 16 min",
+   "dir": "up"
+  },
+  "target": "/border-wait-times/",
+  "created": "2026-11-26T02:21:25.067747+00:00"
  }
 }

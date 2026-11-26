@@ -4666,7 +4666,37 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-26T02:11:28.849117+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122112642885544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122112642885544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122112642885544428",
+    "created": "2026-11-26T02:11:28+0000",
+    "at": "2026-11-26T02:21:25.067747+00:00"
+   }
+  },
+  "border-sweetgrass-south-2026112521": {
+   "story_id": "border-sweetgrass-south-2026112521",
+   "title": "Long truck wait at the Sweetgrass–Coutts (Sweetgrass, MT - Coutts, AB): about 1 hr 30 min ",
+   "url_key": "border-sweetgrass-south-2026112521",
+   "category": "house:border",
+   "source": "HaulTimes",
+   "dest": "https://haultimes.com/s/border-sweetgrass-south-2026112521/?utm_source=facebook&utm_medium=organic_social&utm_campaign=border",
+   "caption": "Long truck wait at the Sweetgrass–Coutts (Sweetgrass, MT - Coutts, AB): about 1 hr 30 min for commercial vehicles entering the US, per CBP, against a usual 14 min at this hour.\n\nLive waits at every crossing on HaulTimes.\n\n#CrossBorder #Trucking #CanadianTrucking #BorderWaitTimes #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-26T02:21:25.067747+00:00",
+   "published": "2026-11-26T02:21:25.067747+00:00",
+   "score": 85,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {},
+   "house": "border",
+   "reason": "HaulTimes update: border",
+   "breaking": "unusual border delay"
   }
  },
  "paused": null,
@@ -5832,7 +5862,8 @@
   "0d875d8070": "skipped|importance 55 is below this platform's threshold (65)",
   "045b121bab": "skipped|importance 45 is below this platform's threshold (65)",
   "27bf059e6f": "skipped|importance 55 is below this platform's threshold (65)",
-  "1701013257": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 19 min in queue"
+  "1701013257": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 19 min in queue",
+  "border-sweetgrass-south-2026112521": "queued|HaulTimes update"
  },
  "decisions": [
   {
@@ -12176,16 +12207,23 @@
    "title": "Saskatchewan truckers want BC-style 'three-strike' penalties for overpass hits",
    "action": "posted",
    "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-26T02:21:25.067747+00:00",
+   "story_id": "border-sweetgrass-south-2026112521",
+   "title": "Long truck wait at the Sweetgrass–Coutts (Sweetgrass, MT - Coutts, AB): about 1 hr 30 min ",
+   "action": "queued",
+   "reason": "HaulTimes update: border"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122112432177544428",
+  "post": "1476615495528085_122112642885544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122112432177544428",
-  "created": "2026-11-25T18:31:30+0000",
-  "at": "2026-11-25T18:41:26.628210+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122112642885544428",
+  "created": "2026-11-26T02:11:28+0000",
+  "at": "2026-11-26T02:21:25.067747+00:00"
  },
  "promo_i": 2
 }
