@@ -1393,6 +1393,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "7bd38b18f5",
+  "slug": "peak-of-spending-season-coming-to-the-pikes-peak-region-7bd38b18f5",
+  "title": "Peak of spending season coming to the Pikes Peak region",
+  "orig_title": "Peak of spending season coming to the Pikes Peak region",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "FOX21 News Colorado",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY040WlZ5bFpnbWpyQU9sdHVNdUxlLTV0OENSVklRNm8wSzk4RW5wd2tiSF9iU0dCbTYwVURLVFVBQ1RPNUN2Y3JybUFaME5RSXE0Q3JidS1KTEsyYXUybVV3aW5ab05jZlN6TldHYmFDTEFPSW1sZVduWWxzQ0Q5TUdocTRJdUlIeE1JM2ZTT2RjQ1JIdGfSAZYBQVVfeXFMT2NONFpWeWxaZ21qckFPbHR1TXVMZS01dDhDUlZJUTZvMEs5OEVucHdrYkhfYlNHQm02MFVES1RVQUNUTzVDdmNycm1BWjBOUUlxNENyYnUtSkxLMmF1Mm1Vd2luWm9OY2ZTek5XR2JhQ0xBT0ltbGVXbllsc0NEOU1HaHE0SXVJSHhNSTNmU09kY0NSSHRn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY040WlZ5bFpnbWpyQU9sdHVNdUxlLTV0OENSVklRNm8wSzk4RW5wd2tiSF9iU0dCbTYwVURLVFVBQ1RPNUN2Y3JybUFaME5RSXE0Q3JidS1KTEsyYXUybVV3aW5ab05jZlN6TldHYmFDTEFPSW1sZVduWWxzQ0Q5TUdocTRJdUlIeE1JM2ZTT2RjQ1JIdGfSAZYBQVVfeXFMT2NONFpWeWxaZ21qckFPbHR1TXVMZS01dDhDUlZJUTZvMEs5OEVucHdrYkhfYlNHQm02MFVES1RVQUNUTzVDdmNycm1BWjBOUUlxNENyYnUtSkxLMmF1Mm1Vd2luWm9OY2ZTek5XR2JhQ0xBT0ltbGVXbllsc0NEOU1HaHE0SXVJSHhNSTNmU09kY0NSSHRn",
+  "snippet": "Peak of spending season coming to the Pikes Peak region FOX21 News Colorado",
+  "published": "2026-11-25T17:26:11+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T03:11:14.112096+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "5c78e75390",
   "slug": "asia-us-west-coast-container-spot-rates-fall-below-8-000-as-us-avoids-5c78e75390",
   "title": "Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike",
