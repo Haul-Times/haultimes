@@ -8087,6 +8087,70 @@
   "sum_pending": false
  },
  {
+  "id": "541241e059",
+  "slug": "dat-load-post-on-dat-one-up-14-from-previous-week-541241e059",
+  "title": "DAT: Load post on DAT One up 14% from previous week",
+  "orig_title": "DAT: Load post on DAT One up 14% from previous week",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 56,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWhkVWNSTC1IdDhXYjRBMzgtZ1htREZBbFcyUm1kMlJEWnE3bEtEck0yLVdXczl6ei1SWkEtM3hxekMxUG1qNkx1emxRRVlEdVotVWJxZ1RYa2JaRTlud2NvbEVQSTFPdXdUNTEwTlBlYVkyOVB1MV9odWFNODVYZ3MzWmMtTWs1eUg0TlloLTRKMU5nSU8yTkNRSmw4RUpL?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWhkVWNSTC1IdDhXYjRBMzgtZ1htREZBbFcyUm1kMlJEWnE3bEtEck0yLVdXczl6ei1SWkEtM3hxekMxUG1qNkx1emxRRVlEdVotVWJxZ1RYa2JaRTlud2NvbEVQSTFPdXdUNTEwTlBlYVkyOVB1MV9odWFNODVYZ3MzWmMtTWs1eUg0TlloLTRKMU5nSU8yTkNRSmw4RUpL",
+  "snippet": "DAT: Load post on DAT One up 14% from previous week TheTrucker.com",
+  "published": "2026-11-24T16:59:05+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T16:21:04.418158+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/dat-load-post-on-dat-one-up-14-from-previous-week",
+  "source_note": "ok · 722 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "097e0900564f1bcb",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-26T16:21:04.418158+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "DAT Freight & Analytics said"
+   },
+   {
+    "sentence": "2",
+    "quote": "Total equipment posts fell 1% to 185,104"
+   },
+   {
+    "sentence": "3",
+    "quote": "Van: $3.11 per mile, up 4 cents"
+   },
+   {
+    "sentence": "4",
+    "quote": "Snow closed Interstate 80 over Donner Pass"
+   },
+   {
+    "sentence": "5",
+    "quote": "$5.937 for the week of Nov. 16, down 19 cents"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: '$5.937 for the week of nov. 16, down 19 cents and a'"
+  ],
+  "ai_category": "rates",
+  "ai_importance": 60
+ },
+ {
   "id": "72cf486b3c",
   "slug": "c-h-robinson-hits-back-at-suit-alleging-criminal-undercutting-72cf486b3c",
   "title": "C.H. Robinson hits back at suit alleging 'criminal' undercutting",
