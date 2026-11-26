@@ -4716,14 +4716,14 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/cta-urges-stronger-driver-inc-enforcement-under-bill-c-39-57ecea3fa2/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=57ecea3fa2",
    "caption": "CTA urges stronger Driver Inc. enforcement under Bill C-39.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #TruckDrivers #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-26T14:41:34.317143+00:00",
    "published": "2026-11-26T14:39:34+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122112964761544428",
+   "posted_at": "2026-11-26T15:01:31.618349+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "CTA urges stronger Driver Inc. enforcement under Bill C-39 | HaulTimes",
@@ -4734,7 +4734,9 @@
    "reason": "importance 67 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-26T15:01:31.618349+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122112964761544428"
   }
  },
  "paused": null,
@@ -5139,6 +5141,10 @@
   {
    "at": "2026-11-26T14:51:23.431022+00:00",
    "msg": "credentials OK: connected to HaulTimes"
+  },
+  {
+   "at": "2026-11-26T15:01:31.618349+00:00",
+   "msg": "posted 57ecea3fa2"
   }
  ],
  "decided": {
@@ -5916,7 +5922,7 @@
   "da7ea7d08d": "skipped|importance 55 is below this platform's threshold (65)",
   "57cae11b90": "skipped|importance 55 is below this platform's threshold (65)",
   "2768cd5cde": "skipped|importance 55 is below this platform's threshold (65)",
-  "57ecea3fa2": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "57ecea3fa2": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue",
   "d0c8a58af0": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
@@ -12331,6 +12337,13 @@
    "title": "IHP Releases Names of Truck Drivers Involved in Tuesday’s Fatal Accident.",
    "action": "skipped",
    "reason": "minor item (incident) or low-quality source"
+  },
+  {
+   "at": "2026-11-26T15:01:31.618349+00:00",
+   "story_id": "57ecea3fa2",
+   "title": "CTA urges stronger Driver Inc. enforcement under Bill C-39",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue"
   }
  ],
  "visibility": {

@@ -16760,67 +16760,6 @@
   "sum_pending": false
  },
  {
-  "id": "3c1444e916",
-  "slug": "cooling-boxer-briefs-for-the-testicles-why-does-a-lower-silesian-start-3c1444e916",
-  "title": "Cooling Boxer Briefs for the Testicles: Why Does a Lower Silesian Startup Talk About Truck Drivers?",
-  "orig_title": "Cooling Boxer Briefs for the Testicles: Why Does a Lower Silesian Startup Talk About Truck Drivers?",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "Other",
-  "importance": 40,
-  "source": "istotne.pl",
-  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13R3Q3bUwzTG5BZ3phNzVocnlZS3Y1M29seS1HalFkTUtSY284d25VWFQtNVBGbkhfcjJ6U01ELWx3SEJDald1SjhmMG9vZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13R3Q3bUwzTG5BZ3phNzVocnlZS3Y1M29seS1HalFkTUtSY284d25VWFQtNVBGbkhfcjJ6U01ELWx3SEJDald1SjhmMG9vZw",
-  "snippet": "Cooling Boxer Briefs for the Testicles: Why Does a Lower Silesian Startup Talk About Truck Drivers? istotne.pl",
-  "published": "2026-11-22T10:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T15:01:03.247866+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://istotne.pl/en/wiadomosc/65724",
-  "source_note": "ok · 436 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "fb97f73f13509f55",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-22T15:01:03.247866+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "The device is produced by Wrocław-based company Cooltec"
-   },
-   {
-    "sentence": "2",
-    "quote": "Konarski points to truck drivers as one of the groups that may be interested in the device."
-   },
-   {
-    "sentence": "3",
-    "quote": "After two hours of driving, scrotal temperature was, on average, 1.7°C higher"
-   },
-   {
-    "sentence": "4",
-    "quote": "they did not assess semen quality or the chances of conception"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "drivers",
-  "ai_importance": 8,
-  "ai_relevant": false
- },
- {
   "id": "b4a5097484",
   "slug": "road-truckers-new-beginning-pc-release-window-set-for-q1-2027-b4a5097484",
   "title": "Road Truckers: New Beginning PC Release Window Set for Q1 2027",
