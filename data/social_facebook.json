@@ -4698,7 +4698,15 @@
    "reason": "HaulTimes update: border",
    "breaking": "unusual border delay",
    "last_attempt_at": "2026-11-26T05:01:24.415397+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122112683505544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122112683505544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122112683505544428",
+    "created": "2026-11-26T05:01:24+0000",
+    "at": "2026-11-26T05:11:29.660214+00:00"
+   }
   }
  },
  "paused": null,
@@ -12246,13 +12254,13 @@
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122112642885544428",
+  "post": "1476615495528085_122112683505544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122112642885544428",
-  "created": "2026-11-26T02:11:28+0000",
-  "at": "2026-11-26T02:21:25.067747+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122112683505544428",
+  "created": "2026-11-26T05:01:24+0000",
+  "at": "2026-11-26T05:11:29.660214+00:00"
  },
  "promo_i": 2
 }
