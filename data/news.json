@@ -1046,6 +1046,35 @@
   "sum_pending": false
  },
  {
+  "id": "501b9b317f",
+  "slug": "belgian-defense-minister-condemns-iran-s-flogging-sentences-and-execut-501b9b317f",
+  "title": "Belgian defense minister condemns Iran’s flogging sentences and executions",
+  "orig_title": "Belgian defense minister condemns Iran’s flogging sentences and executions",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Iran International",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbmFlcmV5MVBpU21wWVEyQWpMM2pDWl9lQjhzM1pObDRTRVZZNnlEV1Roc1RDak5TX1ZmVEU3aW1HdzRJcUduMnJScTlzd0NVbXc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbmFlcmV5MVBpU21wWVEyQWpMM2pDWl9lQjhzM1pObDRTRVZZNnlEV1Roc1RDak5TX1ZmVEU3aW1HdzRJcUduMnJScTlzd0NVbXc",
+  "snippet": "Belgian defense minister condemns Iran’s flogging sentences and executions Iran International",
+  "published": "2026-11-26T10:21:46+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T20:01:04.259583+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e1ea10da8b",
   "slug": "two-oil-tankers-hit-naval-mines-in-strait-of-hormuz-irgc-says-e1ea10da8b",
   "title": "Two oil tankers hit naval mines in Strait of Hormuz, IRGC says",
