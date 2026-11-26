@@ -1,14 +1,14 @@
 {
  "state": "ok",
  "mode": "publish",
- "last_run": "2026-11-26T11:11:11.176575+00:00",
+ "last_run": "2026-11-26T11:21:00.508122+00:00",
  "spent_today_usd": 0.1176,
  "spent_month_usd": 4.0458,
  "caps_usd": {
   "day": 0.3,
   "month": 4.75
  },
- "made": 1,
+ "made": 0,
  "withheld": 0,
- "no_source_text": 0
+ "no_source_text": 1
 }

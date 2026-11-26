@@ -5880,7 +5880,8 @@
   "border-sweetgrass-south-2026112521": "posted|unusual border delay; waited 159 min in queue",
   "8cf8cf1d65": "skipped|importance 45 is below this platform's threshold (65)",
   "a3f9494e1b": "skipped|importance 45 is below this platform's threshold (65)",
-  "ceac636d5f": "skipped|minor item (feature) or low-quality source"
+  "ceac636d5f": "skipped|minor item (feature) or low-quality source",
+  "da7ea7d08d": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12259,6 +12260,13 @@
    "title": "DR Johnson Memorial Timber Truckers Light Parade returns for 33rd year",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-26T11:21:16.197651+00:00",
+   "story_id": "da7ea7d08d",
+   "title": "Truck tonnage dipped in October but remains up for the year",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
