@@ -5990,6 +5990,36 @@
   "sum_pending": false
  },
  {
+  "id": "6ee0e8866e",
+  "slug": "small-u-s-trucking-firms-are-scrambling-to-survive-mounting-diesel-cos-6ee0e8866e",
+  "title": "Small U.S. trucking firms are scrambling to survive mounting diesel costs",
+  "orig_title": "Small U.S. trucking firms are scrambling to survive mounting diesel costs",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 56,
+  "source": "Anchorage Daily News",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFBtZHdUbnJBMDgtWTJLb2NkVUNKem5vb2VzUi1UMVRkbFk3RFBReURHT0xnQUNJNHlLLVZPNTA1VDhyUzNoVTUzRXJ5N1d1WFRfNi1HRDVLOGdGQTkwcnJadHhQNmVyQXRsQ0Z4aFRFd0I2UFg1QV9TVS0xcl9fNjQ0NXJteVR5Y3NCZ3VMNHhWUWdMckFOcWh4UUxuMTN6Uzh2dE1MeUpMeE12UVZESVRoWFZqRlplbmVISg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFBtZHdUbnJBMDgtWTJLb2NkVUNKem5vb2VzUi1UMVRkbFk3RFBReURHT0xnQUNJNHlLLVZPNTA1VDhyUzNoVTUzRXJ5N1d1WFRfNi1HRDVLOGdGQTkwcnJadHhQNmVyQXRsQ0Z4aFRFd0I2UFg1QV9TVS0xcl9fNjQ0NXJteVR5Y3NCZ3VMNHhWUWdMckFOcWh4UUxuMTN6Uzh2dE1MeUpMeE12UVZESVRoWFZqRlplbmVISg",
+  "snippet": "Small U.S. trucking firms are scrambling to survive mounting diesel costs Anchorage Daily News",
+  "published": "2026-11-25T01:56:17+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T20:11:07.341897+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Small trucking firms scramble to survive diesel costs"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "be8e1e697a"
+ },
+ {
   "id": "dbeb18931e",
   "slug": "john-william-skip-douglas-jr-dbeb18931e",
   "title": "John William “Skip” Douglas Jr.",
