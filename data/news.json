@@ -16849,35 +16849,6 @@
   "sum_pending": false
  },
  {
-  "id": "696c99753d",
-  "slug": "north-branch-completes-80-bay-ross-express-terminal-696c99753d",
-  "title": "North Branch completes 80-bay Ross Express terminal",
-  "orig_title": "North Branch completes 80-bay Ross Express terminal",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "New Hampshire Union Leader",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0FUNl9rcnVRYnVYZjQ1cXAzZVZvRlJpZnZLMTNUcV84dnllY1BRVHlsQTRCeDFVX0F3c21KME8xdEM4UGdRci1ieEdoTnd1ejdvd2ZkcmdDMzVwSE9Ha1B4NW9ydm9MSkNiTjVTbEk2cEk0VFF5ZFRjZVdNWVpsR09PVDZkSzBCWXdZa2daUlJBWWpXSmtWTEpNMXNZSnVYUWdtRG52M2FfRGs?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0FUNl9rcnVRYnVYZjQ1cXAzZVZvRlJpZnZLMTNUcV84dnllY1BRVHlsQTRCeDFVX0F3c21KME8xdEM4UGdRci1ieEdoTnd1ejdvd2ZkcmdDMzVwSE9Ha1B4NW9ydm9MSkNiTjVTbEk2cEk0VFF5ZFRjZVdNWVpsR09PVDZkSzBCWXdZa2daUlJBWWpXSmtWTEpNMXNZSnVYUWdtRG52M2FfRGs",
-  "snippet": "North Branch completes 80-bay Ross Express terminal New Hampshire Union Leader",
-  "published": "2026-11-22T23:20:26+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T23:31:01.810944+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "e2a5d02a95",
   "slug": "winter-road-conditions-across-the-midwest-how-truckers-and-dispatchers-e2a5d02a95",
   "title": "Winter Road Conditions Across the Midwest: How Truckers and Dispatchers Check Routes Before Departure",
@@ -17413,35 +17384,6 @@
   "source_note": "paywalled: excerpt only · 19 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "5a6fa715fe",
-  "slug": "clintonville-boys-jv-basketball-shawano-community-5a6fa715fe",
-  "title": "Clintonville Boys JV Basketball @ Shawano Community",
-  "orig_title": "Clintonville Boys JV Basketball @ Shawano Community",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "MaxPreps",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUktqRHotcG9EYkRBejY0UU44T0x2OGozeVJWYWZhcHhTTTE0ckltN19jMzBpVjJSTVpNaE9SZW8zOUN6Mm5RMWM3SmlXeXM3NTJWMVQyMnBjeDdkT2FFMW5fSkhiUWozazFyNTFUa21CUkV1bVBMQzNacktmdU41N0V0Y3VWOTh4UG91c0FpRWZrcjlQWmlydF9NcGR3aDE5SVNnbndUVDRnZEgzb0U2SVdjUl9QWVlhdEFUNXJiUllyaXdFbDZJVUM5cw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUktqRHotcG9EYkRBejY0UU44T0x2OGozeVJWYWZhcHhTTTE0ckltN19jMzBpVjJSTVpNaE9SZW8zOUN6Mm5RMWM3SmlXeXM3NTJWMVQyMnBjeDdkT2FFMW5fSkhiUWozazFyNTFUa21CUkV1bVBMQzNacktmdU41N0V0Y3VWOTh4UG91c0FpRWZrcjlQWmlydF9NcGR3aDE5SVNnbndUVDRnZEgzb0U2SVdjUl9QWVlhdEFUNXJiUllyaXdFbDZJVUM5cw",
-  "snippet": "Clintonville Boys JV Basketball @ Shawano Community MaxPreps",
-  "published": "2026-11-22T10:51:36+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T23:21:03.320845+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "b4a5097484",
