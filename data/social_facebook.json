@@ -4707,6 +4707,34 @@
     "created": "2026-11-26T05:01:24+0000",
     "at": "2026-11-26T05:11:29.660214+00:00"
    }
+  },
+  "57ecea3fa2": {
+   "story_id": "57ecea3fa2",
+   "title": "CTA urges stronger Driver Inc. enforcement under Bill C-39",
+   "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDNTcTJRR1hCNzlZMkF4SW9TWUU1cmE3RzlwbGhKRHNIaDh1U3ExR2c2dFNoS1JFZnZRQlo0dTRram5CZlNRT1VJalQyVEdIVjd6VGZkeGhEVkprYngzXzFYd1hiWUY5cnBuVnNLSjZPUVZoV0FOZWpSMnpRM1RhR3lfMkExV2VGRDlCZ0p4Uld6VExLNjBxWlo1ZXFqa0FvQV9yOEhuMnFjY0E",
+   "category": "regs",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/cta-urges-stronger-driver-inc-enforcement-under-bill-c-39-57ecea3fa2/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=57ecea3fa2",
+   "caption": "CTA urges stronger Driver Inc. enforcement under Bill C-39.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #TruckDrivers #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-26T14:41:34.317143+00:00",
+   "published": "2026-11-26T14:39:34+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "CTA urges stronger Driver Inc. enforcement under Bill C-39 | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/0a8ac9cdff.png",
+    "og:url": "https://haultimes.com/story/cta-urges-stronger-driver-inc-enforcement-under-bill-c-39-57ecea3fa2/"
+   },
+   "reason": "importance 67 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5883,7 +5911,9 @@
   "ceac636d5f": "skipped|minor item (feature) or low-quality source",
   "da7ea7d08d": "skipped|importance 55 is below this platform's threshold (65)",
   "57cae11b90": "skipped|importance 55 is below this platform's threshold (65)",
-  "2768cd5cde": "skipped|importance 55 is below this platform's threshold (65)"
+  "2768cd5cde": "skipped|importance 55 is below this platform's threshold (65)",
+  "57ecea3fa2": "queued|importance 67 (threshold 65), Regulations, trade publication",
+  "d0c8a58af0": "skipped|minor item (incident) or low-quality source"
  },
  "decisions": [
   {
@@ -12283,6 +12313,20 @@
    "title": "St. Christopher Truckers Relief Fund thankful for trucking's support",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-26T14:41:34.317143+00:00",
+   "story_id": "57ecea3fa2",
+   "title": "CTA urges stronger Driver Inc. enforcement under Bill C-39",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-26T14:41:34.317143+00:00",
+   "story_id": "d0c8a58af0",
+   "title": "IHP Releases Names of Truck Drivers Involved in Tuesday’s Fatal Accident.",
+   "action": "skipped",
+   "reason": "minor item (incident) or low-quality source"
   }
  ],
  "visibility": {
