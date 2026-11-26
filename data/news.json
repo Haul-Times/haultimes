@@ -1,5 +1,34 @@
 [
  {
+  "id": "5bf5fba2b9",
+  "slug": "shippers-authority-launches-digital-platform-to-report-transit-corrido-5bf5fba2b9",
+  "title": "Shippers' Authority launches digital platform to report transit corridor trade barriers",
+  "orig_title": "Shippers' Authority launches digital platform to report transit corridor trade barriers",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "3News",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVFVSGRMWUVleFQxNjZnQzlHa3V3RzlHWUpsbXhyejBhcHlnSnJWSFFpOGZxWWxKYi1PWFNNNE5Qd1lhLWRaTTd0RGVJaHdsV2huRl9PZVdUbEFvRS14RVMyQXBMOUVLS2dnVmJpQWh1dGhDU1BLTnJxNUlqamp4c01QNA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVFVSGRMWUVleFQxNjZnQzlHa3V3RzlHWUpsbXhyejBhcHlnSnJWSFFpOGZxWWxKYi1PWFNNNE5Qd1lhLWRaTTd0RGVJaHdsV2huRl9PZVdUbEFvRS14RVMyQXBMOUVLS2dnVmJpQWh1dGhDU1BLTnJxNUlqamp4c01QNA",
+  "snippet": "Shippers' Authority launches digital platform to report transit corridor trade barriers 3News",
+  "published": "2026-11-26T17:20:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T17:31:02.217208+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6bda17dfce",
   "slug": "surrey-b-c-orders-audit-into-awarding-of-truck-parking-permits-6bda17dfce",
   "title": "Surrey, B.C., orders audit into awarding of truck parking permits",
@@ -3207,6 +3236,75 @@
   "sum_tries": 3,
   "pub_url": "https://cdllife.com/2026/fmcsa-denies-hazmat-response-companys-request-for-hour-of-service-exemption/?amp",
   "source_note": "ok · 361 words"
+ },
+ {
+  "id": "d1b730a5c0",
+  "slug": "descartes-new-spot-solution-helps-freight-forwarders-win-more-shipment-d1b730a5c0",
+  "title": "Descartes' new Spot solution helps freight forwarders win more shipments with faster quoting",
+  "orig_title": "Descartes' new Spot solution helps freight forwarders win more shipments with faster quoting",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Other",
+  "importance": 50,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG5xRXY1cHdBc0dsZ1hNdzluaUFWVDB1dF9pWDBwOTNKMG9nZmNneG1yUjVsYnY2enpjQkxBa3ZPNzNaMjgyN2g3enhwdmgtT1M2SnBfR0IzdV9VRTgzdHcyOG1QSkstVUVYOW84aF9hdVlDOGg0NmlNTDV6SHhsRHZURldkeDNrUzB3dWo1NkVrdG5vajExWWZxYWFFT2tGOGhjWXRJS3ZENXZqc3NOcG9qTFdvYWFhamFUaVltQkE3a1BBQ0s0REhmcFY3czN0ZXIwZ2REUGg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG5xRXY1cHdBc0dsZ1hNdzluaUFWVDB1dF9pWDBwOTNKMG9nZmNneG1yUjVsYnY2enpjQkxBa3ZPNzNaMjgyN2g3enhwdmgtT1M2SnBfR0IzdV9VRTgzdHcyOG1QSkstVUVYOW84aF9hdVlDOGg0NmlNTDV6SHhsRHZURldkeDNrUzB3dWo1NkVrdG5vajExWWZxYWFFT2tGOGhjWXRJS3ZENXZqc3NOcG9qTFdvYWFhamFUaVltQkE3a1BBQ0s0REhmcFY3czN0ZXIwZ2REUGg",
+  "snippet": "Descartes' new Spot solution helps freight forwarders win more shipments with faster quoting TheTrucker.com",
+  "published": "2026-11-25T16:39:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T17:31:02.217208+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/descartes-new-spot-solution-helps-freight-forwarders-win-more-shipments-with-faster-quoting",
+  "source_note": "ok · 402 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "6a8adeff479d1d71",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-26T17:31:02.217208+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "launch of Descartes Spot"
+   },
+   {
+    "sentence": "2",
+    "quote": "returning 90% of customer requests for quotes within 30 seconds"
+   },
+   {
+    "sentence": "3",
+    "quote": "combines live, API-driven carrier rates, schedules, applicable fees, surcharges"
+   },
+   {
+    "sentence": "4",
+    "quote": "Users simply enter a port pairing to instantly receive multiple transportation options"
+   },
+   {
+    "sentence": "5",
+    "quote": "Xeneta-powered market benchmarking"
+   },
+   {
+    "sentence": "6",
+    "quote": "Part of Descartes’ broker and forwarder enterprise systems suite"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 15,
+  "ai_relevant": false
  },
  {
   "id": "eb1276c2fe",
