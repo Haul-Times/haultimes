@@ -1,5 +1,34 @@
 [
  {
+  "id": "4b766771d5",
+  "slug": "fedex-preps-smart-peak-season-with-ai-and-new-tracking-tools-4b766771d5",
+  "title": "FedEx Preps 'Smart' Peak Season With AI and New Tracking Tools",
+  "orig_title": "FedEx Preps 'Smart' Peak Season With AI and New Tracking Tools",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Commercial Carrier Journal",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYnh0ZDBBdVF3NzdFRVItYkNSakQ0QjBoeS00bnNOajNpZV9MTzhfbWplM09iN1FIMjBISjdhRnBoTklPR0sxZEFOYWxMN0Y1TWYtTUdqeUxoVm1fNDhQVTh2NU5kVFA1TDVIcy1RWGMtZC1MX011ZG5hVTlnS1Y1THpmNVJSMS1YMm9pV1JweUFpS25ON2FDNlI5eDh4Q0dNRzU2RF96Q2dDR2Ytdkt3cndSbTQySGpwQ2VsaGtwb19qLXpyOExYYjhobWNBU0QzZHRLYzZB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYnh0ZDBBdVF3NzdFRVItYkNSakQ0QjBoeS00bnNOajNpZV9MTzhfbWplM09iN1FIMjBISjdhRnBoTklPR0sxZEFOYWxMN0Y1TWYtTUdqeUxoVm1fNDhQVTh2NU5kVFA1TDVIcy1RWGMtZC1MX011ZG5hVTlnS1Y1THpmNVJSMS1YMm9pV1JweUFpS25ON2FDNlI5eDh4Q0dNRzU2RF96Q2dDR2Ytdkt3cndSbTQySGpwQ2VsaGtwb19qLXpyOExYYjhobWNBU0QzZHRLYzZB",
+  "snippet": "FedEx Preps 'Smart' Peak Season With AI and New Tracking Tools Commercial Carrier Journal",
+  "published": "2026-11-26T07:15:37+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T07:51:07.225808+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "039442d57c",
   "slug": "parts-and-accessories-necessary-for-safe-operation-application-for-an-039442d57c",
   "title": "Parts and Accessories Necessary for Safe Operation; Application for an Exemption From Liberty Bulk Transport, LLC, USDOT No. 3256390",
@@ -16578,35 +16607,6 @@
   "kind": "news",
   "sum_pending": false,
   "sum_tries": 3
- },
- {
-  "id": "45ba80fd11",
-  "slug": "biosenter-45ba80fd11",
-  "title": "BIOSENTER",
-  "orig_title": "BIOSENTER",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "themercury.com",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ19GQmFEMmFtaVFwVDlZR25DOG1FQ3g0T0ViODYtanByNjdTQW9weGhKZXltMTZKZzR5Mk0yTS14UzRuNmpmc1BkU1lzUDBTckNSMFFKOXdTM21CRXZobHpEalhoMjNQbjliQ2pDenFpTTNGSEN5dHpaa3JlX2dJSU9Kc1R3WDA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ19GQmFEMmFtaVFwVDlZR25DOG1FQ3g0T0ViODYtanByNjdTQW9weGhKZXltMTZKZzR5Mk0yTS14UzRuNmpmc1BkU1lzUDBTckNSMFFKOXdTM21CRXZobHpEalhoMjNQbjliQ2pDenFpTTNGSEN5dHpaa3JlX2dJSU9Kc1R3WDA",
-  "snippet": "BIOSENTER themercury.com",
-  "published": "2026-11-21T19:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T07:51:07.119202+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "b2f2c94508",
