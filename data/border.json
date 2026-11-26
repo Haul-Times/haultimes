@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:11:02.624138+00:00",
+ "updated": "2026-11-26T08:21:06.569785+00:00",
  "hour_now": 3,
  "have_us": true,
  "have_ca": true,
@@ -18,16 +18,16 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 45,
-    "status": "45 minutes",
-    "updated": "2026-11-26 02:30 EST"
+    "wait": 25,
+    "status": "25 minutes",
+    "updated": "2026-11-26 03:12 EST"
    },
    "usual": {
     "south": [
      23,
      13,
      2,
-     2,
+     5,
      0,
      11,
      9,
@@ -53,7 +53,7 @@
      22,
      21,
      18,
-     7,
+     9,
      0,
      0,
      0,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 2:57 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -278,7 +278,7 @@
      10,
      7,
      3,
-     6,
+     5,
      4,
      5,
      3,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:57 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:05:35",
+    "updated": "03:20:37",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:05:35",
+    "updated": "03:20:38",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "03:05:35",
+    "updated": "03:20:37",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:05:35",
+    "updated": "02:20:38",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:35",
+    "updated": "00:20:37",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:05:35",
+    "updated": "00:20:38",
     "hours": "24 hrs/day"
    },
    "north": {
