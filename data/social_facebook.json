@@ -4792,14 +4792,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/5-non-domiciled-drivers-want-cdls-reinstated-as-battle-separately-move-c506ed1f8d/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=c506ed1f8d",
    "caption": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckDrivers #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-26T15:41:46.273907+00:00",
    "published": "2026-11-26T15:28:28+00:00",
    "score": 75,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122112988131544428",
+   "posted_at": "2026-11-26T16:41:30.150751+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts | HaulTimes",
@@ -4810,7 +4810,9 @@
    "reason": "importance 75 (threshold 65), Regulations, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-26T16:41:30.150751+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122112988131544428"
   },
   "1b8a99e04b": {
    "story_id": "1b8a99e04b",
@@ -5251,6 +5253,10 @@
   {
    "at": "2026-11-26T15:51:35.370640+00:00",
    "msg": "posted 0aa914cd63"
+  },
+  {
+   "at": "2026-11-26T16:41:30.150751+00:00",
+   "msg": "posted c506ed1f8d"
   }
  ],
  "decided": {
@@ -6032,7 +6038,7 @@
   "d0c8a58af0": "skipped|minor item (incident) or low-quality source",
   "0aa914cd63": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 39 min in queue",
   "17a0ce25a4": "skipped|importance 50 is below this platform's threshold (65)",
-  "c506ed1f8d": "queued|importance 75 (threshold 65), Regulations, trade publication",
+  "c506ed1f8d": "posted|importance 75 (threshold 65), Regulations, trade publication; waited 59 min in queue",
   "1b8a99e04b": "queued|importance 73 (threshold 65), Cross-Border, trade publication",
   "0a142420a3": "skipped|importance 55 is below this platform's threshold (65)",
   "6c9389dd1a": "skipped|importance 51 is below this platform's threshold (65)",
@@ -12513,6 +12519,13 @@
    "title": "Surrey, B.C., orders audit into awarding of truck parking permits",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-26T16:41:30.150751+00:00",
+   "story_id": "c506ed1f8d",
+   "title": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts",
+   "action": "posted",
+   "reason": "importance 75 (threshold 65), Regulations, trade publication; waited 59 min in queue"
   }
  ],
  "visibility": {
