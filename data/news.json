@@ -1,5 +1,34 @@
 [
  {
+  "id": "0d7214aa0c",
+  "slug": "news-cargo-crime-gangs-are-patient-and-they-plan-around-the-calendar-0d7214aa0c",
+  "title": "News Cargo crime gangs are patient, and they 'plan around the calendar'",
+  "orig_title": "News Cargo crime gangs are patient, and they 'plan around the calendar'",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Loadstar",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEZiQTJNOWY5bjduU1IwWjA4X2hfXy1lTXNKYmJ2NkpGRlpnYTg3dDl5cVNkZlhzeGpYN0lQc0dhTlJObTluT2FyYV9xdk5RSkdBcWYyMG5vQjBrM2tBVGhiLVZtMHZYQWh5bUlLV0hCeWI5Wkg0XzdVQ2E0eEZNbHp4UklYbjk3NkN6UHJXZFp4UQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEZiQTJNOWY5bjduU1IwWjA4X2hfXy1lTXNKYmJ2NkpGRlpnYTg3dDl5cVNkZlhzeGpYN0lQc0dhTlJObTluT2FyYV9xdk5RSkdBcWYyMG5vQjBrM2tBVGhiLVZtMHZYQWh5bUlLV0hCeWI5Wkg0XzdVQ2E0eEZNbHp4UklYbjk3NkN6UHJXZFp4UQ",
+  "snippet": "News Cargo crime gangs are patient, and they 'plan around the calendar' The Loadstar",
+  "published": "2026-11-26T12:34:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T12:41:04.871923+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "non-North American source"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "e3df9e9848",
   "slug": "ocean-rates-still-double-last-year-as-congestion-idles-3-6-million-teu-e3df9e9848",
   "title": "Ocean rates still double last year as congestion idles 3.6 million TEUs",
