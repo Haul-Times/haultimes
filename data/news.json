@@ -4867,6 +4867,35 @@
   "sum_pending": false
  },
  {
+  "id": "363c836ac9",
+  "slug": "d-b-cooper-told-from-the-road-below-the-long-haul-show-ep-3-363c836ac9",
+  "title": "D B Cooper, Told From the Road Below | The Long Haul Show Ep. 3",
+  "orig_title": "D B Cooper, Told From the Road Below | The Long Haul Show Ep. 3",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "YouTube",
+  "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TRW55NGdwMHBIN25hbmZLTDhSQWJSZzFCNTBrOVpmSUk2TjdXamp3ZlEweEFIdW1mZTBzTTZMN0FhQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TRW55NGdwMHBIN25hbmZLTDhSQWJSZzFCNTBrOVpmSUk2TjdXamp3ZlEweEFIdW1mZTBzTTZMN0FhQQ",
+  "snippet": "D B Cooper, Told From the Road Below | The Long Haul Show Ep. 3 YouTube",
+  "published": "2026-11-25T12:51:01+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T22:51:04.301337+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "4d31ed5a4a",
   "slug": "htec-receives-7-78-million-to-deploy-25-hydrogen-trucks-in-b-c-4d31ed5a4a",
   "title": "HTEC receives $7.78 million to deploy 25 hydrogen trucks in B.C.",
