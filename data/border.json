@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:01:04.908444+00:00",
+ "updated": "2026-11-26T16:11:02.876640+00:00",
  "hour_now": 11,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "2",
-    "status": "no delay",
-    "updated": "At 10:00 am EST",
+    "status": "delay",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -35,7 +35,7 @@
      3,
      3,
      0,
-     0,
+     1,
      0,
      0,
      4,
@@ -61,7 +61,7 @@
      7,
      3,
      2,
-     0,
+     1,
      2,
      0,
      0,
@@ -76,7 +76,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 11 AM",
+   "best_south": "Usually fastest around 12 PM",
    "best_north": "Usually fastest around 5 AM"
   },
   {
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 10:47 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 3,
-    "status": "3 minutes",
-    "updated": "2026-11-26 10:40 EST"
+    "wait": 2,
+    "status": "2 minutes",
+    "updated": "2026-11-26 11:00 EST"
    },
    "usual": {
     "south": [
@@ -260,7 +260,7 @@
      7,
      4,
      0,
-     2,
+     1,
      1,
      0,
      0,
@@ -286,7 +286,7 @@
      4,
      6,
      8,
-     11,
+     10,
      6,
      3,
      2,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 10:47 am EST",
+    "updated": "At 11:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 2,
-    "status": "2 minutes",
-    "updated": "2026-11-26 10:40 EST"
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-26 11:00 EST"
    },
    "usual": {
     "south": [
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "10:56:28",
+    "updated": "11:06:29",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -710,7 +710,7 @@
      0,
      1,
      5,
-     8,
+     7,
      0,
      4,
      5,
@@ -764,7 +764,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "10:56:28",
+    "updated": "11:06:29",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "10:56:28",
+    "updated": "11:06:29",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1085,7 +1085,7 @@
      0,
      6,
      4,
-     28,
+     26,
      18,
      19,
      20,
@@ -1207,7 +1207,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 am MST",
+    "updated": "At 9:00 am MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1228,7 +1228,7 @@
      0,
      0,
      6,
-     15,
+     13,
      17,
      17,
      17,
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-26 08:40 PDT"
+    "updated": "2026-11-26 09:00 PDT"
    },
    "usual": {
     "south": [
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 11 AM"
+   "best_north": "Usually fastest around 12 PM"
   },
   {
    "id": "sumas",
@@ -1357,13 +1357,13 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "07:56:29",
+    "updated": "08:06:29",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-26 08:40 PDT"
+    "updated": "2026-11-26 09:00 PDT"
    },
    "usual": {
     "south": [
@@ -1462,8 +1462,8 @@
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": 0,
-    "status": "no delay"
+    "wait": 10,
+    "status": "delay"
    },
    {
     "name": "Jackman",
@@ -1472,8 +1472,8 @@
    },
    {
     "name": "Lynden",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    },
    {
     "name": "Madawaska",
@@ -1524,8 +1524,13 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 20,
-    "status": "20 minutes"
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Aldergrove",
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Douglas",
