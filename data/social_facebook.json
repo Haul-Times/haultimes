@@ -4740,7 +4740,7 @@
  "paused": null,
  "account": {
   "name": "HaulTimes",
-  "checked_at": "2026-11-25T14:51:22.431888+00:00",
+  "checked_at": "2026-11-26T14:51:23.431022+00:00",
   "checked_fp": "45e47322b1f3"
  },
  "log": [
@@ -5135,6 +5135,10 @@
   {
    "at": "2026-11-26T05:01:24.415397+00:00",
    "msg": "posted border-sweetgrass-south-2026112521"
+  },
+  {
+   "at": "2026-11-26T14:51:23.431022+00:00",
+   "msg": "credentials OK: connected to HaulTimes"
   }
  ],
  "decided": {
