@@ -2395,6 +2395,64 @@
   "sum_pending": false
  },
  {
+  "id": "cfc8664d55",
+  "slug": "dot-watchdog-refers-20-motor-carrier-cases-for-prosecution-in-6-months-cfc8664d55",
+  "title": "DOT watchdog refers 20 motor carrier cases for prosecution in 6 months",
+  "orig_title": "DOT watchdog refers 20 motor carrier cases for prosecution in 6 months",
+  "summary": "The U.S. Department of Transportation's Office of Inspector General referred 20 motor carrier-related cases for criminal or civil prosecution between April 1 and Sept. 30, 2026, according to its semiannual report to Congress. Six of the cases involved falsified or altered inspection records, six involved fraudulent registrations or chameleon carriers, and one each involved attempted bribery, CDL violations, drug and alcohol program violations and driver qualification issues.\n\nThe report highlights a Louisiana CDL bribery scheme that ran from 2020 to 2024 and let more than 100 people obtain licenses without meeting requirements, with more guilty pleas reported in September. Separately, FMCSA expanded its online complaint center earlier this month to give industry members more ways to report suspected fraud and safety violations.",
+  "why": "",
+  "category": "regs",
+  "region": "US",
+  "importance": 50,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmhmWkpSZU5ZOGNLVU1oYU1OWjZBd2RWOHZxYWxUQ0RKSlhpVHRUTGtETW9ZMG9HdXk2T3NKekNkTlh6UlJTaFA5ZEpPQUFldVRrMTBOWW9ISkhmVHpkRXMySU93Rmk5a2hadHNIci1lVll5SmhKX0lsVFJiZ094eXRxUWFjUjhZX0tHMjFjX1lZSFp3Q3htVzd4cmhlX3BWQ2Ztekw4bTV5c1VZU3N2SjNqblotejBfSUhubS1YMA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmhmWkpSZU5ZOGNLVU1oYU1OWjZBd2RWOHZxYWxUQ0RKSlhpVHRUTGtETW9ZMG9HdXk2T3NKekNkTlh6UlJTaFA5ZEpPQUFldVRrMTBOWW9ISkhmVHpkRXMySU93Rmk5a2hadHNIci1lVll5SmhKX0lsVFJiZ094eXRxUWFjUjhZX0tHMjFjX1lZSFp3Q3htVzd4cmhlX3BWQ2Ztekw4bTV5c1VZU3N2SjNqblotejBfSUhubS1YMA",
+  "snippet": "DOT watchdog refers 20 motor carrier cases for prosecution in 6 months TheTrucker.com",
+  "published": "2026-11-25T16:26:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T11:11:11.176575+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/the-nation/dot-watchdog-refers-20-motor-carrier-cases-for-prosecution-in-6-months",
+  "source_note": "ok · 324 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "2118502c874235d0",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-26T11:11:11.176575+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "referred for criminal or civil prosecution between April 1 and Sept. 30, 2026"
+   },
+   {
+    "sentence": "2",
+    "quote": "Falsification or alteration of inspection records"
+   },
+   {
+    "sentence": "3",
+    "quote": "Louisiana CDL bribery scheme that enabled more than 100 individuals"
+   },
+   {
+    "sentence": "4",
+    "quote": "expanded its online complaint center"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "regs",
+  "ai_importance": 60
+ },
+ {
   "id": "13bef3dd25",
   "slug": "shein-feels-impact-of-eu-import-fees-as-revenue-slides-6-13bef3dd25",
   "title": "Shein feels impact of EU import fees as revenue slides 6%",
