@@ -4773,6 +4773,62 @@
    "breaking": null,
    "edited": false,
    "wait_summary": false
+  },
+  "c506ed1f8d": {
+   "story_id": "c506ed1f8d",
+   "title": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts",
+   "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMjhhMzJINERoSW5xVWNaNmd1a2VyM202MTFfYUkwZmRtaVVWWnVVNURST2Qxbjlwd3Z6XzYwWnR1Y3NqRnF5cjgycFdDTnVBQlNHYm1XbmZsbU9teXU2dmN2WmhmUFgzU2tDeHAyeVVUc0drb25KMExIc1Z1NlFRX24tdHg4OWxDemdqNzZfUEZzWUV5Ujh6akpNenZUNl9BSGNOWDNndkxZWUw3Zzc1SnIwODFQTlR4akRTaA",
+   "category": "regs",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/5-non-domiciled-drivers-want-cdls-reinstated-as-battle-separately-move-c506ed1f8d/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=c506ed1f8d",
+   "caption": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #TruckDrivers #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-26T15:41:46.273907+00:00",
+   "published": "2026-11-26T15:28:28+00:00",
+   "score": 75,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/ce365bce4b.png",
+    "og:url": "https://haultimes.com/story/5-non-domiciled-drivers-want-cdls-reinstated-as-battle-separately-move-c506ed1f8d/"
+   },
+   "reason": "importance 75 (threshold 65), Regulations, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
+  },
+  "1b8a99e04b": {
+   "story_id": "1b8a99e04b",
+   "title": "CBSA seizes over $25 million in nicotine products across Southern Ontario",
+   "url_key": "https://canada.ca/en/border-services-agency/news/2026/11/cbsa-seizes-over-25-million-in-nicotine-products-across-southern-ontario.html",
+   "category": "border",
+   "source": "Canada Border Services Agency",
+   "dest": "https://haultimes.com/story/cbsa-seizes-over-25-million-in-nicotine-products-across-southern-ontar-1b8a99e04b/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=1b8a99e04b",
+   "caption": "CBSA seizes over $25 million in nicotine products across Southern Ontario.\n\nCanada Border Services Agency officers at land ports of entry across Southern Ontario seized more than $25 million worth of illicit nicotine products over four days in November. The products were in commercial freight coming in from the United States.\n\nReported by Canada Border Services Agency. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #CrossBorder #Logistics #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-26T15:41:46.273907+00:00",
+   "published": "2026-11-26T15:30:51+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "CBSA seizes over $25 million in nicotine products across Southern Ontario | HaulTimes",
+    "og:description": "Canada Border Services Agency officers at land ports of entry across Southern Ontario seized more than $25 million worth of illicit nicotine products over four days in November. The products were in commercial freight coming in from the United States. The agency said the seizures help disrupt organized crime, and the federal government said it is investing $1.3 billion to strengthen border security and the immigration system under its Border Plan.",
+    "og:image": "https://haultimes.com/og/f2394aba17.png",
+    "og:url": "https://haultimes.com/story/cbsa-seizes-over-25-million-in-nicotine-products-across-southern-ontar-1b8a99e04b/"
+   },
+   "reason": "importance 73 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5961,7 +6017,11 @@
   "57ecea3fa2": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue",
   "d0c8a58af0": "skipped|minor item (incident) or low-quality source",
   "0aa914cd63": "queued|importance 67 (threshold 65), Cross-Border, trade publication",
-  "17a0ce25a4": "skipped|importance 50 is below this platform's threshold (65)"
+  "17a0ce25a4": "skipped|importance 50 is below this platform's threshold (65)",
+  "c506ed1f8d": "queued|importance 75 (threshold 65), Regulations, trade publication",
+  "1b8a99e04b": "queued|importance 73 (threshold 65), Cross-Border, trade publication",
+  "0a142420a3": "skipped|importance 55 is below this platform's threshold (65)",
+  "6c9389dd1a": "skipped|importance 51 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12396,6 +12456,34 @@
    "title": "Classic 1975 Peterbilt 352 saved from scrap",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-26T15:41:46.273907+00:00",
+   "story_id": "c506ed1f8d",
+   "title": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts",
+   "action": "queued",
+   "reason": "importance 75 (threshold 65), Regulations, trade publication"
+  },
+  {
+   "at": "2026-11-26T15:41:46.273907+00:00",
+   "story_id": "1b8a99e04b",
+   "title": "CBSA seizes over $25 million in nicotine products across Southern Ontario",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-26T15:41:46.273907+00:00",
+   "story_id": "0a142420a3",
+   "title": "Déjà vu in Miami as FedEx MD-11 freighter overshoots runway",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-26T15:41:46.273907+00:00",
+   "story_id": "6c9389dd1a",
+   "title": "Comprehensive Full Truckload Market Report Covers Forecasts, Innovations And Industry Outlook",
+   "action": "skipped",
+   "reason": "importance 51 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
