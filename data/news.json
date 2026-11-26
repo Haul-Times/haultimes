@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "065b1ce510",
+  "slug": "mexico-s-export-boom-is-real-and-disappointing-065b1ce510",
+  "title": "Mexico’s export boom is real—and disappointing",
+  "orig_title": "Mexico’s export boom is real—and disappointing",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Economist",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkRVd19vY21MblFFUUNuZlJLdjZEblBRREc1NHJ6T3BJQnAyVGtaUkJ0bE5MYm9kSmluZjZUVUNvTUFEMDRQcko0UE5VUU8taHdNSF9kWVNQc2ZHZzRYM2xKVUlDX2N1Y2twTEVmQ1k3YkJqWDJMQmRPem9WQVBmcThiN1hQUFN0QUdrV3N3akJxX3ZNTkJJa1loa0VfQlhVTEd5OUwwTQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkRVd19vY21MblFFUUNuZlJLdjZEblBRREc1NHJ6T3BJQnAyVGtaUkJ0bE5MYm9kSmluZjZUVUNvTUFEMDRQcko0UE5VUU8taHdNSF9kWVNQc2ZHZzRYM2xKVUlDX2N1Y2twTEVmQ1k3YkJqWDJMQmRPem9WQVBmcThiN1hQUFN0QUdrV3N3akJxX3ZNTkJJa1loa0VfQlhVTEd5OUwwTQ",
+  "snippet": "Mexico’s export boom is real—and disappointing The Economist",
+  "published": "2026-11-26T09:45:41+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T10:21:02.339135+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "4013540c4e",
   "slug": "iranian-truckers-strike-spreads-to-more-cities-on-fifth-day-union-says-4013540c4e",
   "title": "Iranian truckers’ strike spreads to more cities on fifth day, union says",
