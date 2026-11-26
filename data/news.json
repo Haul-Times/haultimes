@@ -1,5 +1,34 @@
 [
  {
+  "id": "6c69f64bc6",
+  "slug": "st1-opens-flagship-energy-station-in-finland-6c69f64bc6",
+  "title": "St1 opens flagship energy station in Finland",
+  "orig_title": "St1 opens flagship energy station in Finland",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Mobility Plaza",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFlsQW50cE1ZRDVYbjI1czE2ak1Xelh6WVNEeHhJNEsya1Q1aGlwd3JGbXUwVUxnY1cyTm1WeXUxS2pPUXlYaGFSSmxac1RYdnNfV1FxekQ1UWlDaDByekwzYzE2OERzUHNXWTBXNWswZFdSWEhhWFhBOG1CZ2liemZKVHQ5UQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFlsQW50cE1ZRDVYbjI1czE2ak1Xelh6WVNEeHhJNEsya1Q1aGlwd3JGbXUwVUxnY1cyTm1WeXUxS2pPUXlYaGFSSmxac1RYdnNfV1FxekQ1UWlDaDByekwzYzE2OERzUHNXWTBXNWswZFdSWEhhWFhBOG1CZ2liemZKVHQ5UQ",
+  "snippet": "St1 opens flagship energy station in Finland Mobility Plaza",
+  "published": "2026-11-26T10:43:58+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T10:51:05.365017+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "1566e75838",
   "slug": "report-warns-of-punjabi-youth-gang-recruitment-in-canada-1566e75838",
   "title": "Report Warns of Punjabi Youth Gang Recruitment in Canada",
@@ -21315,35 +21344,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "8e1e0dd943",
-  "slug": "from-pork-to-online-french-usage-six-take-aways-from-carney-s-tour-of-8e1e0dd943",
-  "title": "From pork to online French usage: six take-aways from Carney's tour of Asia, Ireland",
-  "orig_title": "From pork to online French usage: six take-aways from Carney's tour of Asia, Ireland",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "thecanadianpressnews.ca",
-  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUHdEUmdnMlhfTGtpRk4yb0dTaHA1c2dJMVZ5QThmTWRmRC1wa1hockJsSnFrT0otTldxXzFWZld3bkdRak9rWHZCb0Ezd3NtbFNROGZ4M3NlWDhuaUh1aTRUTnFsVzQ2Y2dEU0hqZVB6TDRKOGVRUnVhYWFOcDJUOW1CeUpoWDdfY1piQlktLTA4cS15YUFpWjk4M2RTUWJVRW9zNERPcnlXQ3JlMThUT2tkdkJqbTNYeWwzZDVJM0twc205b01naXRKT3RCaXpRX1kzUUQ2R1hQRFdLRXFUbHA2VDRCeFJ3aW9lazF4aGpPOWpfRU9RWGNkaEFoLWhPd2FteXhKNA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUHdEUmdnMlhfTGtpRk4yb0dTaHA1c2dJMVZ5QThmTWRmRC1wa1hockJsSnFrT0otTldxXzFWZld3bkdRak9rWHZCb0Ezd3NtbFNROGZ4M3NlWDhuaUh1aTRUTnFsVzQ2Y2dEU0hqZVB6TDRKOGVRUnVhYWFOcDJUOW1CeUpoWDdfY1piQlktLTA4cS15YUFpWjk4M2RTUWJVRW9zNERPcnlXQ3JlMThUT2tkdkJqbTNYeWwzZDVJM0twc205b01naXRKT3RCaXpRX1kzUUQ2R1hQRFdLRXFUbHA2VDRCeFJ3aW9lazF4aGpPOWpfRU9RWGNkaEFoLWhPd2FteXhKNA",
-  "snippet": "From pork to online French usage: six take-aways from Carney's tour of Asia, Ireland thecanadianpressnews.ca",
-  "published": "2026-11-19T17:34:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T10:51:03.628315+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "a4c56f2906",
