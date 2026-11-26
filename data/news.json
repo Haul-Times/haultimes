@@ -3990,6 +3990,35 @@
   "sum_pending": false
  },
  {
+  "id": "45c8146579",
+  "slug": "recordreview-20261125-trr-2026-11-25-0-014-art-7-xml-45c8146579",
+  "title": "recordreview_20261125_trr-2026-11-25-0-014_art_7.xml",
+  "orig_title": "recordreview_20261125_trr-2026-11-25-0-014_art_7.xml",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Central Wisconsin News",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnZmN0VNbEliVExibzZXMU9PUFZSLVVRUnVhZjJoZzhGNm5uQmZJZERSQ3BfNmtabi1JVmdfdDItdi1JYk90UDdVRFVaNDFuc0JRV1BiM0EtS292bVNIYzByR0syTG9tMmVlZFVKQlNjNFIwWC1UdG1DV0NaU2U2UlNqaWo5NnAyMFNpV0hLMTNnUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnZmN0VNbEliVExibzZXMU9PUFZSLVVRUnVhZjJoZzhGNm5uQmZJZERSQ3BfNmtabi1JVmdfdDItdi1JYk90UDdVRFVaNDFuc0JRV1BiM0EtS292bVNIYzByR0syTG9tMmVlZFVKQlNjNFIwWC1UdG1DV0NaU2U2UlNqaWo5NnAyMFNpV0hLMTNnUQ",
+  "snippet": "recordreview_20261125_trr-2026-11-25-0-014_art_7.xml Central Wisconsin News",
+  "published": "2026-11-25T00:04:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T03:41:03.630856+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "765b55f826",
   "slug": "tribunephonograph-20261125-ttp-2026-11-25-0-015-art-2-xml-765b55f826",
   "title": "tribunephonograph_20261125_ttp-2026-11-25-0-015_art_2.xml",
