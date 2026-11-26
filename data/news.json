@@ -1,5 +1,36 @@
 [
  {
+  "id": "57cae11b90",
+  "slug": "here-s-a-big-trucking-happy-thanksgiving-57cae11b90",
+  "title": "Here's a big trucking Happy Thanksgiving!",
+  "orig_title": "Here's a big trucking Happy Thanksgiving!",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 55,
+  "source": "www.overdriveonline.com",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakVJY3hjdG5PLWRoY0dxM1BzOGREUzNXRGFiaTczVHpXTEVMNDhyY1c4SEs3ZDEySEhZalZCVTlsbDQxalY3VzRFc0hieUdYZ2pOLWRVdEExbjE3dmtzQzU1WTQxWU84U2JEQWFtNlZ3MkE2djIwR0dldTZaY0p5b2N6ZWNTci1tZnZKWjY2TGp4NUlJdVRKQVVlUDVNT2NKTXJBSUVEUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakVJY3hjdG5PLWRoY0dxM1BzOGREUzNXRGFiaTczVHpXTEVMNDhyY1c4SEs3ZDEySEhZalZCVTlsbDQxalY3VzRFc0hieUdYZ2pOLWRVdEExbjE3dmtzQzU1WTQxWU84U2JEQWFtNlZ3MkE2djIwR0dldTZaY0p5b2N6ZWNTci1tZnZKWjY2TGp4NUlJdVRKQVVlUDVNT2NKTXJBSUVEUQ",
+  "snippet": "Here's a big trucking Happy Thanksgiving! www.overdriveonline.com",
+  "published": "2026-11-26T13:03:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T13:11:17.539316+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "0d7214aa0c",
   "slug": "news-cargo-crime-gangs-are-patient-and-they-plan-around-the-calendar-0d7214aa0c",
   "title": "News Cargo crime gangs are patient, and they 'plan around the calendar'",
@@ -1673,6 +1704,76 @@
   "source_note": "excerpt only · 15 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
+ },
+ {
+  "id": "9100135577",
+  "slug": "melton-driver-honored-as-tca-highway-angel-for-helping-four-crash-vict-9100135577",
+  "title": "Melton driver honored as TCA Highway Angel for helping four crash victims in Kentucky",
+  "orig_title": "Melton driver honored as TCA Highway Angel for helping four crash victims in Kentucky",
+  "summary": "The Truckload Carriers Association has named Sammie Phillips, a driver for Melton Truck Lines, as a TCA Highway Angel. Phillips was driving near Lexington, Ky., at about 8:10 a.m. on Aug. 14 when an SUV carrying four young adults rolled several times in front of him. He turned on his emergency lights, pulled over and ran to the wreck, then climbed onto the vehicle, which had landed on its side, to try to reach the occupants.\n\nTwo occupants told him they were injured, and the other two had scrapes and bruises. Law enforcement arrived shortly afterward and helped get them out, while Phillips stayed to give officers information. The TCA said nearly 1,500 drivers have been recognized since the program began in 1997, supported by presenting sponsor EpicVue and supporting sponsors DriverFacts and Northland Insurance.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 5,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdzYxQ0ctdHFiNjNaZEdsUThFY1V4ZXdHUXVpNFVRak9hbFg1MXF4MEo4T3gtS09mUE80OHVUWHcxeWVfUF9TVEJmV1ZwaU4yeEJjTm4tSUFoR2RNWkpQeU02LXg5TU9rcXJVeGtOUXlSRVRRd25hb3U3ZVJPQUJQTlJVRVRpMlRzTmNzdUxaWGM3THdQRXc1bm8zOGVQX3NTUzFidWpVTUtISG10U0RwclpnbUZLNExpd1NJSUR1RjFTdEdpaDFJSzQzWG1QdE9JWGpodUg0dnFhci01NlRV?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdzYxQ0ctdHFiNjNaZEdsUThFY1V4ZXdHUXVpNFVRak9hbFg1MXF4MEo4T3gtS09mUE80OHVUWHcxeWVfUF9TVEJmV1ZwaU4yeEJjTm4tSUFoR2RNWkpQeU02LXg5TU9rcXJVeGtOUXlSRVRRd25hb3U3ZVJPQUJQTlJVRVRpMlRzTmNzdUxaWGM3THdQRXc1bm8zOGVQX3NTUzFidWpVTUtISG10U0RwclpnbUZLNExpd1NJSUR1RjFTdEdpaDFJSzQzWG1QdE9JWGpodUg0dnFhci01NlRV",
+  "snippet": "Melton driver honored as TCA Highway Angel for helping four crash victims in Kentucky TheTrucker.com",
+  "published": "2026-11-25T19:47:23+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T13:11:17.539316+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "feature",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/podcast-of-the-week/melton-driver-honored-as-tca-highway-angel-for-helping-four-crash-victims-in-kentucky",
+  "source_note": "ok · 342 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "06dda63a01ce811f",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-26T13:11:17.539316+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "naming Sammie Phillips, a professional driver for Melton Truck Lines"
+   },
+   {
+    "sentence": "2",
+    "quote": "At approximately 8:10 a.m. on Aug. 14"
+   },
+   {
+    "sentence": "3",
+    "quote": "immediately activated his emergency lights, pulled his truck over and ran toward the wreck"
+   },
+   {
+    "sentence": "4",
+    "quote": "Phillips climbed onto the vehicle"
+   },
+   {
+    "sentence": "5",
+    "quote": "Two of the four occupants told Phillips they were injured"
+   },
+   {
+    "sentence": "6",
+    "quote": "Law enforcement arrived shortly afterward and assisted with getting the occupants out of the vehicle."
+   },
+   {
+    "sentence": "7",
+    "quote": "Since the program's inception in 1997, nearly 1,500 professional truck drivers have been recognized"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 30
  },
  {
   "id": "b5162e2d79",
@@ -16428,35 +16529,6 @@
   "status": "rejected",
   "reasons": [
    "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "b919f506c3",
-  "slug": "tampered-air-brakes-stash-houses-inside-22-5-million-california-train-b919f506c3",
-  "title": "Tampered air brakes, stash houses: Inside $22.5 million California train heist bust",
-  "orig_title": "Tampered air brakes, stash houses: Inside $22.5 million California train heist bust",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Indian Express",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmFOT0l3Umo3a3g0c1J3RGFYMm5SZjdQcXJPcnVpcmJEOWJIbGZ2SUJLcDlXZ2x1UDNvNzdwT003a2RiNVpuQlo5R21CeUFvZDlrcmwxeDhsd0hNUjRLbE1HZllmOGRfQ1gwZThSbTh2Sk1lUWxMM1BlMURlQ3J0cUxBdTcyWEstN3J0U0dkUXFoZzliNEwxUk9Cc2tGU1dLR0RzeDJQeXZEajl6QUJ6OWdJZG5ISXpSZ2Y3cnV5X18zSDJISVHSAcwBQVVfeXFMTUQ4bGJYUmQ2Qm1oQVJwYW9JaGwwNzh1RHY2dzJ1aFZfQVA5emhrMTBGQ0VMRXNva2tONkhvaC1IN3ZtS0JrdjRiemt1ZERjQTdJNFFUQUs3RUxDLTVEN2J0SXpBY0FUQllMMzFnVGFBZnQ3dW9ZdVUzMXBDdzdDcE0zVGFsTjZiZVhsS0M5UHgxZDhIbTlPaS02bDRqVjJ4SnpLOEhjbnlMZGpMcnEwU3VNVVVnS040QTJWa3NCT195TW5aUjR3UThPOUJX?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmFOT0l3Umo3a3g0c1J3RGFYMm5SZjdQcXJPcnVpcmJEOWJIbGZ2SUJLcDlXZ2x1UDNvNzdwT003a2RiNVpuQlo5R21CeUFvZDlrcmwxeDhsd0hNUjRLbE1HZllmOGRfQ1gwZThSbTh2Sk1lUWxMM1BlMURlQ3J0cUxBdTcyWEstN3J0U0dkUXFoZzliNEwxUk9Cc2tGU1dLR0RzeDJQeXZEajl6QUJ6OWdJZG5ISXpSZ2Y3cnV5X18zSDJISVHSAcwBQVVfeXFMTUQ4bGJYUmQ2Qm1oQVJwYW9JaGwwNzh1RHY2dzJ1aFZfQVA5emhrMTBGQ0VMRXNva2tONkhvaC1IN3ZtS0JrdjRiemt1ZERjQTdJNFFUQUs3RUxDLTVEN2J0SXpBY0FUQllMMzFnVGFBZnQ3dW9ZdVUzMXBDdzdDcE0zVGFsTjZiZVhsS0M5UHgxZDhIbTlPaS02bDRqVjJ4SnpLOEhjbnlMZGpMcnEwU3VNVVVnS040QTJWa3NCT195TW5aUjR3UThPOUJX",
-  "snippet": "Tampered air brakes, stash houses: Inside $22.5 million California train heist bust The Indian Express",
-  "published": "2026-11-22T12:31:04+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T13:01:11.005440+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
   ],
   "labels": [],
   "kind": "rejected",
