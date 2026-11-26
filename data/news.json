@@ -58,6 +58,35 @@
   "sum_pending": false
  },
  {
+  "id": "e15cd5a9ac",
+  "slug": "josh-droll-e15cd5a9ac",
+  "title": "Josh Droll",
+  "orig_title": "Josh Droll",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KATC",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SdV9hRlVVYnNncmFjT1lRdk00ZWlhejdJU1NlbnVyOU91TDhXRXBad2NDU2R0bGxjSW5GRGhzS2Y1Rm5LbmJBWGcyUGpueEIzb1Y3Tlk4eGxIWFI4ZTVkWlBhTQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SdV9hRlVVYnNncmFjT1lRdk00ZWlhejdJU1NlbnVyOU91TDhXRXBad2NDU2R0bGxjSW5GRGhzS2Y1Rm5LbmJBWGcyUGpueEIzb1Y3Tlk4eGxIWFI4ZTVkWlBhTQ",
+  "snippet": "Josh Droll KATC",
+  "published": "2026-11-26T11:39:29+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T13:01:04.642160+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "17e267c898",
   "slug": "top-13-best-rain-gear-for-truck-drivers-you-can-t-miss-17e267c898",
   "title": "Top 13 Best Rain Gear for Truck Drivers You Can’t Miss",
