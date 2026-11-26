@@ -6064,7 +6064,8 @@
   "1b8a99e04b": "posted|importance 73 (threshold 65), Cross-Border, trade publication; waited 109 min in queue",
   "0a142420a3": "skipped|importance 55 is below this platform's threshold (65)",
   "6c9389dd1a": "skipped|importance 51 is below this platform's threshold (65)",
-  "6bda17dfce": "skipped|importance 55 is below this platform's threshold (65)"
+  "6bda17dfce": "skipped|importance 55 is below this platform's threshold (65)",
+  "80f7379008": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12555,6 +12556,13 @@
    "title": "CBSA seizes over $25 million in nicotine products across Southern Ontario",
    "action": "posted",
    "reason": "importance 73 (threshold 65), Cross-Border, trade publication; waited 109 min in queue"
+  },
+  {
+   "at": "2026-11-26T18:31:36.416991+00:00",
+   "story_id": "80f7379008",
+   "title": "Coaldale, Lethbridge County release results of 2-month commercial vehicle inspections",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

@@ -1,5 +1,59 @@
 [
  {
+  "id": "80f7379008",
+  "slug": "coaldale-lethbridge-county-release-results-of-2-month-commercial-vehic-80f7379008",
+  "title": "Coaldale, Lethbridge County release results of 2-month commercial vehicle inspections",
+  "orig_title": "Coaldale, Lethbridge County release results of 2-month commercial vehicle inspections",
+  "summary": "Community peace officers in Coaldale and Lethbridge County have released results from a joint round of commercial vehicle safety inspections carried out in September and October. Over those two months, inspectors completed 15 inspections and identified a few problem areas involving brakes, tires, load securement and general vehicle equipment. Coaldale Mayor Jack Van Rijn, in a media release, thanked the two municipalities for working together and said keeping commercial vehicles up to safety standards protects everyone on the roads.",
+  "why": "",
+  "category": "regs",
+  "region": "Canada",
+  "importance": 50,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWN6ZnItZjBkX2tIXzRHNE1jZS1ySllWZ3pOeEtuNFliczh0cUZGdkxNZVlFOFR6cWJRQVlhbHNvd2VxV1B0M3NpUTVhWGpBQ3VyY1Q0QnVoclJXRGt3T1RYTWhNejFjaW9pUU9mWWplbU9QVzJnMVpRYmZqTy1DNngwMUdDbGV2M1pHWUJoTWwxLVdRQVNJLUd1cHVFLW9OUEd0TVd2VFdjbEtkQlg4dy1LaVBZd1JwZVdrbkJwbW5PUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWN6ZnItZjBkX2tIXzRHNE1jZS1ySllWZ3pOeEtuNFliczh0cUZGdkxNZVlFOFR6cWJRQVlhbHNvd2VxV1B0M3NpUTVhWGpBQ3VyY1Q0QnVoclJXRGt3T1RYTWhNejFjaW9pUU9mWWplbU9QVzJnMVpRYmZqTy1DNngwMUdDbGV2M1pHWUJoTWwxLVdRQVNJLUd1cHVFLW9OUEd0TVd2VFdjbEtkQlg4dy1LaVBZd1JwZVdrbkJwbW5PUQ",
+  "snippet": "Coaldale, Lethbridge County release results of 2-month commercial vehicle inspections CTV News",
+  "published": "2026-11-26T18:21:47+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T18:31:08.358760+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.ctvnews.ca/calgary/article/coaldale-lethbridge-county-release-results-of-2-month-commercial-vehicle-inspections/",
+  "source_note": "ok · 183 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "969856f97eec5bac",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-26T18:31:08.358760+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "joint effort to conduct commercial vehicle safety inspections in both counties this fall"
+   },
+   {
+    "sentence": "2",
+    "quote": "inspectors completed 15 commercial vehicle inspections"
+   },
+   {
+    "sentence": "3",
+    "quote": "ensuring these vehicles meet established safety standards is critical to protecting everyone who uses our roads"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "regs",
+  "ai_importance": 30
+ },
+ {
   "id": "3e19058ad3",
   "slug": "iran-truckers-strike-continues-for-the-fifth-day-and-expands-to-14-pro-3e19058ad3",
   "title": "Iran: Truckers’ Strike Continues for the Fifth Day and Expands to 14 Provinces",
@@ -17165,35 +17219,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "1c088551f2",
-  "slug": "sault-ste-marie-port-and-rail-yard-draw-c-250-million-in-pledges-1c088551f2",
-  "title": "Sault Ste. Marie port and rail yard draw C$250 million in pledges",
-  "orig_title": "Sault Ste. Marie port and rail yard draw C$250 million in pledges",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Railway Supply",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTI3c0liamFCcTZ5OHJVbXlpUXFnODdOTU9KUEtYb0tMbVpiUDNwNE9HVVBadVBEQWs1RWlyeXlYaVAwRnlyZ0puQXoxQjBXVDh3dVVjcGVpNm9aWjdCbU1qTFhpSi12cWlSb1dPSkt1MmF0dzdXN2xWNWM1SGk4U21ZSURwTF9lYThvOXNOc2plYWZxdmc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTI3c0liamFCcTZ5OHJVbXlpUXFnODdOTU9KUEtYb0tMbVpiUDNwNE9HVVBadVBEQWs1RWlyeXlYaVAwRnlyZ0puQXoxQjBXVDh3dVVjcGVpNm9aWjdCbU1qTFhpSi12cWlSb1dPSkt1MmF0dzdXN2xWNWM1SGk4U21ZSURwTF9lYThvOXNOc2plYWZxdmc",
-  "snippet": "Sault Ste. Marie port and rail yard draw C$250 million in pledges Railway Supply",
-  "published": "2026-11-22T08:25:55+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T18:31:05.536334+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "87dd6a4784",
