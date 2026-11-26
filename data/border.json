@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:31:05.581102+00:00",
+ "updated": "2026-11-26T01:41:05.294303+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -70,7 +70,7 @@
      16,
      31,
      38,
-     36,
+     37,
      15,
      6,
      0
@@ -89,7 +89,7 @@
     "fast_wait": 0,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -119,7 +119,7 @@
      2,
      1,
      0,
-     4,
+     3,
      6,
      1,
      0
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 0,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "4",
-    "status": "no delay",
-    "updated": "At 8:17 pm EST",
+    "status": "delay",
+    "updated": "At 8:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -295,7 +295,7 @@
      10,
      8,
      12,
-     10,
+     12,
      3,
      3,
      2
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 12,
+    "wait": 18,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 8:17 pm EST",
+    "updated": "At 8:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -344,7 +344,7 @@
      0,
      6,
      1,
-     1,
+     3,
      0,
      0,
      4
@@ -370,7 +370,7 @@
      6,
      8,
      26,
-     27,
+     29,
      8,
      3,
      6
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm CST",
+    "updated": "At 9:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -760,11 +760,11 @@
    "ports": "Highgate Springs, VT ↔ Saint-Armand, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Lanes Closed",
-    "updated": "20:25:01",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:25:01",
+    "updated": "20:40:02",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1237,7 +1237,7 @@
      3,
      9,
      21,
-     17,
+     20,
      0,
      0,
      0
@@ -1280,9 +1280,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "3",
+    "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:00 pm PST",
+    "updated": "At 5:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1338,7 +1338,7 @@
      9,
      7,
      10,
-     10,
+     9,
      9,
      14,
      10
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm PST",
+    "updated": "At 5:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
