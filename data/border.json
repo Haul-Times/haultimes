@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:11:05.557860+00:00",
+ "updated": "2026-11-26T18:21:00.586287+00:00",
  "hour_now": 13,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 30,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "2",
-    "status": "delay",
-    "updated": "At Noon EST",
+    "lanes": "3",
+    "status": "no delay",
+    "updated": "At 1:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -37,7 +37,7 @@
      0,
      5,
      9,
-     5,
+     4,
      4,
      14,
      24,
@@ -112,7 +112,7 @@
      3,
      3,
      13,
-     15,
+     14,
      21,
      18,
      29,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 1:00 pm EST",
+    "updated": "At 1:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -363,7 +363,7 @@
      3,
      2,
      2,
-     2,
+     3,
      2,
      1,
      2,
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 1:00 pm CST",
+    "updated": "At 2:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "13:06:41",
+    "updated": "13:16:42",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1087,7 +1087,7 @@
      4,
      19,
      11,
-     16,
+     15,
      20,
      15,
      1,
@@ -1230,7 +1230,7 @@
      6,
      10,
      11,
-     15,
+     13,
      17,
      17,
      17,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 1 PM"
+   "best_north": "Usually fastest around 2 PM"
   },
   {
    "id": "sumas",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "10:06:42",
+    "updated": "10:16:42",
     "hours": "24 hrs/day"
    },
    "north": {
