@@ -1282,6 +1282,35 @@
   "sum_pending": false
  },
  {
+  "id": "d3ac5b27c0",
+  "slug": "we-lost-everything-commercial-garage-in-upper-hammonds-plains-collapse-d3ac5b27c0",
+  "title": "‘We lost everything’: Commercial garage in Upper Hammonds Plains collapses after fire",
+  "orig_title": "‘We lost everything’: Commercial garage in Upper Hammonds Plains collapses after fire",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnczbnFqN3h3UE95cFp0cndKZThuZi1SN1ZQaV9uTmEwTnVobUJaNHlnUktCemRDWmNKVkNDRU5rN0pTMFRnUzNlU0VzSXhFRXJGVFFiZEdVa3NsWWdsZ2dYbDdXQ0MxTXoycGpYbUhpRkRIV3U2WmhyenVZVEl4VmRqMTFXQ1poTnY1VGhrSUtwallzb3l2UElBWGZVNmNOTGxfUDJwQ2xETjh5cFllZEJLUHFyMkk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnczbnFqN3h3UE95cFp0cndKZThuZi1SN1ZQaV9uTmEwTnVobUJaNHlnUktCemRDWmNKVkNDRU5rN0pTMFRnUzNlU0VzSXhFRXJGVFFiZEdVa3NsWWdsZ2dYbDdXQ0MxTXoycGpYbUhpRkRIV3U2WmhyenVZVEl4VmRqMTFXQ1poTnY1VGhrSUtwallzb3l2UElBWGZVNmNOTGxfUDJwQ2xETjh5cFllZEJLUHFyMkk",
+  "snippet": "‘We lost everything’: Commercial garage in Upper Hammonds Plains collapses after fire CTV News",
+  "published": "2026-11-26T10:29:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T23:51:02.048696+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "501b9b317f",
   "slug": "belgian-defense-minister-condemns-iran-s-flogging-sentences-and-execut-501b9b317f",
   "title": "Belgian defense minister condemns Iran’s flogging sentences and executions",
