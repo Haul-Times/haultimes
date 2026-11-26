@@ -1,5 +1,34 @@
 [
  {
+  "id": "1566e75838",
+  "slug": "report-warns-of-punjabi-youth-gang-recruitment-in-canada-1566e75838",
+  "title": "Report Warns of Punjabi Youth Gang Recruitment in Canada",
+  "orig_title": "Report Warns of Punjabi Youth Gang Recruitment in Canada",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "IndiaWest",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcHZ2NXFHM1lTcm5wNWxJZkszaWp1T2VTVnhTd0NUcU9CNjhiZWpEdEtuWXpPR0JTNm90Q0o4M0FIVkVsNldaNks0ZzVJV0MzYXU5RjFTLU9lblRZMnhzZ01zN3VTVVI0VkxaT1pobm5LdFdZTXFnLVdLU25rc2hsenlocUVvcmNENkE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcHZ2NXFHM1lTcm5wNWxJZkszaWp1T2VTVnhTd0NUcU9CNjhiZWpEdEtuWXpPR0JTNm90Q0o4M0FIVkVsNldaNks0ZzVJV0MzYXU5RjFTLU9lblRZMnhzZ01zN3VTVVI0VkxaT1pobm5LdFdZTXFnLVdLU25rc2hsenlocUVvcmNENkE",
+  "snippet": "Report Warns of Punjabi Youth Gang Recruitment in Canada IndiaWest",
+  "published": "2026-11-26T10:29:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T10:41:08.279987+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "7a6ae2bb83",
   "slug": "competitive-analysis-of-automated-guided-vehicles-agv-7a6ae2bb83",
   "title": "Competitive Analysis of Automated Guided Vehicles (AGV)",
@@ -196,6 +225,35 @@
   "source_note": "paywalled: excerpt only",
   "sum_done": true,
   "sum_status": "no source text (paywalled: excerpt only)"
+ },
+ {
+  "id": "822543743f",
+  "slug": "busan-port-linked-by-blockchain-to-become-a-vast-test-bed-for-physical-822543743f",
+  "title": "Busan Port, Linked by Blockchain, to Become a Vast Test Bed for Physical AI",
+  "orig_title": "Busan Port, Linked by Blockchain, to Become a Vast Test Bed for Physical AI",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "bloomingbit",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10UDF4eC1maENVZ05wMTRUUGJTWHh0RTZ2M19XNW9jQ3N0NkxoTDdCSzdOTzBONFNncGd6SDFpYXNwYXF3NEhZNG9TSUFPVTMzczRBWg?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10UDF4eC1maENVZ05wMTRUUGJTWHh0RTZ2M19XNW9jQ3N0NkxoTDdCSzdOTzBONFNncGd6SDFpYXNwYXF3NEhZNG9TSUFPVTMzczRBWg",
+  "snippet": "Busan Port, Linked by Blockchain, to Become a Vast Test Bed for Physical AI bloomingbit",
+  "published": "2026-11-26T07:56:42+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T10:41:08.279987+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "14a30a2da0",
