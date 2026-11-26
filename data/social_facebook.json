@@ -4897,6 +4897,34 @@
     "created": "2026-11-26T19:51:25+0000",
     "at": "2026-11-26T20:01:23.815526+00:00"
    }
+  },
+  "c8c1f65512": {
+   "story_id": "c8c1f65512",
+   "title": "Hijacked Carrier Credentials Drive Surge in U.S. Cargo Theft Values",
+   "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnpsald5VzNqZmtEWDl2ZTIwU0ZyZno1WUpmTWlLaEkzUGdhUU1iVGZ6a0xKM0FDaGJxSkxNUjNhQ3RvVXJzYjk4eXE4QWFnb28xTEpQX2RfdXl2S3JmbWp0N01Wei1FSlBsaTBFSnVMMUJERDA3bC1NNlF0d09jbzl4VFFrRE5xWV9EaWUzU3RVblRPS3J4OE1SNFBkTzBQUUJfNnNjbGlWcmhyWUE",
+   "category": "other",
+   "source": "Dosya Haber",
+   "dest": "https://haultimes.com/story/hijacked-carrier-credentials-drive-surge-in-u-s-cargo-theft-values-c8c1f65512/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=c8c1f65512",
+   "caption": "Hijacked Carrier Credentials Drive Surge in U.S. Cargo Theft Values.\n\nReported by Dosya Haber. The link has the details and the original article.\n\n#Trucking #Freight #CargoTheft #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-26T20:41:35.953940+00:00",
+   "published": "2026-11-26T20:31:16+00:00",
+   "score": 82,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Hijacked Carrier Credentials Drive Surge in U.S. Cargo Theft Values | HaulTimes",
+    "og:description": "Reported by Dosya Haber. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/4796a4a66f.png",
+    "og:url": "https://haultimes.com/story/hijacked-carrier-credentials-drive-surge-in-u-s-cargo-theft-values-c8c1f65512/"
+   },
+   "reason": "importance 82 (threshold 65), Industry, local/other outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -6108,7 +6136,8 @@
   "6c9389dd1a": "skipped|importance 51 is below this platform's threshold (65)",
   "6bda17dfce": "skipped|importance 55 is below this platform's threshold (65)",
   "80f7379008": "skipped|importance 50 is below this platform's threshold (65)",
-  "74863be98b": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 20 min in queue"
+  "74863be98b": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 20 min in queue",
+  "c8c1f65512": "queued|importance 82 (threshold 65), Industry, local/other outlet"
  },
  "decisions": [
   {
@@ -12620,6 +12649,13 @@
    "title": "CBSA Reopens Courier Low Value Shipment Program Applications",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 20 min in queue"
+  },
+  {
+   "at": "2026-11-26T20:41:35.953940+00:00",
+   "story_id": "c8c1f65512",
+   "title": "Hijacked Carrier Credentials Drive Surge in U.S. Cargo Theft Values",
+   "action": "queued",
+   "reason": "importance 82 (threshold 65), Industry, local/other outlet"
   }
  ],
  "visibility": {
