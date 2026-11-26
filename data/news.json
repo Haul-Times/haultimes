@@ -254,6 +254,35 @@
   "sum_pending": false
  },
  {
+  "id": "92b97a4ee0",
+  "slug": "truck-availability-report-november-25-2026-92b97a4ee0",
+  "title": "Truck Availability Report, November 25, 2026",
+  "orig_title": "Truck Availability Report, November 25, 2026",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "www.bluebookservices.com",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1FTT253Sy1nQlBoTXZRS1ZodDB2UVBUcTZxLUM5SVJTZ1RYVDdjVFNQTUtjNmtxbF95dFd3dWhzaDh5MkxJNEJvbVEwcnoyT0FoWGIyWl9pU2ZNaFpvYklIN2dXaDJfNG5DamlwRjNmdWQzQ0xESnlRcTY4M0xYaDBn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1FTT253Sy1nQlBoTXZRS1ZodDB2UVBUcTZxLUM5SVJTZ1RYVDdjVFNQTUtjNmtxbF95dFd3dWhzaDh5MkxJNEJvbVEwcnoyT0FoWGIyWl9pU2ZNaFpvYklIN2dXaDJfNG5DamlwRjNmdWQzQ0xESnlRcTY4M0xYaDBn",
+  "snippet": "Truck Availability Report, November 25, 2026 www.bluebookservices.com",
+  "published": "2026-11-25T21:41:10+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T00:31:01.599277+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "78e3e84d5b",
   "slug": "northeast-notebook-11-25-26-truckers-against-congestion-pricing-a-scho-78e3e84d5b",
   "title": "Northeast Notebook 11/25/26: Truckers against congestion pricing, a school closure, and gratitude",
