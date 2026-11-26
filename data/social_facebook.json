@@ -5879,7 +5879,8 @@
   "1701013257": "posted|importance 65 (threshold 65), Drivers & Jobs, local/other outlet; waited 19 min in queue",
   "border-sweetgrass-south-2026112521": "posted|unusual border delay; waited 159 min in queue",
   "8cf8cf1d65": "skipped|importance 45 is below this platform's threshold (65)",
-  "a3f9494e1b": "skipped|importance 45 is below this platform's threshold (65)"
+  "a3f9494e1b": "skipped|importance 45 is below this platform's threshold (65)",
+  "ceac636d5f": "skipped|minor item (feature) or low-quality source"
  },
  "decisions": [
   {
@@ -12251,6 +12252,13 @@
    "title": "Long truck wait at the Sweetgrass–Coutts (Sweetgrass, MT - Coutts, AB): about 1 hr 30 min ",
    "action": "posted",
    "reason": "unusual border delay; waited 159 min in queue"
+  },
+  {
+   "at": "2026-11-26T08:11:27.990955+00:00",
+   "story_id": "ceac636d5f",
+   "title": "DR Johnson Memorial Timber Truckers Light Parade returns for 33rd year",
+   "action": "skipped",
+   "reason": "minor item (feature) or low-quality source"
   }
  ],
  "visibility": {
