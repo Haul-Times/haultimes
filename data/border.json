@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:11:03.615713+00:00",
+ "updated": "2026-11-26T14:21:03.881258+00:00",
  "hour_now": 9,
  "have_us": true,
  "have_ca": true,
@@ -12,15 +12,15 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "4",
+    "lanes": "3",
     "status": "no delay",
-    "updated": "At 8:00 am EST",
+    "updated": "At 9:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 15,
-    "status": "15 minutes",
-    "updated": "2026-11-26 08:19 EST"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-26 09:08 EST"
    },
    "usual": {
     "south": [
@@ -59,7 +59,7 @@
      0,
      4,
      7,
-     2,
+     3,
      0,
      0,
      2,
@@ -89,7 +89,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 8:00 am EST",
+    "updated": "At 9:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 8:57 am EST",
+    "updated": "At 9:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -284,7 +284,7 @@
      3,
      4,
      4,
-     6,
+     7,
      10,
      12,
      6,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:57 am EST",
+    "updated": "At 9:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "09:01:12",
+    "updated": "09:16:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -760,11 +760,11 @@
    "ports": "Highgate Springs, VT ↔ Saint-Armand, QC",
    "region": "qc",
    "south": {
-    "wait": 0,
+    "wait": null,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 7:00 am EST",
+    "lanes": "",
+    "status": "Lanes Closed",
+    "updated": "09:16:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "09:01:12",
+    "updated": "09:16:14",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1083,7 +1083,7 @@
      null,
      0,
      0,
-     10,
+     8,
      6,
      31,
      18,
@@ -1278,11 +1278,11 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": 0,
+    "wait": 15,
     "fast_wait": null,
-    "lanes": "1",
-    "status": "no delay",
-    "updated": "At 5:00 am PST",
+    "lanes": "2",
+    "status": "delay",
+    "updated": "At 6:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1301,7 +1301,7 @@
      12,
      11,
      0,
-     0,
+     1,
      0,
      0,
      0,
@@ -1345,7 +1345,7 @@
     ]
    },
    "best_south": "Usually fastest around 12 AM",
-   "best_north": "Usually fastest around 9 AM"
+   "best_north": "Usually fastest around 10 AM"
   },
   {
    "id": "sumas",
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "06:01:12",
+    "updated": "06:16:15",
     "hours": "24 hrs/day"
    },
    "north": {
