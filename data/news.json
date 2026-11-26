@@ -1,5 +1,36 @@
 [
  {
+  "id": "6bda17dfce",
+  "slug": "surrey-b-c-orders-audit-into-awarding-of-truck-parking-permits-6bda17dfce",
+  "title": "Surrey, B.C., orders audit into awarding of truck parking permits",
+  "orig_title": "Surrey, B.C., orders audit into awarding of truck parking permits",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 55,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkFuRWJuc3pwVnJFVWtTamRWc0ZOYVJIYkd5cmpWOURrcndQOUVHRDlrd3JmaE9SWkhVZi1IaFBIUDk2WkVwMVlVUjdCdko5YjV0MUtUVFJ2ZW1tQ00xYTdUVGZ5SElxa3VLRXdKTDJia1o3bko4VFNtbWl1VXFIb3ZFOFNoVmdIQno3amdfVlpDcDh6SjYwWVc4b1dVYkFZMUVzSkJaSEJaN1hDdTBYYVBYMXVSUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkFuRWJuc3pwVnJFVWtTamRWc0ZOYVJIYkd5cmpWOURrcndQOUVHRDlrd3JmaE9SWkhVZi1IaFBIUDk2WkVwMVlVUjdCdko5YjV0MUtUVFJ2ZW1tQ00xYTdUVGZ5SElxa3VLRXdKTDJia1o3bko4VFNtbWl1VXFIb3ZFOFNoVmdIQno3amdfVlpDcDh6SjYwWVc4b1dVYkFZMUVzSkJaSEJaN1hDdTBYYVBYMXVSUQ",
+  "snippet": "Surrey, B.C., orders audit into awarding of truck parking permits Truck News",
+  "published": "2026-11-26T16:23:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T16:31:03.123423+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "0a142420a3",
   "slug": "d-j-vu-in-miami-as-fedex-md-11-freighter-overshoots-runway-0a142420a3",
   "title": "Déjà vu in Miami as FedEx MD-11 freighter overshoots runway",
@@ -4395,12 +4426,15 @@
   "ai": false,
   "lang": "en",
   "source_type": "reporting",
-  "status": "ok",
-  "reasons": [],
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Surrey, B.C., orders audit into awarding of truck parking permits"
+  ],
   "labels": [],
   "kind": "news",
   "sum_pending": false,
-  "sum_tries": 3
+  "sum_tries": 3,
+  "dup_of": "6bda17dfce"
  },
  {
   "id": "4bdba9a87f",

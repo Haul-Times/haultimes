@@ -6035,7 +6035,8 @@
   "c506ed1f8d": "queued|importance 75 (threshold 65), Regulations, trade publication",
   "1b8a99e04b": "queued|importance 73 (threshold 65), Cross-Border, trade publication",
   "0a142420a3": "skipped|importance 55 is below this platform's threshold (65)",
-  "6c9389dd1a": "skipped|importance 51 is below this platform's threshold (65)"
+  "6c9389dd1a": "skipped|importance 51 is below this platform's threshold (65)",
+  "6bda17dfce": "skipped|importance 55 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12505,6 +12506,13 @@
    "title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 39 min in queue"
+  },
+  {
+   "at": "2026-11-26T16:31:21.264295+00:00",
+   "story_id": "6bda17dfce",
+   "title": "Surrey, B.C., orders audit into awarding of truck parking permits",
+   "action": "skipped",
+   "reason": "importance 55 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
