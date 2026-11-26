@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:11:07.178705+00:00",
+ "updated": "2026-11-26T20:21:06.913553+00:00",
  "hour_now": 15,
  "have_us": true,
  "have_ca": true,
@@ -39,7 +39,7 @@
      9,
      4,
      5,
-     14,
+     13,
      24,
      23,
      28,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-26 13:15 EST"
+    "updated": "2026-11-26 15:09 EST"
    },
    "usual": {
     "south": [
@@ -114,7 +114,7 @@
      13,
      11,
      13,
-     15,
+     14,
      29,
      18,
      5,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:57 pm EST",
+    "updated": "At 3:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:57 pm EST",
+    "updated": "At 3:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -414,7 +414,7 @@
      3,
      3,
      3,
-     5,
+     4,
      5,
      5,
      5,
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 pm CST",
+    "updated": "At 4:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 pm EST",
+    "updated": "At 3:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "15:01:51",
+    "updated": "15:11:52",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1089,7 +1089,7 @@
      11,
      12,
      12,
-     12,
+     11,
      1,
      0,
      0,
@@ -1232,7 +1232,7 @@
      11,
      11,
      11,
-     15,
+     14,
      17,
      18,
      30,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "12:01:51",
+    "updated": "12:11:52",
     "hours": "24 hrs/day"
    },
    "north": {
