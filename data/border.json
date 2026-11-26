@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:01:09.302365+00:00",
+ "updated": "2026-11-26T02:11:05.954385+00:00",
  "hour_now": 21,
  "have_us": true,
  "have_ca": true,
@@ -12,9 +12,9 @@
    "south": {
     "wait": 0,
     "fast_wait": null,
-    "lanes": "4",
+    "lanes": "3",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -45,7 +45,7 @@
      13,
      9,
      5,
-     5,
+     4,
      12,
      10
     ],
@@ -71,7 +71,7 @@
      31,
      38,
      38,
-     19,
+     21,
      6,
      0
     ]
@@ -93,9 +93,9 @@
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 15,
-    "status": "15 minutes",
-    "updated": "2026-11-25 20:01 EST"
+    "wait": 10,
+    "status": "10 minutes",
+    "updated": "2026-11-25 21:03 EST"
    },
    "usual": {
     "south": [
@@ -146,7 +146,7 @@
      9,
      12,
      7,
-     1,
+     2,
      0,
      0
     ]
@@ -235,17 +235,17 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 12,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 8:47 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 16,
-    "status": "16 minutes",
-    "updated": "2026-11-25 20:40 EST"
+    "wait": 14,
+    "status": "14 minutes",
+    "updated": "2026-11-25 21:00 EST"
    },
    "usual": {
     "south": [
@@ -270,7 +270,7 @@
      1,
      2,
      5,
-     1,
+     2,
      0,
      0
     ],
@@ -296,7 +296,7 @@
      8,
      12,
      12,
-     4,
+     5,
      3,
      2
     ]
@@ -310,17 +310,17 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 8:47 pm EST",
+    "status": "no delay",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 37,
-    "status": "37 minutes",
-    "updated": "2026-11-25 20:40 EST"
+    "wait": 51,
+    "status": "51 minutes",
+    "updated": "2026-11-25 21:00 EST"
    },
    "usual": {
     "south": [
@@ -371,7 +371,7 @@
      8,
      26,
      30,
-     10,
+     13,
      3,
      6
     ]
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -620,7 +620,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-25 19:11 CDT"
+    "updated": "2026-11-25 21:00 CDT"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "21:00:03",
+    "updated": "21:10:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1121,7 +1121,7 @@
      0,
      0,
      4,
-     10,
+     9,
      3,
      0
     ]
@@ -1203,11 +1203,11 @@
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
    "south": {
-    "wait": 60,
+    "wait": 50,
     "fast_wait": null,
     "lanes": "1",
     "status": "delay",
-    "updated": "At 6:00 pm MST",
+    "updated": "At 7:00 pm MST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1238,7 +1238,7 @@
      9,
      21,
      23,
-     5,
+     8,
      0,
      0
     ],
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-25 18:40 PDT"
+    "updated": "2026-11-25 19:00 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-25 18:40 PDT"
+    "updated": "2026-11-25 19:00 PDT"
    },
    "usual": {
     "south": [
