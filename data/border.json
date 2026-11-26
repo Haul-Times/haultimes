@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T01:51:08.358330+00:00",
- "hour_now": 20,
+ "updated": "2026-11-26T02:01:09.302365+00:00",
+ "hour_now": 21,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -71,7 +71,7 @@
      31,
      38,
      38,
-     15,
+     19,
      6,
      0
     ]
@@ -89,7 +89,7 @@
     "fast_wait": 0,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -120,7 +120,7 @@
      1,
      0,
      3,
-     6,
+     5,
      1,
      0
     ],
@@ -146,7 +146,7 @@
      9,
      12,
      7,
-     0,
+     1,
      0,
      0
     ]
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 10,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -270,7 +270,7 @@
      1,
      2,
      5,
-     0,
+     1,
      0,
      0
     ],
@@ -296,7 +296,7 @@
      8,
      12,
      12,
-     3,
+     4,
      3,
      2
     ]
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 12,
+    "wait": 11,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 8:37 pm EST",
+    "updated": "At 8:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -345,7 +345,7 @@
      6,
      1,
      3,
-     0,
+     1,
      0,
      4
     ],
@@ -371,7 +371,7 @@
      8,
      26,
      30,
-     8,
+     10,
      3,
      6
     ]
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:50:03",
+    "updated": "21:00:03",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1238,7 +1238,7 @@
      9,
      21,
      23,
-     0,
+     5,
      0,
      0
     ],
@@ -1339,7 +1339,7 @@
      7,
      10,
      9,
-     9,
+     8,
      14,
      10
     ]
