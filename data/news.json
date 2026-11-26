@@ -16582,35 +16582,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "ece41b0e5f",
-  "slug": "tipranks-press-releases-ece41b0e5f",
-  "title": "Tipranks Press Releases",
-  "orig_title": "Tipranks Press Releases",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSVV6NlN4WWVaV3pCal9Oam9VN0RkVHpzQXIwRU1vQTNwbV9sVmV2Nm5vWndoY01KZnA2ZEdmcWlUVWcyWDBiQjN1UEhRaVdNZzFUSWJyMnc2UXpRX0k4NXlaTVAtbEI3azZqcWlvY3BlN2JvQ250amN5QVQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSVV6NlN4WWVaV3pCal9Oam9VN0RkVHpzQXIwRU1vQTNwbV9sVmV2Nm5vWndoY01KZnA2ZEdmcWlUVWcyWDBiQjN1UEhRaVdNZzFUSWJyMnc2UXpRX0k4NXlaTVAtbEI3azZqcWlvY3BlN2JvQ250amN5QVQ",
-  "snippet": "Tipranks Press Releases The Globe and Mail",
-  "published": "2026-11-22T11:16:06+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-22T11:51:04.946167+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "d81bcc4cde",
   "slug": "clintonville-boys-varsity-basketball-shawano-community-d81bcc4cde",
   "title": "Clintonville Boys Varsity Basketball @ Shawano Community",
