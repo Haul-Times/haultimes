@@ -4637,6 +4637,34 @@
     "created": "2026-11-25T17:41:26+0000",
     "at": "2026-11-25T17:51:19.168846+00:00"
    }
+  },
+  "1701013257": {
+   "story_id": "1701013257",
+   "title": "Saskatchewan truckers want BC-style 'three-strike' penalties for overpass hits",
+   "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTi1qSV9FdXAtd01wOGxzNFRSTjBUQWsxaFl4QVRiWXRsUEVTdEJDN3dZRUQ3M0VKa0JXMWkzRnJXeHZYYzI1NklINlI0X2pvWHhWZS11YlBkRXYyMjhXYmM3Z1BZbHJRRlAtRGV4VXAtLUZPNUg5SXFKYk9wakhiSC16b2VDZnQ5YUlHUWZYVDNWd2ppSXRvS3p3R0k3bkg5TnBtdFA1NjZONGJkeVlPTHkyRFlxcHlDaWtXcA",
+   "category": "drivers",
+   "source": "Western Standard",
+   "dest": "https://haultimes.com/story/saskatchewan-truckers-want-bc-style-three-strike-penalties-for-overpas-1701013257/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=1701013257",
+   "caption": "Saskatchewan truckers want BC-style 'three-strike' penalties for overpass hits.\n\nReported by Western Standard. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #TruckDrivers #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-26T01:51:31.469274+00:00",
+   "published": "2026-11-25T20:47:29+00:00",
+   "score": 65,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Saskatchewan truckers want BC-style 'three-strike' penalties for overpass hits | HaulTimes",
+    "og:description": "Reported by Western Standard. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/2c543401c5.png",
+    "og:url": "https://haultimes.com/story/saskatchewan-truckers-want-bc-style-three-strike-penalties-for-overpas-1701013257/"
+   },
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5797,7 +5825,8 @@
   "78e3e84d5b": "skipped|importance 45 is below this platform's threshold (65)",
   "0d875d8070": "skipped|importance 55 is below this platform's threshold (65)",
   "045b121bab": "skipped|importance 45 is below this platform's threshold (65)",
-  "27bf059e6f": "skipped|importance 55 is below this platform's threshold (65)"
+  "27bf059e6f": "skipped|importance 55 is below this platform's threshold (65)",
+  "1701013257": "queued|importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
  },
  "decisions": [
   {
@@ -12127,6 +12156,13 @@
    "title": "Autonomous Trucking Cost Parity Projected for 2028",
    "action": "skipped",
    "reason": "importance 55 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-26T01:51:31.469274+00:00",
+   "story_id": "1701013257",
+   "title": "Saskatchewan truckers want BC-style 'three-strike' penalties for overpass hits",
+   "action": "queued",
+   "reason": "importance 65 (threshold 65), Drivers & Jobs, local/other outlet"
   }
  ],
  "visibility": {
