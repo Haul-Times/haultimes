@@ -1542,6 +1542,35 @@
   "sum_pending": false
  },
  {
+  "id": "8bc6811aa1",
+  "slug": "kevin-l-cobb-51-8bc6811aa1",
+  "title": "Kevin L. Cobb, 51",
+  "orig_title": "Kevin L. Cobb, 51",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Morning Star Publications",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rQTVWcmhrdUFvcERuUnVScGVHeTlTM2lLYUhVXzlETjl1QUVUenFreGJ6WUNOMUFSVEQ4WXdZQ2dvWmJ5ejBjNmhQdy1lakp2QXRveTlEMWpWd0RJ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rQTVWcmhrdUFvcERuUnVScGVHeTlTM2lLYUhVXzlETjl1QUVUenFreGJ6WUNOMUFSVEQ4WXdZQ2dvWmJ5ejBjNmhQdy1lakp2QXRveTlEMWpWd0RJ",
+  "snippet": "Kevin L. Cobb, 51 Morning Star Publications",
+  "published": "2026-11-25T16:27:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-26T03:21:04.789983+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "13bef3dd25",
   "slug": "shein-feels-impact-of-eu-import-fees-as-revenue-slides-6-13bef3dd25",
   "title": "Shein feels impact of EU import fees as revenue slides 6%",
