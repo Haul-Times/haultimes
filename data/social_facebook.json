@@ -6137,7 +6137,8 @@
   "6bda17dfce": "skipped|importance 55 is below this platform's threshold (65)",
   "80f7379008": "skipped|importance 50 is below this platform's threshold (65)",
   "74863be98b": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 20 min in queue",
-  "c8c1f65512": "queued|importance 82 (threshold 65), Industry, local/other outlet"
+  "c8c1f65512": "queued|importance 82 (threshold 65), Industry, local/other outlet",
+  "9e5490fcc0": "skipped|minor item (news) or low-quality source"
  },
  "decisions": [
   {
@@ -12656,6 +12657,13 @@
    "title": "Hijacked Carrier Credentials Drive Surge in U.S. Cargo Theft Values",
    "action": "queued",
    "reason": "importance 82 (threshold 65), Industry, local/other outlet"
+  },
+  {
+   "at": "2026-11-26T20:51:26.581657+00:00",
+   "story_id": "9e5490fcc0",
+   "title": "Six Maryland Roadside Diners Where Truckers And Farmers Have Shared The Same Counter For Decades",
+   "action": "skipped",
+   "reason": "minor item (news) or low-quality source"
   }
  ],
  "visibility": {
