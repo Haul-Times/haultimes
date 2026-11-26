@@ -4754,14 +4754,14 @@
    "source": "Canada Border Services Agency",
    "dest": "https://haultimes.com/story/charges-laid-by-the-cbsa-in-connection-with-the-illegal-importation-of-0aa914cd63/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=0aa914cd63",
    "caption": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment.\n\nReported by Canada Border Services Agency. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #CrossBorder #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-26T15:11:52.869705+00:00",
    "published": "2026-11-26T15:04:13+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122112976827544428",
+   "posted_at": "2026-11-26T15:51:35.370640+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment | HaulTimes",
@@ -4772,7 +4772,9 @@
    "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-26T15:51:35.370640+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122112976827544428"
   },
   "c506ed1f8d": {
    "story_id": "c506ed1f8d",
@@ -5237,6 +5239,10 @@
   {
    "at": "2026-11-26T15:01:31.618349+00:00",
    "msg": "posted 57ecea3fa2"
+  },
+  {
+   "at": "2026-11-26T15:51:35.370640+00:00",
+   "msg": "posted 0aa914cd63"
   }
  ],
  "decided": {
@@ -6016,7 +6022,7 @@
   "2768cd5cde": "skipped|importance 55 is below this platform's threshold (65)",
   "57ecea3fa2": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue",
   "d0c8a58af0": "skipped|minor item (incident) or low-quality source",
-  "0aa914cd63": "queued|importance 67 (threshold 65), Cross-Border, trade publication",
+  "0aa914cd63": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 39 min in queue",
   "17a0ce25a4": "skipped|importance 50 is below this platform's threshold (65)",
   "c506ed1f8d": "queued|importance 75 (threshold 65), Regulations, trade publication",
   "1b8a99e04b": "queued|importance 73 (threshold 65), Cross-Border, trade publication",
@@ -12484,6 +12490,13 @@
    "title": "Comprehensive Full Truckload Market Report Covers Forecasts, Innovations And Industry Outlook",
    "action": "skipped",
    "reason": "importance 51 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-26T15:51:35.370640+00:00",
+   "story_id": "0aa914cd63",
+   "title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication; waited 39 min in queue"
   }
  ],
  "visibility": {
