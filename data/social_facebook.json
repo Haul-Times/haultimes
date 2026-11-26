@@ -4736,7 +4736,43 @@
    "edited": false,
    "wait_summary": false,
    "last_attempt_at": "2026-11-26T15:01:31.618349+00:00",
-   "post_url": "https://www.facebook.com/1476615495528085_122112964761544428"
+   "post_url": "https://www.facebook.com/1476615495528085_122112964761544428",
+   "fb_check": {
+    "is_published": true,
+    "is_hidden": false,
+    "privacy": "EVERYONE",
+    "permalink": "https://www.facebook.com/122100287007544428/posts/122112964761544428",
+    "created": "2026-11-26T15:01:31+0000",
+    "at": "2026-11-26T15:11:52.869705+00:00"
+   }
+  },
+  "0aa914cd63": {
+   "story_id": "0aa914cd63",
+   "title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
+   "url_key": "https://canada.ca/en/border-services-agency/news/2026/11/charges-laid-by-the-cbsa-in-connection-with-the-illegal-importation-of-cigarette-manufacturing-equipment.html",
+   "category": "border",
+   "source": "Canada Border Services Agency",
+   "dest": "https://haultimes.com/story/charges-laid-by-the-cbsa-in-connection-with-the-illegal-importation-of-0aa914cd63/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=0aa914cd63",
+   "caption": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment.\n\nReported by Canada Border Services Agency. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #CrossBorder #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-26T15:11:52.869705+00:00",
+   "published": "2026-11-26T15:04:13+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment | HaulTimes",
+    "og:description": "Reported by Canada Border Services Agency. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/e2bfdaf46d.png",
+    "og:url": "https://haultimes.com/story/charges-laid-by-the-cbsa-in-connection-with-the-illegal-importation-of-0aa914cd63/"
+   },
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -5923,7 +5959,9 @@
   "57cae11b90": "skipped|importance 55 is below this platform's threshold (65)",
   "2768cd5cde": "skipped|importance 55 is below this platform's threshold (65)",
   "57ecea3fa2": "posted|importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue",
-  "d0c8a58af0": "skipped|minor item (incident) or low-quality source"
+  "d0c8a58af0": "skipped|minor item (incident) or low-quality source",
+  "0aa914cd63": "queued|importance 67 (threshold 65), Cross-Border, trade publication",
+  "17a0ce25a4": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12344,16 +12382,30 @@
    "title": "CTA urges stronger Driver Inc. enforcement under Bill C-39",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Regulations, trade publication; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-26T15:11:52.869705+00:00",
+   "story_id": "0aa914cd63",
+   "title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-26T15:11:52.869705+00:00",
+   "story_id": "17a0ce25a4",
+   "title": "Classic 1975 Peterbilt 352 saved from scrap",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
-  "post": "1476615495528085_122112683505544428",
+  "post": "1476615495528085_122112964761544428",
   "is_published": true,
   "is_hidden": false,
   "privacy": "EVERYONE",
-  "permalink": "https://www.facebook.com/122100287007544428/posts/122112683505544428",
-  "created": "2026-11-26T05:01:24+0000",
-  "at": "2026-11-26T05:11:29.660214+00:00"
+  "permalink": "https://www.facebook.com/122100287007544428/posts/122112964761544428",
+  "created": "2026-11-26T15:01:31+0000",
+  "at": "2026-11-26T15:11:52.869705+00:00"
  },
  "promo_i": 2
 }
