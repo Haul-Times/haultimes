@@ -6248,7 +6248,8 @@
   "20e2b75bc1": "posted|importance 71 (threshold 65), Industry, local/other outlet; waited 189 min in queue",
   "382ed04054": "skipped|importance 50 is below this platform's threshold (65)",
   "97c83f8f24": "skipped|importance 57 is below this platform's threshold (65)",
-  "9662a668a3": "posted|importance 66 (threshold 65), Industry, trade publication; waited 19 min in queue"
+  "9662a668a3": "posted|importance 66 (threshold 65), Industry, trade publication; waited 19 min in queue",
+  "04855cff0a": "skipped|importance 56 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12851,6 +12852,13 @@
    "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
    "action": "posted",
    "reason": "importance 66 (threshold 65), Industry, trade publication; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-27T16:11:32.702403+00:00",
+   "story_id": "04855cff0a",
+   "title": "ATRI Extends Driver Health Survey Deadline to Dec. 4",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
