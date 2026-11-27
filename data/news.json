@@ -16880,35 +16880,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "6c4b5bcb8b",
-  "slug": "global-national-nov-22-6c4b5bcb8b",
-  "title": "Global National: Nov. 22",
-  "orig_title": "Global National: Nov. 22",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfVGFwWkljaER5WU1MRk54LW9jTXpxOHdidUxiampKUUI1TURWUXE5ZUVnTWFfamRrZ3liVnFDUWx1REVyaS04WmtKa0xYT2ljSE5jT01aTE9ZSTZqeFVoeEFfTDFlSUZ6RWxTaDFTRUU?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfVGFwWkljaER5WU1MRk54LW9jTXpxOHdidUxiampKUUI1TURWUXE5ZUVnTWFfamRrZ3liVnFDUWx1REVyaS04WmtKa0xYT2ljSE5jT01aTE9ZSTZqeFVoeEFfTDFlSUZ6RWxTaDFTRUU",
-  "snippet": "Global National: Nov. 22 Global News",
-  "published": "2026-11-23T01:07:15+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T01:21:04.855100+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "e6da6eaabd",
   "slug": "delta-flights-delayed-by-f-a-a-over-computer-automation-fail-e6da6eaabd",
   "title": "Delta Flights Delayed by F.A.A. over Computer Automation Fail",
