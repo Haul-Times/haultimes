@@ -18249,35 +18249,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "aa184b90c6",
-  "slug": "december-sentencing-in-holmesville-murder-case-in-jeopardy-aa184b90c6",
-  "title": "December sentencing in Holmesville murder case in jeopardy",
-  "orig_title": "December sentencing in Holmesville murder case in jeopardy",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2k3REllX1V1WTFDUnh1RmVBcEFTY3FvMUlSal9Gam1zNlZURV9YT3p6WVA0b1FjelU1ZFNBeUs0ODZTWXBfS1kwY2YwbDdYSlpQN0RaOFBXc3hfSW93bXpaSjVPRG9CNWRnV2Y4c1JKcEtVNGM3aVI3X0FzcERpcjZsYk50ZkxMREd3dGxrRkJ4anlkamthRDlrMnhDSmx2enVsSkR0R1h1QQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2k3REllX1V1WTFDUnh1RmVBcEFTY3FvMUlSal9Gam1zNlZURV9YT3p6WVA0b1FjelU1ZFNBeUs0ODZTWXBfS1kwY2YwbDdYSlpQN0RaOFBXc3hfSW93bXpaSjVPRG9CNWRnV2Y4c1JKcEtVNGM3aVI3X0FzcERpcjZsYk50ZkxMREd3dGxrRkJ4anlkamthRDlrMnhDSmx2enVsSkR0R1h1QQ",
-  "snippet": "December sentencing in Holmesville murder case in jeopardy CTV News",
-  "published": "2026-11-20T21:34:35+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T00:01:02.927815+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "22fbe7140c",
   "slug": "truckers-against-trafficking-exhibit-opens-in-tampa-22fbe7140c",
   "title": "Truckers Against Trafficking Exhibit Opens in Tampa",
@@ -19216,35 +19187,6 @@
   "sum_problems": [],
   "ai_category": "regs",
   "ai_importance": 40
- },
- {
-  "id": "3491e491b5",
-  "slug": "sault-ste-marie-port-project-lands-250m-to-cut-u-s-trade-reliance-3491e491b5",
-  "title": "Sault Ste. Marie port project lands $250M to cut U.S. trade reliance",
-  "orig_title": "Sault Ste. Marie port project lands $250M to cut U.S. trade reliance",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNm5UZTFDWHRaYm5PRFpkR1JTanRzc0NoNTB6OU5SZUV6SWlIaW9jVjE0cDhPMzhHQ2lQa3VnV3NaRm90TWJXT3c1YU1BVWtZTzJURFpoOEJ3ekp6SEZLTzEwQU1vaUVqZUdKZWhyQkoxNkhiRDlMUEZyUlhXeFJnd3g0UVhNSTF0VnZ0WGswZmk4WlVqLUVDZWIxbExqTlZLN0c0M3F3RmNSYVN0UzcxZTRsMG9BSU0?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNm5UZTFDWHRaYm5PRFpkR1JTanRzc0NoNTB6OU5SZUV6SWlIaW9jVjE0cDhPMzhHQ2lQa3VnV3NaRm90TWJXT3c1YU1BVWtZTzJURFpoOEJ3ekp6SEZLTzEwQU1vaUVqZUdKZWhyQkoxNkhiRDlMUEZyUlhXeFJnd3g0UVhNSTF0VnZ0WGswZmk4WlVqLUVDZWIxbExqTlZLN0c0M3F3RmNSYVN0UzcxZTRsMG9BSU0",
-  "snippet": "Sault Ste. Marie port project lands $250M to cut U.S. trade reliance CTV News",
-  "published": "2026-11-20T16:02:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T00:01:02.927815+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "7de5f0a5c0",
@@ -20358,35 +20300,6 @@
   "ai_category": "other",
   "ai_importance": 60,
   "followup_of": "47458eb868"
- },
- {
-  "id": "5eacd6a5fb",
-  "slug": "gta-murder-suspect-arrested-hours-after-being-named-one-of-canada-s-mo-5eacd6a5fb",
-  "title": "GTA murder suspect arrested hours after being named one of Canada’s most wanted fugitives",
-  "orig_title": "GTA murder suspect arrested hours after being named one of Canada’s most wanted fugitives",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHdsa0tCNkxZWE9vMVllS0dhOXRzanJ6R0dfeU5IV2xTTEY0MXR2YnJXUTJhSWFLR1h0WENXSW1oYnZ2X1NGNG5OQ0E4Mm9MMDF5X3JjbXNKX2tRZ2cyOTJ2di1wbGxFTEw5emZWVl9zeThLNkhvWEN3U0RtWEx2VnpoVnZZMmhpMDlEc2lWOGpTaUsybkI1QkxKR0h5ZnlOazRSMEFlQVBISXA5N3VxYThTdEtYZ0FqVG9IdktCbUxOT1pkQ1FoSWg5SFFXNmRDNlBFdw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHdsa0tCNkxZWE9vMVllS0dhOXRzanJ6R0dfeU5IV2xTTEY0MXR2YnJXUTJhSWFLR1h0WENXSW1oYnZ2X1NGNG5OQ0E4Mm9MMDF5X3JjbXNKX2tRZ2cyOTJ2di1wbGxFTEw5emZWVl9zeThLNkhvWEN3U0RtWEx2VnpoVnZZMmhpMDlEc2lWOGpTaUsybkI1QkxKR0h5ZnlOazRSMEFlQVBISXA5N3VxYThTdEtYZ0FqVG9IdktCbUxOT1pkQ1FoSWg5SFFXNmRDNlBFdw",
-  "snippet": "GTA murder suspect arrested hours after being named one of Canada’s most wanted fugitives CTV News",
-  "published": "2026-11-20T01:04:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T00:01:02.927815+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "1056c5e2db",
