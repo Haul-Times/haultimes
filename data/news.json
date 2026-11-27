@@ -1,5 +1,34 @@
 [
  {
+  "id": "12dc710ada",
+  "slug": "give-me-my-1a-saskatoon-video-game-takes-aim-at-recurring-overpass-str-12dc710ada",
+  "title": "‘Give me my 1A’: Saskatoon video game takes aim at recurring overpass strikes",
+  "orig_title": "‘Give me my 1A’: Saskatoon video game takes aim at recurring overpass strikes",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUxST0NMdnVCeWNsUzgzSGFoLTFwVzZXbEphSDdlcmhZdTJBRXRMSzdiSnBLeEswQk1Vek1wZ0c5dVV0VmV5S0F5eTdBaV9lbWJHLXUzMDVqX0hIckRwcGhWRFIzSmRoblo0bHdaZXBvSG1aMVdNSzVXN2NfNVBYZG1iZnNNdEdpT2l5ZDRDTFNoZFJtLUE4bkFWckFXWUxqaThUbkMzZ3NxWTl3ZGFmeS13N1g1cWlrYXo0VUxB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUxST0NMdnVCeWNsUzgzSGFoLTFwVzZXbEphSDdlcmhZdTJBRXRMSzdiSnBLeEswQk1Vek1wZ0c5dVV0VmV5S0F5eTdBaV9lbWJHLXUzMDVqX0hIckRwcGhWRFIzSmRoblo0bHdaZXBvSG1aMVdNSzVXN2NfNVBYZG1iZnNNdEdpT2l5ZDRDTFNoZFJtLUE4bkFWckFXWUxqaThUbkMzZ3NxWTl3ZGFmeS13N1g1cWlrYXo0VUxB",
+  "snippet": "‘Give me my 1A’: Saskatoon video game takes aim at recurring overpass strikes CTV News",
+  "published": "2026-11-27T00:59:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T01:11:00.601163+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "2ec104765a",
   "slug": "annual-thanksgiving-tradition-serves-truck-drivers-free-meals-at-boise-2ec104765a",
   "title": "Annual Thanksgiving tradition serves truck drivers free meals at Boise Stage Stop",
