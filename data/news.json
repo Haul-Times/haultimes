@@ -29,6 +29,35 @@
   "sum_pending": false
  },
  {
+  "id": "9c7c3fbfd5",
+  "slug": "trans-canada-highway-east-of-winnipeg-reopens-after-multiple-closures-9c7c3fbfd5",
+  "title": "Trans-Canada Highway east of Winnipeg reopens after multiple closures due to collisions, ice",
+  "orig_title": "Trans-Canada Highway east of Winnipeg reopens after multiple closures due to collisions, ice",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CBC",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1lLX2Z2a0VrXzdDY1pXdE1nLXpVV3IzbzFVaDZDQ09lb3ZKUDYxOVF1YnRveUpkam9GNmtGZmlCNFhPV3BpUkx4NXV1MFZQb2pJa041LUIzQ3hWYlNzXzJsaTV3RjJONjNPVFBPcW00ZkpGbm1mTXhxV1R1Q191SERxLVlpbERDYnpoTUpwUG5PcE5NUlB6VFR1LXNuSm1CSG52eQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1lLX2Z2a0VrXzdDY1pXdE1nLXpVV3IzbzFVaDZDQ09lb3ZKUDYxOVF1YnRveUpkam9GNmtGZmlCNFhPV3BpUkx4NXV1MFZQb2pJa041LUIzQ3hWYlNzXzJsaTV3RjJONjNPVFBPcW00ZkpGbm1mTXhxV1R1Q191SERxLVlpbERDYnpoTUpwUG5PcE5NUlB6VFR1LXNuSm1CSG52eQ",
+  "snippet": "Trans-Canada Highway east of Winnipeg reopens after multiple closures due to collisions, ice CBC",
+  "published": "2026-11-27T18:59:46+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T19:31:02.323583+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "99b69beff9",
   "slug": "iran-s-truckers-extend-strike-as-currency-crisis-and-factional-dispute-99b69beff9",
   "title": "Iran’s Truckers Extend Strike as Currency Crisis and Factional Disputes Intensify",
@@ -15508,35 +15537,6 @@
   "ai_category": "other",
   "ai_importance": 5,
   "ai_relevant": false
- },
- {
-  "id": "89014ddff9",
-  "slug": "minister-warns-overweight-lorries-on-menai-bridge-put-workers-at-risk-89014ddff9",
-  "title": "Minister warns overweight lorries on Menai Bridge put workers 'at risk'",
-  "orig_title": "Minister warns overweight lorries on Menai Bridge put workers 'at risk'",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "North Wales Live",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHBfT2VCSGx5eDNvOTZxU3MyaHlPRnROSlpiczBnOGo3dlRPZnVVbEdBVHFVMXB4NW1UZjBPd09zVy1LYkt1RExSTjhfTlcxLVFldmw3clBneFh1RDdmaFlWVWxXX0tpTkhwSmJBM0oxbkN5S3B1VkUtTGVJVVd0LXJMQWRhVVNUU3VhcncwNDBMc1BNdURNVE1n?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHBfT2VCSGx5eDNvOTZxU3MyaHlPRnROSlpiczBnOGo3dlRPZnVVbEdBVHFVMXB4NW1UZjBPd09zVy1LYkt1RExSTjhfTlcxLVFldmw3clBneFh1RDdmaFlWVWxXX0tpTkhwSmJBM0oxbkN5S3B1VkUtTGVJVVd0LXJMQWRhVVNUU3VhcncwNDBMc1BNdURNVE1n",
-  "snippet": "Minister warns overweight lorries on Menai Bridge put workers 'at risk' North Wales Live",
-  "published": "2026-11-23T19:10:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T19:21:03.280849+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "stock commentary, no trucking development"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "576658f9e4",
