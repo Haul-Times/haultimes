@@ -258,6 +258,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "1d3891ae1f",
+  "slug": "live-kuwait-summons-iranian-envoy-over-drone-attack-tehran-denies-carr-1d3891ae1f",
+  "title": "Live - Kuwait summons Iranian envoy over drone attack Tehran denies carrying out",
+  "orig_title": "Live - Kuwait summons Iranian envoy over drone attack Tehran denies carrying out",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Iran International",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E",
+  "snippet": "Live - Kuwait summons Iranian envoy over drone attack Tehran denies carrying out Iran International",
+  "published": "2026-11-27T16:27:21+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T18:31:05.815354+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "dea05a8001",
   "slug": "home-destroyed-on-thanksgiving-day-after-turkey-fryers-catch-fire-on-d-dea05a8001",
   "title": "Home destroyed on Thanksgiving Day after turkey fryers catch fire on deck, officials say",
@@ -17081,35 +17110,6 @@
   ],
   "ai_category": "other",
   "ai_importance": 60
- },
- {
-  "id": "622f079d28",
-  "slug": "schertz-crew-restripes-railroad-crossing-after-series-of-crashes-622f079d28",
-  "title": "Schertz crew restripes railroad crossing after series of crashes",
-  "orig_title": "Schertz crew restripes railroad crossing after series of crashes",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "KSAT",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3B1U1p2YWllVjNYTkdVUEstcERDOHYyT1B1djhHYk0waHJad25PT1AtMW5PUXpmNE5yMkRGM1dJd0NnS1VTQXo5cG5IMXhfdUl1Rnh1LVFmeXpVOGlDcTR3XzdEZlctUmVmQUd0bzBoWEtLa1FyMVpXdWNnU0pqR0ZOREtQbk9STmg5d2xUM1FIN2pXV1dCVHA0bnNmZEZta3BsdllGWEVVdWV1?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3B1U1p2YWllVjNYTkdVUEstcERDOHYyT1B1djhHYk0waHJad25PT1AtMW5PUXpmNE5yMkRGM1dJd0NnS1VTQXo5cG5IMXhfdUl1Rnh1LVFmeXpVOGlDcTR3XzdEZlctUmVmQUd0bzBoWEtLa1FyMVpXdWNnU0pqR0ZOREtQbk9STmg5d2xUM1FIN2pXV1dCVHA0bnNmZEZta3BsdllGWEVVdWV1",
-  "snippet": "Schertz crew restripes railroad crossing after series of crashes KSAT",
-  "published": "2026-11-23T13:45:10+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T18:21:05.008174+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "7addedbbd8",
