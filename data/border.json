@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:11:04.209146+00:00",
+ "updated": "2026-11-27T22:21:03.968101+00:00",
  "hour_now": 17,
  "have_us": true,
  "have_ca": true,
@@ -11,10 +11,10 @@
    "region": "on-mi",
    "south": {
     "wait": 20,
-    "fast_wait": 10,
+    "fast_wait": 5,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 5:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -67,7 +67,7 @@
      12,
      11,
      17,
-     29,
+     26,
      38,
      21,
      10,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-27 16:11 EST"
+    "updated": "2026-11-27 17:05 EST"
    },
    "usual": {
     "south": [
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -292,7 +292,7 @@
      11,
      9,
      9,
-     11,
+     10,
      18,
      19,
      16,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 5:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "17:09:11",
+    "updated": "17:14:11",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -592,7 +592,7 @@
      0,
      0,
      0,
-     9,
+     8,
      8,
      0,
      0,
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "17:09:11",
+    "updated": "17:14:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1234,7 +1234,7 @@
      9,
      9,
      9,
-     12,
+     11,
      15,
      25,
      29,
@@ -1335,7 +1335,7 @@
      5,
      5,
      6,
-     12,
+     11,
      12,
      6,
      5,
