@@ -1,5 +1,129 @@
 [
  {
+  "id": "3112390449",
+  "slug": "mack-mygarage-organizes-saved-truck-builds-3112390449",
+  "title": "Mack MyGarage Organizes Saved Truck Builds",
+  "orig_title": "Mack MyGarage Organizes Saved Truck Builds",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "US",
+  "importance": 50,
+  "source": "Fleet Equipment Magazine",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50alZlQ3c5ZUpFbVQ5dHdiYlgydUJzNkV1UzBWamRLSHgxRENUREZoTzQyelFsd2wwQ3o3NTYwUHNTSGZ3eXpueHdKajlISFZxd2YwTWhVX3g1bl85TkEtdTZaTEVELVJ0cUtWTHFjdmZSNDlHaXg2eQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50alZlQ3c5ZUpFbVQ5dHdiYlgydUJzNkV1UzBWamRLSHgxRENUREZoTzQyelFsd2wwQ3o3NTYwUHNTSGZ3eXpueHdKajlISFZxd2YwTWhVX3g1bl85TkEtdTZaTEVELVJ0cUtWTHFjdmZSNDlHaXg2eQ",
+  "snippet": "Mack MyGarage Organizes Saved Truck Builds Fleet Equipment Magazine",
+  "published": "2026-11-27T17:30:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T17:41:02.949692+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.fleetequipmentmag.com/mack-mygarage-truck-configurations/",
+  "source_note": "ok · 325 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "a0e16dc2a3e01abc",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T17:41:02.949692+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Mack Trucks launched the online tool as an extension of its Truck Builder"
+   },
+   {
+    "sentence": "2",
+    "quote": "Customers can name configurations, review truck images and selected specifications"
+   },
+   {
+    "sentence": "3",
+    "quote": "The shared build gives the dealer a starting point"
+   },
+   {
+    "sentence": "4",
+    "quote": "That capability was previously available only to dealers."
+   }
+  ],
+  "sum_problems": [
+   "The source does not state a geographic market for the tool or the logo feature; region is inferred from the Mack brand and should be confirmed."
+  ],
+  "ai_category": "equip",
+  "ai_importance": 30,
+  "pending_summary": "Mack Trucks has launched MyGarage, an online tool that lets customers save, name and organize truck configurations built in its Truck Builder. Users can review truck images and selected specifications, search saved builds by model or category, compare build versions, and reopen a configuration to make changes. Customers can share a saved build with a Mack dealer as a starting point for discussing the truck and their operating needs. Separately, Mack has added a feature that lets customers put their company logo on the truck they are configuring, a capability that was previously limited to dealers.",
+  "pending_why": ""
+ },
+ {
+  "id": "c28a177e55",
+  "slug": "rxo-latest-curve-forecast-marks-10th-consecutive-quarter-of-spot-rate-c28a177e55",
+  "title": "RXO latest Curve forecast marks 10th consecutive quarter of spot rate inflation",
+  "orig_title": "RXO latest Curve forecast marks 10th consecutive quarter of spot rate inflation",
+  "summary": "RXO's latest Curve truckload forecast shows spot rates, excluding fuel, rising strongly year over year. The index finished the third quarter at 37.9%, up from 32.4% in the second quarter and its highest level since 2021, though rates eased in August and September. Through Nov. 13 the Curve was trending lower on a sequential basis but was still on pace to finish the fourth quarter in inflationary territory. RXO attributed the supply imbalance to ongoing carrier capacity attrition from federal regulation enforcement and rising carrier costs. Jared Weisfeld, chief strategy officer, said overall freight demand remains muted, while the same supply-side pressures are limiting driver reentry.",
+  "why": "",
+  "category": "rates",
+  "region": "US",
+  "importance": 56,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMG45WTdYRUR0YmlZZWFPUlQyWnNDWG5tX2xFVWY1STZuSS1IOXFqSmFpc1hzYVdidmR2RTg4dEVsYXlYcm9pdEdBazNRWlNURnhkMmFJYUlqdUxOVkhNcS00SkhQak5HM3ZTWVl2QnYwNVJwVVJHUU9lNWo1dVR5eUFhTS1Wc1pxdDBUSlQxZmZ0MW5hUUxKWHNKbTFSTEUzMGNoMTZDSmNzLVFHZTg1eDJzaWlweklNZzlKeWdieEU4cVZsN2dNVA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMG45WTdYRUR0YmlZZWFPUlQyWnNDWG5tX2xFVWY1STZuSS1IOXFqSmFpc1hzYVdidmR2RTg4dEVsYXlYcm9pdEdBazNRWlNURnhkMmFJYUlqdUxOVkhNcS00SkhQak5HM3ZTWVl2QnYwNVJwVVJHUU9lNWo1dVR5eUFhTS1Wc1pxdDBUSlQxZmZ0MW5hUUxKWHNKbTFSTEUzMGNoMTZDSmNzLVFHZTg1eDJzaWlweklNZzlKeWdieEU4cVZsN2dNVA",
+  "snippet": "RXO latest Curve forecast marks 10th consecutive quarter of spot rate inflation TheTrucker.com",
+  "published": "2026-11-27T17:27:01+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T17:41:02.949692+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/rxo-latest-curve-forecast-marks-10th-consecutive-quarter-of-spot-rate-inflation",
+  "source_note": "ok · 328 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "2d30c8783bb1eaab",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T17:41:02.949692+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "strong year-over-year spot rate growth"
+   },
+   {
+    "sentence": "2",
+    "quote": "finished the quarter at 37.9%"
+   },
+   {
+    "sentence": "3",
+    "quote": "tracking lower on a sequential basis"
+   },
+   {
+    "sentence": "4",
+    "quote": "Ongoing carrier capacity attrition, driven by federal regulation enforcement"
+   },
+   {
+    "sentence": "5",
+    "quote": "overall freight demand remains muted"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "rates",
+  "ai_importance": 60
+ },
+ {
   "id": "9fffaea518",
   "slug": "hiring-in-2027-how-trucking-companies-can-reduce-background-screening-9fffaea518",
   "title": "Hiring in 2027: How trucking companies can reduce background screening risks",
@@ -15704,35 +15828,6 @@
   "source_note": "paywalled: excerpt only · 18 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "90545d192a",
-  "slug": "savannah-handles-565-366-teus-in-october-up-25-year-over-year-on-stron-90545d192a",
-  "title": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand",
-  "orig_title": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3B1SGFiTTdCbURqd2I5SkdUeTFPTnluZlJXdVpYVnNETW1zUDZ0SzFiSlBFMm0wM0w0SGhtUFdnN0NzSmJ2eDdDSUlXMkk0NTIxZHdPcGpEMG8td3psei1fUm1HdGp6VUE2a0ZvVE1SOE9ibjJxQlpmY1daSWZ5LVo0ckhFN0hOWEk3YWFQMFZ3RmhiTkZNRkdNd0NxLXRRMHpDZjUxNzBUaW1DSUFDOGoyckxITC1FRVE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3B1SGFiTTdCbURqd2I5SkdUeTFPTnluZlJXdVpYVnNETW1zUDZ0SzFiSlBFMm0wM0w0SGhtUFdnN0NzSmJ2eDdDSUlXMkk0NTIxZHdPcGpEMG8td3psei1fUm1HdGp6VUE2a0ZvVE1SOE9ibjJxQlpmY1daSWZ5LVo0ckhFN0hOWEk3YWFQMFZ3RmhiTkZNRkdNd0NxLXRRMHpDZjUxNzBUaW1DSUFDOGoyckxITC1FRVE",
-  "snippet": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand FreightWaves",
-  "published": "2026-11-23T17:12:43+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T17:31:06.914507+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
-  "sum_pending": false
  },
  {
   "id": "a4b5ced3af",
