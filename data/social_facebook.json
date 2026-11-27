@@ -5058,14 +5058,14 @@
    "source": "Truck News",
    "dest": "https://haultimes.com/story/lower-diesel-prices-give-fleets-some-relief-as-rate-talks-continue-e9b4602405/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=e9b4602405",
    "caption": "Lower diesel prices give fleets some relief as rate talks continue.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #Diesel #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-27T18:41:28.078844+00:00",
    "published": "2026-11-27T18:33:58+00:00",
    "score": 67,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122113518687544428",
+   "posted_at": "2026-11-27T18:51:28.912431+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Lower diesel prices give fleets some relief as rate talks continue | HaulTimes",
@@ -5076,7 +5076,9 @@
    "reason": "importance 67 (threshold 65), Fuel, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-27T18:51:28.912431+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122113518687544428"
   }
  },
  "paused": null,
@@ -5521,6 +5523,10 @@
   {
    "at": "2026-11-27T17:01:30.048039+00:00",
    "msg": "posted d7abef13a6"
+  },
+  {
+   "at": "2026-11-27T18:51:28.912431+00:00",
+   "msg": "posted e9b4602405"
   }
  ],
  "decided": {
@@ -6324,7 +6330,7 @@
   "9fffaea518": "skipped|importance 50 is below this platform's threshold (65)",
   "c28a177e55": "skipped|importance 56 is below this platform's threshold (65)",
   "3112390449": "skipped|importance 50 is below this platform's threshold (65)",
-  "e9b4602405": "queued|importance 67 (threshold 65), Fuel, trade publication"
+  "e9b4602405": "posted|importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue"
  },
  "decisions": [
   {
@@ -12976,6 +12982,13 @@
    "title": "Lower diesel prices give fleets some relief as rate talks continue",
    "action": "queued",
    "reason": "importance 67 (threshold 65), Fuel, trade publication"
+  },
+  {
+   "at": "2026-11-27T18:51:28.912431+00:00",
+   "story_id": "e9b4602405",
+   "title": "Lower diesel prices give fleets some relief as rate talks continue",
+   "action": "posted",
+   "reason": "importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue"
   }
  ],
  "visibility": {
