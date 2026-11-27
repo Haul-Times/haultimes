@@ -1,5 +1,79 @@
 [
  {
+  "id": "9fffaea518",
+  "slug": "hiring-in-2027-how-trucking-companies-can-reduce-background-screening-9fffaea518",
+  "title": "Hiring in 2027: How trucking companies can reduce background screening risks",
+  "orig_title": "Hiring in 2027: How trucking companies can reduce background screening risks",
+  "summary": "Vince Pascarella, general counsel for background screening provider Asurint, outlined hiring compliance areas for employers to review heading into 2027. He spoke during the company's Nov. 18 \"Keeping Up With Compliance\" webinar. He said an employer's headquarters location does not necessarily determine which employment laws cover a worker, so multistate carriers must look at where employees live and work. He cited New York City credit check restrictions and a statewide law that took effect in April 2026 as examples of overlapping rules. Pascarella also described fair chance laws that may require individualized assessments before rejecting applicants over criminal records, and clean slate laws that can seal or expunge records, which may make a new background check differ from an earlier one. On drug testing, he said a positive marijuana test does not necessarily show impairment at the time of an accident. He also named four Fair Credit Reporting Act areas of concern, including adverse action procedures.",
+  "why": "",
+  "category": "drivers",
+  "region": "US",
+  "importance": 50,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWFlTDh2bDJ2RkxyZnloLXJDb0ZSMnF2QWdFMDdKSU82QW5PdllSLTNMcE83ZzdWMUdIRGJjU3BHQnFIQ3N2WHdSMU9OdDlvOTc4S0N6MXJtemxxMWxYNnNBU2Q4MFhfVFFrWkUwSGxpNnZmRjRCVlZWWWQ5RnEtZXpHWnNGbG5oanJoOE1jOEhzVTFjcWNfY1ZjM296dTQ3Q3FUNjNPWXBhTVFyTnNDbGFodEpHbzlMRFZQbWdEb3dyWjA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWFlTDh2bDJ2RkxyZnloLXJDb0ZSMnF2QWdFMDdKSU82QW5PdllSLTNMcE83ZzdWMUdIRGJjU3BHQnFIQ3N2WHdSMU9OdDlvOTc4S0N6MXJtemxxMWxYNnNBU2Q4MFhfVFFrWkUwSGxpNnZmRjRCVlZWWWQ5RnEtZXpHWnNGbG5oanJoOE1jOEhzVTFjcWNfY1ZjM296dTQ3Q3FUNjNPWXBhTVFyTnNDbGFodEpHbzlMRFZQbWdEb3dyWjA",
+  "snippet": "Hiring in 2027: How trucking companies can reduce background screening risks TheTrucker.com",
+  "published": "2026-11-27T17:17:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T17:31:01.515838+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/business/hiring-in-2027-how-trucking-companies-can-reduce-background-screening-risks",
+  "source_note": "ok · 1150 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "b43694dc98056550",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T17:31:01.515838+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "general counsel for background screening services provider Asurint"
+   },
+   {
+    "sentence": "2",
+    "quote": "During the company’s Nov. 18 “Keeping Up With Compliance” webinar"
+   },
+   {
+    "sentence": "3",
+    "quote": "aren’t necessarily determined by the location of a company’s headquarters"
+   },
+   {
+    "sentence": "4",
+    "quote": "employers with operations in New York City must comply with both"
+   },
+   {
+    "sentence": "5",
+    "quote": "Increasingly, Pascarella said, these laws also require employers to conduct individualized assessments"
+   },
+   {
+    "sentence": "6",
+    "quote": "newer laws increasingly provide for automatic sealing or expungement of eligible records"
+   },
+   {
+    "sentence": "7",
+    "quote": "a positive marijuana test does not necessarily establish that an employee was impaired"
+   },
+   {
+    "sentence": "8",
+    "quote": "Pascarella identified four areas of particular concern under the federal Fair Credit Reporting Act"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 45
+ },
+ {
   "id": "d7abef13a6",
   "slug": "make-hay-before-christmas-spot-rates-up-pete-s-used-truck-warranty-opt-d7abef13a6",
   "title": "Make hay before Christmas: Spot rates up | Pete's used-truck warranty options",
