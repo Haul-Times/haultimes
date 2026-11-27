@@ -1224,6 +1224,35 @@
   "sum_pending": false
  },
  {
+  "id": "7892defdb9",
+  "slug": "scpa-drives-for-cleaner-air-7892defdb9",
+  "title": "SCPA drives for cleaner air",
+  "orig_title": "SCPA drives for cleaner air",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Port Strategy",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGUzZVJkb2g5dG5DWDNCVTgtTjZSZVJBODFUaVZDcV9qUGhtaGhxLVp6VERwa0VwRUVvVV9sbHlZSk8zWUlLbFFsUl9iVlFoWldLM1JuRk9od1MyOXhQQkhOTTNtX0w2b2pyU0hnS1hKN18wNG9zMzY5d1BJdEpwbzYweHR0MTNkMVhlOTJFbEtQcHJlOVVVUA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGUzZVJkb2g5dG5DWDNCVTgtTjZSZVJBODFUaVZDcV9qUGhtaGhxLVp6VERwa0VwRUVvVV9sbHlZSk8zWUlLbFFsUl9iVlFoWldLM1JuRk9od1MyOXhQQkhOTTNtX0w2b2pyU0hnS1hKN18wNG9zMzY5d1BJdEpwbzYweHR0MTNkMVhlOTJFbEtQcHJlOVVVUA",
+  "snippet": "SCPA drives for cleaner air Port Strategy",
+  "published": "2026-11-26T11:29:33+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T00:11:05.741157+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6c69f64bc6",
   "slug": "st1-opens-flagship-energy-station-in-finland-6c69f64bc6",
   "title": "St1 opens flagship energy station in Finland",
