@@ -4973,6 +4973,34 @@
     "created": "2026-11-27T11:01:27+0000",
     "at": "2026-11-27T11:11:28.136801+00:00"
    }
+  },
+  "9662a668a3": {
+   "story_id": "9662a668a3",
+   "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
+   "url_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmFJZXlnYm82bV9DOGg5aUJKcDhubk1qemtTSlh6azhvZW9UZnBfd1otMUZ5Q3V0R0ROa1I0UkNibFJTQklYS0lCTHdXZGRkOHZLamJTRDQ5aXl0bGtPUVhjdVRFb0VxVlFyakJmUlJCNVhGNVpUd3gyVENYQTVUTXdPR1ZIX1NCUmhlMmx2YWlRSWppQlNz",
+   "category": "other",
+   "source": "FreightWaves",
+   "dest": "https://haultimes.com/story/weekly-us-rail-freight-climbs-4-7-as-intermodal-surges-8-3-9662a668a3/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9662a668a3",
+   "caption": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Logistics #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-27T15:01:28.094559+00:00",
+   "published": "2026-11-27T14:45:31+00:00",
+   "score": 66,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3% | HaulTimes",
+    "og:description": "Reported by FreightWaves. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/32bfa5250b.png",
+    "og:url": "https://haultimes.com/story/weekly-us-rail-freight-climbs-4-7-as-intermodal-surges-8-3-9662a668a3/"
+   },
+   "reason": "importance 66 (threshold 65), Industry, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -6205,7 +6233,8 @@
   "0b0a9862df": "skipped|importance 45 is below this platform's threshold (65)",
   "20e2b75bc1": "posted|importance 71 (threshold 65), Industry, local/other outlet; waited 189 min in queue",
   "382ed04054": "skipped|importance 50 is below this platform's threshold (65)",
-  "97c83f8f24": "skipped|importance 57 is below this platform's threshold (65)"
+  "97c83f8f24": "skipped|importance 57 is below this platform's threshold (65)",
+  "9662a668a3": "queued|importance 66 (threshold 65), Industry, trade publication"
  },
  "decisions": [
   {
@@ -12794,6 +12823,13 @@
    "title": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge",
    "action": "posted",
    "reason": "importance 71 (threshold 65), Industry, local/other outlet; waited 189 min in queue"
+  },
+  {
+   "at": "2026-11-27T15:01:28.094559+00:00",
+   "story_id": "9662a668a3",
+   "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
+   "action": "queued",
+   "reason": "importance 66 (threshold 65), Industry, trade publication"
   }
  ],
  "visibility": {
