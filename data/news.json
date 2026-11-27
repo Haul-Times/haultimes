@@ -1,5 +1,63 @@
 [
  {
+  "id": "f02d045295",
+  "slug": "cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-f02d045295",
+  "title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
+  "orig_title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
+  "summary": "The Canada Border Services Agency said the Remote Area Border Crossing Program is set to shut at 11:59 p.m. on November 30, 2026. After that date, travellers entering Canada at remote locations will need to call in through designated telephone reporting sites. The CBSA said 17 new telephone reporting sites are already operational, and it has identified more locations after consultations with local and Indigenous communities and other interested parties. Details on the additional sites will be added to the CBSA directory as they open.",
+  "why": "",
+  "category": "border",
+  "region": "Canada",
+  "importance": 73,
+  "source": "Canada Border Services Agency",
+  "link": "https://www.canada.ca/en/border-services-agency/news/2026/11/cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-crossing-program-and-expansion-of-telephone-reporting.html",
+  "url_key": "https://canada.ca/en/border-services-agency/news/2026/11/cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-crossing-program-and-expansion-of-telephone-reporting.html",
+  "snippet": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
+  "published": "2026-11-27T20:30:50+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T20:41:06.865916+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "official",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.canada.ca/en/border-services-agency/news/2026/11/cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-crossing-program-and-expansion-of-telephone-reporting.html",
+  "source_note": "ok · 280 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "7b70f5cf12323dba",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T20:41:06.865916+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "will close at 11:59 p.m. on November 30, 2026"
+   },
+   {
+    "sentence": "2",
+    "quote": "must report to the CBSA through designated telephone reporting sites"
+   },
+   {
+    "sentence": "3",
+    "quote": "17 new designated telephone reporting sites are already operational"
+   },
+   {
+    "sentence": "4",
+    "quote": "Details about these sites will be added to the CBSA directory"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "border",
+  "ai_importance": 45
+ },
+ {
   "id": "2a31002835",
   "slug": "top-4-truck-accident-lawyers-in-bronx-ny-2a31002835",
   "title": "Top 4 Truck Accident Lawyers in Bronx, NY",

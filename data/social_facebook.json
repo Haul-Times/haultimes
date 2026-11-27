@@ -5087,6 +5087,34 @@
     "created": "2026-11-27T18:51:29+0000",
     "at": "2026-11-27T19:01:28.791317+00:00"
    }
+  },
+  "f02d045295": {
+   "story_id": "f02d045295",
+   "title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
+   "url_key": "https://canada.ca/en/border-services-agency/news/2026/11/cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-crossing-program-and-expansion-of-telephone-reporting.html",
+   "category": "border",
+   "source": "Canada Border Services Agency",
+   "dest": "https://haultimes.com/story/cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-f02d045295/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=f02d045295",
+   "caption": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting.\n\nThe Canada Border Services Agency said the Remote Area Border Crossing Program is set to shut at 11:59 p.m. on November 30, 2026. After that date, travellers entering Canada at remote locations will need to call in through designated telephone reporting sites.\n\nReported by Canada Border Services Agency. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #CrossBorder #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-27T20:41:42.195251+00:00",
+   "published": "2026-11-27T20:30:50+00:00",
+   "score": 73,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting | HaulTimes",
+    "og:description": "The Canada Border Services Agency said the Remote Area Border Crossing Program is set to shut at 11:59 p.m. on November 30, 2026. After that date, travellers entering Canada at remote locations will need to call in through designated telephone reporting sites. The CBSA said 17 new telephone reporting sites are already operational, and it has identified more locations after consultations with local and Indigenous communities and other interested parties. Details on the additional sites will be added to the CBSA directory as they open.",
+    "og:image": "https://haultimes.com/og/42992958af.png",
+    "og:url": "https://haultimes.com/story/cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-f02d045295/"
+   },
+   "reason": "importance 73 (threshold 65), Cross-Border, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -6339,7 +6367,8 @@
   "c28a177e55": "skipped|importance 56 is below this platform's threshold (65)",
   "3112390449": "skipped|importance 50 is below this platform's threshold (65)",
   "e9b4602405": "posted|importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue",
-  "e0c4b2aa09": "skipped|minor item (feature) or low-quality source"
+  "e0c4b2aa09": "skipped|minor item (feature) or low-quality source",
+  "f02d045295": "queued|importance 73 (threshold 65), Cross-Border, trade publication"
  },
  "decisions": [
   {
@@ -13005,6 +13034,13 @@
    "title": "Trucker Joss Grieb named TCA Highway Angel after responding to serious Iowa crash",
    "action": "skipped",
    "reason": "minor item (feature) or low-quality source"
+  },
+  {
+   "at": "2026-11-27T20:41:42.195251+00:00",
+   "story_id": "f02d045295",
+   "title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
+   "action": "queued",
+   "reason": "importance 73 (threshold 65), Cross-Border, trade publication"
   }
  ],
  "visibility": {
