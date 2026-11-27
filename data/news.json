@@ -1,5 +1,96 @@
 [
  {
+  "id": "9e1ab66aa1",
+  "slug": "us-shippers-face-tight-warehouse-space-ahead-of-peak-season-9e1ab66aa1",
+  "title": "US Shippers Face Tight Warehouse Space Ahead of Peak Season",
+  "orig_title": "US Shippers Face Tight Warehouse Space Ahead of Peak Season",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Dosya Haber",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2dKZGFJaVZOQ2ViZE5jNHozS3NuemtuMExWcDV3MS1uYXNabHVJTUN4VmlUOEFFU0NvLUZDaHFfTVREcmJnaDR3SmZjYV90S2xKd1RkQ3dCaG1OM2pEVEdkOGVVdzZaRjIxc00zS3NyWjlmN2hRLVRWblR6SW9sX2ZjaTBjeXJ0eGUxdklBRU9GeFM5SzZ5Sk1LT2JIbFcybU4wSw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2dKZGFJaVZOQ2ViZE5jNHozS3NuemtuMExWcDV3MS1uYXNabHVJTUN4VmlUOEFFU0NvLUZDaHFfTVREcmJnaDR3SmZjYV90S2xKd1RkQ3dCaG1OM2pEVEdkOGVVdzZaRjIxc00zS3NyWjlmN2hRLVRWblR6SW9sX2ZjaTBjeXJ0eGUxdklBRU9GeFM5SzZ5Sk1LT2JIbFcybU4wSw",
+  "snippet": "US Shippers Face Tight Warehouse Space Ahead of Peak Season Dosya Haber",
+  "published": "2026-11-27T07:44:40+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T07:51:06.736102+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "20e2b75bc1",
+  "slug": "east-coast-diesel-stocks-hit-record-low-as-trucking-costs-surge-20e2b75bc1",
+  "title": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge",
+  "orig_title": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge",
+  "summary": "East Coast diesel supply is the tightest for this time of year on record, according to Department of Energy data reported by Dosya Haber. Inventories fell below 52 million barrels as of last Friday, compared with the roughly 62 million barrels the region typically holds in May. Pump prices have risen with the drop in stocks. The national average reached a record $5.62 per gallon, and the East Coast averaged $5.90, up 63% since the start of the year. Analysts quoted in the report see few signs of a quick turnaround, and say higher prices may remain the main way to draw more fuel cargoes into the Northeast.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 71,
+  "source": "Dosya Haber",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanhLOW5xaXUtNE1rU2tMeVMxNWFYVXhOMkFYSzFBRlpZYVBjaEwwYUpobWRIZXJQeklYTm8xdURQb0ZSSzhxbW9pSmRzU1Juc2R6RXZLT2NNLWY0aEhweEIzVEtQRlMtVTUzamRPZUpKQjlGRzFRaTd1ZWVNdkFKQ290NHl6SGVjM21GM2ZXNXlYa2JLVXYyb0Q2aDdLdnBuZ2JBODZfWXBoQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanhLOW5xaXUtNE1rU2tMeVMxNWFYVXhOMkFYSzFBRlpZYVBjaEwwYUpobWRIZXJQeklYTm8xdURQb0ZSSzhxbW9pSmRzU1Juc2R6RXZLT2NNLWY0aEhweEIzVEtQRlMtVTUzamRPZUpKQjlGRzFRaTd1ZWVNdkFKQ290NHl6SGVjM21GM2ZXNXlYa2JLVXYyb0Q2aDdLdnBuZ2JBODZfWXBoQQ",
+  "snippet": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge Dosya Haber",
+  "published": "2026-11-27T07:44:39+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T07:51:06.736102+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://dosyahaber.com/post/east-coast-diesel-stocks-hit-record-low-as-trucking-costs-surge-17537384582525",
+  "source_note": "ok · 241 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "038e638b7cb3dd67",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T07:51:06.736102+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "tightest seasonal diesel supply on record"
+   },
+   {
+    "sentence": "2",
+    "quote": "dropped below 52 million barrels"
+   },
+   {
+    "sentence": "3",
+    "quote": "Pump prices have climbed sharply"
+   },
+   {
+    "sentence": "4",
+    "quote": "a 63% jump since the start of the year"
+   },
+   {
+    "sentence": "5",
+    "quote": "few signs of a quick turnaround"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "fuel",
+  "ai_importance": 85
+ },
+ {
   "id": "c332c0f968",
   "slug": "iran-buckles-as-us-turns-the-screws-c332c0f968",
   "title": "Iran buckles as US turns the screws",
@@ -16981,35 +17072,6 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "0970259a9e",
-  "slug": "spar-scotland-invests-over-1million-in-new-truck-fleet-0970259a9e",
-  "title": "Spar Scotland invests over £1million in new truck fleet",
-  "orig_title": "Spar Scotland invests over £1million in new truck fleet",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Scottish Grocer & Convenience Retailer",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGsyMnFKLS1RaVYyWHBTVmRTcmZ2ZDV5ZkN3dnBPZ01VejhPUDJrMFl3cV9zYWRKaWtPaXdZYVRqMjlmUy0yRHhIaklacHQ2ODVPWlhPclg3QzBwNEI0TU9qakN6S2dBQmQ4SjhrdDBpUnBsaFp4M2kyTmZ6QlE0aWE0MkNmb1lmdzVheUFldjBtOG13Y1ozaXRVZw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGsyMnFKLS1RaVYyWHBTVmRTcmZ2ZDV5ZkN3dnBPZ01VejhPUDJrMFl3cV9zYWRKaWtPaXdZYVRqMjlmUy0yRHhIaklacHQ2ODVPWlhPclg3QzBwNEI0TU9qakN6S2dBQmQ4SjhrdDBpUnBsaFp4M2kyTmZ6QlE0aWE0MkNmb1lmdzVheUFldjBtOG13Y1ozaXRVZw",
-  "snippet": "Spar Scotland invests over £1million in new truck fleet Scottish Grocer & Convenience Retailer",
-  "published": "2026-11-23T07:44:17+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T07:51:02.850229+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country (UK/Europe)"
   ],
   "labels": [],
   "kind": "rejected",

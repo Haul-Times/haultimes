@@ -4935,6 +4935,34 @@
     "created": "2026-11-26T20:52:44+0000",
     "at": "2026-11-26T21:01:23.735200+00:00"
    }
+  },
+  "20e2b75bc1": {
+   "story_id": "20e2b75bc1",
+   "title": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge",
+   "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanhLOW5xaXUtNE1rU2tMeVMxNWFYVXhOMkFYSzFBRlpZYVBjaEwwYUpobWRIZXJQeklYTm8xdURQb0ZSSzhxbW9pSmRzU1Juc2R6RXZLT2NNLWY0aEhweEIzVEtQRlMtVTUzamRPZUpKQjlGRzFRaTd1ZWVNdkFKQ290NHl6SGVjM21GM2ZXNXlYa2JLVXYyb0Q2aDdLdnBuZ2JBODZfWXBoQQ",
+   "category": "other",
+   "source": "Dosya Haber",
+   "dest": "https://haultimes.com/story/east-coast-diesel-stocks-hit-record-low-as-trucking-costs-surge-20e2b75bc1/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=20e2b75bc1",
+   "caption": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge.\n\nEast Coast diesel supply is the tightest for this time of year on record, according to Department of Energy data reported by Dosya Haber.\n\nReported by Dosya Haber. The link has the details and the original article.\n\n#Trucking #Diesel #TruckingNews #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-27T07:51:31.628404+00:00",
+   "published": "2026-11-27T07:44:39+00:00",
+   "score": 71,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge | HaulTimes",
+    "og:description": "East Coast diesel supply is the tightest for this time of year on record, according to Department of Energy data reported by Dosya Haber. Inventories fell below 52 million barrels as of last Friday, compared with the roughly 62 million barrels the region typically holds in May. Pump prices have risen with the drop in stocks. The national average reached a record $5.62 per gallon, and the East Coast averaged $5.90, up 63% since the start of the year. Analysts quoted in the report see few signs of a quick turnaround, and say higher prices may remain the main way to draw more fuel cargoes into the Northeast.",
+    "og:image": "https://haultimes.com/og/0a29ec29e5.png",
+    "og:url": "https://haultimes.com/story/east-coast-diesel-stocks-hit-record-low-as-trucking-costs-surge-20e2b75bc1/"
+   },
+   "reason": "importance 71 (threshold 65), Industry, local/other outlet",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -6156,7 +6184,8 @@
   "2ec104765a": "skipped|importance 45 is below this platform's threshold (65)",
   "f23a8e3e7c": "skipped|importance 57 is below this platform's threshold (65)",
   "ceb0ccab11": "skipped|importance 56 is below this platform's threshold (65)",
-  "0b0a9862df": "skipped|importance 45 is below this platform's threshold (65)"
+  "0b0a9862df": "skipped|importance 45 is below this platform's threshold (65)",
+  "20e2b75bc1": "queued|importance 71 (threshold 65), Industry, local/other outlet"
  },
  "decisions": [
   {
@@ -12717,6 +12746,13 @@
    "title": "Plug Power, dynaCERT and Daimler Truck – Hydrogen in heavy goods transport is advancing in small steps",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-27T07:51:31.628404+00:00",
+   "story_id": "20e2b75bc1",
+   "title": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge",
+   "action": "queued",
+   "reason": "importance 71 (threshold 65), Industry, local/other outlet"
   }
  ],
  "visibility": {
