@@ -6464,6 +6464,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "aa09ede917",
+  "slug": "sr-maintenance-technician-in-dallas-tx-for-chick-fil-a-supply-aa09ede917",
+  "title": "Sr. Maintenance Technician in Dallas, TX for Chick-fil-A Supply",
+  "orig_title": "Sr. Maintenance Technician in Dallas, TX for Chick-fil-A Supply",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4teWtWMG54RVVqd3daV2V0aDA2NW4xTm5fc19kYjZTRkl1T0JLYmVOU3RJZU1YY1QtRFdfUEdBVkx6aFNRVUUtaXo4TUhQZzg0ZE5WTE1DZTVMRi1aa19yX0FCUFFBTmFNSF9UbXlPN2hnQXBh?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4teWtWMG54RVVqd3daV2V0aDA2NW4xTm5fc19kYjZTRkl1T0JLYmVOU3RJZU1YY1QtRFdfUEdBVkx6aFNRVUUtaXo4TUhQZzg0ZE5WTE1DZTVMRi1aa19yX0FCUFFBTmFNSF9UbXlPN2hnQXBh",
+  "snippet": "Sr. Maintenance Technician in Dallas, TX for Chick-fil-A Supply Transport Topics",
+  "published": "2026-11-25T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T07:21:02.500284+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "64c470b59d",
   "slug": "bikewo-approves-15-crore-investment-in-green-drive-mobility-64c470b59d",
   "title": "BikeWo Approves ₹15 Crore Investment in Green Drive Mobility",
