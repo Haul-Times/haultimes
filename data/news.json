@@ -44,6 +44,35 @@
   "ai_relevant": false
  },
  {
+  "id": "1a4898f247",
+  "slug": "deputies-collect-thousands-of-dollars-in-cash-that-blew-across-roadway-1a4898f247",
+  "title": "Deputies collect thousands of dollars in cash that blew across roadway",
+  "orig_title": "Deputies collect thousands of dollars in cash that blew across roadway",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KATC",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnktd0hmMERGOU5HbWR0MGI0b3ZTMW8xT1lCNzA1UVA1cmxwU3E3LU9wam1yUnBDRVdsbnphQURSeG0wcURoTENrU1V6Q3JOWEpFNHBhcWdBMFRQRmI0UGk1LUVOQm5yVG5UbjV6Y1ljZTRiUGhYSHI1MGFhM2Jabl93WndSY0tINWRpNnV0NXZ0X2F4dktfVGpGSE5NNWZrNjQyaEh5dFRmeGl5TGNRaVZkeEFlQU1rUldTMjVmSC3SAcABQVVfeXFMUEZ5LXdIZjBERjlOR21kdDBiNG92UzFvMU9ZQjcwNVFQNXJscFNxNy1PcGptclJwQ0VXbG56YUFEUnhtMHFEaExDa1NVekNyTlhKRTRwYXFnQTBUUEZiNFBpNS1FTkJuclRuVG41emNZY2U0YlBoWEhyNTBhYTNiWm5fd1p3UmNLSDVkaTZ1dDV2dF9heHZLX1RqRkhOTTVmazY0MmhIeXRUZnhpeUxjUWlWZHhBZUFNa1JXUzI1Zkgt?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnktd0hmMERGOU5HbWR0MGI0b3ZTMW8xT1lCNzA1UVA1cmxwU3E3LU9wam1yUnBDRVdsbnphQURSeG0wcURoTENrU1V6Q3JOWEpFNHBhcWdBMFRQRmI0UGk1LUVOQm5yVG5UbjV6Y1ljZTRiUGhYSHI1MGFhM2Jabl93WndSY0tINWRpNnV0NXZ0X2F4dktfVGpGSE5NNWZrNjQyaEh5dFRmeGl5TGNRaVZkeEFlQU1rUldTMjVmSC3SAcABQVVfeXFMUEZ5LXdIZjBERjlOR21kdDBiNG92UzFvMU9ZQjcwNVFQNXJscFNxNy1PcGptclJwQ0VXbG56YUFEUnhtMHFEaExDa1NVekNyTlhKRTRwYXFnQTBUUEZiNFBpNS1FTkJuclRuVG41emNZY2U0YlBoWEhyNTBhYTNiWm5fd1p3UmNLSDVkaTZ1dDV2dF9heHZLX1RqRkhOTTVmazY0MmhIeXRUZnhpeUxjUWlWZHhBZUFNa1JXUzI1Zkgt",
+  "snippet": "Deputies collect thousands of dollars in cash that blew across roadway KATC",
+  "published": "2026-11-27T08:31:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T10:11:05.493626+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "fbb22207a6",
   "slug": "oregon-truckers-and-road-trippers-still-pull-into-these-6-highway-cafe-fbb22207a6",
   "title": "Oregon Truckers And Road-Trippers Still Pull Into These 6 Highway Cafes For Pie And Coffee",
@@ -6718,6 +6747,35 @@
   ],
   "labels": [],
   "kind": "review",
+  "sum_pending": false
+ },
+ {
+  "id": "0c805a7171",
+  "slug": "keith-archives-0c805a7171",
+  "title": "Keith Archives",
+  "orig_title": "Keith Archives",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tUWZNSS1rNGlNVmRYRlNsa1lkcENRNldRZHNiRVkxdGR6RTZleWxwOEw2Q2hrc3lpc28xTkVvQVZfa0lBLWQxNl9rTUVIdXhkd0E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tUWZNSS1rNGlNVmRYRlNsa1lkcENRNldRZHNiRVkxdGR6RTZleWxwOEw2Q2hrc3lpc28xTkVvQVZfa0lBLWQxNl9rTUVIdXhkd0E",
+  "snippet": "Keith Archives Truck News",
+  "published": "2026-11-25T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T10:11:05.493626+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
   "sum_pending": false
  },
  {
