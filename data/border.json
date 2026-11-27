@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:11:00.956811+00:00",
+ "updated": "2026-11-27T21:21:02.328102+00:00",
  "hour_now": 16,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 10,
-    "fast_wait": 5,
-    "lanes": "1",
+    "wait": 20,
+    "fast_wait": 10,
+    "lanes": "2",
     "status": "delay",
-    "updated": "At 3:00 pm EST",
+    "updated": "At 4:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -40,7 +40,7 @@
      0,
      0,
      4,
-     11,
+     12,
      10,
      8,
      2,
@@ -66,7 +66,7 @@
      8,
      12,
      11,
-     24,
+     22,
      34,
      38,
      21,
@@ -95,7 +95,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-27 15:03 EST"
+    "updated": "2026-11-27 16:11 EST"
    },
    "usual": {
     "south": [
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 3:57 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 3:57 pm EST",
+    "updated": "At 4:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -366,7 +366,7 @@
      4,
      3,
      2,
-     2,
+     3,
      6,
      10,
      27,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "16:04:07",
+    "updated": "16:14:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "16:04:07",
+    "updated": "16:14:07",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1090,7 +1090,7 @@
      5,
      12,
      10,
-     4,
+     5,
      0,
      0,
      0,
@@ -1233,7 +1233,7 @@
      8,
      9,
      9,
-     13,
+     12,
      15,
      15,
      25,
@@ -1462,8 +1462,8 @@
    },
    {
     "name": "Detroit Windsor Tunnel",
-    "wait": 10,
-    "status": "delay"
+    "wait": null,
+    "status": "Lanes Closed"
    },
    {
     "name": "Jackman",
