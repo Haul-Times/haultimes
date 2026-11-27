@@ -1,5 +1,99 @@
 [
  {
+  "id": "a55af80b22",
+  "slug": "black-friday-dashcam-deal-offers-half-off-second-camera-a55af80b22",
+  "title": "Black Friday dashcam deal offers half off second camera",
+  "orig_title": "Black Friday dashcam deal offers half off second camera",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Overdrive Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0syblcwN0dMQTRvUnY2d0xlRTRpM3pRbTE0LTJPVE5ZLVR1TFp0NjR0a2loeXhGcU9UZ2FsT1VTLU0xd1dya2ZkSEE3cW1VY2xzVzIxQzNhaFNpcXZMNGYxUXRGd3NCZ1p6ajBIbWxMeC1HQ3F4Q21CWE9BcjBFNVhuemlPLWFTZ2xLQnQ0aTVoVkdsTUo2aGE2S05PTENMNmZvVDFJcXhEeEsxMzRWbko2Sm1ZMnhWWXc?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0syblcwN0dMQTRvUnY2d0xlRTRpM3pRbTE0LTJPVE5ZLVR1TFp0NjR0a2loeXhGcU9UZ2FsT1VTLU0xd1dya2ZkSEE3cW1VY2xzVzIxQzNhaFNpcXZMNGYxUXRGd3NCZ1p6ajBIbWxMeC1HQ3F4Q21CWE9BcjBFNVhuemlPLWFTZ2xLQnQ0aTVoVkdsTUo2aGE2S05PTENMNmZvVDFJcXhEeEsxMzRWbko2Sm1ZMnhWWXc",
+  "snippet": "Black Friday dashcam deal offers half off second camera Overdrive Magazine",
+  "published": "2026-11-27T14:03:31+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T14:11:05.190133+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
+  "id": "477fc41581",
+  "slug": "durban-port-delays-leave-truck-drivers-waiting-up-to-24-hours-477fc41581",
+  "title": "Durban port delays leave truck drivers waiting up to 24 hours",
+  "orig_title": "Durban port delays leave truck drivers waiting up to 24 hours",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "Other",
+  "importance": 45,
+  "source": "Sunday Tribune",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3VJcjNzckdXbTZHRkJTRjZWXzV4MUhpTDAzd1JZWVVVVmQ3VVZ0TndKb0FUWHA4ZGVzY1JoTGJSZ21TMzVRakdOdm43Y2pYMFRhWWsxN2ticjNOTm44eTRmVkw0aU9JU3UwMkYxSWVtMjNqS29lZDd3S29KVFNGRnpDMDRKWWpTa1Rjc2NaOVUzcTRkOUN2NFRzV2VlYjNpbktQUTNGWnBwZw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3VJcjNzckdXbTZHRkJTRjZWXzV4MUhpTDAzd1JZWVVVVmQ3VVZ0TndKb0FUWHA4ZGVzY1JoTGJSZ21TMzVRakdOdm43Y2pYMFRhWWsxN2ticjNOTm44eTRmVkw0aU9JU3UwMkYxSWVtMjNqS29lZDd3S29KVFNGRnpDMDRKWWpTa1Rjc2NaOVUzcTRkOUN2NFRzV2VlYjNpbktQUTNGWnBwZw",
+  "snippet": "Durban port delays leave truck drivers waiting up to 24 hours Sunday Tribune",
+  "published": "2026-11-27T14:02:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T14:11:05.190133+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://sundaytribune.co.za/news/2026-11-27-durban-port-delays-leave-truck-drivers-waiting-up-to-24-hours/",
+  "source_note": "ok · 698 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "aa467be86314293b",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T14:11:05.190133+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "waiting times of up to 24 hours, up from about three"
+   },
+   {
+    "sentence": "2",
+    "quote": "transition to the Navis 4 operating system"
+   },
+   {
+    "sentence": "3",
+    "quote": "Transnet has said the delays are about 20 days"
+   },
+   {
+    "sentence": "4",
+    "quote": "drivers who previously made 12 deliveries a month"
+   },
+   {
+    "sentence": "5",
+    "quote": "Transnet did not respond to requests for comment."
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "other",
+  "ai_importance": 8,
+  "ai_relevant": false
+ },
+ {
   "id": "970e465b7f",
   "slug": "alberta-blitz-sidelines-one-third-of-vehicles-inspected-970e465b7f",
   "title": "Alberta blitz sidelines one-third of vehicles inspected",
