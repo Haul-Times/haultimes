@@ -1,5 +1,34 @@
 [
  {
+  "id": "970e465b7f",
+  "slug": "alberta-blitz-sidelines-one-third-of-vehicles-inspected-970e465b7f",
+  "title": "Alberta blitz sidelines one-third of vehicles inspected",
+  "orig_title": "Alberta blitz sidelines one-third of vehicles inspected",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 30,
+  "source": "Truck News",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3ctZ05DRFJfenFjRndjMjlNc0FtbGRHZFF2ampyOEFEa0F6MWRhRmc2Ri1Ec1pPOFRzNGpqaVNyck1XSzJ0Y3NyNmV6QmpEdXh0ejcyNnpWNVRqUXYwR3RuQmtwazdnNk1TWVFnanR3bXdsSlNYOVpSdG9fTHo1bjJsc2M5MmNYdEt5b1BtQkQ1cTZuR1BpdV9NRS0zSi1jdWV4MDI1N1g?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3ctZ05DRFJfenFjRndjMjlNc0FtbGRHZFF2ampyOEFEa0F6MWRhRmc2Ri1Ec1pPOFRzNGpqaVNyck1XSzJ0Y3NyNmV6QmpEdXh0ejcyNnpWNVRqUXYwR3RuQmtwazdnNk1TWVFnanR3bXdsSlNYOVpSdG9fTHo1bjJsc2M5MmNYdEt5b1BtQkQ1cTZuR1BpdV9NRS0zSi1jdWV4MDI1N1g",
+  "snippet": "Alberta blitz sidelines one-third of vehicles inspected Truck News",
+  "published": "2026-11-27T13:58:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T14:01:07.469106+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "review",
+  "reasons": [
+   "trade-press story with no clear trucking keyword"
+  ],
+  "labels": [],
+  "kind": "review",
+  "sum_pending": false
+ },
+ {
   "id": "9ffc5eaa77",
   "slug": "ztest-electronics-inc-announces-first-quarter-fiscal-2027-results-with-9ffc5eaa77",
   "title": "ZTEST Electronics Inc. Announces First Quarter Fiscal 2027 Results With 34.9% Revenue Growth and 39.2% Increase in Net Income",
@@ -16868,35 +16897,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "76ab79b9b8",
-  "slug": "oil-prices-dip-as-ample-supply-balances-persian-gulf-tensions-76ab79b9b8",
-  "title": "Oil prices dip as ample supply balances Persian Gulf tensions",
-  "orig_title": "Oil prices dip as ample supply balances Persian Gulf tensions",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Transport Topics",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUliczV4T1JGTnhYRE9qT0RLZVhRYUE4bnNQYXJPTWUyVmxKQ1BGY0ZYYnlWM0NfM3RFOW1Kal9sV1hQTkozLWZXZEF6SEt0WGZQdzFHbjVvQndpN19QdE0ydGZDLVZvb0E?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUliczV4T1JGTnhYRE9qT0RLZVhRYUE4bnNQYXJPTWUyVmxKQ1BGY0ZYYnlWM0NfM3RFOW1Kal9sV1hQTkozLWZXZEF6SEt0WGZQdzFHbjVvQndpN19QdE0ydGZDLVZvb0E",
-  "snippet": "Oil prices dip as ample supply balances Persian Gulf tensions Transport Topics",
-  "published": "2026-11-23T13:15:09+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T13:51:10.931365+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
   "sum_pending": false
  },
  {
