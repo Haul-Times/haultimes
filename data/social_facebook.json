@@ -6338,7 +6338,8 @@
   "9fffaea518": "skipped|importance 50 is below this platform's threshold (65)",
   "c28a177e55": "skipped|importance 56 is below this platform's threshold (65)",
   "3112390449": "skipped|importance 50 is below this platform's threshold (65)",
-  "e9b4602405": "posted|importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue"
+  "e9b4602405": "posted|importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue",
+  "e0c4b2aa09": "skipped|minor item (feature) or low-quality source"
  },
  "decisions": [
   {
@@ -12997,6 +12998,13 @@
    "title": "Lower diesel prices give fleets some relief as rate talks continue",
    "action": "posted",
    "reason": "importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue"
+  },
+  {
+   "at": "2026-11-27T20:01:40.393238+00:00",
+   "story_id": "e0c4b2aa09",
+   "title": "Trucker Joss Grieb named TCA Highway Angel after responding to serious Iowa crash",
+   "action": "skipped",
+   "reason": "minor item (feature) or low-quality source"
   }
  ],
  "visibility": {

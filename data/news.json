@@ -1,5 +1,65 @@
 [
  {
+  "id": "e0c4b2aa09",
+  "slug": "trucker-joss-grieb-named-tca-highway-angel-after-responding-to-serious-e0c4b2aa09",
+  "title": "Trucker Joss Grieb named TCA Highway Angel after responding to serious Iowa crash",
+  "orig_title": "Trucker Joss Grieb named TCA Highway Angel after responding to serious Iowa crash",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 5,
+  "source": "TheTrucker.com",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdjZVeFdSSGxXT05fbjQ3WUpWbzVDdktycjBHaXRUWFA4NTk1UldrWDJnbWNySEZTRjFCTmJHY1JUakVoSWMxdGt5RnZTQk1manNLMXA4ZVR6U2JLX05sa0t0RWc1NzBHWmd3aFlVTmo1UEthOG80azM2MjUzdUhZZ09QV1hFTkFSR19BR2ZsQXlQeG5COXJCeHdpLU11WFFuZzFCVjkxa1dZTnRSbkR2WEVvR2VuZjRWUWdlMDBneTFLZ1FGVHpER2d5UFdxQzZaMmtza3JqV2tLUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdjZVeFdSSGxXT05fbjQ3WUpWbzVDdktycjBHaXRUWFA4NTk1UldrWDJnbWNySEZTRjFCTmJHY1JUakVoSWMxdGt5RnZTQk1manNLMXA4ZVR6U2JLX05sa0t0RWc1NzBHWmd3aFlVTmo1UEthOG80azM2MjUzdUhZZ09QV1hFTkFSR19BR2ZsQXlQeG5COXJCeHdpLU11WFFuZzFCVjkxa1dZTnRSbkR2WEVvR2VuZjRWUWdlMDBneTFLZ1FGVHpER2d5UFdxQzZaMmtza3JqV2tLUQ",
+  "snippet": "Trucker Joss Grieb named TCA Highway Angel after responding to serious Iowa crash TheTrucker.com",
+  "published": "2026-11-27T19:58:22+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T20:01:06.424935+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "feature",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://www.thetrucker.com/trucking-news/podcast-of-the-week/trucker-joss-grieb-named-tca-highway-angel-after-responding-to-serious-iowa-crash",
+  "source_note": "ok · 301 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "c7ec6305835ef2a1",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T20:01:06.424935+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "is announcing Joss Grieb of Running Bear Motor Lines"
+   },
+   {
+    "sentence": "2",
+    "quote": "spotted an overturned pickup truck and camper trailer in the median"
+   },
+   {
+    "sentence": "3",
+    "quote": "I immediately initiated CPR."
+   },
+   {
+    "sentence": "4",
+    "quote": "until firefighters reached the scene and assumed resuscitation efforts"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'joss grieb of running bear motor lines as a tca highway angel'"
+  ],
+  "ai_category": "drivers",
+  "ai_importance": 30
+ },
+ {
   "id": "629082dcc1",
   "slug": "missouri-outlaw-oversize-hauler-busted-twice-in-two-days-629082dcc1",
   "title": "Missouri outlaw oversize hauler busted twice in two days",
