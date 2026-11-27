@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:31:10.617616+00:00",
+ "updated": "2026-11-27T23:41:13.266786+00:00",
  "hour_now": 18,
  "have_us": true,
  "have_ca": true,
@@ -20,7 +20,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-27 18:15 EST"
+    "updated": "2026-11-27 18:25 EST"
    },
    "usual": {
     "south": [
@@ -68,7 +68,7 @@
      11,
      17,
      21,
-     27,
+     25,
      21,
      10,
      9,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:17 pm EST",
+    "updated": "At 6:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -267,7 +267,7 @@
      0,
      0,
      1,
-     7,
+     6,
      2,
      0,
      0,
@@ -293,7 +293,7 @@
      9,
      9,
      9,
-     14,
+     13,
      19,
      16,
      11,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 6:17 pm EST",
+    "status": "no delay",
+    "updated": "At 6:27 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -368,7 +368,7 @@
      2,
      2,
      7,
-     12,
+     13,
      27,
      34,
      30,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "18:24:15",
+    "updated": "18:39:16",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -464,7 +464,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:24:15",
+    "updated": "18:39:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1235,7 +1235,7 @@
      9,
      9,
      9,
-     11,
+     10,
      25,
      29,
      9,
@@ -1524,8 +1524,8 @@
    },
    {
     "name": "Gordie Howe International Bridge",
-    "wait": 25,
-    "status": "25 minutes"
+    "wait": 0,
+    "status": "No Delay"
    },
    {
     "name": "Aldergrove",
