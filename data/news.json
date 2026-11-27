@@ -1,5 +1,34 @@
 [
  {
+  "id": "7e45b90b0c",
+  "slug": "iran-trucker-strike-enters-sixth-day-triggered-by-high-oil-prices-and-7e45b90b0c",
+  "title": "Iran Trucker Strike Enters Sixth Day, Triggered by High Oil Prices and Rampant Inflation",
+  "orig_title": "Iran Trucker Strike Enters Sixth Day, Triggered by High Oil Prices and Rampant Inflation",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Breitbart",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0Z0X2swV21LeHMyRnNBbnZlbFVWb3c1TjRweDhxR3N1X3FPWDJBT3oyMXFIRkpvNk01YlAtWTdhY3U1MVpxWjRFWm5ZYzM2X2hadGFlTjhaZU9yWnluV0tNVG5CMkp0MkNIQkE2NThQekc4eVlDY0pCZXVqZHppTzM3M0lRWnRtVUhRLWhEejRoNEktRnRiUm85U25XbkVxTVJzcXVHemh1M3EyNU9ONl95RjFoS0JseFB5TVQwd0NPQWdJRzdhckR1QkhvT1JtQlM4?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0Z0X2swV21LeHMyRnNBbnZlbFVWb3c1TjRweDhxR3N1X3FPWDJBT3oyMXFIRkpvNk01YlAtWTdhY3U1MVpxWjRFWm5ZYzM2X2hadGFlTjhaZU9yWnluV0tNVG5CMkp0MkNIQkE2NThQekc4eVlDY0pCZXVqZHppTzM3M0lRWnRtVUhRLWhEejRoNEktRnRiUm85U25XbkVxTVJzcXVHemh1M3EyNU9ONl95RjFoS0JseFB5TVQwd0NPQWdJRzdhckR1QkhvT1JtQlM4",
+  "snippet": "Iran Trucker Strike Enters Sixth Day, Triggered by High Oil Prices and Rampant Inflation Breitbart",
+  "published": "2026-11-27T17:50:13+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T18:01:03.738074+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3112390449",
   "slug": "mack-mygarage-organizes-saved-truck-builds-3112390449",
   "title": "Mack MyGarage Organizes Saved Truck Builds",
@@ -348,6 +377,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "b85624c3d7",
+  "slug": "multiple-collisions-reported-on-highways-as-freezing-rain-hits-parts-o-b85624c3d7",
+  "title": "Multiple collisions reported on highways as freezing rain hits parts of province",
+  "orig_title": "Multiple collisions reported on highways as freezing rain hits parts of province",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "CTV News",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHlvZEZEMm1nOEtqNk9LaFNYTlZxajVOVVAzTlVWTE04N2lrU2dCSHVrVlR1S2Y0UE5GeXpfVUVKOERKRTZJMDEzRExSdUdfWmhNckdTOHJhVE1nTmtlcGxHVW9QYnhkQUxnWEZTYUJ3N1U4MTRjdmlteU9QWjlwZTZJUDdlRkk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHlvZEZEMm1nOEtqNk9LaFNYTlZxajVOVVAzTlVWTE04N2lrU2dCSHVrVlR1S2Y0UE5GeXpfVUVKOERKRTZJMDEzRExSdUdfWmhNckdTOHJhVE1nTmtlcGxHVW9QYnhkQUxnWEZTYUJ3N1U4MTRjdmlteU9QWjlwZTZJUDdlRkk",
+  "snippet": "Multiple collisions reported on highways as freezing rain hits parts of province CTV News",
+  "published": "2026-11-27T14:43:53+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T18:01:03.738074+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "04855cff0a",
   "slug": "atri-extends-driver-health-survey-deadline-to-dec-4-04855cff0a",
   "title": "ATRI Extends Driver Health Survey Deadline to Dec. 4",
@@ -671,6 +729,35 @@
   "status": "rejected",
   "reasons": [
    "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
+  "id": "8fa05f25a6",
+  "slug": "iran-truckers-strike-enters-sixth-day-amid-fuel-shortages-and-rising-c-8fa05f25a6",
+  "title": "Iran truckers’ strike enters sixth day amid fuel shortages and rising costs",
+  "orig_title": "Iran truckers’ strike enters sixth day amid fuel shortages and rising costs",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Iran International",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54LTJLbGJRVmphS1VMRkFRbkhlWDJzcm13ZUdLOGxER0tfbGVLTWVsNjlZRnFINlF4RjRhZXZSWHlPbkpyYTVVaDdQSVBkc0F1dkE?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54LTJLbGJRVmphS1VMRkFRbkhlWDJzcm13ZUdLOGxER0tfbGVLTWVsNjlZRnFINlF4RjRhZXZSWHlPbkpyYTVVaDdQSVBkc0F1dkE",
+  "snippet": "Iran truckers’ strike enters sixth day amid fuel shortages and rising costs Iran International",
+  "published": "2026-11-27T12:02:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T18:01:03.738074+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
   ],
   "labels": [],
   "kind": "rejected",
@@ -7234,6 +7321,35 @@
   "sum_pending": false,
   "sum_tries": 3,
   "dup_of": "6bda17dfce"
+ },
+ {
+  "id": "0628ec5c34",
+  "slug": "second-generation-chevrolet-colorado-and-gmc-canyon-problems-and-relia-0628ec5c34",
+  "title": "Second-Generation Chevrolet Colorado and GMC Canyon Problems and Reliability Report (2015 to 2022)",
+  "orig_title": "Second-Generation Chevrolet Colorado and GMC Canyon Problems and Reliability Report (2015 to 2022)",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Motor Illustrated",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTdnWTBIa3dHZTlUTGd6Ymw3M2NyMllNVjdfRWE5VUpCM1NISFRlVkQzQXdxaTdmUUtxYzNxZHJDSmpzbmFhWll4a1NwMXN4MWFpODgzMXhFTWlvR2NVU0VKRUxHTlBveEw5WWNfdFlhUHBJcjhZbk9neWxzVGdtWWprdEREUHBZODU2dXJyWlRoSVVnMzkyTV9lb19GRjFEVlhZ0gGjAUFVX3lxTFBRN2dZMEhrd0dlOVRMZ3pibDczY3IyWU1WN19FYTlVSkIzU0hIVGVWRDNBd3FpN2ZRS3FjM3FkckNKanNuYWFaWXhrU3Axc3gxYWk4ODMxeEVNaW9HY1VTRUpFTEdOUG94TDlZY190WWFQcElyOFluT2d5bHNUZ21Zamt0RERQcFk4NTZ1cnJaVGhJVWczOTJNX2VvX0ZGMURWWFk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTdnWTBIa3dHZTlUTGd6Ymw3M2NyMllNVjdfRWE5VUpCM1NISFRlVkQzQXdxaTdmUUtxYzNxZHJDSmpzbmFhWll4a1NwMXN4MWFpODgzMXhFTWlvR2NVU0VKRUxHTlBveEw5WWNfdFlhUHBJcjhZbk9neWxzVGdtWWprdEREUHBZODU2dXJyWlRoSVVnMzkyTV9lb19GRjFEVlhZ0gGjAUFVX3lxTFBRN2dZMEhrd0dlOVRMZ3pibDczY3IyWU1WN19FYTlVSkIzU0hIVGVWRDNBd3FpN2ZRS3FjM3FkckNKanNuYWFaWXhrU3Axc3gxYWk4ODMxeEVNaW9HY1VTRUpFTEdOUG94TDlZY190WWFQcElyOFluT2d5bHNUZ21Zamt0RERQcFk4NTZ1cnJaVGhJVWczOTJNX2VvX0ZGMURWWFk",
+  "snippet": "Second-Generation Chevrolet Colorado and GMC Canyon Problems and Reliability Report (2015 to 2022) Motor Illustrated",
+  "published": "2026-11-25T10:59:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T18:01:03.738074+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
  },
  {
   "id": "e454cfda56",
