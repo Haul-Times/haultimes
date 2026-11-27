@@ -18535,35 +18535,6 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
-  "id": "9e237ff101",
-  "slug": "winnipeg-latest-video-news-interviews-analysis-9e237ff101",
-  "title": "Winnipeg: Latest Video News, Interviews & Analysis",
-  "orig_title": "Winnipeg: Latest Video News, Interviews & Analysis",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwb1FsQllibDRXUU96eEpUdWs0MVJMcVZid2ZYUXduaFdQRGZsaWotWDZRTXRzRkZZNW9fVmJmVUI0VXB0WEg4OUZ1VUl6ZG8?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwb1FsQllibDRXUU96eEpUdWs0MVJMcVZid2ZYUXduaFdQRGZsaWotWDZRTXRzRkZZNW9fVmJmVUI0VXB0WEg4OUZ1VUl6ZG8",
-  "snippet": "Winnipeg: Latest Video News, Interviews & Analysis CTV News",
-  "published": "2026-11-21T00:17:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T17:41:13.398262+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "bf2b3afa05",
   "slug": "colorado-will-start-allowing-private-vendors-to-offer-chain-up-service-bf2b3afa05",
   "title": "Colorado will start allowing private vendors to offer chain-up services to truckers on I-70 this winter",
