@@ -213,6 +213,37 @@
   "dup_of": "2ec104765a"
  },
  {
+  "id": "0b0a9862df",
+  "slug": "plug-power-dynacert-and-daimler-truck-hydrogen-in-heavy-goods-transpor-0b0a9862df",
+  "title": "Plug Power, dynaCERT and Daimler Truck – Hydrogen in heavy goods transport is advancing in small steps",
+  "orig_title": "Plug Power, dynaCERT and Daimler Truck – Hydrogen in heavy goods transport is advancing in small steps",
+  "summary": "",
+  "why": "",
+  "category": "equip",
+  "region": "",
+  "importance": 45,
+  "source": "Stockhouse",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM282V2ZmNkNTOTM1a2t3M3BEWXFDdFhRbWhZUV9OUWItUmZwTDcxazZCR19uUERNaDE4Z194Q0hIVi1RZVlxNmZzY1RmUDdST19iSEZwYThlWV9UbkVfaDhGREtEWnViS3pwSG1VRmhaVUIxZjdEbVJlTE9wb0pleVlBaTRWbGVxc3A3LU8zQmo3VDlYRDRva3AzTEdnc3FuUXJyTTdXeUphWmY5UTVYSFlrRXBDM1lrZlpfbEtWOE9LcTdUZlhJakRvVFE4dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM282V2ZmNkNTOTM1a2t3M3BEWXFDdFhRbWhZUV9OUWItUmZwTDcxazZCR19uUERNaDE4Z194Q0hIVi1RZVlxNmZzY1RmUDdST19iSEZwYThlWV9UbkVfaDhGREtEWnViS3pwSG1VRmhaVUIxZjdEbVJlTE9wb0pleVlBaTRWbGVxc3A3LU8zQmo3VDlYRDRva3AzTEdnc3FuUXJyTTdXeUphWmY5UTVYSFlrRXBDM1lrZlpfbEtWOE9LcTdUZlhJakRvVFE4dw",
+  "snippet": "Plug Power, dynaCERT and Daimler Truck – Hydrogen in heavy goods transport is advancing in small steps Stockhouse",
+  "published": "2026-11-27T04:43:35+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T06:41:04.064788+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "source_note": "publisher refused (403)",
+  "sum_done": true,
+  "sum_status": "no source text (publisher refused (403))"
+ },
+ {
   "id": "f002c7d870",
   "slug": "six-georgia-waffle-and-grits-diners-where-truckers-and-farmers-still-s-f002c7d870",
   "title": "Six Georgia Waffle-And-Grits Diners Where Truckers And Farmers Still Share The Counter At Dawn",
@@ -840,7 +871,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 2
+  "sum_tries": 3
  },
  {
   "id": "3e19058ad3",

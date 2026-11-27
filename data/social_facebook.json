@@ -6155,7 +6155,8 @@
   "9e5490fcc0": "skipped|minor item (news) or low-quality source",
   "2ec104765a": "skipped|importance 45 is below this platform's threshold (65)",
   "f23a8e3e7c": "skipped|importance 57 is below this platform's threshold (65)",
-  "ceb0ccab11": "skipped|importance 56 is below this platform's threshold (65)"
+  "ceb0ccab11": "skipped|importance 56 is below this platform's threshold (65)",
+  "0b0a9862df": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12709,6 +12710,13 @@
    "title": "Diesel Costs Push Up US Shipping Prices",
    "action": "skipped",
    "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-27T06:41:57.088772+00:00",
+   "story_id": "0b0a9862df",
+   "title": "Plug Power, dynaCERT and Daimler Truck – Hydrogen in heavy goods transport is advancing in small steps",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
