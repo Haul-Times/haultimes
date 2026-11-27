@@ -6153,7 +6153,8 @@
   "74863be98b": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 20 min in queue",
   "c8c1f65512": "posted|importance 82 (threshold 65), Industry, local/other outlet; waited 11 min in queue",
   "9e5490fcc0": "skipped|minor item (news) or low-quality source",
-  "2ec104765a": "skipped|importance 45 is below this platform's threshold (65)"
+  "2ec104765a": "skipped|importance 45 is below this platform's threshold (65)",
+  "f23a8e3e7c": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12693,6 +12694,13 @@
    "title": "Annual Thanksgiving tradition serves truck drivers free meals at Boise Stage Stop",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-27T06:11:30.632000+00:00",
+   "story_id": "f23a8e3e7c",
+   "title": "Cargo Theft Gone Wrong: Thieves End Up With Frozen Food",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
