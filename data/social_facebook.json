@@ -6152,7 +6152,8 @@
   "80f7379008": "skipped|importance 50 is below this platform's threshold (65)",
   "74863be98b": "posted|importance 67 (threshold 65), Cross-Border, trade publication; waited 20 min in queue",
   "c8c1f65512": "posted|importance 82 (threshold 65), Industry, local/other outlet; waited 11 min in queue",
-  "9e5490fcc0": "skipped|minor item (news) or low-quality source"
+  "9e5490fcc0": "skipped|minor item (news) or low-quality source",
+  "2ec104765a": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12685,6 +12686,13 @@
    "title": "Hijacked Carrier Credentials Drive Surge in U.S. Cargo Theft Values",
    "action": "posted",
    "reason": "importance 82 (threshold 65), Industry, local/other outlet; waited 11 min in queue"
+  },
+  {
+   "at": "2026-11-27T00:21:41.485024+00:00",
+   "story_id": "2ec104765a",
+   "title": "Annual Thanksgiving tradition serves truck drivers free meals at Boise Stage Stop",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

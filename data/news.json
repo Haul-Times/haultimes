@@ -1,5 +1,67 @@
 [
  {
+  "id": "2ec104765a",
+  "slug": "annual-thanksgiving-tradition-serves-truck-drivers-free-meals-at-boise-2ec104765a",
+  "title": "Annual Thanksgiving tradition serves truck drivers free meals at Boise Stage Stop",
+  "orig_title": "Annual Thanksgiving tradition serves truck drivers free meals at Boise Stage Stop",
+  "summary": "The Boise Stage Stop has provided free Thanksgiving meals to truck drivers for decades, according to KBOI. Connie Gepner, who has worked at the stop for 28 years, said the aim is to show appreciation to each driver who comes in on the holiday. Each driver also gets a goodie bag containing movies, beef jerky, chargers and a raffle entry. Gepner said staff work on Thanksgiving so the meals can be served, and the stop plans to keep the tradition going for years.",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 45,
+  "source": "KBOI",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0xPUmxubTk0SVNQUERYajMxajNxYTlkNkJXNldwU1FzRTVWREE4SzIzX21ybzFxaEF0M2dzM3N0dEpISS13QnhjOHh5eDBMQVVHcVpDNDV3NmtYUER1R1hnS2RRc1gtOXYxTHJyck0teWZ1MHhOMDIzN011QVB2blZHREQ0aEFPbDNRRVpLcDJxLWRmTHZNZ2pNUTRqTjRGVUl2WnFWTmNlb001WnkyQW9BWlk?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0xPUmxubTk0SVNQUERYajMxajNxYTlkNkJXNldwU1FzRTVWREE4SzIzX21ybzFxaEF0M2dzM3N0dEpISS13QnhjOHh5eDBMQVVHcVpDNDV3NmtYUER1R1hnS2RRc1gtOXYxTHJyck0teWZ1MHhOMDIzN011QVB2blZHREQ0aEFPbDNRRVpLcDJxLWRmTHZNZ2pNUTRqTjRGVUl2WnFWTmNlb001WnkyQW9BWlk",
+  "snippet": "Annual Thanksgiving tradition serves truck drivers free meals at Boise Stage Stop KBOI",
+  "published": "2026-11-27T00:09:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T00:21:06.986969+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://idahonews.com/news/local/annual-thanksgiving-tradition-serves-truck-drivers-free-meals-at-boise-stage-stop",
+  "source_note": "ok · 306 words",
+  "sum_done": true,
+  "sum_status": "published",
+  "source_fp": "fcf6c7f9f0d1f78f",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T00:21:06.986969+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "has spent decades serving free Thanksgiving meals to truck drivers"
+   },
+   {
+    "sentence": "2",
+    "quote": "showing appreciation to every driver who walks through the door"
+   },
+   {
+    "sentence": "3",
+    "quote": "movies, beef jerky, chargers, and a chance to win a raffle"
+   },
+   {
+    "sentence": "4",
+    "quote": "everybody here comes to work on Thanksgiving"
+   },
+   {
+    "sentence": "4",
+    "quote": "plan to continue the tradition for years to come"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "drivers",
+  "ai_importance": 22
+ },
+ {
   "id": "d74e79f25e",
   "slug": "at-least-104-femicides-recorded-in-iran-over-the-past-year-d74e79f25e",
   "title": "At Least 104 Femicides Recorded in Iran Over the Past Year",
