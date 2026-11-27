@@ -6154,7 +6154,8 @@
   "c8c1f65512": "posted|importance 82 (threshold 65), Industry, local/other outlet; waited 11 min in queue",
   "9e5490fcc0": "skipped|minor item (news) or low-quality source",
   "2ec104765a": "skipped|importance 45 is below this platform's threshold (65)",
-  "f23a8e3e7c": "skipped|importance 57 is below this platform's threshold (65)"
+  "f23a8e3e7c": "skipped|importance 57 is below this platform's threshold (65)",
+  "ceb0ccab11": "skipped|importance 56 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12701,6 +12702,13 @@
    "title": "Cargo Theft Gone Wrong: Thieves End Up With Frozen Food",
    "action": "skipped",
    "reason": "importance 57 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-27T06:32:16.146543+00:00",
+   "story_id": "ceb0ccab11",
+   "title": "Diesel Costs Push Up US Shipping Prices",
+   "action": "skipped",
+   "reason": "importance 56 is below this platform's threshold (65)"
   }
  ],
  "visibility": {

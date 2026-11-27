@@ -1,5 +1,69 @@
 [
  {
+  "id": "ceb0ccab11",
+  "slug": "diesel-costs-push-up-us-shipping-prices-ceb0ccab11",
+  "title": "Diesel Costs Push Up US Shipping Prices",
+  "orig_title": "Diesel Costs Push Up US Shipping Prices",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 56,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGpoWVRhOEgyc1I3U0hZTFpBdWJNT3RscVN2WjJBV3NUQUhEMlpBZk1WQWlyQ1VaTEVMVFRlSmgxMnl1Z2NYWTVUYWlKWXhUdmdxdTI4UFZJaWkxVU5rcGptekg4YnpDNk1JVGw2WmcyS0RoU1p0UmRHLTFtTnZSakpzQXhhZjk5?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGpoWVRhOEgyc1I3U0hZTFpBdWJNT3RscVN2WjJBV3NUQUhEMlpBZk1WQWlyQ1VaTEVMVFRlSmgxMnl1Z2NYWTVUYWlKWXhUdmdxdTI4UFZJaWkxVU5rcGptekg4YnpDNk1JVGw2WmcyS0RoU1p0UmRHLTFtTnZSakpzQXhhZjk5",
+  "snippet": "Diesel Costs Push Up US Shipping Prices Wisevoter",
+  "published": "2026-11-27T06:27:54+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T06:31:04.375831+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://wisevoter.com/world/us/2026/11/27/diesel-costs-push-up-us-shipping-prices",
+  "source_note": "ok · 490 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "c039b4690b1fa5bf",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T06:31:04.375831+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "a number of freight companies to file for bankruptcy"
+   },
+   {
+    "sentence": "2",
+    "quote": "diesel remains well above last year's sub-$4 per gallon level"
+   },
+   {
+    "sentence": "3",
+    "quote": "Fuel accounts for about 15% to 30% of the total cost of food"
+   },
+   {
+    "sentence": "4",
+    "quote": "FedEx, UPS, the US Postal Service and railroads have all raised prices"
+   },
+   {
+    "sentence": "5",
+    "quote": "Future diesel and freight price trajectories have not been specified in the source."
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: \"diesel remains well above last year's sub-$4 per gallon level after pe\""
+  ],
+  "ai_category": "rates",
+  "ai_importance": 70
+ },
+ {
   "id": "7e16154616",
   "slug": "military-escorts-over-300-kenyan-trucks-home-from-ethiopia-after-month-7e16154616",
   "title": "Military Escorts Over 300 Kenyan Trucks Home From Ethiopia After Month-Long Ordeal",
@@ -776,7 +840,7 @@
   "labels": [],
   "kind": "news",
   "sum_pending": true,
-  "sum_tries": 1
+  "sum_tries": 2
  },
  {
   "id": "3e19058ad3",
