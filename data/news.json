@@ -1,5 +1,34 @@
 [
  {
+  "id": "9ffc5eaa77",
+  "slug": "ztest-electronics-inc-announces-first-quarter-fiscal-2027-results-with-9ffc5eaa77",
+  "title": "ZTEST Electronics Inc. Announces First Quarter Fiscal 2027 Results With 34.9% Revenue Growth and 39.2% Increase in Net Income",
+  "orig_title": "ZTEST Electronics Inc. Announces First Quarter Fiscal 2027 Results With 34.9% Revenue Growth and 39.2% Increase in Net Income",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTNPcTRubjVrRU02TTRVSzVMbjlTVVVwMUViaU5NSFVyUkxldUZ6VWMxN05GWGJhQ3pyVWxfcnRVdm1UYzREQmFUamoxaXAwb2lrNy1ucEYzbk9lVHNhQ0Nzb2ZpRmVJV1NyRFVwZUFMTVluZzFwY1ZVdGdmTlNhZnpHUFpEcU01UEluZUFjalNFb3JWbmpWRlAtNVY2TUMtUUdQSkxXVm42X0VvWjVpcVZWZmtQX2NuOS1tckNFQUZOVUFIb3E4Y05BLXNtdTk4TFBRUFpnUDlJa3I1MFFFMWFqc2pfS0ZCSkxHQi1Kam1ueWdGeHV6b3ZQRC1QaDYyNWlCb0NQWlVpRVNyU1VwWktWZFFZX21HYmlDemVjbEplcVBETE1TVEU0WHhodUJlbmFlbHpPdw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTNPcTRubjVrRU02TTRVSzVMbjlTVVVwMUViaU5NSFVyUkxldUZ6VWMxN05GWGJhQ3pyVWxfcnRVdm1UYzREQmFUamoxaXAwb2lrNy1ucEYzbk9lVHNhQ0Nzb2ZpRmVJV1NyRFVwZUFMTVluZzFwY1ZVdGdmTlNhZnpHUFpEcU01UEluZUFjalNFb3JWbmpWRlAtNVY2TUMtUUdQSkxXVm42X0VvWjVpcVZWZmtQX2NuOS1tckNFQUZOVUFIb3E4Y05BLXNtdTk4TFBRUFpnUDlJa3I1MFFFMWFqc2pfS0ZCSkxHQi1Kam1ueWdGeHV6b3ZQRC1QaDYyNWlCb0NQWlVpRVNyU1VwWktWZFFZX21HYmlDemVjbEplcVBETE1TVEU0WHhodUJlbmFlbHpPdw",
+  "snippet": "ZTEST Electronics Inc. Announces First Quarter Fiscal 2027 Results With 34.9% Revenue Growth and 39.2% Increase in Net Income The Globe and Mail",
+  "published": "2026-11-27T12:30:57+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T12:51:07.334816+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "792332dea7",
   "slug": "truck-drivers-bear-the-brunt-of-worsening-durban-port-congestion-792332dea7",
   "title": "Truck drivers bear the brunt of worsening Durban port congestion",
@@ -41,6 +70,67 @@
   "sum_problems": [],
   "ai_category": "drivers",
   "ai_importance": 10,
+  "ai_relevant": false
+ },
+ {
+  "id": "7e46127a7a",
+  "slug": "iranian-truckers-extend-nationwide-strike-to-20-cities-7e46127a7a",
+  "title": "Iranian Truckers Extend Nationwide Strike to 20 Cities",
+  "orig_title": "Iranian Truckers Extend Nationwide Strike to 20 Cities",
+  "summary": "",
+  "why": "",
+  "category": "drivers",
+  "region": "Other",
+  "importance": 70,
+  "source": "streamlinefeed.co.ke",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzBSeF9iUS1ha3JJRmlTWnB5bGF0YVFENzFad1ZfV0xleVpZa2YxNkJsSGJVZXAxbEV5blFrSGRqb1FlS2p3ZzBhLWRKY3pUYjhnNHp0YnFoLU01QklnbzEtRkdlazA0Yzh3NTZLMEplUjNrQ185UE9DNGFpQUdneW1lWFJOaHBUdHlKYTZWNHU2dw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzBSeF9iUS1ha3JJRmlTWnB5bGF0YVFENzFad1ZfV0xleVpZa2YxNkJsSGJVZXAxbEV5blFrSGRqb1FlS2p3ZzBhLWRKY3pUYjhnNHp0YnFoLU01QklnbzEtRkdlazA0Yzh3NTZLMEplUjNrQ185UE9DNGFpQUdneW1lWFJOaHBUdHlKYTZWNHU2dw",
+  "snippet": "Iranian Truckers Extend Nationwide Strike to 20 Cities streamlinefeed.co.ke",
+  "published": "2026-11-27T11:38:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T12:51:07.334816+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://streamlinefeed.co.ke/news/iranian-truckers-extend-nationwide-strike-to-20-cities",
+  "source_note": "ok · 658 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "a12c0b64d56e057c",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T12:51:07.334816+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "entered a sixth consecutive day of strike action on Friday, November 27, 2026"
+   },
+   {
+    "sentence": "2",
+    "quote": "refusing cargo until rates reflect dollar-linked expenses for tyres, engine oil, and diesel"
+   },
+   {
+    "sentence": "3",
+    "quote": "pushed the rial past 2.8 million per US dollar this week, a record low"
+   },
+   {
+    "sentence": "4",
+    "quote": "no strike had materialized and that the national freight fleet was operating normally"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "rates",
+  "ai_importance": 15,
   "ai_relevant": false
  },
  {
