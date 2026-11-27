@@ -5049,6 +5049,34 @@
     "created": "2026-11-27T17:01:30+0000",
     "at": "2026-11-27T17:11:25.216456+00:00"
    }
+  },
+  "e9b4602405": {
+   "story_id": "e9b4602405",
+   "title": "Lower diesel prices give fleets some relief as rate talks continue",
+   "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY1QxeGVWcFJWYXMzX3hHZ215VHJhVllQS1RaQjU1NGtIeWRsaG1WYXRya3lnRUJxRjBvOWNQVFpGRV9tWkVQeHJ0SEZENlhhOEQyRndlYkMtUkw1Y1lIekNJUlJJR1R0a2VMRU1hRlFKMDVoM0JXSTE0dnZUb25ORWhFX3k1RU8tS0dyTHVIT0l0UjNCNFdMdmlHV3ZibmVvXzVaQlR5RHExbkxJY1B4VjRCcTdmbUdGOE9V",
+   "category": "fuel",
+   "source": "Truck News",
+   "dest": "https://haultimes.com/story/lower-diesel-prices-give-fleets-some-relief-as-rate-talks-continue-e9b4602405/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=e9b4602405",
+   "caption": "Lower diesel prices give fleets some relief as rate talks continue.\n\nReported by Truck News. The link has the details and the original article.\n\n#CanadianTrucking #Trucking #Diesel #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-27T18:41:28.078844+00:00",
+   "published": "2026-11-27T18:33:58+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Lower diesel prices give fleets some relief as rate talks continue | HaulTimes",
+    "og:description": "Reported by Truck News. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/8d28e34b77.png",
+    "og:url": "https://haultimes.com/story/lower-diesel-prices-give-fleets-some-relief-as-rate-talks-continue-e9b4602405/"
+   },
+   "reason": "importance 67 (threshold 65), Fuel, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -6295,7 +6323,8 @@
   "d7abef13a6": "posted|importance 67 (threshold 65), Rates & Market, trade publication; waited 10 min in queue",
   "9fffaea518": "skipped|importance 50 is below this platform's threshold (65)",
   "c28a177e55": "skipped|importance 56 is below this platform's threshold (65)",
-  "3112390449": "skipped|importance 50 is below this platform's threshold (65)"
+  "3112390449": "skipped|importance 50 is below this platform's threshold (65)",
+  "e9b4602405": "queued|importance 67 (threshold 65), Fuel, trade publication"
  },
  "decisions": [
   {
@@ -12940,6 +12969,13 @@
    "title": "Mack MyGarage Organizes Saved Truck Builds",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-27T18:41:28.078844+00:00",
+   "story_id": "e9b4602405",
+   "title": "Lower diesel prices give fleets some relief as rate talks continue",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Fuel, trade publication"
   }
  ],
  "visibility": {
