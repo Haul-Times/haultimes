@@ -15898,35 +15898,6 @@
   "sum_pending": false
  },
  {
-  "id": "8ef8d74445",
-  "slug": "high-diesel-prices-create-survival-crisis-for-small-trucking-companies-8ef8d74445",
-  "title": "High diesel prices create survival crisis for small trucking companies",
-  "orig_title": "High diesel prices create survival crisis for small trucking companies",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Independent",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2NNWEJxdWhqMHI2bXFIcDFZNUFRR19wQ0R3U19ERGR6Mk1zUVBLUkdOTWxlX1ctaHJvMnhfbG96R2l2ZXl3QU1HdHNtT09lblVEWWNkZU5VcGMyWWJ1SmZJVEdNUkRsYlFkSkNnZzRHb2VBMTllTWwwbnN5dVhmX2ZhUDNSa0ZsNk5XaFo3RlF0cDR5aGM2dGMzSEhDN3J1MUgw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2NNWEJxdWhqMHI2bXFIcDFZNUFRR19wQ0R3U19ERGR6Mk1zUVBLUkdOTWxlX1ctaHJvMnhfbG96R2l2ZXl3QU1HdHNtT09lblVEWWNkZU5VcGMyWWJ1SmZJVEdNUkRsYlFkSkNnZzRHb2VBMTllTWwwbnN5dVhmX2ZhUDNSa0ZsNk5XaFo3RlF0cDR5aGM2dGMzSEhDN3J1MUgw",
-  "snippet": "High diesel prices create survival crisis for small trucking companies The Independent",
-  "published": "2026-11-23T16:55:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T17:01:06.912090+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "26313937ce",
   "slug": "three-arrested-for-scheme-using-truckers-to-help-smuggle-chinese-contr-26313937ce",
   "title": "Three arrested for scheme using truckers to help smuggle Chinese contraband into California through shipping container swaps",
@@ -16018,35 +15989,6 @@
   "source_note": "excerpt only · 19 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "9a6a3d6e09",
-  "slug": "gas-prices-finally-falling-but-thanksgiving-drivers-could-still-pay-re-9a6a3d6e09",
-  "title": "Gas prices finally falling — but Thanksgiving drivers could still pay record high",
-  "orig_title": "Gas prices finally falling — but Thanksgiving drivers could still pay record high",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "BizPac Review",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUUxRnlaeWFNbTg2UlBkd3hRT1diMlhUUFNCZzEwTHZlaWN0WUg0STFaelpCeWt4aHRUUlZpZ1FDSlNMWGpVNjB6M29HNVJZZlJMTXJMOXVXcjVfNmdmV0hKdmNJUjJLYzk2OTZ3ZDl6cGhUaW54bEV1bEJKbkVORTM4TVo1MWlQVWQ4Xy1nd0U1TVZlNms0VnZhVlpKS3pUZkJiWVBfV0pGSTM0akNqSGx6VzliZUlvSE15dWJLNURfT2hiM2tJ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUUxRnlaeWFNbTg2UlBkd3hRT1diMlhUUFNCZzEwTHZlaWN0WUg0STFaelpCeWt4aHRUUlZpZ1FDSlNMWGpVNjB6M29HNVJZZlJMTXJMOXVXcjVfNmdmV0hKdmNJUjJLYzk2OTZ3ZDl6cGhUaW54bEV1bEJKbkVORTM4TVo1MWlQVWQ4Xy1nd0U1TVZlNms0VnZhVlpKS3pUZkJiWVBfV0pGSTM0akNqSGx6VzliZUlvSE15dWJLNURfT2hiM2tJ",
-  "snippet": "Gas prices finally falling — but Thanksgiving drivers could still pay record high BizPac Review",
-  "published": "2026-11-23T16:48:16+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T17:01:06.912090+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "344cc97ca6",
