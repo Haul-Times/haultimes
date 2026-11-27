@@ -88,6 +88,35 @@
   "sum_pending": false
  },
  {
+  "id": "d6c997a82d",
+  "slug": "hundreds-of-flights-delayed-more-than-80-canceled-as-weather-continues-d6c997a82d",
+  "title": "Hundreds of flights delayed, more than 80 canceled as weather continues to disrupt travel",
+  "orig_title": "Hundreds of flights delayed, more than 80 canceled as weather continues to disrupt travel",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KATC",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVE1vQTVKeld1WTd6bjJ2SnlfcjhpMVF0c204WlFUcHo0ZXpER2RPUnNLZ0R2T0QwSmxSV2xFTEVOSHdwTk5iMjU1X1NxSVI2MDJyMXhZTkdVQXFRSmNNV3VWTkMxVUhsc2ltaFU5b2xQOTYwWGtiWnN1TWNYOUl4WS1UbDdMMzUxdGdJZGFOajh3LUpoTEdIa0h2eWFJel9hamtGQ1pidE1tN0xBcWhPX1g1QUdGdzA5NlJtMGVYajluU05qUFRJNmFOdmd5cVRBR1FpbG1xMNIB1wFBVV95cUxQVE1vQTVKeld1WTd6bjJ2SnlfcjhpMVF0c204WlFUcHo0ZXpER2RPUnNLZ0R2T0QwSmxSV2xFTEVOSHdwTk5iMjU1X1NxSVI2MDJyMXhZTkdVQXFRSmNNV3VWTkMxVUhsc2ltaFU5b2xQOTYwWGtiWnN1TWNYOUl4WS1UbDdMMzUxdGdJZGFOajh3LUpoTEdIa0h2eWFJel9hamtGQ1pidE1tN0xBcWhPX1g1QUdGdzA5NlJtMGVYajluU05qUFRJNmFOdmd5cVRBR1FpbG1xMA?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVE1vQTVKeld1WTd6bjJ2SnlfcjhpMVF0c204WlFUcHo0ZXpER2RPUnNLZ0R2T0QwSmxSV2xFTEVOSHdwTk5iMjU1X1NxSVI2MDJyMXhZTkdVQXFRSmNNV3VWTkMxVUhsc2ltaFU5b2xQOTYwWGtiWnN1TWNYOUl4WS1UbDdMMzUxdGdJZGFOajh3LUpoTEdIa0h2eWFJel9hamtGQ1pidE1tN0xBcWhPX1g1QUdGdzA5NlJtMGVYajluU05qUFRJNmFOdmd5cVRBR1FpbG1xMNIB1wFBVV95cUxQVE1vQTVKeld1WTd6bjJ2SnlfcjhpMVF0c204WlFUcHo0ZXpER2RPUnNLZ0R2T0QwSmxSV2xFTEVOSHdwTk5iMjU1X1NxSVI2MDJyMXhZTkdVQXFRSmNNV3VWTkMxVUhsc2ltaFU5b2xQOTYwWGtiWnN1TWNYOUl4WS1UbDdMMzUxdGdJZGFOajh3LUpoTEdIa0h2eWFJel9hamtGQ1pidE1tN0xBcWhPX1g1QUdGdzA5NlJtMGVYajluU05qUFRJNmFOdmd5cVRBR1FpbG1xMA",
+  "snippet": "Hundreds of flights delayed, more than 80 canceled as weather continues to disrupt travel KATC",
+  "published": "2026-11-27T10:52:43+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T11:51:06.679079+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "97c83f8f24",
   "slug": "brazen-1-5m-cargo-theft-ring-was-stealing-tvs-fridges-230k-in-dimes-an-97c83f8f24",
   "title": "Brazen $1.5M cargo theft ring was stealing TVs, fridges, $230K in dimes and crab legs",
