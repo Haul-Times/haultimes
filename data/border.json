@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T00:51:04.116211+00:00",
- "hour_now": 19,
+ "updated": "2026-11-27T01:01:12.550152+00:00",
+ "hour_now": 20,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -44,7 +44,7 @@
      19,
      22,
      14,
-     8,
+     9,
      1,
      9,
      6
@@ -70,7 +70,7 @@
      0,
      0,
      6,
-     0,
+     1,
      0,
      0,
      0
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 15,
+    "wait": 12,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 7:37 pm EST",
+    "updated": "At 7:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -269,7 +269,7 @@
      11,
      5,
      9,
-     8,
+     9,
      19,
      7,
      5
@@ -295,7 +295,7 @@
      4,
      8,
      8,
-     17,
+     16,
      6,
      1,
      2
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 13,
+    "wait": 18,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 7:37 pm EST",
+    "updated": "At 7:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -344,7 +344,7 @@
      4,
      5,
      1,
-     0,
+     1,
      1,
      0,
      0
@@ -419,7 +419,7 @@
      3,
      3,
      3,
-     6,
+     5,
      5,
      5,
      5
@@ -719,7 +719,7 @@
      3,
      3,
      3,
-     6,
+     5,
      1,
      0,
      0
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:47:11",
+    "updated": "19:57:12",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1263,7 +1263,7 @@
      0,
      0,
      1,
-     3,
+     2,
      0,
      0,
      0
