@@ -1,5 +1,74 @@
 [
  {
+  "id": "35ad171ba0",
+  "slug": "otr-update-5-industry-changes-long-haul-truckers-will-see-in-the-futur-35ad171ba0",
+  "title": "OTR Update: 5 Industry Changes Long-Haul Truckers Will See in the Future",
+  "orig_title": "OTR Update: 5 Industry Changes Long-Haul Truckers Will See in the Future",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 45,
+  "source": "Yonkers Times",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUFSZUc0TGZHSkYtWHh0VXpPZXc4a1dqZUx4VkpIQlQybjRNTXVCeUhGTHdsV0d0azR5cW0yZ2ludWpycERwaW1iNTl3QkItTVJPQm1pRWhCb1VqSGN5WEhvY0l3QU5pUS1IakM5cXRSN1dBdHl2ejRscnJYSDIxWU10Z1N5LVREU2V1NmRva1JBa2VEUzZGTzBKOFZqUQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUFSZUc0TGZHSkYtWHh0VXpPZXc4a1dqZUx4VkpIQlQybjRNTXVCeUhGTHdsV0d0azR5cW0yZ2ludWpycERwaW1iNTl3QkItTVJPQm1pRWhCb1VqSGN5WEhvY0l3QU5pUS1IakM5cXRSN1dBdHl2ejRscnJYSDIxWU10Z1N5LVREU2V1NmRva1JBa2VEUzZGTzBKOFZqUQ",
+  "snippet": "OTR Update: 5 Industry Changes Long-Haul Truckers Will See in the Future Yonkers Times",
+  "published": "2026-11-27T21:52:51+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T22:01:03.869826+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://yonkerstimes.com/otr-update-5-industry-changes-long-haul-truckers-will-see-in-the-future/",
+  "source_note": "ok · 949 words",
+  "sum_done": true,
+  "sum_status": "review",
+  "source_fp": "3daec84528d373e1",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-27T22:01:03.869826+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Let’s explore five major industry shifts"
+   },
+   {
+    "sentence": "2",
+    "quote": "Fuel prices were the number one issue among trucking in a 2026 industry survey"
+   },
+   {
+    "sentence": "3",
+    "quote": "a three-day Massachusetts operation indicated over 1,300 violations"
+   },
+   {
+    "sentence": "4",
+    "quote": "testing pilot programs to consider more flexible methods"
+   },
+   {
+    "sentence": "5",
+    "quote": "These are not a rule change for all drivers, but pilot programs."
+   }
+  ],
+  "sum_problems": [
+   "Mostly generic advice; the few factual claims are thinly sourced",
+   "The Massachusetts operation does not name the enforcing agency",
+   "The 2027 rollout is an agency forecast and the source gives no official citation",
+   "Source wording is unclear in places, including the description of the pilot programs"
+  ],
+  "ai_category": "regs",
+  "ai_importance": 40,
+  "pending_summary": "The Yonkers Times published a driver-focused guide to five areas of change for long-haul truckers: fuel prices, compliance, hours of service, technology and truck parking. The article cites a 2026 industry survey by the American Transportation Research Institute that found fuel prices were the top concern among trucking respondents. It also reports that a three-day Massachusetts inspection operation in October 2026 turned up more than 1,300 commercial vehicle violations. On hours of service, the article says the Federal Motor Carrier Safety Administration is testing pilot programs for more flexible sleeper-berth splitting and pausing the 14-hour duty window. It stresses these are pilots, not a rule change for all drivers, and says a broader rollout could come in 2027 after preliminary testing.",
+  "pending_why": ""
+ },
+ {
   "id": "e99caec6b5",
   "slug": "daily-protests-in-iran-as-tehran-pushes-workers-to-pay-for-crisis-e99caec6b5",
   "title": "Daily protests in Iran as Tehran pushes workers to pay for crisis",

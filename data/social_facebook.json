@@ -6383,7 +6383,8 @@
   "e9b4602405": "posted|importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue",
   "e0c4b2aa09": "skipped|minor item (feature) or low-quality source",
   "f02d045295": "posted|importance 73 (threshold 65), Cross-Border, trade publication; waited 19 min in queue",
-  "6b302ef619": "skipped|importance 60 is below this platform's threshold (65)"
+  "6b302ef619": "skipped|importance 60 is below this platform's threshold (65)",
+  "35ad171ba0": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -13070,6 +13071,13 @@
    "title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
    "action": "posted",
    "reason": "importance 73 (threshold 65), Cross-Border, trade publication; waited 19 min in queue"
+  },
+  {
+   "at": "2026-11-27T22:01:39.978943+00:00",
+   "story_id": "35ad171ba0",
+   "title": "OTR Update: 5 Industry Changes Long-Haul Truckers Will See in the Future",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
