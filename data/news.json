@@ -2164,6 +2164,35 @@
   "ai_importance": 22
  },
  {
+  "id": "e0e10e6fff",
+  "slug": "trump-e0e10e6fff",
+  "title": "Trump",
+  "orig_title": "Trump",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Grand Junction Daily Sentinel",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGgwMTdfTm1xTTdGc0lBY0dOYjN4UFF5YjlNZjNMXzBSRFlTNW0yNDFKSDV6WWZPU29qcmQyaVkzbkVMOWdMLVZQNW12MWpqSTc3OE5EX0VBVy1HZGZLc0RFenVrVGgweWEwZWtnNG9HRWl1REVyQ09QLWdrdkkycVV5bU9UNWNxQmVfUXJXSVZDQQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGgwMTdfTm1xTTdGc0lBY0dOYjN4UFF5YjlNZjNMXzBSRFlTNW0yNDFKSDV6WWZPU29qcmQyaVkzbkVMOWdMLVZQNW12MWpqSTc3OE5EX0VBVy1HZGZLc0RFenVrVGgweWEwZWtnNG9HRWl1REVyQ09QLWdrdkkycVV5bU9UNWNxQmVfUXJXSVZDQQ",
+  "snippet": "Trump The Grand Junction Daily Sentinel",
+  "published": "2026-11-26T23:20:11+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T19:41:03.355273+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "d74e79f25e",
   "slug": "at-least-104-femicides-recorded-in-iran-over-the-past-year-d74e79f25e",
   "title": "At Least 104 Femicides Recorded in Iran Over the Past Year",
@@ -15433,35 +15462,6 @@
   "source_note": "excerpt only · 26 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "4a86efea10",
-  "slug": "why-ai-is-paramount-to-optimizing-air-cargo-4a86efea10",
-  "title": "Why AI Is Paramount to Optimizing Air Cargo",
-  "orig_title": "Why AI Is Paramount to Optimizing Air Cargo",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "FreightWaves",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWY3RmRWZTVRbDNSdUNhZC1keVp5Z3N3UFFiODlyOE00aHZ3cEdDODhXcTdjNHNfX0pmcHFaT1ZYNE8yZU5JelNVUGZENlh0RnN4N05jSzNqbEhKRlJhV2d3TE5OQ190akNtR1I0Yk1SUTJ1TE05MHBUdnMxcEJHa3JqWQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWY3RmRWZTVRbDNSdUNhZC1keVp5Z3N3UFFiODlyOE00aHZ3cEdDODhXcTdjNHNfX0pmcHFaT1ZYNE8yZU5JelNVUGZENlh0RnN4N05jSzNqbEhKRlJhV2d3TE5OQ190akNtR1I0Yk1SUTJ1TE05MHBUdnMxcEJHa3JqWQ",
-  "snippet": "Why AI Is Paramount to Optimizing Air Cargo FreightWaves",
-  "published": "2026-11-23T19:22:28+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T19:31:04.269388+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "ocean/air freight with no North American trucking link"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "f219319f35",
