@@ -5011,6 +5011,34 @@
     "created": "2026-11-27T15:21:22+0000",
     "at": "2026-11-27T15:31:21.163844+00:00"
    }
+  },
+  "d7abef13a6": {
+   "story_id": "d7abef13a6",
+   "title": "Make hay before Christmas: Spot rates up | Pete's used-truck warranty options",
+   "url_key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFlHTFVzSzFjNU1DaExtR2FzMzdEbG9WZlk0dkJ6NVktdk1IQXVmcDVMZlVHT1F4aE9QV1pLallCOXM4M3EyclUtRS1QeEdpcDJwSkdyLVhFSEQ2TGx4ZWtZb2RCSGcxY0NLT0JPRFBPMXlvdllHbVF3NFRKem82bnF0N1VYeFhTQ1hvYWM3c1dBd2xhTzBuZmt0NHFGXzFwdmFDdG5haUE0R2o1ZE5KM0NwVGoxQjc5TE1R",
+   "category": "rates",
+   "source": "Overdrive Magazine",
+   "dest": "https://haultimes.com/story/make-hay-before-christmas-spot-rates-up-pete-s-used-truck-warranty-opt-d7abef13a6/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=d7abef13a6",
+   "caption": "Make hay before Christmas: Spot rates up | Pete's used-truck warranty options.\n\nReported by Overdrive Magazine. The link has the details and the original article.\n\n#Trucking #Freight #FreightRates #HaulTimes",
+   "status": "queued",
+   "created_at": "2026-11-27T16:51:23.967795+00:00",
+   "published": "2026-11-27T16:39:41+00:00",
+   "score": 67,
+   "attempts": 0,
+   "errors": [],
+   "post_id": null,
+   "posted_at": null,
+   "next_attempt_at": null,
+   "preview": {
+    "og:title": "Make hay before Christmas: Spot rates up | Pete's used-truck warranty options | HaulTimes",
+    "og:description": "Reported by Overdrive Magazine. Read the original article and more US and Canada trucking news on HaulTimes.",
+    "og:image": "https://haultimes.com/og/7ba11f488d.png",
+    "og:url": "https://haultimes.com/story/make-hay-before-christmas-spot-rates-up-pete-s-used-truck-warranty-opt-d7abef13a6/"
+   },
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication",
+   "breaking": null,
+   "edited": false,
+   "wait_summary": false
   }
  },
  "paused": null,
@@ -6249,7 +6277,8 @@
   "382ed04054": "skipped|importance 50 is below this platform's threshold (65)",
   "97c83f8f24": "skipped|importance 57 is below this platform's threshold (65)",
   "9662a668a3": "posted|importance 66 (threshold 65), Industry, trade publication; waited 19 min in queue",
-  "04855cff0a": "skipped|importance 56 is below this platform's threshold (65)"
+  "04855cff0a": "skipped|importance 56 is below this platform's threshold (65)",
+  "d7abef13a6": "queued|importance 67 (threshold 65), Rates & Market, trade publication"
  },
  "decisions": [
   {
@@ -12859,6 +12888,13 @@
    "title": "ATRI Extends Driver Health Survey Deadline to Dec. 4",
    "action": "skipped",
    "reason": "importance 56 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-27T16:51:23.967795+00:00",
+   "story_id": "d7abef13a6",
+   "title": "Make hay before Christmas: Spot rates up | Pete's used-truck warranty options",
+   "action": "queued",
+   "reason": "importance 67 (threshold 65), Rates & Market, trade publication"
   }
  ],
  "visibility": {
