@@ -7509,6 +7509,35 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
+  "id": "89735ad29d",
+  "slug": "natroad-calls-to-suspend-heavy-vehicle-road-charge-89735ad29d",
+  "title": "NatRoad Calls to Suspend Heavy Vehicle Road Charge",
+  "orig_title": "NatRoad Calls to Suspend Heavy Vehicle Road Charge",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZHdIQXp0aGlDTkxRMjRtMU1XdkwxOWU5TFljT181V0QyQWVlOF9BdjBYWWozazZqZTdtR3FIZFFwUVFKdnRLTlZWVUNWcENfNi1USTI4djV6OGREUXZqaVBCTUs2ZlNfS1BKQ3htRzdrdkFNM0ZVRFJuT3p4RVJNZDhDNWllSVJ1ZVpqRGNvQVlzcWs?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZHdIQXp0aGlDTkxRMjRtMU1XdkwxOWU5TFljT181V0QyQWVlOF9BdjBYWWozazZqZTdtR3FIZFFwUVFKdnRLTlZWVUNWcENfNi1USTI4djV6OGREUXZqaVBCTUs2ZlNfS1BKQ3htRzdrdkFNM0ZVRFJuT3p4RVJNZDhDNWllSVJ1ZVpqRGNvQVlzcWs",
+  "snippet": "NatRoad Calls to Suspend Heavy Vehicle Road Charge Wisevoter",
+  "published": "2026-11-25T08:07:42+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T17:01:04.321833+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "92172d04ab",
   "slug": "the-holiday-supply-chain-lesson-plan-to-a-longer-horizon-92172d04ab",
   "title": "The Holiday Supply Chain Lesson: Plan to a Longer Horizon",
@@ -16620,35 +16649,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.ajot.com/premium/ajot-refrigerated-trucking-rates-rising-for-the-holidays-despite-falling-produce-volumes",
   "source_note": "ok · 1393 words"
- },
- {
-  "id": "fefabf89ec",
-  "slug": "children-s-place-gymboree-liquidating-canadian-stores-seeking-buyer-fefabf89ec",
-  "title": "Children's Place, Gymboree liquidating Canadian stores, seeking buyer",
-  "orig_title": "Children's Place, Gymboree liquidating Canadian stores, seeking buyer",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "thecanadianpressnews.ca",
-  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdDY1UXI1VU5vdU1GWFV1NHBuOGZHZC14ZDlZRDE2Q2tPcG9tUlhJQ3R5TG1yeERHeWEyZE9zUEs0c0Y4eUZiWC1ROFMxSGJUVEhaeldGbTA2YzNYbmR0VGwwNmxHVmppYzdUVy04aGRVRFI0b3AtaUFnelpSYnZ0dzdqU0Y3T3FnNm5JTGNYZXBPNWtnSVNKOTNSOGJWWXA4Q3gxSUJkUUp0SFk3T085ZnVlS0VyNjA5Z05pcHJQUHEyXzBhMkRvajc5UDFsVG9qdUV2d1JweFEtd2FqVW9BRnBlQnNTZzJqUEdzY0ZRTWFHU2M?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdDY1UXI1VU5vdU1GWFV1NHBuOGZHZC14ZDlZRDE2Q2tPcG9tUlhJQ3R5TG1yeERHeWEyZE9zUEs0c0Y4eUZiWC1ROFMxSGJUVEhaeldGbTA2YzNYbmR0VGwwNmxHVmppYzdUVy04aGRVRFI0b3AtaUFnelpSYnZ0dzdqU0Y3T3FnNm5JTGNYZXBPNWtnSVNKOTNSOGJWWXA4Q3gxSUJkUUp0SFk3T085ZnVlS0VyNjA5Z05pcHJQUHEyXzBhMkRvajc5UDFsVG9qdUV2d1JweFEtd2FqVW9BRnBlQnNTZzJqUEdzY0ZRTWFHU2M",
-  "snippet": "Children's Place, Gymboree liquidating Canadian stores, seeking buyer thecanadianpressnews.ca",
-  "published": "2026-11-23T15:06:57+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T16:51:04.457691+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "0822dfda88",
