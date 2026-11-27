@@ -4982,14 +4982,14 @@
    "source": "FreightWaves",
    "dest": "https://haultimes.com/story/weekly-us-rail-freight-climbs-4-7-as-intermodal-surges-8-3-9662a668a3/?utm_source=facebook&utm_medium=organic_social&utm_campaign=story&utm_content=9662a668a3",
    "caption": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%.\n\nReported by FreightWaves. The link has the details and the original article.\n\n#Trucking #Logistics #TruckingNews #HaulTimes",
-   "status": "queued",
+   "status": "posted",
    "created_at": "2026-11-27T15:01:28.094559+00:00",
    "published": "2026-11-27T14:45:31+00:00",
    "score": 66,
-   "attempts": 0,
+   "attempts": 1,
    "errors": [],
-   "post_id": null,
-   "posted_at": null,
+   "post_id": "1476615495528085_122113457469544428",
+   "posted_at": "2026-11-27T15:21:22.021919+00:00",
    "next_attempt_at": null,
    "preview": {
     "og:title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3% | HaulTimes",
@@ -5000,7 +5000,9 @@
    "reason": "importance 66 (threshold 65), Industry, trade publication",
    "breaking": null,
    "edited": false,
-   "wait_summary": false
+   "wait_summary": false,
+   "last_attempt_at": "2026-11-27T15:21:22.021919+00:00",
+   "post_url": "https://www.facebook.com/1476615495528085_122113457469544428"
   }
  },
  "paused": null,
@@ -5437,6 +5439,10 @@
   {
    "at": "2026-11-27T14:51:27.693966+00:00",
    "msg": "credentials OK: connected to HaulTimes"
+  },
+  {
+   "at": "2026-11-27T15:21:22.021919+00:00",
+   "msg": "posted 9662a668a3"
   }
  ],
  "decided": {
@@ -6234,7 +6240,7 @@
   "20e2b75bc1": "posted|importance 71 (threshold 65), Industry, local/other outlet; waited 189 min in queue",
   "382ed04054": "skipped|importance 50 is below this platform's threshold (65)",
   "97c83f8f24": "skipped|importance 57 is below this platform's threshold (65)",
-  "9662a668a3": "queued|importance 66 (threshold 65), Industry, trade publication"
+  "9662a668a3": "posted|importance 66 (threshold 65), Industry, trade publication; waited 19 min in queue"
  },
  "decisions": [
   {
@@ -12830,6 +12836,13 @@
    "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
    "action": "queued",
    "reason": "importance 66 (threshold 65), Industry, trade publication"
+  },
+  {
+   "at": "2026-11-27T15:21:22.021919+00:00",
+   "story_id": "9662a668a3",
+   "title": "Weekly US rail freight climbs 4.7% as intermodal surges 8.3%",
+   "action": "posted",
+   "reason": "importance 66 (threshold 65), Industry, trade publication; waited 19 min in queue"
   }
  ],
  "visibility": {
