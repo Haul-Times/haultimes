@@ -6368,7 +6368,8 @@
   "3112390449": "skipped|importance 50 is below this platform's threshold (65)",
   "e9b4602405": "posted|importance 67 (threshold 65), Fuel, trade publication; waited 10 min in queue",
   "e0c4b2aa09": "skipped|minor item (feature) or low-quality source",
-  "f02d045295": "queued|importance 73 (threshold 65), Cross-Border, trade publication"
+  "f02d045295": "queued|importance 73 (threshold 65), Cross-Border, trade publication",
+  "6b302ef619": "skipped|importance 60 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -13041,6 +13042,13 @@
    "title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
    "action": "queued",
    "reason": "importance 73 (threshold 65), Cross-Border, trade publication"
+  },
+  {
+   "at": "2026-11-27T20:51:26.924530+00:00",
+   "story_id": "6b302ef619",
+   "title": "After 50 years behind the wheel, Willis looks back on the trucking industry he grew up in",
+   "action": "skipped",
+   "reason": "importance 60 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
