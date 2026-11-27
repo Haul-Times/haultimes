@@ -1,5 +1,34 @@
 [
  {
+  "id": "16bc729d55",
+  "slug": "shipping-handling-brew-16bc729d55",
+  "title": "Shipping & Handling Brew",
+  "orig_title": "Shipping & Handling Brew",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Morning Brew",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ySTV1XzljanZVTXd5RXhlXzAzc2RkUmcwcWZLblVXWWFPTUZndGpCTloweGxYbVRLa3RiSS1aLWM2Smh0NlRrU3ZpeENFXzEwdWxjaDgyalpuQ19EYTlwZmYxN2twejdtNVZvZXVn?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ySTV1XzljanZVTXd5RXhlXzAzc2RkUmcwcWZLblVXWWFPTUZndGpCTloweGxYbVRLa3RiSS1aLWM2Smh0NlRrU3ZpeENFXzEwdWxjaDgyalpuQ19EYTlwZmYxN2twejdtNVZvZXVn",
+  "snippet": "Shipping & Handling Brew Morning Brew",
+  "published": "2026-11-27T11:26:59+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T11:41:03.772612+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "c29064d611",
   "slug": "5-philadelphia-men-convicted-in-1-5m-cargo-theft-ring-for-stealing-fro-c29064d611",
   "title": "5 Philadelphia men convicted in $1.5M cargo theft ring for stealing frozen crab legs, TVs and over $230K in US dimes",
@@ -19397,35 +19426,6 @@
   "sum_v3": true
  },
  {
-  "id": "aecd35c526",
-  "slug": "alberta-crime-strathmore-man-arrested-following-crime-spree-across-mul-aecd35c526",
-  "title": "Alberta Crime: Strathmore man arrested following crime spree across multiple jurisdictions",
-  "orig_title": "Alberta Crime: Strathmore man arrested following crime spree across multiple jurisdictions",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZHB4X1V6d2hLQV82YjAyQ2h0NWxOR2NKZmRIT2tqQUw1TUpONVY1dUhwRVFDWWtBeXc5bFo0WDhuTFJPV3lQaGJQUm1XVnFhNVZqU3V5NV9DSUtKWlp1VldHWk5ScVZjREZxUGdwaEp5cUhJMTI2SEFFMTNMZF9oSHRuaWcyamlkbFlnc0x0Vml1eFAtRzl4cnBjaDBCTTJNVk5jWUllR1lXN0RwMkQ0S0E3WXpJTjFtQTkwVzFsc3pGTzg0VHc?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZHB4X1V6d2hLQV82YjAyQ2h0NWxOR2NKZmRIT2tqQUw1TUpONVY1dUhwRVFDWWtBeXc5bFo0WDhuTFJPV3lQaGJQUm1XVnFhNVZqU3V5NV9DSUtKWlp1VldHWk5ScVZjREZxUGdwaEp5cUhJMTI2SEFFMTNMZF9oSHRuaWcyamlkbFlnc0x0Vml1eFAtRzl4cnBjaDBCTTJNVk5jWUllR1lXN0RwMkQ0S0E3WXpJTjFtQTkwVzFsc3pGTzg0VHc",
-  "snippet": "Alberta Crime: Strathmore man arrested following crime spree across multiple jurisdictions CTV News",
-  "published": "2026-11-20T20:35:41+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T11:31:07.412363+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "3eb7d23d2d",
   "slug": "weigh-station-blitz-500-plus-violations-prison-for-cargo-thief-3eb7d23d2d",
   "title": "Weigh station blitz 500-plus violations | Prison for cargo thief",
@@ -19455,35 +19455,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "9bc7f1c72b",
-  "slug": "the-holiday-train-delivers-cheer-as-it-picks-up-donations-across-canad-9bc7f1c72b",
-  "title": "The holiday train delivers cheer as it picks up donations across Canada",
-  "orig_title": "The holiday train delivers cheer as it picks up donations across Canada",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEdKdmh6R1djRUlWWEFVbXdXRU4tT2xJdS0wMzktUnV6ektwQ25lYkRGeHBhMUo4NWNsZVhSYUxCTHljSFNselQxbjhhS1NsOXRfaE9DX1JoWHJHamRNeloyMHlkb0M5VFhBUVJ6LXMzT3h1SlJDNE5maDBXeUc3WTJhdEd3eEtwUGtqZ28tOUVGRWNGWWNfTFlDNV9TZVItaW1SSndwWjM5SmFtR2dxaFhWNUtteTZ4cXRpQw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEdKdmh6R1djRUlWWEFVbXdXRU4tT2xJdS0wMzktUnV6ektwQ25lYkRGeHBhMUo4NWNsZVhSYUxCTHljSFNselQxbjhhS1NsOXRfaE9DX1JoWHJHamRNeloyMHlkb0M5VFhBUVJ6LXMzT3h1SlJDNE5maDBXeUc3WTJhdEd3eEtwUGtqZ28tOUVGRWNGWWNfTFlDNV9TZVItaW1SSndwWjM5SmFtR2dxaFhWNUtteTZ4cXRpQw",
-  "snippet": "The holiday train delivers cheer as it picks up donations across Canada CTV News",
-  "published": "2026-11-20T20:25:35+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T11:31:07.412363+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "d9e5b6a70d",
@@ -20506,35 +20477,6 @@
   "sum_problems": [],
   "ai_category": "regs",
   "ai_importance": 70
- },
- {
-  "id": "0a3b1ddc22",
-  "slug": "one-for-the-books-here-s-your-boots-and-hearts-2027-headliners-0a3b1ddc22",
-  "title": "‘One for the books’: Here’s your Boots and Hearts 2027 headliners",
-  "orig_title": "‘One for the books’: Here’s your Boots and Hearts 2027 headliners",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CTV News",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjRydEoxNFNUczQxQmwtRlBnb2FORXJqendqRzNNSDlTRm5EdzRTRHlpWHRCbUFPT2RkMVZBZkk0UlFodnFpT1hwS0xRV0xBNi1WUVZ0eFZ2elA3a091Vm5CbmZ5dWJ5ZGV5STlnMDA5UzJwVEowXzF2cXRaQ0JtVE51Wi1PWFBEQXhZQnVKZ3ZPMDk0MGVReFJzbldjRFAxQ0E?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjRydEoxNFNUczQxQmwtRlBnb2FORXJqendqRzNNSDlTRm5EdzRTRHlpWHRCbUFPT2RkMVZBZkk0UlFodnFpT1hwS0xRV0xBNi1WUVZ0eFZ2elA3a091Vm5CbmZ5dWJ5ZGV5STlnMDA5UzJwVEowXzF2cXRaQ0JtVE51Wi1PWFBEQXhZQnVKZ3ZPMDk0MGVReFJzbldjRFAxQ0E",
-  "snippet": "‘One for the books’: Here’s your Boots and Hearts 2027 headliners CTV News",
-  "published": "2026-11-20T13:00:07+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T11:31:07.412363+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "a02921b898",
