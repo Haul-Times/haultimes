@@ -1,5 +1,34 @@
 [
  {
+  "id": "e99caec6b5",
+  "slug": "daily-protests-in-iran-as-tehran-pushes-workers-to-pay-for-crisis-e99caec6b5",
+  "title": "Daily protests in Iran as Tehran pushes workers to pay for crisis",
+  "orig_title": "Daily protests in Iran as Tehran pushes workers to pay for crisis",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Militant",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWJzYnVCaHFjY3JNbWFLcXRxTC1RX0VVT1k2Q3c2WEVpcjRaWkRMVk43YmdIZngyRk9GTTRId1BoeXBoS3RMdXI3TkNwSnZzRXY2Q0RUcmtBQ0NVeVhucnJndTR5UElrTTNtZnFTbTBqRTk4LWxGSUprRXRIWUZ4OWJVTS1PT0FwQ3JlUnNFOXlabUZTclM1ZDhsbzRrQWJzdTFF?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWJzYnVCaHFjY3JNbWFLcXRxTC1RX0VVT1k2Q3c2WEVpcjRaWkRMVk43YmdIZngyRk9GTTRId1BoeXBoS3RMdXI3TkNwSnZzRXY2Q0RUcmtBQ0NVeVhucnJndTR5UElrTTNtZnFTbTBqRTk4LWxGSUprRXRIWUZ4OWJVTS1PT0FwQ3JlUnNFOXlabUZTclM1ZDhsbzRrQWJzdTFF",
+  "snippet": "Daily protests in Iran as Tehran pushes workers to pay for crisis The Militant",
+  "published": "2026-11-27T21:35:06+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-27T21:41:03.381797+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "1e269f2964",
   "slug": "japan-s-recruitment-of-foreign-truck-drivers-at-just-4-of-goal-1e269f2964",
   "title": "Japan's recruitment of foreign truck drivers at just 4% of goal",
@@ -15636,35 +15665,6 @@
   ],
   "labels": [],
   "kind": "rejected",
-  "sum_pending": false
- },
- {
-  "id": "e88d160263",
-  "slug": "get-a-grip-officials-approve-new-chain-up-assistance-program-e88d160263",
-  "title": "Get a grip: Officials approve new chain-up assistance program",
-  "orig_title": "Get a grip: Officials approve new chain-up assistance program",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 30,
-  "source": "Land Line Media",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmR1NGRLcmhpNlhSZ1gzTE1GaWRReXRabGk1clN1Vk0tOGk3ZVBaWHZWamxSa1BMWS04eFBMeG1MbkpUWl9OZjFIeGowb2hYRWtqNWM2eWNNcGFiRUJtajloNGktNktqazNES0pLU19WTHpIVlFoRGtDN0xLNEZiclhKdE5JdzdrV1hYag?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmR1NGRLcmhpNlhSZ1gzTE1GaWRReXRabGk1clN1Vk0tOGk3ZVBaWHZWamxSa1BMWS04eFBMeG1MbkpUWl9OZjFIeGowb2hYRWtqNWM2eWNNcGFiRUJtajloNGktNktqazNES0pLU19WTHpIVlFoRGtDN0xLNEZiclhKdE5JdzdrV1hYag",
-  "snippet": "Get a grip: Officials approve new chain-up assistance program Land Line Media",
-  "published": "2026-11-23T19:26:49+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T21:31:05.586062+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "review",
-  "reasons": [
-   "trade-press story with no clear trucking keyword"
-  ],
-  "labels": [],
-  "kind": "review",
   "sum_pending": false
  },
  {
