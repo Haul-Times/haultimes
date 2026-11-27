@@ -6185,7 +6185,8 @@
   "f23a8e3e7c": "skipped|importance 57 is below this platform's threshold (65)",
   "ceb0ccab11": "skipped|importance 56 is below this platform's threshold (65)",
   "0b0a9862df": "skipped|importance 45 is below this platform's threshold (65)",
-  "20e2b75bc1": "queued|importance 71 (threshold 65), Industry, local/other outlet"
+  "20e2b75bc1": "queued|importance 71 (threshold 65), Industry, local/other outlet",
+  "382ed04054": "skipped|importance 50 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12753,6 +12754,13 @@
    "title": "East Coast Diesel Stocks Hit Record Low as Trucking Costs Surge",
    "action": "queued",
    "reason": "importance 71 (threshold 65), Industry, local/other outlet"
+  },
+  {
+   "at": "2026-11-27T08:21:36.543900+00:00",
+   "story_id": "382ed04054",
+   "title": "8 Technological Changes Transforming the Trucking Industry",
+   "action": "skipped",
+   "reason": "importance 50 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
