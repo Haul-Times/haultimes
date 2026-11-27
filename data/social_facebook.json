@@ -6186,7 +6186,8 @@
   "ceb0ccab11": "skipped|importance 56 is below this platform's threshold (65)",
   "0b0a9862df": "skipped|importance 45 is below this platform's threshold (65)",
   "20e2b75bc1": "queued|importance 71 (threshold 65), Industry, local/other outlet",
-  "382ed04054": "skipped|importance 50 is below this platform's threshold (65)"
+  "382ed04054": "skipped|importance 50 is below this platform's threshold (65)",
+  "97c83f8f24": "skipped|importance 57 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -12761,6 +12762,13 @@
    "title": "8 Technological Changes Transforming the Trucking Industry",
    "action": "skipped",
    "reason": "importance 50 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-27T10:51:31.201885+00:00",
+   "story_id": "97c83f8f24",
+   "title": "Brazen $1.5M cargo theft ring was stealing TVs, fridges, $230K in dimes and crab legs",
+   "action": "skipped",
+   "reason": "importance 57 is below this platform's threshold (65)"
   }
  ],
  "visibility": {
