@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-28T07:31:39.465793+00:00",
+ "updated": "2026-11-28T07:41:07.454124+00:00",
  "hour_now": 2,
  "have_us": true,
- "have_ca": false,
+ "have_ca": true,
  "crossings": [
   {
    "id": "ambassador",
@@ -17,7 +17,11 @@
     "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 18:25 EST"
+   },
    "usual": {
     "south": [
      3,
@@ -88,7 +92,11 @@
     "updated": "At 3:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 01:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -159,7 +167,11 @@
     "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 02:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -227,10 +239,14 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:17 am EST",
+    "updated": "At 2:27 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-28 02:20 EST"
+   },
    "usual": {
     "south": [
      8,
@@ -298,10 +314,14 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:17 am EST",
+    "updated": "At 2:27 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 4,
+    "status": "4 minutes",
+    "updated": "2026-11-28 02:20 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -369,10 +389,14 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:29:55",
+    "updated": "02:39:56",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 01:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -443,7 +467,11 @@
     "updated": "At 4:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 02:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -514,7 +542,11 @@
     "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 02:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -582,10 +614,14 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:29:55",
+    "updated": "01:39:56",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 01:15 CDT"
+   },
    "usual": {
     "south": [
      0,
@@ -653,10 +689,14 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "02:29:55",
+    "updated": "02:39:56",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 01:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -727,7 +767,11 @@
     "updated": "At 1:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 01:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -791,14 +835,18 @@
    "ports": "Derby Line, VT ↔ Stanstead, QC",
    "region": "qc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "02:29:55",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 02:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -869,7 +917,11 @@
     "updated": "At 2:00 am EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 03:15 AST"
+   },
    "usual": {
     "south": [
      0,
@@ -937,10 +989,14 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "02:29:55",
+    "updated": "02:39:56",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": null,
+    "status": "Not Applicable",
+    "updated": "2026-11-28 02:48 AST"
+   },
    "usual": {
     "south": [
      null,
@@ -1008,10 +1064,14 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "01:29:55",
+    "updated": "01:39:56",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 01:15 CDT"
+   },
    "usual": {
     "south": [
      4,
@@ -1075,7 +1135,11 @@
    "ports": "Portal, ND ↔ North Portal, SK",
    "region": "pra",
    "south": null,
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 01:15 CST"
+   },
    "usual": {
     "south": [
      null,
@@ -1143,10 +1207,14 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:29:56",
+    "updated": "00:39:56",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 00:15 MDT"
+   },
    "usual": {
     "south": [
      0,
@@ -1217,7 +1285,11 @@
     "updated": "At 11:00 pm PST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 5,
+    "status": "5 minutes",
+    "updated": "2026-11-28 00:20 PDT"
+   },
    "usual": {
     "south": [
      0,
@@ -1288,7 +1360,11 @@
     "updated": "At 10:00 pm PST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-28 00:20 PDT"
+   },
    "usual": {
     "south": [
      0,
@@ -1406,10 +1482,61 @@
    },
    {
     "name": "Norton",
-    "wait": null,
-    "status": "Update Pending"
+    "wait": 0,
+    "status": "no delay"
    }
   ],
-  "north": []
+  "north": [
+   {
+    "name": "St. Stephen 3rd Bridge",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Edmundston",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "St-Bernard-de-Lacolle",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Hemmingford",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Rainbow Bridge",
+    "wait": null,
+    "status": "Not Applicable"
+   },
+   {
+    "name": "Windsor and Detroit Tunnel",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Gordie Howe International Bridge",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Aldergrove",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Douglas",
+    "wait": null,
+    "status": "Not Applicable"
+   },
+   {
+    "name": "Boundary Bay",
+    "wait": 0,
+    "status": "No Delay"
+   }
+  ]
  }
 }
