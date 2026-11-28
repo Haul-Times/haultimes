@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:11:05.508930+00:00",
+ "updated": "2026-11-28T08:21:04.141751+00:00",
  "hour_now": 3,
  "have_us": true,
  "have_ca": true,
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 2:57 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -278,7 +278,7 @@
      10,
      4,
      5,
-     9,
+     8,
      6,
      4,
      15,
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 2:57 am EST",
+    "updated": "At 3:07 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "03:04:59",
+    "updated": "03:14:59",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -539,7 +539,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 2:00 am EST",
+    "updated": "At 5:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -614,7 +614,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:04:59",
+    "updated": "02:14:59",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Lanes Closed",
-    "updated": "03:04:59",
+    "updated": "03:14:59",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "03:04:59",
+    "updated": "03:14:59",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1064,7 +1064,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "02:04:59",
+    "updated": "02:15:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1278,11 +1278,11 @@
    "ports": "Blaine, WA ↔ Surrey, BC",
    "region": "bc",
    "south": {
-    "wait": null,
+    "wait": 0,
     "fast_wait": null,
-    "lanes": "",
-    "status": "Update Pending",
-    "updated": "00:04:59",
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 2:00 am PST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1321,7 +1321,7 @@
      6,
      6,
      7,
-     14,
+     13,
      6,
      5,
      7,
@@ -1357,7 +1357,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "00:04:59",
+    "updated": "00:15:00",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1428,7 +1428,7 @@
    {
     "name": "Blaine Peace Arch",
     "wait": null,
-    "status": "Update Pending"
+    "status": "N/A"
    },
    {
     "name": "Blaine Point Roberts",

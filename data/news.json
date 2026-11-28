@@ -14268,35 +14268,6 @@
   "sum_pending": false
  },
  {
-  "id": "f26949927d",
-  "slug": "dow-futures-mini-ymu23-quote-f26949927d",
-  "title": "Dow Futures Mini (YMU23) Quote",
-  "orig_title": "Dow Futures Mini (YMU23) Quote",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSV93bDFQSEoxLU1LVTY3MHYxZ2QwZTJFWnpuZ1A1WlVEUDhOTkVscnNOMVR0cWV4WjRUb244NGRJY0k3OEFhQVdBeXc3UVlmSDl3Z0cyZFNmNzVYMFlyVnBBY1gxMjlLcGxGbTVveEFfR1dRbXhodERCbzRDdWVhU0tpSWMyVkRnRUE?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSV93bDFQSEoxLU1LVTY3MHYxZ2QwZTJFWnpuZ1A1WlVEUDhOTkVscnNOMVR0cWV4WjRUb244NGRJY0k3OEFhQVdBeXc3UVlmSDl3Z0cyZFNmNzVYMFlyVnBBY1gxMjlLcGxGbTVveEFfR1dRbXhodERCbzRDdWVhU0tpSWMyVkRnRUE",
-  "snippet": "Dow Futures Mini (YMU23) Quote The Globe and Mail",
-  "published": "2026-11-24T07:34:46+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T08:21:02.110436+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "53de42eca6",
   "slug": "s-p-500-index-inx-profile-press-releases-53de42eca6",
   "title": "S&P 500 Index (INX) Profile - Press Releases",
