@@ -1,5 +1,62 @@
 [
  {
+  "id": "21c9f66f32",
+  "slug": "sharjah-police-warn-truck-drivers-of-dh1-500-fine-and-12-black-points-21c9f66f32",
+  "title": "Sharjah Police warn truck drivers of Dh1,500 fine and 12 black points for lane violations",
+  "orig_title": "Sharjah Police warn truck drivers of Dh1,500 fine and 12 black points for lane violations",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "Other",
+  "importance": 45,
+  "source": "Gulf News",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNejRYVF9QQTk1SWZsYW43UjFMQmFDaEktOC1JUGYzZ19zcHhIUEg5U2c5Q0QzQThJbnF4Vy15VGNrcTJnUGE4VmpoQlViUDZwdTFaZEg1OVdBeVI2cmlJTFVvNzB6VG94WVVRRmxfS19hdHpHT3lYdTlmUXp2YURXaXZ1RFAyM2RrU25uRWFya1hxOHctVGh0S1lYbUNPczVrdlVEcWRBaTJfOGFtcWMtbEE5Zm1ZZFVUOFRiUW1wYVh3MUZoUVdJTWFOenVGTmJyOF96QzQzWE54bTloR25HSElJX20zXzZ3cWthNGJoM0_SAfABQVVfeXFMTXo0WFRfUEE5NUlmbGFuN1IxTEJhQ2hJLTgtSVBmM2dfc3B4SFBIOVNnOUNEM0E4SW5xeFcteVRja3EyZ1BhOFZqaEJVYlA2cHUxWmRINTlXQXlSNnJpSUxVbzcwelRveFlVUUZsX0tfYXR6R095WHU5ZlF6dmFEV2l2dURQMjNka1NubkVhcmtYcTh3LVRodEtZWG1DT3M1a3ZVRHFkQWkyXzhhbXFjLWxBOWZtWWRVVDhUYlFtcGFYdzFGaFFXSU1hTnp1Rk5icjhfekM0M1hOeG05aEduR0hJSV9tM182d3FrYTRiaDNP?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNejRYVF9QQTk1SWZsYW43UjFMQmFDaEktOC1JUGYzZ19zcHhIUEg5U2c5Q0QzQThJbnF4Vy15VGNrcTJnUGE4VmpoQlViUDZwdTFaZEg1OVdBeVI2cmlJTFVvNzB6VG94WVVRRmxfS19hdHpHT3lYdTlmUXp2YURXaXZ1RFAyM2RrU25uRWFya1hxOHctVGh0S1lYbUNPczVrdlVEcWRBaTJfOGFtcWMtbEE5Zm1ZZFVUOFRiUW1wYVh3MUZoUVdJTWFOenVGTmJyOF96QzQzWE54bTloR25HSElJX20zXzZ3cWthNGJoM0_SAfABQVVfeXFMTXo0WFRfUEE5NUlmbGFuN1IxTEJhQ2hJLTgtSVBmM2dfc3B4SFBIOVNnOUNEM0E4SW5xeFcteVRja3EyZ1BhOFZqaEJVYlA2cHUxWmRINTlXQXlSNnJpSUxVbzcwelRveFlVUUZsX0tfYXR6R095WHU5ZlF6dmFEV2l2dURQMjNka1NubkVhcmtYcTh3LVRodEtZWG1DT3M1a3ZVRHFkQWkyXzhhbXFjLWxBOWZtWWRVVDhUYlFtcGFYdzFGaFFXSU1hTnp1Rk5icjhfekM0M1hOeG05aEduR0hJSV9tM182d3FrYTRiaDNP",
+  "snippet": "Sharjah Police warn truck drivers of Dh1,500 fine and 12 black points for lane violations Gulf News",
+  "published": "2026-11-28T08:13:15+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T09:11:03.009896+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "Claude judged it off-topic"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://gulfnews.com/amp/story/living-in-uae%2Ftransport%2Fsharjah-police-warn-truck-drivers-of-dh1500-fine-and-12-black-points-for-lane-violations-1.500764015",
+  "source_note": "ok · 200 words",
+  "sum_done": true,
+  "sum_status": "irrelevant",
+  "source_fp": "70927613c9232698",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-28T09:11:03.009896+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "could result in a Dh1,500 fine and 12 black points"
+   },
+   {
+    "sentence": "2",
+    "quote": "must refrain from overtaking in congested traffic"
+   },
+   {
+    "sentence": "3",
+    "quote": "move their trucks to the far-right side of the road"
+   }
+  ],
+  "sum_problems": [],
+  "ai_category": "regs",
+  "ai_importance": 8,
+  "ai_relevant": false
+ },
+ {
   "id": "1348975a4d",
   "slug": "west-kenya-sugar-company-on-the-spot-over-ksh17-000-truck-drivers-sala-1348975a4d",
   "title": "West Kenya Sugar Company on the Spot Over KSh17,000 Truck Drivers’ Salaries, Unsafe Vehicles, Unpaid Wages and Workplace Intimidation at Naitiri Sugar Factory",
