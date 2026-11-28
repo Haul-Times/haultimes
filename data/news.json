@@ -1,5 +1,34 @@
 [
  {
+  "id": "a807cccf5f",
+  "slug": "the-opportunity-to-scale-lng-trucking-in-india-a807cccf5f",
+  "title": "The opportunity to scale LNG trucking in India",
+  "orig_title": "The opportunity to scale LNG trucking in India",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "International Gas Union",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVRMREl0b1p1aUhPOUpXQ1F6ekowc2FsWFRYYnp1V3dPNndrM3FuWXRSUFA1SnFOenZtR1AxQmJHcGYzdmlTQVpnRW9MM2RFaU9xa3pqX3Z6aGZaOWEtQjlxZWxlUDRVTEtfMFdXRXc2cWJpX0pfdnJILWRkYTI1YTNXN0VpdmQx?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVRMREl0b1p1aUhPOUpXQ1F6ekowc2FsWFRYYnp1V3dPNndrM3FuWXRSUFA1SnFOenZtR1AxQmJHcGYzdmlTQVpnRW9MM2RFaU9xa3pqX3Z6aGZaOWEtQjlxZWxlUDRVTEtfMFdXRXc2cWJpX0pfdnJILWRkYTI1YTNXN0VpdmQx",
+  "snippet": "The opportunity to scale LNG trucking in India International Gas Union",
+  "published": "2026-11-28T01:02:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T01:11:07.695346+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "b0d958d8e7",
   "slug": "amazon-s-new-clare-facility-prepares-for-holiday-rush-plans-seasonal-h-b0d958d8e7",
   "title": "Amazon’s new Clare facility prepares for holiday rush, plans seasonal hiring",
@@ -15091,35 +15120,6 @@
   "sum_problems": [],
   "ai_category": "drivers",
   "ai_importance": 45
- },
- {
-  "id": "8f3a308a23",
-  "slug": "heart-house-distribution-center-collecting-christmas-donations-for-flo-8f3a308a23",
-  "title": "Heart House distribution center collecting Christmas donations for flood victims in Weston",
-  "orig_title": "Heart House distribution center collecting Christmas donations for flood victims in Weston",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "WBOY.com",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOemMxaGVmaFVXUURkRTVLM0I4YmdNMG5Wc0RGNUxEUElzYmR0M3RGNFZ4NmsxTjJack5paG80U0UyNlV4ankwRmtLZ3pualBYUFItZlpQdGpObHVfcWpPUWVjU0JYS1BBak5tY1pQalhLNk1uMW82RHNOdzgtR3p1NlFVZ3JsTmZaQjJJVW4tcnZqVm9UanMwRVpZRFpIMm45TE5DUEh6M3lTNzdtekVBanNoMGdaNzRKUU10ckNtTzZlME9HX3c?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOemMxaGVmaFVXUURkRTVLM0I4YmdNMG5Wc0RGNUxEUElzYmR0M3RGNFZ4NmsxTjJack5paG80U0UyNlV4ankwRmtLZ3pualBYUFItZlpQdGpObHVfcWpPUWVjU0JYS1BBak5tY1pQalhLNk1uMW82RHNOdzgtR3p1NlFVZ3JsTmZaQjJJVW4tcnZqVm9UanMwRVpZRFpIMm45TE5DUEh6M3lTNzdtekVBanNoMGdaNzRKUU10ckNtTzZlME9HX3c",
-  "snippet": "Heart House distribution center collecting Christmas donations for flood victims in Weston WBOY.com",
-  "published": "2026-11-23T23:13:32+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T01:01:14.399006+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "25b110f243",
