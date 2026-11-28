@@ -13818,35 +13818,6 @@
   "sum_pending": false
  },
  {
-  "id": "93889afe69",
-  "slug": "the-self-driving-container-93889afe69",
-  "title": "The Self-Driving Container",
-  "orig_title": "The Self-Driving Container",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Changing Lanes | Andrew Miller",
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wclY3Nmk1RWJRVXY3eExkdzlrbE0yTGJWeTZNbjl5Y2I1NjR2MFY2aU84ZmprMHpjbDFkb0FBbzJHQ2dOelRTSGRRUnJZMHVHY090QlJxV1djaEc0eUQ5a19fd3lhbkJlS0NWTmo5aG1ibUd6clI4?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wclY3Nmk1RWJRVXY3eExkdzlrbE0yTGJWeTZNbjl5Y2I1NjR2MFY2aU84ZmprMHpjbDFkb0FBbzJHQ2dOelRTSGRRUnJZMHVHY090QlJxV1djaEc0eUQ5a19fd3lhbkJlS0NWTmo5aG1ibUd6clI4",
-  "snippet": "The Self-Driving Container Changing Lanes | Andrew Miller",
-  "published": "2026-11-24T12:04:30+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T12:11:03.249910+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "8db9c0ae02",
   "slug": "changes-to-inspection-rules-at-food-plants-putting-safety-at-risk-unio-8db9c0ae02",
   "title": "Changes to inspection rules at food plants putting safety at risk: union",
