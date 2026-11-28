@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-28T02:11:33.819240+00:00",
+ "updated": "2026-11-28T02:21:03.169943+00:00",
  "hour_now": 21,
  "have_us": true,
- "have_ca": false,
+ "have_ca": true,
  "crossings": [
   {
    "id": "ambassador",
@@ -14,10 +14,14 @@
     "fast_wait": null,
     "lanes": "3",
     "status": "no delay",
-    "updated": "At 8:00 pm EST",
+    "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 18:25 EST"
+   },
    "usual": {
     "south": [
      1,
@@ -88,7 +92,11 @@
     "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 19:41 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -156,10 +164,14 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 10:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 20:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -227,10 +239,14 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 9:00 pm EST",
+    "updated": "At 9:07 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 3,
+    "status": "3 minutes",
+    "updated": "2026-11-27 21:00 EST"
+   },
    "usual": {
     "south": [
      2,
@@ -280,7 +296,7 @@
      12,
      14,
      11,
-     10,
+     9,
      2,
      3
     ]
@@ -298,10 +314,14 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:00 pm EST",
+    "updated": "At 9:07 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 1,
+    "status": "1 minute",
+    "updated": "2026-11-27 21:00 EST"
+   },
    "usual": {
     "south": [
      2,
@@ -351,7 +371,7 @@
      13,
      20,
      22,
-     28,
+     25,
      16,
      7
     ]
@@ -369,10 +389,14 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "21:09:26",
+    "updated": "21:19:26",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 19:15 EST"
+   },
    "usual": {
     "south": [
      3,
@@ -443,7 +467,11 @@
     "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 20:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -511,10 +539,14 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 9:00 pm EST",
+    "updated": "At 11:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 20:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -585,7 +617,11 @@
     "updated": "At 7:00 pm CST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 19:15 CDT"
+   },
    "usual": {
     "south": [
      0,
@@ -656,7 +692,11 @@
     "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 21:04 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -727,7 +767,11 @@
     "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 20:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -798,7 +842,11 @@
     "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 20:15 EST"
+   },
    "usual": {
     "south": [
      0,
@@ -869,7 +917,11 @@
     "updated": "At 9:00 pm EST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 21:15 AST"
+   },
    "usual": {
     "south": [
      0,
@@ -937,10 +989,14 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "21:09:26",
+    "updated": "21:19:26",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": null,
+    "status": "Not Applicable",
+    "updated": "2026-11-27 20:56 AST"
+   },
    "usual": {
     "south": [
      null,
@@ -1011,7 +1067,11 @@
     "updated": "At 7:00 pm CST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 20:15 CDT"
+   },
    "usual": {
     "south": [
      0,
@@ -1075,7 +1135,11 @@
    "ports": "Portal, ND ↔ North Portal, SK",
    "region": "pra",
    "south": null,
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 19:34 CST"
+   },
    "usual": {
     "south": [
      null,
@@ -1146,7 +1210,11 @@
     "updated": "At 7:00 pm MST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 18:15 MDT"
+   },
    "usual": {
     "south": [
      0,
@@ -1170,7 +1238,7 @@
      9,
      25,
      34,
-     18,
+     23,
      0,
      0
     ],
@@ -1217,7 +1285,11 @@
     "updated": "At 6:00 pm PST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 5,
+    "status": "5 minutes",
+    "updated": "2026-11-27 19:00 PDT"
+   },
    "usual": {
     "south": [
      0,
@@ -1241,7 +1313,7 @@
      0,
      0,
      0,
-     1,
+     2,
      0,
      0
     ],
@@ -1288,7 +1360,11 @@
     "updated": "At 8:00 am PST",
     "hours": "24 hrs/day"
    },
-   "north": null,
+   "north": {
+    "wait": 0,
+    "status": "No Delay",
+    "updated": "2026-11-27 19:00 PDT"
+   },
    "usual": {
     "south": [
      0,
@@ -1312,7 +1388,7 @@
      5,
      5,
      5,
-     7,
+     6,
      6,
      0
     ],
@@ -1410,6 +1486,57 @@
     "status": "no delay"
    }
   ],
-  "north": []
+  "north": [
+   {
+    "name": "St. Stephen 3rd Bridge",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Edmundston",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "St-Bernard-de-Lacolle",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Hemmingford",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Rainbow Bridge",
+    "wait": null,
+    "status": "Not Applicable"
+   },
+   {
+    "name": "Windsor and Detroit Tunnel",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Gordie Howe International Bridge",
+    "wait": 5,
+    "status": "5 minutes"
+   },
+   {
+    "name": "Aldergrove",
+    "wait": 0,
+    "status": "No Delay"
+   },
+   {
+    "name": "Douglas",
+    "wait": null,
+    "status": "Not Applicable"
+   },
+   {
+    "name": "Boundary Bay",
+    "wait": 0,
+    "status": "No Delay"
+   }
+  ]
  }
 }
