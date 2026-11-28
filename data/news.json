@@ -145,6 +145,35 @@
   "sum_pending": false
  },
  {
+  "id": "b4cee4508e",
+  "slug": "dried-fish-recalled-due-to-botulism-risk-b4cee4508e",
+  "title": "Dried fish recalled due to botulism risk",
+  "orig_title": "Dried fish recalled due to botulism risk",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "KATC",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0ZRNXNCMFVxcURYYXVSY09VNTBQZEx6M1JRV29NQl9yNHJKWDVaRnRETG4za3FJblJHVXNZOEZJQ3h3WWtIM1o3Wm9CcWlWTVlhR0t2cjJ5TGJkMG9sUmM3LWkwM0tOYVFvZkRiMllGNXUwaUd6RmhxdzVueGN0VThFMXEybmU4UlVKZTE4cm1kMzg0Qm9FdFZuX0EtcDDSAZ8BQVVfeXFMTmtGUTVzQjBVcXFEWGF1UmNPVTUwUGRMejNSUVdvTUJfcjRySlg1WkZ0RExuM2txSW5SR1VzWThGSUN4d1lrSDNaN1pvQnFpVk1ZYUdLdnIyeUxiZDBvbFJjNy1pMDNLTmFRb2ZEYjJZRjV1MGlHekZocXc1bnhjdFU4RTFxMm5lOFJVSmUxOHJtZDM4NEJvRXRWbl9BLXAw?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0ZRNXNCMFVxcURYYXVSY09VNTBQZEx6M1JRV29NQl9yNHJKWDVaRnRETG4za3FJblJHVXNZOEZJQ3h3WWtIM1o3Wm9CcWlWTVlhR0t2cjJ5TGJkMG9sUmM3LWkwM0tOYVFvZkRiMllGNXUwaUd6RmhxdzVueGN0VThFMXEybmU4UlVKZTE4cm1kMzg0Qm9FdFZuX0EtcDDSAZ8BQVVfeXFMTmtGUTVzQjBVcXFEWGF1UmNPVTUwUGRMejNSUVdvTUJfcjRySlg1WkZ0RExuM2txSW5SR1VzWThGSUN4d1lrSDNaN1pvQnFpVk1ZYUdLdnIyeUxiZDBvbFJjNy1pMDNLTmFRb2ZEYjJZRjV1MGlHekZocXc1bnhjdFU4RTFxMm5lOFJVSmUxOHJtZDM4NEJvRXRWbl9BLXAw",
+  "snippet": "Dried fish recalled due to botulism risk KATC",
+  "published": "2026-11-27T22:56:36+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T05:11:03.213540+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "3c28515d9c",
   "slug": "ethiopia-ceasefire-reported-in-moyale-as-federal-forces-escort-300-ken-3c28515d9c",
   "title": "Ethiopia : Ceasefire Reported in Moyale as Federal Forces Escort 300 Kenyan Trucks Across Border",
