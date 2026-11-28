@@ -14927,35 +14927,6 @@
   "sum_pending": false
  },
  {
-  "id": "9ffc117f84",
-  "slug": "bell-mts-falls-victim-to-cyberattack-9ffc117f84",
-  "title": "Bell MTS falls victim to cyberattack",
-  "orig_title": "Bell MTS falls victim to cyberattack",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Global News",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSEVqdXVpQzk3Ri04MGFkLVYzUUVDdGJlVF9ETnRGNGs1ck5pNWc3Um1YS1dsdUo3VnVQWHJWRDU4N1ZtZ2laMlIxc01UcUt0eXZYamZVa2o0ZGRBUzBNRFNXM2hXSTc1dGU0ZE9kLTA1ZXdvNmpCYTdwY2tUTW8?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSEVqdXVpQzk3Ri04MGFkLVYzUUVDdGJlVF9ETnRGNGs1ck5pNWc3Um1YS1dsdUo3VnVQWHJWRDU4N1ZtZ2laMlIxc01UcUt0eXZYamZVa2o0ZGRBUzBNRFNXM2hXSTc1dGU0ZE9kLTA1ZXdvNmpCYTdwY2tUTW8",
-  "snippet": "Bell MTS falls victim to cyberattack Global News",
-  "published": "2026-11-23T23:47:17+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T00:11:07.446410+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "3ba148184b",
   "slug": "tsx-composite-index-txcx-profile-press-releases-3ba148184b",
   "title": "TSX Composite Index (TXCX) Profile - Press Releases",
