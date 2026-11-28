@@ -14268,35 +14268,6 @@
   "sum_pending": false
  },
  {
-  "id": "53de42eca6",
-  "slug": "s-p-500-index-inx-profile-press-releases-53de42eca6",
-  "title": "S&P 500 Index (INX) Profile - Press Releases",
-  "orig_title": "S&P 500 Index (INX) Profile - Press Releases",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXY3djV4endCaktkQnIxT0lmSF95cGt1V09Ual9FM0FrSG9kQ3pjZFk4eGFxTUwtWUNFaU03R1VubWtSYzlTdGh6LTFKWFhTNmJCc085NXVaNjcyQWhfcTVvbnUxdGJaamN5VTJvckpiZUVwU2otNS11S2swbU93ODR3?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXY3djV4endCaktkQnIxT0lmSF95cGt1V09Ual9FM0FrSG9kQ3pjZFk4eGFxTUwtWUNFaU03R1VubWtSYzlTdGh6LTFKWFhTNmJCc085NXVaNjcyQWhfcTVvbnUxdGJaamN5VTJvckpiZUVwU2otNS11S2swbU93ODR3",
-  "snippet": "S&P 500 Index (INX) Profile - Press Releases The Globe and Mail",
-  "published": "2026-11-24T07:34:41+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T08:41:08.232029+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "15accab7c5",
   "slug": "charles-reynolds-obituary-1938-2026-valparaiso-formally-of-decatur-in-15accab7c5",
   "title": "Charles Reynolds Obituary (1938 - 2026) - Valparaiso (Formally Of Decatur), IN - Decatur Herald & Review",
@@ -14547,35 +14518,6 @@
   "source_note": "publisher refused (403)",
   "sum_done": true,
   "sum_status": "no source text (publisher refused (403))"
- },
- {
-  "id": "1faec66822",
-  "slug": "healthy-heads-launches-bake-their-day-christmas-campaign-1faec66822",
-  "title": "Healthy Heads launches “Bake Their Day” Christmas campaign",
-  "orig_title": "Healthy Heads launches “Bake Their Day” Christmas campaign",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Prime Mover",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjNNMng3eXNkRmJweFJ4ZWY2ajVSNG85Y0NtRHNOWWdwVzY3dlUwMl9rRV9tbkdSbFBZdVR5N0l1bzVXbVlNVUh0aVZCc2pkNTE4dm5nQWRKcjNOa0FXaFBNdHZIZlp6RzdSX2J2X2pyenhsbGxuWHF6Mlp5bk1pdVRZMk9kOGxCZW9jbzRCVQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjNNMng3eXNkRmJweFJ4ZWY2ajVSNG85Y0NtRHNOWWdwVzY3dlUwMl9rRV9tbkdSbFBZdVR5N0l1bzVXbVlNVUh0aVZCc2pkNTE4dm5nQWRKcjNOa0FXaFBNdHZIZlp6RzdSX2J2X2pyenhsbGxuWHF6Mlp5bk1pdVRZMk9kOGxCZW9jbzRCVQ",
-  "snippet": "Healthy Heads launches “Bake Their Day” Christmas campaign Prime Mover",
-  "published": "2026-11-24T04:03:57+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T08:41:08.232029+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "non-North American source"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "5fbd3f6094",
