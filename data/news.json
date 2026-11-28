@@ -682,6 +682,35 @@
   "sum_pending": false
  },
  {
+  "id": "879563ca1b",
+  "slug": "australia-sanctions-two-individuals-linked-to-the-irgc-for-allegedly-o-879563ca1b",
+  "title": "Australia Sanctions Two Individuals Linked to the IRGC for Allegedly Orchestrating Antisemitic Attacks",
+  "orig_title": "Australia Sanctions Two Individuals Linked to the IRGC for Allegedly Orchestrating Antisemitic Attacks",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Iran Focus",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ2IxOHJrS1J5Z2ZzX0pITjRHTEF1Ymhfb1JhRlRUc3NXSFZ6MmRram5LRUpaQ2xIOXkzejhLTUdzSzNtMkJHRnBHdFJ2Z2tHbmh1UWtMZzFmMEVISlVZSXpFeGFRbmM2S05kYTFmWDQ5OHJITUJtUkMwM0h0VlBuR2ZCVUkzM1B4c1ZlbktEdS1aYVl4TnNZZDBlYVpLemk5OUVTNFhaX0FUTVlsd0gxWTJiVHVtSTB3VWh2WWg2SkhTemJEMXFIYjlXZWs2RDdsYjlhckZ30gHbAUFVX3lxTE1HRVdEYUpLZ0tqclN3Q2JZc2x6M0Q3bEg2MjBKbXlMd0xENDZDQkdUc0kwVnA1aUZKdnFvLUQ4UXhENzg4UXZoZFE5SDc1Z1hiZXA3emhLQjh6eXJYWHRtNThmSW5WQUdTcnJ5ay1IbVhCOERXbDhWbllETEN1WE9MSHp4d2E3WWZwblNGd0UyaFhSSXEwc3dwX0Fhck5tSUpCTVk0NW5XLTJ6SndEeXRIQW14dDhnaGV0S1ZqSWZBSk5MREJDbEpHemtEYzJ4Uk5xMWdxSXZYR2U4UQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ2IxOHJrS1J5Z2ZzX0pITjRHTEF1Ymhfb1JhRlRUc3NXSFZ6MmRram5LRUpaQ2xIOXkzejhLTUdzSzNtMkJHRnBHdFJ2Z2tHbmh1UWtMZzFmMEVISlVZSXpFeGFRbmM2S05kYTFmWDQ5OHJITUJtUkMwM0h0VlBuR2ZCVUkzM1B4c1ZlbktEdS1aYVl4TnNZZDBlYVpLemk5OUVTNFhaX0FUTVlsd0gxWTJiVHVtSTB3VWh2WWg2SkhTemJEMXFIYjlXZWs2RDdsYjlhckZ30gHbAUFVX3lxTE1HRVdEYUpLZ0tqclN3Q2JZc2x6M0Q3bEg2MjBKbXlMd0xENDZDQkdUc0kwVnA1aUZKdnFvLUQ4UXhENzg4UXZoZFE5SDc1Z1hiZXA3emhLQjh6eXJYWHRtNThmSW5WQUdTcnJ5ay1IbVhCOERXbDhWbllETEN1WE9MSHp4d2E3WWZwblNGd0UyaFhSSXEwc3dwX0Fhck5tSUpCTVk0NW5XLTJ6SndEeXRIQW14dDhnaGV0S1ZqSWZBSk5MREJDbEpHemtEYzJ4Uk5xMWdxSXZYR2U4UQ",
+  "snippet": "Australia Sanctions Two Individuals Linked to the IRGC for Allegedly Orchestrating Antisemitic Attacks Iran Focus",
+  "published": "2026-11-27T20:31:56+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T10:21:08.221217+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "story about another country"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "f02d045295",
   "slug": "cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-f02d045295",
   "title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
@@ -14033,35 +14062,6 @@
   "sum_tries": 3,
   "pub_url": "https://www.newsbreak.com/thetrucker-com-315850146/5024890538508-nhtsa-reports-recalls-for-over-8000-trucks",
   "source_note": "ok · 325 words"
- },
- {
-  "id": "59c4b8f1d9",
-  "slug": "russian-forces-launch-90-drones-in-overnight-attack-against-ukraine-59c4b8f1d9",
-  "title": "Russian forces launch 90+ drones in overnight attack against Ukraine",
-  "orig_title": "Russian forces launch 90+ drones in overnight attack against Ukraine",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The New Voice of Ukraine",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXRyLWtRYUotQTNIWVNjYU1ZRmplZXNXWHdlSlpKOTFCSTR4RWVaX3pXSWhFM3BaZHJieTVwTzNsZ0k4TG9YQVY5UWlqREt3Um5hQnB6Ym9mNGk4TVZYNnpYa21HSDk1VFhPOXlyZTJRamw0dkdIbzdzeTIxdHIyZDFQLTlSMHBXd1BNSnA5Zlp3Sk5OQVFjU1o4Vy1Vb242akHSAaIBQVVfeXFMTS10ci1rUWFKLUEzSFlTY2FNWUZqZWVzV1h3ZUpaSjkxQkk0eEVlWl96V0loRTNwWmRyYnk1cE8zbGdJOExvWEFWOVFpakRLd1JuYUJwemJvZjRpOE1WWDZ6WGttR0g5NVRYTzl5cmUyUWpsNHZHSG83c3kyMXRyMmQxUC05UjBwV3dQTUpwOWZad0pOTkFRY1NaOFctVW9uNmpB?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXRyLWtRYUotQTNIWVNjYU1ZRmplZXNXWHdlSlpKOTFCSTR4RWVaX3pXSWhFM3BaZHJieTVwTzNsZ0k4TG9YQVY5UWlqREt3Um5hQnB6Ym9mNGk4TVZYNnpYa21HSDk1VFhPOXlyZTJRamw0dkdIbzdzeTIxdHIyZDFQLTlSMHBXd1BNSnA5Zlp3Sk5OQVFjU1o4Vy1Vb242akHSAaIBQVVfeXFMTS10ci1rUWFKLUEzSFlTY2FNWUZqZWVzV1h3ZUpaSjkxQkk0eEVlWl96V0loRTNwWmRyYnk1cE8zbGdJOExvWEFWOVFpakRLd1JuYUJwemJvZjRpOE1WWDZ6WGttR0g5NVRYTzl5cmUyUWpsNHZHSG83c3kyMXRyMmQxUC05UjBwV3dQTUpwOWZad0pOTkFRY1NaOFctVW9uNmpB",
-  "snippet": "Russian forces launch 90+ drones in overnight attack against Ukraine The New Voice of Ukraine",
-  "published": "2026-11-24T09:14:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T10:21:03.198477+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "c80bf8c1dc",
