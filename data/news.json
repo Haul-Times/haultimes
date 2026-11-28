@@ -14443,63 +14443,6 @@
   "sum_pending": false
  },
  {
-  "id": "2b34f3c55f",
-  "slug": "vallarpadam-truckers-strike-forces-shipping-companies-to-divert-cargo-2b34f3c55f",
-  "title": "Vallarpadam Truckers' Strike Forces Shipping Companies to Divert Cargo to Other States' Ports",
-  "orig_title": "Vallarpadam Truckers' Strike Forces Shipping Companies to Divert Cargo to Other States' Ports",
-  "summary": "",
-  "why": "",
-  "category": "drivers",
-  "region": "Other",
-  "importance": 65,
-  "source": "Deshabhimani",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGVxbFdxQThHWUVUeUVid3JRZ0FvWTRRUThTRVRWR0VmNkpkTnU0bDJaTzNJb0k3RjZVVW9aSXlBb19rRVZsb2lqNjRLZ3ZZU0hqTHREZlpzS2JmTF9mNW5pV2piZmR3Ri1wNV9qdU9rT1BDbU9OZmQyaHVSQzJFeGdXdjQ3VC1fanhNNHQ1ckxXRXFqQVM4c0ZuMVRfb3k3aXNPM3RvU2lNNXlCeTNvQjBFX1lGNVFnU1VRWDloSHNBS3ZVTVE2M1V3eE1Td1h6YnBKaUJDZkNUTTg?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGVxbFdxQThHWUVUeUVid3JRZ0FvWTRRUThTRVRWR0VmNkpkTnU0bDJaTzNJb0k3RjZVVW9aSXlBb19rRVZsb2lqNjRLZ3ZZU0hqTHREZlpzS2JmTF9mNW5pV2piZmR3Ri1wNV9qdU9rT1BDbU9OZmQyaHVSQzJFeGdXdjQ3VC1fanhNNHQ1ckxXRXFqQVM4c0ZuMVRfb3k3aXNPM3RvU2lNNXlCeTNvQjBFX1lGNVFnU1VRWDloSHNBS3ZVTVE2M1V3eE1Td1h6YnBKaUJDZkNUTTg",
-  "snippet": "Vallarpadam Truckers' Strike Forces Shipping Companies to Divert Cargo to Other States' Ports Deshabhimani",
-  "published": "2026-11-24T05:50:27+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T06:01:16.861851+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "Claude judged it off-topic"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "sum_tries": 1,
-  "pub_url": "https://english.deshabhimani.com/deshabhimani-english-/kerala-news/vallarpadam-container-truck-strike-shipping-companies-divert-cargo-kochi-pi1",
-  "source_note": "ok · 204 words",
-  "sum_done": true,
-  "sum_status": "irrelevant",
-  "source_fp": "5e71765a4c44517d",
-  "source_scope": "full_article",
-  "sum_at": "2026-11-24T06:01:16.861851+00:00",
-  "sum_version": 1,
-  "sum_model": "claude-haiku-5-5",
-  "sum_evidence": [
-   {
-    "sentence": "1",
-    "quote": "Shipping companies are reportedly avoiding Vallarpadam"
-   },
-   {
-    "sentence": "2",
-    "quote": "shipping companies are considering shifting cargo to ports in other states, including Mumbai and Chennai"
-   },
-   {
-    "sentence": "3",
-    "quote": "Trailer drivers and workers' unions launched the protest citing health concerns"
-   }
-  ],
-  "sum_problems": [],
-  "ai_category": "drivers",
-  "ai_importance": 10,
-  "ai_relevant": false
- },
- {
   "id": "a0443343ed",
   "slug": "commercial-driver-s-license-nick-castello-application-for-exemption-a0443343ed",
   "title": "Commercial Driver's License: Nick Castello; Application for Exemption",
@@ -15213,35 +15156,6 @@
   "source_note": "excerpt only · 38 words",
   "sum_done": true,
   "sum_status": "excerpt too short to summarize"
- },
- {
-  "id": "c8df852c4d",
-  "slug": "truck-drivers-strike-in-iran-enters-its-second-day-c8df852c4d",
-  "title": "Truck Drivers' Strike in Iran Enters Its Second Day",
-  "orig_title": "Truck Drivers' Strike in Iran Enters Its Second Day",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "Iran Focus",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTcwNkU3T3o1cUpHUy01ODBCUnhtNE4xRkNiQnIzX3lZQnpjQkZoV2FPWTRnMUZkZW1EMUJxRldkUUMtV2pQQXRxVks4RVZpV1VUcFk5aGlCX2EzLTBkbnhwd3JqTG1pRjRFY19Fa2ZqQmlyQ0IzcHhTQmxoVzgtOG9iNXhXdkFMdXYySFVEUUhpUdIBlwFBVV95cUxNeHlJS0l5cG45clhTY0dUd05TQTFJUUM0ZHZPNzlfcDhYLUthTWJ1OVF0eExhX2VGcXBndG5xLVpZWjBrZmFHOEVaMzNpSjJSdjRIU00tNjVsZXBhLWt2T01ObnFDb0RhakdISnE0Ykp1Sm1tb2hURXVJbndGekhOSjJFT3hueDZiZFVZNFUydEVaNTZ2T3lr?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTcwNkU3T3o1cUpHUy01ODBCUnhtNE4xRkNiQnIzX3lZQnpjQkZoV2FPWTRnMUZkZW1EMUJxRldkUUMtV2pQQXRxVks4RVZpV1VUcFk5aGlCX2EzLTBkbnhwd3JqTG1pRjRFY19Fa2ZqQmlyQ0IzcHhTQmxoVzgtOG9iNXhXdkFMdXYySFVEUUhpUdIBlwFBVV95cUxNeHlJS0l5cG45clhTY0dUd05TQTFJUUM0ZHZPNzlfcDhYLUthTWJ1OVF0eExhX2VGcXBndG5xLVpZWjBrZmFHOEVaMzNpSjJSdjRIU00tNjVsZXBhLWt2T01ObnFDb0RhakdISnE0Ykp1Sm1tb2hURXVJbndGekhOSjJFT3hueDZiZFVZNFUydEVaNTZ2T3lr",
-  "snippet": "Truck Drivers' Strike in Iran Enters Its Second Day Iran Focus",
-  "published": "2026-11-23T21:06:09+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T06:07:31.889077+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "story about another country"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "c9bccac913",
