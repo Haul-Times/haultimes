@@ -4632,6 +4632,35 @@
   "sum_status": "no source text (paywalled: excerpt only)"
  },
  {
+  "id": "ac839c7dae",
+  "slug": "ota-caledon-safety-video-goes-viral-40k-views-ac839c7dae",
+  "title": "OTA Caledon Safety Video Goes Viral – 40K Views!",
+  "orig_title": "OTA Caledon Safety Video Goes Viral – 40K Views!",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Ontario Trucking Association",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hWEdLcjJJdnRwSHgyOWZwdjFNbE0wNldaTnl6NjR5TTYtb3dMdHNESjVrR2dsNFpnSEJ3aFY3VWlCdHdTTkV2bEpBNVVjVGVqQjZzNGlsbmdFbUZiS0kwZVlMc19keDZEZUdpRmRTM0pOQW9D?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hWEdLcjJJdnRwSHgyOWZwdjFNbE0wNldaTnl6NjR5TTYtb3dMdHNESjVrR2dsNFpnSEJ3aFY3VWlCdHdTTkV2bEpBNVVjVGVqQjZzNGlsbmdFbUZiS0kwZVlMc19keDZEZUdpRmRTM0pOQW9D",
+  "snippet": "OTA Caledon Safety Video Goes Viral – 40K Views! Ontario Trucking Association",
+  "published": "2026-11-26T08:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T03:31:06.228011+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "consumer vehicle / lifestyle story"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "822543743f",
   "slug": "busan-port-linked-by-blockchain-to-become-a-vast-test-bed-for-physical-822543743f",
   "title": "Busan Port, Linked by Blockchain, to Become a Vast Test Bed for Physical AI",
