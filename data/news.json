@@ -14985,35 +14985,6 @@
   "sum_pending": false
  },
  {
-  "id": "1fb805c010",
-  "slug": "tsx-comp-carbon-price-risk-2030-adj-index-xecp-profile-press-releases-1fb805c010",
-  "title": "TSX Comp Carbon Price Risk 2030 Adj Index (XECP) Profile - Press Releases",
-  "orig_title": "TSX Comp Carbon Price Risk 2030 Adj Index (XECP) Profile - Press Releases",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeUxnR1gxRDkyQnZpVmlDVGF3VjVWclVlNHQ4TmFyU3Y4ZVMwQlZHVTZzdW8zZzlvaVQ2blV1aHZhUUhZenVxRDR5alBWd181VzFreTdmelRrZkQ1VF9qSFFmTXNDY1NDQzM3cW9wZFZsNkE2ZHY4YkkyaEg0bHVsTHNYYw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeUxnR1gxRDkyQnZpVmlDVGF3VjVWclVlNHQ4TmFyU3Y4ZVMwQlZHVTZzdW8zZzlvaVQ2blV1aHZhUUhZenVxRDR5alBWd181VzFreTdmelRrZkQ1VF9qSFFmTXNDY1NDQzM3cW9wZFZsNkE2ZHY4YkkyaEg0bHVsTHNYYw",
-  "snippet": "TSX Comp Carbon Price Risk 2030 Adj Index (XECP) Profile - Press Releases The Globe and Mail",
-  "published": "2026-11-23T23:37:21+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-23T23:51:18.255110+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "f4f1b17cc1",
   "slug": "tsx-utilities-capped-index-ttut-profile-press-releases-f4f1b17cc1",
   "title": "TSX Utilities Capped Index (TTUT) Profile - Press Releases",

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T23:51:03.817937+00:00",
- "hour_now": 18,
+ "updated": "2026-11-28T00:01:02.740852+00:00",
+ "hour_now": 19,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -69,7 +69,7 @@
      17,
      21,
      23,
-     21,
+     20,
      10,
      9,
      1,
@@ -164,7 +164,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -239,7 +239,7 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 6:37 pm EST",
+    "updated": "At 6:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -294,7 +294,7 @@
      9,
      9,
      12,
-     19,
+     18,
      16,
      11,
      2,
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 14,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "2",
-    "status": "delay",
-    "updated": "At 6:37 pm EST",
+    "status": "no delay",
+    "updated": "At 6:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -369,7 +369,7 @@
      2,
      7,
      13,
-     27,
+     26,
      34,
      30,
      16,
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "18:49:17",
+    "updated": "18:59:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 5:00 pm EST",
+    "updated": "At 6:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "18:49:17",
+    "updated": "18:59:17",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1236,7 +1236,7 @@
      9,
      9,
      9,
-     25,
+     23,
      29,
      9,
      0,
@@ -1262,7 +1262,7 @@
      0,
      0,
      0,
-     4,
+     3,
      4,
      0,
      0,
@@ -1386,7 +1386,7 @@
      4,
      5,
      5,
-     8,
+     7,
      8,
      8,
      6,
