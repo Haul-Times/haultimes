@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T00:51:07.269808+00:00",
- "hour_now": 19,
+ "updated": "2026-11-28T01:01:09.927197+00:00",
+ "hour_now": 20,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -44,7 +44,7 @@
      14,
      6,
      6,
-     0,
+     1,
      0,
      0,
      0
@@ -70,7 +70,7 @@
      21,
      23,
      14,
-     10,
+     9,
      9,
      1,
      0
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 17,
+    "wait": 14,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 7:37 pm EST",
+    "updated": "At 7:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -269,7 +269,7 @@
      1,
      6,
      5,
-     0,
+     1,
      0,
      1,
      1
@@ -295,7 +295,7 @@
      9,
      12,
      14,
-     16,
+     15,
      11,
      2,
      3
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 7:37 pm EST",
+    "updated": "At 7:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -370,7 +370,7 @@
      7,
      13,
      20,
-     34,
+     32,
      30,
      16,
      7
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "19:44:21",
+    "updated": "19:54:21",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -689,7 +689,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 pm EST",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -914,7 +914,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 6:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "19:44:21",
+    "updated": "19:54:21",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1237,7 +1237,7 @@
      9,
      9,
      25,
-     29,
+     31,
      9,
      0,
      0
@@ -1263,7 +1263,7 @@
      0,
      0,
      2,
-     4,
+     3,
      0,
      0,
      0
@@ -1387,7 +1387,7 @@
      5,
      5,
      5,
-     8,
+     7,
      8,
      6,
      0
