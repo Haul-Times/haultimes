@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:11:07.487466+00:00",
+ "updated": "2026-11-28T01:21:05.332224+00:00",
  "hour_now": 20,
  "have_us": true,
  "have_ca": true,
@@ -10,11 +10,11 @@
    "ports": "Detroit, MI ↔ Windsor, ON",
    "region": "on-mi",
    "south": {
-    "wait": 15,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "3",
-    "status": "delay",
-    "updated": "At 7:00 pm EST",
+    "status": "no delay",
+    "updated": "At 8:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 15,
+    "wait": 0,
     "fast_wait": null,
     "lanes": "4",
-    "status": "delay",
-    "updated": "At 7:57 pm EST",
+    "status": "no delay",
+    "updated": "At 8:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -295,7 +295,7 @@
      9,
      12,
      14,
-     14,
+     13,
      11,
      2,
      3
@@ -310,11 +310,11 @@
    "ports": "Lewiston, NY ↔ Queenston, ON",
    "region": "on-ny",
    "south": {
-    "wait": 11,
+    "wait": 15,
     "fast_wait": null,
     "lanes": "2",
     "status": "delay",
-    "updated": "At 7:57 pm EST",
+    "updated": "At 8:07 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -344,7 +344,7 @@
      3,
      4,
      2,
-     2,
+     3,
      0,
      0,
      2
@@ -370,7 +370,7 @@
      7,
      13,
      20,
-     29,
+     27,
      30,
      16,
      7
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "20:04:21",
+    "updated": "20:14:22",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -839,7 +839,7 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 4:00 pm EST",
+    "updated": "At 7:00 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "20:04:21",
+    "updated": "20:14:22",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1060,17 +1060,17 @@
    "ports": "Pembina, ND ↔ Emerson, MB",
    "region": "pra",
    "south": {
-    "wait": 0,
+    "wait": 10,
     "fast_wait": null,
     "lanes": "1",
-    "status": "no delay",
-    "updated": "At 5:00 pm CST",
+    "status": "delay",
+    "updated": "At 7:00 pm CST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-27 19:15 CDT"
+    "updated": "2026-11-27 20:09 CDT"
    },
    "usual": {
     "south": [
@@ -1094,7 +1094,7 @@
      0,
      0,
      0,
-     0,
+     1,
      0,
      0,
      0
@@ -1203,10 +1203,10 @@
    "ports": "Sweetgrass, MT ↔ Coutts, AB",
    "region": "pra",
    "south": {
-    "wait": 0,
+    "wait": 50,
     "fast_wait": null,
     "lanes": "1",
-    "status": "no delay",
+    "status": "delay",
     "updated": "At 6:00 pm MST",
     "hours": "24 hrs/day"
    },
@@ -1237,7 +1237,7 @@
      9,
      9,
      25,
-     28,
+     30,
      9,
      0,
      0
@@ -1282,7 +1282,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 4:00 pm PST",
+    "updated": "At 5:00 pm PST",
     "hours": "24 hrs/day"
    },
    "north": {
