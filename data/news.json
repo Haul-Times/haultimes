@@ -61,6 +61,35 @@
   "sum_status": "excerpt too short to summarize"
  },
  {
+  "id": "ef64cbe9b1",
+  "slug": "bad-for-workers-ef64cbe9b1",
+  "title": "BAD FOR WORKERS",
+  "orig_title": "BAD FOR WORKERS",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Trinidad Express Newspapers",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3k4VEJ5RGlWYVh5eTJKUGxRZkV0SlgtQnd1TjBiZTZET3ZsbXkwc21nY2E3UFhWb1pocGM2ajFnT1YyYTdpSGpBdEZGLVNzZHJSVEwzMzg2dkYxMGRYTUdhWDZNTVo1SlB1OXNMeE5oVlRQMW8yd1dLWUV4T2Fxcjk4NFlSQV91RzNiTFUzcHBmbFlucXRhdFB1OFhfdUNsU2c0elNUdXN1SVRu0gGsAUFVX3lxTE5jeThUQnlEaVZhWHl5MkpQbFFmRXRKWC1Cd3VOMGJlNkRPdmxteTBzbWdjYTdQWFZvWmhwYzZqMWdPVjJhN2lIakF0RkYtU3NkclJUTDMzODZ2RjEwZFhNR2FYNk1NWjVKUHU5c0x4TmhWVFAxbzJ3V0tZRXhPYXFyOTg0WVJBX3VHM2JMVTNwcGZsWW5xdGF0UHU4WF91Q2xTZzR6U1R1c3VJVG4?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3k4VEJ5RGlWYVh5eTJKUGxRZkV0SlgtQnd1TjBiZTZET3ZsbXkwc21nY2E3UFhWb1pocGM2ajFnT1YyYTdpSGpBdEZGLVNzZHJSVEwzMzg2dkYxMGRYTUdhWDZNTVo1SlB1OXNMeE5oVlRQMW8yd1dLWUV4T2Fxcjk4NFlSQV91RzNiTFUzcHBmbFlucXRhdFB1OFhfdUNsU2c0elNUdXN1SVRu0gGsAUFVX3lxTE5jeThUQnlEaVZhWHl5MkpQbFFmRXRKWC1Cd3VOMGJlNkRPdmxteTBzbWdjYTdQWFZvWmhwYzZqMWdPVjJhN2lIakF0RkYtU3NkclJUTDMzODZ2RjEwZFhNR2FYNk1NWjVKUHU5c0x4TmhWVFAxbzJ3V0tZRXhPYXFyOTg0WVJBX3VHM2JMVTNwcGZsWW5xdGF0UHU4WF91Q2xTZzR6U1R1c3VJVG4",
+  "snippet": "BAD FOR WORKERS Trinidad Express Newspapers",
+  "published": "2026-11-28T09:00:00+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T10:41:01.361943+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "broken or publisher-only headline"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "21c9f66f32",
   "slug": "sharjah-police-warn-truck-drivers-of-dh1-500-fine-and-12-black-points-21c9f66f32",
   "title": "Sharjah Police warn truck drivers of Dh1,500 fine and 12 black points for lane violations",
