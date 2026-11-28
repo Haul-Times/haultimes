@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:21:09.698853+00:00",
+ "updated": "2026-11-28T13:31:01.793005+00:00",
  "hour_now": 8,
  "have_us": true,
  "have_ca": true,
@@ -164,13 +164,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 am EST",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-28 06:15 EST"
+    "updated": "2026-11-28 08:15 EST"
    },
    "usual": {
     "south": [
@@ -239,13 +239,13 @@
     "fast_wait": null,
     "lanes": "4",
     "status": "no delay",
-    "updated": "At 8:07 am EST",
+    "updated": "At 8:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
-    "wait": 14,
-    "status": "14 minutes",
-    "updated": "2026-11-28 08:00 EST"
+    "wait": 15,
+    "status": "15 minutes",
+    "updated": "2026-11-28 08:20 EST"
    },
    "usual": {
     "south": [
@@ -283,7 +283,7 @@
      5,
      11,
      6,
-     5,
+     6,
      9,
      14,
      6,
@@ -314,13 +314,13 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 8:07 am EST",
+    "updated": "At 8:17 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-28 08:00 EST"
+    "updated": "2026-11-28 08:20 EST"
    },
    "usual": {
     "south": [
@@ -470,7 +470,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-28 06:15 EST"
+    "updated": "2026-11-28 08:15 EST"
    },
    "usual": {
     "south": [
@@ -545,7 +545,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-28 06:15 EST"
+    "updated": "2026-11-28 08:15 EST"
    },
    "usual": {
     "south": [
@@ -685,17 +685,17 @@
    "ports": "Champlain, NY ↔ Lacolle, QC",
    "region": "qc",
    "south": {
-    "wait": null,
-    "fast_wait": null,
-    "lanes": "",
-    "status": "Lanes Closed",
-    "updated": "08:20:19",
+    "wait": 0,
+    "fast_wait": 0,
+    "lanes": "1",
+    "status": "no delay",
+    "updated": "At 9:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-28 08:09 EST"
+    "updated": "2026-11-28 08:15 EST"
    },
    "usual": {
     "south": [
@@ -914,13 +914,13 @@
     "fast_wait": null,
     "lanes": "1",
     "status": "no delay",
-    "updated": "At 7:00 am EST",
+    "updated": "At 8:00 am EST",
     "hours": "24 hrs/day"
    },
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-28 07:15 AST"
+    "updated": "2026-11-28 09:15 AST"
    },
    "usual": {
     "south": [
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "08:20:19",
+    "updated": "08:30:20",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1126,7 +1126,7 @@
      0
     ]
    },
-   "best_south": "Usually fastest around 5 PM",
+   "best_south": "Usually fastest around 8 AM",
    "best_north": "Usually fastest around 12 AM"
   },
   {
@@ -1138,7 +1138,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-28 05:15 CST"
+    "updated": "2026-11-28 07:15 CST"
    },
    "usual": {
     "south": [
@@ -1288,7 +1288,7 @@
    "north": {
     "wait": 5,
     "status": "5 minutes",
-    "updated": "2026-11-28 06:00 PDT"
+    "updated": "2026-11-28 06:20 PDT"
    },
    "usual": {
     "south": [
@@ -1363,7 +1363,7 @@
    "north": {
     "wait": 0,
     "status": "No Delay",
-    "updated": "2026-11-28 06:00 PDT"
+    "updated": "2026-11-28 06:20 PDT"
    },
    "usual": {
     "south": [
