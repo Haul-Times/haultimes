@@ -272,6 +272,35 @@
   "sum_pending": false
  },
  {
+  "id": "51252c5cda",
+  "slug": "shrine-welcomes-truck-pilgrimages-51252c5cda",
+  "title": "Shrine welcomes truck pilgrimages",
+  "orig_title": "Shrine welcomes truck pilgrimages",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "Chronicle Media",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFFvNFFzRHRaVTdHZjZLZEo1cFBRNzJ6TV9EMkNXeS1nTFpUU2JLNjdDdmxwUmxjRkJTWDg2NUhUUGRtc2lxaWdKaUlMa1ljSV9tWU9jMnluYTR4emM5TWt3dnZBaEJZTWZXbXZCV3NQbVVvRmFqeFItUEl2dkVEWW1CYTQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFFvNFFzRHRaVTdHZjZLZEo1cFBRNzJ6TV9EMkNXeS1nTFpUU2JLNjdDdmxwUmxjRkJTWDg2NUhUUGRtc2lxaWdKaUlMa1ljSV9tWU9jMnluYTR4emM5TWt3dnZBaEJZTWZXbXZCV3NQbVVvRmFqeFItUEl2dkVEWW1CYTQ",
+  "snippet": "Shrine welcomes truck pilgrimages Chronicle Media",
+  "published": "2026-11-27T21:10:02+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T00:41:10.450256+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "6b302ef619",
   "slug": "after-50-years-behind-the-wheel-willis-looks-back-on-the-trucking-indu-6b302ef619",
   "title": "After 50 years behind the wheel, Willis looks back on the trucking industry he grew up in",
