@@ -14239,35 +14239,6 @@
   "sum_status": "no source text (publisher refused (403))"
  },
  {
-  "id": "f228de4cca",
-  "slug": "nasdaq-composite-nasx-profile-press-releases-f228de4cca",
-  "title": "Nasdaq Composite (NASX) Profile - Press Releases",
-  "orig_title": "Nasdaq Composite (NASX) Profile - Press Releases",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1VVOV9SM1lzLVNLM1VQdEp2ZHBmVnVMeUZjT0F2R1NHbklhLWtLcmNGS3RzUDMwRTRDR3VzdzMxT2VNTnRkOWs1SVlZNGxsemVhc0lOdzhvbFlaa2pyeldMZ3NOclIwa0gwZE9jcnBtZ0ZneWRQUUxzS0ZSODVtOGE0OA?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1VVOV9SM1lzLVNLM1VQdEp2ZHBmVnVMeUZjT0F2R1NHbklhLWtLcmNGS3RzUDMwRTRDR3VzdzMxT2VNTnRkOWs1SVlZNGxsemVhc0lOdzhvbFlaa2pyeldMZ3NOclIwa0gwZE9jcnBtZ0ZneWRQUUxzS0ZSODVtOGE0OA",
-  "snippet": "Nasdaq Composite (NASX) Profile - Press Releases The Globe and Mail",
-  "published": "2026-11-24T07:41:06+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T08:51:07.036661+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "15accab7c5",
   "slug": "charles-reynolds-obituary-1938-2026-valparaiso-formally-of-decatur-in-15accab7c5",
   "title": "Charles Reynolds Obituary (1938 - 2026) - Valparaiso (Formally Of Decatur), IN - Decatur Herald & Review",
