@@ -160,6 +160,36 @@
   "sum_pending": false
  },
  {
+  "id": "bdd8df96dd",
+  "slug": "sharjah-warns-truck-drivers-of-dh1-500-fine-for-lane-violations-bdd8df96dd",
+  "title": "Sharjah warns truck drivers of Dh1,500 fine for lane violations",
+  "orig_title": "Sharjah warns truck drivers of Dh1,500 fine for lane violations",
+  "summary": "",
+  "why": "",
+  "category": "regs",
+  "region": "",
+  "importance": 51,
+  "source": "The Filipino Times",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2hxbFFSZDF6aEtaU3hZT052enFPTWU1emo1UW9QNkVQVkZqTGpXc3NuT1JyQjFLWHRQaVp3ZDVob2hHb1plYjdvUzFuNko3RDZSU2FNY1hoMUNWbEliSGo0dlZYM1d6Tm9YVmhNeDdQQmllVkhWSUlJWWhLLXRUWG1Mb3RpLWYyN3ZpUndPSElUbHUyMHQtVk5mZ0lzWlNoQ0d0QlJPSjV0dnltaDNzRVpB?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2hxbFFSZDF6aEtaU3hZT052enFPTWU1emo1UW9QNkVQVkZqTGpXc3NuT1JyQjFLWHRQaVp3ZDVob2hHb1plYjdvUzFuNko3RDZSU2FNY1hoMUNWbEliSGo0dlZYM1d6Tm9YVmhNeDdQQmllVkhWSUlJWWhLLXRUWG1Mb3RpLWYyN3ZpUndPSElUbHUyMHQtVk5mZ0lzWlNoQ0d0QlJPSjV0dnltaDNzRVpB",
+  "snippet": "Sharjah warns truck drivers of Dh1,500 fine for lane violations The Filipino Times",
+  "published": "2026-11-28T09:55:26+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T12:51:07.506521+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "duplicate",
+  "reasons": [
+   "same story as: Sharjah Police urge truck drivers to stay in the right lanes to avoid Dhs1,500 fine, 12 bl"
+  ],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "dup_of": "652559138c"
+ },
+ {
   "id": "652559138c",
   "slug": "sharjah-police-urge-truck-drivers-to-stay-in-the-right-lanes-to-avoid-652559138c",
   "title": "Sharjah Police urge truck drivers to stay in the right lanes to avoid Dhs1,500 fine, 12 black points",
