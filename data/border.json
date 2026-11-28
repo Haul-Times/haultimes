@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T02:51:02.140502+00:00",
- "hour_now": 21,
+ "updated": "2026-11-28T03:01:06.097265+00:00",
+ "hour_now": 22,
  "have_us": true,
  "have_ca": true,
  "crossings": [
@@ -235,11 +235,11 @@
    "ports": "Buffalo, NY ↔ Fort Erie, ON",
    "region": "on-ny",
    "south": {
-    "wait": 20,
+    "wait": 16,
     "fast_wait": null,
     "lanes": "4",
     "status": "delay",
-    "updated": "At 9:37 pm EST",
+    "updated": "At 9:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -271,7 +271,7 @@
      5,
      2,
      3,
-     1,
+     2,
      1
     ],
     "north": [
@@ -297,12 +297,12 @@
      14,
      11,
      9,
-     2,
+     3,
      3
     ]
    },
    "best_south": "Usually fastest around 9 AM",
-   "best_north": "Usually fastest around 10 PM"
+   "best_north": "Usually fastest around 3 AM"
   },
   {
    "id": "lewiston",
@@ -314,7 +314,7 @@
     "fast_wait": null,
     "lanes": "2",
     "status": "no delay",
-    "updated": "At 9:37 pm EST",
+    "updated": "At 9:47 pm EST",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -372,7 +372,7 @@
      20,
      22,
      20,
-     16,
+     15,
      7
     ]
    },
@@ -389,7 +389,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "Update Pending",
-    "updated": "21:44:29",
+    "updated": "21:54:29",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -989,7 +989,7 @@
     "fast_wait": null,
     "lanes": "",
     "status": "N/A",
-    "updated": "21:44:29",
+    "updated": "21:54:29",
     "hours": "24 hrs/day"
    },
    "north": {
@@ -1096,7 +1096,7 @@
      0,
      3,
      4,
-     0,
+     1,
      0
     ],
     "north": [
@@ -1239,7 +1239,7 @@
      25,
      34,
      35,
-     0,
+     7,
      0
     ],
     "north": [
