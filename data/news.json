@@ -14092,35 +14092,6 @@
   "sum_pending": false
  },
  {
-  "id": "e550875079",
-  "slug": "no-safe-place-e550875079",
-  "title": "No safe place",
-  "orig_title": "No safe place",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "CBC",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbnlCM3FkS2tHVjBXVHItZVNiWld2cERPa05YTDk0b1JfemNJVjRKYWFLUDBFeGUwbGRTUlZtSXVXYUEwUzJhOFgtcmV5TWx4d3J5cm9zREU1dUxwX1FoSWdCZlZoOXh2eFVDZ2RmSjQybzFadlM2TGlKZlZwQlJsSlAxaXVEQQ?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbnlCM3FkS2tHVjBXVHItZVNiWld2cERPa05YTDk0b1JfemNJVjRKYWFLUDBFeGUwbGRTUlZtSXVXYUEwUzJhOFgtcmV5TWx4d3J5cm9zREU1dUxwX1FoSWdCZlZoOXh2eFVDZ2RmSjQybzFadlM2TGlKZlZwQlJsSlAxaXVEQQ",
-  "snippet": "No safe place CBC",
-  "published": "2026-11-24T09:00:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T09:11:10.302008+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "broken or publisher-only headline"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "c8f15cfef9",
   "slug": "truck-drivers-stage-protests-over-alleged-harassment-c8f15cfef9",
   "title": "Truck Drivers Stage Protests Over Alleged Harassment",
@@ -17260,35 +17231,6 @@
   "sum_problems": [],
   "ai_category": "other",
   "ai_importance": 30
- },
- {
-  "id": "30d7507022",
-  "slug": "getting-home-for-the-holidays-is-not-an-emergency-30d7507022",
-  "title": "Getting Home for the Holidays Is Not an Emergency",
-  "orig_title": "Getting Home for the Holidays Is Not an Emergency",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "EHSLeaders",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnc1QjlGSDY5U01MUERUMlBQQjRaelJhSU10NjZCMG9tZnoydzJhQnZWclpqRTJwQlowdTNsdmNOWjZVTlhGTXo3UUhzRFFJYmpLalpnWlFhWEsxS2E1RWFscE5jaTNkYnNOdlNOZ091RXhwQ0JQb3NfU0RhRVdWMnhodjdhc0JF?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnc1QjlGSDY5U01MUERUMlBQQjRaelJhSU10NjZCMG9tZnoydzJhQnZWclpqRTJwQlowdTNsdmNOWjZVTlhGTXo3UUhzRFFJYmpLalpnWlFhWEsxS2E1RWFscE5jaTNkYnNOdlNOZ091RXhwQ0JQb3NfU0RhRVdWMnhodjdhc0JF",
-  "snippet": "Getting Home for the Holidays Is Not an Emergency EHSLeaders",
-  "published": "2026-11-22T22:02:33+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T09:11:10.302008+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "46294a6900",
