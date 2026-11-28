@@ -14839,36 +14839,6 @@
   "sum_pending": false
  },
  {
-  "id": "59e56a9652",
-  "slug": "refrigerated-spot-rates-jump-18-cents-before-thanksgiving-59e56a9652",
-  "title": "Refrigerated Spot Rates Jump 18 Cents Before Thanksgiving",
-  "orig_title": "Refrigerated Spot Rates Jump 18 Cents Before Thanksgiving",
-  "summary": "",
-  "why": "",
-  "category": "rates",
-  "region": "",
-  "importance": 57,
-  "source": "Wisevoter",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRTdSZzlOdUNEdGVzcUVuakFueFRNVXUwb1VEMnI0TUtKRVBNYWx2Vy0zSWhZOElnZENKMkNvV2JhdG1BUFBTOHY0NkEzR1hXZnVlcFVwNWlFTDFHaW1HeUFab1k3Rl9tajFxWGZ2Sk50TjI5ekh1T0hqQ0ZkSDNEdVJmVzhnR2lPUEI3OWRDelFyYUdy?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRTdSZzlOdUNEdGVzcUVuakFueFRNVXUwb1VEMnI0TUtKRVBNYWx2Vy0zSWhZOElnZENKMkNvV2JhdG1BUFBTOHY0NkEzR1hXZnVlcFVwNWlFTDFHaW1HeUFab1k3Rl9tajFxWGZ2Sk50TjI5ekh1T0hqQ0ZkSDNEdVJmVzhnR2lPUEI3OWRDelFyYUdy",
-  "snippet": "Refrigerated Spot Rates Jump 18 Cents Before Thanksgiving Wisevoter",
-  "published": "2026-11-24T00:52:00+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T02:01:07.149097+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "duplicate",
-  "reasons": [
-   "same story as: Reefer spot rates surge ahead of Thanksgiving"
-  ],
-  "labels": [],
-  "kind": "news",
-  "sum_pending": false,
-  "dup_of": "a5be8b825e"
- },
- {
   "id": "4628c90d65",
   "slug": "epicor-adds-amazon-shipping-to-quick-ship-4628c90d65",
   "title": "Epicor Adds Amazon Shipping to Quick Ship",
