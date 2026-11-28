@@ -1,5 +1,34 @@
 [
  {
+  "id": "79cffef6d2",
+  "slug": "textron-unloads-a-barely-profitable-industrial-business-79cffef6d2",
+  "title": "Textron Unloads a Barely Profitable Industrial Business",
+  "orig_title": "Textron Unloads a Barely Profitable Industrial Business",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "",
+  "importance": 0,
+  "source": "The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlqbHhCcVRnaGxLZFVsejlJUGgwVDF4dzhZRWlzWnBlQ3hUVmRpRkNXX1lnM0cyNFdKYTBOQUo4d1c5VG5pZnBKMzZaMTFORVBmN1oxQXhVSEQzV2pLVjFTalJsMFBHYWpPRGg2dlo3M0JTRGtsYWdQQ2l6REdiWEJZVW4wV2FiMk9SaDZBMUkyc0pxSHRLTF9Vd21NaTRNT0R6M3NIUVp1cmozZDFnN2VJYVlxNllnc1M3dENjMVl3VDMya1JhR3E0MnpBX2pLVW56b2hXRQ?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlqbHhCcVRnaGxLZFVsejlJUGgwVDF4dzhZRWlzWnBlQ3hUVmRpRkNXX1lnM0cyNFdKYTBOQUo4d1c5VG5pZnBKMzZaMTFORVBmN1oxQXhVSEQzV2pLVjFTalJsMFBHYWpPRGg2dlo3M0JTRGtsYWdQQ2l6REdiWEJZVW4wV2FiMk9SaDZBMUkyc0pxSHRLTF9Vd21NaTRNT0R6M3NIUVp1cmozZDFnN2VJYVlxNllnc1M3dENjMVl3VDMya1JhR3E0MnpBX2pLVW56b2hXRQ",
+  "snippet": "Textron Unloads a Barely Profitable Industrial Business The Globe and Mail",
+  "published": "2026-11-28T13:28:48+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T13:41:09.125364+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "rejected",
+  "reasons": [
+   "not about commercial trucking"
+  ],
+  "labels": [],
+  "kind": "rejected",
+  "sum_pending": false
+ },
+ {
   "id": "53b13d9f7a",
   "slug": "diesel-record-squeezes-small-trucking-firms-53b13d9f7a",
   "title": "Diesel Record Squeezes Small Trucking Firms",
@@ -13893,35 +13922,6 @@
   "sum_pending": false
  },
  {
-  "id": "b037179b83",
-  "slug": "tsx-composite-banks-index-txba-profile-press-releases-b037179b83",
-  "title": "TSX Composite Banks Index (TXBA) Profile - Press Releases",
-  "orig_title": "TSX Composite Banks Index (TXBA) Profile - Press Releases",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHMybm85TUxHaEtqNkNmUl92QkN4RlhTMUxPZXI5MWQtR21XZjl6UFg0RGs5dGg0eW5TRWVidVM3elh3U3NIOF9jTmFQb21iWVBfcFVOZVR3SFppM3ZrLUtCekxMVWtGVUtFSnhvZUYwVVRzazZQYlJxcXNTTTVJc2Z0aw?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHMybm85TUxHaEtqNkNmUl92QkN4RlhTMUxPZXI5MWQtR21XZjl6UFg0RGs5dGg0eW5TRWVidVM3elh3U3NIOF9jTmFQb21iWVBfcFVOZVR3SFppM3ZrLUtCekxMVWtGVUtFSnhvZUYwVVRzazZQYlJxcXNTTTVJc2Z0aw",
-  "snippet": "TSX Composite Banks Index (TXBA) Profile - Press Releases The Globe and Mail",
-  "published": "2026-11-24T13:18:47+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T13:31:17.370329+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
- },
- {
   "id": "8db9c0ae02",
   "slug": "changes-to-inspection-rules-at-food-plants-putting-safety-at-risk-unio-8db9c0ae02",
   "title": "Changes to inspection rules at food plants putting safety at risk: union",
@@ -14020,35 +14020,6 @@
   "ai_importance": 35,
   "sum_v4": true,
   "ai_category": "drivers"
- },
- {
-  "id": "27e8552dbb",
-  "slug": "breaking-massive-three-alarm-fire-tears-through-union-township-warehou-27e8552dbb",
-  "title": "BREAKING: Massive Three-Alarm Fire Tears Through Union Township Warehouse",
-  "orig_title": "BREAKING: Massive Three-Alarm Fire Tears Through Union Township Warehouse",
-  "summary": "",
-  "why": "",
-  "category": "other",
-  "region": "",
-  "importance": 0,
-  "source": "RLS Media",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3M5VzFyN1E5MWZoVlBuekpjcmxkQVdyeEZvSUJ5b1E4V0lNUWp2T0p0eFJVQ1NVOWF5bkVxSVprUjZDMEVvWXRVSWwycW5OT1pwTXJFRWNQdWN2Y3hJdnlzcEJqbzhkZkxnUWs0Y2NFallNT1pDYWhmNXV5VlJHTjBaZHQ5VG9lRDlRa1hZY3FlMzZBWlRLd2Jsbnk4SHI2RUdmelYzTVU?oc=5",
-  "url_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3M5VzFyN1E5MWZoVlBuekpjcmxkQVdyeEZvSUJ5b1E4V0lNUWp2T0p0eFJVQ1NVOWF5bkVxSVprUjZDMEVvWXRVSWwycW5OT1pwTXJFRWNQdWN2Y3hJdnlzcEJqbzhkZkxnUWs0Y2NFallNT1pDYWhmNXV5VlJHTjBaZHQ5VG9lRDlRa1hZY3FlMzZBWlRLd2Jsbnk4SHI2RUdmelYzTVU",
-  "snippet": "BREAKING: Massive Three-Alarm Fire Tears Through Union Township Warehouse RLS Media",
-  "published": "2026-11-24T11:13:39+00:00",
-  "date_known": true,
-  "first_seen": "2026-11-24T13:31:17.370329+00:00",
-  "image": "",
-  "ai": false,
-  "lang": "en",
-  "source_type": "reporting",
-  "status": "rejected",
-  "reasons": [
-   "not about commercial trucking"
-  ],
-  "labels": [],
-  "kind": "rejected",
-  "sum_pending": false
  },
  {
   "id": "0acecd0bcd",
