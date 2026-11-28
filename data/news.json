@@ -1,5 +1,77 @@
 [
  {
+  "id": "53b13d9f7a",
+  "slug": "diesel-record-squeezes-small-trucking-firms-53b13d9f7a",
+  "title": "Diesel Record Squeezes Small Trucking Firms",
+  "orig_title": "Diesel Record Squeezes Small Trucking Firms",
+  "summary": "",
+  "why": "",
+  "category": "other",
+  "region": "US",
+  "importance": 45,
+  "source": "Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHVNc1pMeGtLa2Fnejd2d3JmOWFNOEJ0M1FQTUpqNDM2dFRkSm1QZGp3LVpQbjJXazB0YUNBeXpNb1ZteXdROHNmanMtb2VTdHdBcDEybnRCSERHZ2g0MWhkYmpfSWEzWmhrSFVWSklJV2ZEV1U3SG5PZHJGdVB4STZ0Unk4SjYxZV9yMnlacnVpY3pmT1E?oc=5",
+  "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHVNc1pMeGtLa2Fnejd2d3JmOWFNOEJ0M1FQTUpqNDM2dFRkSm1QZGp3LVpQbjJXazB0YUNBeXpNb1ZteXdROHNmanMtb2VTdHdBcDEybnRCSERHZ2g0MWhkYmpfSWEzWmhrSFVWSklJV2ZEV1U3SG5PZHJGdVB4STZ0Unk4SjYxZV9yMnlacnVpY3pmT1E",
+  "snippet": "Diesel Record Squeezes Small Trucking Firms Wisevoter",
+  "published": "2026-11-28T12:17:30+00:00",
+  "date_known": true,
+  "first_seen": "2026-11-28T12:25:47.027458+00:00",
+  "image": "",
+  "ai": false,
+  "lang": "en",
+  "source_type": "reporting",
+  "status": "ok",
+  "reasons": [],
+  "labels": [],
+  "kind": "news",
+  "sum_pending": false,
+  "sum_tries": 1,
+  "pub_url": "https://wisevoter.com/world/us/2026/11/28/record-diesel-prices-squeeze-small-trucking-firms",
+  "source_note": "ok · 551 words",
+  "sum_done": true,
+  "sum_status": "withheld",
+  "source_fp": "3e139619302d6c10",
+  "source_scope": "full_article",
+  "sum_at": "2026-11-28T12:25:47.027458+00:00",
+  "sum_version": 1,
+  "sum_model": "claude-haiku-5-5",
+  "sum_evidence": [
+   {
+    "sentence": "1",
+    "quote": "Small carriers have responded by raising rates"
+   },
+   {
+    "sentence": "2",
+    "quote": "record national average of $6.53 a gallon in September"
+   },
+   {
+    "sentence": "2",
+    "quote": "about 56% above pre-war levels"
+   },
+   {
+    "sentence": "3",
+    "quote": "Truckload and refrigerated carriers reported average operating margins below 1% in 2025"
+   },
+   {
+    "sentence": "3",
+    "quote": "flatbed carriers averaged a 0.5% operating loss"
+   },
+   {
+    "sentence": "4",
+    "quote": "raised its 2027 diesel forecast by 54 cents"
+   },
+   {
+    "sentence": "5",
+    "quote": "directed the IRS to suspend federal penalties and reporting requirements"
+   }
+  ],
+  "sum_problems": [
+   "copies a 12-word run from the source: 'president donald trump directed the irs to suspend federal penalties a'"
+  ],
+  "ai_category": "fuel",
+  "ai_importance": 70
+ },
+ {
   "id": "4a8674c424",
   "slug": "up-to-12-black-points-sharjah-issues-road-safety-advisory-for-truck-dr-4a8674c424",
   "title": "Up to 12 black points: Sharjah issues road safety advisory for truck drivers",

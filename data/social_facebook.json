@@ -6385,7 +6385,8 @@
   "f02d045295": "posted|importance 73 (threshold 65), Cross-Border, trade publication; waited 19 min in queue",
   "6b302ef619": "skipped|importance 60 is below this platform's threshold (65)",
   "35ad171ba0": "skipped|importance 45 is below this platform's threshold (65)",
-  "652559138c": "skipped|importance 45 is below this platform's threshold (65)"
+  "652559138c": "skipped|importance 45 is below this platform's threshold (65)",
+  "53b13d9f7a": "skipped|importance 45 is below this platform's threshold (65)"
  },
  "decisions": [
   {
@@ -13084,6 +13085,13 @@
    "at": "2026-11-28T09:41:24.711560+00:00",
    "story_id": "652559138c",
    "title": "Sharjah Police urge truck drivers to stay in the right lanes to avoid Dhs1,500 fine, 12 black points",
+   "action": "skipped",
+   "reason": "importance 45 is below this platform's threshold (65)"
+  },
+  {
+   "at": "2026-11-28T12:26:24.259350+00:00",
+   "story_id": "53b13d9f7a",
+   "title": "Diesel Record Squeezes Small Trucking Firms",
    "action": "skipped",
    "reason": "importance 45 is below this platform's threshold (65)"
   }
